@@ -1,0 +1,254 @@
+{
+  "_meta": {
+    "title": "Israeli Cinema Funds — Conflicts of Interest Dataset (v0.1, prototype)",
+    "title_he": "תעשיית הקולנוע הישראלי — מערכת נתונים לניתוח ניגודי עניינים",
+    "source_document": "Israel-report-1 (1).pdf",
+    "source_pages": 24,
+    "extracted_on": "2026-04-20",
+    "tier_legend": {
+      "documented": "Backed by a primary public source (URL in evidence) — defensible publicly",
+      "reported": "Stated in the source PDF and footnoted, not personally re-verified yet",
+      "alleged": "Stated in PDF but PDF itself flags as unverified ('לא ניתן לאמת')"
+    },
+    "notes": "This is the v0.1 dataset built ONLY from the client-supplied PDF. Phase 2 will enrich from filmfund.org.il, rabinovichfoundation.org.il, gesherfilmfund.org.il, gov.il contracts, guidestar.org.il, and the Tefen Report 2017."
+  },
+
+  "institutions": [
+    { "id": "fund_rabinovich",  "name_he": "קרן רבינוביץ' לאמנויות",                "name_en": "Rabinovich Foundation for the Arts", "type": "fund", "founded": null, "url": "https://www.rabinovichfoundation.org.il" },
+    { "id": "fund_gesher",      "name_he": "קרן גשר לקולנוע רב-תרבותי",             "name_en": "Gesher Multicultural Film Fund",     "type": "fund", "founded": null, "url": "https://gesherfilmfund.org.il" },
+    { "id": "fund_film",        "name_he": "קרן הקולנוע הישראלי",                    "name_en": "Israeli Film Fund",                  "type": "fund", "founded": null, "url": "https://www.filmfund.org.il" },
+    { "id": "fund_jerusalem",   "name_he": "קרן הקולנוע של הרשות לפיתוח ירושלים",   "name_en": "Jerusalem Film & TV Fund",            "type": "fund" },
+    { "id": "fund_makor",       "name_he": "קרן מקור",                                "name_en": "Makor Foundation",                    "type": "fund" },
+    { "id": "fund_judea",       "name_he": "קרן יהודה ושומרון",                       "name_en": "Judea & Samaria Fund",                "type": "fund" },
+    { "id": "fund_new_film_tv", "name_he": "הקרן החדשה לקולנוע וטלוויזיה",           "name_en": "New Israeli Foundation for Cinema & TV", "type": "fund" },
+    { "id": "fund_encourage",   "name_he": "הקרן לעידוד הסרט הישראלי (ע\"ר)",         "name_en": "Israeli Film Encouragement Fund (NPO)", "type": "fund" },
+    { "id": "assoc_cinema",     "name_he": "התאחדות ענף הקולנוע בישראל (ע\"ר)",      "name_en": "Israeli Cinema Industry Association (NPO)", "type": "association" },
+
+    { "id": "ministry_culture", "name_he": "משרד התרבות והספורט",                    "name_en": "Ministry of Culture & Sport",        "type": "ministry" },
+    { "id": "council_cinema",   "name_he": "מועצת הקולנוע הישראלית",                 "name_en": "Israeli Cinema Council",             "type": "council" },
+
+    { "id": "co_united_king",   "name_he": "יונייטד קינג",                            "name_en": "United King Films",                  "type": "production_distribution" },
+    { "id": "co_nmc",           "name_he": "NMC",                                     "name_en": "NMC United",                          "type": "production" },
+    { "id": "co_cinema_city",   "name_he": "סינמה סיטי",                              "name_en": "Cinema City (theater chain)",         "type": "exhibition" },
+
+    { "id": "fest_jerusalem",   "name_he": "פסטיבל הקולנוע ירושלים",                  "name_en": "Jerusalem Film Festival",             "type": "festival" },
+    { "id": "fest_haifa",       "name_he": "פסטיבל הקולנוע חיפה",                     "name_en": "Haifa International Film Festival",   "type": "festival" }
+  ],
+
+  "people": [
+    { "id": "p_edri_moshe",        "name_he": "משה אדרי",            "name_en": "Moshe Edri",          "primary_roles": ["producer","distributor","exhibitor"] },
+    { "id": "p_edri_leon",         "name_he": "לאון אדרי",           "name_en": "Leon Edri",           "primary_roles": ["producer","distributor","exhibitor"] },
+    { "id": "p_cohen_eti",         "name_he": "אתי כהן",              "name_en": "Eti Cohen",           "primary_roles": ["regulator"] },
+    { "id": "p_eini_giora",        "name_he": "גיורא עיני",           "name_en": "Giora Eini",          "primary_roles": ["fund_ceo","lector"] },
+    { "id": "p_abramovich_yoav",   "name_he": "יואב אברמוביץ'",       "name_en": "Yoav Abramovich",     "primary_roles": ["fund_ceo","artistic_director","lector","producer"] },
+    { "id": "p_naveh_ziv",         "name_he": "זיו נווה",             "name_en": "Ziv Naveh",           "primary_roles": ["fund_ceo","director","producer"] },
+    { "id": "p_ingber_nachman",    "name_he": "נחמן אינגבר",          "name_en": "Nachman Ingber",      "primary_roles": ["lector"] },
+    { "id": "p_shamir_sharon",     "name_he": "שרון שמיר",            "name_en": "Sharon Shamir",       "primary_roles": ["lector"] },
+    { "id": "p_tropper_chili",     "name_he": "חילי טרופר",           "name_en": "Chili Tropper",       "primary_roles": ["minister"] },
+    { "id": "p_tropper_daniel",    "name_he": "ד\"ר דניאל טרופר",      "name_en": "Dr. Daniel Tropper",  "primary_roles": ["fund_founder"] },
+    { "id": "p_livnat_limor",     "name_he": "לימור לבנת",           "name_en": "Limor Livnat",        "primary_roles": ["minister"] },
+    { "id": "p_reich_oren",      "name_he": "אורן רייך",            "name_en": "Oren Reich",          "primary_roles": ["lector","consultant"] },
+
+    { "id": "p_manor_amir",        "name_he": "עמיר מנור",            "name_en": "Amir Manor",          "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_gilat_li",          "name_he": "לי גילת",              "name_en": "Li Gilat",            "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_zlait_amnon",       "name_he": "אמנון זלאייט",         "name_en": "Amnon Zlait",         "primary_roles": ["lector","cinematographer"] },
+    { "id": "p_granit_tal",        "name_he": "טל גרניט",             "name_en": "Tal Granit",          "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_mimon_sharon",      "name_he": "שרון מימון",           "name_en": "Sharon Mimon",        "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_korem_efrat",       "name_he": "אפרת כורם",            "name_en": "Efrat Korem",         "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_geri_dita",         "name_he": "דיתה גרי",             "name_en": "Dita Geri",           "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_shaer_israela",     "name_he": "ישראלה שאער מעודד",     "name_en": "Israela Shaer-Meoded","primary_roles": ["lector","filmmaker"] },
+    { "id": "p_braun_netaly",      "name_he": "נטעלי בראון",          "name_en": "Netaly Braun",        "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_balulu_rafael",     "name_he": "רפאל בלולו",           "name_en": "Rafael Balulu",       "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_prudovsky_leon",   "name_he": "לאון פרודובסקי",        "name_en": "Leon Prudovsky",      "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_kaplun_arik",      "name_he": "אריק קפלון",            "name_en": "Arik Kaplun",         "primary_roles": ["lector","filmmaker","workshop_leader"] },
+    { "id": "p_arraf_suha",       "name_he": "סוהא עארף",             "name_en": "Suha Arraf",          "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_heller_gur",      "name_he": "גור הלר",                "name_en": "Gur Heller",          "primary_roles": ["lector","script_editor"] },
+    { "id": "p_keidar_roni",     "name_he": "רוני קידר",              "name_en": "Roni Keidar",         "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_ruman_yevgeny",   "name_he": "יבגני רומן",             "name_en": "Yevgeny Ruman",       "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_hovel_idan",     "name_he": "עידן הובל",               "name_en": "Idan Hovel",          "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_abuwail_taufik", "name_he": "תאופיק אבו ואיל",          "name_en": "Tawfik Abu-Wael",     "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_dreifus_maya",   "name_he": "מיה דרייפוס",             "name_en": "Maya Dreifuss",       "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_zamir_smadar",   "name_he": "סמדר זמיר",               "name_en": "Smadar Zamir",        "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_bilu_vidi",      "name_he": "ורדית (וידי) בילו",        "name_en": "Vardit (Vidi) Bilu", "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_mizrahi_kobi",   "name_he": "קובי מזרחי",              "name_en": "Kobi Mizrahi",        "primary_roles": ["lector","post_production"] },
+    { "id": "p_azuz_sari",      "name_he": "שרי עזוז-ברגר",            "name_en": "Sari Azuz-Berger",    "primary_roles": ["lector","editor"] },
+    { "id": "p_goldberg_dana",  "name_he": "דנה גולדברג",             "name_en": "Dana Goldberg",       "primary_roles": ["lector","filmmaker","author"] },
+    { "id": "p_almo_esti",      "name_he": "אסתי עלמו-וקסלר",          "name_en": "Esti Almo-Wexler",    "primary_roles": ["lector","filmmaker"] },
+
+    { "id": "p_rohe_yair",       "name_he": "יאיר רוה",                "name_en": "Yair Rohe",           "primary_roles": ["council_member","filmmaker"] },
+    { "id": "p_tsadok_arnon",    "name_he": "ארנון צדוק",              "name_en": "Arnon Tsadok",        "primary_roles": ["council_member","filmmaker"] },
+    { "id": "p_divon_hava",      "name_he": "חוה דיבון",                "name_en": "Hava Divon",          "primary_roles": ["council_member","mentor"] },
+    { "id": "p_vanig_marlin",    "name_he": "מרלין וניג",               "name_en": "Marlin Vanig",        "primary_roles": ["council_member","mentor"] },
+    { "id": "p_gliss_israel",    "name_he": "הרב ישראל גליס",            "name_en": "Rabbi Israel Gliss", "primary_roles": ["council_member","mentor"] },
+    { "id": "p_bukofzer_osnat",  "name_he": "אסנת בוקופצר",             "name_en": "Osnat Bukofzer",      "primary_roles": ["council_member","post_production","fund_staff"] },
+    { "id": "p_shanhav_noam",    "name_he": "נועם שנהב",                "name_en": "Noam Shanhav",        "primary_roles": ["council_member","actor"] },
+    { "id": "p_azulai_golan",    "name_he": "גולן אזולאי",              "name_en": "Golan Azulai",        "primary_roles": ["council_member","actor"] },
+    { "id": "p_cherner_arie",   "name_he": "אריה צ'רנר",               "name_en": "Arie Cherner",        "primary_roles": ["council_member","actor"] },
+    { "id": "p_amrani_gavriel", "name_he": "גבריאל עמרני גור",          "name_en": "Gavriel Amrani-Gur", "primary_roles": ["council_member","actor"] },
+    { "id": "p_kaplan_irit",    "name_he": "עירית קפלן",               "name_en": "Irit Kaplan",         "primary_roles": ["council_member","actress"] },
+    { "id": "p_shoki_inbal",    "name_he": "ענבל שוקי",                "name_en": "Inbal Shoki",         "primary_roles": ["council_member","costume_designer","makeup"] },
+    { "id": "p_blali_revital",  "name_he": "רביטל בללי צימרינג",        "name_en": "Revital Blali-Zimmering", "primary_roles": ["council_member","lector"] },
+
+    { "id": "p_feller_nili",     "name_he": "נילי פלר",                "name_en": "Nili Feller",         "primary_roles": ["festival_judge","editor"] },
+    { "id": "p_medalia_hila",    "name_he": "הילה מדליה",               "name_en": "Hila Medalia",       "primary_roles": ["festival_judge","producer"] },
+    { "id": "p_goldman_shai",    "name_he": "שי גולדמן",                "name_en": "Shai Goldman",       "primary_roles": ["festival_judge","cinematographer"] },
+    { "id": "p_moreh_dror",      "name_he": "דרור מורה",                "name_en": "Dror Moreh",         "primary_roles": ["festival_judge","filmmaker"] },
+    { "id": "p_yogev_saar",      "name_he": "סער יוגב",                  "name_en": "Saar Yogev",         "primary_roles": ["festival_judge","producer"] },
+    { "id": "p_glazer_einat",    "name_he": "עינת גלזר זרחין",            "name_en": "Einat Glazer-Zarchin", "primary_roles": ["festival_judge","editor"] },
+    { "id": "p_tsiko_eti",       "name_he": "אתי ציקו",                  "name_en": "Eti Tsiko",          "primary_roles": ["festival_staff","filmmaker"] }
+  ],
+
+  "roles": [
+    { "person_id": "p_edri_moshe",     "inst_id": "co_nmc",          "role": "chairman_owner",       "since": null,  "until": null,  "tier": "documented", "evidence": ["https://newmedia.calcalist.co.il/magazine-21-07-03/m22.html"] },
+    { "person_id": "p_edri_moshe",     "inst_id": "co_united_king",  "role": "co_owner",             "since": null,  "until": null,  "tier": "documented", "evidence": ["https://he.wikipedia.org/wiki/משה_אדרי_(קולנוען)"] },
+    { "person_id": "p_edri_moshe",     "inst_id": "co_cinema_city",  "role": "co_founder",           "since": "2000s","until": null, "tier": "documented", "evidence": ["https://www.calcalist.co.il/style/article/hjj48fflo"] },
+    { "person_id": "p_edri_leon",      "inst_id": "co_united_king",  "role": "co_owner",             "since": null,  "until": null,  "tier": "documented" },
+    { "person_id": "p_edri_leon",      "inst_id": "co_cinema_city",  "role": "co_founder",           "since": "2000s","until": null, "tier": "documented" },
+
+    { "person_id": "p_cohen_eti",      "inst_id": "ministry_culture","role": "head_of_film_dept_and_council", "since": "1999", "until": "2021", "tier": "documented", "evidence": ["https://www.forumtarbut.org.il/wp-content/uploads/2021/06/Division-Managers.pdf"] },
+
+    { "person_id": "p_eini_giora",     "inst_id": "fund_rabinovich", "role": "ceo",                  "since": "1995", "until": null,  "tier": "documented", "evidence": ["https://www.rabinovichfoundation.org.il/index.php/about"], "flags": ["term_limit_violation_per_2019_amendment"] },
+    { "person_id": "p_eini_giora",     "inst_id": "fund_rabinovich", "role": "lector_appeals_committee", "since": null, "until": null, "tier": "reported", "details": "Sat on 4 appeals where same lector also evaluated original application" },
+
+    { "person_id": "p_abramovich_yoav","inst_id": "fund_rabinovich", "role": "co_ceo",               "since": "2019", "until": null,  "tier": "documented", "evidence": ["https://www.rabinovichfoundation.org.il/index.php/about"] },
+    { "person_id": "p_abramovich_yoav","inst_id": "fund_rabinovich", "role": "artistic_director",    "since": "2015", "until": null,  "tier": "documented", "flags": ["term_limit_violation_per_2019_amendment"] },
+    { "person_id": "p_abramovich_yoav","inst_id": "fund_rabinovich", "role": "lector",               "since": null, "until": null, "tier": "reported", "details": "Present in ~45% of applications discussed; sat on 26 cases also adjudicating appeals" },
+
+    { "person_id": "p_naveh_ziv",      "inst_id": "fund_gesher",     "role": "ceo",                  "since": null,  "until": null,  "tier": "documented", "evidence": ["https://jfc.org.il/official/זיו-נווה/"] },
+    { "person_id": "p_tropper_daniel", "inst_id": "fund_gesher",     "role": "founder",              "since": null,  "until": null,  "tier": "documented" },
+    { "person_id": "p_tropper_chili",  "inst_id": "ministry_culture","role": "minister",             "since": null,  "until": null,  "tier": "documented" },
+    { "person_id": "p_livnat_limor",   "inst_id": "ministry_culture","role": "minister",             "since": null,  "until": null,  "tier": "documented" },
+
+    { "person_id": "p_reich_oren",    "inst_id": "fund_judea",       "role": "consultant",            "since": null, "until": null, "tier": "reported" },
+    { "person_id": "p_reich_oren",    "inst_id": "fund_gesher",      "role": "listed_lector",         "since": null, "until": null, "tier": "reported", "evidence": ["https://gesherfilmfund.org.il/Page/15/"] },
+
+    { "person_id": "p_bukofzer_osnat", "inst_id": "council_cinema",  "role": "council_member",       "since": null, "until": null, "tier": "documented" },
+    { "person_id": "p_bukofzer_osnat", "inst_id": "fund_rabinovich", "role": "head_of_external_relations", "since": "2017", "until": null, "tier": "documented", "evidence": ["https://www.linkedin.com/in/osnat-bukofzer-4895862b/"] },
+
+    { "person_id": "p_blali_revital", "inst_id": "council_cinema",  "role": "council_member_then_lector", "since": null, "until": null, "tier": "documented" },
+    { "person_id": "p_blali_revital", "inst_id": "fund_rabinovich", "role": "lector",                "since": "2019", "until": null, "tier": "documented" }
+  ],
+
+  "key_findings": [
+    {
+      "id": "f_edri_concentration",
+      "title_he": "ריכוזיות אדרי / יונייטד קינג בקרן רבינוביץ' וקרן הקולנוע",
+      "title_en": "Edri / United King concentration in Rabinovich + Film Fund",
+      "tier": "documented",
+      "metrics": [
+        { "label_he": "סך השקעת הקרנות בסרטים עלילתיים 2015–2021", "value_ils": 261347115 },
+        { "label_he": "סך שקיבל אדרי כמפיק משתי קרנות אלו",          "value_ils": 104333500, "share_of_total_pct": 35 },
+        { "label_he": "מספר סרטים שהפיק אדרי בתקופה זו",              "value": 85 },
+        { "label_he": "אחוז שמומנו ע\"י קרן רבינוביץ'",               "share_pct": 78, "value": 68 },
+        { "label_he": "אחוז שמומנו ע\"י קרן הקולנוע",                 "share_pct": 22, "value": 17 },
+        { "label_he": "% מכלל כספי קרן רבינוביץ' שניתנו לאדרי/יונייטד-קינג", "share_pct": 49 }
+      ]
+    },
+    {
+      "id": "f_99_no_lector",
+      "title_he": "99 סרטים שקיבלו מימון ללא משוב לקטור (2012–2016)",
+      "tier": "documented",
+      "metrics": [
+        { "label_he": "סה\"כ סרטים שאושרו לתמיכה",            "value": 464 },
+        { "label_he": "סרטים שלא עברו לקטורה כלל",             "value": 99,  "share_pct": 21 },
+        { "label_he": "מתוכם הופקו ע\"י האחים אדרי",            "value": 24,  "share_pct_of_99": 67 }
+      ],
+      "source": "דוח תפן, 2017"
+    },
+    {
+      "id": "f_lector_appeals",
+      "title_he": "לקטורים שדנו גם בבקשה המקורית וגם בערר עליה",
+      "tier": "documented",
+      "metrics": [
+        { "person": "p_abramovich_yoav", "fund": "fund_rabinovich", "cases": 26 },
+        { "person": "p_eini_giora",      "fund": "fund_rabinovich", "cases": 4 },
+        { "person": "p_ingber_nachman",  "fund": "fund_rabinovich", "cases": 4 },
+        { "person": "p_shamir_sharon",   "fund": "fund_gesher",     "cases": 6 }
+      ]
+    },
+    {
+      "id": "f_revenue_inflation",
+      "title_he": "חשד לניפוח הכנסות בקרן רבינוביץ' מול יונייטד קינג / התאחדות ענף הקולנוע",
+      "tier": "reported",
+      "metrics_by_year": {
+        "2017": { "united_king": 1500000, "shitup": 0,        "total": 1500000, "ngo_reported": 0       },
+        "2018": { "united_king": 2150000, "shitup": 1500000,  "total": 3650000, "ngo_reported": 1500000 },
+        "2019": { "united_king": 0,       "shitup": 2250000,  "total": 2250000, "ngo_reported": 1000000, "discrepancy_ils": 1250000 },
+        "2020": { "united_king": 0,       "shitup": 2250000,  "total": 2250000, "ngo_reported": null    }
+      }
+    },
+    {
+      "id": "f_amendment_uplift",
+      "title_he": "גידול תמיכות בעקבות תיקוני 2014 ו-2019 (הוראת שעה)",
+      "tier": "documented",
+      "metrics": [
+        { "fund": "fund_rabinovich", "amendment_year": 2014, "uplift_pct": 9 },
+        { "fund": "fund_rabinovich", "amendment_year": 2019, "uplift_pct": 29 },
+        { "fund": "fund_gesher",     "amendment_year": 2014, "uplift_pct": 149 },
+        { "fund": "fund_gesher",     "amendment_year": 2019, "uplift_pct": 82 }
+      ]
+    }
+  ],
+
+  "edges_lector_grant_overlap": [
+    { "person_id": "p_manor_amir",       "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich"], "films_funded": ["פרחים של מרציפן (2014, קרן הקולנוע)","אני לא מאמין אני רובוט (2015, קרן הקולנוע)","הבית ברחוב פין (2018, רבינוביץ')","השחיין (2021, קרן הקולנוע)"], "no_lector_films": ["אני לא מאמין אני רובוט","הבית ברחוב פין"], "tier": "documented" },
+    { "person_id": "p_gilat_li",         "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich","fund_gesher"], "films_funded": ["הקפות (2014, קרן הקולנוע)","המילים הטובות (2015, רבינוביץ')","הפוכות (2016, רבינוביץ')","יום רגיל (2018, גשר)"], "tier": "documented" },
+    { "person_id": "p_zlait_amnon",      "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_rabinovich","fund_gesher"], "films_funded_credits": ["ציפורי חול (צלם)","ג'נקשן 48 (צלם)","מועדון החנונים (צלם)","גיבור בעננים","הארוחה"], "tier": "documented" },
+    { "person_id": "p_granit_tal",       "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich"], "films_funded": ["הנשף (2018, קרן הקולנוע)","אומי ראליה (2019, רבינוביץ')","סוף טוב (2021, רבינוביץ')"], "no_lector_films": ["הנשף"], "tier": "documented" },
+    { "person_id": "p_mimon_sharon",     "funds_as_lector": ["fund_film","fund_rabinovich"],               "funds_as_grantee": ["fund_film","fund_rabinovich"], "films_funded": ["בייבי בומביי (2019)","אומי ראליה (2019)","הנשף (2018)","סוף טוב (2021)"], "tier": "documented" },
+    { "person_id": "p_korem_efrat",      "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_rabinovich","fund_gesher"], "tier": "documented" },
+    { "person_id": "p_geri_dita",        "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_rabinovich","fund_gesher"], "tier": "documented" },
+    { "person_id": "p_shaer_israela",    "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_rabinovich"], "films_funded": ["אישה (2019, רבינוביץ')"], "tier": "documented" },
+    { "person_id": "p_braun_netaly",     "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich"], "tier": "documented" },
+    { "person_id": "p_balulu_rafael",    "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_rabinovich"], "films_funded": ["מרגלים טובים (2021, רבינוביץ')"], "tier": "documented" },
+    { "person_id": "p_prudovsky_leon",   "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich","fund_gesher"], "tier": "documented" },
+    { "person_id": "p_kaplun_arik",      "funds_as_lector": ["fund_film","fund_rabinovich"],               "funds_as_grantee": ["fund_film","fund_rabinovich"], "films_funded": ["HOME (2021, קרן הקולנוע)"], "details": "Also paid as workshop leader by Ministry of Culture / Rabinovich / Gesher / Screenwriters Guild", "tier": "documented" },
+    { "person_id": "p_arraf_suha",       "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_gesher","fund_rabinovich"], "films_funded": ["וילה תומא (2014, קרן הקולנוע)"], "tier": "documented" },
+    { "person_id": "p_heller_gur",       "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich","fund_gesher"], "films_funded": ["מוטלים בספק (2017, קרן הקולנוע — עורך תסריט)"], "tier": "documented" },
+    { "person_id": "p_keidar_roni",      "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_gesher"], "films_funded": ["משפחה (2015, קרן הקולנוע)","האישה שרצתה להרוג מישהו (2016, גשר/Goethe)","סופעולם (ללא לקטור)"], "no_lector_films": ["סופעולם"], "tier": "documented" },
+    { "person_id": "p_ruman_yevgeny",    "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_gesher"], "films_funded": ["אזור א (2014, גשר)","קולות רקע (2018, קרן הקולנוע)"], "tier": "documented" },
+    { "person_id": "p_hovel_idan",       "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_gesher"], "films_funded": ["פת לחם (2015, גשר)"], "tier": "documented" },
+    { "person_id": "p_abuwail_taufik",   "funds_as_lector": ["fund_film","fund_gesher"],                   "funds_as_grantee": ["fund_film","fund_gesher"], "films_funded": ["אהבה עפ\"י דרישה (2014, גשר)","חסן החכם (2019, קרן הקולנוע)"], "tier": "documented" },
+    { "person_id": "p_dreifus_maya",     "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_rabinovich","fund_gesher"], "films_funded": ["הצלילה (2018, רבינוביץ')","נעורים (2020, גשר)","על כיסא הבמאי יושבת אישה (2020, גשר+רבינוביץ')"], "tier": "documented" },
+    { "person_id": "p_zamir_smadar",     "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_gesher","fund_rabinovich"], "films_funded": ["על כיסא הבמאי יושבת אישה (2020)"], "tier": "documented" },
+    { "person_id": "p_bilu_vidi",        "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_gesher","fund_rabinovich"], "films_funded": ["חוטים (2017, גשר)","אש בטן","סוף עידן התמימות (ללא לקטור)"], "no_lector_films": ["סוף עידן התמימות"], "tier": "documented" },
+    { "person_id": "p_mizrahi_kobi",     "funds_as_lector": ["fund_film","fund_rabinovich","fund_gesher"], "funds_as_grantee": ["fund_film","fund_rabinovich","fund_gesher"], "films_funded": ["בן גוריון, אפילוג (פוסט-פרודקשן)","טקצובו (2021, רבינוביץ' + הקרן החדשה)"], "tier": "documented" },
+    { "person_id": "p_azuz_sari",        "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_rabinovich","fund_gesher"], "films_funded": ["מאמי (2019, גשר — עורכת)","פוליגרף (2020)"], "tier": "documented" },
+    { "person_id": "p_goldberg_dana",    "funds_as_lector": ["fund_film","fund_rabinovich"],               "funds_as_grantee": ["fund_film","fund_rabinovich"], "films_funded": ["על כיסא הבמאי יושבת אישה (2020)"], "details": "Also received Rabinovich grant for poetry book 'שמש ישירה' (2019)", "tier": "documented" },
+    { "person_id": "p_almo_esti",        "funds_as_lector": ["fund_rabinovich","fund_gesher"],             "funds_as_grantee": ["fund_rabinovich"], "films_funded": ["על כיסא הבמאי יושבת אישה (2020)"], "tier": "documented" }
+  ],
+
+  "edges_council_member_grants": [
+    { "person_id": "p_rohe_yair",        "while_serving_in": "council_cinema", "received_from": ["fund_gesher","fund_rabinovich"], "films": ["קטמנדו (2012)","שרון עמרני: זכרו את השם (2010)"], "tier": "documented" },
+    { "person_id": "p_tsadok_arnon",     "while_serving_in": "council_cinema", "received_from": ["fund_rabinovich"],                "films": ["ניקה (2010)"], "tier": "documented" },
+    { "person_id": "p_divon_hava",       "while_serving_in": "council_cinema", "paid_role": "mentor at Gesher haredi-women incubator (2012)", "tier": "documented" },
+    { "person_id": "p_vanig_marlin",     "while_serving_in": "council_cinema", "paid_role": "mentor/consultant at Gesher haredi-women incubator (2012)", "tier": "documented" },
+    { "person_id": "p_gliss_israel",     "while_serving_in": "council_cinema", "paid_role": "consultant at Gesher haredi-women + parallel haredi-men workshop (2012)", "tier": "documented" },
+    { "person_id": "p_bukofzer_osnat",   "while_serving_in": "council_cinema", "credits": ["באבא ג'ון (2015) — post-production + PR; funded by Rabinovich + Gesher"], "tier": "documented" },
+    { "person_id": "p_shanhav_noam",     "while_serving_in": "council_cinema", "credits": ["תמונת הנצחון (2021)","המנצחים [אופוריה] (2021) — funded by Rabinovich"], "tier": "documented" },
+    { "person_id": "p_azulai_golan",     "while_serving_in": "council_cinema", "credits": ["עקרה (2022) — funded by Rabinovich"], "tier": "documented" },
+    { "person_id": "p_cherner_arie",     "while_serving_in": "council_cinema", "credits": ["הקפות (2014, קרן הקולנוע)","חתונה מנייר (2015, גשר+מקור+קרן הקולנוע)","קאפו בירושלים (2015)","חדרי הבית (2016, רבינוביץ'+ירושלים)","פוקסטרוט (2016, קרן הקולנוע)","החטאים (2016, רבינוביץ'+ירושלים)","מכתוב (2017)","ליידי טיטי (2018, רבינוביץ'+הקרן החדשה)","VOICE OVER (2018, גשר+רבינוביץ')","שחקים (2019, קרן הקולנוע)"], "tier": "documented" },
+    { "person_id": "p_amrani_gavriel",   "while_serving_in": "council_cinema", "credits": ["גט (2014, קרן הקולנוע הישראלי)","מסע הטבעת (2016, קרן הקולנוע הישראלי)"], "tier": "documented" },
+    { "person_id": "p_kaplan_irit",      "while_serving_in": "council_cinema", "credits": ["לב שקט מאוד (2016, רבינוביץ')","להציל את נטע (2016, קרן הקולנוע הישראלי)"], "tier": "documented" },
+    { "person_id": "p_shoki_inbal",      "while_serving_in": "council_cinema", "credits": ["בתולים (2022)","חומוס פול טריילר (2022)","השתיקה (2022, רבינוביץ')","גן קופים (2023, רבינוביץ')"], "tier": "documented" }
+  ],
+
+  "edges_festival_judge_screening_own_film": [
+    { "person_id": "p_feller_nili",      "festival": "fest_jerusalem", "year": 2021, "category": "International Competition", "own_films_at_festival": ["איפה אנה פרנק (עורכת)","מותו של הקולנוע ושל אבא שלי גם (עורכת)"], "tier": "documented" },
+    { "person_id": "p_medalia_hila",     "festival": "fest_jerusalem", "year": 2021, "category": "Short Israeli Cinema",       "own_films_at_festival": ["למה אמרתי אני - בחזרה לפרשת חנית קיקוס (מפיקה)"], "tier": "documented" },
+    { "person_id": "p_goldman_shai",     "festival": "fest_jerusalem", "year": 2021, "category": "International Competition", "own_films_at_festival": ["הנה אנחנו (צלם)"], "tier": "documented" },
+    { "person_id": "p_moreh_dror",       "festival": "fest_haifa",     "year": 2022, "category": "Israeli Documentary",        "own_films_at_festival": ["מסדרונות הכוח"], "tier": "documented" },
+    { "person_id": "p_yogev_saar",       "festival": "fest_haifa",     "year": 2021, "category": "Israeli Feature",            "own_films_at_festival": ["פתח תקווה (מפיק)"], "tier": "documented" },
+    { "person_id": "p_glazer_einat",     "festival": "fest_haifa",     "year": 2021, "category": "Golden Anchor",              "own_films_at_festival": ["תוכנית א (עורכת)"], "tier": "documented" },
+    { "person_id": "p_tsiko_eti",        "festival": "fest_jerusalem", "year": 2021, "category": "Head of Guests & Hospitality (since 2014)", "own_films_at_festival": ["רוסו (קצר)"], "tier": "documented" }
+  ],
+
+  "edges_personal_ties": [
+    { "from": "p_naveh_ziv",   "to": "p_tropper_chili", "type": "close_friend",        "tier": "alleged",  "context": "Met him at office immediately upon his appointment as Minister of Culture" },
+    { "from": "p_naveh_ziv",   "to": "p_cohen_eti",     "type": "close_friend",        "tier": "alleged" },
+    { "from": "p_naveh_ziv",   "to": "p_eini_giora",    "type": "professional_alliance","tier": "alleged", "context": "Allegedly meet at Cannes Festival to coordinate Israeli cinema agenda" },
+    { "from": "p_eini_giora",  "to": "p_cohen_eti",     "type": "professional_alliance","tier": "reported","context": "Cohen accused of biasing Council decisions toward Rabinovich + Gesher" },
+    { "from": "p_tropper_daniel","to":"p_tropper_chili","type": "father_of",           "tier": "documented" },
+    { "from": "p_tropper_daniel","to":"fund_gesher",   "type": "founded",              "tier": "documented" }
+  ]
+}

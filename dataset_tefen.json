@@ -1,0 +1,170 @@
+{
+  "_meta": {
+    "title": "Tefen Report 2017 — Statistical Analysis for the Cinema Funds Committee",
+    "title_he": "דוח תפן 2017 — ניתוחים סטטיסטים לוועדה לבחינת התנהלות קרנות הקולנוע",
+    "source_document": "gov_il_committee_report.pdf",
+    "source_url": "https://www.gov.il/BlobFolder/rfp/cinema_funds_committee/he/...",
+    "source_pages": 42,
+    "publisher": "TEFEN (EL-AL) Israel Ltd. — commissioned by the Israeli Government's Cinema Funds Committee",
+    "coverage_years": "2012–2016",
+    "extracted_on": "2026-04-20",
+    "tier": "documented",
+    "notes": "Official statistical analysis covering 4,392 applications across 5 funds. Complements Israel-report-1 with harder numbers and broader lector data."
+  },
+
+  "scope_stats": {
+    "total_rows_in_db": 4392,
+    "note_rows": "Each row = a support application OR an appeal",
+    "unique_films_with_applications": 2510,
+    "unique_films_funded_at_least_once": 340,
+    "unique_creators_funded_5y": 430,
+    "unique_creators_funded_more_than_once": 90,
+    "share_funded_more_than_once_pct": 21,
+    "unique_creators_rejected_then_later_funded": 186,
+    "unique_creators_rejected_all_5y": 1820,
+    "of_which_submitted_only_one_request": 981,
+    "of_which_submitted_multiple_requests": 839,
+    "funds_covered": ["fund_rabinovich", "fund_gesher", "fund_film", "fund_new_film_tv", "fund_makor"],
+    "funds_excluded": ["fund_makor"],
+    "excluded_note": "Makor Fund was NOT included in the Tefen analysis"
+  },
+
+  "application_volume_by_fund_2012_2016": {
+    "fund_rabinovich":      { "applications": 2319, "share_pct": 54 },
+    "fund_film":            { "applications": 1051, "share_pct": 24 },
+    "fund_gesher":          { "applications":  663, "share_pct": 15 },
+    "fund_new_film_tv":     { "applications":  304, "share_pct":  7 }
+  },
+
+  "grants_awarded_by_fund_2012_2016": {
+    "fund_rabinovich":  { "granted": 147, "rejected": 2172, "share_of_grants_pct": 36, "approval_rate_pct": 6.3 },
+    "fund_gesher":      { "granted": 133, "rejected":  530, "share_of_grants_pct": 32, "approval_rate_pct": 20.1 },
+    "fund_film":        { "granted":  99, "rejected":  952, "share_of_grants_pct": 24, "approval_rate_pct":  9.4 },
+    "fund_new_film_tv": { "granted":  31, "rejected":  273, "share_of_grants_pct":  8, "approval_rate_pct": 10.2 }
+  },
+
+  "repeat_beneficiaries_by_fund": {
+    "fund_rabinovich":  { "one_time": 158, "multi_time": 28, "multi_share_pct": 15 },
+    "fund_gesher":      { "one_time": 142, "multi_time": 13, "multi_share_pct":  8 },
+    "fund_new_film_tv": { "one_time":  31, "multi_time":  2, "multi_share_pct":  6 },
+    "fund_film":        { "one_time": 116, "multi_time":  4, "multi_share_pct":  3 }
+  },
+
+  "periphery_representation": {
+    "overall_funded_share_pct": 45,
+    "by_fund": {
+      "fund_gesher":          { "share_of_periphery_films_pct": 51, "share_of_all_grants_pct": 15, "creators_from_periphery_share_pct": 30, "internal_periphery_share_pct": 66 },
+      "fund_rabinovich":      { "share_of_periphery_films_pct": 20, "internal_periphery_share_pct": 28, "creators_from_periphery_share_pct": 11 },
+      "fund_film":            { "share_of_periphery_films_pct": 19, "internal_periphery_share_pct": 32, "creators_from_periphery_share_pct":  6 },
+      "fund_new_film_tv":     { "share_of_periphery_films_pct": 10, "internal_periphery_share_pct": 52, "creators_from_periphery_share_pct":  6 }
+    }
+  },
+
+  "feedback_quality_and_grants": {
+    "grants_given_with_high_feedback_pct": 71,
+    "grants_given_with_medium_feedback_pct": 29,
+    "rejections_despite_high_feedback_pct": 28,
+    "rejections_with_low_feedback_pct": 9,
+    "submitted_positive_but_rejected_same_round_pct": 83,
+    "submitted_negative_medium_but_funded_same_round_pct": 5,
+    "by_fund_funded_despite_low_medium_feedback_pct": {
+      "fund_gesher":      11.28,
+      "fund_film":         4.48,
+      "fund_rabinovich":   2.38,
+      "fund_new_film_tv":  2.32
+    },
+    "missing_feedback_counts_funded_applications": {
+      "fund_rabinovich": 48,
+      "fund_film":       39,
+      "fund_gesher":     12,
+      "total":           99
+    }
+  },
+
+  "artistic_director_as_lector_presence": {
+    "fund_gesher":      { "director": "p_shamir_sharon",       "applications_attended": 482,  "share_of_all_applications_pct": 72 },
+    "fund_rabinovich_a":{ "director": "p_abramovich_yoav",     "applications_attended": 1043, "share_of_all_applications_pct": 45 },
+    "fund_rabinovich_b":{ "director": "p_ingber_nachman",      "applications_attended": 1064, "share_of_all_applications_pct": 46 }
+  },
+
+  "lectors_both_original_and_appeal": {
+    "fund_rabinovich": [
+      { "name_he": "יואב אברמוביץ'",   "person_id": "p_abramovich_yoav", "cases": 26 },
+      { "name_he": "גיורא עיני",        "person_id": "p_eini_giora",      "cases":  4 },
+      { "name_he": "נחמן אינגבר",       "person_id": "p_ingber_nachman",  "cases":  4 },
+      { "name_he": "יעל שמחוני",        "person_id": "p_simhoni_yael",    "cases":  3 },
+      { "name_he": "יוסי אורן",         "person_id": "p_oren_yossi",      "cases":  1 }
+    ],
+    "fund_gesher": [
+      { "name_he": "שרון שמיר",         "person_id": "p_shamir_sharon",   "cases": 6 },
+      { "name_he": "אסף קורמן",         "person_id": "p_korman_assaf",    "cases": 2 },
+      { "name_he": "אפרת חליל",         "person_id": "p_halil_efrat",     "cases": 1 },
+      { "name_he": "אפרת כורם",         "person_id": "p_korem_efrat",     "cases": 1 },
+      { "name_he": "דליה מבורך",        "person_id": "p_mevorach_dalia",  "cases": 1 },
+      { "name_he": "דורית רביניאן",     "person_id": "p_rabinyan_dorit",  "cases": 1 },
+      { "name_he": "יעל פרלוב",         "person_id": "p_perlov_yael",     "cases": 1 },
+      { "name_he": "נדב לפיד",          "person_id": "p_lapid_nadav",     "cases": 1 },
+      { "name_he": "ניסים דיין",        "person_id": "p_dayan_nissim",    "cases": 1 },
+      { "name_he": "עלמה גניהר",        "person_id": "p_ganihar_alma",    "cases": 1 },
+      { "name_he": "ענת צוריה",         "person_id": "p_tsuria_anat",     "cases": 1 }
+    ]
+  },
+
+  "lectors_active_in_multiple_funds_2012_2016": [
+    { "person_id": "p_buchbut_avi",          "name_he": "אבי בוחבוט",            "fund_film": "2015",          "fund_gesher": "2012-2014" },
+    { "person_id": "p_azulai_orit",          "name_he": "אורית אזולאי",          "fund_film": "2015-2016",     "fund_rabinovich": "2014" },
+    { "person_id": "p_zlait_amnon",          "name_he": "אמנון זלאייט",          "fund_film": "2012,2014-2015","fund_rabinovich": "2014-2015" },
+    { "person_id": "p_korman_assaf",         "name_he": "אסף קורמן",             "fund_film": "2014-2015",     "fund_gesher": "2013" },
+    { "person_id": "p_korem_efrat",          "name_he": "אפרת כורם",             "fund_film": "2014-2015",     "fund_gesher": "2015" },
+    { "person_id": "p_fridlich_hadar",       "name_he": "הדר פרידליך",           "fund_film": "2016",          "fund_rabinovich": "2012,2015" },
+    { "person_id": "p_sharon_ezer_tali",     "name_he": "טלי שרון עזר",          "fund_film": "2015",          "fund_rabinovich": "2015" },
+    { "person_id": "p_ruman_yevgeny",        "name_he": "יבגני רומן",            "fund_film": "2016",          "fund_rabinovich": "2015" },
+    { "person_id": "p_gilat_li",             "name_he": "לי גילת",                "fund_film": "2014-2015",     "fund_rabinovich": "2015" },
+    { "person_id": "p_lapid_nadav",          "name_he": "נדב לפיד",              "fund_film": "2014-2015",     "fund_gesher": "2015" },
+    { "person_id": "p_dayan_nissim",         "name_he": "ניסים דיין",            "fund_film": "2014-2015",     "fund_gesher": "2015" },
+    { "person_id": "p_ganihar_alma",         "name_he": "עלמה גניהר",            "fund_film": "2014-2015",     "fund_gesher": "2012",       "fund_rabinovich": "2012" },
+    { "person_id": "p_manor_amir",           "name_he": "עמיר מנור",             "fund_film": "2014",          "fund_rabinovich": "2014-2015" },
+    { "person_id": "p_otin_pablo",           "name_he": "פבלו אוטין",            "fund_film": "2012-2013",     "fund_rabinovich": "2015" },
+    { "person_id": "p_segal_rona",          "name_he": "רונה סגל",              "fund_film": "2014-2015",     "fund_rabinovich": "2015" },
+    { "person_id": "p_weiss_berkovich_ronit","name_he": "רונית וייס ברקוביץ'",   "fund_film": "2012-2013",     "fund_rabinovich": "2014" },
+    { "person_id": "p_mimon_sharon",         "name_he": "שרון מימון",            "fund_film": "2013-2014",     "fund_gesher": "2015",       "fund_new_film_tv": "2012" },
+    { "person_id": "p_abuwail_taufik",       "name_he": "תאופיק אבו ואיל",       "fund_film": "2015",          "fund_gesher": "2012-2013" }
+  ],
+
+  "new_people_not_in_main_dataset": [
+    { "id": "p_simhoni_yael",          "name_he": "יעל שמחוני",            "primary_roles": ["lector"] },
+    { "id": "p_oren_yossi",            "name_he": "יוסי אורן",             "primary_roles": ["lector"] },
+    { "id": "p_korman_assaf",          "name_he": "אסף קורמן",             "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_halil_efrat",           "name_he": "אפרת חליל",             "primary_roles": ["lector"] },
+    { "id": "p_mevorach_dalia",        "name_he": "דליה מבורך",            "primary_roles": ["lector"] },
+    { "id": "p_rabinyan_dorit",        "name_he": "דורית רביניאן",         "primary_roles": ["lector","author"] },
+    { "id": "p_perlov_yael",           "name_he": "יעל פרלוב",             "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_lapid_nadav",           "name_he": "נדב לפיד",              "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_dayan_nissim",          "name_he": "ניסים דיין",            "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_ganihar_alma",          "name_he": "עלמה גניהר",            "primary_roles": ["lector"] },
+    { "id": "p_tsuria_anat",           "name_he": "ענת צוריה",             "primary_roles": ["lector","filmmaker"] },
+    { "id": "p_buchbut_avi",           "name_he": "אבי בוחבוט",            "primary_roles": ["lector"] },
+    { "id": "p_azulai_orit",           "name_he": "אורית אזולאי",          "primary_roles": ["lector"] },
+    { "id": "p_fridlich_hadar",        "name_he": "הדר פרידליך",           "primary_roles": ["lector"] },
+    { "id": "p_sharon_ezer_tali",      "name_he": "טלי שרון עזר",          "primary_roles": ["lector"] },
+    { "id": "p_otin_pablo",            "name_he": "פבלו אוטין",            "primary_roles": ["lector"] },
+    { "id": "p_segal_rona",           "name_he": "רונה סגל",              "primary_roles": ["lector"] },
+    { "id": "p_weiss_berkovich_ronit", "name_he": "רונית וייס ברקוביץ'",   "primary_roles": ["lector"] }
+  ],
+
+  "committee_recommendations_from_tefen": [
+    { "id": "rec_1", "title_he": "העברה תקופתית (שנתית) של נתונים מהקרנות למשרד התרבות" },
+    { "id": "rec_2", "title_he": "הגדרת מבנה נתונים אחיד לכל הקרנות" },
+    { "id": "rec_3", "title_he": "מאגר מידע מאוחד של פעילות הקרנות במשרד התרבות" },
+    { "id": "rec_4", "title_he": "הגדרת נהלי עבודה לתיעוד נתוני הבקשות" },
+    { "id": "rec_5", "title_he": "רשימת נושאי סרטים אחידה לכל הקרנות" }
+  ],
+
+  "data_integrity_issues_tefen": [
+    "רוב הנתונים לא קיימים בטבלאות ממוחשבות אלא בקבצי מחשב/דפים מודפסים.",
+    "נתונים מקרן רבינוביץ', הקרן החדשה וגשר הועברו ב-10/10/2017; קרן הקולנוע רק ב-9/11/2017.",
+    "חוסרי נתונים: 6 בקשות נמשכו לפני החלטה · 13 בקשות ערר ללא תוצאה · 36 בקשות ללא החלטה.",
+    "הבדלי כתיב באיות שמות יוצרים (אילת גונדר גושן / אילת גושן, מעיין רוגל / רוגל מעיין).",
+    "הבדלי איות בשמות סרטים (אופנובנק / האופנובנק, א א / אלף אלף, האם זה אתה? / אם זה אתה)."
+  ]
+}

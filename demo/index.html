@@ -265,8 +265,8 @@
 
 <script>
 Promise.all([
-  fetch('../data/dataset.json').then(r => r.json()),
-  fetch('../data/dataset_tefen.json').then(r => r.json())
+  fetch('./data/dataset.json').then(r => r.json()),
+  fetch('./data/dataset_tefen.json').then(r => r.json())
 ])
   .then(([primary, tefen]) => {
     mergeDatasets(primary, tefen);

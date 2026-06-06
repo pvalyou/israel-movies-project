@@ -24,6 +24,53 @@ from datetime import datetime
 REGISTRY_PATH = Path("entity_registry.json")
 NETWORK_PATH  = Path("network_graph.json")
 OUT_PATH      = Path("data/derived_conflicts.json")
+RESEARCH_PATH = Path("data/new_conflicts_found.json")
+
+RESEARCH_SKIP_TYPES = {
+    "data_correction", "source_update", "staff_change", "duplicate_person",
+    "family_source_update", "monopoly_source_update_2026",
+    "ceo_spousal_business_conflict_detail_update", "systemic_reform_detail",
+}
+
+
+def load_research_conflicts(people: dict | None = None):
+    if not RESEARCH_PATH.exists():
+        return []
+    # Build alias→canonical from registry people if provided
+    alias_to_canonical: dict[str, str] = {}
+    if people:
+        import re
+        def _nm(s):
+            return re.sub(r"\s+", " ", (s or "").strip())
+        for _p in people.values():
+            can = _p.get("canonical_name_he")
+            if not can:
+                continue
+            alias_to_canonical[_nm(can)] = can
+            for al in _p.get("aliases", []) or []:
+                alias_to_canonical[_nm(al)] = can
+
+    def _resolve(name):
+        if not name:
+            return name
+        return alias_to_canonical.get(name.strip(), name)
+
+    raw = json.loads(RESEARCH_PATH.read_text(encoding="utf-8"))
+    out = []
+    for c in raw.get("conflicts", []):
+        if c.get("type") in RESEARCH_SKIP_TYPES:
+            continue
+        urls = [c[k] for k in sorted(c.keys()) if k.startswith("source_url") and c.get(k)]
+        out.append({
+            "type":        c.get("type"),
+            "person_a":    _resolve(c.get("person_a")),
+            "person_b":    _resolve(c.get("person_b")),
+            "fund":        c.get("fund"),
+            "evidence":    c.get("evidence", ""),
+            "source_urls": urls,
+            "confidence":  c.get("confidence", "unknown"),
+        })
+    return out
 
 FUND_KEYS = {
     "makor", "filmfund", "rabinovich_cinema", "jerusalem_film_fund",
@@ -489,6 +536,7 @@ def main():
     festival_committee = compute_festival_committee(people)
     exec_filmmaker     = compute_exec_filmmaker(people)
     lector_filmmaker   = compute_lector_filmmaker(people)
+    research_conflicts = load_research_conflicts(people)
 
     out = {
         "generated_at":       datetime.now().isoformat(),
@@ -500,6 +548,7 @@ def main():
         "festival_committee": festival_committee,
         "exec_filmmaker":     exec_filmmaker,
         "lector_filmmaker":   lector_filmmaker,
+        "research_conflicts": research_conflicts,
     }
 
     OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -513,6 +562,7 @@ def main():
     print(f"  festival_committee: {len(festival_committee)}")
     print(f"  exec_filmmaker:     {len(exec_filmmaker)}")
     print(f"  lector_filmmaker:   {len(lector_filmmaker)}")
+    print(f"  research_conflicts: {len(research_conflicts)}")
     print(f"  → {OUT_PATH}")
 
 

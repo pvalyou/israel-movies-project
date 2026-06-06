@@ -13,12 +13,16 @@ __pycache__/
 
 # Large generated files
 *.zip
-connections_report.html
 connections_report.xlsx
-films.html
 graph.html
 graph.html.bak
 graph2.html
 network_graph_viz.json
 network_graph_before_movies_db.json
 conflict_graph.json.bak
+
+# backups
+bak/
+
+# logs
+logs/

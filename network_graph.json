@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T13:02:45.351686",
-    "node_count": 2243,
+    "generated_at": "2026-06-06T13:16:09.890285",
+    "node_count": 2264,
     "edge_count": 7829,
-    "person_count": 1950,
+    "person_count": 1971,
     "fund_count": 6,
     "film_node_count": 285,
     "school_node_count": 2,
@@ -18795,6 +18795,216 @@
     {
       "id": "person::רמי ברוך",
       "label": "רמי ברוך",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::איתמר לפיד",
+      "label": "איתמר לפיד",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::גיורא עיני",
+      "label": "גיורא עיני",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::אטי כהן",
+      "label": "אטי כהן",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::עמוס קולק",
+      "label": "עמוס קולק",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::אוסנת בוקובזר",
+      "label": "אוסנת בוקובזר",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::ליאון פרודובסקי",
+      "label": "ליאון פרודובסקי",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::תאופיק אבו וואיל",
+      "label": "תאופיק אבו-וואיל",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::כוכי מזרחי",
+      "label": "כוכי מזרחי",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::אילנית אדרי",
+      "label": "אילנית אדרי",
+      "type": "person",
+      "gender": "f",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::צחי אדרי",
+      "label": "צחי אדרי",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::עטי ציקו",
+      "label": "עטי צ'יקו",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::גיל סמסונוב",
+      "label": "גיל סמסונוב",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::דומיניק וולינסקי",
+      "label": "דומיניק וולינסקי",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::אילנה שושן",
+      "label": "אילנה שושן",
+      "type": "person",
+      "gender": "f",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::רמי בזה",
+      "label": "רמי בז'ה",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::יגאל מולד חיו",
+      "label": "יגאל מולד חיו",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::יורם לוי",
+      "label": "יורם לוי",
+      "type": "person",
+      "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::קטריאל שורי",
+      "label": "קטריאל שורי",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::לודי בוקן",
+      "label": "לודי בוקן",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::מיקי זוהר",
+      "label": "מיקי זוהר",
+      "type": "person",
+      "gender": "unknown",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::בועז גולדברג",
+      "label": "בועז גולדברג",
       "type": "person",
       "gender": "m",
       "has_strict_conflict": false,

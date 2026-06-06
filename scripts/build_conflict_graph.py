@@ -391,6 +391,51 @@ def main():
                     ei += 1
                     n_derived += 1
 
+        # 6. research_conflicts — person↔person edges with evidence & sources
+        for entry in dc.get("research_conflicts", []):
+            pa, pb = entry.get("person_a"), entry.get("person_b")
+            if not pa:
+                continue
+            a = _ensure_person(pa)
+            if not pb or pb == pa:
+                if entry.get("fund"):
+                    fnid = _ensure_fund(entry["fund"])
+                    key = f"{a}|{fnid}|research_conflict|{entry.get('type','')}"
+                    if key not in seen_edges:
+                        seen_edges.add(key)
+                        edges_out.append({
+                            "id":          f"e_dc_{ei}",
+                            "source":      a,
+                            "target":      fnid,
+                            "type":        "research_conflict",
+                            "subtype":     entry.get("type"),
+                            "evidence":    entry.get("evidence"),
+                            "source_urls": entry.get("source_urls", []),
+                            "confidence":  entry.get("confidence"),
+                            "weight":      2,
+                        })
+                        ei += 1
+                        n_derived += 1
+                continue
+            b = _ensure_person(pb)
+            key = f"{min(a,b)}|{max(a,b)}|research_conflict|{entry.get('type','')}"
+            if key not in seen_edges:
+                seen_edges.add(key)
+                edges_out.append({
+                    "id":          f"e_dc_{ei}",
+                    "source":      a,
+                    "target":      b,
+                    "type":        "research_conflict",
+                    "subtype":     entry.get("type"),
+                    "fund":        entry.get("fund"),
+                    "evidence":    entry.get("evidence"),
+                    "source_urls": entry.get("source_urls", []),
+                    "confidence":  entry.get("confidence"),
+                    "weight":      2,
+                })
+                ei += 1
+                n_derived += 1
+
         print(f"  Derived conflict edges added: {n_derived}")
     else:
         print("  data/derived_conflicts.json not found — skipping derived conflicts")

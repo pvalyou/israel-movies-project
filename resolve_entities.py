@@ -3952,8 +3952,35 @@ def generate_html(connections: dict, registry: dict, ambiguous: list,
         if _n in _fc_norm_names_needed or _e.get("is_power"):
             _will_render_norms.add(_n)
 
-    # ── Derived conflicts — build per-person lookup for card badges ──────────
+    # Alias → canonical_he resolver from registry (for matching research_conflict names)
+    _alias_to_canonical: dict[str, str] = {}
+    for _pid, _pdata in registry.get("people", {}).items():
+        _can = _pdata.get("canonical_name_he")
+        if not _can:
+            continue
+        _alias_to_canonical[normalize_name(_can)] = _can
+        for _al in _pdata.get("aliases", []) or []:
+            _alias_to_canonical[normalize_name(_al)] = _can
+
+    def _resolve_canonical(name: str) -> str:
+        return _alias_to_canonical.get(normalize_name(name), name)
+
+    # Pre-load research_conflicts and ensure their participants render
     _dc_path = Path("data/derived_conflicts.json")
+    if _dc_path.exists():
+        try:
+            _rc_preview = json.loads(_dc_path.read_text(encoding="utf-8")).get("research_conflicts", [])
+            for _rc in _rc_preview:
+                for _k in ("person_a", "person_b"):
+                    _n = _rc.get(_k)
+                    if _n:
+                        _norm_rc = normalize_name(_resolve_canonical(_n))
+                        _will_render_norms.add(_norm_rc)
+                        _fc_norm_names_needed.add(_norm_rc)
+        except Exception:
+            pass
+
+    # ── Derived conflicts — build per-person lookup for card badges ──────────
     _dc_by_person: dict[str, str] = {}   # normalized_name → pre-rendered HTML snippet
     if _dc_path.exists():
         try:
@@ -4043,6 +4070,39 @@ def generate_html(connections: dict, registry: dict, ambiguous: list,
                 film_str  = " · ".join(e.get("filmmaker_roles", []))
                 _add_dc(e["person"], _dc_row("🔑", "#f97316",
                     f'מנהל קרן ({exec_str}) שהוא גם יוצר פעיל ({film_str}) — {funds_str}'))
+
+            # 6. Research-derived conflicts (manually-curated from new_conflicts_found.json)
+            _CONF_COLOR = {"confirmed": "#dc2626", "probable": "#ea580c",
+                           "alleged": "#d97706", "unconfirmed": "#94a3b8"}
+            for e in _dc.get("research_conflicts", []):
+                conf  = (e.get("confidence") or "unknown").lower()
+                color = _CONF_COLOR.get(conf, "#64748b")
+                ev    = (e.get("evidence") or "").strip()
+                if len(ev) > 280:
+                    ev = ev[:277] + "…"
+                urls  = e.get("source_urls", []) or []
+                links_html = " ".join(
+                    f'<a href="{u}" target="_blank" style="color:#1d4ed8;text-decoration:underline">[מקור {i+1}]</a>'
+                    for i, u in enumerate(urls)
+                )
+                fund_html = ""
+                if e.get("fund"):
+                    fund_html = f' · {_fl(e["fund"])}'
+                type_tag = f'<span style="color:#94a3b8;font-size:10px">[{e.get("type","")}]</span>'
+                conf_tag = f'<span style="color:{color};font-size:10px;font-weight:600">{conf}</span>'
+                pa = _resolve_canonical(e.get("person_a")) if e.get("person_a") else None
+                pb = _resolve_canonical(e.get("person_b")) if e.get("person_b") else None
+                # Both persons get the badge if both named and different
+                if pa:
+                    other = f' עם {_plink_dc(pb)}' if pb and pb != pa else ""
+                    _add_dc(pa, _dc_row("🔍", color,
+                        f'{type_tag} {conf_tag}{other}{fund_html}<br>'
+                        f'<span style="color:#64748b">{ev}</span> {links_html}'))
+                if pb and pb != pa:
+                    other = f' עם {_plink_dc(pa)}' if pa else ""
+                    _add_dc(pb, _dc_row("🔍", color,
+                        f'{type_tag} {conf_tag}{other}{fund_html}<br>'
+                        f'<span style="color:#64748b">{ev}</span> {links_html}'))
 
         except Exception as _dc_err:
             import traceback; traceback.print_exc()
@@ -4897,6 +4957,52 @@ def main():
     connections = analyze_connections(people_groups)
     print(f"  {len(connections['cross_source'])} cross-source people"
           f" · {len(connections['conflicts'])} role conflicts")
+
+    # Inject synthetic cross_source entries for people who appear only in
+    # research_conflicts (manually-curated from new_conflicts_found.json) but
+    # have no scraped mentions. Without this they get filtered by the <2-sources
+    # rule and never receive a profile card.
+    _rc_path = Path("data/derived_conflicts.json")
+    if _rc_path.exists():
+        try:
+            _rc_data = json.loads(_rc_path.read_text(encoding="utf-8"))
+            _existing_norms = {normalize_name(e["name"]) for e in connections["cross_source"]}
+            # Build alias→canonical from registry IF available; fall back to people_groups
+            _alias_map: dict[str, str] = {}
+            for _grp_canonical in people_groups.keys():
+                _alias_map[normalize_name(_grp_canonical)] = _grp_canonical
+            _added = 0
+            for _rc in _rc_data.get("research_conflicts", []):
+                for _k in ("person_a", "person_b"):
+                    _name = _rc.get(_k)
+                    if not _name:
+                        continue
+                    _name = _alias_map.get(normalize_name(_name), _name)
+                    _norm = normalize_name(_name)
+                    if _norm in _existing_norms:
+                        continue
+                    _existing_norms.add(_norm)
+                    connections["cross_source"].append({
+                        "name":              _name,
+                        "sources":           0,
+                        "mentions":          0,
+                        "roles_by_src":      {},
+                        "urls_by_src":       {},
+                        "film_urls_by_src":  {},
+                        "event_urls_by_src": {},
+                        "years_by_src":      {},
+                        "contexts_by_src":   {},
+                        "notes":             [],
+                        "all_roles":         [],
+                        "is_power":          True,  # ensure render-pass inclusion beyond top-600
+                        "gender":            infer_gender(_name),
+                        "_research_only":    True,
+                    })
+                    _added += 1
+            if _added:
+                print(f"  +{_added} synthetic cards for research-only people")
+        except Exception as _rc_err:
+            print(f"  Warning: research_conflicts injection failed: {_rc_err}")
 
     print("Extracting film-level conflicts...")
     film_conflicts = extract_film_conflicts(MENTIONS_GLOB, _cache=_cache)

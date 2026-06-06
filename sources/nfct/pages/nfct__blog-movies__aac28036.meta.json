@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בתי-את/",
+  "stable_id": "nfct__blog-movies__aac28036",
+  "fetched_at": "2026-05-09T17:38:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:38:40Z",
+  "duration_ms": 22877,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1b77e8f70764f0b8c6817cbe78bccef9f6d471c3005065139bc8bc1d2468d2e",
+  "md_bytes": 18258,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=abstract",
+  "stable_id": "nfct__en-movies-archive_keywords-abstract__b25a7445",
+  "fetched_at": "2026-05-16T15:12:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:12:51Z",
+  "duration_ms": 8901,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:30e8ee2ac524f406c5dffcc88d1c6abda0a5e835430f87d41cf65ff353f0fcec",
+  "md_bytes": 11572,
+  "links_found": 71,
+  "files_found": 0
+}

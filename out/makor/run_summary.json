@@ -1,0 +1,21 @@
+{
+  "source_name": "makor",
+  "run_date": "2026-05-16",
+  "elapsed_min": 0.64,
+  "pages_total": 2715,
+  "pages_already_done": 2642,
+  "pages_processed_this_run": 73,
+  "status_counts": {
+    "ok": 73,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 313066,
+  "tokens_output": 174693,
+  "cost_usd": 0.1012,
+  "calls": 64,
+  "errors": 0,
+  "json_retries": 0
+}

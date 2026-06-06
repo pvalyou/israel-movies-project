@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=To%20Take%20a%20Wife",
+  "stable_id": "nfct__en-movies-archive_keywords-To-20Take-20a-20Wife__f6be0f87",
+  "fetched_at": "2026-05-16T14:46:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:11Z",
+  "duration_ms": 9620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82872f90ef3242e47d195d29a515c556304e1685082a3e9e5f2cba1b70c73a2a",
+  "md_bytes": 13857,
+  "links_found": 77,
+  "files_found": 0
+}

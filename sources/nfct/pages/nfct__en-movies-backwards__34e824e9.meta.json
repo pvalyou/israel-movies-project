@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/backwards/#UAMainContent",
+  "stable_id": "nfct__en-movies-backwards__34e824e9",
+  "fetched_at": "2026-05-16T13:20:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:20:19Z",
+  "duration_ms": 7368,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2bb973f3babf008dacc4cb119bff24dd88d1c73041c53163e8e194f2d0630793",
+  "md_bytes": 13209,
+  "links_found": 40,
+  "files_found": 0
+}

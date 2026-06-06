@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/believing-in-the-muse/",
+  "stable_id": "nfct__en-movies-believing-in-the-muse__8998f4f2",
+  "fetched_at": "2026-05-11T18:07:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:07:06Z",
+  "duration_ms": 25840,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23d2c6d4e11336b59af87b4118312114912918b35795894c22d35142f3ebb8aa",
+  "md_bytes": 14023,
+  "links_found": 37,
+  "files_found": 0
+}

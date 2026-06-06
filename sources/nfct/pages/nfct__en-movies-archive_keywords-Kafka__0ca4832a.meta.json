@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kafka",
+  "stable_id": "nfct__en-movies-archive_keywords-Kafka__0ca4832a",
+  "fetched_at": "2026-05-16T20:38:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:38:42Z",
+  "duration_ms": 8685,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af9fdc8afec6c47d10dc1517c150fe868720b1c7eef98a118d00bb257c2c6bae",
+  "md_bytes": 10974,
+  "links_found": 70,
+  "files_found": 0
+}

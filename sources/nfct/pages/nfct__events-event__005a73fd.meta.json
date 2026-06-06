@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-בורג-שירה-גפן-סינמטק-ירושלים/",
+  "stable_id": "nfct__events-event__005a73fd",
+  "fetched_at": "2026-05-10T12:46:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:46:42Z",
+  "duration_ms": 34465,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a952c7e13bb6bf29a07bb5eec3c293e55b9e7ac176c2cb970fd1a491fd7a5023",
+  "md_bytes": 10364,
+  "links_found": 22,
+  "files_found": 0
+}

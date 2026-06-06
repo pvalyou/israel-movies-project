@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films_cat/students/?lang=en",
+  "stable_id": "makor__films_cat-students_lang-en__3aa25e6b",
+  "fetched_at": "2026-05-09T12:46:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:43Z",
+  "duration_ms": 18503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52672a8d88b0162651c01f9c64533b35789cef692717248e7f90ccd6c0f73f7e",
+  "md_bytes": 1267,
+  "links_found": 5,
+  "files_found": 0
+}

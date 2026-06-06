@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/hounds/?lang=en",
+  "stable_id": "makor__films-hounds_lang-en__c8a3f7e4",
+  "fetched_at": "2026-05-09T13:03:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:39Z",
+  "duration_ms": 11496,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc6799926ff211497c7a6101eec0fe73e7c5657347c1e18f3f7dd20441b6525b",
+  "md_bytes": 2017,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/pop-islam/#UAMainContent",
+  "stable_id": "nfct__en-movies-pop-islam__e50a30a2",
+  "fetched_at": "2026-05-16T03:13:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:13:38Z",
+  "duration_ms": 9660,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4081d503d2bf828bbe19e82540a6456db95c0b80a4e4560a4b0f2744e5cd16c9",
+  "md_bytes": 13912,
+  "links_found": 35,
+  "files_found": 0
+}

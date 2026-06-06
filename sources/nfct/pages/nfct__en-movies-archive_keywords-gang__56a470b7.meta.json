@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=gang",
+  "stable_id": "nfct__en-movies-archive_keywords-gang__56a470b7",
+  "fetched_at": "2026-05-16T17:10:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:10:47Z",
+  "duration_ms": 9291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f2edb5788238d7e10d4d78c64911fbbc650f1fd9d60c4560989fa5b9949c325",
+  "md_bytes": 13257,
+  "links_found": 76,
+  "files_found": 0
+}

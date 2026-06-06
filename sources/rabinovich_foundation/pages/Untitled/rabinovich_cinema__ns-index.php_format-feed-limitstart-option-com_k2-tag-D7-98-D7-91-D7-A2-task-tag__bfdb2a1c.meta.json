@@ -1,0 +1,23 @@
+{
+  "url": "https://www.cinemaproject.org.il/ns/index.php?format=feed&limitstart=&option=com_k2&tag=%D7%98%D7%91%D7%A2&task=tag&view=itemlist",
+  "stable_id": "rabinovich_cinema__ns-index.php_format-feed-limitstart-option-com_k2-tag-D7-98-D7-91-D7-A2-task-tag__bfdb2a1c",
+  "fetched_at": "2026-05-16T10:31:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:31:21Z",
+  "duration_ms": 3569,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96511e90e99ee7d3336ca5f0a4f31d28c52b6198b40ba061fd72fb6c62756ed0",
+  "md_bytes": 9944,
+  "links_found": 0,
+  "files_found": 0
+}

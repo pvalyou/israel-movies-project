@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=rehabilitation",
+  "stable_id": "nfct__en-movies-archive_keywords-rehabilitation__0c9765b7",
+  "fetched_at": "2026-05-16T10:26:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:26:35Z",
+  "duration_ms": 11876,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:31431580aabd4f9ee7db1bb01ceee985745e031e204bb080f4bb5dcfdc73f61b",
+  "md_bytes": 11416,
+  "links_found": 71,
+  "files_found": 0
+}

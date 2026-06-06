@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Observant%20Jew",
+  "stable_id": "nfct__en-movies-archive_keywords-Observant-20Jew__32db1cae",
+  "fetched_at": "2026-05-16T16:17:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:17:02Z",
+  "duration_ms": 7568,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c9e1eac38b7be380647711dd79513a75dab9abdefd5124a810a88113c9bec91",
+  "md_bytes": 10990,
+  "links_found": 70,
+  "files_found": 0
+}

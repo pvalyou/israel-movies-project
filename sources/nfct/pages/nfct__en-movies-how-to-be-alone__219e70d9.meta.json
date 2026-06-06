@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/how-to-be-alone/",
+  "stable_id": "nfct__en-movies-how-to-be-alone__219e70d9",
+  "fetched_at": "2026-05-12T00:16:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:16:25Z",
+  "duration_ms": 19293,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0d0f72a8489f9bd89cf4774fa2d2397ba06d122ccb6e45846586b7238646b240",
+  "md_bytes": 11762,
+  "links_found": 26,
+  "files_found": 0
+}

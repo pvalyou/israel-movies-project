@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=history%20of%20art",
+  "stable_id": "nfct__en-movies-archive_keywords-history-20of-20art__39395c31",
+  "fetched_at": "2026-05-16T17:11:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:11:46Z",
+  "duration_ms": 10037,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1134d47b4f3896ed442b78a47f370489859815ac3d19d8c810fe426086a61366",
+  "md_bytes": 17578,
+  "links_found": 82,
+  "files_found": 0
+}

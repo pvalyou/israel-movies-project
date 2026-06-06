@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-החבר-דב-ברק-הימן-סינמטק-תל-אביב/",
+  "stable_id": "nfct__events-event__9ee8166e",
+  "fetched_at": "2026-05-10T00:09:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:09:02Z",
+  "duration_ms": 53210,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67efbe783574a1fa6651b765fb0c37a28478165c1f55d17c5d307c26c5d0fda0",
+  "md_bytes": 13315,
+  "links_found": 28,
+  "files_found": 0
+}

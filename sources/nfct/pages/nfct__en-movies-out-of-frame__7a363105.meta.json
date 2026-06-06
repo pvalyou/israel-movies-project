@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/out-of-frame/",
+  "stable_id": "nfct__en-movies-out-of-frame__7a363105",
+  "fetched_at": "2026-05-11T19:53:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:53:45Z",
+  "duration_ms": 43025,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb1dd49db203258cf937c7b40364f6666f08da1ca9f91eb463f7a40caf890bb0",
+  "md_bytes": 13975,
+  "links_found": 41,
+  "files_found": 0
+}

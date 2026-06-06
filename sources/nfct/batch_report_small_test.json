@@ -1,0 +1,20 @@
+{
+  "run_at": "2026-05-18T18:53:48.947279+00:00",
+  "source_id": "small_test",
+  "url_file": "/tmp/small_batch.txt",
+  "stats": {
+    "succeeded": 1,
+    "failed": 0,
+    "empty": 0,
+    "total_bytes": 43361,
+    "skipped": 0
+  },
+  "details": [
+    {
+      "url": "https://nfct.org.il/?eo_month=2026-04%20%22%D7%97%D7%95%D7%93%D7%A9%20%D7%A7%D7%95%D7%93%D7%9D%22",
+      "status": "ok",
+      "error": "",
+      "bytes": 43361
+    }
+  ]
+}

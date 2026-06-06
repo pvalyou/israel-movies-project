@@ -1,0 +1,6 @@
+ok        5572ms MISS https://www.israel-trade.net/filmisrael/funding
+ok        4155ms MISS https://www.israel-trade.net/filmisrael/
+EXC     Scraper service rejected the request (403): b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">\n<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">\n<TITLE>E
+Set the CRAWL4AI_API_KEY environment variable and retry.
+ok        4725ms MISS https://israel-trade.net/filmisrael/funding/#VAopenMenu
+ok        4196ms MISS https://israel-trade.net/filmisrael/funding/

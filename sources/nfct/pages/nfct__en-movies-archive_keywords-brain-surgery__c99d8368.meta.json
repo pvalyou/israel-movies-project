@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=brain+surgery",
+  "stable_id": "nfct__en-movies-archive_keywords-brain-surgery__c99d8368",
+  "fetched_at": "2026-05-16T11:05:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:07Z",
+  "duration_ms": 11401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a4ecb81301e55eee43f1b1b906d03e7ef75fd2cc3d56dc81f607e14255c4a8a",
+  "md_bytes": 9994,
+  "links_found": 68,
+  "files_found": 0
+}

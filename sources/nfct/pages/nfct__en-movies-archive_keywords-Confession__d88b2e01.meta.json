@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Confession",
+  "stable_id": "nfct__en-movies-archive_keywords-Confession__d88b2e01",
+  "fetched_at": "2026-05-16T15:07:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:07:24Z",
+  "duration_ms": 7974,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:650bfc1171defc30a40302712503a948388149f0f9a96eea1c905c08d22aead3",
+  "md_bytes": 12939,
+  "links_found": 76,
+  "files_found": 0
+}

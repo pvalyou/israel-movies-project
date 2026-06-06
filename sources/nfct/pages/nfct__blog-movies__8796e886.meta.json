@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שיחה-במשפחה/",
+  "stable_id": "nfct__blog-movies__8796e886",
+  "fetched_at": "2026-05-09T20:24:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:24:50Z",
+  "duration_ms": 8493,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:57aa14c7d56c4aa52944a38f8c4f274302cba7ffe4ff75d655a560548056faa6",
+  "md_bytes": 17260,
+  "links_found": 35,
+  "files_found": 0
+}

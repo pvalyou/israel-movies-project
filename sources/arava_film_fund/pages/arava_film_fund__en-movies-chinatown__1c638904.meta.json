@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/chinatown/#main",
+  "stable_id": "arava_film_fund__en-movies-chinatown__1c638904",
+  "fetched_at": "2026-05-08T10:19:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:19:05Z",
+  "duration_ms": 13204,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c96cb53865d04e7b837d2d095df468f52f4296e9c65ead1edecb7114a72b53c6",
+  "md_bytes": 3472,
+  "links_found": 9,
+  "files_found": 0
+}

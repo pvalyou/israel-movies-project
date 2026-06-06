@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Neturei%20Karta",
+  "stable_id": "nfct__en-movies-archive_keywords-Neturei-20Karta__c5db2222",
+  "fetched_at": "2026-05-16T12:58:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:58:32Z",
+  "duration_ms": 10625,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c51aa958028338c7de0d7d15256865a6a559e57664781a3ecc213ee49d14013",
+  "md_bytes": 10414,
+  "links_found": 68,
+  "files_found": 0
+}

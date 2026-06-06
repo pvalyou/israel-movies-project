@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/may-i-please-film-you/",
+  "stable_id": "nfct__en-movies-may-i-please-film-you__d01b7cd7",
+  "fetched_at": "2026-05-15T15:22:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:22:44Z",
+  "duration_ms": 6694,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0265a2132a503e188dab573aafba2e0220ad746ed181e766d0dd198bf9d4c78b",
+  "md_bytes": 13924,
+  "links_found": 37,
+  "files_found": 0
+}

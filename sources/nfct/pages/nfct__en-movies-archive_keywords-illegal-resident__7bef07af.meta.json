@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=illegal+resident",
+  "stable_id": "nfct__en-movies-archive_keywords-illegal-resident__7bef07af",
+  "fetched_at": "2026-05-16T07:58:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:58:57Z",
+  "duration_ms": 6702,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:76e4ae692734b2e22efb56bf757d64e92934c9bed68599ff226a6b35b283e132",
+  "md_bytes": 10484,
+  "links_found": 69,
+  "files_found": 0
+}

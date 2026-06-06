@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=house+cats",
+  "stable_id": "nfct__en-movies-archive_keywords-house-cats__ee96e092",
+  "fetched_at": "2026-05-16T14:44:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:44:20Z",
+  "duration_ms": 8226,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10f2ad40099191ff1b7bbea8afbb11390a07516f155afcb6aa2f59716aa0b76e",
+  "md_bytes": 10240,
+  "links_found": 68,
+  "files_found": 0
+}

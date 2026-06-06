@@ -1,0 +1,23 @@
+{
+  "url": "https://intl.filmfund.org.il//contentpage?id=25",
+  "stable_id": "filmfund__contentpage_id-25__d8f60fd8",
+  "fetched_at": "2026-05-09T10:57:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:57:30Z",
+  "duration_ms": 6480,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:77a2e5ad72fa006c7b7945326f105666754c4cd98ea2bf504efd94b3bce653f0",
+  "md_bytes": 6584,
+  "links_found": 11,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Besties",
+  "stable_id": "nfct__en-movies-archive_keywords-Besties__3da38f43",
+  "fetched_at": "2026-05-16T13:45:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:45:27Z",
+  "duration_ms": 7931,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:771edcdf0a6d72cc3cbda809b41bb2286cbf3d5677a10266da313dcd23c8a09b",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

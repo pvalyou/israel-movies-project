@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גנט/",
+  "stable_id": "nfct__blog-movies__eacc01c5",
+  "fetched_at": "2026-05-09T16:52:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:52:05Z",
+  "duration_ms": 94945,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44e1b877d9383d4b854de1bcced3c40dd736dbe0cbc7fb8fd62dfd7f9e257e64",
+  "md_bytes": 19308,
+  "links_found": 44,
+  "files_found": 0
+}

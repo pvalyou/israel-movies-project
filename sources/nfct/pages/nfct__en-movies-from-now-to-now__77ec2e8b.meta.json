@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/from-now-to-now/",
+  "stable_id": "nfct__en-movies-from-now-to-now__77ec2e8b",
+  "fetched_at": "2026-05-12T02:29:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:29:35Z",
+  "duration_ms": 21955,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:546a9f97a7a8ee22837378ebcba038de6a42246b95a1067ef1c265dec713030f",
+  "md_bytes": 11251,
+  "links_found": 26,
+  "files_found": 0
+}

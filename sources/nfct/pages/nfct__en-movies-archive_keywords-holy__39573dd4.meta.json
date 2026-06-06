@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=holy",
+  "stable_id": "nfct__en-movies-archive_keywords-holy__39573dd4",
+  "fetched_at": "2026-05-16T16:29:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:29:21Z",
+  "duration_ms": 8693,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3bb4020fbede6fbb4d2b3b5cd3c24e5e30fcb6d0bd177058665d57616f2b6e25",
+  "md_bytes": 16805,
+  "links_found": 82,
+  "files_found": 0
+}

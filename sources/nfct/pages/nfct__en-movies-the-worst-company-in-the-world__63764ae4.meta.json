@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-worst-company-in-the-world/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-the-worst-company-in-the-world__63764ae4",
+  "fetched_at": "2026-05-16T16:06:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:06:04Z",
+  "duration_ms": 12873,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc38394b071a6e56fa1a6b7cdb845b860f9815f9c353fdeb7b7922a9727ce36a",
+  "md_bytes": 14828,
+  "links_found": 31,
+  "files_found": 0
+}

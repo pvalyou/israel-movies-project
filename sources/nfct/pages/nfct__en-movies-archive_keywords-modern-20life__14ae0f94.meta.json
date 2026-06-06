@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=modern%20life",
+  "stable_id": "nfct__en-movies-archive_keywords-modern-20life__14ae0f94",
+  "fetched_at": "2026-05-16T13:28:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:28:56Z",
+  "duration_ms": 7247,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ee95655005e5b087529fd7d8c3bd2e462011d49f952ab3bfc2b6eade6d689442",
+  "md_bytes": 14051,
+  "links_found": 77,
+  "files_found": 0
+}

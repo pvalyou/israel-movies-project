@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hatikvah",
+  "stable_id": "nfct__en-movies-archive_keywords-Hatikvah__b33496ec",
+  "fetched_at": "2026-05-16T11:01:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:01:12Z",
+  "duration_ms": 6263,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ccfa69ce75cd7b0685cc5b9903baccd95973a223ccd217a0d50fff468fa55427",
+  "md_bytes": 10228,
+  "links_found": 68,
+  "files_found": 0
+}

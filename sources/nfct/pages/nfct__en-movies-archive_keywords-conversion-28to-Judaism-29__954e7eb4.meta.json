@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conversion+%28to+Judaism%29",
+  "stable_id": "nfct__en-movies-archive_keywords-conversion-28to-Judaism-29__954e7eb4",
+  "fetched_at": "2026-05-16T16:17:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:17:34Z",
+  "duration_ms": 7790,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ad43eeaf96c808b7f021feacf075a296b6c3d4b862404c52cf4e2c2eeb805eeb",
+  "md_bytes": 9825,
+  "links_found": 67,
+  "files_found": 0
+}

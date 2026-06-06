@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-little-things/",
+  "stable_id": "nfct__en-movies-the-little-things__5de49cdb",
+  "fetched_at": "2026-05-11T21:59:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:59:49Z",
+  "duration_ms": 7395,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:29d2fc6f9fa51d4cab5d46d1598f5b6aa014395515ded9c1a0f3ad1d6fadfb87",
+  "md_bytes": 14716,
+  "links_found": 44,
+  "files_found": 0
+}

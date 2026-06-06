@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ציפור-בחדר/",
+  "stable_id": "makor__films__2c3f0463",
+  "fetched_at": "2026-05-09T12:48:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:48:02Z",
+  "duration_ms": 18131,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d33031f46456f553612f6ecce19aeca6d4dd8141472eb5928bbc427d1a4579f0",
+  "md_bytes": 3804,
+  "links_found": 4,
+  "files_found": 0
+}

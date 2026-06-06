@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shabbat+Dinner",
+  "stable_id": "nfct__en-movies-archive_keywords-Shabbat-Dinner__f3471b50",
+  "fetched_at": "2026-05-16T12:44:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:44:54Z",
+  "duration_ms": 11788,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bd6fecb8a300e0697774d29d0a069bfce235b8ceb9a9da6d87511100741eea36",
+  "md_bytes": 10262,
+  "links_found": 68,
+  "files_found": 0
+}

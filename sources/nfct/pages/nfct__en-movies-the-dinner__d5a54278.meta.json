@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-dinner/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-dinner__d5a54278",
+  "fetched_at": "2026-05-16T15:16:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:16:23Z",
+  "duration_ms": 7945,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82a84fbf3f2ed4ac7f4d628472b6f307f7a89510d41e5906ee4e6ea1f45c4453",
+  "md_bytes": 17015,
+  "links_found": 54,
+  "files_found": 0
+}

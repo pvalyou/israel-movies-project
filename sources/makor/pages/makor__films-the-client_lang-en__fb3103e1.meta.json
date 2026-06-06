@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-client/?lang=en",
+  "stable_id": "makor__films-the-client_lang-en__fb3103e1",
+  "fetched_at": "2026-05-09T13:11:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:11:04Z",
+  "duration_ms": 7669,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9224c186513c067b8f870910bacd73a458d0bf42d5cf2cf6e952eea0ff23669",
+  "md_bytes": 2047,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/oil-garlic-and-lemon-on-bread/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-oil-garlic-and-lemon-on-bread__a07bf5fe",
+  "fetched_at": "2026-05-16T10:41:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:41:42Z",
+  "duration_ms": 5965,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:795b44b5e1e07c2d4927d737e3243c2dd5c7e40924d2328f31e135dbf847acbc",
+  "md_bytes": 13398,
+  "links_found": 36,
+  "files_found": 0
+}

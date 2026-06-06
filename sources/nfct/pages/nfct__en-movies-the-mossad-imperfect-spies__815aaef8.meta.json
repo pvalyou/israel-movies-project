@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-mossad-imperfect-spies/",
+  "stable_id": "nfct__en-movies-the-mossad-imperfect-spies__815aaef8",
+  "fetched_at": "2026-05-11T22:51:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:51:19Z",
+  "duration_ms": 14236,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a4b0aabb94536fb89d38d09682795860b983367d8d77c5a32d777ba5a86d3f4e",
+  "md_bytes": 20773,
+  "links_found": 94,
+  "files_found": 0
+}

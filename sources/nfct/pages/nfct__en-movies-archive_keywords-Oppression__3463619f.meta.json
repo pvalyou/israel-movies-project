@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Oppression",
+  "stable_id": "nfct__en-movies-archive_keywords-Oppression__3463619f",
+  "fetched_at": "2026-05-16T05:31:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:31:51Z",
+  "duration_ms": 8280,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c5f69f57fbf438de3839ddeff38e96b55f9071eeedd45ea03cd0fac1d05f7b7",
+  "md_bytes": 11218,
+  "links_found": 71,
+  "files_found": 0
+}

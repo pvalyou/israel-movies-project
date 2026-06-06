@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/white-night/",
+  "stable_id": "nfct__en-movies-white-night__5b6261c6",
+  "fetched_at": "2026-05-10T23:32:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T23:32:12Z",
+  "duration_ms": 39497,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c3443d897cac1c3a1c81c2cc2e95a28a05112c2b268776a1913eb8bb5a5629ea",
+  "md_bytes": 13907,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/one-two-home/",
+  "stable_id": "nfct__en-movies-one-two-home__12e2f701",
+  "fetched_at": "2026-05-11T20:15:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:15:14Z",
+  "duration_ms": 43087,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ac98d06f270346c0c12266376261535a85929554880dacec3648ac52c9cffbdd",
+  "md_bytes": 13782,
+  "links_found": 43,
+  "files_found": 0
+}

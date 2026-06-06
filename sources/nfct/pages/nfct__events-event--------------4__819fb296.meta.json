@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-אגורות-בדראן-בדראן-סינמטק-תל-אב-4/",
+  "stable_id": "nfct__events-event--------------4__819fb296",
+  "fetched_at": "2026-05-10T09:50:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T09:50:40Z",
+  "duration_ms": 14915,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d45a3cd1a08c42ae028c0f6ad8180651bbde1f901fba87c734c983943c3e3228",
+  "md_bytes": 10827,
+  "links_found": 22,
+  "files_found": 0
+}

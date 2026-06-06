@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Wahat+A+Salam",
+  "stable_id": "nfct__en-movies-archive_keywords-Wahat-A-Salam__55e82949",
+  "fetched_at": "2026-05-16T14:48:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:48:57Z",
+  "duration_ms": 6671,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6db37225442faaa06bff862c2695a19007653c66ba01dd99883017fe78f0ca40",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

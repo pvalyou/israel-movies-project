@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/condensed/",
+  "stable_id": "nfct__en-movies-condensed__8c5a3544",
+  "fetched_at": "2026-05-15T09:45:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:45:35Z",
+  "duration_ms": 9203,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0d8673fce2696a06a4335b62a15aadc4b61b996df8ad4882ddc381801be44f0",
+  "md_bytes": 11290,
+  "links_found": 31,
+  "files_found": 0
+}

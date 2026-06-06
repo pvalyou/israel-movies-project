@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/beyond-pirelia/",
+  "stable_id": "nfct__en-movies-beyond-pirelia__7c8dcbf5",
+  "fetched_at": "2026-05-10T23:53:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T23:53:25Z",
+  "duration_ms": 14906,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:efdead7b9d67c7e7439a8d65852c1b70f3ee3fa0e6d97c769aeecb3bad881bef",
+  "md_bytes": 13039,
+  "links_found": 38,
+  "files_found": 0
+}

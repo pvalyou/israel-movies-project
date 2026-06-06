@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Telly+Savalas",
+  "stable_id": "nfct__en-movies-archive_keywords-Telly-Savalas__6ed45e3e",
+  "fetched_at": "2026-05-16T07:13:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:13:42Z",
+  "duration_ms": 5782,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef2df2640594a03214031cc4a4bf8a24ec95f6c1418ca20baffc90f7100aaf28",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

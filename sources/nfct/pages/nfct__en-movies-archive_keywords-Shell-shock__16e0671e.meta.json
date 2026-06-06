@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shell+shock",
+  "stable_id": "nfct__en-movies-archive_keywords-Shell-shock__16e0671e",
+  "fetched_at": "2026-05-16T12:46:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:46:21Z",
+  "duration_ms": 8995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07f7008102972a20c9e155bc340edc4bedfd3ed0967478d03a8944775b1a44e9",
+  "md_bytes": 10907,
+  "links_found": 70,
+  "files_found": 0
+}

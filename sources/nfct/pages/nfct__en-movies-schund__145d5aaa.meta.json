@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/schund/",
+  "stable_id": "nfct__en-movies-schund__145d5aaa",
+  "fetched_at": "2026-05-11T03:57:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:57:47Z",
+  "duration_ms": 25839,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c1e4daa5d2b81325b7720cdcf8cd7183ebc67a30ba7726849924297ca3a1d345",
+  "md_bytes": 11353,
+  "links_found": 29,
+  "files_found": 0
+}

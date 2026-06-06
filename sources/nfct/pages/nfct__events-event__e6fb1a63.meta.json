@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-לוס-אנגלס-דרום-מחזמר-דוקומנטרי/",
+  "stable_id": "nfct__events-event__e6fb1a63",
+  "fetched_at": "2026-05-09T23:00:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T23:00:12Z",
+  "duration_ms": 21133,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e6393a2ed01a2090168e5c780211d3f539b186550f371a9c9c925fd25ee37358",
+  "md_bytes": 11298,
+  "links_found": 22,
+  "files_found": 0
+}

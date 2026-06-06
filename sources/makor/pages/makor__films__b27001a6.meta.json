@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/גן-עדן/",
+  "stable_id": "makor__films__b27001a6",
+  "fetched_at": "2026-05-09T13:07:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:07:19Z",
+  "duration_ms": 13582,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a3cd9b42fae8851bd86f1409f95a02a4e0e4eb2727718a465f3ebcdc28d8b13d",
+  "md_bytes": 3128,
+  "links_found": 4,
+  "files_found": 0
+}

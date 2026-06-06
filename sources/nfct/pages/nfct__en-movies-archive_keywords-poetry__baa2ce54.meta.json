@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=poetry",
+  "stable_id": "nfct__en-movies-archive_keywords-poetry__baa2ce54",
+  "fetched_at": "2026-05-16T10:52:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:52:29Z",
+  "duration_ms": 7932,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b25ca1961202b18822f0cda508a8447167538f684c4a9b7b8b636bd32de431a",
+  "md_bytes": 16119,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נקודה/",
+  "stable_id": "nfct__blog-movies__f8111215",
+  "fetched_at": "2026-05-09T19:14:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:14:28Z",
+  "duration_ms": 16290,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c7f4a316acad3517f1da9de0505d98e000275caa937af1645f2a36ad3394c189",
+  "md_bytes": 14913,
+  "links_found": 31,
+  "files_found": 0
+}

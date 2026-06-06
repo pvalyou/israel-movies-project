@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Far+East",
+  "stable_id": "nfct__en-movies-archive_keywords-Far-East__eefaffd7",
+  "fetched_at": "2026-05-16T09:41:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:41:23Z",
+  "duration_ms": 17476,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:16d7ec7bcaa56b50295f747582957f1cba263f791672d05f54ad209992251320",
+  "md_bytes": 10872,
+  "links_found": 70,
+  "files_found": 0
+}

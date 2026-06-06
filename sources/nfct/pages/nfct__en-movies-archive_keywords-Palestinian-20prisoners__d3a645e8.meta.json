@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian%20prisoners",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-20prisoners__d3a645e8",
+  "fetched_at": "2026-05-16T11:11:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:11:54Z",
+  "duration_ms": 9270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8c8709fdecbf51c289b38b22e546483703701bab9453d9d58c9700d4897c196c",
+  "md_bytes": 11048,
+  "links_found": 70,
+  "files_found": 0
+}

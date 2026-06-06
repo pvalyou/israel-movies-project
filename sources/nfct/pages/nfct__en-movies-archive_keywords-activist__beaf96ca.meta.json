@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=activist",
+  "stable_id": "nfct__en-movies-archive_keywords-activist__beaf96ca",
+  "fetched_at": "2026-05-16T12:33:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:47Z",
+  "duration_ms": 9657,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ca830714839329e5533c423c60f541d7f21fa6cf18a72b2b18eafb0d263d0c2",
+  "md_bytes": 13758,
+  "links_found": 77,
+  "files_found": 0
+}

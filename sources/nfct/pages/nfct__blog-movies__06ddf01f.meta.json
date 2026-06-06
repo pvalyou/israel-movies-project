@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/המשחק-של-פלאפל/",
+  "stable_id": "nfct__blog-movies__06ddf01f",
+  "fetched_at": "2026-05-09T17:53:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:53:24Z",
+  "duration_ms": 30981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ac0fedff23dcb8f8538166d5d04f9a3bf776cbbff074aadd4a5b7c8d78d814d9",
+  "md_bytes": 18297,
+  "links_found": 36,
+  "files_found": 0
+}

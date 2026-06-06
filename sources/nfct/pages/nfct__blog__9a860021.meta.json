@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/ספרינט-דוקומנטרי/",
+  "stable_id": "nfct__blog__9a860021",
+  "fetched_at": "2026-05-09T15:59:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:59:24Z",
+  "duration_ms": 54255,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99fa267a33542560c741411f9258c13a57e94fa02ce92490e89f2c94f8b1d0c8",
+  "md_bytes": 13080,
+  "links_found": 21,
+  "files_found": 2
+}

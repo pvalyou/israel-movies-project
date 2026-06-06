@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Roman%20Polanski",
+  "stable_id": "nfct__en-movies-archive_keywords-Roman-20Polanski__154c8641",
+  "fetched_at": "2026-05-16T15:48:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:48:48Z",
+  "duration_ms": 9349,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60e4e1838929064d3c02218e851b5f36f43d7abddd33dabfeed890717213d4ae",
+  "md_bytes": 10033,
+  "links_found": 68,
+  "files_found": 0
+}

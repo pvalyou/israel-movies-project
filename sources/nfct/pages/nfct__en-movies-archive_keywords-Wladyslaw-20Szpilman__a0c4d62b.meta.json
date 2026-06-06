@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Wladyslaw%20Szpilman",
+  "stable_id": "nfct__en-movies-archive_keywords-Wladyslaw-20Szpilman__a0c4d62b",
+  "fetched_at": "2026-05-16T15:48:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:48:53Z",
+  "duration_ms": 7984,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2385404a45d1dd198b8412862aec093f744f8b7733411b41a3ebe23321ea8630",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

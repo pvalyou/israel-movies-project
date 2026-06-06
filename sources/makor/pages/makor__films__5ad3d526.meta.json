@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/כלב/",
+  "stable_id": "makor__films__5ad3d526",
+  "fetched_at": "2026-05-09T12:59:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:59Z",
+  "duration_ms": 14882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8c0f6c331b5ead3bf2104c2b9dd145e7809ce938933dbb9c04c9f9a12193fad",
+  "md_bytes": 2236,
+  "links_found": 4,
+  "files_found": 0
+}

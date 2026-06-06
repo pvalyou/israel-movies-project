@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arieh+Lahola",
+  "stable_id": "nfct__en-movies-archive_keywords-Arieh-Lahola__51b440f3",
+  "fetched_at": "2026-05-16T10:41:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:41:00Z",
+  "duration_ms": 12886,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc45adb5f8d47c31aa3c4d719fc5b5918cfec156ccc606302e36c9c6a54fac80",
+  "md_bytes": 9962,
+  "links_found": 68,
+  "files_found": 0
+}

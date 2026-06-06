@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Boyfriend",
+  "stable_id": "nfct__en-movies-archive_keywords-Boyfriend__6b534a17",
+  "fetched_at": "2026-05-16T12:54:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:54:59Z",
+  "duration_ms": 13543,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e0ede2f96a1958f2d8694e5a053e679d292cd130c3188143df0c2c9c46ba6514",
+  "md_bytes": 13733,
+  "links_found": 77,
+  "files_found": 0
+}

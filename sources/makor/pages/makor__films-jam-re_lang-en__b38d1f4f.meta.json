@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/jam-re/?lang=en",
+  "stable_id": "makor__films-jam-re_lang-en__b38d1f4f",
+  "fetched_at": "2026-05-09T13:23:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:23:34Z",
+  "duration_ms": 7965,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:baa223f5d5d8213d3c231f5b6fb379d7535219025e31ea4d1bf559c9e00c8ba0",
+  "md_bytes": 1803,
+  "links_found": 4,
+  "files_found": 0
+}

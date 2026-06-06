@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/longshort/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-longshort__7df217ee",
+  "fetched_at": "2026-05-16T06:46:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:46:22Z",
+  "duration_ms": 15115,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0bd366b2be8f34e6defb313a4e49b797a558b394e49fbd5994961eeb3bf4fcfb",
+  "md_bytes": 12823,
+  "links_found": 31,
+  "files_found": 0
+}

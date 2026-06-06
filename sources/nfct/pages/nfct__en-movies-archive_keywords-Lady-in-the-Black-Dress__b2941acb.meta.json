@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lady+in+the+Black+Dress",
+  "stable_id": "nfct__en-movies-archive_keywords-Lady-in-the-Black-Dress__b2941acb",
+  "fetched_at": "2026-05-16T12:09:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:09:29Z",
+  "duration_ms": 9089,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ee90c70e65fc7548f9047aee7183073cc596c85ae5e28d9977684c52f5668fe6",
+  "md_bytes": 10507,
+  "links_found": 68,
+  "files_found": 0
+}

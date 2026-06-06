@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=IDF%20fallen",
+  "stable_id": "nfct__en-movies-archive_keywords-IDF-20fallen__85a44ff4",
+  "fetched_at": "2026-05-16T20:19:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:19:56Z",
+  "duration_ms": 9064,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5fc9bc172a2608e6d54658ed800ca145b8f84b0828de8cf0794de31b5ca4cc02",
+  "md_bytes": 10124,
+  "links_found": 68,
+  "files_found": 0
+}

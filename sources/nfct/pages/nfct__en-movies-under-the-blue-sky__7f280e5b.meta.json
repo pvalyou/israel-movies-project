@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/under-the-blue-sky/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-under-the-blue-sky__7f280e5b",
+  "fetched_at": "2026-05-16T17:12:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:12:37Z",
+  "duration_ms": 15218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df30e0ebf812a44cdc774ed70bb26c36e6d21ca1879a5849e0ac71e728d63ebf",
+  "md_bytes": 11340,
+  "links_found": 34,
+  "files_found": 0
+}

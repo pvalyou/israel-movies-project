@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish+boxer",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-boxer__717b3a40",
+  "fetched_at": "2026-05-16T10:04:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:04:26Z",
+  "duration_ms": 7439,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3572bd990a9bbb6bba2cb88e83d271aa5610b17161ff682f90f78b2afae71224",
+  "md_bytes": 10597,
+  "links_found": 69,
+  "files_found": 0
+}

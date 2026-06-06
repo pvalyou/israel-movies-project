@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/חקיקה-ואמנות/",
+  "stable_id": "nfct__page__e1031a1c",
+  "fetched_at": "2026-05-09T15:19:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:19:48Z",
+  "duration_ms": 36009,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a23783cc702b64cf10fbd09e97a725d93ec49243ac4b0da93b5a24fccfb6db0",
+  "md_bytes": 21299,
+  "links_found": 27,
+  "files_found": 69
+}

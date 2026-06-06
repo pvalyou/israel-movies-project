@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ex%20Girlfriend",
+  "stable_id": "nfct__en-movies-archive_keywords-Ex-20Girlfriend__8de56d9a",
+  "fetched_at": "2026-05-16T16:01:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:01:37Z",
+  "duration_ms": 9483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f9e04869b0d048281cc3b156e4ae6ccf05876e8dcdde76dc4f2f1de12826d78f",
+  "md_bytes": 10956,
+  "links_found": 71,
+  "files_found": 0
+}

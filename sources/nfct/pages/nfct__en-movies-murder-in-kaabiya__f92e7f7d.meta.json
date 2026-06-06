@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/murder-in-kaabiya/",
+  "stable_id": "nfct__en-movies-murder-in-kaabiya__f92e7f7d",
+  "fetched_at": "2026-05-11T05:36:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:36:17Z",
+  "duration_ms": 17175,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:88fe6402ccdb936b5c69a5fb09669226e63886a8da6d66241346aa93e57ac5d2",
+  "md_bytes": 13612,
+  "links_found": 36,
+  "files_found": 0
+}

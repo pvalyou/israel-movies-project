@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יוקאלי/",
+  "stable_id": "nfct__blog-movies__6508001c",
+  "fetched_at": "2026-05-09T21:45:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:45:44Z",
+  "duration_ms": 19134,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:49b4c04bcae34bba1312d688585c84dc15e8e67891b96f1c8f18188016ffa2ee",
+  "md_bytes": 14906,
+  "links_found": 34,
+  "files_found": 0
+}

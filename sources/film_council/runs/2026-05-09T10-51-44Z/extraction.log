@@ -1,0 +1,7 @@
+ok        4510ms MISS https://www.gov.il/he/departments/units/film_council
+EXC     Scraper service rejected the request (403): b'<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta n
+Set the CRAWL4AI_API_KEY environment variable and retry.
+ok          45ms MISS https://www.gov.il/he/departments/publications/?OfficeId=7d5d01a1-c043-4c87-b8ef-5061999e797c&limit=10&UnitId=55eac82a-9aaa-4458-8380-85333591c059&publicationType=860cca36-4852-471a-befe-98108dc20be6
+ok          48ms MISS https://www.gov.il/he/departments/units/film_council#collapseItem2
+ok          54ms MISS https://www.gov.il/he/departments/publications/?OfficeId=7d5d01a1-c043-4c87-b8ef-5061999e797c&UnitId=55eac82a-9aaa-4458-8380-85333591c059&limit=10&publicationType=860cca36-4852-471a-befe-98108dc20be6
+ok          51ms MISS https://www.gov.il/BlobFolder/unit/film_council/he/נוהל

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=communal+living",
+  "stable_id": "nfct__en-movies-archive_keywords-communal-living__29d8d839",
+  "fetched_at": "2026-05-16T06:50:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:50:53Z",
+  "duration_ms": 5983,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d1255a92ed0e2fc11c70ddaf07a3a2995739b0a4e178df8d1dbb4984e506931e",
+  "md_bytes": 10516,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mom/",
+  "stable_id": "nfct__en-movies-mom__318f44e3",
+  "fetched_at": "2026-05-12T01:58:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:58:54Z",
+  "duration_ms": 43887,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8df503261c5fd57bcd74c94d73a8d48aa8a9a29b2ee46bb7a31008e6ecfdb69",
+  "md_bytes": 10231,
+  "links_found": 30,
+  "files_found": 0
+}

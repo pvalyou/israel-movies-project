@@ -1,0 +1,23 @@
+{
+  "url": "https://www.guidestar.org.il/page/add-user",
+  "stable_id": "guidestar__page-add-user__51fa86f3",
+  "fetched_at": "2026-05-09T11:15:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:15:14Z",
+  "duration_ms": 25393,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0d34487a7638441cb1257cabff7385dae73f91295702b7500a79e47bb996e1ee",
+  "md_bytes": 10414,
+  "links_found": 4,
+  "files_found": 0
+}

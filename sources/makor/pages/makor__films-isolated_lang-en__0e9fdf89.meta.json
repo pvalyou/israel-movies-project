@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/isolated/?lang=en",
+  "stable_id": "makor__films-isolated_lang-en__0e9fdf89",
+  "fetched_at": "2026-05-09T12:55:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:55:26Z",
+  "duration_ms": 14607,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4218b680a8f8dd05f8cea1fd0f4609c47c1566b411ab2697a69b02ee421df45",
+  "md_bytes": 2210,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-לילות-קיץ-אוהד-מילשטיין-פסטיבל-4/",
+  "stable_id": "nfct__events-event------------4__ab650b9b",
+  "fetched_at": "2026-05-09T22:35:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:35:42Z",
+  "duration_ms": 10569,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:607c1140f9385a05aa50ecd34ad4197003acc63d4c401ccc783dff10f460ae0e",
+  "md_bytes": 9935,
+  "links_found": 21,
+  "files_found": 0
+}

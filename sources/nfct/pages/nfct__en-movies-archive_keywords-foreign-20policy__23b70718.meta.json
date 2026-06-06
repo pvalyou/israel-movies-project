@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=foreign%20policy",
+  "stable_id": "nfct__en-movies-archive_keywords-foreign-20policy__23b70718",
+  "fetched_at": "2026-05-16T15:19:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:10Z",
+  "duration_ms": 11870,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c09d360c11148c7d97f0b305e26e392315dad67c948da33a099d2d67530bc26f",
+  "md_bytes": 10758,
+  "links_found": 70,
+  "files_found": 0
+}

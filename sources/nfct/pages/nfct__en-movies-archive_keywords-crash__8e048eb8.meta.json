@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=crash",
+  "stable_id": "nfct__en-movies-archive_keywords-crash__8e048eb8",
+  "fetched_at": "2026-05-16T14:10:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:10:44Z",
+  "duration_ms": 8431,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98fa4f42f1ed1336feede2dd66fc35a65dfb7187146b13873e516dce47494e79",
+  "md_bytes": 12843,
+  "links_found": 73,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האישה-בלבן/",
+  "stable_id": "nfct__blog-movies__ac2eedf9",
+  "fetched_at": "2026-05-09T19:10:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:10:06Z",
+  "duration_ms": 9053,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1715b3ecf4572aeb5e489cc9acb406628f3d849f34f985bfbf1e45d6ebb20f5",
+  "md_bytes": 17011,
+  "links_found": 33,
+  "files_found": 0
+}

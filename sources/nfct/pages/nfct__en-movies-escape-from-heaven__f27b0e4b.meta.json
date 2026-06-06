@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/escape-from-heaven/",
+  "stable_id": "nfct__en-movies-escape-from-heaven__f27b0e4b",
+  "fetched_at": "2026-05-16T03:05:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:05:42Z",
+  "duration_ms": 6303,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d0b8352cd13129f21f8bcadbdbe300a316a8e0d9f7c6809f6ec8c417a6a4d35",
+  "md_bytes": 12819,
+  "links_found": 36,
+  "files_found": 0
+}

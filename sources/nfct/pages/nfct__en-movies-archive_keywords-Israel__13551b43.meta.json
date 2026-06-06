@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israel",
+  "stable_id": "nfct__en-movies-archive_keywords-Israel__13551b43",
+  "fetched_at": "2026-05-16T04:15:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:15:47Z",
+  "duration_ms": 8284,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:656fd53ed1cbd03ab39cd73b5a16967edabd39259367e431ed9900671229c79b",
+  "md_bytes": 16957,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=go-karting",
+  "stable_id": "nfct__en-movies-archive_keywords-go-karting__3eb31469",
+  "fetched_at": "2026-05-16T09:52:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:52:58Z",
+  "duration_ms": 24173,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f0f49fbe096c8db087cf5f2ba2587acc7156cd0baec593c182d975bbbae8a1b",
+  "md_bytes": 10151,
+  "links_found": 68,
+  "files_found": 0
+}

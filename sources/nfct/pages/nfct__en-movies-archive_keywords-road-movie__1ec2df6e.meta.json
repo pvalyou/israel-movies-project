@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=road+movie",
+  "stable_id": "nfct__en-movies-archive_keywords-road-movie__1ec2df6e",
+  "fetched_at": "2026-05-16T15:08:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:08:52Z",
+  "duration_ms": 6630,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:775001435669620f87e893fd796ee5839f364b6130ca7b912b03ed4bbcf53b8f",
+  "md_bytes": 11992,
+  "links_found": 72,
+  "files_found": 0
+}

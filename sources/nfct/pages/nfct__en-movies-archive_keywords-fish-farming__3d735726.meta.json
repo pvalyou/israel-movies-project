@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fish+farming",
+  "stable_id": "nfct__en-movies-archive_keywords-fish-farming__3d735726",
+  "fetched_at": "2026-05-16T15:21:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:21:11Z",
+  "duration_ms": 7851,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:afe0c9821eb6d5fc2ad09f193c4ecfeb528c38d040d72a35f05d37aa1f36e73a",
+  "md_bytes": 9992,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Establishment+of+the+state",
+  "stable_id": "nfct__en-movies-archive_keywords-Establishment-of-the-state__55c816c0",
+  "fetched_at": "2026-05-16T20:40:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:40:30Z",
+  "duration_ms": 15916,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:679e684427248c56c0c05037ce409e7c165416e6894c54c827955ec65795e893",
+  "md_bytes": 13296,
+  "links_found": 75,
+  "files_found": 0
+}

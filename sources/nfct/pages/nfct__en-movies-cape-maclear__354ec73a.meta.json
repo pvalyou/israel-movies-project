@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cape-maclear/",
+  "stable_id": "nfct__en-movies-cape-maclear__354ec73a",
+  "fetched_at": "2026-05-12T02:08:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:08:06Z",
+  "duration_ms": 10075,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6bb741b14c4944a12b2aff89da8ad7f8592aba119aba42f5fd5a9a07a8aa7a79",
+  "md_bytes": 11718,
+  "links_found": 35,
+  "files_found": 0
+}

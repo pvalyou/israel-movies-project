@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=valor",
+  "stable_id": "nfct__en-movies-archive_keywords-valor__d1661975",
+  "fetched_at": "2026-05-16T20:21:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:21:52Z",
+  "duration_ms": 6246,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:215d198e3dcc2bedc2b1326d518c687cec3e465d1ed105360e9ca5a177db91dd",
+  "md_bytes": 10238,
+  "links_found": 68,
+  "files_found": 0
+}

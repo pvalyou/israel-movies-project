@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זאזאלנד/",
+  "stable_id": "nfct__blog-movies__a1d379af",
+  "fetched_at": "2026-05-09T22:07:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:07:52Z",
+  "duration_ms": 22673,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd4e31fd62a707c7c25f2052fd2606a87414fd4982a6021f64af384e75224c27",
+  "md_bytes": 15149,
+  "links_found": 31,
+  "files_found": 0
+}

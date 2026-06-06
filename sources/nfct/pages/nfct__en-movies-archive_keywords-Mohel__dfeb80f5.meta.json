@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mohel",
+  "stable_id": "nfct__en-movies-archive_keywords-Mohel__dfeb80f5",
+  "fetched_at": "2026-05-16T13:54:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:54:56Z",
+  "duration_ms": 10121,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6999355c23b106c845720fabbd9b3bc3769aac07bfeef2ffad482455984758bb",
+  "md_bytes": 10071,
+  "links_found": 68,
+  "files_found": 0
+}

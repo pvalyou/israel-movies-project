@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בלי-בושה/",
+  "stable_id": "nfct__blog-movies__ace36192",
+  "fetched_at": "2026-05-09T21:43:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:43:23Z",
+  "duration_ms": 7921,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a47471808cfab30419a9d3d9af4a95df2059c4b78343a3edc15dbbdce7289707",
+  "md_bytes": 13459,
+  "links_found": 29,
+  "files_found": 0
+}

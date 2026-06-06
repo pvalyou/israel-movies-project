@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ben-zvi-road-67/%20%E2%80%8E",
+  "stable_id": "nfct__en-movies-ben-zvi-road-67-20-E2-80-8E__b0888b98",
+  "fetched_at": "2026-05-11T05:31:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:31:12Z",
+  "duration_ms": 15572,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfddf783ebc9256861090a139c6bdcf32a517c1b17a1d97a954b6bdd3c383910",
+  "md_bytes": 6120,
+  "links_found": 17,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/album-61/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-album-61__b21fa783",
+  "fetched_at": "2026-05-16T07:15:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:15:32Z",
+  "duration_ms": 12500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a9ec8d8ad8905bc87678b490dcc7c63b02072ac4a58c1dfcb2c1ed6a0bfc4c4b",
+  "md_bytes": 13300,
+  "links_found": 29,
+  "files_found": 0
+}

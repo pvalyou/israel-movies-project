@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מיסטר-גאגא-תומר-הימן-סינמטק-תל-א-11/",
+  "stable_id": "nfct__events-event----------------11__a20742ed",
+  "fetched_at": "2026-05-10T00:07:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:07:07Z",
+  "duration_ms": 40709,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da4795a2b6075dec994cceb4e76a427af0a04e759298dc158f38a94f30ac3d7d",
+  "md_bytes": 13479,
+  "links_found": 28,
+  "files_found": 0
+}

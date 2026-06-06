@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sailing",
+  "stable_id": "nfct__en-movies-archive_keywords-sailing__8b0f4951",
+  "fetched_at": "2026-05-16T16:00:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:00:06Z",
+  "duration_ms": 9231,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10a6adf45107a655b3a72c0ceffb1d9254785b681beb32bb94fb53a86bf61e7b",
+  "md_bytes": 10522,
+  "links_found": 69,
+  "files_found": 0
+}

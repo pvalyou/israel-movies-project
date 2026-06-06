@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Berlin+Jewry",
+  "stable_id": "nfct__en-movies-archive_keywords-Berlin-Jewry__9347d22f",
+  "fetched_at": "2026-05-16T16:03:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:03:56Z",
+  "duration_ms": 7585,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d61d6640aa8ea0030beb5d020a415823e7ec6b8da934f6abd5de7ae035e63233",
+  "md_bytes": 10620,
+  "links_found": 68,
+  "files_found": 0
+}

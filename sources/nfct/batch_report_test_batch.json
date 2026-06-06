@@ -1,0 +1,20 @@
+{
+  "run_at": "2026-05-18T18:44:19.156073+00:00",
+  "source_id": "test_batch",
+  "url_file": "/tmp/test_urls.txt",
+  "stats": {
+    "succeeded": 1,
+    "failed": 0,
+    "empty": 0,
+    "total_bytes": 8228,
+    "skipped": 0
+  },
+  "details": [
+    {
+      "url": "https://nfct.org.il/%d7%9e%d7%95%d7%a2%d7%93%d7%99-%d7%94%d7%92%d7%a9%d7%94/nfct-studentsub/",
+      "status": "ok",
+      "error": "",
+      "bytes": 8228
+    }
+  ]
+}

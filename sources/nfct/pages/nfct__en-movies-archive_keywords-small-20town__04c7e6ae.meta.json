@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=small%20town",
+  "stable_id": "nfct__en-movies-archive_keywords-small-20town__04c7e6ae",
+  "fetched_at": "2026-05-16T20:18:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:26Z",
+  "duration_ms": 8741,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc0eaf2fa151b3ad612d5b9617345b2afb945ea1ab948e250b88206b9f90a6f3",
+  "md_bytes": 16242,
+  "links_found": 82,
+  "files_found": 0
+}

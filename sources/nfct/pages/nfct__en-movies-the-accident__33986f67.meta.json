@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-accident/",
+  "stable_id": "nfct__en-movies-the-accident__33986f67",
+  "fetched_at": "2026-05-11T11:44:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:44:23Z",
+  "duration_ms": 7438,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ea936ed7c54dcb92015919e643444ae1a1011adc68e0ee8688cc27b693a888c",
+  "md_bytes": 12406,
+  "links_found": 40,
+  "files_found": 0
+}

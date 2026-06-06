@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=victim",
+  "stable_id": "nfct__en-movies-archive_keywords-victim__669bb54d",
+  "fetched_at": "2026-05-16T11:25:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:25:07Z",
+  "duration_ms": 9299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:632b31ece0ae3757f8892fab4daae6a93c53ce96e679243af168d3270b645845",
+  "md_bytes": 16434,
+  "links_found": 82,
+  "files_found": 0
+}

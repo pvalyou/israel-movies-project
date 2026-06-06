@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מבט-על/",
+  "stable_id": "nfct__blog-movies__6b803cc9",
+  "fetched_at": "2026-05-09T17:56:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:56:21Z",
+  "duration_ms": 15864,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:300b29b07c504706b907b529bbae6b697bb127e92f1b88f7e75669f9119f2125",
+  "md_bytes": 16451,
+  "links_found": 35,
+  "files_found": 0
+}

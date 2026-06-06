@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-סרט-בר-מצווה-דנה-אידיסיס-yes-דוקו-11/",
+  "stable_id": "nfct__events-event------------yes---11__380cbe57",
+  "fetched_at": "2026-05-10T10:07:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T10:07:55Z",
+  "duration_ms": 15888,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c58d479567d62b50c3e5c8b64cd807a01867c1aa85c472872b2614b5944ab694",
+  "md_bytes": 10388,
+  "links_found": 21,
+  "files_found": 0
+}

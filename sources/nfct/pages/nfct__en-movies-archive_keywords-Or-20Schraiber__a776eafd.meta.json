@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Or%20Schraiber",
+  "stable_id": "nfct__en-movies-archive_keywords-Or-20Schraiber__a776eafd",
+  "fetched_at": "2026-05-16T12:53:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:53:07Z",
+  "duration_ms": 9729,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a4de1ea866d864d3fcd2cfdf225acc7172bbdda66e68c23e9b0bbf021a5b7ab8",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Majdal%20Shams",
+  "stable_id": "nfct__en-movies-archive_keywords-Majdal-20Shams__544fa02e",
+  "fetched_at": "2026-05-16T12:22:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:33Z",
+  "duration_ms": 8879,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8ef82f64fb59001b8714a2c8dc08e93f04b4c0f2af19c6cbfc73d00da7ac6059",
+  "md_bytes": 10208,
+  "links_found": 68,
+  "files_found": 0
+}

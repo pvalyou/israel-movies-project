@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גנבים-בחוק/",
+  "stable_id": "nfct__blog-movies__ed22f0f7",
+  "fetched_at": "2026-05-09T17:32:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:32:53Z",
+  "duration_ms": 53094,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec858fe2f36701988ea2f1e834c708715ec70b4a48d95677d7111d8b8d53e341",
+  "md_bytes": 18463,
+  "links_found": 42,
+  "files_found": 0
+}

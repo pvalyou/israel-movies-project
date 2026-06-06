@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/anthrax/",
+  "stable_id": "nfct__en-movies-anthrax__b4ef983e",
+  "fetched_at": "2026-05-11T23:02:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T23:02:06Z",
+  "duration_ms": 57881,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b9530c152dfe82d32c3a8c170002acb1aa8157ba730bc6b4f277829c2311d78a",
+  "md_bytes": 12837,
+  "links_found": 37,
+  "files_found": 0
+}

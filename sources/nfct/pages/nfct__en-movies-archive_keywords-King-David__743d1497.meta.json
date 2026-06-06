@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=King+David",
+  "stable_id": "nfct__en-movies-archive_keywords-King-David__743d1497",
+  "fetched_at": "2026-05-16T16:14:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:14:52Z",
+  "duration_ms": 6831,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96accfe3d4f98184b385885c0d2548b2bda61218e344962cc942563393bc8753",
+  "md_bytes": 11934,
+  "links_found": 72,
+  "files_found": 0
+}

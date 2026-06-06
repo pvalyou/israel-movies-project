@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/balcony/",
+  "stable_id": "nfct__en-movies-balcony__e5e403e0",
+  "fetched_at": "2026-05-11T20:12:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:12:49Z",
+  "duration_ms": 32308,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f88fbb6a9335b53ae2fd7ad749f2928ac0aa0dd9d96b64b84d2c268099df968",
+  "md_bytes": 15853,
+  "links_found": 56,
+  "files_found": 0
+}

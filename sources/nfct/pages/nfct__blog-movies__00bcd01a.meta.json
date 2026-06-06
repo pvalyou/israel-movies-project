@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יש-לי-חלום-יפו-תא/",
+  "stable_id": "nfct__blog-movies__00bcd01a",
+  "fetched_at": "2026-05-09T17:03:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:03:40Z",
+  "duration_ms": 13588,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c1a441fe29e0ad77172ce4ab885bb7e3f6ff597f95fd049cc8600ec701a48b3",
+  "md_bytes": 12967,
+  "links_found": 30,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=soul%20searching",
+  "stable_id": "nfct__en-movies-archive_keywords-soul-20searching__d0b3c59d",
+  "fetched_at": "2026-05-16T16:42:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:42:51Z",
+  "duration_ms": 7872,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6fe4d23cace1d487073d50843c3871c80b67829def06e8e586936a6335896411",
+  "md_bytes": 10472,
+  "links_found": 69,
+  "files_found": 0
+}

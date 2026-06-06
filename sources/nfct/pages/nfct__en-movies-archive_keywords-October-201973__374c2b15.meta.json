@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=October%201973",
+  "stable_id": "nfct__en-movies-archive_keywords-October-201973__374c2b15",
+  "fetched_at": "2026-05-16T12:30:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:00Z",
+  "duration_ms": 9162,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed7448a900474e55ffc7d448c76595935cf04f673cadbf090abc0652c523504d",
+  "md_bytes": 11105,
+  "links_found": 70,
+  "files_found": 0
+}

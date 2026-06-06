@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/naseej-fabric-of-life/#UAMainContent",
+  "stable_id": "nfct__en-movies-naseej-fabric-of-life__2abb2708",
+  "fetched_at": "2026-05-16T15:30:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:30:08Z",
+  "duration_ms": 8537,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b24537be88feddd5a4ff580c79a45d3d651e1a4dda427c73d9214844fdd7b79f",
+  "md_bytes": 14926,
+  "links_found": 39,
+  "files_found": 0
+}

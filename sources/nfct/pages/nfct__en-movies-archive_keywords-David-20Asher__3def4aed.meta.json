@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=David%20Asher",
+  "stable_id": "nfct__en-movies-archive_keywords-David-20Asher__3def4aed",
+  "fetched_at": "2026-05-16T14:14:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:38Z",
+  "duration_ms": 7477,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7ebc25306a2c60697d1ce814547b56f9ba2bae3c744d5a6ede803ee533480d51",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

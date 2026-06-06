@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=breast",
+  "stable_id": "nfct__en-movies-archive_keywords-breast__9bce815c",
+  "fetched_at": "2026-05-16T16:59:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:59:38Z",
+  "duration_ms": 7039,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:112e764ad9e7db7636dcb4e98d2fb0ca35686fb48bb5d8bc3ea4f0fff9fcf524",
+  "md_bytes": 11254,
+  "links_found": 71,
+  "files_found": 0
+}

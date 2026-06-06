@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Culinary+Institute",
+  "stable_id": "nfct__en-movies-archive_keywords-Culinary-Institute__6e18b8ee",
+  "fetched_at": "2026-05-16T12:05:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:05:34Z",
+  "duration_ms": 10244,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b8e676cae81e80af93403064e4cfdbcb8c07ba117c86ccda2937ad7cb6e7f57",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

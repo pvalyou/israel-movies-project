@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/zoog-a-couple/",
+  "stable_id": "nfct__en-movies-zoog-a-couple__76a95895",
+  "fetched_at": "2026-05-11T15:24:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:24:23Z",
+  "duration_ms": 23144,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60a5cb7650664e53eaca7fe4223b7410cf0264d182524f7850d495803097c0d8",
+  "md_bytes": 11059,
+  "links_found": 28,
+  "files_found": 0
+}

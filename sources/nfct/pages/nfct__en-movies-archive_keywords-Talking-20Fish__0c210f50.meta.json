@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Talking%20Fish",
+  "stable_id": "nfct__en-movies-archive_keywords-Talking-20Fish__0c210f50",
+  "fetched_at": "2026-05-16T13:41:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:41:59Z",
+  "duration_ms": 7541,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:48e3543f7be65a161ae9a8efcc5dd326c03c4a5d6220f5cb0b9201527bf9fd5b",
+  "md_bytes": 10298,
+  "links_found": 68,
+  "files_found": 0
+}

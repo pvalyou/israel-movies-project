@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/girl-at-risk/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-girl-at-risk__700cef14",
+  "fetched_at": "2026-05-16T16:45:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:45:42Z",
+  "duration_ms": 7591,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa0bad7073d5c90b0f4d1daea26165b5ddf894fa8d758613677ba403215fa8e8",
+  "md_bytes": 12751,
+  "links_found": 33,
+  "files_found": 0
+}

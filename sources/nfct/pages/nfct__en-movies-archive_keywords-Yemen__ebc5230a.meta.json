@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yemen",
+  "stable_id": "nfct__en-movies-archive_keywords-Yemen__ebc5230a",
+  "fetched_at": "2026-05-16T07:35:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:35:30Z",
+  "duration_ms": 9461,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96dac2129a1b520ce2139359694515f3a3a347a117e0534a78c91d7a9615f254",
+  "md_bytes": 12302,
+  "links_found": 74,
+  "files_found": 0
+}

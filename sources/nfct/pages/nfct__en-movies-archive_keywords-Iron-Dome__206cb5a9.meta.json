@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Iron+Dome",
+  "stable_id": "nfct__en-movies-archive_keywords-Iron-Dome__206cb5a9",
+  "fetched_at": "2026-05-16T08:33:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:33:15Z",
+  "duration_ms": 6884,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d7aa7c311bda7ca871513721d2752992ce5e6d55268b7084987dafdde8cb680f",
+  "md_bytes": 10336,
+  "links_found": 68,
+  "files_found": 0
+}

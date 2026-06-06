@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Temple",
+  "stable_id": "nfct__en-movies-archive_keywords-Temple__baab0351",
+  "fetched_at": "2026-05-16T10:27:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:27:35Z",
+  "duration_ms": 7809,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c07bc53284fbbaf1a288001860588488fec994a6d141204a199d9a2694ccb47",
+  "md_bytes": 13445,
+  "links_found": 75,
+  "files_found": 0
+}

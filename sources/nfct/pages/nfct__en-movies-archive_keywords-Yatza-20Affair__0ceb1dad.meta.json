@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yatza%20Affair",
+  "stable_id": "nfct__en-movies-archive_keywords-Yatza-20Affair__0ceb1dad",
+  "fetched_at": "2026-05-16T08:24:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:24:01Z",
+  "duration_ms": 6176,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c0f17a23295e37028c0d0b36fa7637990099d34d7c19f5daf8b6a36264b167bd",
+  "md_bytes": 10000,
+  "links_found": 68,
+  "files_found": 0
+}

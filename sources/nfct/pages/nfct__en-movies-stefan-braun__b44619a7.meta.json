@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/stefan-braun/",
+  "stable_id": "nfct__en-movies-stefan-braun__b44619a7",
+  "fetched_at": "2026-05-15T09:44:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:44:28Z",
+  "duration_ms": 12524,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:025bc71061e4f19e0b5450364abba9963b6b71c2afcbe128916f444df88fecff",
+  "md_bytes": 17338,
+  "links_found": 42,
+  "files_found": 0
+}

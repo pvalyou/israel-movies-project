@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עין-אחת-פקוחה/",
+  "stable_id": "nfct__blog-movies__a23a8729",
+  "fetched_at": "2026-05-09T19:10:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:10:54Z",
+  "duration_ms": 42268,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:88092885709484df3dca9d9dad6abfe72c79987f0017c1dd534bac39d20a9eb9",
+  "md_bytes": 16902,
+  "links_found": 35,
+  "files_found": 0
+}

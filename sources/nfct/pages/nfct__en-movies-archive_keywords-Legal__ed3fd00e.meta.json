@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Legal",
+  "stable_id": "nfct__en-movies-archive_keywords-Legal__ed3fd00e",
+  "fetched_at": "2026-05-16T13:39:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:39:24Z",
+  "duration_ms": 8137,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e2b3d056a6f311aa1ab1c113c3c8997c6ccb183896a6339e611c1c5a973401a",
+  "md_bytes": 16344,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfund.org.il/Upload/Media/Tinymce/Files/3Months24-7Berlin",
+  "stable_id": "filmfund__Upload-Media-Tinymce-Files-3Months24-7Berlin__ab56b57b",
+  "fetched_at": "2026-05-09T11:08:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:08:29Z",
+  "duration_ms": 10428,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:636788c9150e895c6686874ba807634093fe13198362aae52ddcb1d324c5714b",
+  "md_bytes": 492,
+  "links_found": 0,
+  "files_found": 0
+}

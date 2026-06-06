@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/pepes-last-battle/?lang=en",
+  "stable_id": "makor__films-pepes-last-battle_lang-en__66589f01",
+  "fetched_at": "2026-05-09T13:08:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:02Z",
+  "duration_ms": 13418,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffda704fce986dec30d4cb81befc0784aab064891549b2da02d2ac783b0f6c6e",
+  "md_bytes": 2639,
+  "links_found": 4,
+  "files_found": 0
+}

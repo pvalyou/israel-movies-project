@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dziga%20Vertov",
+  "stable_id": "nfct__en-movies-archive_keywords-Dziga-20Vertov__4ce3e551",
+  "fetched_at": "2026-05-16T20:28:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:28:43Z",
+  "duration_ms": 8732,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d579d956f0a2eafe6f8ec824f4d533f023ec3824bbb3851d50e4f52bda24e0ee",
+  "md_bytes": 10258,
+  "links_found": 68,
+  "files_found": 0
+}

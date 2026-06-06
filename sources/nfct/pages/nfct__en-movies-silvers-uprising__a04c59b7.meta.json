@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/silvers-uprising/",
+  "stable_id": "nfct__en-movies-silvers-uprising__a04c59b7",
+  "fetched_at": "2026-05-11T15:39:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:39:04Z",
+  "duration_ms": 15640,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a73ca807f495a1c589294510a87e82c1e0df8ea6133304b330234d25c4deceb",
+  "md_bytes": 14136,
+  "links_found": 40,
+  "files_found": 0
+}

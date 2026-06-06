@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Old%20age",
+  "stable_id": "nfct__en-movies-archive_keywords-Old-20age__643fbe49",
+  "fetched_at": "2026-05-16T09:48:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:48:11Z",
+  "duration_ms": 9064,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e46b0c235a3ea265c496b2777a8d5118836173568b13564db2db997e0ff48454",
+  "md_bytes": 17111,
+  "links_found": 82,
+  "files_found": 0
+}

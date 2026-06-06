@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-little-sister/#main",
+  "stable_id": "arava_film_fund__en-movies-the-little-sister__3cebc8f3",
+  "fetched_at": "2026-05-08T10:21:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:21:18Z",
+  "duration_ms": 9005,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:699918af815ff50e6cad22e15f780a4e3ebcabe6c42a8c6aaa2c54feed0cbee1",
+  "md_bytes": 3423,
+  "links_found": 9,
+  "files_found": 0
+}

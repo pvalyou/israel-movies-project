@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The%20Israel%20Security%20Agency-%20ISA",
+  "stable_id": "nfct__en-movies-archive_keywords-The-20Israel-20Security-20Agency--20ISA__661030fb",
+  "fetched_at": "2026-05-16T04:24:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:24:07Z",
+  "duration_ms": 9218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:436f026cf8de9d57c67e29eb548ad8728d108cad10377c09bebbe4eae748564a",
+  "md_bytes": 9845,
+  "links_found": 67,
+  "files_found": 0
+}

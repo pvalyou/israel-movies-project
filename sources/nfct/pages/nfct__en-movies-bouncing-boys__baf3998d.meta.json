@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bouncing-boys/",
+  "stable_id": "nfct__en-movies-bouncing-boys__baf3998d",
+  "fetched_at": "2026-05-11T13:36:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:36:05Z",
+  "duration_ms": 19397,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a532f4e3a4b017a99bf7f1d111d8edd1d6d0bce67030cf479ae7b002f6a50d8",
+  "md_bytes": 12259,
+  "links_found": 38,
+  "files_found": 0
+}

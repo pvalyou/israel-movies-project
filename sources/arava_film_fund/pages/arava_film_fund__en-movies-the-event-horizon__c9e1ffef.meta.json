@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-event-horizon/#main",
+  "stable_id": "arava_film_fund__en-movies-the-event-horizon__c9e1ffef",
+  "fetched_at": "2026-05-08T10:16:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:16:21Z",
+  "duration_ms": 4401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cad5267fd46661ab8d7d1fefe036e8816a4740069182510fbd0b76120c48f66a",
+  "md_bytes": 2980,
+  "links_found": 9,
+  "files_found": 0
+}

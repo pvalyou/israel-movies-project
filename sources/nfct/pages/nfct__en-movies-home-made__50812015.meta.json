@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/home-made/#UArexazDFN",
+  "stable_id": "nfct__en-movies-home-made__50812015",
+  "fetched_at": "2026-05-16T20:38:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:38:02Z",
+  "duration_ms": 9354,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:056211e0b5acbabbdc9f73526cc84c0919a0f4da3e2cb3c44544c75a3160c796",
+  "md_bytes": 11190,
+  "links_found": 31,
+  "files_found": 0
+}

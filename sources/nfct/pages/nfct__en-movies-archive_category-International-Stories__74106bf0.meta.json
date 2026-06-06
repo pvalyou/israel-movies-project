@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=International+Stories",
+  "stable_id": "nfct__en-movies-archive_category-International-Stories__74106bf0",
+  "fetched_at": "2026-05-16T03:16:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:16:49Z",
+  "duration_ms": 5626,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1cd194f9ae23d7b450d2076038917ec7b58309a2bde2bc18d5374d2b49cbbc5d",
+  "md_bytes": 16892,
+  "links_found": 82,
+  "files_found": 0
+}

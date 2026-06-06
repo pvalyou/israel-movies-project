@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/not-my-weekend/#main",
+  "stable_id": "arava_film_fund__en-movies-not-my-weekend__7d11dbab",
+  "fetched_at": "2026-05-08T10:16:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:16:17Z",
+  "duration_ms": 3822,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c289278eb2e13cd8e9df65fb82249f47c618ec8c0fa38bdf0b6f750b55a1f8b4",
+  "md_bytes": 2978,
+  "links_found": 9,
+  "files_found": 0
+}

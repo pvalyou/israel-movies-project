@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=biological+parents",
+  "stable_id": "nfct__en-movies-archive_keywords-biological-parents__1f595b58",
+  "fetched_at": "2026-05-16T13:15:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:15:51Z",
+  "duration_ms": 9023,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:abe4eeffccfdcda2cc2182cf5a14f1dd1668d82190804d1a0b2206173146693a",
+  "md_bytes": 10763,
+  "links_found": 70,
+  "files_found": 0
+}

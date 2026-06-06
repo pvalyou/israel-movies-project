@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בישעה-מבחן-האש-הנורא/",
+  "stable_id": "nfct__blog-movies__e81f68fc",
+  "fetched_at": "2026-05-09T17:04:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:04:20Z",
+  "duration_ms": 10270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:adfabf9aba0facfba6ed1f19dd089135163eec5df1a78d9f5689a530a58b5bc5",
+  "md_bytes": 17765,
+  "links_found": 40,
+  "files_found": 0
+}

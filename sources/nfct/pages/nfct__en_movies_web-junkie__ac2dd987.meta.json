@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies/web-junkie/",
+  "stable_id": "nfct__en_movies_web-junkie__ac2dd987",
+  "fetched_at": "2026-05-18T21:46:53.246211+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies/web-junkie/",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "94fe37c4e5a64a1d2c517898590325602b64d1dcba01deb5683b95e415bca2b3",
+  "md_bytes": 14787,
+  "links_found": 0,
+  "error": ""
+}

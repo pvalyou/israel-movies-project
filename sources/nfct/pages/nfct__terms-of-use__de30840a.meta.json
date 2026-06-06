@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/terms-of-use/",
+  "stable_id": "nfct__terms-of-use__de30840a",
+  "fetched_at": "2026-05-09T15:21:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:20:59Z",
+  "duration_ms": 48771,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d1e1694c157bc3848bd44c814c5e5f0d5fe083f796b07c86b90630e842d48fec",
+  "md_bytes": 35486,
+  "links_found": 26,
+  "files_found": 0
+}

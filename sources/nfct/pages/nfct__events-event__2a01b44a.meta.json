@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הקליק-האחרון-דני-דותן-ודליה-מבו/",
+  "stable_id": "nfct__events-event__2a01b44a",
+  "fetched_at": "2026-05-10T11:44:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T11:44:52Z",
+  "duration_ms": 13296,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd3e7b737a91e16b9f5a40a2950f4977ce3459deb6103f7170986571fa6fab61",
+  "md_bytes": 13224,
+  "links_found": 28,
+  "files_found": 0
+}

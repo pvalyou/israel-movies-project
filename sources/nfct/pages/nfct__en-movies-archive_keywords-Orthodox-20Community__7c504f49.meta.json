@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Orthodox%20Community",
+  "stable_id": "nfct__en-movies-archive_keywords-Orthodox-20Community__7c504f49",
+  "fetched_at": "2026-05-16T12:58:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:58:34Z",
+  "duration_ms": 10401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0871cabc69ca5bdff70c1548db3d381bab0b0c4b37cbba16ae1da302855d7f75",
+  "md_bytes": 15166,
+  "links_found": 80,
+  "files_found": 0
+}

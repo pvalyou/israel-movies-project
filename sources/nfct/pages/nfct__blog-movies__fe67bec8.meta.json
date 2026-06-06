@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החוג-לקולנוע/",
+  "stable_id": "nfct__blog-movies__fe67bec8",
+  "fetched_at": "2026-05-09T16:59:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:59:34Z",
+  "duration_ms": 43292,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3cf4b522ce87ec712e44fc896621151703a72feece115c7beb2f11d9d4e51b98",
+  "md_bytes": 23441,
+  "links_found": 50,
+  "files_found": 0
+}

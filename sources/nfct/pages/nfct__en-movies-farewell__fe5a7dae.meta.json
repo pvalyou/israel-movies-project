@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/farewell/",
+  "stable_id": "nfct__en-movies-farewell__fe5a7dae",
+  "fetched_at": "2026-05-11T22:40:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:40:43Z",
+  "duration_ms": 35299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b3470cdc37d19d6dd6f47ccd7199dad31ea5b6c484416d7b6478500a2507500",
+  "md_bytes": 17031,
+  "links_found": 57,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Long+Range+Missile",
+  "stable_id": "nfct__en-movies-archive_keywords-Long-Range-Missile__20ae844d",
+  "fetched_at": "2026-05-16T13:00:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:00:04Z",
+  "duration_ms": 12396,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03ef3f66f57f887e2d677e23a0cbbb560eca6e8d3bfcaef981fc91250cf7e542",
+  "md_bytes": 10805,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=race",
+  "stable_id": "nfct__en-movies-archive_keywords-race__3ae9f358",
+  "fetched_at": "2026-05-16T07:54:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:54:30Z",
+  "duration_ms": 8079,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:71f7a5ea4eee8b0369556881b43065666ae9158bc86fa1afa913fabe7b7db239",
+  "md_bytes": 16671,
+  "links_found": 82,
+  "files_found": 0
+}

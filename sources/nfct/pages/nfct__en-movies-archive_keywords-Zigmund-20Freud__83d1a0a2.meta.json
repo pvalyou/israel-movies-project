@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zigmund%20Freud",
+  "stable_id": "nfct__en-movies-archive_keywords-Zigmund-20Freud__83d1a0a2",
+  "fetched_at": "2026-05-16T12:31:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:31:32Z",
+  "duration_ms": 9988,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:58ab8172e8b0a520ec22014dd3d95f252e7fed0991942ac7cf7bafe69bbac119",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

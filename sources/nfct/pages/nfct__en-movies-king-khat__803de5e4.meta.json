@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/king-khat/",
+  "stable_id": "nfct__en-movies-king-khat__803de5e4",
+  "fetched_at": "2026-05-11T14:26:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:26:32Z",
+  "duration_ms": 36760,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2267fb1a43f75867a635c1aa8b9b44b4453ad12c5f034d6f2b1d157b2207fbb5",
+  "md_bytes": 14119,
+  "links_found": 41,
+  "files_found": 0
+}

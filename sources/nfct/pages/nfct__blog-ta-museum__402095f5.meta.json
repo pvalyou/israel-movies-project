@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/ta-museum/",
+  "stable_id": "nfct__blog-ta-museum__402095f5",
+  "fetched_at": "2026-05-09T15:44:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:44:53Z",
+  "duration_ms": 18076,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b046dfe179e60a78037fbd481a6b13f73daa89933bedbf7df7de57981d91eee9",
+  "md_bytes": 14966,
+  "links_found": 21,
+  "files_found": 4
+}

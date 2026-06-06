@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Saovy+Hotel",
+  "stable_id": "nfct__en-movies-archive_keywords-Saovy-Hotel__2c4db6d7",
+  "fetched_at": "2026-05-16T20:12:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:22Z",
+  "duration_ms": 8802,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b294ff39c1e3d47cf66a7a7ce45a6ab025ca1c837af551ec6806b3b0d81fa03",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Alexander%20Zair",
+  "stable_id": "nfct__en-movies-archive_keywords-Alexander-20Zair__df2a9a22",
+  "fetched_at": "2026-05-16T17:49:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:49:11Z",
+  "duration_ms": 7303,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2cdce22f15823f94a885d5ebbf753b2d78acf859cafb4df5b8897db32b78c50f",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/איפה-היית-בהתנתקות/",
+  "stable_id": "makor__films__20ecbac3",
+  "fetched_at": "2026-05-09T12:53:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:53:12Z",
+  "duration_ms": 12965,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10293b8e3504424b2b6806e246ff833bede24819e760282e201a9cc034c71374",
+  "md_bytes": 3706,
+  "links_found": 4,
+  "files_found": 0
+}

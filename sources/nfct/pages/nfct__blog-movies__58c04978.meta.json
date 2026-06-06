@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מכתב-לילד-שאיננו/",
+  "stable_id": "nfct__blog-movies__58c04978",
+  "fetched_at": "2026-05-09T17:03:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:03:16Z",
+  "duration_ms": 46904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fea41407485bb6d4850da8c57c9d5b102123b0f9687bc1d604ce517a5a1e9861",
+  "md_bytes": 15678,
+  "links_found": 36,
+  "files_found": 0
+}

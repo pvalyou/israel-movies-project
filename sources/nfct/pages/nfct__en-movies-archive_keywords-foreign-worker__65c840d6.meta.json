@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=foreign+worker",
+  "stable_id": "nfct__en-movies-archive_keywords-foreign-worker__65c840d6",
+  "fetched_at": "2026-05-16T04:24:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:24:22Z",
+  "duration_ms": 5836,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3df72e8a8e27acdaf3f83945c31a31c69ff66257555cec56ad47dfb5704ee5ba",
+  "md_bytes": 11406,
+  "links_found": 71,
+  "files_found": 0
+}

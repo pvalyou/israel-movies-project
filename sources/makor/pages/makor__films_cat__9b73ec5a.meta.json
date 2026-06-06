@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films_cat/סרטי-סטודנטים/",
+  "stable_id": "makor__films_cat__9b73ec5a",
+  "fetched_at": "2026-05-09T12:46:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:19Z",
+  "duration_ms": 10287,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7626b14c05ec158b4d84113524d7152b8bd254bf6969f6e96ac246d919ac6b04",
+  "md_bytes": 1614,
+  "links_found": 6,
+  "files_found": 0
+}

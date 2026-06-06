@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=religious%20settler",
+  "stable_id": "nfct__en-movies-archive_keywords-religious-20settler__194a40ed",
+  "fetched_at": "2026-05-16T11:31:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:31:56Z",
+  "duration_ms": 7581,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:224db171d3e001f04b95a17a43042563b021a7458b6a4f5eba1e898a587e04e4",
+  "md_bytes": 10657,
+  "links_found": 70,
+  "files_found": 0
+}

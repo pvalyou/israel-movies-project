@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cell+Phone",
+  "stable_id": "nfct__en-movies-archive_keywords-Cell-Phone__9e982100",
+  "fetched_at": "2026-05-16T20:33:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:03Z",
+  "duration_ms": 5922,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e312796cd84a42fe4e9f2d11fe90817753dc726fcac3b6aad28002a66f9d064",
+  "md_bytes": 12127,
+  "links_found": 72,
+  "files_found": 0
+}

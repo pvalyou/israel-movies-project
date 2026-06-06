@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=clean",
+  "stable_id": "nfct__en-movies-archive_keywords-clean__bcf2f373",
+  "fetched_at": "2026-05-16T14:44:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:44:12Z",
+  "duration_ms": 10391,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6803306ffc3f6efe51bca2d8d21abe2ee96e1ef2b4fd16a4bd49c794e08f62f9",
+  "md_bytes": 14010,
+  "links_found": 78,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://gesherfilmfund.org.il/productions",
+  "stable_id": "gesher__productions__5ae63790",
+  "fetched_at": "2026-05-08T09:16:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:16:56Z",
+  "duration_ms": 2894,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba38896738925765f40aced8d324cc21fa0d1186e7306170d0af843634f6e227",
+  "md_bytes": 6829,
+  "links_found": 33,
+  "files_found": 2
+}

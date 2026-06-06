@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=lone%20twin",
+  "stable_id": "nfct__en-movies-archive_keywords-lone-20twin__773fe0a8",
+  "fetched_at": "2026-05-16T16:01:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:01:56Z",
+  "duration_ms": 10758,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3bf942ffb1907f0c5e1f3577e2ee9660f9c72aca83c2473e62d4b08da7554a1a",
+  "md_bytes": 10277,
+  "links_found": 68,
+  "files_found": 0
+}

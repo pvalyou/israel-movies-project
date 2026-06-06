@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-lullaby-for-the-valley/",
+  "stable_id": "nfct__en-movies-a-lullaby-for-the-valley__0cfc876d",
+  "fetched_at": "2026-05-11T19:59:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:59:00Z",
+  "duration_ms": 31852,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da6ebb3088b9dd3ccc194ba684932ba93a8a2f2456379f502ec6d1a9b7ecef0f",
+  "md_bytes": 14073,
+  "links_found": 40,
+  "files_found": 0
+}

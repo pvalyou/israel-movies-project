@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/two-legacies/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-two-legacies__a0c1cd92",
+  "fetched_at": "2026-05-16T07:35:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:35:47Z",
+  "duration_ms": 13882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a55d6b1cf204bdb94623c1ac96e23b4193153d9a37c24791ab0d04676b573621",
+  "md_bytes": 14521,
+  "links_found": 36,
+  "files_found": 0
+}

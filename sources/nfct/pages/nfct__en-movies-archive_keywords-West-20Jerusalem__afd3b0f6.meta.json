@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=West%20Jerusalem",
+  "stable_id": "nfct__en-movies-archive_keywords-West-20Jerusalem__afd3b0f6",
+  "fetched_at": "2026-05-16T08:59:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:59:55Z",
+  "duration_ms": 12655,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9709daf83d8768b66e328e15767639ba62b8a94302be37f5ac2d48c8cf851ee9",
+  "md_bytes": 11997,
+  "links_found": 73,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/דוקו-קומי/",
+  "stable_id": "nfct__blog__ae16ffed",
+  "fetched_at": "2026-05-09T15:59:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:59:58Z",
+  "duration_ms": 31369,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1aef21f83b85193b98e452ecb5ed65d81dfd522ff5b440f13600f81e63ca76d5",
+  "md_bytes": 14405,
+  "links_found": 21,
+  "files_found": 4
+}

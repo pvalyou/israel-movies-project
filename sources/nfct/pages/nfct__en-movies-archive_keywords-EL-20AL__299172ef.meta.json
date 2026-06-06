@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=EL%20AL",
+  "stable_id": "nfct__en-movies-archive_keywords-EL-20AL__299172ef",
+  "fetched_at": "2026-05-16T14:10:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:10:46Z",
+  "duration_ms": 9488,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e43be771cfdc8507884f80c6584ad3ab7ad6f445afd959e2b212a42b2a32ebd4",
+  "md_bytes": 17408,
+  "links_found": 82,
+  "files_found": 0
+}

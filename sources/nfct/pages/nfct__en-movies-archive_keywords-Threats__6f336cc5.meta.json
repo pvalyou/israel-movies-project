@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Threats",
+  "stable_id": "nfct__en-movies-archive_keywords-Threats__6f336cc5",
+  "fetched_at": "2026-05-16T16:57:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:59Z",
+  "duration_ms": 7215,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21d37447e4212746615605e42695257dd2e5e3c1ef16324b9aee9932fec96da6",
+  "md_bytes": 9986,
+  "links_found": 68,
+  "files_found": 0
+}

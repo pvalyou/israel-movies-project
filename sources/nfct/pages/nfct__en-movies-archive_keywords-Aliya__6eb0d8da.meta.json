@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Aliya",
+  "stable_id": "nfct__en-movies-archive_keywords-Aliya__6eb0d8da",
+  "fetched_at": "2026-05-16T15:02:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:02:51Z",
+  "duration_ms": 8079,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5398b2621b40436d19720c15794382d418a3cd1ecfec4e45dfd8ca4a9225d56a",
+  "md_bytes": 11555,
+  "links_found": 70,
+  "files_found": 0
+}

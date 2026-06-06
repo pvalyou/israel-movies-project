@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/white-lie/?lang=en",
+  "stable_id": "makor__films-white-lie_lang-en__d935144d",
+  "fetched_at": "2026-05-09T13:28:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:28:21Z",
+  "duration_ms": 13255,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8f2e118e75e87fed190b1d8d48dbcf240f9e1c0e8dd883e12db8954fb1ac8b1",
+  "md_bytes": 2632,
+  "links_found": 4,
+  "files_found": 0
+}

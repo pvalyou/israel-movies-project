@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-first-will-be-the-last/",
+  "stable_id": "nfct__en-movies-the-first-will-be-the-last__fb4c1955",
+  "fetched_at": "2026-05-15T15:25:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:25:36Z",
+  "duration_ms": 7010,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de3d822aeca3f503e3e0dd1a5bbfba18220b8702f1db75648fff3c5858080f8a",
+  "md_bytes": 15785,
+  "links_found": 44,
+  "files_found": 0
+}

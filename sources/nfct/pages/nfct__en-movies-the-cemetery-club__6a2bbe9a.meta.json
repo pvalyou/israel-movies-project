@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-cemetery-club/",
+  "stable_id": "nfct__en-movies-the-cemetery-club__6a2bbe9a",
+  "fetched_at": "2026-05-15T15:10:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:10:38Z",
+  "duration_ms": 14380,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0c4d2576e5f5b2c6ca2e80c22d2b2c2d8e1a3c89cc251a93d23ae87cbe1b47c",
+  "md_bytes": 16602,
+  "links_found": 41,
+  "files_found": 0
+}

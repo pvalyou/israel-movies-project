@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/home-movie/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-home-movie__07b5dd9f",
+  "fetched_at": "2026-05-16T06:47:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:47:52Z",
+  "duration_ms": 14584,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc647ccf8ba9e46d8b166023d791f83dcdad8df45f2e45db672a9bc2b9f98486",
+  "md_bytes": 14017,
+  "links_found": 36,
+  "files_found": 0
+}

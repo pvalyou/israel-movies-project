@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/pessias-necklace/#UAMainContent",
+  "stable_id": "nfct__en-movies-pessias-necklace__8e860905",
+  "fetched_at": "2026-05-16T08:40:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:40:31Z",
+  "duration_ms": 7585,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:87b61d4346404e1aa4f8a3a7f348e8883faa82bdeecd37359b5ea05c8a0b5588",
+  "md_bytes": 15928,
+  "links_found": 40,
+  "files_found": 0
+}

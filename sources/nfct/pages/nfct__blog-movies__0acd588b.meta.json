@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חזיר-בארץ-הקודש/",
+  "stable_id": "nfct__blog-movies__0acd588b",
+  "fetched_at": "2026-05-09T21:32:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:32:14Z",
+  "duration_ms": 13381,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c340aaa29e725458569260d39fc13fe84f6c3620b8bcb40e54a4017d0abf6b5",
+  "md_bytes": 17521,
+  "links_found": 31,
+  "files_found": 0
+}

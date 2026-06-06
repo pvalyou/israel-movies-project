@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/איש-החרב-גבריאל-מוקד/",
+  "stable_id": "makor__films__86b8ad5c",
+  "fetched_at": "2026-05-09T13:15:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:03Z",
+  "duration_ms": 23762,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0aa725d70b29e70e644d2ecf6646978ad371c8324c6fca0a3ed22c50f9f9f67",
+  "md_bytes": 3534,
+  "links_found": 4,
+  "files_found": 0
+}

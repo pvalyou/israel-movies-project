@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sonderkommando",
+  "stable_id": "nfct__en-movies-archive_keywords-Sonderkommando__7fc31c95",
+  "fetched_at": "2026-05-16T20:14:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:14:51Z",
+  "duration_ms": 7516,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f3dcebb6ce8c019f28039dccb586ffaac9cd8e020fe48e63f32c16b323c32e15",
+  "md_bytes": 10052,
+  "links_found": 68,
+  "files_found": 0
+}

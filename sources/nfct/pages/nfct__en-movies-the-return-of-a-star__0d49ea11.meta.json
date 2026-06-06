@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-return-of-a-star/",
+  "stable_id": "nfct__en-movies-the-return-of-a-star__0d49ea11",
+  "fetched_at": "2026-05-11T22:04:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:04:53Z",
+  "duration_ms": 12168,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:729ef44558223965c7f71558280d2857ff46382a05d17ba96f0b3da9cc522df3",
+  "md_bytes": 11186,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/האוסף-של-ידידיה/",
+  "stable_id": "nfct__movies__e9873ddd",
+  "fetched_at": "2026-05-16T10:13:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:13:36Z",
+  "duration_ms": 7488,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7e9e2be4835685504929f50e7e981f34b57ce4feacc09ebd2df5e3853c40f859",
+  "md_bytes": 8110,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תובנה/",
+  "stable_id": "nfct__blog-movies__31ae96ec",
+  "fetched_at": "2026-05-09T19:44:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:44:33Z",
+  "duration_ms": 16297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cedcc26063c47039d5afc16faa842a427df98451e624bd60e1836013a654610a",
+  "md_bytes": 18322,
+  "links_found": 47,
+  "files_found": 0
+}

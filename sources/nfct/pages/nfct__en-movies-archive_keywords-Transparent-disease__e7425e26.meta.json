@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Transparent+disease",
+  "stable_id": "nfct__en-movies-archive_keywords-Transparent-disease__e7425e26",
+  "fetched_at": "2026-05-16T15:31:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:54Z",
+  "duration_ms": 7875,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bcffbdcde9e7efc79a2f5364ef2342f361f3bbc84dc770096a79b6edf9418d95",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

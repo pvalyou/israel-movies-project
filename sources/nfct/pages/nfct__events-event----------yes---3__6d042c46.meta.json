@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-ששה-מיליון-ואחדדודו-פישר-yes-דוקו-3/",
+  "stable_id": "nfct__events-event----------yes---3__6d042c46",
+  "fetched_at": "2026-05-10T13:16:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:16:30Z",
+  "duration_ms": 8691,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cf16ba386f1d9f57dd25c63c5d0bbaabd702e0e154b538f15630bcdc94946a2f",
+  "md_bytes": 10545,
+  "links_found": 21,
+  "files_found": 0
+}

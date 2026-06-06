@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Animation",
+  "stable_id": "nfct__en-movies-archive_category-Animation__f5cad437",
+  "fetched_at": "2026-05-16T05:08:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:08:41Z",
+  "duration_ms": 6699,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e09390a9f376d0992c802fdc2e5a025192f3714193ec35042bbc1c67de15ade8",
+  "md_bytes": 16377,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/you-for-a-mother/",
+  "stable_id": "nfct__en-movies-you-for-a-mother__6d2b59df",
+  "fetched_at": "2026-05-15T09:45:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:45:36Z",
+  "duration_ms": 6690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cdb1424fecee6e77ac33814f52308dbcd3252fa3edbf4cf780f8de6fbc571300",
+  "md_bytes": 10842,
+  "links_found": 25,
+  "files_found": 0
+}

@@ -1,0 +1,852 @@
+{
+  "found_at": "2026-05-31T00:00:00",
+  "last_updated": "2026-06-06",
+  "conflicts": [
+    {
+      "type": "spousal",
+      "person_a": "דן גבע",
+      "person_b": "נואית גבע",
+      "fund": "nfct",
+      "evidence": "Dan Geva and Nuit Geva are a married couple who have collaborated on documentary films since 1994. Both have received NFCT support. A retrospective of their joint work was held at Israeli cinematheques. Nuit Geva's entry in derived_conflicts.json (as 'נוית גבע') is a typo/duplicate of her actual name.",
+      "source_url": "https://www.ynet.co.il/articles/0,7340,L-3036457,00.html",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "family_false_positive",
+      "person_a": "נדב לפיד",
+      "person_b": "אסף לפיד",
+      "fund": "multiple",
+      "evidence": "No family connection found. Nadav Lapid's actual brother is Itamar Lapid. The pair (Nadav, Assaf) appears to be a surname-match false positive. Mother was Era Lapid (film editor), father is Chaim Lapid (writer). Assaf Lapid is an unrelated filmmaker.",
+      "source_url": "https://www.ynet.co.il/articles/0,7340,L-5277774,00.html",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "family",
+      "person_a": "נדב לפיד",
+      "person_b": "איתמר לפיד",
+      "fund": "filmfund",
+      "evidence": "CONFIRMED BROTHERS. Itamar Lapid is Nadav Lapid's actual brother (confirmed by Ynet obituary of their mother Era Lapid). Itamar co-directed 'איך נתת לזה לקרות' (2021) with Yair Asher. The Israeli Film Fund invested 100,000 NIS in this film (confirmed at filmfund.org.il/Movie?movieId=17). Nadav Lapid served as lector at the Israeli Film Fund in August 2018 — a 3-year gap before Itamar's film was funded. Conflict is PARTIAL: family relationship confirmed, fund support confirmed, but Nadav was not an active lector at the time of Itamar's funding. Check Rabinovich Fund 2021 lectors list for stronger overlap.",
+      "source_url": "https://www.filmfund.org.il/Movie?movieId=17",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "regulator_fund_ceo",
+      "person_a": "גיורא עיני",
+      "person_b": "אטי כהן",
+      "fund": "rabinovich_cinema",
+      "evidence": "Giora Eini (Rabinovich Fund CEO since 1995) and Eti Cohen (head of Film Division, Ministry of Culture 1999-2021) allegedly had a romantic relationship. Cohen allegedly passed insider ministry information to Eini and cancelled Film Council meetings to benefit Rabinovich/Gesher funds. Eini allegedly participated as evaluator in 4 projects against fund rules.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "funding_concentration",
+      "person_a": "משה אדרי",
+      "person_b": "ליאון אדרי",
+      "fund": "rabinovich_cinema",
+      "evidence": "The Adri brothers (Moshe + Leon) received NIS 104,333,500 from Rabinovich + Gesher funds for 85 films (2015-2021), representing 35% of total fund investments. Moshe Adri received 49% of all Rabinovich Fund distributions. They co-own United King production+distribution company and Cinema City. This monopolistic concentration combined with fund relationships is a severe structural conflict.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "journalist_lector_alleged_quid_pro_quo",
+      "person_a": "יאיר רוה",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "Yair Raveh (film critic) was allegedly employed as a lector by Giora Eini specifically so he would protect the Rabinovich Fund from negative press coverage. Same allegation applies to Erez Dvorah and Ron Fogel. All three already appear as critics serving multiple fund committees in derived_conflicts.json.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "journalist_lector_alleged_quid_pro_quo",
+      "person_a": "ארז דבורה",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "Erez Dvorah (film critic/journalist) was allegedly employed as a lector by Giora Eini for the same reason as Yair Raveh. Dvorah is already in derived_conflicts.json under faculty_committee (gesher) and critic_committee.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "journalist_lector_alleged_quid_pro_quo",
+      "person_a": "רון פוגל",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "Ron Fogel (film critic/journalist) was allegedly employed as a lector by Giora Eini for the same reason as Yair Raveh and Erez Dvorah. Fogel is in derived_conflicts.json (filmfund, makor, rabinovich) as board_member + lector.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "exec_filmmaker",
+      "person_a": "יואב אברמוביץ",
+      "person_b": null,
+      "fund": "rabinovich_cinema",
+      "evidence": "Yoav Abramovich served as artistic director for feature films at Rabinovich Fund (2015-2025), then was promoted to CEO (2025). He was allegedly present as evaluator in 26 project applications, violating fund rules. He is also a film producer and screenwriter (Wikipedia), meaning he had financial interests in productions he evaluated.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "duplicate_person",
+      "person_a": "נואית גבע",
+      "person_b": "נוית גבע",
+      "fund": "nfct",
+      "evidence": "These are the same person: Nuit Geva. All professional databases (EDB, JFC, NFCT blog) use 'נואית' with aleph. The 'נוית' spelling is a typo variant. Should be deduplicated in entity_registry.",
+      "source_url": "https://www.edb.co.il/name/n0019353/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_committee",
+      "person_a": "עמוס קולק",
+      "person_b": null,
+      "fund": "filmfund",
+      "evidence": "Amos Kollek (son of Jerusalem Mayor Teddy Kollek) is an active filmmaker (director, screenwriter, actor — films at Cannes 2000, Berlin 2008) AND served as artistic advisor/lector at the Israeli Film Fund (September 2024, Development track). He has historically received fund support. This is a confirmed filmmaker+lector conflict not in derived_conflicts.json.",
+      "source_url": "https://www.filmfund.org.il/ContentPage?id=49",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "exec_former_board_filmmaker",
+      "person_a": "אודי ירושלמי",
+      "person_b": null,
+      "fund": "nfct",
+      "evidence": "Udi Yerushalmi was CEO of NFCT 2008-2024, is now listed as a board member (management) of NFCT, AND is a film producer (Beit Tzvi graduate). Triple conflict: former CEO, current board member, filmmaker — all at the same fund. Confirmed by NFCT management page.",
+      "source_url": "https://nfct.org.il/about/management/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "נועה רגב",
+      "person_b": null,
+      "fund": "filmfund",
+      "evidence": "Noa Regev (CEO of Israeli Film Fund since 2022) is NOT a filmmaker. She is an academic and festival/cinematheque administrator (PhD TAU, former CEO Jerusalem Cinematheque). The derived_conflicts.json lists her under exec_filmmaker with 'director' filmmaker_roles — this is a data error. Her conflict type is festival_committee (festival director → fund CEO), not exec_filmmaker.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%A2%D7%94_%D7%A8%D7%92%D7%91",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "cannes_planning_alleged",
+      "person_a": "גיורא עיני",
+      "person_b": "זיו נווה",
+      "fund": "rabinovich_cinema",
+      "evidence": "Giora Eini (Rabinovich CEO) and Ziv Nave (former Gesher CEO) allegedly met annually at Cannes Film Festival with Eti Cohen (Ministry culture division head) to 'plan Israeli cinema' — coordinating between supposedly independent bodies. This creates a systemic network conflict not visible from individual fund memberships.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "ceo_producer_preferential_funding",
+      "person_a": "גיורא עיני",
+      "person_b": "משה אדרי",
+      "fund": "rabinovich_cinema",
+      "evidence": "Rabinovich Fund CEO Giora Eini allegedly circumvented the lectors evaluation system: when projects involving Moshe Adri were not approved by lectors, Adri was encouraged to appeal, and then Eini personally approved the projects. This mechanism allowed Adri to receive 49% of all Rabinovich Fund distributions (35% of both Rabinovich + Gesher combined). This is a direct CEO-producer preferential funding conflict.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "officially_documented_conflict",
+      "person_a": "דורית ענבר",
+      "person_b": null,
+      "fund": "nfct",
+      "evidence": "Dorit Enbar (NFCT CEO 2008-2024, now board chair 2025) had her conflict of interest OFFICIALLY RULED by the Knesset Gilaour Committee in 2015 when she was nominated to the Broadcasting Authority council. The committee found she had a conflict because the Broadcasting Authority invests in companies that produce NFCT-supported films. This is the only government-adjudicated conflict of interest in the entire dataset. Source 1 (notification): calcalist.co.il/marketing/articles/0,7340,L-3833615.html. Source 2 (ruling): calcalist.co.il/marketing/articles/0,7340,L-3883770.html",
+      "source_url": "https://www.calcalist.co.il/marketing/articles/0,7340,L-3883770.html",
+      "source_url_2": "https://www.calcalist.co.il/marketing/articles/0,7340,L-3833615.html",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "systemic_reform",
+      "person_a": null,
+      "person_b": null,
+      "fund": "all",
+      "evidence": "The Knesset abolished the mandatory lectors pool (מאגר הלקטורים) as part of Miki Zohar's cinema reform. Funds no longer required to use government-approved lectors pool — they can choose evaluators independently with new transparency and conflict-of-interest guidelines. This reform changes the landscape of critic_committee conflicts documented in derived_conflicts.json. The mandatory pool era lasted approximately 2019-2025.",
+      "source_url": "https://e.walla.co.il/item/3808667",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "staff_change",
+      "person_a": "אייל בנבנישתי",
+      "person_b": null,
+      "fund": "jerusalem_film_fund",
+      "evidence": "Eyal Benvenisti became director of the Jerusalem Film and Television Fund in June 2022, replacing Yoram Honig who had served for 14 years. This is a data update — entity_registry may have outdated director info for this fund.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%99%D7%96%D7%9D_%D7%9C%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2_%D7%95%D7%9C%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94_%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "regulator_fund_employee",
+      "person_a": "אוסנת בוקובזר",
+      "person_b": null,
+      "fund": "rabinovich_cinema",
+      "evidence": "Osnat Bukofzer is employed by the Rabinovich Foundation AND served as Israeli Film Council member for several years. The Film Council oversees and regulates film funds including Rabinovich. She also manages the Israeli Pavilion at Cannes, financed by Rabinovich. As Film Council member, she made decisions directly affecting the amount of money the Rabinovich Fund received — while being employed by that same fund. The filmindustrywatch.org investigation calls this 'a clear case of a conflict of interest.'",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "lector_recipient_consultant_triple",
+      "person_a": "עמיר מנור",
+      "person_b": null,
+      "fund": "filmfund_rabinovich_gesher",
+      "evidence": "Amir Manor served as lector/reader for Israeli Film Fund, Rabinovich Fund, and Gesher Fund (2019-2022). He also received funding for multiple projects including 'הבית ברחוב פין' (Rabinovich grant, 2017). He charges 10,000 NIS for script consulting on projects subsequently submitted to the same funds where he evaluates. Investigation alleges he pre-informed a filmmaker they would 'have to wait for the next round' before submission closed — potential process integrity breach. Triple conflict: lector + recipient + paid consultant to applicants.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "revolving_door_lector_recipient",
+      "person_a": "טל גרניט",
+      "person_b": "שרון מימון",
+      "fund": "filmfund_rabinovich",
+      "evidence": "Tal Granite and Sharon Maimon are a filmmaking duo who served as lectors for Israeli Film Fund and Rabinovich Fund while also receiving funding for their films. Funded films include 'The Prom' (2018), 'Happy Ending' (2021) - both received fund support while one or both served as evaluators at the same funds. They are also co-directors, making this a joint revolving-door conflict.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "revolving_door_lector_recipient",
+      "person_a": "ליאון פרודובסקי",
+      "person_b": null,
+      "fund": "filmfund_rabinovich_gesher",
+      "evidence": "Leon Prodovsky served as lector for Israeli Film Fund, Rabinovich, and Gesher funds while also receiving funding. His film 'My Neighbor is Adolf' (2022) received fund support. Appears in the filmindustrywatch.org revolving doors investigation as one of 25 documented cases.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "revolving_door_lector_recipient",
+      "person_a": "תאופיק אבו-וואיל",
+      "person_b": null,
+      "fund": "filmfund_gesher",
+      "evidence": "Tawfik Abu Wail served as lector for Israeli Film Fund and Gesher while also receiving funding. His film 'Hassan the Wise' (2019) received fund support. Appears in the filmindustrywatch.org revolving doors investigation.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "revolving_door_lector_recipient",
+      "person_a": "כוכי מזרחי",
+      "person_b": null,
+      "fund": "gesher_rabinovich_filmfund",
+      "evidence": "Kobi Mizrahi served as lector at Gesher, Rabinovich, and Israeli Film Fund while also receiving funding. His film 'Ben Gurion Epilogue' received fund support. Appears in the filmindustrywatch.org revolving doors investigation.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "unverified_family_adri",
+      "person_a": "אילנית אדרי",
+      "person_b": "משה אדרי",
+      "fund": "filmfund",
+      "evidence": "UNVERIFIED. אילנית אדרי serves as Accounting Management (הנהלת חשבונות) at the Israeli Film Fund (confirmed on filmfund.org.il staff page). משה אדרי (producer) received 49% of Rabinovich Fund distributions. Moshe Adri's Wikipedia states he immigrated with 'four siblings' but only names brother Leon. אילנית could be one of those unnamed siblings, but no public source confirms any family connection. The surname אדרי is common among Moroccan Jews. Requires genealogical database access to confirm or deny.",
+      "source_url": "https://www.filmfund.org.il/ContentPage/?id=11",
+      "confidence": "unverified"
+    },
+    {
+      "type": "unverified_family_adri",
+      "person_a": "צחי אדרי",
+      "person_b": "משה אדרי",
+      "fund": "filmfund",
+      "evidence": "UNVERIFIED. צחי אדרי served as artistic advisor/lector for the Israeli Film Fund in multiple rounds (2019-2023). His profile describes him as a filmmaker/writer working from home while using a wheelchair due to degenerative disease. No public source confirms any family connection to משה אדרי (the producer who received 49% of Rabinovich Fund distributions). If confirmed as a relative, this would be a severe conflict — relative evaluating projects at fund that distributes money to his family's production company.",
+      "source_url": "https://www.filmfund.org.il/ContentPage?id=49",
+      "confidence": "unverified"
+    },
+    {
+      "type": "critic_colleague_review_no_disclosure",
+      "person_a": "שמוליק דובדבני",
+      "person_b": "עטי צ'יקו",
+      "fund": "filmfund_jff",
+      "evidence": "Shmulik Duvdevani (TAU Steve Tisch School faculty, film critic, lector at NFCT/Rabinovich) reviewed the film 'Nana Dauri' directed by Eti Tsiko (also TAU faculty) giving 4 stars — disclosed relationship only at review's end. He also reviewed 'כביש הסרגל' by Maya Dreifuss (also TAU faculty) with NO disclosure of shared institutional affiliation. Eti Tsiko is also on Jerusalem Film Festival's International Programming Committee. This adds a peer-review-without-disclosure layer to Duvdevani's already-documented conflicts.",
+      "source_url": "https://filmindustrywatch.org/when-film-critics-review-their-own-colleagues-inside-israels-hidden-cinema-network/",
+      "confidence": "probable"
+    },
+    {
+      "type": "faculty_committee",
+      "person_a": "עטי צ'יקו",
+      "person_b": null,
+      "fund": "jff",
+      "evidence": "Eti Tsiko is both faculty at Tel Aviv University's Steve Tisch School of Film and Television AND serves on the Jerusalem Film Festival's International Programming Committee. As a filmmaker/academic she has institutional interests in which films receive festival placement. Her film 'Nana Dauri' was reviewed (favorably, 4 stars) by her TAU colleague Shmulik Duvdevani without proper disclosure.",
+      "source_url": "https://filmindustrywatch.org/when-film-critics-review-their-own-colleagues-inside-israels-hidden-cinema-network/",
+      "confidence": "probable"
+    },
+    {
+      "type": "source_update",
+      "person_a": "גיורא עיני",
+      "person_b": null,
+      "fund": "rabinovich_cinema",
+      "evidence": "Giora Eini does NOT have a personal Wikipedia page. Sources for entity record: (1) Rabinovich Fund Wikipedia article lists him as CEO: https://he.wikipedia.org/wiki/קרן_יהושע_רבינוביץ_לאמנויות_תל_אביב; (2) Variety 2015 power players list: https://variety.com/2015/film/global/locarno-10-power-players-of-israels-film-industry-1201566253/; (3) filmindustrywatch.org tag page: https://filmindustrywatch.org/tag/גיורא-עיני/. Background: Eini is a lawyer, son of Mapai activist, appointed by PM Rabin in 1995, has been CEO 30+ years.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%9F_%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5_%D7%9C%D7%90%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "political_appointment_regulator",
+      "person_a": "גיל סמסונוב",
+      "person_b": null,
+      "fund": "all",
+      "evidence": "Gil Samsonov was appointed chair of the Israeli Film Council (the regulatory body overseeing all film funds) in February 2026 by Culture Minister Miki Zohar. Samsonov's background: (1) Likud party spokesman; (2) Ran on Likud party list for Knesset; (3) Netanyahu campaign advisor in multiple elections; (4) Appointed by Netanyahu government as Broadcasting Authority chair; (5) Partner in advertising firm Glickman Shamir Samsonov (Publicis group); (6) Chair of Advertising Companies Association. He has no professional film background. Appointed by Zohar (Likud coalition) during controversy over film industry awards ceremony. The Film Council oversees how public funds are distributed to film funds — having a political appointee with active commercial/political roles chair this body is a structural conflict.",
+      "source_url": "https://e.walla.co.il/item/3816915",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%9C_%D7%A1%D7%9E%D7%A1%D7%95%D7%A0%D7%95%D7%91",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "family",
+      "person_a": "אבי נשר",
+      "person_b": "תום נשר",
+      "fund": "rabinovich_cinema",
+      "evidence": "Avi Nesher (Abi Nesher) is a major Israeli filmmaker who received Rabinovich Foundation production funding. His daughter Tom Nesher received a 1,000,000 NIS grant from the Rabinovich Foundation for her debut feature film 'Sofi Sofi' (later titled 'Karov Elai' / 'Close to Me'). The film was submitted anonymously but critics and the filmindustrywatch.org investigation cite this as a concerning pattern — the daughter of a major fund recipient receiving top-level debut funding. Tom Nesher is confirmed in entity_registry. The film won Best Debut Film at Jerusalem Film Festival and 4 Ophir Awards including Best Film and Best Director 2024.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "source_url_2": "https://www.ice.co.il/tv/news/article/873113",
+      "confidence": "probable"
+    },
+    {
+      "type": "festival_producer_dual_role",
+      "person_a": "יונה רוזנקיאר",
+      "person_b": "דומיניק וולינסקי",
+      "fund": "filmfund",
+      "evidence": "Dominique Welinski (Dominique Welinski) simultaneously holds two roles: (1) Producer of Yona Rozenkier's films; (2) Curator/consultant for Cannes Film Festival Factory (Directors' Fortnight) and L'Atelier/Residency programs. This gives her direct influence over incorporating Rozenkier's films into Cannes programming while being his producer and financial beneficiary. The Israeli Film Fund granted Rozenkier 2,000,000 NIS (500,000+ EUR) for his next feature — one of only 3 films selected from 100+ applications. The filmindustrywatch.org investigation raises whether Welinski's Cannes connections artificially elevated Rozenkier's perceived international prestige, influencing his fund eligibility. Both persons are in entity_registry.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "source_url_2": "https://filmindustrywatch.org/dominique-welinski/",
+      "confidence": "probable"
+    },
+    {
+      "type": "board_producer",
+      "person_a": "אילנה שושן",
+      "person_b": null,
+      "fund": "gesher",
+      "evidence": "Ilana Shoshan is simultaneously: (1) Gesher Film Fund board member (since 2018/2020); (2) Co-founder of Signature Productions (international film co-productions, 1992); (3) Film producer ('Joshua Tree' 1992 $10M budget, 'Imaginary Heroes' 2004 starring Sigourney Weaver). As a producer with financial interests in film production, her position on the Gesher Fund board creates a structural exec_filmmaker conflict. She could potentially influence fund decisions in ways that benefit production companies she is affiliated with.",
+      "source_url": "https://gesherfilmfund.org.il/Page/15/",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%9C%D7%A0%D7%94_%D7%A9%D7%95%D7%95%D7%A9%D7%9F",
+      "confidence": "probable"
+    },
+    {
+      "type": "industry_rep_fund_recipient",
+      "person_a": "אדר שפרן",
+      "person_b": null,
+      "fund": "filmfund_rabinovich",
+      "evidence": "Adar Shafran is head of the Israeli Producers Association (ראש התאחדות המפיקים) — she represents producers' interests in negotiating with film funds. Simultaneously, she received multiple grants from the Rabinovich Foundation as a producer, and from the Israeli Film Fund as a director. This is a triple role conflict: (1) Industry advocate negotiating fund budgets on behalf of producers; (2) Fund recipient as producer; (3) Fund recipient as director. Leading the Producers Association while personally benefiting from fund grants creates a structural conflict between her advocacy role and personal financial interest. Named by filmindustrywatch.org as a documented case of 'control of key people through financial dependence.'",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "confidence": "probable"
+    },
+    {
+      "type": "board_producer",
+      "person_a": "רמי בז'ה",
+      "person_b": null,
+      "fund": "filmfund",
+      "evidence": "Rami Bezha has been a board member of the Israeli Film Fund since 2016 (9+ years). He is identified as a film/event producer and chair of the 'Independent Forum' (פורום עצמאים) — an industry body. He appeared at the Knesset presenting as 'מפיק' (producer). As a producer serving on the board that funds films, there is a potential exec_filmmaker conflict if he produced films that received Fund investment during his tenure. This requires verification — specific film credits during his board tenure have not been confirmed.",
+      "source_url": "https://www.filmfund.org.il/ContentPage/?id=15",
+      "confidence": "unverified"
+    },
+    {
+      "type": "revolving_door_lector_recipient_complete",
+      "person_a": "עמיר מנור",
+      "person_b": null,
+      "fund": "filmfund_rabinovich_gesher_tau",
+      "evidence": "UPDATED (more complete than prior entry): Amir Manor served as lector for: Israeli Film Fund, Gesher Fund, Rabinovich Foundation, and Tel Aviv University — FOUR institutions simultaneously. His funded films: 'Flowers of Marzipan' (2014), 'I Can't Believe I'm a Robot' (2015), 'The House on Finn Street' (2018 Rabinovich grant/2021 release), 'The Swimmer' (2021). This is a QUADRUPLE conflict: (1) lector at 4 institutions; (2) film recipient ×4 projects; (3) paid script consultant (10,000 NIS) to applicants at same funds; (4) allegedly pre-informed an applicant of upcoming submission deadline before it was public. Born December 31, 1979; TAU Film graduate. Wikipedia confirmed.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%99%D7%A8_%D7%9E%D7%A0%D7%95%D7%A8",
+      "confidence": "probable"
+    },
+    {
+      "type": "family_low_probability",
+      "person_a": "אילנית אדרי",
+      "person_b": "משה אדרי",
+      "fund": "filmfund",
+      "evidence": "UPDATED (substantially weakened): אילנית אדרי serves as Accounting Management at the Israeli Film Fund. Moshe Adri has four DAUGHTERS (one named Maia, others unnamed), not sisters, and only ONE named brother (Leon). He immigrated with four siblings total. The name Ilanit does not appear among his daughters in any source. The surname אדרי is common among Moroccan Jews. Probability of family connection very low based on available evidence. Multiple genealogical searches found no connection. Remains technically unverified but assessed as likely coincidental.",
+      "source_url": "https://www.filmfund.org.il/ContentPage/?id=11",
+      "confidence": "unverified"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "ענבל שוקי",
+      "person_b": null,
+      "fund": "all",
+      "evidence": "Inbal Shuki is a COSTUME DESIGNER (not filmmaker/director) who serves on the Israeli Film Council. She has won two Ophir Awards and a Golden Lens Award for costume design. Her conflict type should be reclassified from exec_filmmaker to industry_professional_council: a costume designer who depends on funded productions for income serving on the body that regulates film fund allocations. She is in entity_registry as ענבל שוקי. Her prior memory file classification as 'tier-2 conflict' is approximately correct but should specify costume design, not filmmaking.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A0%D7%91%D7%9C_%D7%A9%D7%95%D7%A7%D7%99",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "institutional_revolving_door",
+      "person_a": "יגאל מולד חיו",
+      "person_b": null,
+      "fund": "gesher",
+      "evidence": "Yigal Molad Hayu (Igal Molad Hayu) served as director of the Jerusalem Cinematheque, Israeli Film Archive, AND Jerusalem International Film Festival. He is now chair of the Gesher Film Fund board (since 2025; member since 2020, extended member since 2015). The Cinematheque/JFF and Gesher Fund have a direct cooperative relationship — Gesher supports films screened at JFF and maintains Tel Aviv offices at the Cinematheque. His transition from leading those institutions to chairing the fund that cooperates with them is a classic revolving door. He is not a filmmaker. His conflict is institutional: festival/archive leadership background → fund board chair.",
+      "source_url": "https://gesherfilmfund.org.il/Page/15/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "prize_recipient_board_member",
+      "person_a": "אסף לפיד",
+      "person_b": null,
+      "fund": "fdoc",
+      "evidence": "CORRECTED TIMELINE: Assaf Lapid is: (1) FDOC board member for 2024-2026; (2) Director of 'השיבה מהפלנטה האחרת' (2023) which won the FDOC Investigation Prize (פרס התחקיר) at the 2023 ceremony — this was BEFORE his board term, so he was a prize recipient who then joined the board; (3) His film was NOMINATED in the 2024 FDOC Debut Film (סרט ביכורים) competition — this occurred WHILE he was a board member. He was NOT a winner at the 2024 ceremony. The 2024 investigation prize was won by other filmmakers. The conflict structure: (A) former FDOC prize winner who became a board member governing the prize body; (B) sitting board member whose film was in active competition at the organization he governs in the same term. Additionally: serves as Gesher Film Fund lector (2025), creating cross-institutional dual role: FDOC board + Gesher lector. Note: he is NOT the brother of נדב לפיד (prior entries erroneously stated this — this was the false positive finding from Round 1).",
+      "source_url": "https://www.fdoc.org.il/about/%D7%94%D7%A0%D7%94%D7%9C%D7%94-%D7%95%D7%A6%D7%95%D7%95%D7%AA-24-26/",
+      "source_url_2": "https://www.fdoc.org.il/competition-old/competition-2024/",
+      "source_url_3": "https://www.fdoc.org.il/israeli-documentary-film-award-winners-2023/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "prize_recipient_board_member",
+      "person_a": "קרין קיינר",
+      "person_b": null,
+      "fund": "fdoc",
+      "evidence": "Karin Kainer is simultaneously: (1) FDOC board member for 2024-2026; (2) Director of 'טבריה – מתחת לקו האדום' (Tiberias: Below the Red Line, 2023 series) which won the FDOC prize in 2023. The FDOC management page lists her prize win among her board member credentials. She also serves as FDOC's representative to the Israeli Film Academy — a third institutional role. She is a senior lecturer at HIT Holon Institute of Technology, making her an academic, filmmaker, fund prize recipient, and fund board member simultaneously.",
+      "source_url": "https://www.fdoc.org.il/about/%D7%94%D7%A0%D7%94%D7%9C%D7%94-%D7%95%D7%A6%D7%95%D7%95%D7%AA-24-26/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "systemic_self_governance",
+      "person_a": null,
+      "person_b": null,
+      "fund": "fdoc",
+      "evidence": "ALL 10 FDOC board members for 2024-2026 are active documentary filmmakers/producers whose films are eligible for FDOC prizes (prizes total ~200,000 NIS annually). There are NO independent non-filmmaker board members. Board members: (1) רוני אבולעפיה — director 'אולמרט', 'אידה פינק'; (2) ציפי ביידר — director 'האחרונים מטרבלינקה'; (3) אבי דבאח — documentary director; (4) דנה הכהן — director/producer 'הקופצים מהחומות' (DocAviv 2024); (5) צבי לנצמן — director 'הטיפול' (DocAviv 2021 prize), 'בית האילמת' (Oscar shortlist 2017); (6) אסף לפיד — FDOC prize winner 2023+2024; (7) אודי ניר — director 'חלומות ויראליים' (IDA Award 2021); (8) קרין קיינר — FDOC prize winner 2023; (9) נטע שושני — director '1948 - לזכור ולשכוח'; (10) עידית אברהמי — director 'H2: מעבדת השליטה'. The board governs FDOC, sets prize procedures, selects evaluators for prizes, and represents FDOC at Israeli Film Academy. This is a structural conflict: a peer group of competing filmmakers governing the body that awards prizes to those same filmmakers.",
+      "source_url": "https://www.fdoc.org.il/about/%D7%94%D7%A0%D7%94%D7%9C%D7%94-%D7%95%D7%A6%D7%95%D7%95%D7%AA-24-26/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "רמי בז'ה",
+      "person_b": null,
+      "fund": "filmfund",
+      "evidence": "CORRECTION to prior entry: Rami Bezha is an EVENTS/ENTERTAINMENT producer (live shows, festivals, theatrical productions), NOT a film/TV producer. He is chair of the Histadrut's Freelancers and Independents Forum (פורום העצמאים של ההסתדרות) — a general labor organization for all self-employed workers, not a film-specific body. He has been on the Israeli Film Fund board since 2016. His conflict is lower severity than a film producer on a film fund board — he is a cultural/entertainment industry professional (events producer) governing a cinema fund. No specific film/TV project bearing his name that received Film Fund support was found. The conflict is structural (cultural sector producer on cinema fund board) but not the direct film producer vs. fund board conflict initially suspected.",
+      "source_url": "https://www.filmfund.org.il/ContentPage/?id=15",
+      "source_url_2": "https://atzmaim.co.il/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "קובי מזרחי",
+      "person_b": null,
+      "fund": "gesher_rabinovich_filmfund_makor",
+      "evidence": "CORRECTION: Kobi Mizrahi is a PRODUCER (not director) of Israeli films. The filmindustrywatch.org revolving doors article incorrectly attributed 'Ben-Gurion, Epilogue' to him as director — the actual director is Yariv Mozer; Mizrahi was a PRODUCER. His productions include: White Eye, The Dive, Wasteland, The Road to Eilat, Ben Gurion Epilogue. 'Ben Gurion, Epilogue' received Makor Fund support (confirmed on kerenmakor.org.il). He served as lector at Gesher, Rabinovich, and Israeli Film Fund (confirmed via entity_registry and filmindustrywatch.org). His conflict is: PRODUCER who served as lector at funds that support productions he produces — still a valid revolving door conflict, but the nature is lector+producer not lector+director. Entity_registry roles: board_member, filmmaker, judge, lector, line_producer, producer across arava_film_fund, edb, fdoc, festival_data, film_schools, gesher, guilds, israeli_film_academy, makor, nfct, rabinovich_cinema.",
+      "source_url": "https://kerenmakor.org.il/films/ben-gurion-epilogue/?lang=en",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "family_confirmed",
+      "person_a": "אבי נשר",
+      "person_b": "תום נשר",
+      "fund": "rabinovich_cinema",
+      "evidence": "UPGRADED FROM PROBABLE TO CONFIRMED: Entity_registry confirms אבי נשר (ID: p_17121a43) has 'lector' role at filmfund, gesher, jerusalem_film_fund, nfct, rabinovich_cinema. תום נשר (ID: p_4b4606de) has sources: edb, rabinovich_cinema — confirming she received Rabinovich Fund support. The filmindustrywatch.org Hebrew investigation (israel-film-industry-alleged-corruption-rabinovich-gesher-funds) explicitly mentions 'the project of Tom Nesher, his father' as an example of alleged preferential Rabinovich Fund support. Tom Nesher received 1,000,000 NIS from Rabinovich for her debut film. She was 'the youngest creator to receive state fund money for a film.' Film 'Close to Me' (previously 'Sofi Sofi') won 4 Ophir Awards 2024 including Best Film and Best Director, and Best Debut at Jerusalem Film Festival. Avi Nesher also assisted her as assistant director on his own film 'Picture of Victory' (2021) — confirmed direct professional collaboration. The specific dates of Avi's lector service vs. Tom's application year require further verification from Rabinovich Fund lector records.",
+      "source_url": "https://filmindustrywatch.org/israel-film-industry-alleged-corruption-rabinovich-gesher-funds/",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%9D_%D7%A0%D7%A9%D7%A8",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "family_no_fund_conflict",
+      "person_a": "יורם לוי",
+      "person_b": "דנה עדן",
+      "fund": "general",
+      "evidence": "Yoram Levi was an Israeli film/TV producer who founded 'Dana Productions' (דנה הפקות) in 1974, named after his daughter Dana Eden. Dana Eden became one of Israel's leading TV/film producers, producing the series 'Tehran' (טהרן) among others. She passed away in early 2026 during filming of Tehran Season 3 in Greece, aged 52. This is a confirmed father-daughter pair in Israeli film production. However, NO fund conflict was found: no evidence that Yoram Levi served on any film fund committee while Dana Eden's productions received support. The family pair is documented but does not constitute a verified fund conflict of interest.",
+      "source_url": "https://www.calcalist.co.il/style/article/syarjseu11g",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "ceo_spousal_business_conflict",
+      "person_a": "קטריאל שורי",
+      "person_b": "לודי בוקן",
+      "fund": "filmfund",
+      "evidence": "Katriel Schory founded the Israeli Film Fund and served as CEO for almost 30 years. As one of his last acts as CEO, he approved 1,000,000 NIS in production funding (approved 2018) for the film 'The Last Cinema Show in Bucharest'. The film was directed and produced by Lodi Boken, who owned 51% of the company Balshir International Ltd. Schory's wife, Naomi Schory, owned 49% of the same company. The CEO of the Israeli Film Fund approved a 1M NIS grant for a project directed by his wife's business partner. This is a direct spousal-business-partner conflict of interest. Source article published January 30, 2024 by filmindustrywatch.org.",
+      "source_url": "https://filmindustrywatch.org/former-head-of-the-israeli-film-fund-awarded-funding-for-a-project-directed-by-his-wifes-business-partner/",
+      "confidence": "probable"
+    },
+    {
+      "type": "revolving_door_lector_recipient",
+      "person_a": "אפרת כורם",
+      "person_b": null,
+      "fund": "filmfund_gesher",
+      "evidence": "Efrat Korem served as artistic advisor/lector at the Israeli Film Fund (multiple rounds 2019-2023). Her debut feature film 'Ben Zaken' (בן זקן, 2014) received funding from BOTH the Israeli Film Fund AND the Gesher Film Fund. The film participated in Jerusalem Film Festival 2014, opened the South Film Festival 2014, won the Van Leer Award at the 2013 Jerusalem Pitch event. She is a Sapir College cinema graduate and screenwriter (confirmed at Writers Guild website). The filmindustrywatch.org revolving doors investigation includes her name in the list of 25 documented cases as 'אפרת כורם'. This is a confirmed revolving door: filmmaker funded by Israeli Film Fund + Gesher, then serves as lector at those same funds.",
+      "source_url": "https://www.filmfund.org.il/ContentPage?id=49",
+      "source_url_2": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "film": "בן זקן (2014)",
+      "fund_support": "Israeli Film Fund + Gesher Film Fund",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "cross_institutional_dual_role",
+      "person_a": "ציפי ביידר",
+      "person_b": null,
+      "fund": "fdoc_gesher",
+      "evidence": "Tzipi Baider simultaneously serves as: (1) FDOC Vice Chair (2024-2026) — governing the Israeli Documentary Forum and its prize process; (2) Gesher Film Fund lector (2025, confirmed on Gesher lectors list). She is also documentary manager at Kastina Communications. The Gesher Film Fund invests in documentary films that are eligible for FDOC prizes. As both FDOC VP and Gesher lector, she makes decisions at both institutions that can affect the same pool of documentary films. Note: Fellow FDOC board member Assaf Lapid is also a confirmed 2025 Gesher Fund lector — meaning TWO FDOC board members serve simultaneously as Gesher evaluators, creating an institutional overlap between the two organizations.",
+      "source_url": "https://www.fdoc.org.il/about/%D7%94%D7%A0%D7%94%D7%9C%D7%94-%D7%95%D7%A6%D7%95%D7%95%D7%AA-24-26/",
+      "source_url_2": "https://gesherfilmfund.org.il/Page/45/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_lector_confirmed",
+      "person_a": "שמוליק דובדבני",
+      "person_b": null,
+      "fund": "rabinovich_cinema_nfct",
+      "evidence": "Shmulik Duvdevani is confirmed as: (1) Film critic at Ynet ('מבקר קולנוע של ynet') and 'Muza' (Israel Museum arts journal); (2) Lector at Rabinovich Foundation AND NFCT — explicitly stated in his Wikipedia biography: 'משמש לקטור בקרנות תמיכה לסרטים ישראלים, בהן הקרן החדשה לקולנוע וטלוויזיה וקרן רבינוביץ'; (3) Faculty at TAU Steve Tisch School of Film and Television. He reviewed colleagues' films without proper disclosure: reviewed 'Nana Dauri' by TAU colleague Eti Tsiko with minimal disclosure; reviewed 'כביש הסרגל' by TAU colleague Maya Dreifuss with NO disclosure. Already in derived_conflicts.json as critic_committee for festival_data, filmfund, makor, nfct, rabinovich_cinema.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%9C%D7%99%D7%A7_%D7%93%D7%95%D7%91%D7%93%D7%91%D7%A0%D7%99",
+      "source_url_2": "https://filmindustrywatch.org/when-film-critics-review-their-own-colleagues-inside-israels-hidden-cinema-network/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_lector_confirmed",
+      "person_a": "יעל שוב",
+      "person_b": null,
+      "fund": "gesher",
+      "evidence": "Yael Shuv is confirmed as: (1) Film critic at Time Out Tel Aviv ('מבקרת הקולנוע שלנו'); (2) Cinema lecturer at Open University; (3) International film festival judge; (4) Gesher Film Fund lector (confirmed in 2018 lectors list at gesherfilmfund.org.il/Page/45/). No evidence found of her as a filmmaker who received fund support. Already in derived_conflicts.json as critic_committee for gesher, makor, nfct, rabinovich_cinema. This entry adds the confirmed Gesher lector source URL.",
+      "source_url": "https://gesherfilmfund.org.il/Page/45/",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%9C_%D7%A9%D7%95%D7%91",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "family_source_update",
+      "person_a": "אבי נשר",
+      "person_b": "תום נשר",
+      "fund": "rabinovich_cinema",
+      "evidence": "SOURCE UPDATE for existing entry. The filmindustrywatch.org REVOLVING DOORS article (not just the Hebrew corruption article) explicitly states in English: 'The Rabinovitch Foundation awarded production funds to director Avi Nesher and, at the same time in a separate decision, to his daughter, Tom Nesher.' This is clearer than the Hebrew phrasing. Tom Nesher received 1,000,000 NIS from Rabinovich for debut film 'Sofi Sofi' (later titled 'Karov Elai'/'Close to Me', 2024). She was described as the youngest person to receive state film fund money for a feature. The film won 4 Ophir Awards 2024 including Best Film and Best Director. The concurrent nature (same time period, separate decisions) is confirmed. Years of Avi's lector service vs. Tom's application year remain unconfirmed from public sources.",
+      "source_url": "https://filmindustrywatch.org/revolving-doors-at-the-israeli-film-funds/",
+      "source_url_2": "https://filmindustrywatch.org/israel-film-industry-alleged-corruption-rabinovich-gesher-funds/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "monopoly_source_update_2026",
+      "person_a": "משה אדרי",
+      "person_b": null,
+      "fund": "rabinovich_cinema_gesher",
+      "evidence": "SOURCE UPDATE. TheMarker (January 2, 2026) published: 'כל מי שרוצה לשרוד בתעשייה חייב יחסים טובים עם משה אדרי, אחרת אין סיכוי להצליח' (Everyone who wants to survive in the industry must have good relations with Moshe Aderi, otherwise there's no chance of success). This January 2026 article confirms the Aderi monopoly concern is current and ongoing, not just a 2015-2021 historical issue. Aderi's control over production and distribution (United King), combined with his dependence on fund grants (49% of Rabinovich Fund distributions 2015-2021), creates a situation where filmmakers fear professional exclusion if they don't maintain his goodwill. This is the strongest mainstream-media (Haaretz group) confirmation of the structural power imbalance.",
+      "source_url": "https://www.themarker.com/weekend/2026-01-02/ty-article-magazine/.highlight/0000019b-7496-d379-a3bb-f6b654850000",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "board_member_competition_nominee",
+      "person_a": "נטע שושני",
+      "person_b": null,
+      "fund": "fdoc",
+      "evidence": "Neta Shoshani is an FDOC board member for 2024-2026. Her film '1948 – לזכור ולשכוח' (directed by her) was nominated in the 2023 FDOC competition (Feature Documentary category) — this was before her board term. Additionally, she was credited as art designer for a film called 'חידת שושני' which was nominated in the 2024 FDOC Art Design competition — this occurred WHILE she was a board member. The '1948' film previously won the investigative journalism prize at DocAviv 2023. As a board member of FDOC during a competition in which she had professional credits (art design), this creates a conflict between her governance role and her personal professional interest in the competition's outcome.",
+      "source_url": "https://www.fdoc.org.il/about/%D7%94%D7%A0%D7%94%D7%9C%D7%94-%D7%95%D7%A6%D7%95%D7%95%D7%AA-24-26/",
+      "source_url_2": "https://www.fdoc.org.il/competition-old/competition-2024/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "דניאל טרופר",
+      "person_b": null,
+      "fund": "gesher",
+      "evidence": "CLARIFICATION/CORRECTION: Daniel Tropper is the founder and president of 'Gesher' educational movement (גשר מפעלים חינוכיים), a Jewish secular-religious dialogue organization founded in 1970. He is NOT associated with 'Gesher Film Fund' (קרן גשר לקולנוע רב תרבותי), which is a SEPARATE organization founded in 1999 under the Film Law, supported by Ministry of Culture. The two organizations share the name 'Gesher' but have no governance overlap confirmed. Daniel Tropper has no confirmed role in the Gesher Film Fund. This was a research target based on mistaken identity — should be removed from investigation.",
+      "source_url": "https://gesherfilmfund.org.il/Page/1/",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%93%D7%A0%D7%99%D7%90%D7%9C_%D7%98%D7%A8%D7%95%D7%A4%D7%A8",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "ceo_spousal_business_conflict_detail_update",
+      "person_a": "קטריאל שורי",
+      "person_b": "לודי בוקן",
+      "fund": "filmfund",
+      "evidence": "ROUND 6 DETAIL UPDATE for existing entry. Additional confirmed facts: (1) Schory was CEO 1998–2019 per Screen Daily (not '30 years' — actual tenure 21 years). (2) He also co-founded 'Balfilms' production company with wife Naomi in 1984 (producing 100+ TV/doc/feature works) — separate from Balshir International Ltd. (3) The funded film's correct English title is 'The Last Picture Show in Bucharest' (also appears as 'Last Picture Show in Bucharest', dir. Ludi Boeken). Stars Julia Levy-Boeken. The production company on record is Tazfilm. (4) The film was screened at Miami Jewish Film Festival 2021, premiered 2020/2021. (5) No police investigation or criminal proceedings found. (6) Schory received Israeli Academy lifetime achievement award August 27, 2023 — no public sanction has been imposed. (7) Hebrew title unconfirmed from public sources — likely 'ההצגה האחרונה בבוקרשט'.",
+      "source_url": "https://filmindustrywatch.org/former-head-of-the-israeli-film-fund-awarded-funding-for-a-project-directed-by-his-wifes-business-partner/",
+      "source_url_2": "https://www.screendaily.com/news/israeli-cinema-veteran-katriel-schory-receives-israel-academy-lifetime-achievement-award/5185379.article",
+      "source_url_3": "https://miamijewishfilmfestival.org/films/2021/last-picture-show-in-bucharest",
+      "confidence": "probable"
+    },
+    {
+      "type": "staff_change",
+      "person_a": "יואב אברמוביץ",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "Giora Eini (CEO since 1995, son of Mapai activist, appointed by PM Rabin) was replaced as CEO of Rabinovich Foundation in 2025 by Yoav Abramovitz (יואב אברמוביץ). Abramovitz joined the Foundation as vice-director in 2013, became artistic director for feature-length narrative films in 2015, and was promoted to CEO in 2025. He is a former film critic (reviews published 1999–2012), screenwriter, and film producer — making him a critic+filmmaker+fund-executive triple-role person at the same fund he now directs. He appears in derived_conflicts.json as critic_committee (makor, nfct, rabinovich_cinema). His promotion to CEO creates a new exec_filmmaker conflict. Eini's required departure was either 2023 or 2025 (with board extension) under Film Law tenure limits.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%90%D7%91_%D7%90%D7%91%D7%A8%D7%9E%D7%95%D7%91%D7%99%D7%A5%27",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "staff_change",
+      "person_a": "אוראל טורנר",
+      "person_b": "דורית ענבר",
+      "fund": "nfct",
+      "evidence": "Dorit Enbar (NFCT CEO 2008-2024) transitioned to Board Chair (יו''ר) in 2025. New CEO is Aural Turner (אוראל טורנר), appointed 2025. Udi Yerushalmi is a board member (not a former NFCT CEO - correction per Round 7 research). The NFCT board now contains Enbar as chair alongside new CEO Turner. Enbar previously had her conflict of interest officially ruled by the Knesset Gilaour Committee (2015).",
+      "source_url": "https://nfct.org.il/about/management/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "systemic_reform_detail",
+      "person_a": null,
+      "person_b": null,
+      "fund": "all",
+      "evidence": "DETAIL UPDATE on lectors pool abolition. The mandatory government lectors pool (מאגר הלקטורים) was created under Film Law Amendment 5 in 2019 (under Culture Minister Miri Regev) and abolished 2025 under Culture Minister Miki Zohar. Knesset vote: 27 in favor, 1 abstention. New system: each fund independently contracts evaluators, subject to minister's directives and legal standards. Key new conflict risk: fund CEOs now have unchecked authority to select friendly evaluators — the very quid-pro-quo allegation made about Giora Eini employing journalists Raveh/Dvorah/Fogel as lectors is now the LEGAL default mode rather than an exception. The reform also introduces commercial performance metrics (ticket sales, TV exposure) as funding criteria, shifting power toward commercial producers like Moshe Adri.",
+      "source_url": "https://e.walla.co.il/item/3808667",
+      "source_url_2": "https://www.mako.co.il/news-entertainment/2026_q1/Article-03ca9502fe5bb91026.htm",
+      "source_url_3": "https://www.maariv.co.il/news/politics/article-1184713",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "exec_filmmaker",
+      "person_a": "אסף אמיר",
+      "person_b": null,
+      "fund": "israeli_film_academy",
+      "evidence": "Assaf Amir (אסף אמיר) has been Chair of the Israeli Film Academy (האקדמיה הישראלית לקולנוע וטלוויזיה) since 2019. Entity_registry (p_378f86c6) lists his roles as: chairperson, creator, lector, producer, screenwriter. As Academy chair he governs the Ophir Awards and Oscar nomination process — while simultaneously being an active film producer and fund lector. His production company Norma Productions received Israeli Film Fund support for 'Givea 24' (2023). His TV series 'Chazarot' (2020) won 8 Academy Awards including Best Series while he chaired the Academy. This is a structural conflict: the head of the body that nominates films for Oscars and gives Ophir Awards is himself an active film producer and fund evaluator.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%94_%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA_%D7%9C%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2_%D7%95%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94",
+      "confidence": "probable"
+    },
+    {
+      "type": "exec_lector",
+      "person_a": "אסתר ונדר",
+      "person_b": null,
+      "fund": "israeli_film_academy",
+      "evidence": "Esther Vander (אסתר ונדר) is CEO of the Israeli Film Academy (since 2024) AND appears in entity_registry (p_8664d463) with roles: ceo, lector. As Academy CEO she administers the Ophir Awards and Oscar nomination process while simultaneously serving as a fund lector. This creates a conflict: fund evaluator who also runs the awards ceremony that recognizes funded films.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A7%D7%93%D7%9E%D7%99%D7%94_%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA_%D7%9C%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%86_%D7%95%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94",
+      "confidence": "probable"
+    },
+    {
+      "type": "critic_lector_confirmed",
+      "person_a": "יאיר רוה",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema_gesher",
+      "evidence": "ROUND 6 CONFIRMED SOURCE for existing probable entry. Yair Raveh (יאיר רוה): (1) Film critic/blogger (cinemascope.co.il), (2) former Film Council member, (3) lector at Gesher + NFCT + Rabinovich (confirmed in derived_conflicts.json), (4) his TV series 'קטמנדו' (2012) received Gesher Fund support while he was a Film Council member, (5) explicitly named in filmindustrywatch.org with exact Hebrew quote as one of the journalists Giora Eini employed as lectors to manage press coverage. Source for quid-pro-quo allegation: 'גיורא עיני דאג במשך השנים להעסיק את בכירי העיתונאים לקולנוע בארץ – יאיר רוה, ארז דבורה, רון פוגל, ואחרים, כלקטורים בקרן.' His Wikipedia also confirms: former Film Council member.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%99%D7%90%D7%99%D7%A8_%D7%A8%D7%95%D7%94",
+      "source_url_2": "https://filmindustrywatch.org/israel-film-industry-alleged-corruption-rabinovich-gesher-funds/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_lector_confirmed",
+      "person_a": "ארז דבורה",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "ROUND 6 CONFIRMED SOURCE for existing probable entry. Erez Dvorah (ארז דבורה): (1) Film critic at Ynet (since 2007), (2) lector at Rabinovich Foundation — confirmed by his Minshar Arts College CV: 'Rabinovich Foundation, Joshua Rabinovich Foundation for the Arts, 2012, Development and Feature Film tracks', (3) explicitly named in filmindustrywatch.org quid-pro-quo allegation alongside Raveh and Fogel. CV source (Minshar): https://www.minshar.org.il/wp-content/uploads/2019/09/EREZ-DVORAH-CV.pdf. Rabinovich lector start date: 2012.",
+      "source_url": "https://www.minshar.org.il/wp-content/uploads/2019/09/EREZ-DVORAH-CV.pdf",
+      "source_url_2": "https://filmindustrywatch.org/israel-film-industry-alleged-corruption-rabinovich-gesher-funds/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "political_monopoly_2026",
+      "person_a": "משה אדרי",
+      "person_b": "מיקי זוהר",
+      "fund": "all",
+      "evidence": "NEW ANGLE from TheMarker Jan 2, 2026: Moshe Adri served as political operative for Culture Minister Miki Zohar in suppressing filmmaker opposition to Zohar's cinema reform attempts. The article documents that filmmakers who want to 'survive' in the industry must maintain good relations with Adri. This adds a political dimension to the existing monopoly conflict: Adri's power over production/distribution combined with his role as minister's ally creates a dual commercial+political leverage over filmmakers. This is particularly significant because the Zohar reform (abolishing mandatory lectors pool, shifting to commercial metrics) directly benefits large-scale commercial producers like Adri (United King).",
+      "source_url": "https://www.themarker.com/weekend/2026-01-02/ty-article-magazine/.highlight/0000019b-7496-d379-a3bb-f6b654850000",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "academy_chair_producer",
+      "person_a": "אסף אמיר",
+      "person_b": null,
+      "fund": "filmfund_israeli_film_academy",
+      "evidence": "ROUND 7 UPGRADE. Assaf Amir is Chair of Israeli Film and Television Academy since 2019 (confirmed: Wikipedia, Haaretz 2025-09-01). He is owner of Norma Productions and active film/TV producer. His production company received Israeli Film Fund support for 'Givea 24' (2023) while he was Academy Chair. His TV series 'Chazarot' (2020, Kan 11) won 8 Israeli Film Academy Awards including Best Series — while Amir CHAIRED the Academy. This is a direct conflict: the Academy Chair's productions compete for and WIN the Ophir and Academy prizes he administers. The entity_registry lector role confirms he also evaluates fund applications. Triple structural conflict: Academy Chair + active producer receiving fund grants + Ophir Award winner during own chairmanship.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%A3_%D7%90%D7%9E%D7%99%D7%A8",
+      "source_url_2": "https://www.haaretz.co.il/gallery/cinema/2025-09-01/ty-article-magazine/.premium/00000198-ff87-decf-a7fd-ffaf2e260000",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "institutional_revolving_door",
+      "person_a": "דורית ענבר",
+      "person_b": null,
+      "fund": "nfct",
+      "evidence": "ROUND 7 NEW ENTRY. Dorit Enbar served as NFCT CEO for 16 years (2008-2024), then transitioned directly to NFCT Board Chair in 2025. The board oversees management — having the previous 16-year CEO as board chair means the oversight body is chaired by the person whose decisions it should be evaluating. She cultivated all current staff relationships and industry connections as CEO; now she chairs oversight of her successor. Additionally: she had a conflict of interest officially ruled by the Knesset Gilaour Committee in 2015. Source: NFCT management page confirms current board chair role; Globes 2008 confirms CEO appointment.",
+      "source_url": "https://nfct.org.il/about/management/",
+      "source_url_2": "https://www.globes.co.il/news/article.aspx?did=1000359113",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "exec_filmmaker",
+      "person_a": "זיו נווה",
+      "person_b": null,
+      "fund": "gesher",
+      "evidence": "ROUND 7 CONFIRMED. Ziv Naveh served as CEO and Artistic Director of Gesher Multicultural Film Fund 2005-2025. Prior to this role, she established and ran Ziv Naveh Productions, directing and producing documentary films including: 'Between Two Worlds,' 'Welcome to Hell,' 'Menuhah''s Film,' 'Code of Silence.' She founded the Drama Department at the Israeli Public Broadcasting Corporation (2017). This is a 20-year exec_filmmaker conflict: a documentary filmmaker who ran the fund financing documentary films. Additional allegation: her appointment was connected to political relationship with Hilel Tropper (Culture Minister) whose relative Daniel Tropper co-founded Gesher Fund. Source: bliss-media.co.il bio + filmindustrywatch.org.",
+      "source_url": "https://bliss-media.co.il/ziv-naveh/",
+      "source_url_2": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_lector_multi_fund",
+      "person_a": "רון פוגל",
+      "person_b": null,
+      "fund": "filmfund_ministry_rabinovich_makor_galil",
+      "evidence": "ROUND 7 CONFIRMED with complete fund list and dates. Ron Fogel served as lector at: (1) Israeli Film Fund (2014); (2) Ministry of Culture film department (2017); (3) Rabinovich Foundation (2018); (4) Makor Film Fund (2019); (5) Galil Film Fund (2021). He is a film critic at KAN (public TV/radio, since 2007), Seret website, Cinemateque magazine, and Liberal magazine. He is a FIPRESCI member and served as President of FIPRESCI Jury at Cannes 2021 — first Israeli in this role. His film criticism directly affects public perception of the funds and films he evaluates as a lector. Named in filmindustrywatch.org as one of the journalists employed by Giora Eini specifically to prevent critical press coverage of Rabinovich Fund.",
+      "source_url": "https://fipresci.org/people/ron-fogel/",
+      "source_url_2": "https://www.hamartzim.com/lecturers/ron-fogel/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_board_chair_lector",
+      "person_a": "פבלו אוטין",
+      "person_b": null,
+      "fund": "multiple",
+      "evidence": "ROUND 7 NEW ENTRY. Pablo Utin is: (1) Co-Chair of the Israeli Film Critics Association (elected Dec 2013, incumbent 2025); (2) FIPRESCI member (international critics federation); (3) Film critic and TAU Steve Tisch School faculty; (4) Listed in entity_registry as ['art_director', 'board_member', 'chairperson', 'critic', 'director', 'faculty', 'lector'] with sources including filmfund, gesher, nfct, rabinovich_cinema. As co-chair of the critics association, he sets the professional norms for Israeli film criticism — while simultaneously serving as a lector at the funds he would be expected to independently critique. His multiple board/chair roles create layered institutional conflicts with the organizations he covers as a critic.",
+      "source_url": "https://fipresci.org/people/pablo-utin/",
+      "source_url_2": "https://english.tau.ac.il/profile/pablou",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "critic_festival_filmmaker_lector",
+      "person_a": "יאיר הוכנר",
+      "person_b": null,
+      "fund": "multiple",
+      "evidence": "ROUND 7 NEW ENTRY. Yair Hochner is simultaneously: (1) Film critic at Seret website (main critic and reviews editor since 2002); (2) Writer for Cinemateque Magazine and Camera Obscura journal; (3) Director/writer of feature films: 'Good Boys' (2005), 'Antarctica' (2008); (4) Co-producer/director of 'Fucking Different Tel Aviv' (Berlin Film Festival official selection 2009); (5) Founder and director of TLVFest (Tel Aviv LGBTQ+ International Film Festival, since 2006); (6) Entity_registry: ['critic', 'festival_director', 'lector', 'producer']. He occupies every node in the Israeli film ecosystem: writes reviews of films, makes films that need funding, directs a festival that programs those films, and serves as a lector evaluating grant applications — with no structural separation between these roles.",
+      "source_url": "https://www.imdb.com/name/nm1937252/",
+      "source_url_2": "https://www.zoominfo.com/p/Yair-Hochner/825974828",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "אוראל טורנר",
+      "person_b": null,
+      "fund": "nfct",
+      "evidence": "ROUND 7 CORRECTION: The 'filmmaker' role tag in entity_registry for Aural Turner appears to be a data extraction error. Her actual career: (1) worked at a documentary production company as staff before 2004; (2) joined NFCT 2004 as office manager; (3) promoted to head of productions 2011; (4) appointed CEO January 2025. No creative filmmaker credits (director, screenwriter, producer of own projects) found. The 'filmmaker' tag likely extracted from 'worked at film production company' text. She is a fund administrator, not a filmmaker. This is NOT an exec_filmmaker conflict.",
+      "source_url": "https://m.facebook.com/nfctorg/photos/1029630429197700/",
+      "source_url_2": "https://nfct.org.il/about/the-team/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "data_correction",
+      "person_a": "אודי ירושלמי",
+      "person_b": null,
+      "fund": "nfct",
+      "evidence": "ROUND 7 CORRECTION: Prior research incorrectly identified Udi Yerushalmi as a former NFCT CEO. He is NOT. The NFCT CEO succession is: Orna Ben Dor (1993-1999), David Fisher (1999-2008), Dorit Enbar (2008-2024), Aural Turner (2025-present). Yerushalmi's actual role: current NFCT board member (regular member, not chair) + CEO of SIT + former Israeli Second Broadcasting Authority council member. He is a film/TV industry executive, not a filmmaker. The prior new_conflicts_found.json entry typed as 'exec_former_board_filmmaker' for him should be reclassified as 'board_member_industry_executive'. He has no filmmaker creative credits.",
+      "source_url": "https://nfct.org.il/about/management/",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "exec_filmmaker",
+      "person_a": "אסף אמיר",
+      "person_b": null,
+      "fund": "filmfund",
+      "evidence": "ROUND 8 CONFIRMED / ROUND 9 SOURCE ADDED / ROUND 10 OPHIR WIN ADDED: Assaf Amir (אסף אמיר) has been chairman of the Israeli Film Academy (האקדמיה הישראלית לקולנוע וטלוויזיה) since 2019. In 2020, his production company Norma Productions (נורמה הפקות) produced the series 'חזרות' (Rehearsals), which won 8 Academy (Ophir TV) Awards including Best Comedy-Drama Series. He personally co-wrote the screenplay. He signed the official 2020 Ophir season launch letter as Academy chairman while his own production led with 15 nominations and won 8 awards. In 2023, his film 'גבעה 24' (director Uri Barbash, screenplay Beni Barbash, producer Amir / Norma Productions) received Israeli Film Fund production investment — confirmed at both the 2023 investment list AND the dedicated film page (filmfund.org.il/Movie?movieId=508). NOTE (Round 10): 'גבעה 24' is STILL IN DEVELOPMENT (status: עתידי — upcoming) and has NOT been released or nominated for Ophir Awards. ROUND 10 KEY ADDITION: Norma Productions also produced the documentary short 'הרף התחתון ביותר' (A Minor Crime, 2023, dir. Noor Fibak) which won the 2023 Ophir Award for Best Short Documentary — an award governed by the Academy that Amir chairs. This is the confirmed circular Ophir-win case. Film was also supported by Makor and Gesher funds. COMPOUND CONFLICT (Round 9 addition): Uri Barbash (director of גבעה 24) served as Israeli Film Fund Artistic Advisor (2010) and is an Israeli Film Academy member — he received the 2025 Ophir Lifetime Achievement Award. Beni Barbash (screenwriter) is Uri's brother and both are fund-connected across filmfund/gesher/rabinovich/nfct. Four overlapping conflict layers on one publicly-funded film: (1) Academy Chair as producer; (2) Academy Chair's TV series wins 8 Academy awards while he chairs it; (3) Academy Chair's documentary short wins 2023 Ophir while he chairs; (4) Director is former Fund Artistic Advisor + Academy member; (5) Director and screenwriter are brothers.",
+      "source_url": "https://www.filmfund.org.il/Movie?movieId=508",
+      "source_url_2": "https://www.filmfund.org.il/ContentPage/?id=66",
+      "source_url_3": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%A3_%D7%90%D7%9E%D7%99%D7%A8",
+      "source_url_4": "https://www.calcalist.co.il/style/article/SJY00VFlLO",
+      "source_url_5": "https://srita.net/2023/09/10/ophir_awards_ceremony_2023/",
+      "source_url_6": "https://www.edb.co.il/title/t0018381/production/",
+      "confidence": "confirmed",
+      "round": 8
+    },
+    {
+      "type": "academy_chair_ophir_winner",
+      "person_a": "אסף אמיר",
+      "person_b": "נור פיבק",
+      "fund": "israeli_film_academy_makor_gesher",
+      "evidence": "ROUND 10 NEW ENTRY — highest-severity circular conflict confirmed. Assaf Amir (אסף אמיר), Chair of the Israeli Film Academy since 2019, produced the documentary short 'הרף התחתון ביותר' (A Minor Crime, 2023) via his company Norma Productions (נורמה הפקות). Directed by Noor Fibak (נור פיבק). It won the 2023 Ophir Award for Best Short Documentary (פרס אופיר לסרט הדוקומנטרי הקצר הטוב ביותר) — an award administered and governed by the Academy that Amir chairs. The film was also supported by Makor Fund and Gesher Fund. This is a DIRECT CIRCULAR CONFLICT: the Academy Chair's production company wins the Award that his Academy administers. This is distinct from and more severe than his TV series 'חזרות' winning 8 Academy TV Awards in 2020 — because the Ophir Award is Israel's most prestigious film prize and determines Israel's Oscar submission. No public recusal or conflict-of-interest disclosure by Amir or the Academy was found. EDB production page confirms: production company = Norma Productions; funds = Makor + Gesher. Award confirmed in Srita.net full 2023 Ophir winners list and Cinemascope.co.il.",
+      "source_url": "https://srita.net/2023/09/10/ophir_awards_ceremony_2023/",
+      "source_url_2": "https://www.edb.co.il/title/t0018381/production/",
+      "source_url_3": "https://cinemascope.co.il/archives/32493",
+      "source_url_4": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%A3_%D7%90%D7%9E%D7%99%D7%A8",
+      "confidence": "confirmed",
+      "round": 10
+    },
+    {
+      "type": "ceo_spouse_business_conflict",
+      "person_a": "כתריאל שחורי",
+      "person_b": "נעמי שחורי",
+      "fund": "filmfund",
+      "evidence": "ROUND 8 CONFIRMED: Katriel Schory (כתריאל שחורי), CEO of the Israeli Film Fund for ~20 years (resigned 2019), approved 1,000,000 NIS in production funding for the film 'הצגת הקולנוע האחרונה בבוקרשט' (The Last Cinema Show in Bucharest) directed by Lodi Boken (year: 2019, per filmfund.org.il/Movie?movieId=120). His wife Naomi Schory (נעמי שחורי) holds 49% ownership of Balshir International LTD, with Lodi Boken holding 51%. Katriel Schory served as CEO of Balshir International. This means Schory's wife was a business partner of the director who received the fund grant from Schory's own institution. Per the filmindustrywatch.org article, the film's title was allegedly 'kept off the books' in fund reporting. Wikipedia on Naomi Schory confirms her long-term production partnership with Lodi Boken going back to 1979 (Balvo Films co-founded together). No Hebrew mainstream coverage (Haaretz/Calcalist/Ynet) found — only English source.",
+      "source_url": "https://filmindustrywatch.org/former-head-of-the-israeli-film-fund-awarded-funding-for-a-project-directed-by-his-wifes-business-partner/",
+      "source_url_2": "https://www.filmfund.org.il/Movie?movieId=120",
+      "source_url_3": "https://he.wikipedia.org/wiki/%D7%A0%D7%A2%D7%9E%D7%99_%D7%91%D7%9F_%D7%A0%D7%AA%D7%9F_%D7%A9%D7%97%D7%95%D7%96%D7%A8%D7%99",
+      "confidence": "confirmed",
+      "round": 8
+    },
+    {
+      "type": "family_false_positive",
+      "person_a": "אסתר גולדברג",
+      "person_b": "בועז גולדברג",
+      "fund": "nfct",
+      "evidence": "ROUND 8 CORRECTION: No family connection found between Esther Goldberg (NFCT staff — Producer of Incubators and Special Projects) and Boaz Goldberg (filmmaker, born 1974). Boaz Goldberg's father is Prof. Giora Goldberg (political scientist, Bar-Ilan University). 'גולדברג' is a very common Ashkenazi surname. REMOVE from any family_pairs list — confirmed false positive.",
+      "source_url": "https://nfct.org.il/about/the-team/",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%A2%D7%96_%D7%92%D7%95%D7%9C%D7%93%D7%91%D7%A8%D7%92_(%D7%91%D7%9E%D7%90%D7%99)",
+      "confidence": "confirmed",
+      "round": 8
+    },
+    {
+      "type": "family",
+      "person_a": "אורי ברבש",
+      "person_b": "בני ברבש",
+      "fund": "filmfund",
+      "evidence": "ROUND 8 CONFIRMED SIBLINGS: Uri Barbash (אורי ברבש, director) and Beni Barbash (בני ברבש, screenwriter) are confirmed brothers — stated explicitly in both their Wikipedia articles. Both appear in entity_registry with fund-connected roles across filmfund, gesher, jerusalem_film_fund, makor, nfct, rabinovich_cinema. Their film 'גבעה 24' (2023) — Uri directed, Beni wrote screenplay, Assaf Amir produced — received Israeli Film Fund production investment (confirmed filmfund.org.il 2023 list). This is a family collaboration that received public fund support. Compounding the Amir exec_filmmaker conflict on the same film.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%91%D7%A0%D7%99_%D7%91%D7%A8%D7%91%D7%A9",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%99_%D7%91%D7%A8%D7%91%D7%A9",
+      "source_url_3": "https://www.filmfund.org.il/ContentPage/?id=66",
+      "confidence": "confirmed",
+      "round": 8
+    },
+    {
+      "type": "spousal",
+      "person_a": "מרגריטה לינטון",
+      "person_b": "יניב לינטון",
+      "fund": "nfct",
+      "evidence": "ROUND 8 CONFIRMED / ROUND 9 UPGRADED WITH SOURCE: Margaritta Linton (מרגריטה לינטון) and Yaniv Linton (יניב לינטון) are confirmed romantic partners. Ynet LaIsha article (Round 9 primary source) provides full detail: they met at Sam Spiegel Film School, have been together 16 years, are parents of two daughters (Naomi age 7, Ruth age 5), and live at Kibbutz Kfar Haruv in the Golan Heights where Yaniv grew up. Yaniv served as DoP (cinematographer) on Margaritta's documentary 'בת האמן' (The Artist's Daughter, 2022) which won Best First Film at DocAviv 2022 and the Ophir Award for Best Short Documentary. Margaritta is a lector/editor at NFCT and multiple other funds; Yaniv is a director/DoP. Both appear in entity_registry with NFCT, Rabinovich, Makor, and other fund connections. This is a spousal pair where one partner is a fund lector and both receive fund support for joint work.",
+      "source_url": "https://www.ynet.co.il/laisha/article/s1c1ac411o",
+      "source_url_2": "https://www.bet-michal.com/%D7%91%D7%AA-%D7%94%D7%90%D7%9E%D7%9E%D7%9F-4-1-23/",
+      "source_url_3": "https://www.haaretz.co.il/gallery/cinema/movie-reviews/2022-09-05/ty-article-review/.premium/00000183-0c6a-da56-a9ef-4cee8a790000",
+      "confidence": "confirmed",
+      "round": 8
+    },
+    {
+      "type": "family_additional_roles",
+      "person_a": "אורי ברבש",
+      "person_b": "בני ברבש",
+      "fund": "filmfund",
+      "evidence": "ROUND 9 ADDENDUM to Round 8 family entry. Uri Barbash (director) served as Israeli Film Fund Artistic Advisor (יועץ אמנותי) in 2010 — confirmed by his Hebrew Wikipedia article. He is also a member of both the Israeli Film and Television Academy AND the American Academy of Motion Picture Arts and Sciences. He received the 2025 Ophir Lifetime Achievement Award. These institutional roles compound the 'גבעה 24' (2023) family conflict: director was a former Fund Artistic Advisor, is an Academy member, and the film was produced by the current Academy Chair (Assaf Amir). The 'גבעה 24' dedicated Film Fund page is filmfund.org.il/Movie?movieId=508.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%99_%D7%91%D7%A8%D7%91%D7%A9",
+      "source_url_2": "https://www.filmfund.org.il/Movie?movieId=508",
+      "confidence": "confirmed",
+      "round": 9
+    },
+    {
+      "type": "governance_gap",
+      "person_a": null,
+      "person_b": null,
+      "fund": "all",
+      "evidence": "ROUND 9 FINDING: No State Comptroller (מבקר המדינה) audit of Israeli film funds was found in any available source. The government-level review that DID occur was a ministerial committee (Miri Regev, Culture Minister, 2016-2017) that found the fund support mechanism 'defective' and recommended tighter oversight — but this was a politically-driven initiative, not an independent audit. The Knesset adjudicated one individual conflict case (Dorit Enbar, 2015) via the Knesset Civil Service Committee, but this was not a systemic audit. The Israeli State Comptroller has jurisdiction over public bodies that receive government funding — the film funds (which ARE government-funded) would theoretically be subject to such review. The absence of any State Comptroller audit means the structural conflicts documented in this dataset have never been subject to independent governmental scrutiny.",
+      "source_url": "https://www.mevaker.gov.il/state-audit/reports",
+      "source_url_2": "https://www.gov.il/BlobFolder/rfp/cinema_funds_committee/he/%D7%A0%D7%99%D7%AA%D7%95%D7%97%D7%99%D7%9D%20%D7%A1%D7%98%D7%98%D7%99%D7%A1%D7%98%D7%99%D7%99%D7%9D%20%D7%9C%D7%95%D7%95%D7%A2%D7%93%D7%94%20%D7%9C%D7%91%D7%97%D7%99%D7%A0%D7%AA%20%D7%94%D7%AA%D7%A0%D7%94%D7%9C%D7%95%D7%AA%20%D7%A7%D7%A8%D7%A0%D7%95%D7%AA%20%D7%94%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2.pdf",
+      "confidence": "confirmed",
+      "round": 9
+    },
+    {
+      "type": "family_unverified",
+      "person_a": "דנה אידיסיס",
+      "person_b": "חיים אידיסיס",
+      "fund": "gesher_nfct",
+      "evidence": "ROUND 9: Dana Idisis (דנה אידיסיס, filmmaker/writer, born 1986) and Chaim Idisis (חיים אידיסיס, screenwriter/playwright/director, born 1959) are CONFIRMED niece and uncle (uncle=חיים; father=בנצי אידיסיס who is Chaim's older brother). Both have fund connections: Dana's film 'סרט בר מצווה' received NFCT and Gesher support; she won Ophir Award and IDFA prize for 'על הספקטרום.' Chaim is an active screenwriter with film/TV industry connections (Chaos Films IL). However, NO evidence found of Chaim serving as a lector/evaluator at any fund during Dana's grant applications. The family connection is confirmed but the FUND CONFLICT (uncle evaluating niece's projects) is UNCONFIRMED. Not a current fund conflict — flagged for monitoring.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%99%D7%9D_%D7%90%D7%99%D7%93%D7%99%D7%A1%D7%99%D7%A1",
+      "source_url_2": "https://he.wikipedia.org/wiki/%D7%93%D7%A0%D7%94_%D7%90%D7%99%D7%93%D7%99%D7%A1%D7%99%D7%A1",
+      "confidence": "unverified",
+      "round": 9
+    },
+    {
+      "type": "committee_chair_filmmaker_lector",
+      "person_a": "רפאל בלולו",
+      "person_b": null,
+      "fund": "pais_gesher_rabinovich_jff",
+      "evidence": "ROUND 11 NEW ENTRY. Rafael Balulo (רפאל בלולו, born January 24, 1981) is simultaneously: (1) Chair of the Cinema and Television Committee of Mifal HaPais Arts and Culture Council (יו\"ר ועדת הקולנוע והטלוויזיה של מועצת הפיס לתרבות ולאמנות) — a public grant-awarding body for filmmakers; (2) Lector at Rabinovich Foundation for the Arts Tel Aviv, Gesher Multicultural Film Fund, and Jerusalem Film Festival (since 2015); (3) Active filmmaker/director/producer with multiple documentaries: 'Batman in a Checkpoint' (2012, won Berlin Film Festival first prize + DokuFest Kosovo), 'Song of Friendship – Rabbi David Buzaglo' (2015), 'Levantinit' (2019), 'Death in Umm Al-Hiran' (2024), 'The Last Righteous Man' (2024); (4) Confirmed recipient of production grants from the Rabinovich Foundation, the Gesher Fund (Bridge Fund for Multicultural Cinema), and the Pais Arts and Culture Council — the very bodies where he serves as evaluator and chair. Wikipedia explicitly states: 'קיבל מענקי הפקה מקרן רבינוביץ, קרן הגשר לקולנוע רב תרבותי ומועצת הפיס לתרבות ולאמנות.' This is a direct circular conflict: he chairs the committee that awards grants to filmmakers while simultaneously receiving similar grants as a filmmaker from those same institutions. Entity_registry lists him with roles ['committee_chair', 'lector'] across sources ['fdoc', 'gesher', 'makor', 'nfct'] — 5 fund sources total.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%A8%D7%A4%D7%90%D7%9C_%D7%91%D7%9C%D7%95%D7%9C%D7%95",
+      "source_url_2": "https://www.edb.co.il/name/n0018178/",
+      "source_url_3": "https://cinemaofisrael.co.il/%D7%A8%D7%A4%D7%90%D7%9C-%D7%91%D7%9C%D7%95%D7%9C%D7%95/",
+      "confidence": "confirmed",
+      "round": 11
+    },
+    {
+      "type": "industry_professional_council",
+      "person_a": "ענבל שוקי",
+      "person_b": null,
+      "fund": "film_council_all",
+      "evidence": "ROUND 11 UPGRADE from prior data_correction entry. ענבל שוקי (Inbal Shuki) is a professional costume designer who serves as a member of the Israeli Film Council (המועצה הישראלית לקולנוע) — the regulatory body that approves annual budget allocations for all Israeli film funds (Israeli Film Fund, Gesher, Rabinovich, NFCT, etc.). She has won FOUR Ophir Awards for costume design: (1) 'Vulcan Junction' (1999); (2) 'A Big Story' (2009); (3) 'Seven Blessings' (2023 — the same year it won Best Film at Ophir); (4) 'Neandarouri' (2025). All these films were produced with fund support. As a costume designer, her professional income depends on Israeli funded productions: when the Film Council approves larger fund budgets, more productions are financed, creating more work and income for costume designers like her. She therefore has a financial interest in the council's budget decisions she participates in. This is a structural industry_professional_council conflict: a Film Council member whose livelihood depends on fund-supported productions participating in decisions that affect those funds' budgets. The Film Council also sets policy on fund governance — she participates in setting the rules of the system she benefits from. Note: this is less severe than an active director/producer on the council but more systematic than a genuinely independent public member.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A0%D7%91%D7%9C_%D7%A9%D7%95%D7%A7%D7%99",
+      "source_url_2": "https://data.gov.il/dataset/552",
+      "confidence": "confirmed",
+      "round": 11
+    },
+    {
+      "type": "role_confirmed_independent",
+      "person_a": "אתי כהן",
+      "person_b": "אתי כהן",
+      "fund": "film_council_all",
+      "evidence": "Eti Cohen's role as Israeli Film Council manager / Ministry of Culture cinema coordinator confirmed by independent festival sources: DocAviv 2015 thank-you credits, DocAviv 2021 'about' page, and Jerusalem Film Festival 2019 team page. These are independent of the filmindustrywatch.org advocacy reporting. Exact 1999–2021 tenure dates remain single-sourced.",
+      "source_url": "https://www.docaviv.co.il/2015/about/%D7%AA%D7%95%D7%93%D7%95%D7%AA/",
+      "source_url_2": "https://www.docaviv.co.il/2021/docaviv-about/",
+      "source_url_3": "https://jff.org.il/he/article/6145",
+      "confidence": "confirmed",
+      "round": "osint-2026-06-06"
+    },
+    {
+      "type": "successor_identified",
+      "person_a": "קרן כרמל",
+      "person_b": "אתי כהן",
+      "fund": "film_council_all",
+      "evidence": "Karen Carmel (קרן כרמל) is the current manager of the Israeli Film Council and head of the cinema/dance department at the Ministry of Culture, succeeding Eti Cohen after her 2021 departure. Source: Hebrew Wikipedia article on the Israeli Film Council.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%95%D7%A2%D7%A6%D7%94_%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA_%D7%9C%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2",
+      "source_url_2": "https://www.gov.il/he/departments/units/cinema",
+      "confidence": "confirmed",
+      "round": "osint-2026-06-06"
+    },
+    {
+      "type": "single_source_advocacy_allegation",
+      "person_a": "אתי כהן",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "All specific corruption allegations against Eti Cohen — alleged Eini romantic relationship, 2020-04-29 disciplinary complaint, 300+ unvetted lectors, annual Cannes 'planning' meetings, accountant restriction on her authority — remain single-sourced to filmindustrywatch.org as of 2026-06-06. Independent OSINT search across Haaretz, Ynet, Calcalist, Globes, Walla, Israel Hayom, the7eye, Maariv, the State Comptroller's published audits, and a Knesset Education/Culture committee Cinema-Law-amendment session (2018-07) found NO mention of her in connection with these claims. The 2018 Cinema Funds Examination Committee report exists but its 5.6MB PDF requires OCR to verify whether she is named.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "source_url_2": "https://www.gov.il/BlobFolder/rfp/cinema_funds_committee/he/דוח%20מסכם%20ועדת%20קרנות%20הקולנוע.pdf",
+      "source_url_3": "https://www.the7eye.org.il/topic/גיורא-עיני",
+      "confidence": "alleged",
+      "round": "osint-2026-06-06"
+    }
+  ]
+}

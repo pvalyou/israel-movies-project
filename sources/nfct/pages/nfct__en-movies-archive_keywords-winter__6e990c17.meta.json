@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=winter",
+  "stable_id": "nfct__en-movies-archive_keywords-winter__6e990c17",
+  "fetched_at": "2026-05-16T20:15:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:15:34Z",
+  "duration_ms": 7992,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:427a9e09f9b626a88ea3c93daf925db09c812aa3a79e5c20661f7e52504afbf0",
+  "md_bytes": 12618,
+  "links_found": 74,
+  "files_found": 0
+}

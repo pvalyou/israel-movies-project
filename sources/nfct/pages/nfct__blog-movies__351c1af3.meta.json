@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פישטייל/",
+  "stable_id": "nfct__blog-movies__351c1af3",
+  "fetched_at": "2026-05-09T20:37:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:37:52Z",
+  "duration_ms": 29574,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0cf99b4959694de2d554c8b3fa02b1645b18337ff3dbb8c60a8c8bffba8ace69",
+  "md_bytes": 22728,
+  "links_found": 56,
+  "files_found": 0
+}

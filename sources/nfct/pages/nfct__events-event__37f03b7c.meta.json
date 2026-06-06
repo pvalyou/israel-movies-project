@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-תקופת-מבחן-אביגיל-שפרבר-אוניבר/",
+  "stable_id": "nfct__events-event__37f03b7c",
+  "fetched_at": "2026-05-10T05:44:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T05:44:05Z",
+  "duration_ms": 20610,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:40227448a35cee31a4046289d10db859b17694b49dc15af1350b25781a219a93",
+  "md_bytes": 13312,
+  "links_found": 27,
+  "files_found": 0
+}

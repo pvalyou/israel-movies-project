@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Web+2.0",
+  "stable_id": "nfct__en-movies-archive_keywords-Web-2.0__df19c1f6",
+  "fetched_at": "2026-05-16T14:04:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:04:11Z",
+  "duration_ms": 5883,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c46df7b007cdb69392463e76e7e0666a11db8aa3cfdc992d80692210b0e135a",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

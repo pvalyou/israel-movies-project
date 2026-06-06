@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Moroccan",
+  "stable_id": "nfct__en-movies-archive_keywords-Moroccan__b86d3852",
+  "fetched_at": "2026-05-16T20:20:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:20:58Z",
+  "duration_ms": 8519,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34f2587918b0418b44f205ca766286eb637b92be76861be75e76b6c7f0921a8a",
+  "md_bytes": 12439,
+  "links_found": 73,
+  "files_found": 0
+}

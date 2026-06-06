@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/משאלה-אחת-אחרונה/",
+  "stable_id": "makor__films__87f18985",
+  "fetched_at": "2026-05-09T13:15:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:39Z",
+  "duration_ms": 23915,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c6c5fbd89674e75ddfd0a96cb843e8e508cd5982c6f2823c06c69c03e8332c8b",
+  "md_bytes": 3270,
+  "links_found": 4,
+  "files_found": 0
+}

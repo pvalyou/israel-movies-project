@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=unresolved",
+  "stable_id": "nfct__en-movies-archive_keywords-unresolved__20901d93",
+  "fetched_at": "2026-05-16T10:50:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:50:51Z",
+  "duration_ms": 11202,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:565248ec104f05806fecf33b7c4209c3fd021c1d95f4abbe933ae63d3136157b",
+  "md_bytes": 11136,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Down+Syndrome",
+  "stable_id": "nfct__en-movies-archive_keywords-Down-Syndrome__bf56fbd4",
+  "fetched_at": "2026-05-16T08:38:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:38:12Z",
+  "duration_ms": 12693,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:48e0084e4f70c349653cee7b13e7d61635eb49eff22362606ed4fc062a51e90e",
+  "md_bytes": 10329,
+  "links_found": 69,
+  "files_found": 0
+}

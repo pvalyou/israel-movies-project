@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=alcoholism",
+  "stable_id": "nfct__en-movies-archive_keywords-alcoholism__5aff38a1",
+  "fetched_at": "2026-05-16T14:09:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:09:22Z",
+  "duration_ms": 10222,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52b460088c2ca661e4e52d0732b4dff45db2274c675779da6b14c917f795a23e",
+  "md_bytes": 10781,
+  "links_found": 70,
+  "files_found": 0
+}

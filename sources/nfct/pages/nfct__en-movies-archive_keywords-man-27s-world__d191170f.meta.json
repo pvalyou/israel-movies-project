@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=man%27s+world",
+  "stable_id": "nfct__en-movies-archive_keywords-man-27s-world__d191170f",
+  "fetched_at": "2026-05-16T12:23:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:23:11Z",
+  "duration_ms": 10073,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bef033fe70f73f096681caf9ba5257f4b3f05072fd0fa52b0767b9cfe2d2e618",
+  "md_bytes": 11103,
+  "links_found": 70,
+  "files_found": 0
+}

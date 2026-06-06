@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=critic",
+  "stable_id": "nfct__en-movies-archive_keywords-critic__c93401b3",
+  "fetched_at": "2026-05-16T03:46:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:46:40Z",
+  "duration_ms": 7255,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc2c06c1b16a9f123cc0ab70a5e072169cbd5c1505c6a0a0a8ca8a432e723f0f",
+  "md_bytes": 16605,
+  "links_found": 82,
+  "files_found": 0
+}

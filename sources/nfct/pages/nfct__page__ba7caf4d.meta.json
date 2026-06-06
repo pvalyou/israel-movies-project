@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/סרטי-תעודה/",
+  "stable_id": "nfct__page__ba7caf4d",
+  "fetched_at": "2026-05-09T15:22:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:22:22Z",
+  "duration_ms": 63707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f40f4c6e04bfb898ab70e27ac39f88e3c2591ef1b0a5dc00105e2f0b472a13a3",
+  "md_bytes": 81893,
+  "links_found": 92,
+  "files_found": 0
+}

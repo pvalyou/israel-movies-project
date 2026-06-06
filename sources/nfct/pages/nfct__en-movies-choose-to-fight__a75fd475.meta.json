@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/choose-to-fight/",
+  "stable_id": "nfct__en-movies-choose-to-fight__a75fd475",
+  "fetched_at": "2026-05-11T01:10:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:10:13Z",
+  "duration_ms": 29368,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eac6fd9aa9678ef64c381d4fde86447bebff3ce7ebd03057cf6a0e27c9a6b1c7",
+  "md_bytes": 12009,
+  "links_found": 27,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/radio-propaganda/",
+  "stable_id": "nfct__en-movies-radio-propaganda__e3f783da",
+  "fetched_at": "2026-05-11T13:09:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:09:22Z",
+  "duration_ms": 31344,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:46ca76e7f7ed46c7b57891d972a2c2fdfea31c8bd7035c030895252992c20dcf",
+  "md_bytes": 17397,
+  "links_found": 56,
+  "files_found": 0
+}

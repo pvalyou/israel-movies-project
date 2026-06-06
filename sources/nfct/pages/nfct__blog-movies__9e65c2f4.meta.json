@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הנסיעה/",
+  "stable_id": "nfct__blog-movies__9e65c2f4",
+  "fetched_at": "2026-05-09T21:46:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:46:35Z",
+  "duration_ms": 27237,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4d70ece0a3694d1353609108299e8763bc498e5c5f082d6672d879ef18d6cb2",
+  "md_bytes": 17340,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies/web-cam/",
+  "stable_id": "nfct__en_movies_web-cam__756dfe03",
+  "fetched_at": "2026-05-18T21:46:43.496767+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies/web-cam/",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "d463bd9e99f23536360b3353783d1a912118ac96d8129db4affbf6a096ead71f",
+  "md_bytes": 9619,
+  "links_found": 0,
+  "error": ""
+}

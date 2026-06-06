@@ -1,0 +1,21 @@
+{
+  "source_name": "filmfund",
+  "run_date": "2026-05-16",
+  "elapsed_min": 0.13,
+  "pages_total": 161,
+  "pages_already_done": 159,
+  "pages_processed_this_run": 2,
+  "status_counts": {
+    "ok": 2,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 9370,
+  "tokens_output": 5795,
+  "cost_usd": 0.0033,
+  "calls": 2,
+  "errors": 0,
+  "json_retries": 0
+}

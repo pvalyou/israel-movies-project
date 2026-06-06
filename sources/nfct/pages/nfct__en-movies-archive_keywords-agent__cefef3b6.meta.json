@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=agent",
+  "stable_id": "nfct__en-movies-archive_keywords-agent__cefef3b6",
+  "fetched_at": "2026-05-16T13:51:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:51:24Z",
+  "duration_ms": 7155,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65b30e0df2636f9731ffa26bbf5eab37cdd318b41bb22e0eaa9d9410431b0a10",
+  "md_bytes": 13801,
+  "links_found": 77,
+  "files_found": 0
+}

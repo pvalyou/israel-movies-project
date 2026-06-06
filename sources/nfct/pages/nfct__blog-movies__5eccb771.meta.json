@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שנת-הש/",
+  "stable_id": "nfct__blog-movies__5eccb771",
+  "fetched_at": "2026-05-09T21:58:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:58:13Z",
+  "duration_ms": 29588,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df667ed86178728021eeb7d9f805438713230a599a05f19c2d5e45b4244ac3d3",
+  "md_bytes": 20961,
+  "links_found": 51,
+  "files_found": 0
+}

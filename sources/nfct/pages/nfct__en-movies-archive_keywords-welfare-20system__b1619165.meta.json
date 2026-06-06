@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=welfare%20system",
+  "stable_id": "nfct__en-movies-archive_keywords-welfare-20system__b1619165",
+  "fetched_at": "2026-05-16T11:16:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:16:39Z",
+  "duration_ms": 7073,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82041ee4d4864a336c1150bd30d3b327256007cf5ecf429f028fed72866dc6cb",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

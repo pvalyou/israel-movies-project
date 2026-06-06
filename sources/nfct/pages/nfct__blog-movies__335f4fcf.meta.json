@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שכבות/",
+  "stable_id": "nfct__blog-movies__335f4fcf",
+  "fetched_at": "2026-05-09T19:36:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:36:54Z",
+  "duration_ms": 9873,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:22cb31adbfaa8e8dcd304bc61ab833d741030d72f8f023b32b6a7f62004ed73a",
+  "md_bytes": 14700,
+  "links_found": 36,
+  "files_found": 0
+}

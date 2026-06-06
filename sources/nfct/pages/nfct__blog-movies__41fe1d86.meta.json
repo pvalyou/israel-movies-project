@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/משאללה/",
+  "stable_id": "nfct__blog-movies__41fe1d86",
+  "fetched_at": "2026-05-09T17:42:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:42:38Z",
+  "duration_ms": 9593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:36473ad0a9a3c12b7d7f41c417a4bb200b55f770efb8fc371b6a08b344547e8a",
+  "md_bytes": 18936,
+  "links_found": 37,
+  "files_found": 0
+}

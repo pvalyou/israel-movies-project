@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-פרינסס-שואו-עידו-הר-סינמטק-תל-אב-19/",
+  "stable_id": "nfct__events-event----------------19__9d2b6252",
+  "fetched_at": "2026-05-15T09:10:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:10:12Z",
+  "duration_ms": 12733,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ea722a77c24c331f4e992ef16b925514870e834b46fbec2b41d3ba222e686923",
+  "md_bytes": 10800,
+  "links_found": 22,
+  "files_found": 0
+}

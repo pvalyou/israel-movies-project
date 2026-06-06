@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Haredi+Community",
+  "stable_id": "nfct__en-movies-archive_keywords-Haredi-Community__4b19678a",
+  "fetched_at": "2026-05-16T12:27:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:27:25Z",
+  "duration_ms": 12196,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f24d37f669109ecdb092bed34eabe3f97fda648fc819ff976a7a397a30a25ba1",
+  "md_bytes": 10829,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/on-parole/",
+  "stable_id": "nfct__en-movies-on-parole__ac90c7a5",
+  "fetched_at": "2026-05-11T15:36:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:36:54Z",
+  "duration_ms": 35396,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cdc8fbd9c25d39f988dc599087b91cb5cc6c804dcaab8bd989243a3a2ea4f6f2",
+  "md_bytes": 12932,
+  "links_found": 36,
+  "files_found": 0
+}

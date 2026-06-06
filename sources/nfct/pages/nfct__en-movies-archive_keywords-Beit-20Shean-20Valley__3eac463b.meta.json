@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Beit%20Shean%20Valley",
+  "stable_id": "nfct__en-movies-archive_keywords-Beit-20Shean-20Valley__3eac463b",
+  "fetched_at": "2026-05-16T12:59:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:59:17Z",
+  "duration_ms": 9706,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d6709d5654ec4477533536ae53d22168763098fab53616bce374bde7c44a7ad",
+  "md_bytes": 10643,
+  "links_found": 69,
+  "files_found": 0
+}

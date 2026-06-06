@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=JNF",
+  "stable_id": "nfct__en-movies-archive_keywords-JNF__acf4ba71",
+  "fetched_at": "2026-05-16T15:29:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:29:41Z",
+  "duration_ms": 7743,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e237fdd1b44412f92e26e6e81c069c011cc5e415154aee6488963a49b355d07",
+  "md_bytes": 9781,
+  "links_found": 67,
+  "files_found": 0
+}

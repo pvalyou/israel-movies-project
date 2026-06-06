@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/איך-מסמנים-אהבה/",
+  "stable_id": "nfct__blog-movies__aebaa857",
+  "fetched_at": "2026-05-09T21:31:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:31:43Z",
+  "duration_ms": 19098,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0fcdb8f40d0bd9ed8730423a8bf23ff792f94e647d78218ae00951111de938ab",
+  "md_bytes": 19852,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/at-work/",
+  "stable_id": "arava_film_fund__en-movies-at-work__06e5ad76",
+  "fetched_at": "2026-05-08T09:43:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:43:18Z",
+  "duration_ms": 3690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:61e56a7e529e7ac3de78ef349c177b7f640d69321c768531748454842b668304",
+  "md_bytes": 3391,
+  "links_found": 9,
+  "files_found": 0
+}

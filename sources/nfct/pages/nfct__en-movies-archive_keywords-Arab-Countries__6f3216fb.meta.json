@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arab+Countries",
+  "stable_id": "nfct__en-movies-archive_keywords-Arab-Countries__6f3216fb",
+  "fetched_at": "2026-05-16T13:04:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:04:26Z",
+  "duration_ms": 12897,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:623ec0a33333f615d4ea9193e651eebf3f8d3d6dab340eb33852438ce64ba3dd",
+  "md_bytes": 10694,
+  "links_found": 69,
+  "files_found": 0
+}

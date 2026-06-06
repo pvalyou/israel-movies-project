@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hamechashefot",
+  "stable_id": "nfct__en-movies-archive_keywords-Hamechashefot__6e8d5e35",
+  "fetched_at": "2026-05-16T13:52:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:00Z",
+  "duration_ms": 7791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0aa25209b08febcc3ee144aab571539ca63085ca2731c9f900454221d2d78a56",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אנחנו-צריכים-לדבר/",
+  "stable_id": "nfct__blog-movies__ae13a706",
+  "fetched_at": "2026-05-09T19:57:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:57:27Z",
+  "duration_ms": 36807,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ca06a69560b3d5b45990fb7649c6d77230f3ca0137ca0133854cb9c2141f1c0",
+  "md_bytes": 14152,
+  "links_found": 28,
+  "files_found": 0
+}

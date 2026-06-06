@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/היה-נכון/",
+  "stable_id": "nfct__movies__6e033f24",
+  "fetched_at": "2026-05-16T09:11:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:11:23Z",
+  "duration_ms": 11277,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c943b23316cf42418320aff76f963493ff4e20196e724062b28a85a8089f77e5",
+  "md_bytes": 8579,
+  "links_found": 21,
+  "files_found": 0
+}

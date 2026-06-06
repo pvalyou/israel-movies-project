@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=chess",
+  "stable_id": "nfct__en-movies-archive_keywords-chess__3ba7d07c",
+  "fetched_at": "2026-05-16T07:15:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:15:21Z",
+  "duration_ms": 6374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69cb13c6efd9bea663f5f71a17f52d71bace7c89a591c392b63a49829abef475",
+  "md_bytes": 11597,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bra%20Shop",
+  "stable_id": "nfct__en-movies-archive_keywords-Bra-20Shop__c311ca85",
+  "fetched_at": "2026-05-16T12:49:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:49:05Z",
+  "duration_ms": 14784,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:63917a97836f371bf3f8cefe75ef9b31f3ce8f72231e87d325dcda8d47228246",
+  "md_bytes": 10436,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=whistleblower",
+  "stable_id": "nfct__en-movies-archive_keywords-whistleblower__6688568b",
+  "fetched_at": "2026-05-16T15:34:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:34:35Z",
+  "duration_ms": 6519,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f40000f24e007c4b7a174f2ad443ee29026cc01b2dec56957a203ff9c09749a",
+  "md_bytes": 10261,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Diplomat%20Hotel",
+  "stable_id": "nfct__en-movies-archive_keywords-Diplomat-20Hotel__469c6196",
+  "fetched_at": "2026-05-16T06:27:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:27:50Z",
+  "duration_ms": 5631,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc5f8e261da7740310bd42e9528f90ba7c7d22c1ba19d863148250ef07dd1db6",
+  "md_bytes": 9976,
+  "links_found": 68,
+  "files_found": 0
+}

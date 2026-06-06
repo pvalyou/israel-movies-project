@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/רומא/",
+  "stable_id": "makor__films__df6897b2",
+  "fetched_at": "2026-05-09T12:58:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:58:30Z",
+  "duration_ms": 12061,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af1682469305500dd7071c7ea4f1cbd34384f33ff8d27c17c6744b0392ab8a4d",
+  "md_bytes": 2813,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/happiness-and-rejoicing/",
+  "stable_id": "nfct__en-movies-happiness-and-rejoicing__be479c57",
+  "fetched_at": "2026-05-11T16:13:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:13:35Z",
+  "duration_ms": 51028,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8adaacc4f2d21bbfb3bd204fd663876863b779a40394d2479a3ba193c92b771c",
+  "md_bytes": 12415,
+  "links_found": 35,
+  "files_found": 0
+}

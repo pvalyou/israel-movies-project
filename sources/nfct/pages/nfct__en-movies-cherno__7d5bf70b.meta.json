@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cherno/",
+  "stable_id": "nfct__en-movies-cherno__7d5bf70b",
+  "fetched_at": "2026-05-11T14:28:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:28:03Z",
+  "duration_ms": 21447,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21059b43a3c964851b6d6625c5b9bf421c97a1e1f18c9df9fa7a98fd195fb38e",
+  "md_bytes": 13425,
+  "links_found": 39,
+  "files_found": 0
+}

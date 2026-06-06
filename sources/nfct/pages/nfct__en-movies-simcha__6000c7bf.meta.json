@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/simcha/#UArexazDFN",
+  "stable_id": "nfct__en-movies-simcha__6000c7bf",
+  "fetched_at": "2026-05-16T12:16:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:16:25Z",
+  "duration_ms": 7807,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:466f9404700dacd5a6e6175bc93db26ab4aee2035b33aa08e7d80be6e8055ab2",
+  "md_bytes": 11814,
+  "links_found": 30,
+  "files_found": 0
+}

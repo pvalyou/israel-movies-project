@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-silver-platter/",
+  "stable_id": "nfct__en-movies-the-silver-platter__8ce766f5",
+  "fetched_at": "2026-05-11T20:56:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:56:21Z",
+  "duration_ms": 18669,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f668e73d017a72d421a23557e780d8c4a0ec77636112eae8ff670fb0734e7e38",
+  "md_bytes": 16179,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/letter-to-a-child-who-has-gone/",
+  "stable_id": "nfct__en-movies-letter-to-a-child-who-has-gone__e69d1b8a",
+  "fetched_at": "2026-05-11T01:20:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:20:04Z",
+  "duration_ms": 8113,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0296542a0f8a10e9460642af181cde8dab0ee582221629bd8113fc91ef42e102",
+  "md_bytes": 10189,
+  "links_found": 25,
+  "files_found": 0
+}

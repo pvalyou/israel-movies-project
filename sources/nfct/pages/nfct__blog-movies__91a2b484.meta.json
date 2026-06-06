@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ארץ-אהובה-שלי/",
+  "stable_id": "nfct__blog-movies__91a2b484",
+  "fetched_at": "2026-05-09T21:13:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:13:41Z",
+  "duration_ms": 29678,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:486765bc24a21980dd0121131147aaab5930d16168c0b8f5e925b7a4e583874a",
+  "md_bytes": 21225,
+  "links_found": 42,
+  "files_found": 0
+}

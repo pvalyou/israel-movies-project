@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Collective+Trauma",
+  "stable_id": "nfct__en-movies-archive_keywords-Collective-Trauma__c5c1b124",
+  "fetched_at": "2026-05-16T20:14:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:14:44Z",
+  "duration_ms": 7683,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:570bb5cbb83141e7ad74b2710158e21e064cdb6421ed0ad5572e6e29cee8687a",
+  "md_bytes": 10022,
+  "links_found": 68,
+  "files_found": 0
+}

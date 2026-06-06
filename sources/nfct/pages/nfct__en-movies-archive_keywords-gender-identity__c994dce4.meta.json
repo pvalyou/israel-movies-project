@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=gender+identity",
+  "stable_id": "nfct__en-movies-archive_keywords-gender-identity__c994dce4",
+  "fetched_at": "2026-05-16T10:18:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:18:45Z",
+  "duration_ms": 7579,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:108dd4a30b472c9346f327539d2efcc6d478933a223eb641aa31df5451eac699",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

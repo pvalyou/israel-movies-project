@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/temporarily-removed/",
+  "stable_id": "nfct__en-movies-temporarily-removed__a9cb398f",
+  "fetched_at": "2026-05-11T14:31:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:31:23Z",
+  "duration_ms": 22026,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfabff1a98bd47191447f02d2d225dd58a0719631324c406a8cf4ccc6e5494cf",
+  "md_bytes": 12175,
+  "links_found": 32,
+  "files_found": 0
+}

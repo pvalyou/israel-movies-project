@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הלהטוטן/",
+  "stable_id": "nfct__blog-movies__43c6b099",
+  "fetched_at": "2026-05-09T20:39:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:39:01Z",
+  "duration_ms": 7912,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:041490cc5cabb8826c84d47d9c51e54e352380094846b7ddc33c5634bc896913",
+  "md_bytes": 15600,
+  "links_found": 32,
+  "files_found": 0
+}

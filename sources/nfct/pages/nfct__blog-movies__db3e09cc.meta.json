@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לכי-לך/",
+  "stable_id": "nfct__blog-movies__db3e09cc",
+  "fetched_at": "2026-05-09T19:36:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:36:19Z",
+  "duration_ms": 42516,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8767d040ff5a05a9cf3975d2c40a4c14102e23c0eb1aa439a7f632d9f0e83df",
+  "md_bytes": 18617,
+  "links_found": 43,
+  "files_found": 0
+}

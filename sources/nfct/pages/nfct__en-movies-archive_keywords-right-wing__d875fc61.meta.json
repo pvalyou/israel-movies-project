@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=right-wing",
+  "stable_id": "nfct__en-movies-archive_keywords-right-wing__d875fc61",
+  "fetched_at": "2026-05-16T10:31:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:31:35Z",
+  "duration_ms": 9460,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:70f777a7f60afd158b406d87db9a596744e77b9828a37391b7324beacec51f66",
+  "md_bytes": 11129,
+  "links_found": 70,
+  "files_found": 0
+}

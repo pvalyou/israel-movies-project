@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arik+Sharon",
+  "stable_id": "nfct__en-movies-archive_keywords-Arik-Sharon__98ffccc7",
+  "fetched_at": "2026-05-16T16:34:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:07Z",
+  "duration_ms": 5972,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eed48821078e241297f7a3a5ccad170fb1c3bf623b4fd9afdf175ca9c569b4d1",
+  "md_bytes": 10199,
+  "links_found": 68,
+  "files_found": 0
+}

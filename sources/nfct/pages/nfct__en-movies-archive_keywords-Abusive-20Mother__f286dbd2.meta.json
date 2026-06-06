@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Abusive%20Mother",
+  "stable_id": "nfct__en-movies-archive_keywords-Abusive-20Mother__f286dbd2",
+  "fetched_at": "2026-05-16T13:42:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:42:51Z",
+  "duration_ms": 7232,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7b979ba3ea56df9a6d5867a26b78ca2bf937b740c0cd224bc842a4a191b1ca8d",
+  "md_bytes": 10286,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/seekers/?lang=en",
+  "stable_id": "makor__films-seekers_lang-en__30e0497f",
+  "fetched_at": "2026-05-09T13:12:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:12:06Z",
+  "duration_ms": 11196,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:41a5c4b3645623ae22967d7aab6452c03ee7a5575d29c4ab5a19ebbb5e56010c",
+  "md_bytes": 2212,
+  "links_found": 4,
+  "files_found": 0
+}

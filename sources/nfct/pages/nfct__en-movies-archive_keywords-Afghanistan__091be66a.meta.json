@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Afghanistan",
+  "stable_id": "nfct__en-movies-archive_keywords-Afghanistan__091be66a",
+  "fetched_at": "2026-05-16T13:16:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:16:32Z",
+  "duration_ms": 8719,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0743da7d877fd7bbe1bc7540fef042fc229ed1223453a89fcdba978382e07d3b",
+  "md_bytes": 10267,
+  "links_found": 68,
+  "files_found": 0
+}

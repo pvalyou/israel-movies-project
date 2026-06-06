@@ -1,0 +1,31 @@
+{
+  "run_id": "2026-05-16T10-44-26Z",
+  "source_id": "rabinovich_foundation",
+  "source_name_he": "קרן יהושע רבינוביץ' לאמנויות תל אביב",
+  "tier": "A",
+  "started_at": "2026-05-16T10:47:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "concurrency": 5,
+  "follow_links": true,
+  "max_depth": 2,
+  "scrape_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "stats": {
+    "urls_discovered": 4,
+    "urls_attempted": 24,
+    "urls_succeeded": 24,
+    "urls_empty": 0,
+    "urls_failed": 0,
+    "cache_hits": 0,
+    "total_md_bytes": 265066,
+    "files_downloaded": 0,
+    "files_failed": 0,
+    "total_file_bytes": 0,
+    "duration_seconds": 163.39
+  }
+}

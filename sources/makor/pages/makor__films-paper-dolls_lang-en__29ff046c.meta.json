@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/paper-dolls/?lang=en",
+  "stable_id": "makor__films-paper-dolls_lang-en__29ff046c",
+  "fetched_at": "2026-05-09T13:05:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:05:51Z",
+  "duration_ms": 16806,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b2023759c38faf7388343aae9b602ec4396bb887fde5810c69fff255c3adc99c",
+  "md_bytes": 2321,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/made-in-israel-תעשיית-המזון/",
+  "stable_id": "nfct__blog-movies-made-in-israel__0f71c39c",
+  "fetched_at": "2026-05-09T17:20:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:20:26Z",
+  "duration_ms": 32856,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6fc0d03f69d36e79a2c9192465980407a22f41d0c0b4b0a767e7d6eb3db936c9",
+  "md_bytes": 20390,
+  "links_found": 45,
+  "files_found": 0
+}

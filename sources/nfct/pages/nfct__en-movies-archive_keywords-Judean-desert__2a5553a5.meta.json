@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Judean+desert",
+  "stable_id": "nfct__en-movies-archive_keywords-Judean-desert__2a5553a5",
+  "fetched_at": "2026-05-16T06:10:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:10:39Z",
+  "duration_ms": 5921,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c164cda483ec159b6cbd9cd1a87a759314930611cf2d5bda70d9b85aa058bfb",
+  "md_bytes": 10290,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Children+and+Youth",
+  "stable_id": "nfct__en-movies-archive_category-Children-and-Youth__9e84460e",
+  "fetched_at": "2026-05-16T04:45:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:45:33Z",
+  "duration_ms": 16670,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2cf106ce1215df0b6e2f79cb04e8b09da07bc9463464337a9d9e65572ce2ffce",
+  "md_bytes": 16640,
+  "links_found": 82,
+  "files_found": 0
+}

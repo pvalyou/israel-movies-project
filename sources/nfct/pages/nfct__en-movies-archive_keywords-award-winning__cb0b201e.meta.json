@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=award-winning",
+  "stable_id": "nfct__en-movies-archive_keywords-award-winning__cb0b201e",
+  "fetched_at": "2026-05-16T12:33:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:04Z",
+  "duration_ms": 7610,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2d1d14e346fdd0e2863e3ec880c18d0fdbe4f910994b7db1567411feb43fc51",
+  "md_bytes": 10621,
+  "links_found": 69,
+  "files_found": 0
+}

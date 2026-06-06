@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-לוד-בין-יאוש-לתקווה-פרק-3-אורי-ר/",
+  "stable_id": "nfct__events-event------------3__d1d0cccb",
+  "fetched_at": "2026-05-10T13:22:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:22:09Z",
+  "duration_ms": 9271,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ca5d97b1224c9087bdce6974597371c7b8705ea0f6fcffd455606e436f108f59",
+  "md_bytes": 10141,
+  "links_found": 21,
+  "files_found": 0
+}

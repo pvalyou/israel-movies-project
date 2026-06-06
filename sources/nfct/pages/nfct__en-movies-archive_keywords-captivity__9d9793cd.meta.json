@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=captivity",
+  "stable_id": "nfct__en-movies-archive_keywords-captivity__9d9793cd",
+  "fetched_at": "2026-05-16T05:57:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:57:58Z",
+  "duration_ms": 7018,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:43ca6c5f0f6e3a5bb70e798d6cb48828fb7cf573f313cedc61b32029df9d6b53",
+  "md_bytes": 10290,
+  "links_found": 69,
+  "files_found": 0
+}

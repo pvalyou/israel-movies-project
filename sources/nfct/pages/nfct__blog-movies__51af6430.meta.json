@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כולנו-הרצל/",
+  "stable_id": "nfct__blog-movies__51af6430",
+  "fetched_at": "2026-05-09T19:28:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:28:04Z",
+  "duration_ms": 23326,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2cdbe6365921ce840775194c575bd181b8a42de2d7301f66b0d38fb1a3db56cb",
+  "md_bytes": 19682,
+  "links_found": 44,
+  "files_found": 0
+}

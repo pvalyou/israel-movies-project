@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=HaShomer",
+  "stable_id": "nfct__en-movies-archive_keywords-HaShomer__58b4114c",
+  "fetched_at": "2026-05-16T10:41:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:41:51Z",
+  "duration_ms": 9522,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a92b11795831807185004796c41ff713f3afe579899fb0c11fbccd606c91e596",
+  "md_bytes": 10631,
+  "links_found": 69,
+  "files_found": 0
+}

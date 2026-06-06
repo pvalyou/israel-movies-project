@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הגלויה-האחרונה/",
+  "stable_id": "nfct__blog-movies__116cc545",
+  "fetched_at": "2026-05-09T21:50:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:50:27Z",
+  "duration_ms": 30666,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9556db38d015d881e083ddbb7745b48dc6d216b976df7f9ff927fc787b97703",
+  "md_bytes": 25012,
+  "links_found": 53,
+  "files_found": 0
+}

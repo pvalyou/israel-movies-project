@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Modernity",
+  "stable_id": "nfct__en-movies-archive_keywords-Modernity__50ff2af3",
+  "fetched_at": "2026-05-16T13:15:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:15:55Z",
+  "duration_ms": 9027,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:95180409e27c65f0aaae010c89a252f4ae6f35e827960b05294b1c7821d41f94",
+  "md_bytes": 10130,
+  "links_found": 68,
+  "files_found": 0
+}

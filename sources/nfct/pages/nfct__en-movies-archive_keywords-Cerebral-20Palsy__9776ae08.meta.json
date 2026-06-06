@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cerebral%20Palsy",
+  "stable_id": "nfct__en-movies-archive_keywords-Cerebral-20Palsy__9776ae08",
+  "fetched_at": "2026-05-16T15:01:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:01:10Z",
+  "duration_ms": 7351,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:51395ac02bc2ad37805107143e23098e1fb580ef03a3079acd2d285cff020f05",
+  "md_bytes": 10261,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conductor",
+  "stable_id": "nfct__en-movies-archive_keywords-conductor__96b05ca3",
+  "fetched_at": "2026-05-16T10:34:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:34:33Z",
+  "duration_ms": 8378,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:49b3411e3f9cfc9e0456c33737ccbe4070fc3473270a5adacee60c6e319ca356",
+  "md_bytes": 10274,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=corrption",
+  "stable_id": "nfct__en-movies-archive_keywords-corrption__52075d9a",
+  "fetched_at": "2026-05-16T17:01:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:01:08Z",
+  "duration_ms": 7403,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a8c80ea4c48abc38262f6a0e0af3149ca00cbf5d1bfa0f113c897aef571c7935",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

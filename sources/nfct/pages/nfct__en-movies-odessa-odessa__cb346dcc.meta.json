@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/odessa-odessa/",
+  "stable_id": "nfct__en-movies-odessa-odessa__cb346dcc",
+  "fetched_at": "2026-05-11T05:22:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:22:59Z",
+  "duration_ms": 20891,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b38e318b28a9d2a155a05a2dd6700dd06131cd98fb26be853c0000a6bd78993e",
+  "md_bytes": 12306,
+  "links_found": 31,
+  "files_found": 0
+}

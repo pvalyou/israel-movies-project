@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=gender%20discrimination",
+  "stable_id": "nfct__en-movies-archive_keywords-gender-20discrimination__4f948a29",
+  "fetched_at": "2026-05-16T05:24:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:24:52Z",
+  "duration_ms": 8096,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a88ef94492be5b4637bbcfd0bb539ea450a5976edde2072fbc776084772df463",
+  "md_bytes": 9819,
+  "links_found": 67,
+  "files_found": 0
+}

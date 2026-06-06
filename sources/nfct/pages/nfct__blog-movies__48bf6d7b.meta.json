@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/המלאך-גבריאל/",
+  "stable_id": "nfct__blog-movies__48bf6d7b",
+  "fetched_at": "2026-05-09T20:12:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:12:03Z",
+  "duration_ms": 9191,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c9ca2863bc34a0b1de9505d6d2ea427f0d5db35c9c0a98aff0116092778a869",
+  "md_bytes": 16298,
+  "links_found": 34,
+  "files_found": 0
+}

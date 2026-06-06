@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רצח-בכעביה/",
+  "stable_id": "nfct__blog-movies__e8b1b4e2",
+  "fetched_at": "2026-05-09T17:37:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:37:13Z",
+  "duration_ms": 8185,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:482cf31a01796fec86fbde1b1b8b42fb24db242a1305cc81a79e83780ba42a37",
+  "md_bytes": 17284,
+  "links_found": 39,
+  "files_found": 0
+}

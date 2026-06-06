@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רעש/",
+  "stable_id": "nfct__blog-movies__e4ffe644",
+  "fetched_at": "2026-05-09T17:51:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:51:54Z",
+  "duration_ms": 23571,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2170d57af5cef94eba2692498d2c6a1d3af5471c20f2bcf6dc2777ab91020ade",
+  "md_bytes": 15055,
+  "links_found": 30,
+  "files_found": 0
+}

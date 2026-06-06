@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/go-in-peace-rain/",
+  "stable_id": "nfct__en-movies-go-in-peace-rain__5b2959b6",
+  "fetched_at": "2026-05-11T06:42:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:42:07Z",
+  "duration_ms": 27617,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed93c384c45179f17e6300d505f08660745d366864285d62eb6c1553ec0669f2",
+  "md_bytes": 15148,
+  "links_found": 37,
+  "files_found": 0
+}

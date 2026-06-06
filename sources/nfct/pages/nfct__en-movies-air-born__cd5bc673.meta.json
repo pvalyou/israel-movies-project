@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/air-born/#UAMainContent",
+  "stable_id": "nfct__en-movies-air-born__cd5bc673",
+  "fetched_at": "2026-05-16T14:36:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:36:14Z",
+  "duration_ms": 17390,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c279f3f7c75aa62495e1873720fb01f4f64ed324e85b333c687bdc87c968b129",
+  "md_bytes": 14702,
+  "links_found": 45,
+  "files_found": 0
+}

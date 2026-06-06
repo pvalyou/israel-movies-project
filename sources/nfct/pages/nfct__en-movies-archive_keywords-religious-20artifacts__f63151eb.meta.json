@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=religious%20artifacts",
+  "stable_id": "nfct__en-movies-archive_keywords-religious-20artifacts__f63151eb",
+  "fetched_at": "2026-05-16T10:56:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:56:09Z",
+  "duration_ms": 9055,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e13a891b4f7f789fc10490338b355b08ed7ea8d6a4f1b5d19e71971323edbc26",
+  "md_bytes": 10061,
+  "links_found": 68,
+  "files_found": 0
+}

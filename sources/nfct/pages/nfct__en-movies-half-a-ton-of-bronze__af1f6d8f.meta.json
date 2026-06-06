@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/half-a-ton-of-bronze/#UArexazDFN",
+  "stable_id": "nfct__en-movies-half-a-ton-of-bronze__af1f6d8f",
+  "fetched_at": "2026-05-16T17:49:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:49:22Z",
+  "duration_ms": 10934,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e6f86489cf67108d5e1f8b501013cad840350ba1b71d613c8ccea2144cde389",
+  "md_bytes": 11830,
+  "links_found": 29,
+  "files_found": 0
+}

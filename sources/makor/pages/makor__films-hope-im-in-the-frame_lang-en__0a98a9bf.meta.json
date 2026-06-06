@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/hope-im-in-the-frame/?lang=en",
+  "stable_id": "makor__films-hope-im-in-the-frame_lang-en__0a98a9bf",
+  "fetched_at": "2026-05-09T13:10:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:10:00Z",
+  "duration_ms": 12773,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d17ec9fc829cbd34bb70fe6f5947a905556a82fba54ce19eecbc592e553813e3",
+  "md_bytes": 2185,
+  "links_found": 4,
+  "files_found": 0
+}

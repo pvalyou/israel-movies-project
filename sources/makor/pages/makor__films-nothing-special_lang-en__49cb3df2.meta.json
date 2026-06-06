@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/nothing-special/?lang=en",
+  "stable_id": "makor__films-nothing-special_lang-en__49cb3df2",
+  "fetched_at": "2026-05-09T12:53:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:53:02Z",
+  "duration_ms": 10073,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:35673082f60e2679c176b50580c928cd9abec41dc5b1f3005bc5cda062b23925",
+  "md_bytes": 3173,
+  "links_found": 4,
+  "files_found": 0
+}

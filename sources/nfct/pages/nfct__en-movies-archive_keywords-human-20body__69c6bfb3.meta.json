@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=human%20body",
+  "stable_id": "nfct__en-movies-archive_keywords-human-20body__69c6bfb3",
+  "fetched_at": "2026-05-16T10:21:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:21:16Z",
+  "duration_ms": 10814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8948b2456c4552fa99152eda8a4fb99e10a228ef424ee102ac69f8ea2038c81f",
+  "md_bytes": 10592,
+  "links_found": 69,
+  "files_found": 0
+}

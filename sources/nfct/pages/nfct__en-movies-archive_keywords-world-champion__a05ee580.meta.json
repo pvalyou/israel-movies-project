@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=world+champion",
+  "stable_id": "nfct__en-movies-archive_keywords-world-champion__a05ee580",
+  "fetched_at": "2026-05-16T10:02:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:02:30Z",
+  "duration_ms": 6497,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56be14eab0d2374d683b3d13a3e0b773fb661e597f8064676de858b6d8c215b8",
+  "md_bytes": 12933,
+  "links_found": 75,
+  "files_found": 0
+}

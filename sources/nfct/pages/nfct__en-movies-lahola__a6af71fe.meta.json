@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lahola/#UArexazDFN",
+  "stable_id": "nfct__en-movies-lahola__a6af71fe",
+  "fetched_at": "2026-05-16T10:40:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:40:58Z",
+  "duration_ms": 11409,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34f1b8c479404cd28d784d28ae909af8b6bbfce40e0c2e96e366faad93508c45",
+  "md_bytes": 13488,
+  "links_found": 37,
+  "files_found": 0
+}

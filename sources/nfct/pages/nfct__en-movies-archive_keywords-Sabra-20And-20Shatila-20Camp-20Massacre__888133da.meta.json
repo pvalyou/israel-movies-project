@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sabra%20And%20Shatila%20Camp%20Massacre",
+  "stable_id": "nfct__en-movies-archive_keywords-Sabra-20And-20Shatila-20Camp-20Massacre__888133da",
+  "fetched_at": "2026-05-16T16:33:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:33:57Z",
+  "duration_ms": 6596,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27fd5f0d62662bb16b81d1c0e61cd8ef20dca8e12061baa7b51175129f1b9dba",
+  "md_bytes": 9845,
+  "links_found": 67,
+  "files_found": 0
+}

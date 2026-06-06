@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/strange-birds/#UAMainContent",
+  "stable_id": "nfct__en-movies-strange-birds__5c81c0ef",
+  "fetched_at": "2026-05-16T12:55:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:55:22Z",
+  "duration_ms": 8604,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f434a63e43a28def2bab878b4a88b403b9ce604010577ebdc2cff8ce91691e2",
+  "md_bytes": 13721,
+  "links_found": 37,
+  "files_found": 0
+}

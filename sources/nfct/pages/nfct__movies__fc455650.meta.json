@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il//movies/בקומרניס/",
+  "stable_id": "nfct__movies__fc455650",
+  "fetched_at": "2026-05-16T11:10:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:10:37Z",
+  "duration_ms": 7962,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1920cd9178bc7cbb5c811333dd81ab7ac23d645b25c68f66cfc809687c11ee7b",
+  "md_bytes": 8003,
+  "links_found": 21,
+  "files_found": 0
+}

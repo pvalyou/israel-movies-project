@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חמארה-מקום-ליד-החיים/",
+  "stable_id": "nfct__blog-movies__f23b6bad",
+  "fetched_at": "2026-05-09T17:39:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:39:16Z",
+  "duration_ms": 22982,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b3996b57426889251285e9f50ee7d63a5c74dccf42c4d862f46d1f1ca5ec45db",
+  "md_bytes": 18962,
+  "links_found": 38,
+  "files_found": 0
+}

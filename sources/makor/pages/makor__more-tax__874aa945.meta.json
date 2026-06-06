@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more-tax/מן-העיתונות/",
+  "stable_id": "makor__more-tax__874aa945",
+  "fetched_at": "2026-05-09T12:47:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:47:18Z",
+  "duration_ms": 15764,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c8ef73a42483b536c89256f825104c9af2e4100c94c11f1ed511cdf13d4ee40",
+  "md_bytes": 15250,
+  "links_found": 27,
+  "files_found": 0
+}

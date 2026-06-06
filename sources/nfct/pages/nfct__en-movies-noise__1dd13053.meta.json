@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/noise/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-noise__1dd13053",
+  "fetched_at": "2026-05-16T11:18:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:18:55Z",
+  "duration_ms": 13808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f079318a576213da5064db86212ba2f7c6e474f9e203ba4761186f2ffb3d4d44",
+  "md_bytes": 12964,
+  "links_found": 33,
+  "files_found": 0
+}

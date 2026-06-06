@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=compulsive",
+  "stable_id": "nfct__en-movies-archive_keywords-compulsive__8101560d",
+  "fetched_at": "2026-05-16T17:22:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:22:01Z",
+  "duration_ms": 10263,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec3c1111507b375163f4957585df4f69b78034275d679548f96cf4dece6b58d5",
+  "md_bytes": 10554,
+  "links_found": 69,
+  "files_found": 0
+}

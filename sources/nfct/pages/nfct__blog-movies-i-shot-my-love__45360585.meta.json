@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/i-shot-my-love/",
+  "stable_id": "nfct__blog-movies-i-shot-my-love__45360585",
+  "fetched_at": "2026-05-09T17:44:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:44:29Z",
+  "duration_ms": 13503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b615fe37751ed38a28307a5603f6e377754c4e446b1aba4b9e8af2ccc866bd72",
+  "md_bytes": 19143,
+  "links_found": 40,
+  "files_found": 0
+}

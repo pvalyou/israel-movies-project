@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/פעם-נכנסתי-לגן/",
+  "stable_id": "nfct__movies__4ba345df",
+  "fetched_at": "2026-05-16T10:10:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:59Z",
+  "duration_ms": 8369,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b4a814df3157deea60d611d4c245db6be10070c0125a7f87167855d1225632a",
+  "md_bytes": 8090,
+  "links_found": 21,
+  "files_found": 0
+}

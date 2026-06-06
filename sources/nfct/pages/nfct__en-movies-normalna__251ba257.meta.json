@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/normalna/#UAMainContent",
+  "stable_id": "nfct__en-movies-normalna__251ba257",
+  "fetched_at": "2026-05-16T14:54:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:54:42Z",
+  "duration_ms": 9060,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f865ef1257e2721bffdc64623e3f521907baf84a1df077cbeeae8c7ad79f9273",
+  "md_bytes": 12098,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/agnes-keleti-conquering-time/?lang=en",
+  "stable_id": "makor__films-agnes-keleti-conquering-time_lang-en__edf839fb",
+  "fetched_at": "2026-05-09T13:27:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:27:47Z",
+  "duration_ms": 11687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c867ed682d46da009e79adafb4f54ae691321694fbe11151243d408bf555fb74",
+  "md_bytes": 2156,
+  "links_found": 4,
+  "files_found": 0
+}

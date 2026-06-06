@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-ambassadors-wife/?lang=en",
+  "stable_id": "makor__films-the-ambassadors-wife_lang-en__3430d948",
+  "fetched_at": "2026-05-09T12:48:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:48:41Z",
+  "duration_ms": 5010,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:81a20ed0b76506a0be63d3a06c077d436c0da6dcc3b57bf443495f9618f67e8a",
+  "md_bytes": 1753,
+  "links_found": 4,
+  "files_found": 0
+}

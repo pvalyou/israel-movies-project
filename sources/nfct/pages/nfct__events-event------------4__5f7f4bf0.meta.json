@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-קריוקי-משה-רוזנטל-סינמטק-שדרות-4/",
+  "stable_id": "nfct__events-event------------4__5f7f4bf0",
+  "fetched_at": "2026-05-09T22:42:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:42:22Z",
+  "duration_ms": 14824,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cea4b3fe0fbf06b5f070255dda7ab6e014b60ba784e00eac1272285c6e724769",
+  "md_bytes": 12026,
+  "links_found": 22,
+  "files_found": 0
+}

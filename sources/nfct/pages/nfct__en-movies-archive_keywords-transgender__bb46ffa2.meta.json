@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=transgender",
+  "stable_id": "nfct__en-movies-archive_keywords-transgender__bb46ffa2",
+  "fetched_at": "2026-05-16T12:39:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:39:24Z",
+  "duration_ms": 11614,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:45fd4e44e568f281eea53beab5da7a89839f52586f813f40819347d55b686806",
+  "md_bytes": 10311,
+  "links_found": 69,
+  "files_found": 0
+}

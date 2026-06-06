@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שרפים/",
+  "stable_id": "nfct__blog-movies__791df47b",
+  "fetched_at": "2026-05-09T20:04:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:04:52Z",
+  "duration_ms": 34817,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:076fdd6ab1a54c9a778fa3caa0200c3c99448252fdfe7fb5543849c0fbe449e4",
+  "md_bytes": 16328,
+  "links_found": 37,
+  "files_found": 0
+}

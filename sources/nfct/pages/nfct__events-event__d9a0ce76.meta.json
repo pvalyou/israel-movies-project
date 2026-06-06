@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-אל-תגעו-לי-בשואה-אשר-טללים-פסטיב/",
+  "stable_id": "nfct__events-event__d9a0ce76",
+  "fetched_at": "2026-05-09T22:45:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:45:06Z",
+  "duration_ms": 17969,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:577d504b8d0adeb3330de362794a174ce537ead979f966662053c226d82fad95",
+  "md_bytes": 13388,
+  "links_found": 28,
+  "files_found": 0
+}

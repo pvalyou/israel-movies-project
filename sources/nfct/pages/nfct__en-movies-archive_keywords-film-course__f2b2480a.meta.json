@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=film+course",
+  "stable_id": "nfct__en-movies-archive_keywords-film-course__f2b2480a",
+  "fetched_at": "2026-05-16T12:34:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:34:26Z",
+  "duration_ms": 6652,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8ff8ff45597de79df8820ced13e4f7e7d4175bd98411e72557aa976ddb827337",
+  "md_bytes": 16967,
+  "links_found": 82,
+  "files_found": 0
+}

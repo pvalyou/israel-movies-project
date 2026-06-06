@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/to-see-if-im-smiling/?lang=en",
+  "stable_id": "makor__films-to-see-if-im-smiling_lang-en__57ff52cf",
+  "fetched_at": "2026-05-09T12:59:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:41Z",
+  "duration_ms": 16685,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:95021775e37a88dbfdea5c93a34b2e508ba47289c3e44d22df488b0c39b362a5",
+  "md_bytes": 2492,
+  "links_found": 4,
+  "files_found": 0
+}

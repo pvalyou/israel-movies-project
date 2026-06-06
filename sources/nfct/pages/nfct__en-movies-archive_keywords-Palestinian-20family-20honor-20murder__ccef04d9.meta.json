@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian%20family%20honor%20murder",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-20family-20honor-20murder__ccef04d9",
+  "fetched_at": "2026-05-16T16:57:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:55Z",
+  "duration_ms": 6541,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17c355ac8d6bdbbee4e84ec8113ab73908a97dff5e6754f7a7f323072c48afe4",
+  "md_bytes": 9843,
+  "links_found": 67,
+  "files_found": 0
+}

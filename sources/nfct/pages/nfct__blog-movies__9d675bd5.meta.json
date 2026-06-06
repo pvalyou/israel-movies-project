@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החיפושית/",
+  "stable_id": "nfct__blog-movies__9d675bd5",
+  "fetched_at": "2026-05-09T17:10:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:10:50Z",
+  "duration_ms": 43450,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c78f389d3d4d74d741b517f335ae2c0087b9dbe4e29e7a8dc46bace8ee2dd9b7",
+  "md_bytes": 21039,
+  "links_found": 42,
+  "files_found": 0
+}

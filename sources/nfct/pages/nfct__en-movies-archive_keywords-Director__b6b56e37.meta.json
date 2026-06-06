@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Director",
+  "stable_id": "nfct__en-movies-archive_keywords-Director__b6b56e37",
+  "fetched_at": "2026-05-16T17:27:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:27:55Z",
+  "duration_ms": 6810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:20ade88b6c9406c90ab2fca3b4f55d510f1e71a5b58798e03341a80099c2c2bc",
+  "md_bytes": 17620,
+  "links_found": 82,
+  "files_found": 0
+}

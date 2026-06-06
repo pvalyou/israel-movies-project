@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Net",
+  "stable_id": "nfct__en-movies-archive_keywords-Net__0915b040",
+  "fetched_at": "2026-05-16T04:57:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:57:55Z",
+  "duration_ms": 10562,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dfeb353dffaa91ad01b377ddcba4c779be2f8fe572aeb8c4cb426da3e583e8c1",
+  "md_bytes": 15570,
+  "links_found": 82,
+  "files_found": 0
+}

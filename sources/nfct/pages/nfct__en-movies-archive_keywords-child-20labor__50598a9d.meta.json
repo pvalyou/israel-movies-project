@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=child%20labor",
+  "stable_id": "nfct__en-movies-archive_keywords-child-20labor__50598a9d",
+  "fetched_at": "2026-05-16T17:12:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:12:38Z",
+  "duration_ms": 7983,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3369c344e5e1910b13c3869f0bb47c916d61d025df7b7a84dbb92c1d656272d",
+  "md_bytes": 11845,
+  "links_found": 72,
+  "files_found": 0
+}

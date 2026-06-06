@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/נהלי-הגשות/",
+  "stable_id": "makor__page__63fd8a2e",
+  "fetched_at": "2026-05-09T12:00:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:00:11Z",
+  "duration_ms": 3748,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa666768f20357bc910225262533025f53f87d154a76a58fa699e5c5179adf05",
+  "md_bytes": 670,
+  "links_found": 1,
+  "files_found": 0
+}

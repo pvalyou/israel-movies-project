@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/since-you-left/#UArexazDFN",
+  "stable_id": "nfct__en-movies-since-you-left__8726637c",
+  "fetched_at": "2026-05-16T11:27:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:27:24Z",
+  "duration_ms": 6290,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:283bf69dca7479b9b7c0e142631e963d7ca427717f9dded347cca5f8916f57f8",
+  "md_bytes": 12633,
+  "links_found": 34,
+  "files_found": 0
+}

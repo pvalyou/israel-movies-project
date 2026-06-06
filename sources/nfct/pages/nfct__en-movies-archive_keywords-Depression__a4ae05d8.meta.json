@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Depression",
+  "stable_id": "nfct__en-movies-archive_keywords-Depression__a4ae05d8",
+  "fetched_at": "2026-05-16T09:24:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:24:37Z",
+  "duration_ms": 8981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8bab9c739572211a0b827e1fba348142280460ba4a4128b09d1aa21c11a88fd4",
+  "md_bytes": 12491,
+  "links_found": 74,
+  "files_found": 0
+}

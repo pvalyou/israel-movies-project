@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Satmar",
+  "stable_id": "nfct__en-movies-archive_keywords-Satmar__c53f1c5a",
+  "fetched_at": "2026-05-16T16:57:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:12Z",
+  "duration_ms": 7858,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:75f8d788482398bf6f7d74bf5d475d5e0dde395919e8077297de844e17f671d8",
+  "md_bytes": 10006,
+  "links_found": 68,
+  "files_found": 0
+}

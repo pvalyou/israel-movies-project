@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Elementary%20school",
+  "stable_id": "nfct__en-movies-archive_keywords-Elementary-20school__dfb25164",
+  "fetched_at": "2026-05-16T16:24:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:24:26Z",
+  "duration_ms": 6232,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e0c57f6ca1a2b9133a79714bf02f21d6ec970d68ffb803ef3416d72b517fba6e",
+  "md_bytes": 11093,
+  "links_found": 70,
+  "files_found": 0
+}

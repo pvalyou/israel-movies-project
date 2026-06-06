@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דיסקו/",
+  "stable_id": "nfct__blog-movies__21d144bc",
+  "fetched_at": "2026-05-09T20:28:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:28:13Z",
+  "duration_ms": 33766,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:31e8e388f964f07791ea7d31df7baf457d1edefa38d72cf7dce5cd02169686b2",
+  "md_bytes": 19324,
+  "links_found": 44,
+  "files_found": 0
+}

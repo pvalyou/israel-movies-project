@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eritrean%20refugees",
+  "stable_id": "nfct__en-movies-archive_keywords-Eritrean-20refugees__34ee4c91",
+  "fetched_at": "2026-05-16T16:30:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:30:20Z",
+  "duration_ms": 6785,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:854262d72789886bf863bd8a7487a30d89d5e8b85d654c43a05266153ff18e34",
+  "md_bytes": 10413,
+  "links_found": 69,
+  "files_found": 0
+}

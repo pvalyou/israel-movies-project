@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/one-last-visit/#UArexazDFN",
+  "stable_id": "nfct__en-movies-one-last-visit__c4585a32",
+  "fetched_at": "2026-05-16T14:55:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:55:15Z",
+  "duration_ms": 5787,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a03c4dd6c0e8a799cafec0a98f6bacc3a795ea449589b6b0311461ef8166b13c",
+  "md_bytes": 12429,
+  "links_found": 36,
+  "files_found": 0
+}

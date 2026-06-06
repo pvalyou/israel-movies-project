@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=criminal+case",
+  "stable_id": "nfct__en-movies-archive_keywords-criminal-case__de20dfa6",
+  "fetched_at": "2026-05-16T14:35:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:35:09Z",
+  "duration_ms": 10379,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:219817ea19e2b97b22e98f20495a62321713e221fcf0848d84ab43a49dcf38a1",
+  "md_bytes": 10787,
+  "links_found": 69,
+  "files_found": 0
+}

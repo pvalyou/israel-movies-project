@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/golda/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-golda__825b3ca5",
+  "fetched_at": "2026-05-16T15:44:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:44:07Z",
+  "duration_ms": 11144,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5c7f369ec49591979b5f8e79692371128fafda3dfcc4054a3663475d29e96832",
+  "md_bytes": 14373,
+  "links_found": 40,
+  "files_found": 0
+}

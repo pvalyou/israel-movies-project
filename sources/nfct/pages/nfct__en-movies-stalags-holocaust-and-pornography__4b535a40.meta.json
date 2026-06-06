@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/stalags-holocaust-and-pornography/",
+  "stable_id": "nfct__en-movies-stalags-holocaust-and-pornography__4b535a40",
+  "fetched_at": "2026-05-11T21:32:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:32:13Z",
+  "duration_ms": 20004,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82ab97e38d45ad54ead792c7d1d76536bf53d6700c05a0ba0fc66672b53e1e82",
+  "md_bytes": 17695,
+  "links_found": 44,
+  "files_found": 0
+}

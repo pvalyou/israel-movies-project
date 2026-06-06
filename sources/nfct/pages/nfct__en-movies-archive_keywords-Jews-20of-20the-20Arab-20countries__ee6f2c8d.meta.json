@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jews%20of%20the%20Arab%20countries",
+  "stable_id": "nfct__en-movies-archive_keywords-Jews-20of-20the-20Arab-20countries__ee6f2c8d",
+  "fetched_at": "2026-05-16T16:19:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:19:30Z",
+  "duration_ms": 8910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc6c0bc74828cdcc3139c3bebdc5e2951196f884324f4d76991095262827ff16",
+  "md_bytes": 10274,
+  "links_found": 68,
+  "files_found": 0
+}

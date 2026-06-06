@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/pursued/?lang=en",
+  "stable_id": "makor__films-pursued_lang-en__2216c440",
+  "fetched_at": "2026-05-09T13:29:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:29:04Z",
+  "duration_ms": 14118,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ab8ca8e839943cd954f69b3fc8ed828a2bafcbd27cea6278d70d27780881867",
+  "md_bytes": 2484,
+  "links_found": 4,
+  "files_found": 0
+}

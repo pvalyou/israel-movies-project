@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/kazchen/#UAMainContent",
+  "stable_id": "nfct__en-movies-kazchen__92bf2cea",
+  "fetched_at": "2026-05-16T09:14:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:14:21Z",
+  "duration_ms": 9216,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0e8c904bfcf322f10432fae6cca80d3b0095b236219d9e1d37c01e469c1585a",
+  "md_bytes": 12884,
+  "links_found": 30,
+  "files_found": 0
+}

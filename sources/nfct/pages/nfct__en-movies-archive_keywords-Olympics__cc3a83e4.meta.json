@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Olympics",
+  "stable_id": "nfct__en-movies-archive_keywords-Olympics__cc3a83e4",
+  "fetched_at": "2026-05-16T14:44:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:44:54Z",
+  "duration_ms": 9189,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60e46a61e68b5a51d3623309c50a506c2108852d8403cfff363b84a8d3a29e87",
+  "md_bytes": 11009,
+  "links_found": 70,
+  "files_found": 0
+}

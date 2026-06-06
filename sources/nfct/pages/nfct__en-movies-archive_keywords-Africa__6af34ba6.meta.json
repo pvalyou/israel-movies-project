@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Africa",
+  "stable_id": "nfct__en-movies-archive_keywords-Africa__6af34ba6",
+  "fetched_at": "2026-05-16T11:19:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:19:20Z",
+  "duration_ms": 7749,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b8a9c2e5926958ee06dc2c89cd03198bfe4c1bd356bb5c0bf6eb5e9353f7be7",
+  "md_bytes": 14642,
+  "links_found": 82,
+  "files_found": 0
+}

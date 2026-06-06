@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עם-רדת-החשכה/",
+  "stable_id": "nfct__blog-movies__fc379518",
+  "fetched_at": "2026-05-09T21:51:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:51:33Z",
+  "duration_ms": 30050,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0cd8f100cd9e2645188b8f8f81cb292319cb8036f9cbfb438ab608c4f531ff96",
+  "md_bytes": 13644,
+  "links_found": 32,
+  "files_found": 0
+}

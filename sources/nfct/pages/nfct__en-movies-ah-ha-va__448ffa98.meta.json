@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ah-ha-va/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-ah-ha-va__448ffa98",
+  "fetched_at": "2026-05-16T16:12:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:12:10Z",
+  "duration_ms": 9074,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb7ca8d71e1d2879e5248ab03a42647830a1cde45cdf70a9a32876fa3fa6963f",
+  "md_bytes": 10972,
+  "links_found": 28,
+  "files_found": 0
+}

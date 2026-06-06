@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=action",
+  "stable_id": "nfct__en-movies-archive_keywords-action__8ed64618",
+  "fetched_at": "2026-05-16T14:13:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:13:58Z",
+  "duration_ms": 7829,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32e34b8a9fccac67100d5117252cc1a496134ba3ca3f862d5ece34c0296f62fb",
+  "md_bytes": 16638,
+  "links_found": 82,
+  "files_found": 0
+}

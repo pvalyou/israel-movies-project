@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sex",
+  "stable_id": "nfct__en-movies-archive_keywords-sex__65481f88",
+  "fetched_at": "2026-05-16T12:49:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:49:19Z",
+  "duration_ms": 12338,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5dcae3f3888828bf1dd0205e1a232227b6196f01d38b8ef8d06c44e62f8cb3e",
+  "md_bytes": 16458,
+  "links_found": 82,
+  "files_found": 0
+}

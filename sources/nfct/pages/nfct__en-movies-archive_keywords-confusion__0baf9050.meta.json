@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=confusion",
+  "stable_id": "nfct__en-movies-archive_keywords-confusion__0baf9050",
+  "fetched_at": "2026-05-16T12:47:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:47:17Z",
+  "duration_ms": 12233,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db0da85155eea0798beea11851ae5c193e5039f838919e202c8a5e635b13b270",
+  "md_bytes": 11509,
+  "links_found": 71,
+  "files_found": 0
+}

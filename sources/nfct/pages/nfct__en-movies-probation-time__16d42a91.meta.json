@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/probation-time/#UAMainContent",
+  "stable_id": "nfct__en-movies-probation-time__16d42a91",
+  "fetched_at": "2026-05-16T07:25:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:25:47Z",
+  "duration_ms": 10687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4a2eba2f284c2d2e3a8a28c815c4f10e17daca4e621aad50b7eacf561dd0170",
+  "md_bytes": 13856,
+  "links_found": 33,
+  "files_found": 0
+}

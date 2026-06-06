@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תעלומה-במכולה-הירוקה/",
+  "stable_id": "nfct__blog-movies__664558c5",
+  "fetched_at": "2026-05-09T17:49:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:49:20Z",
+  "duration_ms": 65835,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:133274928596c55b660c59650163fe6375bfa657721b9790da99c968ec21dece",
+  "md_bytes": 24740,
+  "links_found": 57,
+  "files_found": 0
+}

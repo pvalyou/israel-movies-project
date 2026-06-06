@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-last-lap-dance/?lang=en",
+  "stable_id": "makor__films-the-last-lap-dance_lang-en__8b744108",
+  "fetched_at": "2026-05-09T13:21:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:21:10Z",
+  "duration_ms": 30672,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:61dde2288deaa36ebd8fb25bc8d3d3edaa55ba74f5662512040a4b1a7e8402bc",
+  "md_bytes": 2428,
+  "links_found": 4,
+  "files_found": 0
+}

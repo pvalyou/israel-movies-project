@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/סאנדיי/",
+  "stable_id": "makor__films__12002307",
+  "fetched_at": "2026-05-09T13:00:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:00:45Z",
+  "duration_ms": 14188,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f9a294b8edd6a57f18d5df4f903ce4e0ebfbba58fa43531d629131fd30ec34a",
+  "md_bytes": 3240,
+  "links_found": 4,
+  "files_found": 0
+}

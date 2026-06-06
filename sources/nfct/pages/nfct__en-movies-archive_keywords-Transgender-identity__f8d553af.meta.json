@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Transgender+identity",
+  "stable_id": "nfct__en-movies-archive_keywords-Transgender-identity__f8d553af",
+  "fetched_at": "2026-05-16T20:14:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:14:20Z",
+  "duration_ms": 5467,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:85434ad76fb483e7e549f0dc435e252f877d803ec0f914d19c571c81504be61e",
+  "md_bytes": 9891,
+  "links_found": 67,
+  "files_found": 0
+}

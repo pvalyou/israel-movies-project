@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דה-האן-קול-מחוץ-לזמן/",
+  "stable_id": "nfct__blog-movies__5fb1e28a",
+  "fetched_at": "2026-05-09T19:38:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:38:10Z",
+  "duration_ms": 11094,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c9d34db11333d3ca8f041c2e3c2d28b6d215c919eef37915f237d3646e50386",
+  "md_bytes": 20171,
+  "links_found": 45,
+  "files_found": 0
+}

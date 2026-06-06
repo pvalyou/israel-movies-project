@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/once-upon-a-school/",
+  "stable_id": "nfct__en-movies-once-upon-a-school__d152cd74",
+  "fetched_at": "2026-05-11T15:33:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:33:20Z",
+  "duration_ms": 24862,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3064b178b32a0eb8c9aa72a754aa46b51a7a1f26248aae395d0e89c165cae310",
+  "md_bytes": 15264,
+  "links_found": 41,
+  "files_found": 0
+}

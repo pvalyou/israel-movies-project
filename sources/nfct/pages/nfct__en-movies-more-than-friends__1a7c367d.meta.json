@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/more-than-friends/",
+  "stable_id": "nfct__en-movies-more-than-friends__1a7c367d",
+  "fetched_at": "2026-05-11T14:56:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:56:44Z",
+  "duration_ms": 23007,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ea8540c74fe6875ff7ada8c5aff9fe31973a111c857fb998e2c7a460cbe84d06",
+  "md_bytes": 13196,
+  "links_found": 38,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kiryat+Shmona",
+  "stable_id": "nfct__en-movies-archive_keywords-Kiryat-Shmona__f7074b79",
+  "fetched_at": "2026-05-16T16:37:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:37:47Z",
+  "duration_ms": 7625,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:769c54a08f36f2af33a191b624862bcbb08cd4ba6097b544ae50fc415316b158",
+  "md_bytes": 10307,
+  "links_found": 68,
+  "files_found": 0
+}

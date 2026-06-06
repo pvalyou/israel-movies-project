@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/concrete/",
+  "stable_id": "nfct__en-movies-concrete__6718b8c8",
+  "fetched_at": "2026-05-11T13:19:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:19:36Z",
+  "duration_ms": 42284,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed8bf4efc6ab2a5cce1c66c774fc35ae4810cf872d6837b8592ccade428cdc27",
+  "md_bytes": 15002,
+  "links_found": 49,
+  "files_found": 0
+}

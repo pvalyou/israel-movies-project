@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nazareth",
+  "stable_id": "nfct__en-movies-archive_keywords-Nazareth__bc73e433",
+  "fetched_at": "2026-05-16T10:10:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:53Z",
+  "duration_ms": 7767,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0049264225a49b548637c79907c322d1716d30a7f84a06a9c40538cd9c6232ac",
+  "md_bytes": 11229,
+  "links_found": 71,
+  "files_found": 0
+}

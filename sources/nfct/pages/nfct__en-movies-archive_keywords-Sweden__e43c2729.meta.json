@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sweden",
+  "stable_id": "nfct__en-movies-archive_keywords-Sweden__e43c2729",
+  "fetched_at": "2026-05-16T20:38:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:38:23Z",
+  "duration_ms": 7893,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a5eed301e5c597b87457524c62db06868f28b27e514474ce20283a58f51bc824",
+  "md_bytes": 9999,
+  "links_found": 68,
+  "files_found": 0
+}

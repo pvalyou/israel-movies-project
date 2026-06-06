@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/נהלי-המוסד/",
+  "stable_id": "nfct__page__39f01473",
+  "fetched_at": "2026-05-09T15:18:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:18:29Z",
+  "duration_ms": 33588,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c5bde5c84115440677c0d17d50e7c78b55d5ef85417ed7a99021e3bcbb1acf0c",
+  "md_bytes": 48357,
+  "links_found": 48,
+  "files_found": 0
+}

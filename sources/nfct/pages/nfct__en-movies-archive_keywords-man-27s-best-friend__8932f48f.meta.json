@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=man%27s+best+friend",
+  "stable_id": "nfct__en-movies-archive_keywords-man-27s-best-friend__8932f48f",
+  "fetched_at": "2026-05-16T13:56:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:56:42Z",
+  "duration_ms": 6858,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ca2cfc983c9fa85e60135d8239f5099c48d7a2b452634ea3bc197d5a1b021be9",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

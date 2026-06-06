@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-safe-place/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-a-safe-place__b320af60",
+  "fetched_at": "2026-05-16T14:12:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:12:49Z",
+  "duration_ms": 5523,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:45eb4622473e2491be27c1aa638edbfbfe7b138af01a745a04bf7912b535bbb6",
+  "md_bytes": 14084,
+  "links_found": 39,
+  "files_found": 0
+}

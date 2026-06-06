@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Reflexive+Cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-Reflexive-Cinema__570b98d7",
+  "fetched_at": "2026-05-16T12:46:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:46:19Z",
+  "duration_ms": 8774,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aab2d53ed93b2311224bd324e2522b4b3fe892d6c4ae20e97275755271aed9b2",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Danube",
+  "stable_id": "nfct__en-movies-archive_keywords-Danube__76abf070",
+  "fetched_at": "2026-05-16T20:39:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:39:36Z",
+  "duration_ms": 8387,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb3e2e02d40f9a1e211e05439f380ef39c351843753229ac1de9e5fe2c9572f2",
+  "md_bytes": 10005,
+  "links_found": 68,
+  "files_found": 0
+}

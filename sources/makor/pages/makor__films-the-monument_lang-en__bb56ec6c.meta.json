@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-monument/?lang=en",
+  "stable_id": "makor__films-the-monument_lang-en__bb56ec6c",
+  "fetched_at": "2026-05-09T13:28:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:28:52Z",
+  "duration_ms": 7089,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:51d7a15e9f34497060ec3baed104e99f7320f5b3124643ece8886e9af6987b72",
+  "md_bytes": 2063,
+  "links_found": 3,
+  "files_found": 0
+}

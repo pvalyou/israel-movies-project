@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אהבה-מעופפת/",
+  "stable_id": "nfct__blog-movies__4ebc9305",
+  "fetched_at": "2026-05-09T19:55:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:55:20Z",
+  "duration_ms": 20299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e12daae6c154d46fab8d21a57e0ac3d4ad06b599a3af54b1f0054a27d9c571f",
+  "md_bytes": 24967,
+  "links_found": 65,
+  "files_found": 0
+}

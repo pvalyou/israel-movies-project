@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-last-battle-of-the-teheran-children/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-last-battle-of-the-teheran-children__ded2526a",
+  "fetched_at": "2026-05-16T20:40:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:40:15Z",
+  "duration_ms": 12302,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f80a1c54163e90a8e47aa1b7b9ff6ddf5f44fb1ce823bda8cb08ca95cff4240d",
+  "md_bytes": 14390,
+  "links_found": 41,
+  "files_found": 0
+}

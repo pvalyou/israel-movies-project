@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pediatrics",
+  "stable_id": "nfct__en-movies-archive_keywords-Pediatrics__0d985757",
+  "fetched_at": "2026-05-16T13:37:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:37:33Z",
+  "duration_ms": 6610,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aefc9dbfc9d951fdff53ff766e819dffabae998b9bd130ce7554441fde4734f2",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

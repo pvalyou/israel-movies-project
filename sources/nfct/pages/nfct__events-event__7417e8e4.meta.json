@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-אונליין-למקרה-שאת-עדיין-בסביבה/",
+  "stable_id": "nfct__events-event__7417e8e4",
+  "fetched_at": "2026-05-09T22:19:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:19:48Z",
+  "duration_ms": 26815,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:744b1a5e0a7de9095693144707de7d9a93a24b63122c46cce0f59db0fa3a40c6",
+  "md_bytes": 14020,
+  "links_found": 27,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-poetry-of-non-self/",
+  "stable_id": "nfct__en-movies-the-poetry-of-non-self__10e7a768",
+  "fetched_at": "2026-05-11T13:37:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:37:34Z",
+  "duration_ms": 23570,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:afd8bac860b0904f78ebb88a9bfc69e0f6da0888ae0bd735d91435a1e0564aa8",
+  "md_bytes": 12632,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דימונה-צמפיונס/",
+  "stable_id": "nfct__blog-movies__9020bb25",
+  "fetched_at": "2026-05-09T20:09:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:09:51Z",
+  "duration_ms": 15618,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2e7495668c4ec72a78510ff11b7bcfe5a036173c8d3207e510bc7fb3302a66e",
+  "md_bytes": 14981,
+  "links_found": 32,
+  "files_found": 0
+}

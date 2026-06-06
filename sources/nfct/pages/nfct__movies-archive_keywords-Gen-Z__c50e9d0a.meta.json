@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive/?keywords=Gen-Z#UAmlxHHRM2",
+  "stable_id": "nfct__movies-archive_keywords-Gen-Z__c50e9d0a",
+  "fetched_at": "2026-05-16T15:31:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:01Z",
+  "duration_ms": 7217,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:480454a88ced67f05a30cce5827fd1ca41911a7f64abd81ecc2ac50b56dc1220",
+  "md_bytes": 13797,
+  "links_found": 90,
+  "files_found": 0
+}

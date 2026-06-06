@@ -1,0 +1,23 @@
+{
+  "url": "https://www.gov.il/he/departments/publications/?OfficeId=7d5d01a1-c043-4c87-b8ef-5061999e797c&UnitId=55eac82a-9aaa-4458-8380-85333591c059&limit=10&publicationType=860cca36-4852-471a-befe-98108dc20be6",
+  "stable_id": "film_council__he-departments-publications_OfficeId-7d5d01a1-c043-4c87-b8ef-5061999e797c-UnitId__53a25268",
+  "fetched_at": "2026-05-09T10:51:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:51:58Z",
+  "duration_ms": 54,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a7f5ccd994b92dba6f21ee3be33f3b7738eb6daa81a2ab774ee58cadafc0b1d",
+  "md_bytes": 448,
+  "links_found": 0,
+  "files_found": 0
+}

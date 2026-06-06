@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גן-ילדים/",
+  "stable_id": "nfct__blog-movies__1fc73ade",
+  "fetched_at": "2026-05-09T21:34:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:34:56Z",
+  "duration_ms": 18791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:912c25605e9761b41c553a18215b103a41bd3d637481056272209565ac4bffab",
+  "md_bytes": 18567,
+  "links_found": 40,
+  "files_found": 0
+}

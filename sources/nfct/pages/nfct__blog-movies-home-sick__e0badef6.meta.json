@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/home-sick-הום-סיק/",
+  "stable_id": "nfct__blog-movies-home-sick__e0badef6",
+  "fetched_at": "2026-05-09T21:05:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:05:11Z",
+  "duration_ms": 11327,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a43b87e1e452f7b99ce8d02f467ea3c0a2a81682d85795e776598baecb30d828",
+  "md_bytes": 16744,
+  "links_found": 37,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish%20culture",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-20culture__c8f20070",
+  "fetched_at": "2026-05-16T11:01:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:01:18Z",
+  "duration_ms": 8050,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c66ab50529a9e4aa96f297d838d6cd6e486fbab420d1029ec6e166de8dfb29bb",
+  "md_bytes": 12389,
+  "links_found": 74,
+  "files_found": 0
+}

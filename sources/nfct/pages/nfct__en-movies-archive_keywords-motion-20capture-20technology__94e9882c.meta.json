@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=motion%20capture%20technology",
+  "stable_id": "nfct__en-movies-archive_keywords-motion-20capture-20technology__94e9882c",
+  "fetched_at": "2026-05-16T20:33:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:54Z",
+  "duration_ms": 6404,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c5ecc5428dad008d1764b455e33bd90692012862f46dfa9a35a11351c8d077b7",
+  "md_bytes": 9829,
+  "links_found": 67,
+  "files_found": 0
+}

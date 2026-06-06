@@ -1,0 +1,22 @@
+
+=== Run started 2026-05-15T11:33:34.321926 ===
+[11:33:34] Source: lectors_database
+[11:33:34] Pages dir: sources/lectors_database/pages
+[11:33:34] Output dir: out/lectors_database
+[11:33:34] Total .md pages found: 1  |  Already done: 0  |  To process: 1
+[11:33:34] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:33:34] [1/1] EMPTY_CONTENT: 
+[11:33:34]           file: lectors_database__he-departments-publications-Call_for_bids-lectors__2cf3571d.md
+[11:33:34]           url:  https://www.gov.il/he/departments/publications/Call_for_bids/lectors
+[11:33:34] ======================================================================
+[11:33:34] DONE in 0.0min
+[11:33:34]   ok:           0
+[11:33:34]   filtered:     0
+[11:33:34]   empty:        1
+[11:33:34]   load_error:   0
+[11:33:34]   llm_error:    0
+[11:33:34] Tokens: 0 in / 0 out  |  Cost: $0.0000
+[11:33:34] Calls: 0  |  Errors: 0  |  JSON retries: 0
+[11:33:34] Output: out/lectors_database/mentions.jsonl
+[11:33:34] Summary:  out/lectors_database/run_summary.json
+=== Run ended 2026-05-15T11:33:34.347990 ===

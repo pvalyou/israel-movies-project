@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sculpture",
+  "stable_id": "nfct__en-movies-archive_keywords-sculpture__6b441f47",
+  "fetched_at": "2026-05-16T15:46:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:46:21Z",
+  "duration_ms": 7304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7a0157f1c25b34471f8bd3262e016b66dc4e6175a800335ae3d4b51fe9692703",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

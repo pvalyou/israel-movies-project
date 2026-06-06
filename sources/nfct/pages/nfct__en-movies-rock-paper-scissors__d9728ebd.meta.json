@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/rock-paper-scissors/#UArexazDFN",
+  "stable_id": "nfct__en-movies-rock-paper-scissors__d9728ebd",
+  "fetched_at": "2026-05-16T15:46:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:46:26Z",
+  "duration_ms": 5451,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c93f1e86a2fcd114e0605ce47dbe21fce791d521b0ee588eebc904c09afcd08b",
+  "md_bytes": 16337,
+  "links_found": 50,
+  "files_found": 0
+}

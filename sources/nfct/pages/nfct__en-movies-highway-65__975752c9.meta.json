@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/highway-65/",
+  "stable_id": "nfct__en-movies-highway-65__975752c9",
+  "fetched_at": "2026-05-11T12:24:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:24:09Z",
+  "duration_ms": 21177,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:232bf493b6ff1da5e8340aae6b149ef6cc9d9ecce437c67c4510a4813a2626f5",
+  "md_bytes": 13958,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בובה-מייסס/",
+  "stable_id": "nfct__blog-movies__e31bd136",
+  "fetched_at": "2026-05-09T21:01:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:01:57Z",
+  "duration_ms": 25609,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:945cdf0cfa901c8ba49d8afbeeaae2d52cc024d7f97cf5593ca5d2703faeb295",
+  "md_bytes": 18590,
+  "links_found": 47,
+  "files_found": 0
+}

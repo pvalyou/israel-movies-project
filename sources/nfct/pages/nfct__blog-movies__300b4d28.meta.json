@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זוג/",
+  "stable_id": "nfct__blog-movies__300b4d28",
+  "fetched_at": "2026-05-09T20:01:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:01:30Z",
+  "duration_ms": 33480,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e680857cebd0f6b0f3fc891b0e7b7e2cd7e5c2aefba9dfcf63c9813660fcd8e",
+  "md_bytes": 14647,
+  "links_found": 34,
+  "files_found": 0
+}

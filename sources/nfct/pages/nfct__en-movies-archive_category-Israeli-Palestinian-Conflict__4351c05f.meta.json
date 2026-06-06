@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Israeli-Palestinian+Conflict",
+  "stable_id": "nfct__en-movies-archive_category-Israeli-Palestinian-Conflict__4351c05f",
+  "fetched_at": "2026-05-16T03:06:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:06:16Z",
+  "duration_ms": 5880,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2a09b05d651c881d421469fd24b4e9cac46f4a117b4c2fa89c9467cdb02ae4a7",
+  "md_bytes": 17105,
+  "links_found": 82,
+  "files_found": 0
+}

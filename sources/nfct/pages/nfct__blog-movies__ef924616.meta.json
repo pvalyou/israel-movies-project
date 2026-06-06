@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קייפ-מקליר/",
+  "stable_id": "nfct__blog-movies__ef924616",
+  "fetched_at": "2026-05-09T21:42:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:42:56Z",
+  "duration_ms": 50158,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:675803372f59ebc37a4e62a79008b1024f7d864372fbf4725d1c2ca31d9eb9d6",
+  "md_bytes": 16416,
+  "links_found": 39,
+  "files_found": 0
+}

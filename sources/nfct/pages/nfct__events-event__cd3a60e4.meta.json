@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/מועד-אחרון-להגשה-מסלול-הפקה-והשלמה-עשר/",
+  "stable_id": "nfct__events-event__cd3a60e4",
+  "fetched_at": "2026-05-10T13:38:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:38:22Z",
+  "duration_ms": 14971,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8ea122acf78f3c68725a9460f35d20719b3ea9f23caf113e56300adeaa93f7f5",
+  "md_bytes": 10520,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/נעורים/",
+  "stable_id": "makor__films__670021a7",
+  "fetched_at": "2026-05-09T12:55:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:55:17Z",
+  "duration_ms": 12992,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:38ae40f0db629984818957cad9bcaebf313ecba3837c36a920b18fd79f8f327f",
+  "md_bytes": 3344,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/hamuhram/?lang=en",
+  "stable_id": "makor__films-hamuhram_lang-en__8d0a05d8",
+  "fetched_at": "2026-05-09T13:17:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:17:23Z",
+  "duration_ms": 7596,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eafbadeaae1f3fb36100e418ba582a6af8bb57384d9a6eae43dedbc357e05148",
+  "md_bytes": 2769,
+  "links_found": 4,
+  "files_found": 0
+}

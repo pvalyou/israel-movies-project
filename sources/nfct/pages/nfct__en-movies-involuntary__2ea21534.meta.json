@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/involuntary/#UArexazDFN",
+  "stable_id": "nfct__en-movies-involuntary__2ea21534",
+  "fetched_at": "2026-05-16T11:05:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:08Z",
+  "duration_ms": 12813,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a7f62ddcb30f52561d2ddea943b4fbdf12bb4e0f4fd9fb6b6d8243153b3be67",
+  "md_bytes": 15483,
+  "links_found": 39,
+  "files_found": 0
+}

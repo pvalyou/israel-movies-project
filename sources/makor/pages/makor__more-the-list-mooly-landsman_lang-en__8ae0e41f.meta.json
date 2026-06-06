@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more/the-list-mooly-landsman/?lang=en",
+  "stable_id": "makor__more-the-list-mooly-landsman_lang-en__8ae0e41f",
+  "fetched_at": "2026-05-09T12:15:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:15:37Z",
+  "duration_ms": 11484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f47848dfa2fb934beb6d0487edfb36f8cdd0527e3ff4b8bf8b98f0ee6c78d48",
+  "md_bytes": 1632,
+  "links_found": 1,
+  "files_found": 0
+}

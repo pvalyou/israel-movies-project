@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/timors-show/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-timors-show__b4b5f0c4",
+  "fetched_at": "2026-05-16T16:44:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:44:41Z",
+  "duration_ms": 9888,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da1165e3481ee35320799d85c8cc0e746173c4756ccd640b06ec93b843a3b348",
+  "md_bytes": 12091,
+  "links_found": 34,
+  "files_found": 0
+}

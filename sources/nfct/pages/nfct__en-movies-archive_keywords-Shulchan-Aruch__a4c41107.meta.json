@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shulchan+Aruch",
+  "stable_id": "nfct__en-movies-archive_keywords-Shulchan-Aruch__a4c41107",
+  "fetched_at": "2026-05-16T13:21:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:21:31Z",
+  "duration_ms": 12522,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2af08a81faa978fb7ffe83f0663511c82c0105e66182ce4be40a444211c68d6e",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

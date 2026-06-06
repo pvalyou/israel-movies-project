@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rudi%20Weissenstein",
+  "stable_id": "nfct__en-movies-archive_keywords-Rudi-20Weissenstein__8fc7ee1e",
+  "fetched_at": "2026-05-16T10:11:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:11:19Z",
+  "duration_ms": 8180,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:528d8dbdd97e0722559c4614e74776e0876a030f6b4aab2edcfbaef6b31e8813",
+  "md_bytes": 10011,
+  "links_found": 68,
+  "files_found": 0
+}

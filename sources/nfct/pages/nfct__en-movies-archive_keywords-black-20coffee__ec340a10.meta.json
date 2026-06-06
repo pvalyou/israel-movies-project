@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=black%20coffee",
+  "stable_id": "nfct__en-movies-archive_keywords-black-20coffee__ec340a10",
+  "fetched_at": "2026-05-16T20:13:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:13:31Z",
+  "duration_ms": 12320,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd54adc076307e9ba8b07b9af3b6e675bbd4a9bf89ed5443e14bd9422a25f227",
+  "md_bytes": 10249,
+  "links_found": 68,
+  "files_found": 0
+}

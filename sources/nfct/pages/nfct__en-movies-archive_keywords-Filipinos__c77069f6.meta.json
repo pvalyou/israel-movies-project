@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Filipinos",
+  "stable_id": "nfct__en-movies-archive_keywords-Filipinos__c77069f6",
+  "fetched_at": "2026-05-16T12:06:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:06:50Z",
+  "duration_ms": 7391,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56ec3be32ca806bbc6ac31474245bb9626c1451fe417b83389da5c05cf62921f",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

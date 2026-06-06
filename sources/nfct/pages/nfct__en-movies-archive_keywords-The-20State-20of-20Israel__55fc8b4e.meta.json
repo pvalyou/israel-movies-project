@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The%20State%20of%20Israel",
+  "stable_id": "nfct__en-movies-archive_keywords-The-20State-20of-20Israel__55fc8b4e",
+  "fetched_at": "2026-05-16T20:31:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:19Z",
+  "duration_ms": 7696,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e84731816bbd4779f338bcc1d2471c04a3f718d438f8cc98f7b167b121eeb2c4",
+  "md_bytes": 16783,
+  "links_found": 82,
+  "files_found": 0
+}

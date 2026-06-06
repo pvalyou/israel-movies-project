@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=famine",
+  "stable_id": "nfct__en-movies-archive_keywords-famine__216ddd48",
+  "fetched_at": "2026-05-16T16:59:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:59:26Z",
+  "duration_ms": 6739,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c29f3151a7ac55a811e230c179740af3088befb6f64fd30e36581ff55ead9452",
+  "md_bytes": 10444,
+  "links_found": 68,
+  "files_found": 0
+}

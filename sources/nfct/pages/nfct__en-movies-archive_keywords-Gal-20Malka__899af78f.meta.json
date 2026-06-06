@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gal%20Malka",
+  "stable_id": "nfct__en-movies-archive_keywords-Gal-20Malka__899af78f",
+  "fetched_at": "2026-05-16T12:18:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:18:16Z",
+  "duration_ms": 8371,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d561c9038bbcd2f817693521990d5eea36d26f015f674b7a574beb26cc68185b",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/insight/",
+  "stable_id": "nfct__en-movies-insight__85806c8a",
+  "fetched_at": "2026-05-11T13:37:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:37:53Z",
+  "duration_ms": 10331,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d178bf6b415707b8a16451b1897e741c5d743f09e4f439a90a71c64d8477ab7c",
+  "md_bytes": 12358,
+  "links_found": 39,
+  "files_found": 0
+}

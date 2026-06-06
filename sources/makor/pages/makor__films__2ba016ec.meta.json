@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שחורה/",
+  "stable_id": "makor__films__2ba016ec",
+  "fetched_at": "2026-05-09T13:17:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:17:32Z",
+  "duration_ms": 4506,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f7a542f428d3abde4f410372e3035477548dc210feff0c62e4780cc1f7f8357",
+  "md_bytes": 3738,
+  "links_found": 4,
+  "files_found": 0
+}

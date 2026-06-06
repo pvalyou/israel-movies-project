@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=identity%20crisis",
+  "stable_id": "nfct__en-movies-archive_keywords-identity-20crisis__a56e3c00",
+  "fetched_at": "2026-05-16T12:22:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:30Z",
+  "duration_ms": 9294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af4529ae1a9aea832311f2d7980cd9e8bdf1a832f091f98c59a8ef04f8f69013",
+  "md_bytes": 11158,
+  "links_found": 70,
+  "files_found": 0
+}

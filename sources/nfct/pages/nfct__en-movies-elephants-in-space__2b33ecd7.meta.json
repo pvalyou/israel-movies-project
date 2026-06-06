@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/elephants-in-space/",
+  "stable_id": "nfct__en-movies-elephants-in-space__2b33ecd7",
+  "fetched_at": "2026-05-11T20:41:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:41:31Z",
+  "duration_ms": 31111,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa9f70ae46f2f8f10d80fb54488f8000b7414820e6f24991ac7dce6a8b4b734e",
+  "md_bytes": 13378,
+  "links_found": 38,
+  "files_found": 0
+}

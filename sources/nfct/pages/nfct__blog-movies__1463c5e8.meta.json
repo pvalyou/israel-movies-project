@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הסיפור-על-החבר-שלי-דני-ואיך-הוא-הרג-את-ג/",
+  "stable_id": "nfct__blog-movies__1463c5e8",
+  "fetched_at": "2026-05-09T21:51:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:51:55Z",
+  "duration_ms": 21495,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cbe663d0ad5ecbd0792e82cb7856465382e9fa0158cd61fe39b8aac81a384c09",
+  "md_bytes": 14386,
+  "links_found": 31,
+  "files_found": 0
+}

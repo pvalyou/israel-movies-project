@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Attendant",
+  "stable_id": "nfct__en-movies-archive_keywords-Attendant__435b1ece",
+  "fetched_at": "2026-05-16T13:51:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:51:10Z",
+  "duration_ms": 6977,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:79e44259635e65939e58f01f211d234bf2798097dcf582211fc8cb6316c8f8e7",
+  "md_bytes": 9985,
+  "links_found": 68,
+  "files_found": 0
+}

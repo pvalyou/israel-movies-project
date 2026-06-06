@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-טהורה-לעד-מאיה-זינשטיין-ערוץ-yes-ד/",
+  "stable_id": "nfct__events-event------------yes__3acf09b2",
+  "fetched_at": "2026-05-10T07:51:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T07:51:01Z",
+  "duration_ms": 23793,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e339a2100e62af64be04e3366788488ff5c10933104822d2ae855118da4ee6d6",
+  "md_bytes": 10000,
+  "links_found": 21,
+  "files_found": 0
+}

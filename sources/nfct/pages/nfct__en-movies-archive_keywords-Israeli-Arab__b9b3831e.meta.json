@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli+Arab",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-Arab__b9b3831e",
+  "fetched_at": "2026-05-16T03:55:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:55:17Z",
+  "duration_ms": 6329,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:515e5ee32e66a5b5b426fbc6ccf2b51b83c6e45878acd8233400d8e561bc3da0",
+  "md_bytes": 16370,
+  "links_found": 82,
+  "files_found": 0
+}

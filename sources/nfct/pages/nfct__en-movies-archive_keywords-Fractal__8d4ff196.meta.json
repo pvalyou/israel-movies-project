@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fractal",
+  "stable_id": "nfct__en-movies-archive_keywords-Fractal__8d4ff196",
+  "fetched_at": "2026-05-16T13:07:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:07:20Z",
+  "duration_ms": 8731,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:33b6db04273aa1765ea01b54f3c0f169afb495e7a446c86923aecbdbdd3219f2",
+  "md_bytes": 10296,
+  "links_found": 68,
+  "files_found": 0
+}

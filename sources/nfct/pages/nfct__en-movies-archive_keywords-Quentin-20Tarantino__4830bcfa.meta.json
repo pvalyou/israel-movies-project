@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Quentin%20Tarantino",
+  "stable_id": "nfct__en-movies-archive_keywords-Quentin-20Tarantino__4830bcfa",
+  "fetched_at": "2026-05-16T10:38:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:38:16Z",
+  "duration_ms": 7417,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e51a2dc76595c1527bedac9e9af34b1a567dc4c75cde14c8d9c8ac0ebffa96ec",
+  "md_bytes": 10250,
+  "links_found": 68,
+  "files_found": 0
+}

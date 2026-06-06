@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cheer-me-up/#UArexazDFN",
+  "stable_id": "nfct__en-movies-cheer-me-up__c52d09b6",
+  "fetched_at": "2026-05-16T16:57:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:48Z",
+  "duration_ms": 12511,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9efd0f2e36c617b8666918247063981e032053689a2f63d438a5f8a5d91e178",
+  "md_bytes": 12314,
+  "links_found": 30,
+  "files_found": 0
+}

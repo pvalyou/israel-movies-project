@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/scratch-that/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-scratch-that__f7de836d",
+  "fetched_at": "2026-05-16T13:45:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:45:40Z",
+  "duration_ms": 7269,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f490cd27e5d621c486aa50a860ce3d6f48f4059cc1fe795e808112f4aa5a031",
+  "md_bytes": 11763,
+  "links_found": 36,
+  "files_found": 0
+}

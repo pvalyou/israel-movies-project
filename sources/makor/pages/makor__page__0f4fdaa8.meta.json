@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/ברכות-לזוכות-המוכשרות/",
+  "stable_id": "makor__page__0f4fdaa8",
+  "fetched_at": "2026-05-09T12:29:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:29:52Z",
+  "duration_ms": 10514,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ce10c20b553b6f02b3721a85a1f5497316ac09e80a9d18cf580b52ea28d01358",
+  "md_bytes": 1414,
+  "links_found": 2,
+  "files_found": 0
+}

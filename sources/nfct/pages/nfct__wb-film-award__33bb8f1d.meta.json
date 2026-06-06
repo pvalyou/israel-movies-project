@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/wb-film-award/#UAMainContent",
+  "stable_id": "nfct__wb-film-award__33bb8f1d",
+  "fetched_at": "2026-05-10T14:57:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T14:57:20Z",
+  "duration_ms": 61612,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0670123f5b5ee41716f41441d4a7c97185a0894f5b338074c9f19fb7ed45ab50",
+  "md_bytes": 32328,
+  "links_found": 16,
+  "files_found": 0
+}

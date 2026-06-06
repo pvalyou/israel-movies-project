@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/crystal-horse/?lang=en",
+  "stable_id": "makor__films-crystal-horse_lang-en__d5085712",
+  "fetched_at": "2026-05-09T13:24:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:24:58Z",
+  "duration_ms": 5875,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e4401707dcf42b08a40ab37749e05a462fb940e1026a780c9f76e1f91e44dc1",
+  "md_bytes": 1594,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/beitar-al-quds/",
+  "stable_id": "nfct__en-movies-beitar-al-quds__5d04c17b",
+  "fetched_at": "2026-05-16T17:14:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:14:54Z",
+  "duration_ms": 7917,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6691c59f0a7b1e109e80914462c19456408c20ced19f7f522a2752f5f3f6c5af",
+  "md_bytes": 11533,
+  "links_found": 36,
+  "files_found": 0
+}

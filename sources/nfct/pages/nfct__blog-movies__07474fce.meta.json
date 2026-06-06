@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בית-הילדים/",
+  "stable_id": "nfct__blog-movies__07474fce",
+  "fetched_at": "2026-05-09T17:08:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:08:15Z",
+  "duration_ms": 28682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:998f64edc8fe87ad9c53e2cb7bbfef0204566ebfc8d4103892db35f4f61e397c",
+  "md_bytes": 21262,
+  "links_found": 50,
+  "files_found": 0
+}

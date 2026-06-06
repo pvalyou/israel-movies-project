@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Identity",
+  "stable_id": "nfct__en-movies-archive_category-Identity__fa4612f9",
+  "fetched_at": "2026-05-15T21:30:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:30:52Z",
+  "duration_ms": 7899,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ace7a086441f4cc7cf10a0f8dc25befb7ce3b12541a6979bcd84cc1b04d9f9ae",
+  "md_bytes": 16397,
+  "links_found": 82,
+  "files_found": 0
+}

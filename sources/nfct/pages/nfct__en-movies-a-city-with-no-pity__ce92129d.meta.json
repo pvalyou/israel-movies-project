@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-city-with-no-pity/",
+  "stable_id": "nfct__en-movies-a-city-with-no-pity__ce92129d",
+  "fetched_at": "2026-05-11T07:46:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:46:37Z",
+  "duration_ms": 14604,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b77caa26a177d69c773d82b4f3f63bc3e8fc04ad297f8778174543cde35c77a4",
+  "md_bytes": 13870,
+  "links_found": 35,
+  "files_found": 0
+}

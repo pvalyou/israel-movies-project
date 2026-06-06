@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/we-will-dance-again/",
+  "stable_id": "nfct__en-movies-we-will-dance-again__f31d28dc",
+  "fetched_at": "2026-05-11T12:55:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:55:34Z",
+  "duration_ms": 18586,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:609981a95e5bb461728609f8416ead73d84fe1f24f3de4488aaa81b388118b6e",
+  "md_bytes": 13339,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/news/",
+  "stable_id": "nfct__news__8e1b9d03",
+  "fetched_at": "2026-05-18T17:46:44.451139+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/news/",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "0fb7cce9e34a6025a76ab9475984cf17ec32d43b170963c463465390c0c8f16e",
+  "md_bytes": 164442,
+  "links_found": 0,
+  "error": ""
+}

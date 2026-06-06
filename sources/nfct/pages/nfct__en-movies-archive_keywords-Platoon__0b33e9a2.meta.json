@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Platoon",
+  "stable_id": "nfct__en-movies-archive_keywords-Platoon__0b33e9a2",
+  "fetched_at": "2026-05-16T12:10:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:10:31Z",
+  "duration_ms": 11310,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e3197b49e42a6f8eebd4da850ec516a10a9e7e60ef5c8bf08168e86cd9ccc66",
+  "md_bytes": 10035,
+  "links_found": 68,
+  "files_found": 0
+}

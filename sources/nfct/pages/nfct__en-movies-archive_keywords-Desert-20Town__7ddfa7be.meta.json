@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Desert%20Town",
+  "stable_id": "nfct__en-movies-archive_keywords-Desert-20Town__7ddfa7be",
+  "fetched_at": "2026-05-16T13:35:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:35:21Z",
+  "duration_ms": 13111,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfbc91f740c648e4a0810155e566da7aa6565a41cfa0de0b872ab636ccee52be",
+  "md_bytes": 11400,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-project-x/",
+  "stable_id": "nfct__en-movies-my-project-x__5316efa9",
+  "fetched_at": "2026-05-15T15:23:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:23:38Z",
+  "duration_ms": 15271,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5f9dd3914b59e1ea36b2457083475643c7a6b4d47a939b02b69b95a9580ceea2",
+  "md_bytes": 14852,
+  "links_found": 47,
+  "files_found": 0
+}

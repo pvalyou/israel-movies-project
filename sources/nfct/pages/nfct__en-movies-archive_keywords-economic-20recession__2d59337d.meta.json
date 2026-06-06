@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=economic%20recession",
+  "stable_id": "nfct__en-movies-archive_keywords-economic-20recession__2d59337d",
+  "fetched_at": "2026-05-16T04:15:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:15:39Z",
+  "duration_ms": 6186,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:93d756b36f118ad4a91ac5e45e0c089b0bd5b4fc9b720d79cdae4f1852ef432e",
+  "md_bytes": 10304,
+  "links_found": 68,
+  "files_found": 0
+}

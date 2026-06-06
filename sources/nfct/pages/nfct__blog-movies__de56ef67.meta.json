@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אוצר-באושוויץ/",
+  "stable_id": "nfct__blog-movies__de56ef67",
+  "fetched_at": "2026-05-09T17:43:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:43:23Z",
+  "duration_ms": 14009,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab8e049309e66fb11120676149975a87fd52e7ef0e23d1cb266623ae4c073615",
+  "md_bytes": 18852,
+  "links_found": 42,
+  "files_found": 0
+}

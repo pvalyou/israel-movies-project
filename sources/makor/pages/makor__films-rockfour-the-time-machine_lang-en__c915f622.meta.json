@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/rockfour-the-time-machine/?lang=en",
+  "stable_id": "makor__films-rockfour-the-time-machine_lang-en__c915f622",
+  "fetched_at": "2026-05-09T13:21:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:21:18Z",
+  "duration_ms": 29394,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ee3a5b13326981fe21cf7bef5dee48e8113b712986640740bce1265bfe15e154",
+  "md_bytes": 2375,
+  "links_found": 3,
+  "files_found": 0
+}

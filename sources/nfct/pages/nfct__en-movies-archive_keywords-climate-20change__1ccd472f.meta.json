@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=climate%20change",
+  "stable_id": "nfct__en-movies-archive_keywords-climate-20change__1ccd472f",
+  "fetched_at": "2026-05-16T20:17:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:51Z",
+  "duration_ms": 7389,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a3c025408360fe547d484f95d4cc323993fea27494ef9dbc2887e90c8383e63d",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

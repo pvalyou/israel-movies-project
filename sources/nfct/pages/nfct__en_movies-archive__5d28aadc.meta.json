@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shai%20Glick",
+  "stable_id": "nfct__en_movies-archive__5d28aadc",
+  "fetched_at": "2026-05-18T21:28:38.352049+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=Shai%20Glick",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "225e6214755bafef09f0d4f030fa6238dbd77380bf58334288f579246899acad",
+  "md_bytes": 9199,
+  "links_found": 0,
+  "error": ""
+}

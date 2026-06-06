@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שבוע-23/",
+  "stable_id": "nfct__blog-movies--23__9ab77165",
+  "fetched_at": "2026-05-09T19:48:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:48:19Z",
+  "duration_ms": 30468,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:589de8a8205b24afa2bbb2faf62acb8330069e39071cb4576113318a811e5d0c",
+  "md_bytes": 18693,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yossi+Alpher",
+  "stable_id": "nfct__en-movies-archive_keywords-Yossi-Alpher__cbc83d11",
+  "fetched_at": "2026-05-16T16:34:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:52Z",
+  "duration_ms": 7525,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a613ca832d4421d6d59b7f4fb45db389fed78b84d0a01713910cb93e7b61748b",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

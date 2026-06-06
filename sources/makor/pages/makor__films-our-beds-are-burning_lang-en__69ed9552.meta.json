@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/our-beds-are-burning/?lang=en",
+  "stable_id": "makor__films-our-beds-are-burning_lang-en__69ed9552",
+  "fetched_at": "2026-05-09T13:03:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:16Z",
+  "duration_ms": 5272,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c9f09e5965444f66f05321b00671e365cdeafed07131a5c9438cbff6e9966674",
+  "md_bytes": 2512,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=the+barrier",
+  "stable_id": "nfct__en_movies-archive__e8522dba",
+  "fetched_at": "2026-05-18T21:31:48.382998+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=the+barrier",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "aee8480d9eb539f2c73e82a4dcb10fb01be6d37fc19415f3ddd2e4cbfa7d1407",
+  "md_bytes": 9878,
+  "links_found": 0,
+  "error": ""
+}

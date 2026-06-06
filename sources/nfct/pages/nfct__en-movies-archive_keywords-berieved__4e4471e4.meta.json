@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=berieved",
+  "stable_id": "nfct__en-movies-archive_keywords-berieved__4e4471e4",
+  "fetched_at": "2026-05-16T10:50:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:50:45Z",
+  "duration_ms": 10904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69487284fbfb74db9c3a56af23c190b21d06f62c8c270cbd07187014984d156c",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

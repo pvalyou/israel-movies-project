@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יוסף-ומריה/",
+  "stable_id": "nfct__blog-movies__7aa1971e",
+  "fetched_at": "2026-05-09T16:56:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:56:28Z",
+  "duration_ms": 103565,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc767f2667bd17f32c7619b69e3de2fb308d99196b39c8e3bd08cdba6c2d2d16",
+  "md_bytes": 22239,
+  "links_found": 53,
+  "files_found": 0
+}

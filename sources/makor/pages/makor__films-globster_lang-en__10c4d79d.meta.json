@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/globster/?lang=en",
+  "stable_id": "makor__films-globster_lang-en__10c4d79d",
+  "fetched_at": "2026-05-09T13:27:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:27:27Z",
+  "duration_ms": 9980,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:457b6c551e9835a82aa232a810b15fa4125028a58a3916c0230d5a361e6b0470",
+  "md_bytes": 1945,
+  "links_found": 4,
+  "files_found": 0
+}

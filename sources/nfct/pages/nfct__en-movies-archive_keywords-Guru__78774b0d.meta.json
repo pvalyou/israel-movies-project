@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Guru",
+  "stable_id": "nfct__en-movies-archive_keywords-Guru__78774b0d",
+  "fetched_at": "2026-05-16T15:27:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:27:58Z",
+  "duration_ms": 6885,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d4dd74f61f00e169f4d7adc1a45d1a112aeecfa0683967d03be8cf7e399368bc",
+  "md_bytes": 11207,
+  "links_found": 70,
+  "files_found": 0
+}

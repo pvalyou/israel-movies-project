@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-essential-link-the-story-of-wilfrid-israel/",
+  "stable_id": "nfct__en-movies-the-essential-link-the-story-of-wilfrid-israel__9cbb95d1",
+  "fetched_at": "2026-05-11T21:22:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:22:49Z",
+  "duration_ms": 61246,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91e1f0a73654fb50c223639e2c9955698b1efa7687d97f35a1f2efffbf9f27e9",
+  "md_bytes": 12986,
+  "links_found": 32,
+  "files_found": 0
+}

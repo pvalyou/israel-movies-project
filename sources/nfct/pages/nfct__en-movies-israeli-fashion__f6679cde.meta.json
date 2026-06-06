@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/israeli-fashion/",
+  "stable_id": "nfct__en-movies-israeli-fashion__f6679cde",
+  "fetched_at": "2026-05-11T13:47:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:47:21Z",
+  "duration_ms": 13911,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4671fd479539a2c5916e42216a69b5384d787d105d1ce767143e2f89826543d5",
+  "md_bytes": 11923,
+  "links_found": 30,
+  "files_found": 0
+}

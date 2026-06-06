@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/black-dog/#main",
+  "stable_id": "arava_film_fund__en-movies-black-dog__cd162cdc",
+  "fetched_at": "2026-05-08T10:19:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:19:00Z",
+  "duration_ms": 18707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c5ad9603c519bfcbf6cb1fc5a18f77b42de48cb47cb380be93e0843660d4d4f",
+  "md_bytes": 3061,
+  "links_found": 9,
+  "files_found": 0
+}

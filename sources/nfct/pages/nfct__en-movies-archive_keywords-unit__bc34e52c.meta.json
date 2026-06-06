@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=unit",
+  "stable_id": "nfct__en-movies-archive_keywords-unit__bc34e52c",
+  "fetched_at": "2026-05-16T17:16:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:16:08Z",
+  "duration_ms": 9207,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a40f126f7d6027b747508b36b4fd1c254cfdf00bf03e76b2e3c82436ef37ded4",
+  "md_bytes": 16822,
+  "links_found": 82,
+  "files_found": 0
+}

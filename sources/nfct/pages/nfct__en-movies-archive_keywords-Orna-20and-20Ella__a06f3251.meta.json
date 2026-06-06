@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Orna%20and%20Ella",
+  "stable_id": "nfct__en-movies-archive_keywords-Orna-20and-20Ella__a06f3251",
+  "fetched_at": "2026-05-16T12:05:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:05:30Z",
+  "duration_ms": 9598,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ac896c8a6715b7f33ec671e857f801343a3484cfb4f4edbf9b900b0bc78df2aa",
+  "md_bytes": 10221,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-האם-זה-אתה-דני-מנקין-סינמטק-שדר-6/",
+  "stable_id": "nfct__events-event----------------6__1dba2f15",
+  "fetched_at": "2026-05-09T18:11:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:11:32Z",
+  "duration_ms": 11770,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b6dc8447733940cf7fca0e6106222919b2cd0f6ba8e5396a248efee17346ea8b",
+  "md_bytes": 10501,
+  "links_found": 22,
+  "files_found": 0
+}

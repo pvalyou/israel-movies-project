@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Disabled%20veterans",
+  "stable_id": "nfct__en-movies-archive_keywords-Disabled-20veterans__6a4f2ce5",
+  "fetched_at": "2026-05-16T15:07:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:07:58Z",
+  "duration_ms": 8392,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c2648efa6f3900875a7f80196b7cb8108a5f18c4202d023e7b7400b08c9bd14e",
+  "md_bytes": 10381,
+  "links_found": 69,
+  "files_found": 0
+}

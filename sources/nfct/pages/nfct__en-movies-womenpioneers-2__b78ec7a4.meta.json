@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/womenpioneers-2/",
+  "stable_id": "nfct__en-movies-womenpioneers-2__b78ec7a4",
+  "fetched_at": "2026-05-16T20:25:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:25:26Z",
+  "duration_ms": 11382,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab6b6fd6d11684f24a47f8f9b2f9c53e12dc4371883fcd19f4b572c215c45990",
+  "md_bytes": 13598,
+  "links_found": 30,
+  "files_found": 0
+}

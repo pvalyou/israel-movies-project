@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lice/",
+  "stable_id": "nfct__en-movies-lice__891eb2dc",
+  "fetched_at": "2026-05-11T23:59:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T23:59:42Z",
+  "duration_ms": 16301,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db854c88ce8eb52b2d7933ea3203755dd1c720aad09d4cdafbe174df95517a08",
+  "md_bytes": 9705,
+  "links_found": 24,
+  "files_found": 0
+}

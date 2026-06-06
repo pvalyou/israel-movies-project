@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-captains-hakbarnitim/",
+  "stable_id": "nfct__en-movies-the-captains-hakbarnitim__6744d280",
+  "fetched_at": "2026-05-11T20:47:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:47:28Z",
+  "duration_ms": 7972,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d76b7f10d01049d2db54a50e0c85d44f2200a4be8e68f7c8d9149946e08ddf6",
+  "md_bytes": 13158,
+  "links_found": 43,
+  "files_found": 0
+}

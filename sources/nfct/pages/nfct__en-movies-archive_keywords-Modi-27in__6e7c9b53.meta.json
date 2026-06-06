@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Modi%27in",
+  "stable_id": "nfct__en-movies-archive_keywords-Modi-27in__6e7c9b53",
+  "fetched_at": "2026-05-16T11:07:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:07:18Z",
+  "duration_ms": 6706,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec569e65d052baed43c53d0be302c9caef7d6a564534f65abfd86d4f209285e8",
+  "md_bytes": 9982,
+  "links_found": 68,
+  "files_found": 0
+}

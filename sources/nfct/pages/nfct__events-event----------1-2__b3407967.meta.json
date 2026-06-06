@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-הפטריארך-דנאי-אילון-ערוץ-1-2/",
+  "stable_id": "nfct__events-event----------1-2__b3407967",
+  "fetched_at": "2026-05-10T10:31:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T10:31:03Z",
+  "duration_ms": 16706,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f775e193536e58847529fde88b10f08ed9573dc8d4c5f7a3eaac3f7ab6047f1a",
+  "md_bytes": 10200,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/all-about-danny-and-how-he-killed-gandhi/",
+  "stable_id": "nfct__en-movies-all-about-danny-and-how-he-killed-gandhi__7836bdeb",
+  "fetched_at": "2026-05-12T02:47:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:47:11Z",
+  "duration_ms": 23294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e90262680656c9135cb64186285a67492016dba1f7ae54fa1fd5ebc82383184",
+  "md_bytes": 12847,
+  "links_found": 35,
+  "files_found": 0
+}

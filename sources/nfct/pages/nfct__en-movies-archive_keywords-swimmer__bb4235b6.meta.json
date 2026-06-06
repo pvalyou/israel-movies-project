@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=swimmer",
+  "stable_id": "nfct__en-movies-archive_keywords-swimmer__bb4235b6",
+  "fetched_at": "2026-05-16T14:44:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:44:56Z",
+  "duration_ms": 7363,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b6b989d7dcfcc02aaeeec134e51bf9639f7488f1df5baa336c5ee876edae65b",
+  "md_bytes": 10420,
+  "links_found": 69,
+  "files_found": 0
+}

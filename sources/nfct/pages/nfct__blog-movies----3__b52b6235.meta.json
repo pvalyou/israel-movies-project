@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אלברט-קיוסו-3/",
+  "stable_id": "nfct__blog-movies----3__b52b6235",
+  "fetched_at": "2026-05-09T20:19:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:19:35Z",
+  "duration_ms": 23491,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8a9b3adef25d45a5e480ad743d5a9c88c742fbd0cea0e80b0ce3daf54ef886b",
+  "md_bytes": 23245,
+  "links_found": 51,
+  "files_found": 0
+}

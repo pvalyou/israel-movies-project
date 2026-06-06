@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מקום-להיות/",
+  "stable_id": "nfct__blog-movies__b2343764",
+  "fetched_at": "2026-05-09T21:19:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:19:37Z",
+  "duration_ms": 14906,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db67740d0a7c42774943815b33b6125e44358b613056de41a120fd2edd3f0f05",
+  "md_bytes": 16576,
+  "links_found": 39,
+  "files_found": 0
+}

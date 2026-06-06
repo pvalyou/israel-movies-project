@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=roots",
+  "stable_id": "nfct__en-movies-archive_keywords-roots__ca4dc423",
+  "fetched_at": "2026-05-16T07:19:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:19:15Z",
+  "duration_ms": 6545,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:635e8bd59bf4769b5ea76a11419a06f15b215d14a42c6c30978d9e0e2fef4cbf",
+  "md_bytes": 15748,
+  "links_found": 82,
+  "files_found": 0
+}

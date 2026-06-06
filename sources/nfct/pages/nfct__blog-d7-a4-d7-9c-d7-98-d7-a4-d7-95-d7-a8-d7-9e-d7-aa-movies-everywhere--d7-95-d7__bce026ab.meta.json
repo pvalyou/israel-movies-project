@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/%d7%a4%d7%9c%d7%98%d7%a4%d7%95%d7%a8%d7%9e%d7%aa-movies-everywhere-%d7%95%d7%95%d7%91%d7%99%d7%a0%d7%a8/",
+  "stable_id": "nfct__blog-d7-a4-d7-9c-d7-98-d7-a4-d7-95-d7-a8-d7-9e-d7-aa-movies-everywhere--d7-95-d7__bce026ab",
+  "fetched_at": "2026-05-15T09:27:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:27:09Z",
+  "duration_ms": 9221,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52fac36fd63fccac1d2a159ec08decf54c9fa0e3001614547044b216e901c935",
+  "md_bytes": 10248,
+  "links_found": 20,
+  "files_found": 0
+}

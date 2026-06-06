@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hockey%20team",
+  "stable_id": "nfct__en-movies-archive_keywords-hockey-20team__8416d5e0",
+  "fetched_at": "2026-05-16T12:22:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:30Z",
+  "duration_ms": 9605,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a548dc9e951ef4302c0f820b15ed68dba4637c8c2f25f64d609e0ef46b485a6b",
+  "md_bytes": 10206,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סרט-שלל/",
+  "stable_id": "nfct__blog-movies__fb232d01",
+  "fetched_at": "2026-05-09T20:32:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:32:07Z",
+  "duration_ms": 44377,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8cafec827d288462ec0eff9ef79b984da49fea16195f561ab78b05caf29bf38d",
+  "md_bytes": 19347,
+  "links_found": 45,
+  "files_found": 0
+}

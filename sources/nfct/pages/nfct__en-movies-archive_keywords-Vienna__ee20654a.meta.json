@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Vienna",
+  "stable_id": "nfct__en-movies-archive_keywords-Vienna__ee20654a",
+  "fetched_at": "2026-05-16T08:18:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:18:23Z",
+  "duration_ms": 6213,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a54714a94ac012ac62cf6dbe2746bbebf574411a075d2b3c02e6cdc145da4007",
+  "md_bytes": 11096,
+  "links_found": 70,
+  "files_found": 0
+}

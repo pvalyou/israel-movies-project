@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=family%20event",
+  "stable_id": "nfct__en-movies-archive_keywords-family-20event__fdbb20c8",
+  "fetched_at": "2026-05-16T12:11:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:11:08Z",
+  "duration_ms": 8498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a23effd776359ab0273cc7288f7ed9ebaeebcbca9ea6686cb9f23555d6afce4f",
+  "md_bytes": 15535,
+  "links_found": 82,
+  "files_found": 0
+}

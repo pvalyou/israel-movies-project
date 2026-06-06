@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive?keywords=Stop+Motion",
+  "stable_id": "nfct__movies-archive_keywords-Stop-Motion__bf561a97",
+  "fetched_at": "2026-05-12T00:03:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:03:11Z",
+  "duration_ms": 59318,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:904f90fca4734c8010720332471bbe55169836c20b34ee60746cf2b648303319",
+  "md_bytes": 13809,
+  "links_found": 90,
+  "files_found": 0
+}

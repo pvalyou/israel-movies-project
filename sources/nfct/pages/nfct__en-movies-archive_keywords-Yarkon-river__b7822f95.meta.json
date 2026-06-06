@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yarkon+river",
+  "stable_id": "nfct__en-movies-archive_keywords-Yarkon-river__b7822f95",
+  "fetched_at": "2026-05-16T16:52:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:52:45Z",
+  "duration_ms": 7084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:228dd7c5ce5e6fd71576347b97b5ea219252c7d12fbb31ad705ed89b499b9598",
+  "md_bytes": 9965,
+  "links_found": 68,
+  "files_found": 0
+}

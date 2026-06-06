@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ovarian%20cancer",
+  "stable_id": "nfct__en-movies-archive_keywords-Ovarian-20cancer__57cdf952",
+  "fetched_at": "2026-05-16T15:00:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:00:21Z",
+  "duration_ms": 12721,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84445a80e47289645d70af9e8db233e0299acc66940505effd67c4e7c7a22d62",
+  "md_bytes": 10139,
+  "links_found": 68,
+  "files_found": 0
+}

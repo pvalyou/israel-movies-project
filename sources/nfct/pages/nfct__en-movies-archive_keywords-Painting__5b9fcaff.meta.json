@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Painting",
+  "stable_id": "nfct__en-movies-archive_keywords-Painting__5b9fcaff",
+  "fetched_at": "2026-05-16T11:24:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:24:12Z",
+  "duration_ms": 8309,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f675f0f350d02004a7dc45213227255ef0e93a54272eaed2531605441508bc33",
+  "md_bytes": 13315,
+  "links_found": 74,
+  "files_found": 0
+}

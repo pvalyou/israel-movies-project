@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Indie+Cinema",
+  "stable_id": "nfct__en_movies-archive__3e377b66",
+  "fetched_at": "2026-05-18T21:27:07.358757+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=Indie+Cinema",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "0aad94104e5b23cf9f79cccf01ba67bef77a1a85444feaf45503ae0d83332202",
+  "md_bytes": 9622,
+  "links_found": 0,
+  "error": ""
+}

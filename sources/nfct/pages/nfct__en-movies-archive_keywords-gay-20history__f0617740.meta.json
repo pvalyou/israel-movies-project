@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=gay%20history",
+  "stable_id": "nfct__en-movies-archive_keywords-gay-20history__f0617740",
+  "fetched_at": "2026-05-16T20:36:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:36:40Z",
+  "duration_ms": 10376,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:94e602f6bc681eaf1d00173d70c1f1e9e77d212884028e6dd8defe60a4c3d697",
+  "md_bytes": 10328,
+  "links_found": 68,
+  "files_found": 0
+}

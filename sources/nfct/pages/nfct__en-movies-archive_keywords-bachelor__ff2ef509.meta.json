@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bachelor",
+  "stable_id": "nfct__en-movies-archive_keywords-bachelor__ff2ef509",
+  "fetched_at": "2026-05-15T21:33:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:33:12Z",
+  "duration_ms": 9986,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2456bf8cb1cc22c3f4f66151ecf4c86bd51f4ecdfa6012d2e28a6a1eca050ed5",
+  "md_bytes": 11244,
+  "links_found": 71,
+  "files_found": 0
+}

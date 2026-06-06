@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרות-שמנות-פרות-רזות/",
+  "stable_id": "nfct__blog-movies__2dc7e1d4",
+  "fetched_at": "2026-05-09T17:33:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:33:38Z",
+  "duration_ms": 13091,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:28d995f109d2ce2f0e46bf2234d1d18e66bd4c3f07748d1282a5f9512d6b92ef",
+  "md_bytes": 18733,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=age",
+  "stable_id": "nfct__en-movies-archive_keywords-age__170085ed",
+  "fetched_at": "2026-05-16T15:34:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:34:23Z",
+  "duration_ms": 8558,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d5d5004984416e5d3cb57909484c0ea5ce0a51f9100a511cea9e73a337546963",
+  "md_bytes": 17036,
+  "links_found": 82,
+  "files_found": 0
+}

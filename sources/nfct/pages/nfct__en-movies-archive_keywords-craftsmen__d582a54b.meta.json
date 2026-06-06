@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=craftsmen",
+  "stable_id": "nfct__en-movies-archive_keywords-craftsmen__d582a54b",
+  "fetched_at": "2026-05-16T13:18:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:18:15Z",
+  "duration_ms": 9406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0284a766ca2f29dfb666deb1eaefd32f6c5d79608f71bdc23f09df04221215a0",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=engagement",
+  "stable_id": "nfct__en-movies-archive_keywords-engagement__af54701a",
+  "fetched_at": "2026-05-16T10:23:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:23:16Z",
+  "duration_ms": 18471,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:075c58f027f7c5649a570ce92d5443f6fea950c083bbd15dcb2a2f20dd9ee0a5",
+  "md_bytes": 13139,
+  "links_found": 75,
+  "files_found": 0
+}

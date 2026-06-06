@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Belief",
+  "stable_id": "nfct__en-movies-archive_keywords-Belief__ea0ca590",
+  "fetched_at": "2026-05-16T14:01:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:01:00Z",
+  "duration_ms": 7692,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7bc515d09ab71103019f9b34e2e72bce55f7225e5d5b1884fd19071ab9c9296f",
+  "md_bytes": 15297,
+  "links_found": 82,
+  "files_found": 0
+}

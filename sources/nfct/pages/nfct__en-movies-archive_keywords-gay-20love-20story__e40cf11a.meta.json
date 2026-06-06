@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=gay%20love%20story",
+  "stable_id": "nfct__en-movies-archive_keywords-gay-20love-20story__e40cf11a",
+  "fetched_at": "2026-05-16T13:11:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:11:46Z",
+  "duration_ms": 7707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df2b1c87a80e30cd80a5a5627409e70397fa19e363aaf7c3ca12e78027540478",
+  "md_bytes": 10234,
+  "links_found": 68,
+  "files_found": 0
+}

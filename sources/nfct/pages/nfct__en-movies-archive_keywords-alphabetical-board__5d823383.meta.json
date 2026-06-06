@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=alphabetical+board",
+  "stable_id": "nfct__en-movies-archive_keywords-alphabetical-board__5d823383",
+  "fetched_at": "2026-05-16T14:51:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:51:48Z",
+  "duration_ms": 5901,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:50d8e83bafd9d485bf6f2253083325622e7a1c3e6afa49893bba341f6f384acf",
+  "md_bytes": 9997,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-the-prime-of-her-life/#UArexazDFN",
+  "stable_id": "nfct__en-movies-in-the-prime-of-her-life__4552e46a",
+  "fetched_at": "2026-05-16T04:51:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:51:51Z",
+  "duration_ms": 7270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f2fd03a071589c7df08989e96a089d933825fd2428d6b59de57a2974b1470913",
+  "md_bytes": 11394,
+  "links_found": 26,
+  "files_found": 0
+}

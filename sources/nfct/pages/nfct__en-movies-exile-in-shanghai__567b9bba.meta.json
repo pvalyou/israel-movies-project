@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/exile-in-shanghai/#UAMainContent",
+  "stable_id": "nfct__en-movies-exile-in-shanghai__567b9bba",
+  "fetched_at": "2026-05-16T10:25:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:25:04Z",
+  "duration_ms": 17517,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60648a9ed5f8ee6d8ccd8aebb6adf50cbfa3a15bfc877e40b584fb56d358752c",
+  "md_bytes": 15384,
+  "links_found": 38,
+  "files_found": 0
+}

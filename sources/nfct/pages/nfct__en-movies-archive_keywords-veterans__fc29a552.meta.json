@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=veterans",
+  "stable_id": "nfct__en-movies-archive_keywords-veterans__fc29a552",
+  "fetched_at": "2026-05-16T03:37:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:37:12Z",
+  "duration_ms": 6838,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:75a5b3eddd3060d561edb5a29f1b45b3edce249223434d409844d433b57e322d",
+  "md_bytes": 11141,
+  "links_found": 71,
+  "files_found": 0
+}

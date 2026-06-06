@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=terrorists",
+  "stable_id": "nfct__en-movies-archive_keywords-terrorists__fb8e87ac",
+  "fetched_at": "2026-05-16T10:13:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:13:32Z",
+  "duration_ms": 6547,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c0410cfdd88f37a2938ed3f1c7102b971514c320a31f3e8811470e5f92a4b306",
+  "md_bytes": 11312,
+  "links_found": 71,
+  "files_found": 0
+}

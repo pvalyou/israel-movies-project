@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אבן-דרך/",
+  "stable_id": "nfct__blog-movies__54a8461e",
+  "fetched_at": "2026-05-09T20:14:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:14:37Z",
+  "duration_ms": 26275,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:16b6334bd00a91e802f2c29837146bb9c1bbb5d1675f85addbd3380498bb4126",
+  "md_bytes": 14550,
+  "links_found": 31,
+  "files_found": 0
+}

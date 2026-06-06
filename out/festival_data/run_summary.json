@@ -1,0 +1,21 @@
+{
+  "source_name": "festival_data",
+  "run_date": "2026-05-24",
+  "elapsed_min": 0.15,
+  "pages_total": 228,
+  "pages_already_done": 178,
+  "pages_processed_this_run": 50,
+  "status_counts": {
+    "ok": 46,
+    "filtered": 4,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 59982,
+  "tokens_output": 15217,
+  "cost_usd": 0.0121,
+  "calls": 15,
+  "errors": 0,
+  "json_retries": 0
+}

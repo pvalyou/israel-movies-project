@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=broadcast",
+  "stable_id": "nfct__en-movies-archive_keywords-broadcast__73b699d2",
+  "fetched_at": "2026-05-16T13:04:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:04:01Z",
+  "duration_ms": 11705,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:758c58ef08f0f99f2539c592e0b515b59bdafc65b9c1e02e3b1de206e1572610",
+  "md_bytes": 13890,
+  "links_found": 76,
+  "files_found": 0
+}

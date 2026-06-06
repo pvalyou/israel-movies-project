@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=TV%20interviews",
+  "stable_id": "nfct__en-movies-archive_keywords-TV-20interviews__ca30f208",
+  "fetched_at": "2026-05-16T20:16:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:18Z",
+  "duration_ms": 7859,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:063c03c770877bb9eae9308e7059c17f0b9e1d8e00725e7873b4bac012f9f050",
+  "md_bytes": 10187,
+  "links_found": 68,
+  "files_found": 0
+}

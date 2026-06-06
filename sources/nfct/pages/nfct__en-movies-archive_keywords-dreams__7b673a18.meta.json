@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=dreams",
+  "stable_id": "nfct__en-movies-archive_keywords-dreams__7b673a18",
+  "fetched_at": "2026-05-16T11:09:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:09:36Z",
+  "duration_ms": 8475,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e751c9f60b8df888b18ba6fdd5fd076375905b7ab05a1294487609806cd73a90",
+  "md_bytes": 17209,
+  "links_found": 82,
+  "files_found": 0
+}

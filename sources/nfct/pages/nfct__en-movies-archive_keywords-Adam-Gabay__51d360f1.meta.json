@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Adam+Gabay",
+  "stable_id": "nfct__en-movies-archive_keywords-Adam-Gabay__51d360f1",
+  "fetched_at": "2026-05-16T14:58:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:58:27Z",
+  "duration_ms": 8168,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5623184d82c7082fdbadd515605d42535bd2c1f42afe618c41958524ed9f330c",
+  "md_bytes": 10327,
+  "links_found": 68,
+  "files_found": 0
+}

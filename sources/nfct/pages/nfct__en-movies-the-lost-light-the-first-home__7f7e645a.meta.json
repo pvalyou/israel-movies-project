@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-lost-light-the-first-home/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-lost-light-the-first-home__7f7e645a",
+  "fetched_at": "2026-05-16T15:12:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:12:46Z",
+  "duration_ms": 5625,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e302195cc6e8037b9959cf6374a22213f7e5f9923fad18875ff728516bb62b6",
+  "md_bytes": 15697,
+  "links_found": 47,
+  "files_found": 0
+}

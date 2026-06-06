@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בין-חורף-לאביב/",
+  "stable_id": "nfct__blog-movies__a199349d",
+  "fetched_at": "2026-05-09T19:14:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:14:09Z",
+  "duration_ms": 23978,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0542ac99340cfba4672962825aa05d2550624d53970c909cc3b7defd9c43624b",
+  "md_bytes": 16277,
+  "links_found": 33,
+  "files_found": 0
+}

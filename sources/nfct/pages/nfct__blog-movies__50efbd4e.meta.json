@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אסיסט/",
+  "stable_id": "nfct__blog-movies__50efbd4e",
+  "fetched_at": "2026-05-15T09:01:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:19Z",
+  "duration_ms": 12269,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec8c59fbc7de71416a53537063a919d7ac429ae00a6df86013b51848952a8c84",
+  "md_bytes": 16620,
+  "links_found": 38,
+  "files_found": 0
+}

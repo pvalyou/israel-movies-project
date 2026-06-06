@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rafi%20Eitan",
+  "stable_id": "nfct__en-movies-archive_keywords-Rafi-20Eitan__f03ce00c",
+  "fetched_at": "2026-05-16T16:33:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:33:53Z",
+  "duration_ms": 5950,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf74252094e1d9504ee2f982a3b8aa4121dea9f5349f65572755ce56e5652fc9",
+  "md_bytes": 10296,
+  "links_found": 68,
+  "files_found": 0
+}

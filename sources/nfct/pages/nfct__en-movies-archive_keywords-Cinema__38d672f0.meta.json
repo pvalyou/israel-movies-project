@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-Cinema__38d672f0",
+  "fetched_at": "2026-05-16T08:38:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:38:23Z",
+  "duration_ms": 7267,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa94b797ed97791451fc07f8b93d733dc8efa4701b2fb406fbe1fd9a32997d90",
+  "md_bytes": 17462,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cherbonyl",
+  "stable_id": "nfct__en-movies-archive_keywords-Cherbonyl__23e13053",
+  "fetched_at": "2026-05-16T13:40:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:40:13Z",
+  "duration_ms": 10353,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:19d0e75887b776e2144f1b70ee643b09b05ebdee891c318f39ae25ed658b7b19",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

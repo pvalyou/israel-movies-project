@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Motherhood",
+  "stable_id": "nfct__en-movies-archive_keywords-Motherhood__5f7e8be1",
+  "fetched_at": "2026-05-16T05:39:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:39:04Z",
+  "duration_ms": 5799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7ec676c1c16f8dfe33053f78891672b5e975815076dab8b1b4a1844dfab42f52",
+  "md_bytes": 12447,
+  "links_found": 73,
+  "files_found": 0
+}

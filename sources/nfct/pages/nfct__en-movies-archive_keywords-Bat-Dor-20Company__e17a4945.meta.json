@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bat-Dor%20Company",
+  "stable_id": "nfct__en-movies-archive_keywords-Bat-Dor-20Company__e17a4945",
+  "fetched_at": "2026-05-16T03:28:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:28:56Z",
+  "duration_ms": 6938,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:48df00843e4720cc207e4e73010aabc6f6fbbaa304c5f429fbf4c4c5e6c7273f",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

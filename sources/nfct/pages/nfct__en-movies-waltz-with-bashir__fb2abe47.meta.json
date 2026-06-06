@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/waltz-with-bashir/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-waltz-with-bashir__fb2abe47",
+  "fetched_at": "2026-05-16T05:08:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:08:45Z",
+  "duration_ms": 11880,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8e654925f2bb2acc01c2d1ea8e382e63f4de4fb93a439fb48c39bf2b27e8ea80",
+  "md_bytes": 15400,
+  "links_found": 38,
+  "files_found": 0
+}

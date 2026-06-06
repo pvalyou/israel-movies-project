@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=love%20affair",
+  "stable_id": "nfct__en-movies-archive_keywords-love-20affair__ca0cb0b0",
+  "fetched_at": "2026-05-16T10:58:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:58:42Z",
+  "duration_ms": 7440,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0c993aba3ca3bbebfee8ab0777af87b1902d2de4a88e223b842a150af59dc2e",
+  "md_bytes": 13404,
+  "links_found": 77,
+  "files_found": 0
+}

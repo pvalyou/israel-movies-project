@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-imaginary-friend/",
+  "stable_id": "nfct__en-movies-my-imaginary-friend__169c9603",
+  "fetched_at": "2026-05-11T07:27:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:27:01Z",
+  "duration_ms": 10416,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2424ab3f80e62d3aea548a87ef603b2fd1c3dd7bdda10bf9bb5faada8f9c0ca1",
+  "md_bytes": 12777,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/moments-israel-2004-the-face-of-the-nation/",
+  "stable_id": "nfct__en-movies-moments-israel-2004-the-face-of-the-nation__77f13666",
+  "fetched_at": "2026-05-12T02:17:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:17:11Z",
+  "duration_ms": 8773,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bae8417650c0fea4c834f0cec081ce727cbc3bc9b2afccb3baad4e4a8e87709a",
+  "md_bytes": 19220,
+  "links_found": 44,
+  "files_found": 0
+}

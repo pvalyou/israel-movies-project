@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/suicide/",
+  "stable_id": "nfct__en-movies-suicide__cb93cc5f",
+  "fetched_at": "2026-05-12T04:20:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:20:36Z",
+  "duration_ms": 38572,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:37765579fdba84374f7325ce2c7e3dca5e5957c218d9f7dcd00d9dd5f5324670",
+  "md_bytes": 14295,
+  "links_found": 39,
+  "files_found": 0
+}

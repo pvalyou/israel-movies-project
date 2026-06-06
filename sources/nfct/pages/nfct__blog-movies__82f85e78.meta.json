@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כל-הטוב-הזה/",
+  "stable_id": "nfct__blog-movies__82f85e78",
+  "fetched_at": "2026-05-09T19:19:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:19:00Z",
+  "duration_ms": 22184,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffac6def83c04b8ea4dd7eba8911012890b96fc74a70801c1407133cd0bb46ae",
+  "md_bytes": 16435,
+  "links_found": 40,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Covid",
+  "stable_id": "nfct__en-movies-archive_keywords-Covid__db4800b1",
+  "fetched_at": "2026-05-16T15:30:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:30:52Z",
+  "duration_ms": 9325,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:70b7adeca325da64f8501a371a5a0c0c309f29ce435346688e56f7d8b6d78041",
+  "md_bytes": 11683,
+  "links_found": 70,
+  "files_found": 0
+}

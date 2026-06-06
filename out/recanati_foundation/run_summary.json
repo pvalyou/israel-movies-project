@@ -1,0 +1,21 @@
+{
+  "source_name": "recanati_foundation",
+  "run_date": "2026-05-18",
+  "elapsed_min": 0.19,
+  "pages_total": 3,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 3,
+  "status_counts": {
+    "ok": 2,
+    "filtered": 0,
+    "empty_content": 1,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 10160,
+  "tokens_output": 4144,
+  "cost_usd": 0.0027,
+  "calls": 2,
+  "errors": 0,
+  "json_retries": 0
+}

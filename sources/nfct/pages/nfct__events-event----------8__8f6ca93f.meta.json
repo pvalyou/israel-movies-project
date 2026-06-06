@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-תקופת-מבחןאביגיל-שפרבר-סינמט-8/",
+  "stable_id": "nfct__events-event----------8__8f6ca93f",
+  "fetched_at": "2026-05-15T09:00:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:00:51Z",
+  "duration_ms": 16700,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96415f98a2ef1815c88d496c76f16966d90219644f6d835ffd21e7d03f43267d",
+  "md_bytes": 10101,
+  "links_found": 21,
+  "files_found": 0
+}

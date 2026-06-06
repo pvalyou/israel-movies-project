@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=husbands",
+  "stable_id": "nfct__en-movies-archive_keywords-husbands__0d355773",
+  "fetched_at": "2026-05-16T20:28:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:28:17Z",
+  "duration_ms": 8532,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:937f564c0468f747cdc8e36b343371bb19dd73869d3ce8f2a168f4b3ae5d1f37",
+  "md_bytes": 12509,
+  "links_found": 73,
+  "files_found": 0
+}

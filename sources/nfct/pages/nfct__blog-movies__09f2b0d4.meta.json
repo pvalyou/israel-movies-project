@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פשרה/",
+  "stable_id": "nfct__blog-movies__09f2b0d4",
+  "fetched_at": "2026-05-09T17:40:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:40:51Z",
+  "duration_ms": 25493,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cd8dbb155da95346f27421754a15c0d0b57283a725e0b8bc5802e887b70ce146",
+  "md_bytes": 20735,
+  "links_found": 52,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/לא-בגדתי/",
+  "stable_id": "nfct__movies__086385cb",
+  "fetched_at": "2026-05-16T05:58:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:58:55Z",
+  "duration_ms": 6216,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfb7b8407655c808d43199c8c30cf0756e45799d7334cbe2245dfcf97c0b9d53",
+  "md_bytes": 7986,
+  "links_found": 21,
+  "files_found": 0
+}

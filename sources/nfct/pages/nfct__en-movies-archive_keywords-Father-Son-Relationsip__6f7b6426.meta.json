@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Father-Son+Relationsip",
+  "stable_id": "nfct__en-movies-archive_keywords-Father-Son-Relationsip__6f7b6426",
+  "fetched_at": "2026-05-16T12:41:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:41:30Z",
+  "duration_ms": 11687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df60c378b7dd49167775a5e038cb4b5e2d33671bdc3732d6fbf3648e77c23e6a",
+  "md_bytes": 9819,
+  "links_found": 67,
+  "files_found": 0
+}

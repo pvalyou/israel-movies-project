@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/יזכור-למנשייה/",
+  "stable_id": "makor__films__0d4681c7",
+  "fetched_at": "2026-05-09T13:09:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:09:41Z",
+  "duration_ms": 22524,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c48888707af30c72a08ff22c8cf056e14b022eae49818dc8ff1c70e9ac4f07a4",
+  "md_bytes": 3443,
+  "links_found": 4,
+  "files_found": 0
+}

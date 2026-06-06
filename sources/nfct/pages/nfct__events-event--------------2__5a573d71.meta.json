@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-שליחי-האל-איציק-לרנר-פסטיבל-דוק-2/",
+  "stable_id": "nfct__events-event--------------2__5a573d71",
+  "fetched_at": "2026-05-10T12:26:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:26:49Z",
+  "duration_ms": 23100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:29384835ee31d92a53eceb88f68f3e277a5cdf9770627482e07f47e07fbc96f3",
+  "md_bytes": 13203,
+  "links_found": 28,
+  "files_found": 0
+}

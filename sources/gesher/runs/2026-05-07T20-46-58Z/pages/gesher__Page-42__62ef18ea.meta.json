@@ -1,0 +1,21 @@
+{
+  "url": "https://gesherfilmfund.org.il/Page/42/",
+  "stable_id": "gesher__Page-42__62ef18ea",
+  "fetched_at": "2026-05-07T20:47:13Z",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": true,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": false
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": null,
+  "duration_ms": 0,
+  "status": "error",
+  "error": "HTTP 429: Rate exceeded.",
+  "md_hash": null,
+  "md_bytes": 0
+}

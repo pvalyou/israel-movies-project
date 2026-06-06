@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/מועד-הגשה-תחום-תיעודי/",
+  "stable_id": "nfct__blog__8da23835",
+  "fetched_at": "2026-05-09T16:15:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:15:24Z",
+  "duration_ms": 29415,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f3c9347b188d20531848a453fd1d0bc0a9713be28b13f796ea2f4adf55d776e1",
+  "md_bytes": 10978,
+  "links_found": 27,
+  "files_found": 0
+}

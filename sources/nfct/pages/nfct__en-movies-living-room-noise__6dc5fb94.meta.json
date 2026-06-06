@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/living-room-noise/",
+  "stable_id": "nfct__en-movies-living-room-noise__6dc5fb94",
+  "fetched_at": "2026-05-15T09:43:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:43:07Z",
+  "duration_ms": 9826,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9dc5e3dd9f993b0671540f8c6eed1b23447f18e4a736cf5cc951604edd66cd2b",
+  "md_bytes": 13411,
+  "links_found": 39,
+  "files_found": 0
+}

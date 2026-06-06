@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/another-meaning-of-love/",
+  "stable_id": "nfct__en-movies-another-meaning-of-love__59368ce9",
+  "fetched_at": "2026-05-11T11:43:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:43:18Z",
+  "duration_ms": 25377,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dfcbe5c6695a5fb970b26fef4f3d5ecc8df97a3f170a2847f882429d895fc097",
+  "md_bytes": 13340,
+  "links_found": 41,
+  "files_found": 0
+}

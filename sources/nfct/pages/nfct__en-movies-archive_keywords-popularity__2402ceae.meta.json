@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=popularity",
+  "stable_id": "nfct__en-movies-archive_keywords-popularity__2402ceae",
+  "fetched_at": "2026-05-16T16:55:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:55:28Z",
+  "duration_ms": 1299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d093d155406d6aee82e451873366ef78b07c359d197767200fcf67c333e8d43",
+  "md_bytes": 805,
+  "links_found": 0,
+  "files_found": 0
+}

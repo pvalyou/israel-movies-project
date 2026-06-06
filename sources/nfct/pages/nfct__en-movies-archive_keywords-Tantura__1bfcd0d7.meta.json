@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tantura",
+  "stable_id": "nfct__en-movies-archive_keywords-Tantura__1bfcd0d7",
+  "fetched_at": "2026-05-16T14:53:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:53:41Z",
+  "duration_ms": 13919,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7aaacde232c8b18a95fab8fe7992c7a8c1a1408b598d7bef9fb79361436d4a6a",
+  "md_bytes": 9958,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fence-your-best/",
+  "stable_id": "nfct__en-movies-fence-your-best__f02b8f1a",
+  "fetched_at": "2026-05-15T09:41:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:41:28Z",
+  "duration_ms": 8094,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c09798c315ad9df4c95aafc2728afd91a477be99be1571cfaae387fff3bb037",
+  "md_bytes": 12363,
+  "links_found": 27,
+  "files_found": 0
+}

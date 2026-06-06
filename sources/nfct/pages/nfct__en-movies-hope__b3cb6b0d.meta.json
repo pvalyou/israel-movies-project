@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hope/#UAMainContent",
+  "stable_id": "nfct__en-movies-hope__b3cb6b0d",
+  "fetched_at": "2026-05-16T10:47:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:47:34Z",
+  "duration_ms": 8069,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:466d6e31ec182ee6bbda0a5712fed2ec84fca8409f4971ee8b75adb49923ffb3",
+  "md_bytes": 13906,
+  "links_found": 38,
+  "files_found": 0
+}

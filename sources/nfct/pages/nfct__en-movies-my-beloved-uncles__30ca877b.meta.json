@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-beloved-uncles/",
+  "stable_id": "nfct__en-movies-my-beloved-uncles__30ca877b",
+  "fetched_at": "2026-05-15T09:27:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:27:58Z",
+  "duration_ms": 10177,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:acd19a8b00ae7539ad85804cb065fc111a58b016dd95646844dede1b4e3f6ccc",
+  "md_bytes": 11176,
+  "links_found": 24,
+  "files_found": 0
+}

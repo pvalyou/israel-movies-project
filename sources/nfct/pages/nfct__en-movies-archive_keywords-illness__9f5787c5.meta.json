@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=illness",
+  "stable_id": "nfct__en-movies-archive_keywords-illness__9f5787c5",
+  "fetched_at": "2026-05-16T10:22:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:22:17Z",
+  "duration_ms": 10639,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:28be1260004d3c90f43b1881d3d72c3cb4cab72f9cd905dd93298185117b1a59",
+  "md_bytes": 15339,
+  "links_found": 80,
+  "files_found": 0
+}

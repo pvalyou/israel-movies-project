@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bnei%20Braq",
+  "stable_id": "nfct__en-movies-archive_keywords-Bnei-20Braq__4f182ef3",
+  "fetched_at": "2026-05-16T06:14:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:14:19Z",
+  "duration_ms": 7308,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f9b169207815c1f71fd26f6d2f208fee9852aa2ef0da42d2f25f4664b293bfc",
+  "md_bytes": 10001,
+  "links_found": 68,
+  "files_found": 0
+}

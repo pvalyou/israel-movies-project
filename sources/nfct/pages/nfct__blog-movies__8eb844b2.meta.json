@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הרז-שלי/",
+  "stable_id": "nfct__blog-movies__8eb844b2",
+  "fetched_at": "2026-05-09T20:27:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:27:31Z",
+  "duration_ms": 9837,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84920c3039ef70b71ff841af1b35e192222d0c8112f97a2ebdfe333e978542c4",
+  "md_bytes": 19099,
+  "links_found": 46,
+  "files_found": 0
+}

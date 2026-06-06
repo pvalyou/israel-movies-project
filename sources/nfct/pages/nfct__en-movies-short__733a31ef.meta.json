@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/short/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-short__733a31ef",
+  "fetched_at": "2026-05-16T05:02:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:02:48Z",
+  "duration_ms": 9876,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eca57e53f7877f6bebc1044dc2e37da1bb03a58905fb1779fd5e2290dd0a434a",
+  "md_bytes": 12434,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jezreel%20Valley",
+  "stable_id": "nfct__en-movies-archive_keywords-Jezreel-20Valley__03dbf5a2",
+  "fetched_at": "2026-05-16T15:37:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:37:38Z",
+  "duration_ms": 7022,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21beb4f198b02ec08abcb1546cf9bb02f14ca5965806193a4d9fec5fbd3cd8cf",
+  "md_bytes": 10396,
+  "links_found": 68,
+  "files_found": 0
+}

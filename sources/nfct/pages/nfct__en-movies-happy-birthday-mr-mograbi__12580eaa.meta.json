@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/happy-birthday-mr-mograbi/",
+  "stable_id": "nfct__en-movies-happy-birthday-mr-mograbi__12580eaa",
+  "fetched_at": "2026-05-11T05:49:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:49:28Z",
+  "duration_ms": 65712,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2abec5337be8834f77ab581d7450f42704acf547a7f71a990a3fbddbe435f86",
+  "md_bytes": 15568,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/kosher-rehab/",
+  "stable_id": "nfct__en-movies-kosher-rehab__0bbeb415",
+  "fetched_at": "2026-05-11T19:30:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:30:30Z",
+  "duration_ms": 8995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aaafa21ea03c218c5c2cd8c49bafdca30dd00a71ff56c9b8145221e84865a8d4",
+  "md_bytes": 12220,
+  "links_found": 36,
+  "files_found": 0
+}

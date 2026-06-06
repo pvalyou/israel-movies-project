@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אותך-לאמא/",
+  "stable_id": "nfct__blog-movies__890368f5",
+  "fetched_at": "2026-05-09T21:46:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:46:37Z",
+  "duration_ms": 27412,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:85666b0c9bc31d0934aa456a797ce7fd28847bba857a7a253c24452abd381f9c",
+  "md_bytes": 14911,
+  "links_found": 31,
+  "files_found": 0
+}

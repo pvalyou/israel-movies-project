@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=garbage+dump",
+  "stable_id": "nfct__en-movies-archive_keywords-garbage-dump__f52db9f8",
+  "fetched_at": "2026-05-16T05:53:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:53:27Z",
+  "duration_ms": 6230,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0592b7992a730d4eef07fc718b0e27cf60cda97fb736ab67ea75ca0e837f5193",
+  "md_bytes": 11176,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20truckers%20union",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20truckers-20union__b1f77072",
+  "fetched_at": "2026-05-16T04:16:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:16:02Z",
+  "duration_ms": 7338,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d071f3bc961bef3e7376c81884ee4db82d25d98f737c5dd86681b60b51247e85",
+  "md_bytes": 9823,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/on-the-map/#UArexazDFN",
+  "stable_id": "nfct__en-movies-on-the-map__3359f606",
+  "fetched_at": "2026-05-16T17:32:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:32:27Z",
+  "duration_ms": 5322,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ee81887f656912fed4fe6190c476ca556b7a89c215af4fd81eda678a22ae2662",
+  "md_bytes": 11177,
+  "links_found": 27,
+  "files_found": 0
+}

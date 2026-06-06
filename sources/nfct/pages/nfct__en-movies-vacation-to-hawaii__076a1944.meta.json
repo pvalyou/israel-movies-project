@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/vacation-to-hawaii/",
+  "stable_id": "nfct__en-movies-vacation-to-hawaii__076a1944",
+  "fetched_at": "2026-05-11T12:34:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:34:11Z",
+  "duration_ms": 25704,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:097f5eb9381fac3eda4720a178eb8258f2504dfcc5582863813abae998256ec4",
+  "md_bytes": 13588,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/סדנת-תחקיר-דוקומנטרי/",
+  "stable_id": "nfct__blog__c09ac6a3",
+  "fetched_at": "2026-05-09T16:07:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:07:44Z",
+  "duration_ms": 51238,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c808ee8f777ce4ba939e96630cd6011a94d33b16f8782d025eddefb193869201",
+  "md_bytes": 15315,
+  "links_found": 26,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=moments+2005",
+  "stable_id": "nfct__en-movies-archive_keywords-moments-2005__20348a36",
+  "fetched_at": "2026-05-16T17:12:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:12:01Z",
+  "duration_ms": 7350,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8564ee029b4ac4df7e3b07b2cc5134aed87a7b199b2226c01b8ae0089c73b422",
+  "md_bytes": 18792,
+  "links_found": 82,
+  "files_found": 0
+}

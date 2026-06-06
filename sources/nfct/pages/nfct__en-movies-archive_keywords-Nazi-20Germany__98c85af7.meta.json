@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nazi%20Germany",
+  "stable_id": "nfct__en-movies-archive_keywords-Nazi-20Germany__98c85af7",
+  "fetched_at": "2026-05-16T06:54:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:54:43Z",
+  "duration_ms": 6876,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65d0c42751588cfdd82cc341bc2f7ca5d411cfff3e9724388e7e5aa0ca810163",
+  "md_bytes": 11708,
+  "links_found": 73,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Netiv%20HaAsara",
+  "stable_id": "nfct__en-movies-archive_keywords-Netiv-20HaAsara__6b64ecab",
+  "fetched_at": "2026-05-16T20:31:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:38Z",
+  "duration_ms": 9252,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2de981b9c9b0417acfe162329459ae7ee9ff8f07f3fde5ccdfa3733bea37ead7",
+  "md_bytes": 10331,
+  "links_found": 68,
+  "files_found": 0
+}

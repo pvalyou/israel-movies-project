@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/back-and-forth/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-back-and-forth__cb97504b",
+  "fetched_at": "2026-05-16T05:45:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:45:15Z",
+  "duration_ms": 10017,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:904e2901a5c72875ba52fdc694a4e3ee66b5290b0396b6be29a43bd25ef2d9b3",
+  "md_bytes": 15158,
+  "links_found": 36,
+  "files_found": 0
+}

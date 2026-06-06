@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=film+school",
+  "stable_id": "nfct__en-movies-archive_keywords-film-school__659ef56f",
+  "fetched_at": "2026-05-16T09:44:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:44:59Z",
+  "duration_ms": 8384,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d2f2f3b48762d7b7de6850daa7b4d7d3ac66cfc2d8f821ea19a648af6392813",
+  "md_bytes": 15539,
+  "links_found": 82,
+  "files_found": 0
+}

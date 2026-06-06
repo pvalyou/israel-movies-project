@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>אנשי קולנוע בישראל — עיתונאים, מבקרים וסגל אקדמי</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: #2e3350;
+      --accent1: #6c8ef5;
+      --accent2: #f5a623;
+      --accent3: #4ecdc4;
+      --text: #e8eaf6;
+      --text-muted: #8892b0;
+      --badge-press: #1e3a5f;
+      --badge-press-text: #7eb8f7;
+      --badge-acad: #1a3a2a;
+      --badge-acad-text: #5fba7d;
+      --tag-bg: #252940;
+      --tag-text: #a8b4d8;
+      --shadow: 0 4px 24px rgba(0,0,0,0.4);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', 'Arial', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 2rem 1rem 4rem;
+    }
+
+    /* ── Header ── */
+    header {
+      max-width: 1200px;
+      margin: 0 auto 2.5rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: clamp(1.6rem, 4vw, 2.6rem);
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, var(--accent1) 0%, var(--accent3) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.5rem;
+    }
+    header p.subtitle {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    /* ── Stats bar ── */
+    .stats {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+    }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 0.75rem 1.5rem;
+      text-align: center;
+      min-width: 130px;
+    }
+    .stat-card .num {
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--accent1);
+      line-height: 1;
+    }
+    .stat-card .label {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-top: 0.2rem;
+    }
+
+    /* ── Controls ── */
+    .controls {
+      max-width: 1200px;
+      margin: 0 auto 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+    }
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 200px;
+    }
+    .search-wrap input {
+      width: 100%;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.6rem 1rem 0.6rem 2.5rem;
+      color: var(--text);
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s;
+      direction: rtl;
+    }
+    .search-wrap input:focus { border-color: var(--accent1); }
+    .search-wrap .icon {
+      position: absolute;
+      left: 0.8rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+    .filter-btns { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 0.45rem 1rem;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .filter-btn:hover { border-color: var(--accent1); color: var(--text); }
+    .filter-btn.active {
+      background: var(--accent1);
+      border-color: var(--accent1);
+      color: #fff;
+    }
+    .count-badge {
+      display: inline-block;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      border-radius: 10px;
+      padding: 0.1rem 0.5rem;
+      font-size: 0.75rem;
+      margin-right: 0.3rem; /* RTL: visually left */
+    }
+
+    /* ── Section heading ── */
+    .section-heading {
+      max-width: 1200px;
+      margin: 2.5rem auto 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .section-heading h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .section-heading .pill {
+      font-size: 0.75rem;
+      padding: 0.2rem 0.65rem;
+      border-radius: 20px;
+      font-weight: 600;
+    }
+    .pill-press { background: var(--badge-press); color: var(--badge-press-text); }
+    .pill-acad  { background: var(--badge-acad);  color: var(--badge-acad-text); }
+    .section-divider {
+      max-width: 1200px;
+      margin: 0 auto 1.2rem;
+      border: none;
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── Institution group label ── */
+    .inst-label {
+      max-width: 1200px;
+      margin: 1.5rem auto 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      color: var(--accent2);
+      font-size: 0.88rem;
+      font-weight: 600;
+    }
+    .inst-label::before {
+      content: '';
+      display: inline-block;
+      width: 3px;
+      height: 1.1em;
+      background: var(--accent2);
+      border-radius: 2px;
+    }
+
+    /* ── Table ── */
+    .table-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    thead tr { background: var(--surface2); }
+    thead th {
+      padding: 0.8rem 1rem;
+      text-align: right;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+    }
+    thead th:hover { color: var(--text); }
+    thead th .sort-icon { margin-right: 4px; opacity: 0.4; font-size: 0.7rem; }
+    thead th.sorted .sort-icon { opacity: 1; color: var(--accent1); }
+
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+    }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--surface2); }
+    tbody td {
+      padding: 0.75rem 1rem;
+      vertical-align: middle;
+    }
+
+    .td-name { font-weight: 600; color: var(--text); }
+    .td-role { color: var(--text-muted); font-size: 0.88rem; }
+    .td-where { font-size: 0.88rem; }
+
+    .badge {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.15rem 0.5rem;
+      border-radius: 6px;
+      letter-spacing: 0.03em;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+    }
+    .badge-press { background: var(--badge-press); color: var(--badge-press-text); }
+    .badge-acad  { background: var(--badge-acad);  color: var(--badge-acad-text); }
+
+    .where-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+    .tag {
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      padding: 0.15rem 0.55rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+    }
+    .td-src { white-space: nowrap; }
+    .src-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--tag-bg);
+      color: var(--accent1);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.15rem 0.5rem;
+      font-size: 0.75rem;
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+    }
+    .src-link:hover { background: var(--accent1); color: #fff; }
+
+    /* Hidden rows */
+    tr.hidden { display: none; }
+
+    /* ── No results ── */
+    .no-results {
+      max-width: 1200px;
+      margin: 2rem auto;
+      text-align: center;
+      color: var(--text-muted);
+      display: none;
+    }
+
+    /* ── Footer ── */
+    footer {
+      max-width: 1200px;
+      margin: 3rem auto 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1.5rem;
+    }
+
+    @media (max-width: 640px) {
+      .stats { gap: 0.75rem; }
+      .stat-card { min-width: 100px; padding: 0.6rem 1rem; }
+      .stat-card .num { font-size: 1.5rem; }
+      table { font-size: 0.82rem; }
+      tbody td { padding: 0.6rem 0.7rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>אנשי קולנוע בישראל</h1>
+  <p class="subtitle">עיתונאים, מבקרי קולנוע, פודקאסטרים וסגל אקדמי — רשימה עדכנית 2025–2026</p>
+</header>
+
+<div class="stats">
+  <div class="stat-card">
+    <div class="num" id="stat-total">—</div>
+    <div class="label">סה"כ אנשים</div>
+  </div>
+  <div class="stat-card">
+    <div class="num" id="stat-press" style="color:var(--badge-press-text)">—</div>
+    <div class="label">עיתונאים ומבקרים</div>
+  </div>
+  <div class="stat-card">
+    <div class="num" id="stat-acad" style="color:var(--badge-acad-text)">—</div>
+    <div class="label">סגל אקדמי</div>
+  </div>
+  <div class="stat-card">
+    <div class="num" id="stat-inst" style="color:var(--accent2)">—</div>
+    <div class="label">מוסדות</div>
+  </div>
+</div>
+
+<div class="controls">
+  <div class="search-wrap">
+    <span class="icon">🔍</span>
+    <input type="text" id="searchInput" placeholder="חיפוש לפי שם, תפקיד או מוסד…" oninput="filterTable()">
+  </div>
+  <div class="filter-btns">
+    <button class="filter-btn active" onclick="setFilter('all', this)">הכל <span class="count-badge" id="cnt-all"></span></button>
+    <button class="filter-btn" onclick="setFilter('עיתונאים ומבקרים', this)">עיתונאים ומבקרים <span class="count-badge" id="cnt-press"></span></button>
+    <button class="filter-btn" onclick="setFilter('סגל אקדמי', this)">סגל אקדמי <span class="count-badge" id="cnt-acad"></span></button>
+  </div>
+</div>
+
+<div class="no-results" id="noResults">לא נמצאו תוצאות לחיפוש זה.</div>
+
+<div id="mainContent"></div>
+
+<footer>
+  נאסף ונוצר 2026 · מחקר עומק בעברית ובאנגלית · הרשימה חלקית — ייתכנו השמטות
+</footer>
+
+<script>
+const people = [
+  // ── עיתונאים ומבקרים ──
+  { cat:"עיתונאים ומבקרים", name:"יאיר רוה",       role:"מבקר קולנוע ובלוגר",          where:"Cinemascope · Mako · רדיו KZ" },
+  { cat:"עיתונאים ומבקרים", name:"שמוליק דובדבני",  role:"מבקר קולנוע",                  where:"ynet" },
+  { cat:"עיתונאים ומבקרים", name:"יעל שוב",         role:"מבקרת קולנוע",                 where:"Time Out Tel Aviv" },
+  { cat:"עיתונאים ומבקרים", name:"פבלו אוטין",       role:"מבקר קולנוע",                  where:"ישראל היום · Srita.net · כתב העת הסינמטק" },
+  { cat:"עיתונאים ומבקרים", name:"אבנר שביט",        role:"מבקר קולנוע ופודקאסטר",       where:"וואלה תרבות · סינמה סבבה" },
+  { cat:"עיתונאים ומבקרים", name:"ישי קיצ'לס",       role:"מבקר קולנוע ופודקאסטר",       where:"ישראל היום · סינמה סבבה" },
+  { cat:"עיתונאים ומבקרים", name:"נחמן אינגבר",      role:"מבקר קולנוע",                  where:"ידיעות אחרונות · ישראל היום" },
+  { cat:"עיתונאים ומבקרים", name:"נסים דיין",        role:"מבקר קולנוע",                  where:"גלובס · גלי צה\"ל" },
+  { cat:"עיתונאים ומבקרים", name:"דורון פישלר",      role:"מבקר קולנוע",                  where:"וואלה תרבות · Time Out · עין הדג" },
+  { cat:"עיתונאים ומבקרים", name:"אהרון קשלס",       role:"מבקר קולנוע",                  where:"ynet · גלובס" },
+  { cat:"עיתונאים ומבקרים", name:"יהודה סתיו",       role:"מבקר קולנוע",                  where:"ידיעות אחרונות" },
+  { cat:"עיתונאים ומבקרים", name:"אמיר קמינר",       role:"מבקר קולנוע",                  where:"פנאי פלוס · ידיעות אחרונות" },
+  { cat:"עיתונאים ומבקרים", name:"חיים קינן",        role:"מבקר קולנוע",                  where:"קול ישראל רשת ב'" },
+  { cat:"עיתונאים ומבקרים", name:"נחום מוכיח",       role:"מבקר קולנוע",                  where:"מגזין את · פנאי פלוס · מעריב" },
+  { cat:"עיתונאים ומבקרים", name:"דבורית שרגל",      role:"מבקרת קולנוע ובלוגרית",       where:"מעריב (לשעבר) · מדיה עצמאית" },
+  { cat:"עיתונאים ומבקרים", name:"רותם דנון",        role:"מבקרת קולנוע",                 where:"וואלה תרבות ובידור" },
+  { cat:"עיתונאים ומבקרים", name:"מאיר שניצר",       role:"מבקר קולנוע ותיק",             where:"מעריב 1993–2021 · הארץ · קול ישראל" },
+  { cat:"עיתונאים ומבקרים", name:"יאיר הוכנר",       role:"מבקר קולנוע",                  where:"Seret.co.il" },
+  { cat:"עיתונאים ומבקרים", name:"רון פוגל",         role:"מבקר קולנוע בכיר",             where:"Seret.co.il · פורטל 1909" },
+  { cat:"עיתונאים ומבקרים", name:"ארז דבורה",        role:"מבקר קולנוע",                  where:"ynet" },
+  { cat:"עיתונאים ומבקרים", name:"נטע אלכסנדר",      role:"מבקרת קולנוע",                 where:"הארץ — בלוג התפוח המכני" },
+  { cat:"עיתונאים ומבקרים", name:"מרלין וניג",        role:"מבקרת קולנוע",                 where:"Salona · עיתון נשים" },
+  { cat:"עיתונאים ומבקרים", name:"אורי קליין",        role:"מבקר קולנוע ותיק",             where:"הארץ (1987–2022)" },
+  { cat:"עיתונאים ומבקרים", name:"יגאל בורשטיין",    role:"מבקר קולנוע",                  where:"עיר (לשעבר)" },
+  { cat:"עיתונאים ומבקרים", name:"גידי אורשר",       role:"מבקר קולנוע",                  where:"גלי צה\"ל" },
+  { cat:"עיתונאים ומבקרים", name:"שרית ילוב",        role:"מבקרת קולנוע",                 where:"גלובס" },
+  { cat:"עיתונאים ומבקרים", name:"מתן שיראן",        role:"מבקר קולנוע",                  where:"גלובס" },
+  { cat:"עיתונאים ומבקרים", name:"ידית אוריין",      role:"מבקרת קולנוע",                 where:"לאישה · ידיעות אחרונות" },
+  { cat:"עיתונאים ומבקרים", name:"ריטה קורן",        role:"מבקרת קולנוע",                 where:"קול ישראל" },
+  { cat:"עיתונאים ומבקרים", name:"דוד שליט",         role:"מבקר קולנוע",                  where:"מוניט · גלובס · הארץ · מעריב" },
+  { cat:"עיתונאים ומבקרים", name:"חנה בראון",        role:"מבקרת קולנוע",                 where:"Jerusalem Post" },
+  { cat:"עיתונאים ומבקרים", name:"איריס לקנר",       role:"מבקרת קולנוע",                 where:"iWomen · רדיו · טלוויזיה" },
+  { cat:"עיתונאים ומבקרים", name:"אריאל שוייצר",     role:"מבקר קולנוע",                  where:"עיתונות ועצמאי" },
+  { cat:"עיתונאים ומבקרים", name:"יוסף שריק",        role:"מבקר קולנוע",                  where:"הארץ" },
+  { cat:"עיתונאים ומבקרים", name:"עירית שמגר",       role:"מבקרת קולנוע",                 where:"מעריב" },
+  { cat:"עיתונאים ומבקרים", name:"אלעד שילו",        role:"מבקר ועורך קולנוע",            where:"Seret.co.il" },
+  { cat:"עיתונאים ומבקרים", name:"חנן רוזנברג",      role:"מבקר קולנוע",                  where:"Seret.co.il" },
+  { cat:"עיתונאים ומבקרים", name:"עומר אלגיא",       role:"מבקר קולנוע",                  where:"Seret.co.il" },
+  { cat:"עיתונאים ומבקרים", name:"גיא וילנר",        role:"מבקר קולנוע",                  where:"Seret.co.il" },
+  { cat:"עיתונאים ומבקרים", name:"דני ורט",          role:"מבקר קולנוע",                  where:"על המשמר · עיר · כתב העת הסינמטק" },
+  { cat:"עיתונאים ומבקרים", name:"זאב רב-נוף",       role:"מבקר קולנוע",                  where:"דבר · קול ישראל" },
+  { cat:"עיתונאים ומבקרים", name:"אביר גוסן",        role:"מבקרת קולנוע",                 where:"ynet · N12" },
+  { cat:"עיתונאים ומבקרים", name:"אורי כהן",         role:"מבקר תרבות ובידור",            where:"mako" },
+  { cat:"עיתונאים ומבקרים", name:"אבישי סלאמה",      role:"פודקאסטר",                     where:"נושמים קולנוע" },
+  { cat:"עיתונאים ומבקרים", name:"אברי רוזן צבי",    role:"פודקאסטר",                     where:"סרטים זה אנחנו" },
+  { cat:"עיתונאים ומבקרים", name:"רוני זאבו",         role:"פודקאסטר",                     where:"סרטים זה אנחנו" },
+  { cat:"עיתונאים ומבקרים", name:"עודד גרובר",       role:"פודקאסטר",                     where:"סרטים זה אנחנו" },
+  { cat:"עיתונאים ומבקרים", name:"רותם יפעת",        role:"פודקאסטר",                     where:"סרטים זה אנחנו" },
+  { cat:"עיתונאים ומבקרים", name:"לירון סיני",       role:"פודקאסטר",                     where:"סרטים זה אנחנו" },
+
+  // ── TAU ──
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר בועז הגין",        role:"ראש בית הספר",                      where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' מיכל אביעד",      role:"פרופסור אמריטוס — קולנוע תיעודי",  where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' אילן אביסר",      role:"פרופסור אמריטוס — תיאוריה ושואה",  where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' יגאל בורשטיין",   role:"פרופסור אמריטוס — ביקורת ותיאוריה",where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' ניצן בן-שאול",    role:"פרופסור אמריטוס — נרטיב וקולנוע",  where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' שבתאי גביזון",    role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' ירון בלוך",       role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר שמואל דובדבני",    role:"סגל בכיר — תיאוריה וביקורת",       where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"מיה דרייפוס",           role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"מישל וינק",             role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' רן טל",           role:"סגל בכיר — קולנוע תיעודי",          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' ראז יוסף",        role:"סגל בכיר — תיאוריה וקולנוע קווירי", where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר יעל לוי",          role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר עידו לוויט",       role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר אורי לוין",        role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר אוהד לנדסמן",      role:"סגל בכיר — לימודי דוקומנטרי",       where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"פרופ' אסף ציפור",       role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"תופיק עגבריה",          role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"אהוד בן-אריה",          role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"אסתר נמדר-תמם",         role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"יוסף פיצ'דז'",          role:"סגל בכיר",                          where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ארנון גולדפינגר",        role:"מרצה — קולנוע תיעודי",              where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"דוד אופק",              role:"מרצה — קולנוע תיעודי",              where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר פבלו אוטין",       role:"מרצה",                              where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ארז דבורה",             role:"מרצה",                              where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"סיגלית בנאי",           role:"מרצה",                              where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"ד\"ר שי בידרמן",        role:"מרצה חיצוני",                      where:"אוניברסיטת תל אביב" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת תל אביב — בית הספר לקולנוע וטלוויזיה", name:"תליה גלון",             role:"מרצה",                              where:"אוניברסיטת תל אביב" },
+
+  // ── Haifa ──
+  { cat:"סגל אקדמי", inst:"אוניברסיטת חיפה — המחלקה לתרבות הקולנוע", name:"פרופ' איוון קוזלובסקי-גולן", role:"ראשת המחלקה — שואה וקולנוע",          where:"אוניברסיטת חיפה" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת חיפה — המחלקה לתרבות הקולנוע", name:"פרופ' אורי רשף",            role:"סגל בכיר",                              where:"אוניברסיטת חיפה" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת חיפה — המחלקה לתרבות הקולנוע", name:"ד\"ר אירית פרוכטר-רונן",    role:"מרצה — קולנוע ישראלי ומזרח-תיכוני",   where:"אוניברסיטת חיפה" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת חיפה — המחלקה לתרבות הקולנוע", name:"ד\"ר אורנה רביב",           role:"מרצה — תיאוריה ופוסט-הומניזם",         where:"אוניברסיטת חיפה" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת חיפה — המחלקה לתרבות הקולנוע", name:"ד\"ר איציק רוזן",           role:"מרצה",                                  where:"אוניברסיטת חיפה" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת חיפה — המחלקה לתרבות הקולנוע", name:"ד\"ר שולמית לר-אהרוני",     role:"מרצה",                                  where:"אוניברסיטת חיפה" },
+
+  // ── Sapir ──
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"ד\"ר אירית זקי",          role:"ראשת תוכנית MA — קולנוע תיעודי",       where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"רונן מחליס-בלזם",         role:"ראש תוכנית BA קולנוע",                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"פרופ' פיליפ בלייש",       role:"מרצה בכיר",                             where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"פרופ' אורי סיון",         role:"מרצה בכיר — קולנוענות",                 where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"פרופ' דורון צברי",        role:"מרצה בכיר",                             where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"שלומי אלקבץ",            role:"מרצה בכיר — בימוי",                     where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"ד\"ר דפנה שרינג",        role:"מרצה בכיר",                             where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"ד\"ר ארז פרי",           role:"מרצה בכיר",                             where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"ד\"ר יעל שנקר",          role:"מרצה בכיר",                             where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"אפרת כורם",              role:"מרצה בכיר",                             where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"ד\"ר מכאביט אברמזון",    role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"רנה אבו-פריחה",          role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"רובי אלמליח",            role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"נטי בתיטו",              role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"לב גולצר",               role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"יאל הדיה",               role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"אביב זיו",               role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"נהר אביגיל חסין",        role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"עפיר טריינין",           role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"גלית כהלון",             role:"מרצה חיצוני",                           where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"יוני לחב",               role:"מרצה חיצוני",                           where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"אבירם לוי",              role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"אלינור נחמיה",           role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"עומרי סנה",              role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"שפיר סרוסי",             role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"מיקי פולונסקי",          role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"דמיאן קיטייגרודסקי",    role:"מרצה",                                  where:"מכללת ספיר" },
+  { cat:"סגל אקדמי", inst:"מכללת ספיר — המחלקה לאמנויות הקול והמסך", name:"בועז שמעון-ליאון",       role:"מרצה",                                  where:"מכללת ספיר" },
+
+  // ── Bezalel ──
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"יעל עוז-סיני",          role:"ראשת המחלקה — בימוי אנימציה",    where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אסיה אייזנשטיין",        role:"מרצה — אנימציה קלאסית",          where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"איתמר אלקלעי",           role:"מרצה — בימוי סרטי קצר",          where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אסף אשרי",               role:"מרצה — תסריטאות",               where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"שרון בלבן",              role:"מרצה — וידאו ארט",               where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"תמי ברנשטיין",           role:"מרצה — בימוי אנימציה",           where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"ניר ברגר",               role:"מרצה — כתיבה דרמטית",            where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אפרת ברגר",              role:"מרצה — עריכה קולנועית",          where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"נועא ברמן-הרצברג",       role:"מרצה — תסריטאות ופיתוח",         where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אייל גולדברג",           role:"מרצה — קולנוע תיעודי",           where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אראן היללי",             role:"מרצה — אנימציה ניסיונית",        where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"וורוניק אינבר",          role:"מרצה — עריכה ואמנות וידאו",      where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"תל קנטור",               role:"מרצה — אנימציה וקולנוע היברידי", where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אמית לאור",              role:"מרצה — בימוי ותסריטאות",         where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"פרופ' יאיר לב",          role:"מרצה — בימוי תיעודי",            where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"שטב לוי",                role:"מרצה — עיצוב דמויות וstoryboard",where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"קראם נאטור",             role:"מרצה — וידאו ארט ניסיוני",       where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"יארה עוזרי",             role:"מרצה — ניתוח קולנועי",           where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"רות פטיר",               role:"מרצה — וידאו ארט ניסיוני",       where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"ישראלה שאר",             role:"מרצה — דוקומנטרי וידאו",         where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אפרת שלם",               role:"מרצה — וידאו ארט",               where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"אוהד מילשטיין",          role:"מרצה — קולנוע תיעודי",           where:"בצלאל" },
+  { cat:"סגל אקדמי", inst:"בצלאל — מחלקת אמנויות המסך", name:"מורן סומר",              role:"מרצה — stop motion ואנימציה",    where:"בצלאל" },
+
+  // ── Sam Spiegel ──
+  { cat:"סגל אקדמי", inst:"בית הספר סם שפיגל, ירושלים", name:"דנה בלנקשטיין כהן",  role:"מנהלת בית הספר",                         where:"סם שפיגל" },
+  { cat:"סגל אקדמי", inst:"בית הספר סם שפיגל, ירושלים", name:"שיר שושני",           role:"סגן מנהל — ראש מחלקת קולנוע וטלוויזיה", where:"סם שפיגל" },
+  { cat:"סגל אקדמי", inst:"בית הספר סם שפיגל, ירושלים", name:"רנן שור",             role:"מייסד ומנהל לשעבר — חוקר וסופר",         where:"סם שפיגל" },
+
+  // ── Maale ──
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"עמרי לוי",         role:"מנהל אקדמי — בימוי ותסריטאות", where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"יאיר רוה",         role:"מרצה — ביקורת קולנוע",         where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"ציון ארבל",        role:"מרצה — בימוי",                 where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"שוקי בן-נאים",     role:"מרצה — יצירת סדרות",           where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"איציק פורטל",      role:"מרצה — קולנוענות",             where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"גולן ריז",         role:"מרצה — בימוי תיעודי",          where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"דקלה קידר",        role:"מרצה — תסריטאות",              where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"לינה שפלין",       role:"מרצה — דוקומנטרי וסדרות",     where:"מעלה" },
+  { cat:"סגל אקדמי", inst:"בית הספר מעלה לקולנוע, ירושלים", name:"ד\"ר זוהר אלטמן", role:"מרצה",                         where:"מעלה" },
+
+  // ── Seminar Kibbutzim ──
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"מיטל אבוקסיס",          role:"ראשת בית הספר — חוקרת ובמאית", where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"פרופ' אבנר פינגלרט",    role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"ד\"ר אורית נומא",        role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"ד\"ר אלה באואר-ברמן",    role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"דקלה שטרית",            role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"ד\"ר ליאת סבין בן-שושן", role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"ד\"ר מאיה פנינה מאיר",   role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"ד\"ר שגית דינר-כהן",     role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"ד\"ר שרון אשכנזי",       role:"סגל",                           where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"גידי אורשר",            role:"מרצה — שידור",                  where:"סמינר הקיבוצים" },
+  { cat:"סגל אקדמי", inst:"סמינר הקיבוצים — בית הספר לתקשורת וקולנוע", name:"אריק לופצקי",           role:"מרצה — בימוי",                  where:"סמינר הקיבוצים" },
+
+  // ── Hebrew U ──
+  { cat:"סגל אקדמי", inst:"האוניברסיטה העברית — מחלקה לתקשורת ועיתונאות", name:"פרופ' רעיה מורג", role:"ראשת מסלול מדיה חזותית — לימודי קולנוע", where:"האוניברסיטה העברית" },
+
+  // ── BGU ──
+  { cat:"סגל אקדמי", inst:"אוניברסיטת בן גוריון — המחלקה לתקשורת", name:"פרופ' דן כספי",   role:"סגל בכיר — לימודי מדיה",   where:"אוניברסיטת בן גוריון" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת בן גוריון — המחלקה לתקשורת", name:"ד\"ר נלי אליאס",  role:"מרצה — מדיה ומיעוטים",     where:"אוניברסיטת בן גוריון" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת בן גוריון — המחלקה לתקשורת", name:"ד\"ר תמר אשורי",  role:"מרצה — דוקומנטרי ומדיה",  where:"אוניברסיטת בן גוריון" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת בן גוריון — המחלקה לתקשורת", name:"ד\"ר צבי רייך",   role:"מרצה",                     where:"אוניברסיטת בן גוריון" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת בן גוריון — המחלקה לתקשורת", name:"ד\"ר גלית נמרוד", role:"מרצה",                     where:"אוניברסיטת בן גוריון" },
+
+  // ── Reichman ──
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' קארין נהון",              role:"דקאן",                       where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' הדס ארל",                role:"סגן דקאן",                   where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' נועם למלשטריך לטר",      role:"דקאן מייסד אמריטוס",         where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' טל שמואל-עזרן",          role:"תקשורת בינלאומית",           where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' גדי וולספלד",            role:"מדיה ופוליטיקה",             where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' מורן ירחי",              role:"דיפלומטיה ציבורית ומדיה",   where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' צחי הייאת",             role:"מידע ומדיה",                 where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' קרן אייל",              role:"תקשורת אסטרטגית",           where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' יאיר גלילי",            role:"ספורט מדיה וחברה",           where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' גבריאל וויימן",         role:"לימודי מדיה",                where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' איתן גילבואה",          role:"מדיה ודיפלומטיה",           where:"אוניברסיטת רייכמן" },
+  { cat:"סגל אקדמי", inst:"אוניברסיטת רייכמן — בית הספר לתקשורת סמי עופר", name:"פרופ' דורון פרידמן",          role:"מציאות מורחבת ומדיה",       where:"אוניברסיטת רייכמן" },
+];
+
+// ── Build stats ──
+const total = people.length;
+const pressCount = people.filter(p => p.cat === "עיתונאים ומבקרים").length;
+const acadCount  = people.filter(p => p.cat === "סגל אקדמי").length;
+const institutions = [...new Set(people.filter(p => p.inst).map(p => p.where))].length;
+
+document.getElementById('stat-total').textContent = total;
+document.getElementById('stat-press').textContent = pressCount;
+document.getElementById('stat-acad').textContent  = acadCount;
+document.getElementById('stat-inst').textContent  = institutions;
+document.getElementById('cnt-all').textContent    = total;
+document.getElementById('cnt-press').textContent  = pressCount;
+document.getElementById('cnt-acad').textContent   = acadCount;
+
+// ── State ──
+let activeFilter = 'all';
+
+function setFilter(f, btn) {
+  activeFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  filterTable();
+}
+
+function filterTable() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  const rows = document.querySelectorAll('tbody tr[data-idx]');
+  let visible = 0;
+  rows.forEach(row => {
+    const idx = parseInt(row.dataset.idx);
+    const p   = people[idx];
+    const matchCat = activeFilter === 'all' || p.cat === activeFilter;
+    const matchQ   = !q || [p.name, p.role, p.where, p.inst||''].join(' ').toLowerCase().includes(q);
+    if (matchCat && matchQ) { row.classList.remove('hidden'); visible++; }
+    else                     row.classList.add('hidden');
+  });
+
+  // section headings
+  document.querySelectorAll('.section-heading, .section-divider, .inst-label, .table-wrap').forEach(el => {
+    el.classList.remove('hidden');
+  });
+  // hide empty section groups
+  document.querySelectorAll('.inst-block').forEach(block => {
+    const anyVisible = [...block.querySelectorAll('tbody tr[data-idx]')].some(r => !r.classList.contains('hidden'));
+    block.style.display = anyVisible ? '' : 'none';
+  });
+  document.querySelectorAll('.cat-section').forEach(sec => {
+    const anyVisible = [...sec.querySelectorAll('tbody tr[data-idx]')].some(r => !r.classList.contains('hidden'));
+    sec.style.display = anyVisible ? '' : 'none';
+  });
+
+  document.getElementById('noResults').style.display = visible === 0 ? 'block' : 'none';
+}
+
+// ── Render ──
+function render() {
+  const container = document.getElementById('mainContent');
+
+  // Section 1: Press
+  const pressSection = document.createElement('div');
+  pressSection.className = 'cat-section';
+
+  const ph = document.createElement('div');
+  ph.className = 'section-heading';
+  ph.innerHTML = '<h2>עיתונאים, מבקרים ופודקאסטרים</h2><span class="pill pill-press">קטגוריה 1</span>';
+  pressSection.appendChild(ph);
+
+  const phr = document.createElement('hr');
+  phr.className = 'section-divider';
+  pressSection.appendChild(phr);
+
+  const pressBlock = document.createElement('div');
+  pressBlock.className = 'inst-block table-wrap';
+  const pt = buildTable(people.filter(p => p.cat === "עיתונאים ומבקרים"), "עיתונאים ומבקרים");
+  pressBlock.appendChild(pt);
+  pressSection.appendChild(pressBlock);
+  container.appendChild(pressSection);
+
+  // Section 2: Academia
+  const acadSection = document.createElement('div');
+  acadSection.className = 'cat-section';
+
+  const ah = document.createElement('div');
+  ah.className = 'section-heading';
+  ah.innerHTML = '<h2>סגל אקדמי — מוסדות הוראה</h2><span class="pill pill-acad">קטגוריה 2</span>';
+  acadSection.appendChild(ah);
+
+  const ahr = document.createElement('hr');
+  ahr.className = 'section-divider';
+  acadSection.appendChild(ahr);
+
+  // Group by institution
+  const acadPeople = people.filter(p => p.cat === "סגל אקדמי");
+  const instMap = {};
+  acadPeople.forEach(p => {
+    const k = p.inst || p.where;
+    if (!instMap[k]) instMap[k] = [];
+    instMap[k].push(p);
+  });
+
+  Object.entries(instMap).forEach(([inst, group]) => {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'inst-block';
+
+    const lbl = document.createElement('div');
+    lbl.className = 'inst-label';
+    lbl.textContent = inst;
+    wrapper.appendChild(lbl);
+
+    const tw = document.createElement('div');
+    tw.className = 'table-wrap';
+    tw.appendChild(buildTable(group, "סגל אקדמי"));
+    wrapper.appendChild(tw);
+    acadSection.appendChild(wrapper);
+  });
+
+  container.appendChild(acadSection);
+}
+
+function buildTable(rows, cat) {
+  const table = document.createElement('table');
+  const thead = document.createElement('thead');
+  thead.innerHTML = `<tr>
+    <th>שם</th>
+    <th>תפקיד</th>
+    <th>איפה</th>
+    <th>מקור</th>
+  </tr>`;
+  table.appendChild(thead);
+
+  const tbody = document.createElement('tbody');
+  rows.forEach(p => {
+    const globalIdx = people.indexOf(p);
+    const tr = document.createElement('tr');
+    tr.dataset.idx = globalIdx;
+    const badgeCls = cat === "עיתונאים ומבקרים" ? 'badge-press' : 'badge-acad';
+    const whereTags = p.where.split('·').map(w =>
+      `<span class="tag">${w.trim()}</span>`
+    ).join('');
+    const srcUrl  = getSource(p);
+    const srcHtml = srcUrl
+      ? `<a href="${srcUrl}" target="_blank" rel="noopener" class="src-link">↗ מקור</a>`
+      : '<span style="color:var(--text-muted)">—</span>';
+    tr.innerHTML = `
+      <td class="td-name">${p.name}</td>
+      <td class="td-role">${p.role}</td>
+      <td class="td-where"><div class="where-tags">${whereTags}</div></td>
+      <td class="td-src">${srcHtml}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  return table;
+}
+
+const ACAD_SOURCES = {
+  "אוניברסיטת תל אביב":   "https://arts.tau.ac.il/filmTV/stf",
+  "אוניברסיטת חיפה":      "https://arts.haifa.ac.il/units/film/staff/",
+  "מכללת ספיר":            "https://www.sapir.ac.il/staff/dep/529",
+  "בצלאל":                 "https://www.bezalel.ac.il/en/node/179",
+  "אוניברסיטת רייכמן":    "https://www.runi.ac.il/schools/communication/faculty",
+  "מעלה":                  "https://www.maale.co.il/he/about/teachers",
+  "סמינר הקיבוצים":        "https://www.smkb.ac.il/academic-programs/undergraduate/arts-faculty/media-film/about/faculty/",
+  "סם שפיגל":              "https://www.jsfs.co.il/about",
+  "האוניברסיטה העברית":   "https://communication.huji.ac.il/",
+  "אוניברסיטת בן גוריון": "https://in.bgu.ac.il/humsos/comm/",
+};
+
+const PRESS_SOURCES = {
+  "יאיר רוה":        "https://cinemascope.co.il/",
+  "מאיר שניצר":      "https://he.wikipedia.org/wiki/מאיר_שניצר_(מבקר_קולנוע)",
+  "אורי קליין":      "https://he.wikipedia.org/wiki/אורי_קליין_(מבקר_קולנוע)",
+  "שמוליק דובדבני":  "https://he.wikipedia.org/wiki/שמוליק_דובדבני",
+  "יאיר הוכנר":      "https://www.seret.co.il/critics/seretcriticstable.asp",
+  "רון פוגל":        "https://www.seret.co.il/critics/seretcriticstable.asp",
+  "אלעד שילו":       "https://www.seret.co.il/critics/seretcriticstable.asp",
+  "חנן רוזנברג":     "https://www.seret.co.il/critics/seretcriticstable.asp",
+  "עומר אלגיא":      "https://www.seret.co.il/critics/seretcriticstable.asp",
+  "גיא וילנר":       "https://www.seret.co.il/critics/seretcriticstable.asp",
+  "אבישי סלאמה":     "https://noshmimkolnoa.podbean.com/",
+  "אברי רוזן צבי":   "https://movies.podcastsareus.com/",
+  "רוני זאבו":       "https://movies.podcastsareus.com/",
+  "עודד גרובר":      "https://movies.podcastsareus.com/",
+  "רותם יפעת":       "https://movies.podcastsareus.com/",
+  "לירון סיני":      "https://movies.podcastsareus.com/",
+  "אבנר שביט":       "https://cinema-sababa.podbean.com/",
+  "ישי קיצ'לס":      "https://cinema-sababa.podbean.com/",
+};
+const DEFAULT_PRESS = "https://uri.mitkadem.co.il/films/film.critics.israel.html";
+
+function getSource(p) {
+  if (p.cat === "סגל אקדמי") return ACAD_SOURCES[p.where] || null;
+  return PRESS_SOURCES[p.name] || DEFAULT_PRESS;
+}
+
+render();
+</script>
+</body>
+</html>

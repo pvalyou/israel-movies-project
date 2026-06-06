@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אורסולימום/",
+  "stable_id": "nfct__blog-movies__55633e6d",
+  "fetched_at": "2026-05-09T17:23:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:23:09Z",
+  "duration_ms": 51530,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c03021c41d7183ee9c62bd4de080ba1264507fa644750bbbbb26f759a1154a8",
+  "md_bytes": 20410,
+  "links_found": 44,
+  "files_found": 0
+}

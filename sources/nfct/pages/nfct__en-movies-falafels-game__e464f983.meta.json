@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/falafels-game/",
+  "stable_id": "nfct__en-movies-falafels-game__e464f983",
+  "fetched_at": "2026-05-11T07:32:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:32:45Z",
+  "duration_ms": 16518,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a44d96af57f801f9566265a7241ee51b39f03633fc57c88e303c32f0f13cdb63",
+  "md_bytes": 12235,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Holocaust%20survivors",
+  "stable_id": "nfct__en-movies-archive_keywords-Holocaust-20survivors__2ce1f72d",
+  "fetched_at": "2026-05-16T06:20:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:20:51Z",
+  "duration_ms": 8541,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bbee041ac49a18feba21f42a930877d40465664c368a591edc257bc6bfb53654",
+  "md_bytes": 15943,
+  "links_found": 82,
+  "files_found": 0
+}

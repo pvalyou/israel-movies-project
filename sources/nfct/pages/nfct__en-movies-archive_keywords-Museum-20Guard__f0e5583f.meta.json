@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Museum%20Guard",
+  "stable_id": "nfct__en-movies-archive_keywords-Museum-20Guard__f0e5583f",
+  "fetched_at": "2026-05-16T13:40:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:40:53Z",
+  "duration_ms": 10401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7424332dba53ca9d27f1fd97fc364ffb922e6c135ec6e0755860278d39988a90",
+  "md_bytes": 10271,
+  "links_found": 69,
+  "files_found": 0
+}

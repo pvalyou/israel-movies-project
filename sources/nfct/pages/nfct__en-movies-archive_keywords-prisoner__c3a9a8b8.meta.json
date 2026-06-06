@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=prisoner",
+  "stable_id": "nfct__en-movies-archive_keywords-prisoner__c3a9a8b8",
+  "fetched_at": "2026-05-16T05:58:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:58:29Z",
+  "duration_ms": 6708,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4bb3fbe3a143820b2f0557d8e1719f2a2c4a277ee520dcdd13ecd9090636d624",
+  "md_bytes": 15239,
+  "links_found": 81,
+  "files_found": 0
+}

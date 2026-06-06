@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=social%20gaps",
+  "stable_id": "nfct__en-movies-archive_keywords-social-20gaps__8bd7d1a5",
+  "fetched_at": "2026-05-16T10:47:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:47:44Z",
+  "duration_ms": 6638,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91f12ccb843e5d178e1f6f75041e6300b241797a16df0e8365b1ea873a3c5273",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

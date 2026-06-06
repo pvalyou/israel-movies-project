@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/medical-autobiography/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-medical-autobiography__65e9be06",
+  "fetched_at": "2026-05-16T14:09:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:09:54Z",
+  "duration_ms": 6593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c1dad352538c456f54214af104d7c9c47951b364935e1ed4b0c857795e324fc",
+  "md_bytes": 12933,
+  "links_found": 34,
+  "files_found": 0
+}

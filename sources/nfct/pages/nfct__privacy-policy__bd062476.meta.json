@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/privacy-policy/",
+  "stable_id": "nfct__privacy-policy__bd062476",
+  "fetched_at": "2026-05-09T15:17:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:17:57Z",
+  "duration_ms": 43938,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed254c16b751d8906ec04645df04275e105cb8be160179b4a6bd6d59d7701265",
+  "md_bytes": 28701,
+  "links_found": 19,
+  "files_found": 0
+}

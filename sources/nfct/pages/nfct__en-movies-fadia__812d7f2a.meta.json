@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fadia/",
+  "stable_id": "nfct__en-movies-fadia__812d7f2a",
+  "fetched_at": "2026-05-11T11:49:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:49:26Z",
+  "duration_ms": 27561,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:35e526003b8b8e17e401c9e507a3b39effff06c1a6cb770b25f68cfa7682ad07",
+  "md_bytes": 12311,
+  "links_found": 29,
+  "files_found": 0
+}

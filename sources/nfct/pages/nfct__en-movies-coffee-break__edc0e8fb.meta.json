@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/coffee-break/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-coffee-break__edc0e8fb",
+  "fetched_at": "2026-05-16T12:24:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:24:47Z",
+  "duration_ms": 8315,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd12a4c0f24017ef53f81f90bbaf15975338f82ba99ef4c50d860ce2b1050a65",
+  "md_bytes": 10853,
+  "links_found": 28,
+  "files_found": 0
+}

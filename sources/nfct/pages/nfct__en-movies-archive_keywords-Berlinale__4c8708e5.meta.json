@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Berlinale",
+  "stable_id": "nfct__en-movies-archive_keywords-Berlinale__4c8708e5",
+  "fetched_at": "2026-05-16T20:11:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:11:47Z",
+  "duration_ms": 8795,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:236cdb90e2ab57530dee5fd26b78d9944ef5d9a3f48cf11040b42cc19ad49b02",
+  "md_bytes": 10060,
+  "links_found": 68,
+  "files_found": 0
+}

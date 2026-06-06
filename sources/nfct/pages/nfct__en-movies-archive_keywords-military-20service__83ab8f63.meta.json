@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=military%20service",
+  "stable_id": "nfct__en-movies-archive_keywords-military-20service__83ab8f63",
+  "fetched_at": "2026-05-16T07:52:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:52:18Z",
+  "duration_ms": 8260,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c9c4523e3fce5f84b4da3d1f31904538f7949554f80341e90a25a052d4a0f7f",
+  "md_bytes": 13288,
+  "links_found": 77,
+  "files_found": 0
+}

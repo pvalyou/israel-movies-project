@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=rabbinical%20court",
+  "stable_id": "nfct__en-movies-archive_keywords-rabbinical-20court__4508f203",
+  "fetched_at": "2026-05-16T07:31:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:31:11Z",
+  "duration_ms": 5770,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:385fc18af624d4453025a23c4e5e86de20732adf851440ca28543fe56fed1bcd",
+  "md_bytes": 10062,
+  "links_found": 68,
+  "files_found": 0
+}

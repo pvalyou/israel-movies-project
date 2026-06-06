@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mental%20institution",
+  "stable_id": "nfct__en-movies-archive_keywords-mental-20institution__ea7aa515",
+  "fetched_at": "2026-05-16T20:29:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:29:14Z",
+  "duration_ms": 10185,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8c08349bda3a96c3b4effd3590fecbe193db7a4f7611426850d8a69a3309a173",
+  "md_bytes": 11374,
+  "links_found": 71,
+  "files_found": 0
+}

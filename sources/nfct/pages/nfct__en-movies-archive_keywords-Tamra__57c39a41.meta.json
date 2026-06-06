@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tamra",
+  "stable_id": "nfct__en-movies-archive_keywords-Tamra__57c39a41",
+  "fetched_at": "2026-05-16T15:47:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:47:57Z",
+  "duration_ms": 15714,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb916c03a87a4e0e0f8687985171b514c5dc0b5f75bcf8d27043abbd1723103e",
+  "md_bytes": 9785,
+  "links_found": 67,
+  "files_found": 0
+}

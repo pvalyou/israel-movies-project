@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fifty-old-dogs/",
+  "stable_id": "nfct__en-movies-fifty-old-dogs__7d337c24",
+  "fetched_at": "2026-05-11T17:35:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:35:11Z",
+  "duration_ms": 32704,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2852450ac5e03e9aec5d9f1c1f77ecc9b8779f9724992a0738bbb288784e8d2f",
+  "md_bytes": 13386,
+  "links_found": 42,
+  "files_found": 0
+}

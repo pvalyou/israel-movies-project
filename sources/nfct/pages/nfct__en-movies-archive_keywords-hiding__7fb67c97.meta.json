@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hiding",
+  "stable_id": "nfct__en-movies-archive_keywords-hiding__7fb67c97",
+  "fetched_at": "2026-05-16T08:40:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:40:56Z",
+  "duration_ms": 5978,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e93d7a6885d3830549750454590ba6eb4e4db725381e5f5f45d8e256b17b6ac3",
+  "md_bytes": 12600,
+  "links_found": 74,
+  "files_found": 0
+}

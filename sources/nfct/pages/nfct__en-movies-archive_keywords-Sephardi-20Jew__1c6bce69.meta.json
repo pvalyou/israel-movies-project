@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sephardi%20Jew",
+  "stable_id": "nfct__en-movies-archive_keywords-Sephardi-20Jew__1c6bce69",
+  "fetched_at": "2026-05-16T15:57:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:57:24Z",
+  "duration_ms": 9285,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:45590afc6b854bc4d5dde8485835fed2aa9593a2eb9ed99c0b58fcde50006073",
+  "md_bytes": 10563,
+  "links_found": 69,
+  "files_found": 0
+}

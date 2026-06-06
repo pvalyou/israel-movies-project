@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סקיצה/",
+  "stable_id": "nfct__blog-movies__3c65ab5d",
+  "fetched_at": "2026-05-09T19:16:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:16:43Z",
+  "duration_ms": 40855,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c3e66b37a29310fe3391c832e8bd5a8ac1b81ec9f86ec6260f75b0482bc14531",
+  "md_bytes": 14049,
+  "links_found": 28,
+  "files_found": 0
+}

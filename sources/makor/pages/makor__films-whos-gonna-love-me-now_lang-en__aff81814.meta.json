@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/whos-gonna-love-me-now/?lang=en",
+  "stable_id": "makor__films-whos-gonna-love-me-now_lang-en__aff81814",
+  "fetched_at": "2026-05-09T13:09:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:09:23Z",
+  "duration_ms": 12718,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f878f6eec9d4f562e2716f1a91d44a45b737496d1beccda031abc481dc8c7976",
+  "md_bytes": 2417,
+  "links_found": 4,
+  "files_found": 0
+}

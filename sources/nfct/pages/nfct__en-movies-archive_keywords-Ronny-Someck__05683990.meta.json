@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ronny+Someck",
+  "stable_id": "nfct__en-movies-archive_keywords-Ronny-Someck__05683990",
+  "fetched_at": "2026-05-16T20:35:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:35:20Z",
+  "duration_ms": 7074,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:483876a13fbfe253c8b9151d2f44721befff14f0d05ed0978e39c2a4dd9eb990",
+  "md_bytes": 10217,
+  "links_found": 68,
+  "files_found": 0
+}

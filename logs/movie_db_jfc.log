@@ -1,0 +1,24 @@
+Fetching JFC movie sitemap...
+  928 unique movie URLs
+  Resuming from checkpoint: 400 films already scraped
+  528 films to scrape
+
+  [50/528 @128/min] crew:344 cast:160
+  [100/528 @132/min] crew:394 cast:196
+  [150/528 @152/min] crew:407 cast:208
+  [200/528 @166/min] crew:415 cast:216
+  [250/528 @169/min] crew:442 cast:243
+  [300/528 @167/min] crew:474 cast:274
+Fetching JFC movie sitemap...
+  928 unique movie URLs
+  Resuming from checkpoint: 700 films already scraped
+  228 films to scrape
+
+  [50/228 @140/min] crew:524 cast:301
+  [100/228 @129/min] crew:572 cast:323
+  [150/228 @129/min] crew:614 cast:352
+  [200/228 @134/min] crew:642 cast:365
+
+Done: 658 films in 1.7 min
+  With crew: 656, with cast: 369, with description: 658
+  → data/jfc/raw_films.json

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish%20Education",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-20Education__818295d4",
+  "fetched_at": "2026-05-16T14:00:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:00:15Z",
+  "duration_ms": 7955,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:062852054635b6897eb632aabfeb85450d487c09396f15270a6fa05e909784e4",
+  "md_bytes": 11035,
+  "links_found": 70,
+  "files_found": 0
+}

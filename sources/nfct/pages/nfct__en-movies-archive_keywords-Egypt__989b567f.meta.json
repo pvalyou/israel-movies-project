@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Egypt",
+  "stable_id": "nfct__en-movies-archive_keywords-Egypt__989b567f",
+  "fetched_at": "2026-05-16T03:15:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:15:58Z",
+  "duration_ms": 6049,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c341f0ff38495014a937fdd6f742d0710874122c5c0c5a4e86b16ab67540b370",
+  "md_bytes": 14078,
+  "links_found": 78,
+  "files_found": 0
+}

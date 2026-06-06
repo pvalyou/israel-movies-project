@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/reflections/",
+  "stable_id": "nfct__en-movies-reflections__338163d5",
+  "fetched_at": "2026-05-12T00:22:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:22:54Z",
+  "duration_ms": 35901,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32f90fe4c2d9a57965a0b7ca8ffa93d16d374ec7388c5ffa4c31dfec4e2a5577",
+  "md_bytes": 12517,
+  "links_found": 33,
+  "files_found": 0
+}

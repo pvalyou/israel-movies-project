@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Austria",
+  "stable_id": "nfct__en-movies-archive_keywords-Austria__7a441626",
+  "fetched_at": "2026-05-16T03:36:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:36:02Z",
+  "duration_ms": 6396,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8137294bced39d6af0865450bf54f4f51c941cf6df3817bfd6a19c40a4132ca4",
+  "md_bytes": 10697,
+  "links_found": 70,
+  "files_found": 0
+}

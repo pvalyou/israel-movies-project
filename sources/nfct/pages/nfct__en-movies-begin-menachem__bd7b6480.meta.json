@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/begin-menachem/",
+  "stable_id": "nfct__en-movies-begin-menachem__bd7b6480",
+  "fetched_at": "2026-05-11T20:17:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:17:49Z",
+  "duration_ms": 17778,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e11440d7e1113e01c6a5fd73798772e19f1bbeaa4f327b279f4e293a5994eca6",
+  "md_bytes": 11650,
+  "links_found": 35,
+  "files_found": 0
+}

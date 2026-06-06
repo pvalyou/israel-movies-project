@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חצי-טון-ברונזה/",
+  "stable_id": "nfct__blog-movies__6b166444",
+  "fetched_at": "2026-05-09T22:14:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:14:19Z",
+  "duration_ms": 55198,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5eade8f2de0a9c39766d1c2d5d45bece7c6e2d9469c8c4eac47f6fac389f67f9",
+  "md_bytes": 19115,
+  "links_found": 44,
+  "files_found": 0
+}

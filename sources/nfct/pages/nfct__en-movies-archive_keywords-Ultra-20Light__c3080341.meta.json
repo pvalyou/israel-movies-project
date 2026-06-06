@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ultra%20Light",
+  "stable_id": "nfct__en-movies-archive_keywords-Ultra-20Light__c3080341",
+  "fetched_at": "2026-05-16T15:20:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:20:21Z",
+  "duration_ms": 7013,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b82d167823bdf9c4b133546da2bb5627b093a2f551f687b7ed7bc9269236ebc6",
+  "md_bytes": 10858,
+  "links_found": 69,
+  "files_found": 0
+}

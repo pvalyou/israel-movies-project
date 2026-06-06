@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gardening",
+  "stable_id": "nfct__en-movies-archive_keywords-Gardening__a84f5950",
+  "fetched_at": "2026-05-16T13:11:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:11:06Z",
+  "duration_ms": 10474,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bd94136958e80b466ac92cbd6018de25a2484fa80008863fb23f39bb6f5d4360",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

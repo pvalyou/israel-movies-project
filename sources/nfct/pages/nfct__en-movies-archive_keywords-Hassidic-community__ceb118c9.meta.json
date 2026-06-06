@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hassidic+community",
+  "stable_id": "nfct__en-movies-archive_keywords-Hassidic-community__ceb118c9",
+  "fetched_at": "2026-05-16T16:57:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:18Z",
+  "duration_ms": 6810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:724111c7a2974d710de72b1111c17783696995b3fffa1c31f431821656e43fc9",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

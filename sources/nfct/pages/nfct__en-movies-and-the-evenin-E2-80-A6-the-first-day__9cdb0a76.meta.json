@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/and-the-evenin%E2%80%A6-the-first-day/",
+  "stable_id": "nfct__en-movies-and-the-evenin-E2-80-A6-the-first-day__9cdb0a76",
+  "fetched_at": "2026-05-12T04:48:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:48:28Z",
+  "duration_ms": 11034,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd4e30ef7b4918abb9f39edbb1c3510fe603df1a2a82ded74fbc750b6c00dfcb",
+  "md_bytes": 6160,
+  "links_found": 17,
+  "files_found": 0
+}

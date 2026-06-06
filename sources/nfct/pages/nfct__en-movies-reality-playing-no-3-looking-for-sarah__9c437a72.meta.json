@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/reality-playing-no-3-looking-for-sarah/",
+  "stable_id": "nfct__en-movies-reality-playing-no-3-looking-for-sarah__9c437a72",
+  "fetched_at": "2026-05-12T04:33:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:33:48Z",
+  "duration_ms": 32348,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:380a433be21de101b46ed52273811e6045b418f9b99ec174ecbc215a6555dea4",
+  "md_bytes": 14452,
+  "links_found": 36,
+  "files_found": 0
+}

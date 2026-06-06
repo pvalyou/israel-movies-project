@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/im-a-pajama-iraqi/",
+  "stable_id": "nfct__en-movies-im-a-pajama-iraqi__bd77ad3c",
+  "fetched_at": "2026-05-15T15:26:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:26:56Z",
+  "duration_ms": 7296,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:affd9d6c0d7a332dcc5ce51db8083dc08bc94e230af381859e643411b8cb7214",
+  "md_bytes": 13584,
+  "links_found": 36,
+  "files_found": 0
+}

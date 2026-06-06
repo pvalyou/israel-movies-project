@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/ideas-bank/",
+  "stable_id": "nfct__ideas-bank__227ce36e",
+  "fetched_at": "2026-05-10T22:40:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T22:40:54Z",
+  "duration_ms": 39843,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98771163a119dafb59558228bd8459a7a6a47bc420d7f3d58dfcfaa5fdc0c0bd",
+  "md_bytes": 8477,
+  "links_found": 21,
+  "files_found": 0
+}

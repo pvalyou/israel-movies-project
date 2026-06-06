@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Brothers+in+Arms",
+  "stable_id": "nfct__en-movies-archive_keywords-Brothers-in-Arms__80b318f8",
+  "fetched_at": "2026-05-16T12:12:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:12:03Z",
+  "duration_ms": 8937,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f6335a9b86e879d30d1f70c9e68780cf0788a0be7b240b047dabbe07df03953b",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

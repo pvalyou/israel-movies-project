@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/through-my-eyes/",
+  "stable_id": "nfct__en-movies-through-my-eyes__0eb1dba2",
+  "fetched_at": "2026-05-11T17:26:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:26:14Z",
+  "duration_ms": 17606,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ce8e73aa5811772a872b96f813a899e98a2cd2c2d4cebe86be6454caa74b42c9",
+  "md_bytes": 11929,
+  "links_found": 29,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-עניינים-שבלב-גד-אייזן-ערוץ-8-hot-5/",
+  "stable_id": "nfct__events-event------------8-hot-5__38786099",
+  "fetched_at": "2026-05-10T09:09:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T09:09:26Z",
+  "duration_ms": 60499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc783d94c2d519f8d3c38db38ba2404da8129fd752190081ad3c58901423ffe7",
+  "md_bytes": 9627,
+  "links_found": 21,
+  "files_found": 0
+}

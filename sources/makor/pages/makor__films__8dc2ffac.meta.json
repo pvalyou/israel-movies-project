@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/גם-וריי/",
+  "stable_id": "makor__films__8dc2ffac",
+  "fetched_at": "2026-05-09T13:23:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:23:23Z",
+  "duration_ms": 9171,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d8df2102f206b7e841dcfdcb301887ee76f7d396040ed0f6043ae1be5084e43",
+  "md_bytes": 2617,
+  "links_found": 4,
+  "files_found": 0
+}

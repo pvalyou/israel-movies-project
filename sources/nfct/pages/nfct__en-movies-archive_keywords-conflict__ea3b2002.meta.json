@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conflict",
+  "stable_id": "nfct__en-movies-archive_keywords-conflict__ea3b2002",
+  "fetched_at": "2026-05-16T05:09:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:09:03Z",
+  "duration_ms": 6620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:22b91de676320a34ef0192bb0d7a8d7fbfb7f3f5e3c306b97fa4a4ce55ceda53",
+  "md_bytes": 17065,
+  "links_found": 82,
+  "files_found": 0
+}

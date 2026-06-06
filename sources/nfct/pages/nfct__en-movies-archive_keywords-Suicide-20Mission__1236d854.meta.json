@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Suicide%20Mission",
+  "stable_id": "nfct__en-movies-archive_keywords-Suicide-20Mission__1236d854",
+  "fetched_at": "2026-05-16T12:30:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:02Z",
+  "duration_ms": 8854,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:81ab72522e083eefe983f814bcf4efb9b65e30d1ca52ddd800da0be1b130655a",
+  "md_bytes": 10943,
+  "links_found": 70,
+  "files_found": 0
+}

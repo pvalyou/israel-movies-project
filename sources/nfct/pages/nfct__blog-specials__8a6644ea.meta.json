@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/פרויקט-כנפיים-לפיתוח-והפקת-סרטי-תעוד/",
+  "stable_id": "nfct__blog-specials__8a6644ea",
+  "fetched_at": "2026-05-09T17:59:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:59:27Z",
+  "duration_ms": 18082,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05a1510bcfa75cddcac55f940152c5ee53e75bda891e3be56f38dcee1fcbca68",
+  "md_bytes": 13582,
+  "links_found": 20,
+  "files_found": 0
+}

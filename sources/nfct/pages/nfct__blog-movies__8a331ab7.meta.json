@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שפה-משותפת/",
+  "stable_id": "nfct__blog-movies__8a331ab7",
+  "fetched_at": "2026-05-09T21:45:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:45:27Z",
+  "duration_ms": 7992,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65111ce6bf19bd22d306ba003c5bc37901baebbf543fe19b8989752e9a70c001",
+  "md_bytes": 15889,
+  "links_found": 35,
+  "files_found": 0
+}

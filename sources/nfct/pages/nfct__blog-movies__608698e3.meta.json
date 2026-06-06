@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הסתגלות-לאפלה/",
+  "stable_id": "nfct__blog-movies__608698e3",
+  "fetched_at": "2026-05-09T19:25:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:25:43Z",
+  "duration_ms": 16620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:734394347d41d0c0f3d1986dad93758296f2742b6fcac2df7970bb475925e921",
+  "md_bytes": 17392,
+  "links_found": 31,
+  "files_found": 0
+}

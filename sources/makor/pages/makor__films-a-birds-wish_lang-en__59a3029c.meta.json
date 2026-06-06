@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/a-birds-wish/?lang=en",
+  "stable_id": "makor__films-a-birds-wish_lang-en__59a3029c",
+  "fetched_at": "2026-05-09T12:50:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:50:12Z",
+  "duration_ms": 20597,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:083657e0fd274affb91e5170080f79719030eaa66a89e7093cf87558c4e57cbc",
+  "md_bytes": 2189,
+  "links_found": 4,
+  "files_found": 0
+}

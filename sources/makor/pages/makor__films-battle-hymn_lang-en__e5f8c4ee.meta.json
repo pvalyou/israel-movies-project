@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/battle-hymn/?lang=en",
+  "stable_id": "makor__films-battle-hymn_lang-en__e5f8c4ee",
+  "fetched_at": "2026-05-09T13:28:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:28:50Z",
+  "duration_ms": 12586,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:72fb56f6e57d6d79f6b6a9feae93d52719b468c7fbbe3271b46d26ce3caf6f21",
+  "md_bytes": 1866,
+  "links_found": 4,
+  "files_found": 0
+}

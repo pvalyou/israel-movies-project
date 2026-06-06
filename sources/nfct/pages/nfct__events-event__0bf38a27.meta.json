@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-אבן-דרך-אביב-קאופמן-פסטיבל-לונג/",
+  "stable_id": "nfct__events-event__0bf38a27",
+  "fetched_at": "2026-05-10T00:02:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:02:13Z",
+  "duration_ms": 11180,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e8180f1fa811a3f4d40ecdba05ecbc2eaed4b287b48600dd1eb2a135077e315",
+  "md_bytes": 10331,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shlomo-bar-a-musical-documentary/",
+  "stable_id": "nfct__en-movies-shlomo-bar-a-musical-documentary__aac5e2b3",
+  "fetched_at": "2026-05-11T19:47:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:47:37Z",
+  "duration_ms": 13581,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99e821252ffbe854382b9c15135d05a46dec9301668ba640daabf954a3f1a3e0",
+  "md_bytes": 15125,
+  "links_found": 43,
+  "files_found": 0
+}

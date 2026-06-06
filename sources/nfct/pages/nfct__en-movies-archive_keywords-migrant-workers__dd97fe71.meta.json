@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=migrant+workers",
+  "stable_id": "nfct__en-movies-archive_keywords-migrant-workers__dd97fe71",
+  "fetched_at": "2026-05-16T11:10:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:10:04Z",
+  "duration_ms": 6418,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f66fab13919625332210ccec66d2e5955a4402d0389c6e810cc51913803953c8",
+  "md_bytes": 11828,
+  "links_found": 71,
+  "files_found": 0
+}

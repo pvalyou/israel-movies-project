@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/presenting-princess-shaw/",
+  "stable_id": "nfct__en-movies-presenting-princess-shaw__fb72d4a9",
+  "fetched_at": "2026-05-12T01:39:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:39:08Z",
+  "duration_ms": 18086,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:316aacdf6ba9eb7b565105e58a0b3e984bbb4f2e06b55f22f866e3f0a3d7bdd6",
+  "md_bytes": 15366,
+  "links_found": 29,
+  "files_found": 0
+}

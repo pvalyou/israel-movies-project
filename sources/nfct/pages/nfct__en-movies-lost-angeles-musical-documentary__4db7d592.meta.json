@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lost-angeles-musical-documentary/",
+  "stable_id": "nfct__en-movies-lost-angeles-musical-documentary__4db7d592",
+  "fetched_at": "2026-05-15T15:26:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:26:00Z",
+  "duration_ms": 11291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d84c9e7a4ea0f6d4f6dc251992a0ab7cb845d6b8bbc7dda5f8e49cc6100f299b",
+  "md_bytes": 12639,
+  "links_found": 26,
+  "files_found": 0
+}

@@ -1,0 +1,3438 @@
+[
+  {
+    "film_id": "",
+    "title_he": "ציון ואחיו",
+    "year": null,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/name/n0003996/",
+      "https://www.edb.co.il/name/n0004247/",
+      "https://www.edb.co.il/name/n0005327/",
+      "https://www.edb.co.il/name/n0007748/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=76&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=76&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=76&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=79&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=79&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=79&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=80&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=80&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=80&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?format=feed&limitstart=&option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?format=feed&limitstart=&option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?format=feed&limitstart=&option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&tag=%D7%93%D7%A8%D7%9E%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&tag=%D7%A4%D7%A9%D7%A2&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94&Itemid=80",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94&Itemid=76",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94&Itemid=74",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94&Itemid=78",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94&format=feed&limitstart=",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%93%D7%A8%D7%9E%D7%94&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&Itemid=79",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&Itemid=80",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&Itemid=78",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&Itemid=76",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&format=feed&limitstart=",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%97%D7%91%D7%A8%D7%AA%D7%99&Itemid=74",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&Itemid=76",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&Itemid=78",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&Itemid=74",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&Itemid=80",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&format=feed&limitstart=",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%A4%D7%A9%D7%A2&Itemid=79"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "",
+    "title_he": "הזמן הוורוד",
+    "year": null,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/name/n0005327/",
+      "https://www.edb.co.il/name/n0010305/",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=227:%D7%94%D7%96%D7%9E%D7%9F-%D7%94%D7%95%D7%A8%D7%95%D7%93&Itemid=74",
+      "manual://rabinovich_cinema/funded-films/2015/page-20"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0006403",
+    "title_he": "ג'רי מגווייר",
+    "year": 1996,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%92%D7%A8%D7%99-%D7%9E%D7%92%D7%95%D7%95%D7%99%D7%99%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0013690",
+    "title_he": "אווה מריה",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%95%D7%95%D7%94-%D7%9E%D7%A8%D7%99%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014382",
+    "title_he": "אשת השגריר",
+    "year": 2016,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014382/",
+      "https://www.edb.co.il/name/n0000354/",
+      "https://kerenmakor.org.il/films/%D7%90%D7%A9%D7%AA-%D7%94%D7%A9%D7%92%D7%A8%D7%99%D7%A8/",
+      "https://kerenmakor.org.il/films/%d7%90%d7%a9%d7%aa-%d7%94%d7%a9%d7%92%d7%a8%d7%99%d7%a8/",
+      "https://kerenmakor.org.il/films/אשת-השגריר/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0013979",
+    "title_he": "בייביסיטר",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%99%D7%99%D7%91%D7%99%D7%A1%D7%99%D7%98%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014026",
+    "title_he": "בן גוריון: אפילוג",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%9F-%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F-%D7%90%D7%A4%D7%99%D7%9C%D7%95%D7%92/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0029525",
+    "title_he": "גאליס 2: קונקט",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%92%D7%90%D7%9C%D7%99%D7%A1-2-%D7%A7%D7%95%D7%A0%D7%A7%D7%98/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014504",
+    "title_he": "הבית האדום",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%91%D7%99%D7%AA-%D7%94%D7%90%D7%93%D7%95%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014305",
+    "title_he": "הולכת שבעה",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%95%D7%9C%D7%9B%D7%AA-%D7%A9%D7%91%D7%A2%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0013971",
+    "title_he": "הלהקה האחרונה בלבנון",
+    "year": 2016,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0013971/",
+      "https://www.edb.co.il/name/n0005270/",
+      "https://www.edb.co.il/name/n0012797/",
+      "https://www.edb.co.il/name/n0027762/",
+      "https://www.edb.co.il/name/n0001794/",
+      "https://www.edb.co.il/name/n0018032/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=50&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3:comedy&option=com_k2&task=category&view=itemlist&limitstart=50",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77&limitstart=50"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0002752",
+    "title_he": "הפורצת",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A4%D7%95%D7%A8%D7%A6%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0004036",
+    "title_he": "הרמוניה",
+    "year": 2016,
+    "funds": [
+      "jerusalem_film_fund",
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://thejerusalemfilmfund.com/film/%d7%94%d7%a8%d7%9e%d7%95%d7%a0%d7%99%d7%94/",
+      "https://www.edb.co.il/title/t0004036/",
+      "https://www.edb.co.il/name/n0000556/",
+      "https://www.edb.co.il/name/n0000708/",
+      "https://www.edb.co.il/name/n0001509/",
+      "https://www.edb.co.il/name/n0009178/",
+      "https://www.edb.co.il/name/n0000327/",
+      "https://www.edb.co.il/name/n0038968/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=20&option=com_k2&task=category&view=itemlist",
+      "manual://rabinovich_cinema/funded-films/2023/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0010096",
+    "title_he": "ילד טוב ירושלים",
+    "year": 2016,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0010096/",
+      "https://www.edb.co.il/name/n0001502/",
+      "https://www.edb.co.il/name/n0001514/",
+      "https://www.edb.co.il/name/n0002635/",
+      "https://www.edb.co.il/name/n0002652/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=50&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3:comedy&option=com_k2&task=category&view=itemlist&limitstart=50",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77&limitstart=50"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0029311",
+    "title_he": "ירח בבית 12",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%99%D7%A8%D7%97-%D7%91%D7%91%D7%99%D7%AA-12/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0013982",
+    "title_he": "כמו פרח לוטוס",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9B%D7%9E%D7%95-%D7%A4%D7%A8%D7%97-%D7%9C%D7%95%D7%98%D7%95%D7%A1/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0004048",
+    "title_he": "לב שקט מאד",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9C%D7%91-%D7%A9%D7%A7%D7%98-%D7%9E%D7%90%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0011252",
+    "title_he": "לעבור את הקיר",
+    "year": 2016,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0011252/",
+      "https://www.edb.co.il/name/n0002616/",
+      "https://www.edb.co.il/name/n0002653/",
+      "https://www.edb.co.il/name/n0005046/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=40&option=com_k2&task=category&view=itemlist"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0013651",
+    "title_he": "מושקי",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%95%D7%A9%D7%A7%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0013837",
+    "title_he": "מיומנו של צלם חתונות",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%99%D7%95%D7%9E%D7%A0%D7%95-%D7%A9%D7%9C-%D7%A6%D7%9C%D7%9D-%D7%97%D7%AA%D7%95%D7%A0%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0013918",
+    "title_he": "מעשה בשני בלונים",
+    "year": 2016,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0013918/",
+      "https://kerenmakor.org.il/films/%D7%9E%D7%A2%D7%91%D7%A8%D7%99%D7%9D/",
+      "https://kerenmakor.org.il/films/%D7%9E%D7%A2%D7%A9%D7%94-%D7%91%D7%A9%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D/",
+      "https://kerenmakor.org.il/films/%d7%92%d7%95%d7%a9-%d7%97%d7%99%d7%9e%d7%a8/",
+      "https://kerenmakor.org.il/films/%d7%97%d7%99%d7%99%d7%9d-%d7%91%d7%a6%d7%9c-%d7%94%d7%9e%d7%95%d7%95%d7%aa/",
+      "https://kerenmakor.org.il/films/%d7%9e%d7%a2%d7%a9%d7%94-%d7%91%d7%a9%d7%a0%d7%99-%d7%91%d7%9c%d7%95%d7%a0%d7%99%d7%9d/",
+      "https://kerenmakor.org.il/films/מעשה-בשני-בלונים/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0029363",
+    "title_he": "נורמן",
+    "year": 2016,
+    "funds": [
+      "jerusalem_film_fund"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://thejerusalemfilmfund.com/film/norman/",
+      "https://thejerusalemfilmfund.com/genre/drama/#navigation",
+      "https://thejerusalemfilmfund.com/genre/drama/#footer",
+      "https://thejerusalemfilmfund.com/genre/drama/",
+      "https://www.edb.co.il/title/t0029363/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014089",
+    "title_he": "נשואות למוסד",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A0%D7%A9%D7%95%D7%90%D7%95%D7%AA-%D7%9C%D7%9E%D7%95%D7%A1%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0013934",
+    "title_he": "סמירה",
+    "year": 2016,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A1%D7%9E%D7%99%D7%A8%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014520",
+    "title_he": "סנפשוט",
+    "year": 2016,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014520/",
+      "https://www.edb.co.il/name/n0000164/",
+      "https://www.edb.co.il/name/n0004603/",
+      "https://www.edb.co.il/name/n0022880/",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77&limitstart=10",
+      "manual://rabinovich_cinema/funded-films/2023/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014562",
+    "title_he": "אמא לנצח",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%9E%D7%90-%D7%9C%D7%A0%D7%A6%D7%97/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014959",
+    "title_he": "ארץ זרה",
+    "year": 2017,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.fdoc.org.il/movie/%d7%90%d7%a8%d7%a5-%d7%96%d7%a8%d7%94/",
+      "https://www.edb.co.il/title/t0014959/",
+      "https://www.edb.co.il/name/n0026876/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&id=1%3Aaction&limitstart=40&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&id=1:action&option=com_k2&task=category&view=itemlist&limitstart=40",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=1:action&Itemid=74&limitstart=40"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014610",
+    "title_he": "בית בגליל",
+    "year": 2017,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014610/",
+      "https://www.edb.co.il/name/n0001354/",
+      "https://www.edb.co.il/name/n0002864/",
+      "https://www.edb.co.il/name/n0017623/",
+      "https://www.edb.co.il/name/n0020224/",
+      "https://www.edb.co.il/name/n0001511/",
+      "https://www.edb.co.il/name/n0003915/",
+      "https://www.edb.co.il/name/n0007506/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=20&option=com_k2&task=category&view=itemlist",
+      "manual://rabinovich_cinema/funded-films/2023/page-18",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014396",
+    "title_he": "בן ממשיך",
+    "year": 2017,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014396/",
+      "https://www.edb.co.il/name/n0000161/",
+      "https://www.edb.co.il/name/n0002014/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=4%3Adrama&limitstart=30&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=4:drama&option=com_k2&task=category&view=itemlist&limitstart=30",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=4:drama&Itemid=78&limitstart=30"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014518",
+    "title_he": "ג'סטה",
+    "year": 2017,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014518/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=40&option=com_k2&task=category&view=itemlist"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014563",
+    "title_he": "האופה מברלין",
+    "year": 2017,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014563/",
+      "https://www.edb.co.il/name/n0000560/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&limitstart=40&option=com_k2&task=category&view=itemlist"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014511",
+    "title_he": "האיש שניסה למנוע מלחמה",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%90%D7%99%D7%A9-%D7%A9%D7%A0%D7%99%D7%A1%D7%94-%D7%9C%D7%9E%D7%A0%D7%95%D7%A2-%D7%9E%D7%9C%D7%97%D7%9E%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0028334",
+    "title_he": "הלומים",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%9C%D7%95%D7%9E%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015426",
+    "title_he": "הקללה של פניקס",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A7%D7%9C%D7%9C%D7%94-%D7%A9%D7%9C-%D7%A4%D7%A0%D7%99%D7%A7%D7%A1/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014465",
+    "title_he": "ואז היא הגיעה",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%95%D7%90%D7%96-%D7%94%D7%99%D7%90-%D7%94%D7%92%D7%99%D7%A2%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014365",
+    "title_he": "זוג יונים",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%96%D7%95%D7%92-%D7%99%D7%95%D7%A0%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016030",
+    "title_he": "זכות השתיקה",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%96%D7%9B%D7%95%D7%AA-%D7%94%D7%A9%D7%AA%D7%99%D7%A7%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014797",
+    "title_he": "חוטים",
+    "year": 2017,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014797/",
+      "https://www.edb.co.il/name/n0004234/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=514%3A%D7%97%D7%95%D7%98%D7%99%D7%9D&option=com_k2&view=item",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&option=com_k2&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=80&option=com_k2&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?format=feed&limitstart=&option=com_k2&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&task=tag&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=514:%D7%97%D7%95%D7%98%D7%99%D7%9D&Itemid=78",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&format=feed&limitstart=",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&Itemid=76",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&Itemid=80",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=tag&tag=%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94&Itemid=74",
+      "manual://rabinovich_cinema/funded-films/2015/page-13"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014457",
+    "title_he": "כמעט מפורסמת",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9B%D7%9E%D7%A2%D7%98-%D7%9E%D7%A4%D7%95%D7%A8%D7%A1%D7%9E%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014564",
+    "title_he": "מבצע ביצה",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%91%D7%A6%D7%A2-%D7%91%D7%99%D7%A6%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014748",
+    "title_he": "ציפרלקס: כדור האושר",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A6%D7%99%D7%A4%D7%A8%D7%9C%D7%A7%D7%A1-%D7%9B%D7%93%D7%95%D7%A8-%D7%94%D7%90%D7%95%D7%A9%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014733",
+    "title_he": "רכבת החופש",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A8%D7%9B%D7%91%D7%AA-%D7%94%D7%97%D7%95%D7%A4%D7%A9/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014799",
+    "title_he": "שימני כחותם על ליבך",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A9%D7%99%D7%9E%D7%A0%D7%99-%D7%9B%D7%97%D7%95%D7%AA%D7%9D-%D7%A2%D7%9C-%D7%9C%D7%99%D7%91%D7%9A/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014580",
+    "title_he": "שממה",
+    "year": 2017,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A9%D7%9E%D7%9E%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015279",
+    "title_he": "30 כדורי שינה",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/30-%D7%9B%D7%93%D7%95%D7%A8%D7%99-%D7%A9%D7%99%D7%A0%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015379",
+    "title_he": "אאוט",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%90%D7%95%D7%98/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015545",
+    "title_he": "אהבה בשלייקס",
+    "year": 2018,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015545/",
+      "https://www.edb.co.il/name/n0001326/",
+      "https://www.edb.co.il/name/n0001694/",
+      "https://www.edb.co.il/name/n0016648/",
+      "https://www.edb.co.il/name/n0000157/",
+      "https://www.edb.co.il/name/n0000786/",
+      "https://www.edb.co.il/name/n0000975/",
+      "https://www.edb.co.il/name/n0002152/",
+      "https://www.edb.co.il/name/n0002830/",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77&limitstart=10",
+      "manual://rabinovich_cinema/funded-films/2023/page-14",
+      "manual://rabinovich_cinema/funded-films/2023/page-17"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015539",
+    "title_he": "אול אין",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%95%D7%9C-%D7%90%D7%99%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015019",
+    "title_he": "אין בתולות בקריות",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%99%D7%9F-%D7%91%D7%AA%D7%95%D7%9C%D7%95%D7%AA-%D7%91%D7%A7%D7%A8%D7%99%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0014868",
+    "title_he": "אישה עובדת",
+    "year": 2018,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014868/",
+      "https://www.edb.co.il/name/n0001353/",
+      "https://www.edb.co.il/name/n0002185/",
+      "https://www.edb.co.il/name/n0014522/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=221&option=com_content&view=featured",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=814%3A2017-07-26-10-13-13&option=com_k2&view=item",
+      "https://www.cinemaproject.org.il/ns/index.php",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_content&view=featured&Itemid=221",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=814:2017-07-26-10-13-13&Itemid=77#startOfPageId814",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=814:2017-07-26-10-13-13&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77&limitstart=10",
+      "https://www.cinemaproject.org.il/ns/",
+      "https://www.cinemaproject.org.il/",
+      "manual://rabinovich_cinema/funded-films/2023/page-14"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015272",
+    "title_he": "אמא של",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%9E%D7%90-%D7%A9%D7%9C/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015276",
+    "title_he": "בצל כפות תמר",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%A6%D7%9C-%D7%9B%D7%A4%D7%95%D7%AA-%D7%AA%D7%9E%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017149",
+    "title_he": "גולסטאריות",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%92%D7%95%D7%9C%D7%A1%D7%98%D7%90%D7%A8%D7%99%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015312",
+    "title_he": "דבש שחור, שירת חייו של אברהם סוצקבר",
+    "year": 2018,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015312/",
+      "https://kerenmakor.org.il/films/%D7%97%D7%9C%D7%95%D7%9D-%D7%A9%D7%9C-%D7%90%D7%99%D7%93%D7%99%D7%95%D7%98/",
+      "https://kerenmakor.org.il/films/דבש-שחור-שירת-חייו-של-אברהם-סוצקבר/",
+      "https://kerenmakor.org.il/films/מסילה/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015028",
+    "title_he": "דולפין מגומי",
+    "year": 2018,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015028/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=4%3Adrama&limitstart=20&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=4:drama&option=com_k2&task=category&view=itemlist&limitstart=20",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=4:drama&Itemid=78&limitstart=20"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015281",
+    "title_he": "הכל כישוף",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%9B%D7%9C-%D7%9B%D7%99%D7%A9%D7%95%D7%A3/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016023",
+    "title_he": "הסוסיתא של הרצל",
+    "year": 2018,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016023/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3&layout=category&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=818%3A2017-07-26-10-13-13&option=com_k2&view=item",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=818:2017-07-26-10-13-13&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&layout=category&task=category&id=3&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77",
+      "manual://rabinovich_cinema/funded-films/2023/page-14"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015331",
+    "title_he": "הקרב שלא נגמר",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A7%D7%A8%D7%91-%D7%A9%D7%9C%D7%90-%D7%A0%D7%92%D7%9E%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015003",
+    "title_he": "חטיפה: קו 300",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%97%D7%98%D7%99%D7%A4%D7%94-%D7%A7%D7%95-300/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015092",
+    "title_he": "מכתב אהבה למ",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%9B%D7%AA%D7%91-%D7%90%D7%94%D7%91%D7%94-%D7%9C%D7%9E/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015393",
+    "title_he": "מלכות",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%9C%D7%9B%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015758",
+    "title_he": "מסיבת פרישה",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%A1%D7%99%D7%91%D7%AA-%D7%A4%D7%A8%D7%99%D7%A9%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0029080",
+    "title_he": "סיפור אחר",
+    "year": 2018,
+    "funds": [
+      "nfct",
+      "rabinovich_cinema",
+      "gesher"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A1%D7%99%D7%A4%D7%95%D7%A8-%D7%90%D7%97%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015113",
+    "title_he": "עץ תאנה",
+    "year": 2018,
+    "funds": [
+      "nfct",
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A2%D7%A5-%D7%AA%D7%90%D7%A0%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015277",
+    "title_he": "רעבעצן",
+    "year": 2018,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A8%D7%A2%D7%91%D7%A2%D7%A6%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015687",
+    "title_he": "אבו אלי",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%91%D7%95-%D7%90%D7%9C%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015833",
+    "title_he": "בשורות טובות",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015833/",
+      "https://www.edb.co.il/name/n0000385/",
+      "https://www.edb.co.il/name/n0000566/",
+      "https://www.edb.co.il/name/n0001314/",
+      "https://www.edb.co.il/name/n0001464/",
+      "https://www.edb.co.il/name/n0001502/",
+      "https://www.edb.co.il/name/n0002697/",
+      "https://www.edb.co.il/name/n0004243/",
+      "https://www.edb.co.il/name/n0007585/",
+      "https://www.edb.co.il/name/n0014161/",
+      "https://www.edb.co.il/name/n0017156/",
+      "https://www.edb.co.il/name/n0003805/",
+      "https://www.edb.co.il/name/n0017032/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=221&option=com_content&view=featured",
+      "https://www.cinemaproject.org.il/ns/index.php",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_content&view=featured&Itemid=221",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77&limitstart=10",
+      "https://www.cinemaproject.org.il/ns/",
+      "manual://rabinovich_cinema/funded-films/2023/page-11",
+      "manual://rabinovich_cinema/funded-films/2023/page-14",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-19"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015743",
+    "title_he": "בשם הבת",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%A9%D7%9D-%D7%94%D7%91%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015007",
+    "title_he": "המוסד",
+    "year": 2019,
+    "funds": [
+      "nfct",
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%9E%D7%95%D7%A1%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017798",
+    "title_he": "השדה האחד",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A9%D7%93%D7%94-%D7%94%D7%90%D7%97%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016687",
+    "title_he": "השכמה",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A9%D7%9B%D7%9E%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016473",
+    "title_he": "טאץ'",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema",
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016473/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18",
+      "https://kerenmakor.org.il/films/touch/?lang=en"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016256",
+    "title_he": "יחסים דיפלומטיים",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%93%D7%99%D7%A4%D7%9C%D7%95%D7%9E%D7%98%D7%99%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0011301",
+    "title_he": "ימים נוראים",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%99%D7%9E%D7%99%D7%9D-%D7%A0%D7%95%D7%A8%D7%90%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015713",
+    "title_he": "ירח שועלים",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%99%D7%A8%D7%97-%D7%A9%D7%95%D7%A2%D7%9C%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018635",
+    "title_he": "מאה מיליון צפיות",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018635/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&id=1%3Aaction&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&id=1&layout=category&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=74&id=838%3A2016-12-08-10-37-17&option=com_k2&view=item",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=838:2016-12-08-10-37-17&Itemid=74",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&layout=category&task=category&id=1&Itemid=74",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=1:action&Itemid=74",
+      "manual://rabinovich_cinema/funded-films/2015/page-5"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015857",
+    "title_he": "מחילה",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015857/",
+      "https://www.edb.co.il/name/n0000556/",
+      "https://www.edb.co.il/name/n0011227/",
+      "https://www.edb.co.il/name/n0017623/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=221&option=com_content&view=featured",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3&layout=category&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=820%3A2017-07-26-10-13-13&option=com_k2&view=item",
+      "https://www.cinemaproject.org.il/ns/index.php",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_content&view=featured&Itemid=221",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=820:2017-07-26-10-13-13&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=820:2017-07-26-10-13-13&Itemid=77#startOfPageId820",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&layout=category&task=category&id=3&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/",
+      "https://www.cinemaproject.org.il/",
+      "manual://rabinovich_cinema/funded-films/2023/page-11",
+      "manual://rabinovich_cinema/funded-films/2023/page-14",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-19"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015527",
+    "title_he": "מילים נרדפות",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015527/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=221&option=com_content&view=featured",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3%3Acomedy&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=77&id=3&layout=category&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_content&view=featured&Itemid=221",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=821:2017-07-26-10-13-13&Itemid=77#startOfPageId821",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=821:2017-07-26-10-13-13&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&layout=category&task=category&id=3&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=3:comedy&Itemid=77",
+      "https://www.cinemaproject.org.il/ns/",
+      "https://www.cinemaproject.org.il/",
+      "manual://rabinovich_cinema/funded-films/2023/page-14"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016044",
+    "title_he": "נתראה בשמחות",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A0%D7%AA%D7%A8%D7%90%D7%94-%D7%91%D7%A9%D7%9E%D7%97%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016134",
+    "title_he": "עין לבנה",
+    "year": 2019,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016134/",
+      "https://www.edb.co.il/name/n0006114/",
+      "https://www.edb.co.il/name/n0034755/",
+      "https://kerenmakor.org.il/עין-לבנה-נושאת-מבטה-אל-האוסקר-25-4-2021/",
+      "https://kerenmakor.org.il/%D7%A2%D7%99%D7%9F-%D7%9C%D7%91%D7%A0%D7%94-%D7%A0%D7%95%D7%A9%D7%90%D7%AA-%D7%9E%D7%91%D7%98%D7%94-%D7%90%D7%9C-%D7%94%D7%90%D7%95%D7%A1%D7%A7%D7%A8-25-4-2021/",
+      "https://kerenmakor.org.il/%D7%A2%D7%99%D7%9F-%D7%9C%D7%91%D7%A0%D7%94-%D7%91%D7%A4%D7%A1%D7%98%D7%99%D7%91%D7%9C-%D7%92%D7%95%D7%9C%D7%94/",
+      "https://kerenmakor.org.il/%d7%a2%d7%99%d7%9f-%d7%9c%d7%91%d7%a0%d7%94-%d7%91%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%92%d7%95%d7%9c%d7%94/",
+      "https://kerenmakor.org.il/%d7%a2%d7%99%d7%9f-%d7%9c%d7%91%d7%a0%d7%94-%d7%a0%d7%95%d7%a9%d7%90%d7%aa-%d7%9e%d7%91%d7%98%d7%94-%d7%90%d7%9c-%d7%94%d7%90%d7%95%d7%a1%d7%a7%d7%a8-25-4-2021/",
+      "https://kerenmakor.org.il/more/%D7%AA%D7%95%D7%9E%D7%A8-%D7%A9%D7%95%D7%A9%D7%9F-%D7%A8%D7%92%D7%A2-%D7%9C%D7%A4%D7%A0%D7%99-%D7%A9%D7%94%D7%95%D7%90-%D7%9E%D7%AA%D7%97%D7%A8%D7%94-%D7%A2%D7%9C-%D7%94%D7%90%D7%95%D7%A1%D7%A7%D7%A8/",
+      "https://kerenmakor.org.il/more/%d7%aa%d7%95%d7%9e%d7%a8-%d7%a9%d7%95%d7%a9%d7%9f-%d7%a8%d7%92%d7%a2-%d7%9c%d7%a4%d7%a0%d7%99-%d7%a9%d7%94%d7%95%d7%90-%d7%9e%d7%aa%d7%97%d7%a8%d7%94-%d7%a2%d7%9c-%d7%94%d7%90%d7%95%d7%a1%d7%a7%d7%a8/",
+      "https://kerenmakor.org.il/more/תומר-שושן-רגע-לפני-שהוא-מתחרה-על-האוסקר/",
+      "https://kerenmakor.org.il/עין-לבנה-בפסטיבל-גולה/",
+      "https://kerenmakor.org.il/films/%D7%A2%D7%99%D7%9F-%D7%9C%D7%91%D7%A0%D7%94/",
+      "https://kerenmakor.org.il/films/%d7%a2%d7%99%d7%9f-%d7%9c%d7%91%d7%a0%d7%94/",
+      "https://kerenmakor.org.il/films/עין-לבנה/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015570",
+    "title_he": "עיניים שלי",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015570/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=4%3Adrama&option=com_k2&task=category&view=itemlist",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=78&id=853%3A2016-12-08-10-41-34&option=com_k2&view=item",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=item&id=853:2016-12-08-10-41-34&Itemid=78",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_k2&view=itemlist&task=category&id=4:drama&Itemid=78"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0014863",
+    "title_he": "עכביש ברשת",
+    "year": 2019,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0014863/",
+      "manual://rabinovich_cinema/funded-films/2023/page-11",
+      "manual://rabinovich_cinema/funded-films/2023/page-14",
+      "manual://rabinovich_cinema/funded-films/2023/page-17",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-19"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015766",
+    "title_he": "פול גז",
+    "year": 2019,
+    "funds": [
+      "nfct",
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A4%D7%95%D7%9C-%D7%92%D7%96/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015633",
+    "title_he": "פרפרים",
+    "year": 2019,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0015633/",
+      "https://kerenmakor.org.il/more/%D7%A4%D7%A8%D7%A4%D7%A8%D7%99%D7%9D-%D7%A0%D7%98%D7%A2-%D7%A9%D7%A0%D7%99%D7%A6%D7%A8/",
+      "https://kerenmakor.org.il/more/%d7%a4%d7%a8%d7%a4%d7%a8%d7%99%d7%9d-%d7%a0%d7%98%d7%a2-%d7%a9%d7%a0%d7%99%d7%a6%d7%a8/",
+      "https://kerenmakor.org.il/more/פרפרים-נטע-שניצר/",
+      "https://kerenmakor.org.il/short-fiction-films-event/?lang=en",
+      "https://kerenmakor.org.il/films/%D7%A4%D7%A8%D7%A4%D7%A8%D7%99%D7%9D/",
+      "https://kerenmakor.org.il/films/butterflies/?lang=en",
+      "https://kerenmakor.org.il/films/%d7%a4%d7%a8%d7%a4%d7%a8%d7%99%d7%9d/",
+      "https://kerenmakor.org.il/films/פרפרים/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016517",
+    "title_he": "ששששש",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A9%D7%A9%D7%A9%D7%A9%D7%A9/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016188",
+    "title_he": "תחום אפור",
+    "year": 2019,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%AA%D7%97%D7%95%D7%9D-%D7%90%D7%A4%D7%95%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016532",
+    "title_he": "אנחנו המהפכה",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016407",
+    "title_he": "אתי אלון: האישה שגנבה 250 מיליון",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%AA%D7%99-%D7%90%D7%9C%D7%95%D7%9F-%D7%94%D7%90%D7%99%D7%A9%D7%94-%D7%A9%D7%92%D7%A0%D7%91%D7%94-250-%D7%9E%D7%99%D7%9C%D7%99%D7%95%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016970",
+    "title_he": "באמצע שום מקום",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%90%D7%9E%D7%A6%D7%A2-%D7%A9%D7%95%D7%9D-%D7%9E%D7%A7%D7%95%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016426",
+    "title_he": "בוטיק פריז",
+    "year": 2020,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016426/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016341",
+    "title_he": "במרחק מאה מטר: אם אנחנו מתקרבים עכשיו",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%9E%D7%A8%D7%97%D7%A7-%D7%9E%D7%90%D7%94-%D7%9E%D7%98%D7%A8-%D7%90%D7%9D-%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%9E%D7%AA%D7%A7%D7%A8%D7%91%D7%99%D7%9D-%D7%A2%D7%9B%D7%A9%D7%99%D7%95/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016343",
+    "title_he": "במרחק מאה מטר: ברכה",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%9E%D7%A8%D7%97%D7%A7-%D7%9E%D7%90%D7%94-%D7%9E%D7%98%D7%A8-%D7%91%D7%A8%D7%9B%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016332",
+    "title_he": "במרחק מאה מטר: לונג דיסטנס",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%9E%D7%A8%D7%97%D7%A7-%D7%9E%D7%90%D7%94-%D7%9E%D7%98%D7%A8-%D7%9C%D7%95%D7%A0%D7%92-%D7%93%D7%99%D7%A1%D7%98%D7%A0%D7%A1/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016340",
+    "title_he": "במרחק מאה מטר: שליחות",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%9E%D7%A8%D7%97%D7%A7-%D7%9E%D7%90%D7%94-%D7%9E%D7%98%D7%A8-%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018891",
+    "title_he": "דגים גם טובעים",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%93%D7%92%D7%99%D7%9D-%D7%92%D7%9D-%D7%98%D7%95%D7%91%D7%A2%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016723",
+    "title_he": "היער",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%99%D7%A2%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016308",
+    "title_he": "הנה אנחנו",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A0%D7%94-%D7%90%D7%A0%D7%97%D7%A0%D7%95/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016852",
+    "title_he": "להתאהב ברקס",
+    "year": 2020,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016852/",
+      "https://kerenmakor.org.il/פסטיבל-הסטודנטים-הבינלאומי-2019-הזוכים-ב/",
+      "https://kerenmakor.org.il/%D7%9C%D7%94%D7%AA%D7%90%D7%94%D7%91-%D7%91%D7%A8%D7%A7%D7%A1-%D7%96%D7%9B%D7%94-%D7%91%D7%A4%D7%A8%D7%A1-%D7%A1%D7%A8%D7%98-%D7%94%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%94%D7%98%D7%95%D7%91-%D7%91/",
+      "https://kerenmakor.org.il/%D7%A4%D7%A1%D7%98%D7%99%D7%91%D7%9C-%D7%94%D7%A1%D7%98%D7%95%D7%93%D7%A0%D7%98%D7%99%D7%9D-%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99-2019-%D7%94%D7%96%D7%95%D7%9B%D7%99%D7%9D-%D7%91/",
+      "https://kerenmakor.org.il/%d7%9c%d7%94%d7%aa%d7%90%d7%94%d7%91-%d7%91%d7%a8%d7%a7%d7%a1-%d7%96%d7%9b%d7%94-%d7%91%d7%a4%d7%a8%d7%a1-%d7%a1%d7%a8%d7%98-%d7%94%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%94%d7%98%d7%95%d7%91-%d7%91/",
+      "https://kerenmakor.org.il/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%94%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-%d7%94%d7%91%d7%99%d7%a0%d7%9c%d7%90%d7%95%d7%9e%d7%99-2019-%d7%94%d7%96%d7%95%d7%9b%d7%99%d7%9d-%d7%91/",
+      "https://kerenmakor.org.il/films/%D7%94%D7%97%D7%99%D7%95%D7%AA-%D7%94%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9C%D7%9A/",
+      "https://kerenmakor.org.il/films/%D7%9C%D7%94%D7%AA%D7%90%D7%94%D7%91-%D7%91%D7%A8%D7%A7%D7%A1/",
+      "https://kerenmakor.org.il/films/%D7%A6%D7%99%D7%A4%D7%99%D7%95%D7%AA/",
+      "https://kerenmakor.org.il/films/%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%94%d7%a8%d7%a2%d7%95%d7%aa-%d7%a9%d7%9c%d7%9a/",
+      "https://kerenmakor.org.il/films/%d7%9c%d7%94%d7%aa%d7%90%d7%94%d7%91-%d7%91%d7%a8%d7%a7%d7%a1/",
+      "https://kerenmakor.org.il/films/להתאהב-ברקס/",
+      "https://kerenmakor.org.il/להתאהב-ברקס-זכה-בפרס-סרט-הילדים-הטוב-ב/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016867",
+    "title_he": "מותו של זה",
+    "year": 2020,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016867/",
+      "https://www.edb.co.il/name/n0001356/",
+      "https://www.edb.co.il/name/n0015023/",
+      "https://www.edb.co.il/name/n0017232/",
+      "https://www.edb.co.il/name/n0001746/",
+      "https://www.edb.co.il/name/n0024965/",
+      "https://kerenmakor.org.il/films/%D7%9E%D7%95%D7%AA%D7%95-%D7%A9%D7%9C-%D7%96%D7%94/",
+      "https://kerenmakor.org.il/films/%d7%9e%d7%95%d7%aa%d7%95-%d7%a9%d7%9c-%d7%96%d7%94/",
+      "https://kerenmakor.org.il/films/מותו-של-זה/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016311",
+    "title_he": "נעורים",
+    "year": 2020,
+    "funds": [
+      "nfct",
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A0%D7%A2%D7%95%D7%A8%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016186",
+    "title_he": "סאבלט",
+    "year": 2020,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016186/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016555",
+    "title_he": "סנולנד",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A1%D7%A0%D7%95%D7%9C%D7%A0%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016127",
+    "title_he": "ענת אלימלך: הילדה הכי יפה בירושלים",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A2%D7%A0%D7%AA-%D7%90%D7%9C%D7%99%D7%9E%D7%9C%D7%9A-%D7%94%D7%99%D7%9C%D7%93%D7%94-%D7%94%D7%9B%D7%99-%D7%99%D7%A4%D7%94-%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016929",
+    "title_he": "פיל בסנטר",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A4%D7%99%D7%9C-%D7%91%D7%A1%D7%A0%D7%98%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016812",
+    "title_he": "ריקוד חסידי",
+    "year": 2020,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A8%D7%99%D7%A7%D7%95%D7%93-%D7%97%D7%A1%D7%99%D7%93%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016429",
+    "title_he": "שאיפה לחיים",
+    "year": 2020,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016429/",
+      "https://www.edb.co.il/name/n0002665/",
+      "https://www.edb.co.il/name/n0027200/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/2023/page-17",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0013585",
+    "title_he": "אגדת חורבן",
+    "year": 2021,
+    "funds": [
+      "jerusalem_film_fund",
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://thejerusalemfilmfund.com/film/legend-of-destruction/#footer",
+      "https://thejerusalemfilmfund.com/film/?lang=he",
+      "https://www.edb.co.il/title/t0013585/",
+      "https://www.edb.co.il/name/n0004152/",
+      "manual://rabinovich_cinema/funded-films/2023/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-15"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018362",
+    "title_he": "איראן 3",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%99%D7%A8%D7%90%D7%9F-3/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016365",
+    "title_he": "אל תחכי לי",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016365/",
+      "https://www.edb.co.il/name/n0000626/",
+      "https://www.edb.co.il/name/n0009978/",
+      "https://www.edb.co.il/name/n0020369/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017208",
+    "title_he": "הגיע הזמן שתמותי כבר",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%92%D7%99%D7%A2-%D7%94%D7%96%D7%9E%D7%9F-%D7%A9%D7%AA%D7%9E%D7%95%D7%AA%D7%99-%D7%9B%D7%91%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017731",
+    "title_he": "הולי הולוקוסט",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%95%D7%9C%D7%99-%D7%94%D7%95%D7%9C%D7%95%D7%A7%D7%95%D7%A1%D7%98/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016813",
+    "title_he": "המקום ממנו באתי",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%9E%D7%A7%D7%95%D7%9D-%D7%9E%D7%9E%D7%A0%D7%95-%D7%91%D7%90%D7%AA%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0015670",
+    "title_he": "הסירו דאגה מלבכם",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A1%D7%99%D7%A8%D7%95-%D7%93%D7%90%D7%92%D7%94-%D7%9E%D7%9C%D7%91%D7%9B%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016581",
+    "title_he": "זרים מושלמים",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016581/",
+      "https://www.edb.co.il/name/n0002659/",
+      "https://www.edb.co.il/name/n0007449/",
+      "https://www.edb.co.il/name/n0012937/",
+      "https://www.edb.co.il/name/n0002073/",
+      "https://www.edb.co.il/name/n0002315/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/2023/page-7",
+      "manual://rabinovich_cinema/funded-films/2023/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-14",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-15"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016853",
+    "title_he": "חתונה ברוורס",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%97%D7%AA%D7%95%D7%A0%D7%94-%D7%91%D7%A8%D7%95%D7%95%D7%A8%D7%A1/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016847",
+    "title_he": "לשחרר את שולי",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016847/",
+      "manual://rabinovich_cinema/funded-films/2023/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-15",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016844",
+    "title_he": "מה שלא נשבר",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%94-%D7%A9%D7%9C%D7%90-%D7%A0%D7%A9%D7%91%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016705",
+    "title_he": "מחיקה מלאה",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%97%D7%99%D7%A7%D7%94-%D7%9E%D7%9C%D7%90%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016866",
+    "title_he": "מיועד להריסה",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%99%D7%95%D7%A2%D7%93-%D7%9C%D7%94%D7%A8%D7%99%D7%A1%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016689",
+    "title_he": "מישהו יאהב מישהו",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016689/",
+      "manual://rabinovich_cinema/funded-films/2023/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-15"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016797",
+    "title_he": "מתחתנת",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016797/",
+      "https://www.edb.co.il/name/n0003436/",
+      "https://www.edb.co.il/name/n0001899/",
+      "https://www.edb.co.il/name/n0006575/",
+      "https://www.edb.co.il/name/n0011348/",
+      "https://www.edb.co.il/name/n0028383/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016675",
+    "title_he": "סוכנת בלב ביירות",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A1%D7%95%D7%9B%D7%A0%D7%AA-%D7%91%D7%9C%D7%91-%D7%91%D7%99%D7%99%D7%A8%D7%95%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016818",
+    "title_he": "סינדרום פיינגולד",
+    "year": 2021,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.fdoc.org.il/movie/%d7%a1%d7%99%d7%a0%d7%93%d7%a8%d7%95%d7%9d%d7%a4%d7%99%d7%99%d7%a0%d7%92%d7%95%d7%9c%d7%93/",
+      "https://www.edb.co.il/title/t0016818/",
+      "https://www.edb.co.il/name/n0000597/",
+      "https://www.edb.co.il/name/n0001326/",
+      "https://www.edb.co.il/name/n0001569/",
+      "https://www.edb.co.il/name/n0001572/",
+      "https://www.edb.co.il/name/n0007585/",
+      "https://www.edb.co.il/name/n0017623/",
+      "https://kerenmakor.org.il/סיכום-ערב-חשיפה-לקולנוע-ב-360-בקתדרה-ברמ/",
+      "https://kerenmakor.org.il/%D7%A1%D7%99%D7%9B%D7%95%D7%9D-%D7%A2%D7%A8%D7%91-%D7%97%D7%A9%D7%99%D7%A4%D7%94-%D7%9C%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2-%D7%91-360-%D7%91%D7%A7%D7%AA%D7%93%D7%A8%D7%94-%D7%91%D7%A8%D7%9E/",
+      "https://kerenmakor.org.il/%d7%a1%d7%99%d7%9b%d7%95%d7%9d-%d7%a2%d7%a8%d7%91-%d7%97%d7%a9%d7%99%d7%a4%d7%94-%d7%9c%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%91-360-%d7%91%d7%a7%d7%aa%d7%93%d7%a8%d7%94-%d7%91%d7%a8%d7%9e/",
+      "https://kerenmakor.org.il/films/סינדרום-פיינגולד/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016980",
+    "title_he": "עוד סיפור אחד",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A2%D7%95%D7%93-%D7%A1%D7%99%D7%A4%D7%95%D7%A8-%D7%90%D7%97%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016216",
+    "title_he": "פול ספיד",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016216/",
+      "https://www.edb.co.il/name/n0003975/",
+      "https://www.edb.co.il/name/n0006256/",
+      "https://www.edb.co.il/name/n0015023/",
+      "manual://rabinovich_cinema/funded-films/2023/page-7",
+      "manual://rabinovich_cinema/funded-films/2023/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-14",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-15"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017008",
+    "title_he": "קלף מלוכלך",
+    "year": 2021,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0017008/",
+      "https://kerenmakor.org.il/films/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%9C%D7%95%D7%9B%D7%9C%D7%9A/",
+      "https://kerenmakor.org.il/films/%d7%97%d7%a0%d7%93%d7%94-%d7%97%d7%a0%d7%93%d7%94/",
+      "https://kerenmakor.org.il/films/%d7%a7%d7%9c%d7%a3-%d7%9e%d7%9c%d7%95%d7%9b%d7%9c%d7%9a/",
+      "https://kerenmakor.org.il/films/קלף-מלוכלך/",
+      "https://kerenmakor.org.il/films/שוטינג/",
+      "https://kerenmakor.org.il/films/ציפורים-משונות/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0015948",
+    "title_he": "תוכנית א'",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA-%D7%90/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016514",
+    "title_he": "תמונת הנצחון",
+    "year": 2021,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016514/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/2023/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-15"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016794",
+    "title_he": "תשעה ירחים",
+    "year": 2021,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%AA%D7%A9%D7%A2%D7%94-%D7%99%D7%A8%D7%97%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016747",
+    "title_he": "אדמה בוערת",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%93%D7%9E%D7%94-%D7%91%D7%95%D7%A2%D7%A8%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017478",
+    "title_he": "אוהב אותך צ'ארלי",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%95%D7%94%D7%91-%D7%90%D7%95%D7%AA%D7%9A-%D7%A6%D7%90%D7%A8%D7%9C%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018257",
+    "title_he": "אישה בואדי",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%99%D7%A9%D7%94-%D7%91%D7%95%D7%90%D7%93%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017661",
+    "title_he": "ארץ נהדרת חוגגת 20",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%A8%D7%A5-%D7%A0%D7%94%D7%93%D7%A8%D7%AA-%D7%97%D7%95%D7%92%D7%92%D7%AA-20/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016580",
+    "title_he": "בחורים טובים",
+    "year": 2022,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016580/",
+      "https://www.edb.co.il/name/n0026321/",
+      "https://www.edb.co.il/name/n0025775/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018377",
+    "title_he": "היום הכי יפה בשנה",
+    "year": 2022,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018377/",
+      "https://www.edb.co.il/name/n0004959/",
+      "https://www.edb.co.il/name/n0035903/",
+      "https://kerenmakor.org.il/films/%D7%94%D7%99%D7%95%D7%9D-%D7%94%D7%9B%D7%99-%D7%99%D7%A4%D7%94-%D7%91%D7%A9%D7%A0%D7%94/",
+      "https://kerenmakor.org.il/films/%d7%94%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99-%d7%99%d7%a4%d7%94-%d7%91%d7%a9%d7%a0%d7%94/",
+      "https://kerenmakor.org.il/films/היום-הכי-יפה-בשנה/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017130",
+    "title_he": "הסיפור שלנו",
+    "year": 2022,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0017130/",
+      "https://www.edb.co.il/name/n0036010/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017339",
+    "title_he": "העשירים החדשים",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A2%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017229",
+    "title_he": "הפספוס של חיי: יגאל שילון",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A4%D7%A1%D7%A4%D7%95%D7%A1-%D7%A9%D7%9C-%D7%97%D7%99%D7%99-%D7%99%D7%92%D7%90%D7%9C-%D7%A9%D7%99%D7%9C%D7%95%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017552",
+    "title_he": "ילדה מס' 60427",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%99%D7%9C%D7%93%D7%94-%D7%9E%D7%A1-60427/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017658",
+    "title_he": "כאילו אין מחר",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9B%D7%90%D7%99%D7%9C%D7%95-%D7%90%D7%99%D7%9F-%D7%9E%D7%97%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017863",
+    "title_he": "לשדך את אמא",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9C%D7%A9%D7%93%D7%9A-%D7%90%D7%AA-%D7%90%D7%9E%D7%90/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017328",
+    "title_he": "מלכה: סיפורה של לינור אברג'יל",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%9C%D7%9B%D7%94-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%94-%D7%A9%D7%9C-%D7%9C%D7%99%D7%A0%D7%95%D7%A8-%D7%90%D7%91%D7%A8%D7%92%D7%99%D7%9C/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017663",
+    "title_he": "עד שתחזור",
+    "year": 2022,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0017663/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016862",
+    "title_he": "עולה לראש",
+    "year": 2022,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016862/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-14"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017520",
+    "title_he": "רוני: הסיפור שלא הכרתם",
+    "year": 2022,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A8%D7%95%D7%A0%D7%99-%D7%94%D7%A1%D7%99%D7%A4%D7%95%D7%A8-%D7%A9%D7%9C%D7%90-%D7%94%D7%9B%D7%A8%D7%AA%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018382",
+    "title_he": "אור פנס יחיד",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%95%D7%A8-%D7%A4%D7%A0%D7%A1-%D7%99%D7%97%D7%99%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018232",
+    "title_he": "אירופה זה לא מספיק",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%99%D7%A8%D7%95%D7%A4%D7%94-%D7%96%D7%94-%D7%9C%D7%90-%D7%9E%D7%A1%D7%A4%D7%99%D7%A7/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018296",
+    "title_he": "ארוגם ביי",
+    "year": 2023,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018296/",
+      "manual://rabinovich_cinema/funded-films/2023/page-7",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-2",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0027412",
+    "title_he": "גזוז",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%92%D7%96%D7%95%D7%96/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017436",
+    "title_he": "גן קופים",
+    "year": 2023,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0017436/",
+      "https://www.edb.co.il/name/n0004983/",
+      "https://www.edb.co.il/name/n0020290/",
+      "https://www.edb.co.il/name/n0027657/",
+      "https://www.edb.co.il/name/n0002315/",
+      "https://www.edb.co.il/name/n0019068/",
+      "manual://rabinovich_cinema/funded-films/2023/page-2",
+      "manual://rabinovich_cinema/funded-films/2023/page-17",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018842",
+    "title_he": "דבי היתה פה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%93%D7%91%D7%99-%D7%94%D7%99%D7%AA%D7%94-%D7%A4%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018363",
+    "title_he": "הבר של מוריס",
+    "year": 2023,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018363/",
+      "https://kerenmakor.org.il/9406/",
+      "https://kerenmakor.org.il/%D7%94%D7%91%D7%A8-%D7%A9%D7%9C-%D7%9E%D7%95%D7%A8%D7%99%D7%A1-%D7%91%D7%9E%D7%A7%D7%95%D7%9D-%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%91%D7%AA%D7%97%D7%A8%D7%95%D7%AA-%D7%90%D7%A1%D7%99%D7%A3/",
+      "https://kerenmakor.org.il/%d7%94%d7%91%d7%a8-%d7%a9%d7%9c-%d7%9e%d7%95%d7%a8%d7%99%d7%a1-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%91%d7%aa%d7%97%d7%a8%d7%95%d7%aa-%d7%90%d7%a1%d7%99%d7%a3/",
+      "https://kerenmakor.org.il/films/%D7%94%D7%91%D7%A8-%D7%A9%D7%9C-%D7%9E%D7%95%D7%A8%D7%99%D7%A1/",
+      "https://kerenmakor.org.il/films/%D7%9E%D7%A9%D7%90%D7%9C%D7%94-%D7%90%D7%97%D7%AA-%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94/",
+      "https://kerenmakor.org.il/films/%d7%94%d7%91%d7%a8-%d7%a9%d7%9c-%d7%9e%d7%95%d7%a8%d7%99%d7%a1/",
+      "https://kerenmakor.org.il/films/הבר-של-מוריס/",
+      "https://kerenmakor.org.il/הבר-של-מוריס-במקום-הראשון-בתחרות-אסיף/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018033",
+    "title_he": "ההילולה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%94%D7%99%D7%9C%D7%95%D7%9C%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018469",
+    "title_he": "הילד",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%99%D7%9C%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018309",
+    "title_he": "המזח",
+    "year": 2023,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018309/",
+      "https://www.edb.co.il/name/n0047028/",
+      "manual://rabinovich_cinema/funded-films/2023/page-2",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0016850",
+    "title_he": "המנצחים",
+    "year": 2023,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0016850/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018340",
+    "title_he": "יפהפיה ומוארת",
+    "year": 2023,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018340/",
+      "https://www.edb.co.il/name/n0000598/",
+      "https://www.edb.co.il/name/n0005916/",
+      "https://www.edb.co.il/name/n0011037/",
+      "https://kerenmakor.org.il/חודש-האישה-הבינלאומי-2025/",
+      "https://kerenmakor.org.il/9710/",
+      "https://kerenmakor.org.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%90%D7%99%D7%A9%D7%94-%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99-2025/",
+      "https://kerenmakor.org.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%90%d7%99%d7%a9%d7%94-%d7%94%d7%91%d7%99%d7%a0%d7%9c%d7%90%d7%95%d7%9e%d7%99-2025/",
+      "https://kerenmakor.org.il/films/%D7%99%D7%A4%D7%94%D7%A4%D7%99%D7%94-%D7%95%D7%9E%D7%95%D7%90%D7%A8%D7%AA/",
+      "https://kerenmakor.org.il/films/%d7%99%d7%a4%d7%94%d7%a4%d7%99%d7%94-%d7%95%d7%9e%d7%95%d7%90%d7%a8%d7%aa/",
+      "https://kerenmakor.org.il/films/יפהפיה-ומוארת/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017107",
+    "title_he": "כולם מחכים רק לי",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9B%D7%95%D7%9C%D7%9D-%D7%9E%D7%97%D7%9B%D7%99%D7%9D-%D7%A8%D7%A7-%D7%9C%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018780",
+    "title_he": "כיסופים",
+    "year": 2023,
+    "funds": [
+      "nfct",
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9B%D7%99%D7%A1%D7%95%D7%A4%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018316",
+    "title_he": "לנשק את הקיר",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9C%D7%A0%D7%A9%D7%A7-%D7%90%D7%AA-%D7%94%D7%A7%D7%99%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018357",
+    "title_he": "מונוגמיה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%95%D7%A0%D7%95%D7%92%D7%9E%D7%99%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018164",
+    "title_he": "מסע לפולין",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%A1%D7%A2-%D7%9C%D7%A4%D7%95%D7%9C%D7%99%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018145",
+    "title_he": "נפיץ",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A0%D7%A4%D7%99%D7%A5/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018862",
+    "title_he": "עשרה חודשים: נפלאות האילוזיה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A2%D7%A9%D7%A8%D7%94-%D7%97%D7%95%D7%93%D7%A9%D7%99%D7%9D-%D7%A0%D7%A4%D7%9C%D7%90%D7%95%D7%AA-%D7%94%D7%90%D7%99%D7%9C%D7%95%D7%96%D7%99%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018293",
+    "title_he": "צהלה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A6%D7%94%D7%9C%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017944",
+    "title_he": "צל של אמת: ההכרעה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A6%D7%9C-%D7%A9%D7%9C-%D7%90%D7%9E%D7%AA-%D7%94%D7%94%D7%9B%D7%A8%D7%A2%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0028148",
+    "title_he": "קרב אוויר",
+    "year": 2023,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0028148/",
+      "https://www.edb.co.il/name/n0000769/",
+      "https://www.edb.co.il/name/n0016344/",
+      "manual://rabinovich_cinema/funded-films/2023/page-2",
+      "manual://rabinovich_cinema/funded-films/2023/page-7",
+      "manual://rabinovich_cinema/funded-films/2023/page-17",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-8",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-14"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018292",
+    "title_he": "רגעים לפני השינה",
+    "year": 2023,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A8%D7%92%D7%A2%D7%99%D7%9D-%D7%9C%D7%A4%D7%A0%D7%99-%D7%94%D7%A9%D7%99%D7%A0%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018602",
+    "title_he": "תמונות יפואיות",
+    "year": 2023,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018602/",
+      "https://www.edb.co.il/name/n0000566/",
+      "https://www.edb.co.il/name/n0000626/",
+      "https://www.edb.co.il/name/n0001690/",
+      "https://www.edb.co.il/name/n0002172/",
+      "https://www.edb.co.il/name/n0003436/",
+      "https://www.edb.co.il/name/n0004924/",
+      "https://www.edb.co.il/name/n0005211/",
+      "https://www.edb.co.il/name/n0005582/",
+      "https://www.edb.co.il/name/n0007430/",
+      "https://www.edb.co.il/name/n0022876/",
+      "https://www.edb.co.il/name/n0034842/",
+      "https://www.edb.co.il/name/n0000774/",
+      "https://www.edb.co.il/name/n0001700/",
+      "https://www.edb.co.il/name/n0002069/",
+      "https://www.edb.co.il/name/n0009387/",
+      "https://www.edb.co.il/name/n0025813/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-2",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0017382",
+    "title_he": "אבי נשר: מילים להחלפה",
+    "year": 2024,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%91%D7%99-%D7%A0%D7%A9%D7%A8-%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%9C%D7%94%D7%97%D7%9C%D7%A4%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018598",
+    "title_he": "בחורים טובים 2",
+    "year": 2024,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018598/",
+      "https://www.edb.co.il/name/n0027431/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-2",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-4",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018781",
+    "title_he": "גולסטאר - הסרט: מרוסקים",
+    "year": 2024,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%92%D7%95%D7%9C%D7%A1%D7%98%D7%90%D7%A8---%D7%94%D7%A1%D7%A8%D7%98-%D7%9E%D7%A8%D7%95%D7%A1%D7%A7%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0017977",
+    "title_he": "הטבעת",
+    "year": 2024,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://israelfilmfestival.com/films/the-ring-%d7%94%d7%98%d7%91%d7%a2%d7%aa/",
+      "https://www.edb.co.il/title/t0017977/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-4",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019180",
+    "title_he": "הילדים של ה-7 באוקטובר",
+    "year": 2024,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%A9%D7%9C-%D7%94-7-%D7%91%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018691",
+    "title_he": "זה לא זמן לפופ",
+    "year": 2024,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%96%D7%94-%D7%9C%D7%90-%D7%96%D7%9E%D7%9F-%D7%9C%D7%A4%D7%95%D7%A4/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018052",
+    "title_he": "חמדה",
+    "year": 2024,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018052/",
+      "https://www.edb.co.il/name/n0004252/",
+      "https://www.edb.co.il/name/n0008385/",
+      "https://www.edb.co.il/name/n0014960/",
+      "https://www.edb.co.il/name/n0031517/",
+      "https://www.edb.co.il/name/n0011348/",
+      "https://www.edb.co.il/name/n0015562/",
+      "https://www.edb.co.il/name/n0017622/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019188",
+    "title_he": "לקרוא את לוליטה בטהרן",
+    "year": 2024,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0019188/",
+      "manual://rabinovich_cinema/funded-films/2023/page-2",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0018768",
+    "title_he": "מזל חתולה",
+    "year": 2024,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018768/",
+      "https://www.edb.co.il/name/n0002659/",
+      "https://www.edb.co.il/name/n0002686/",
+      "https://www.edb.co.il/name/n0004230/",
+      "https://www.edb.co.il/name/n0007449/",
+      "https://www.edb.co.il/name/n0008653/",
+      "https://www.edb.co.il/name/n0012937/",
+      "https://www.edb.co.il/name/n0017623/",
+      "https://www.edb.co.il/name/n0002073/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019058",
+    "title_he": "נדל",
+    "year": 2024,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A0%D7%93%D7%9C/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018161",
+    "title_he": "קרוב אלי",
+    "year": 2024,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018161/",
+      "https://www.edb.co.il/name/n0034720/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-5"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0001223",
+    "title_he": "אחוזת דג'אני",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%90%D7%97%D7%95%D7%96%D7%AA-%D7%93%D7%92%D7%90%D7%A0%D7%99/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019371",
+    "title_he": "בוזגלוס - הסרט: הקרב על הירושה",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%91%D7%95%D7%96%D7%92%D7%9C%D7%95%D7%A1---%D7%94%D7%A1%D7%A8%D7%98-%D7%94%D7%A7%D7%A8%D7%91-%D7%A2%D7%9C-%D7%94%D7%99%D7%A8%D7%95%D7%A9%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019531",
+    "title_he": "בלה",
+    "year": 2025,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://israelfilmfestival.com/films/bella-%d7%91%d7%9c%d7%94/",
+      "https://www.edb.co.il/title/t0019531/",
+      "manual://rabinovich_cinema/funded-films/2023/page-5",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-7",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-11",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-18"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019412",
+    "title_he": "ברנינג מן",
+    "year": 2025,
+    "funds": [
+      "rabinovich_cinema",
+      "arava_film_fund"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://israelfilmfestival.com/films/a-burning-man-%d7%91%d7%a8%d7%a0%d7%99%d7%a0%d7%92-%d7%9e%d7%9f/",
+      "https://www.haifaff.co.il/",
+      "https://www.edb.co.il/title/t0019412/",
+      "https://www.edb.co.il/name/n0027724/",
+      "https://www.edb.co.il/name/n0001545/",
+      "https://www.edb.co.il/name/n0026594/",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=221&option=com_content&view=featured",
+      "https://www.cinemaproject.org.il/ns/index.php?Itemid=467&catid=56%3Amore-movie-news&id=510%3Ahaifa25&option=com_content&view=article",
+      "https://www.cinemaproject.org.il/ns/index.php",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_content&view=article&id=510:haifa25&catid=56:more-movie-news&Itemid=467",
+      "https://www.cinemaproject.org.il/ns/index.php?option=com_content&view=featured&Itemid=221",
+      "https://www.cinemaproject.org.il/ns/",
+      "https://www.cinemaproject.org.il/",
+      "https://aravaff.co.il/%D7%A1%D7%A8%D7%98%D7%99-%D7%A7%D7%A8%D7%9F-%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2-%D7%A2%D7%A8%D7%91%D7%94-2/",
+      "https://aravaff.co.il/%D7%A1%D7%A8%D7%98%D7%99-%D7%A7%D7%A8%D7%9F-%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2-%D7%A2%D7%A8%D7%91%D7%94-2/#main",
+      "https://aravaff.co.il/%d7%a1%d7%a8%d7%98%d7%99-%d7%a7%d7%a8%d7%9f-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a0%d7%92%d7%91-%d7%94%d7%9e%d7%90%d7%95%d7%97%d7%93%d7%aa/",
+      "https://aravaff.co.il/%d7%a1%d7%a8%d7%98%d7%99-%d7%a7%d7%a8%d7%9f-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a0%d7%92%d7%91-%d7%94%d7%9e%d7%90%d7%95%d7%97%d7%93%d7%aa/#main",
+      "https://aravaff.co.il/%d7%a1%d7%a8%d7%98%d7%99-%d7%a7%d7%a8%d7%9f-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a2%d7%a8%d7%91%d7%94-2/",
+      "https://aravaff.co.il/%d7%a1%d7%a8%d7%98%d7%99-%d7%a7%d7%a8%d7%9f-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a2%d7%a8%d7%91%d7%94-2/#main",
+      "https://aravaff.co.il/movies/%d7%91%d7%a8%d7%a0%d7%99%d7%a0%d7%92-%d7%9e%d7%9f/#main",
+      "https://aravaff.co.il/movies/%d7%91%d7%a8%d7%a0%d7%99%d7%a0%d7%92-%d7%9e%d7%9f/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019244",
+    "title_he": "ההילולה 2: החתונה",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%94%D7%99%D7%9C%D7%95%D7%9C%D7%94-2-%D7%94%D7%97%D7%AA%D7%95%D7%A0%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019568",
+    "title_he": "הולה צ'או",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%95%D7%9C%D7%94-%D7%A6%D7%90%D7%95/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019687",
+    "title_he": "החסד",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%97%D7%A1%D7%93/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019688",
+    "title_he": "הכריסטופרים",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%9B%D7%A8%D7%99%D7%A1%D7%98%D7%95%D7%A4%D7%A8%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019391",
+    "title_he": "המאזינה",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%9E%D7%90%D7%96%D7%99%D7%A0%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019569",
+    "title_he": "הסתברות לאהבה",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%A1%D7%AA%D7%91%D7%A8%D7%95%D7%AA-%D7%9C%D7%90%D7%94%D7%91%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019651",
+    "title_he": "חיים ללא כיסוי",
+    "year": 2025,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0019651/",
+      "https://www.edb.co.il/name/n0001694/",
+      "https://www.edb.co.il/name/n0002185/",
+      "https://www.edb.co.il/name/n0017034/",
+      "manual://rabinovich_cinema/funded-films/2023/page-7",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-14"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019555",
+    "title_he": "חשבונות שמיים",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%97%D7%A9%D7%91%D7%95%D7%A0%D7%95%D7%AA-%D7%A9%D7%9E%D7%99%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018729",
+    "title_he": "לב זהב",
+    "year": 2025,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0018729/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-10"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019572",
+    "title_he": "לוויתן",
+    "year": 2025,
+    "funds": [
+      "nfct",
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9C%D7%95%D7%95%D7%99%D7%AA%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019279",
+    "title_he": "לשחרר את שולי סאן",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9C%D7%A9%D7%97%D7%A8%D7%A8-%D7%90%D7%AA-%D7%A9%D7%95%D7%9C%D7%99-%D7%A1%D7%90%D7%9F/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0018748",
+    "title_he": "לשרוף את השמיים",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9C%D7%A9%D7%A8%D7%95%D7%A3-%D7%90%D7%AA-%D7%94%D7%A9%D7%9E%D7%99%D7%99%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019225",
+    "title_he": "מי שחלם: חלומות - גאווה לאומית",
+    "year": 2025,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%9E%D7%99-%D7%A9%D7%97%D7%9C%D7%9D-%D7%97%D7%9C%D7%95%D7%9E%D7%95%D7%AA---%D7%92%D7%90%D7%95%D7%95%D7%94-%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019277",
+    "title_he": "פיל במדבר",
+    "year": 2025,
+    "funds": [
+      "makor"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://www.edb.co.il/title/t0019277/",
+      "https://www.edb.co.il/name/n0002019/",
+      "https://kerenmakor.org.il/15783/",
+      "https://kerenmakor.org.il/פסטיבל-סרטי-נשים-בירושלים-2025/",
+      "https://kerenmakor.org.il/%D7%91%D7%A8%D7%9B%D7%95%D7%AA-%D7%9C%D7%A1%D7%A8%D7%98%D7%99-%D7%9E%D7%A2%D7%91%D7%93%D7%AA-%D7%A7%D7%A6%D7%A8%D7%99%D7%9D-%D7%9C%D7%A9%D7%9D-%D7%A9%D7%99%D7%A0%D7%95%D7%99/",
+      "https://kerenmakor.org.il/%D7%9C%D7%99%D7%9C-%D7%A1%D7%A8%D7%98%D7%99%D7%9D-%D7%A7%D7%A6%D7%A8%D7%99%D7%9D-%D7%91%D7%9E%D7%9B%D7%95%D7%9F-%D7%94%D7%A6%D7%A8%D7%A4%D7%AA%D7%99/",
+      "https://kerenmakor.org.il/%D7%A4%D7%A1%D7%98%D7%99%D7%91%D7%9C-%D7%A1%D7%A8%D7%98%D7%99-%D7%A0%D7%A9%D7%99%D7%9D-%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-2025/",
+      "https://kerenmakor.org.il/%D7%A4%D7%99%D7%9C-%D7%91%D7%9E%D7%93%D7%91%D7%A8/",
+      "https://kerenmakor.org.il/%d7%91%d7%a8%d7%9b%d7%95%d7%aa-%d7%9c%d7%a1%d7%a8%d7%98%d7%99-%d7%9e%d7%a2%d7%91%d7%93%d7%aa-%d7%a7%d7%a6%d7%a8%d7%99%d7%9d-%d7%9c%d7%a9%d7%9d-%d7%a9%d7%99%d7%a0%d7%95%d7%99/",
+      "https://kerenmakor.org.il/%d7%9c%d7%99%d7%9c-%d7%a1%d7%a8%d7%98%d7%99%d7%9d-%d7%a7%d7%a6%d7%a8%d7%99%d7%9d-%d7%91%d7%9e%d7%9b%d7%95%d7%9f-%d7%94%d7%a6%d7%a8%d7%a4%d7%aa%d7%99/",
+      "https://kerenmakor.org.il/%d7%a4%d7%99%d7%9c-%d7%91%d7%9e%d7%93%d7%91%d7%a8/",
+      "https://kerenmakor.org.il/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%a8%d7%98%d7%99-%d7%a0%d7%a9%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-2025/",
+      "https://kerenmakor.org.il/elephant-in-the-desert/?lang=en",
+      "https://kerenmakor.org.il/more/יעל-ניברון-על-פיל-במדבר-2/",
+      "https://kerenmakor.org.il/more/%D7%99%D7%A2%D7%9C-%D7%A0%D7%99%D7%91%D7%A8%D7%95%D7%9F-%D7%A2%D7%9C-%D7%A4%D7%99%D7%9C-%D7%91%D7%9E%D7%93%D7%91%D7%A8-2/",
+      "https://kerenmakor.org.il/more/%D7%99%D7%A2%D7%9C-%D7%A0%D7%99%D7%91%D7%A8%D7%95%D7%9F-%D7%A2%D7%9C-%D7%A4%D7%99%D7%9C-%D7%91%D7%9E%D7%93%D7%91%D7%A8/",
+      "https://kerenmakor.org.il/more/%d7%99%d7%a2%d7%9c-%d7%a0%d7%99%d7%91%d7%a8%d7%95%d7%9f-%d7%a2%d7%9c-%d7%a4%d7%99%d7%9c-%d7%91%d7%9e%d7%93%d7%91%d7%a8-2/",
+      "https://kerenmakor.org.il/more/%d7%99%d7%a2%d7%9c-%d7%a0%d7%99%d7%91%d7%a8%d7%95%d7%9f-%d7%a2%d7%9c-%d7%a4%d7%99%d7%9c-%d7%91%d7%9e%d7%93%d7%91%d7%a8/",
+      "https://kerenmakor.org.il/more-tax/מן-העיתונות/",
+      "https://kerenmakor.org.il/more/יעל-ניברון-על-פיל-במדבר/",
+      "https://kerenmakor.org.il/ברכות-לסרטי-מעבדת-קצרים-לשם-שינוי/",
+      "https://kerenmakor.org.il/פיל-במדבר/",
+      "https://kerenmakor.org.il/ליל-סרטים-קצרים-במכון-הצרפתי/",
+      "https://kerenmakor.org.il/more/",
+      "https://kerenmakor.org.il/films/%D7%A4%D7%99%D7%9C-%D7%91%D7%9E%D7%93%D7%91%D7%A8/",
+      "https://kerenmakor.org.il/films/%d7%a4%d7%99%d7%9c-%d7%91%d7%9e%d7%93%d7%91%d7%a8/",
+      "https://kerenmakor.org.il/films/פיל-במדבר/"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019571",
+    "title_he": "שמיים וארץ",
+    "year": 2025,
+    "funds": [
+      "rabinovich_cinema"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://israelfilmfestival.com/films/heaven-and-earth-%d7%a9%d7%9e%d7%99%d7%99%d7%9d-%d7%95%d7%90%d7%a8%d7%a5/",
+      "https://www.edb.co.il/title/t0019571/",
+      "manual://rabinovich_cinema/funded-films/budget-2020-2025/page-4"
+    ],
+    "confidence": "confirmed",
+    "notes": ""
+  },
+  {
+    "film_id": "edb:t0019089",
+    "title_he": "האלונקה",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%94%D7%90%D7%9C%D7%95%D7%A0%D7%A7%D7%94/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019631",
+    "title_he": "חינה אמריקאית",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%97%D7%99%D7%A0%D7%94-%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%90%D7%99%D7%AA/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0016796",
+    "title_he": "ירושלים 1967",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D-1967/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019671",
+    "title_he": "סולטיז: הסרט",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A1%D7%95%D7%9C%D7%98%D7%99%D7%96-%D7%94%D7%A1%D7%A8%D7%98/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019235",
+    "title_he": "עד שהמוות יפגיש בינינו",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A2%D7%93-%D7%A9%D7%94%D7%9E%D7%95%D7%95%D7%AA-%D7%99%D7%A4%D7%92%D7%99%D7%A9-%D7%91%D7%99%D7%A0%D7%99%D7%A0%D7%95/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0001224",
+    "title_he": "על גג העולם",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A2%D7%9C-%D7%92%D7%92-%D7%94%D7%A2%D7%95%D7%9C%D7%9D/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019673",
+    "title_he": "קופה ראשית: הסרט",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%A7%D7%95%D7%A4%D7%94-%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%94%D7%A1%D7%A8%D7%98/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  },
+  {
+    "film_id": "edb:t0019689",
+    "title_he": "תעתוע",
+    "year": 2026,
+    "funds": [
+      "nfct"
+    ],
+    "fund_labels": [],
+    "source_urls": [
+      "https://nfct.org.il/blog/movies/%D7%AA%D7%A2%D7%AA%D7%95%D7%A2/"
+    ],
+    "confidence": "confirmed",
+    "notes": "URL is search results page (fund site does not expose individual movie pages)"
+  }
+]

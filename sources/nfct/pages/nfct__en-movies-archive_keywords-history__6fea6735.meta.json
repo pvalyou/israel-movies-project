@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=history",
+  "stable_id": "nfct__en-movies-archive_keywords-history__6fea6735",
+  "fetched_at": "2026-05-16T06:54:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:54:36Z",
+  "duration_ms": 6682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9bfe7a26b25d0720fae980e6b7011d38e23abf415ce3a1b495c5e60eaeb75f92",
+  "md_bytes": 17449,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Baalei+Teshuva",
+  "stable_id": "nfct__en-movies-archive_keywords-Baalei-Teshuva__ececd266",
+  "fetched_at": "2026-05-16T12:54:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:54:06Z",
+  "duration_ms": 10657,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08d7f2cb24f527646b23b36a4d23d09ebda1c29247bf5902a6a7b85e4ca5ebb2",
+  "md_bytes": 10305,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מעשה-בחלוק-ואישה/",
+  "stable_id": "nfct__blog-movies__50b0d709",
+  "fetched_at": "2026-05-09T21:39:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:39:45Z",
+  "duration_ms": 36002,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ff08937a02d82e6e2cc78bcc636fe1d47032d635e7153fc773fe221e6bd80d0e",
+  "md_bytes": 21147,
+  "links_found": 44,
+  "files_found": 0
+}

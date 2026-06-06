@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mental+disorder",
+  "stable_id": "nfct__en-movies-archive_keywords-mental-disorder__7bf1727f",
+  "fetched_at": "2026-05-16T14:57:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:57:59Z",
+  "duration_ms": 10272,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:144f00e0c5b37e8d445ea3c510d03b8eb8b75e7e5ead1063e0db3f26f56d0699",
+  "md_bytes": 11197,
+  "links_found": 70,
+  "files_found": 0
+}

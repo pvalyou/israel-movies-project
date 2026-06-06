@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-ילדי-פרא-טל-פסס-בית-התפוצות/",
+  "stable_id": "nfct__events-event__e8d0b1c6",
+  "fetched_at": "2026-05-10T01:40:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:40:30Z",
+  "duration_ms": 68805,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c510e546aa87941240a5486b5c7e1a9abbf8e974e78adbd8d90bed743333b39",
+  "md_bytes": 13518,
+  "links_found": 27,
+  "files_found": 0
+}

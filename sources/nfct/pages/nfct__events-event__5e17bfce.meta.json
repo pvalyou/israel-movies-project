@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מלך-היהודיםיאיר-קדר-סינמטק-חיפ/",
+  "stable_id": "nfct__events-event__5e17bfce",
+  "fetched_at": "2026-05-10T13:37:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:37:02Z",
+  "duration_ms": 39585,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b16f5c59557802c5e0cfb847caa22434a8d745e3b3823c67474630b5603602ff",
+  "md_bytes": 12856,
+  "links_found": 27,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Political+Lobby",
+  "stable_id": "nfct__en-movies-archive_keywords-Political-Lobby__aa06fbdf",
+  "fetched_at": "2026-05-16T15:18:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:18:17Z",
+  "duration_ms": 8708,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:626508cb40823351ee5523be24c4441430818d462a1c41c46568db654d5f32f4",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

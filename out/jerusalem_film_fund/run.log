@@ -1,0 +1,807 @@
+
+=== Run started 2026-05-15T11:30:22.315148 ===
+[11:30:22] Source: jerusalem_film_fund
+[11:30:22] Pages dir: sources/jerusalem_film_fund/pages
+[11:30:22] Output dir: out/jerusalem_film_fund
+[11:30:22] Total .md pages found: 261  |  Already done: 0  |  To process: 261
+[11:30:22] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:30:23] [1/261] OK   0p 1o 0f 0r 0ro  (1.16s)
+[11:30:23]           file: jerusalem_film_fund__D7-9E-D7-A4-D7-94_lang-he__c24f154c.md  [jerusalem_film_fund__D7�פה_lang-he__c24f154c.md]
+[11:30:23]           url:  https://thejerusalemfilmfund.com/%D7%9E%D7%A4%D7%94/?lang=he
+[11:30:24] [2/261] OK   2p 2o 0f 1r 3ro  (2.32s)
+[11:30:24]           file: jerusalem_film_fund__about-us__54161533.md
+[11:30:24]           url:  https://thejerusalemfilmfund.com/about-us/#slider_wrapper
+[11:30:24] [3/261] OK   2p 2o 0f 1r 3ro  (2.38s)
+[11:30:24]           file: jerusalem_film_fund__about-us__3c250802.md
+[11:30:24]           url:  https://thejerusalemfilmfund.com/about-us/#footer
+[11:30:24] [4/261] OK   2p 2o 0f 1r 3ro  (2.53s)
+[11:30:24]           file: jerusalem_film_fund__about-us__25ae8e58.md
+[11:30:24]           url:  https://thejerusalemfilmfund.com/about-us/
+[11:30:25] [5/261] OK   0p 5o 0f 4r 0ro  (2.72s)
+[11:30:25]           file: jerusalem_film_fund__10435__2bce929d.md
+[11:30:25]           url:  https://thejerusalemfilmfund.com/10435/
+[11:30:25] [6/261] OK   2p 2o 0f 1r 3ro  (3.04s)
+[11:30:25]           file: jerusalem_film_fund__about-us__27bde349.md
+[11:30:25]           url:  https://thejerusalemfilmfund.com/about-us/#navigation
+[11:30:25] [7/261] OK   2p 1o 1f 3r 0ro  (3.12s)
+[11:30:25]           file: jerusalem_film_fund__D7-A0-D7-A0-D7-A0-D7-A0_lang-he__b2d63165.md  [jerusalem_film_fund__D7�נננ_lang-he__b2d63165.md]
+[11:30:25]           url:  https://thejerusalemfilmfund.com/%D7%A0%D7%A0%D7%A0%D7%A0/?lang=he
+[11:30:25] [8/261] OK   0p 5o 0f 4r 0ro  (3.13s)
+[11:30:25]           file: jerusalem_film_fund__10435__1c4a18ad.md
+[11:30:25]           url:  https://thejerusalemfilmfund.com/10435/#navigation
+[11:30:25] [9/261] OK   0p 1o 0f 0r 0ro  (0.8s)
+[11:30:25]           file: jerusalem_film_fund__animation-projects-in-developement__6a50b19a.md
+[11:30:25]           url:  https://thejerusalemfilmfund.com/animation-projects-in-developement/#slider_w...
+[11:30:25] [10/261] OK   0p 6o 0f 0r 0ro  (3.42s)
+[11:30:25]           file: jerusalem_film_fund__D7-94-D7-A4-D7-A7-D7-95-D7-AA--D7-91-D7-99-D7-A8-D7-95-D7-A9-D7-9C-D7-99-D7-9D-w__acb40fae.md  [jerusalem_film_fund__D7�פקות-בירושלים-w__acb40fae.md]
+[11:30:25]           url:  https://thejerusalemfilmfund.com/%D7%94%D7%A4%D7%A7%D7%95%D7%AA-%D7%91%D7%99%...
+[11:30:25] [11/261] OK   0p 1o 0f 0r 0ro  (1.05s)
+[11:30:25]           file: jerusalem_film_fund__animation-projects-in-developement__75bd8f01.md
+[11:30:25]           url:  https://thejerusalemfilmfund.com/animation-projects-in-developement/#navigation
+[11:30:25] [12/261] OK   0p 1o 0f 0r 0ro  (0.82s)
+[11:30:25]           file: jerusalem_film_fund__animation-projects-in-developement__a94f658f.md
+[11:30:25]           url:  https://thejerusalemfilmfund.com/animation-projects-in-developement/#footer
+[11:30:26] [13/261] OK   0p 5o 1f 5r 0ro  (3.79s)
+[11:30:26]           file: jerusalem_film_fund__10435__05bbb14a.md
+[11:30:26]           url:  https://thejerusalemfilmfund.com/10435/#footer
+[11:30:26] [14/261] OK   2p 2o 0f 1r 4ro  (2.77s)
+[11:30:26]           file: jerusalem_film_fund__about-us__c36a3d31.md
+[11:30:26]           url:  https://thejerusalemfilmfund.com/about-us/#page_content
+[11:30:26] [15/261] OK   0p 1o 0f 0r 0ro  (1.48s)
+[11:30:26]           file: jerusalem_film_fund__animation-projects-in-developement__95fd643a.md
+[11:30:26]           url:  https://thejerusalemfilmfund.com/animation-projects-in-developement/
+[11:30:26] [16/261] OK   0p 5o 2f 7r 0ro  (4.14s)
+[11:30:26]           file: jerusalem_film_fund__10435__0d1f0a98.md
+[11:30:26]           url:  https://thejerusalemfilmfund.com/10435/#slider_wrapper
+[11:30:26] [17/261] OK   0p 1o 0f 0r 0ro  (1.49s)
+[11:30:26]           file: jerusalem_film_fund__animation-projects-in-developement__b97bf1ab.md
+[11:30:26]           url:  https://thejerusalemfilmfund.com/animation-projects-in-developement/#page_con...
+[11:30:27] [18/261] OK   0p 1o 0f 0r 0ro  (0.76s)
+[11:30:27]           file: jerusalem_film_fund__cash-rebate-2__1f679c10.md
+[11:30:27]           url:  https://thejerusalemfilmfund.com/cash-rebate-2/
+[11:30:28] [19/261] OK   0p 5o 0f 4r 0ro  (6.2s)
+[11:30:28]           file: jerusalem_film_fund__10435__b796f573.md
+[11:30:28]           url:  https://thejerusalemfilmfund.com/10435/#page_content
+[11:30:28] [20/261] OK   0p 1o 0f 0r 0ro  (0.95s)
+[11:30:28]           file: jerusalem_film_fund__contacts__077d0e27.md
+[11:30:28]           url:  https://thejerusalemfilmfund.com/contacts/#slider_wrapper
+[11:30:28] [21/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__contacts__077d0e27.md]
+[11:30:28]           file: jerusalem_film_fund__contacts__7f59b00f.md
+[11:30:28]           url:  https://thejerusalemfilmfund.com/contacts/#page_content
+[11:30:28] [22/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__contacts__077d0e27.md]
+[11:30:28]           file: jerusalem_film_fund__contacts__a1009057.md
+[11:30:28]           url:  https://thejerusalemfilmfund.com/contacts/
+[11:30:28] [23/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__contacts__077d0e27.md]
+[11:30:28]           file: jerusalem_film_fund__contacts__c6521dc9.md
+[11:30:28]           url:  https://thejerusalemfilmfund.com/contacts/#navigation
+[11:30:28] [24/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__D7-9E-D7-A4-D7-94_lang-he__c24f154c.md]
+[11:30:28]           file: jerusalem_film_fund__d7-94-d7-92-d7-a9-d7-94--d7-9e-d7-a7-d7-95-d7-95-d7-a0-d7-aa_lang-he__9e4d0557.md  [jerusalem_film_fund__d7�גשה-מקוונת_lang-he__9e4d0557.md]
+[11:30:28]           url:  https://thejerusalemfilmfund.com/%d7%94%d7%92%d7%a9%d7%94-%d7%9e%d7%a7%d7%95%...
+[11:30:29] [25/261] OK   0p 1o 0f 0r 0ro  (1.06s)
+[11:30:29]           file: jerusalem_film_fund__contacts__61937188.md
+[11:30:29]           url:  https://thejerusalemfilmfund.com/contacts/#footer
+[11:30:32] [26/261] OK   7p 3o 0f 9r 6ro  (6.26s) [TRUNC]
+[11:30:32]           file: jerusalem_film_fund__applications-large-budget-international-productions-2__68191eef.md
+[11:30:32]           url:  https://thejerusalemfilmfund.com/applications/large-budget-international-prod...
+[11:30:32] [27/261] OK   6p 3o 0f 9r 7ro  (6.26s) [TRUNC]
+[11:30:32]           file: jerusalem_film_fund__applications-large-budget-international-productions-2__a3e8a39f.md
+[11:30:32]           url:  https://thejerusalemfilmfund.com/applications/large-budget-international-prod...
+[11:30:33] [28/261] OK   10p 5o 0f 0r 0ro  (7.55s) [TRUNC]
+[11:30:33]           file: jerusalem_film_fund__applications-international-animation-productions__d4d8a9ef.md
+[11:30:33]           url:  https://thejerusalemfilmfund.com/applications/international-animation-product...
+[11:30:33] [29/261] OK   12p 5o 0f 0r 0ro  (7.63s) [TRUNC]
+[11:30:33]           file: jerusalem_film_fund__applications-international-animation-productions__fd22e840.md
+[11:30:33]           url:  https://thejerusalemfilmfund.com/applications/international-animation-product...
+[11:30:33] [30/261] OK   11p 2o 0f 0r 0ro  (7.86s) [TRUNC]
+[11:30:33]           file: jerusalem_film_fund__applications-international-animation-productions__f3024fe5.md
+[11:30:33]           url:  https://thejerusalemfilmfund.com/applications/international-animation-product...
+[11:30:34] [31/261] OK   12p 5o 0f 0r 0ro  (8.92s) [TRUNC]
+[11:30:34]           file: jerusalem_film_fund__applications-international-animation-productions__52e0ca65.md
+[11:30:34]           url:  https://thejerusalemfilmfund.com/applications/international-animation-product...
+[11:30:34] [32/261] OK   10p 3o 0f 0r 0ro  (8.06s) [TRUNC]
+[11:30:34]           file: jerusalem_film_fund__applications-large-budget-international-productions-2__f5bc645f.md
+[11:30:34]           url:  https://thejerusalemfilmfund.com/applications/large-budget-international-prod...
+[11:30:34] [33/261] OK   10p 4o 0f 4r 18ro  (9.09s) [TRUNC]
+[11:30:34]           file: jerusalem_film_fund__applications-international-animation-productions__80690144.md
+[11:30:34]           url:  https://thejerusalemfilmfund.com/applications/international-animation-product...
+[11:30:36] [34/261] OK   6p 2o 1f 10r 0ro  (4.09s)
+[11:30:36]           file: jerusalem_film_fund__film-581-2__a326037d.md
+[11:30:36]           url:  https://thejerusalemfilmfund.com/film/581-2/
+[11:30:36] [35/261] OK   3p 2o 1f 5r 0ro  (3.14s)
+[11:30:36]           file: jerusalem_film_fund__film-asia__7f404695.md
+[11:30:36]           url:  https://thejerusalemfilmfund.com/film/asia/
+[11:30:36] [36/261] OK   4p 1o 1f 0r 0ro  (7.96s)
+[11:30:36]           file: jerusalem_film_fund__d7-a1-d7-93-d7-a0-d7-94--d7-9c-d7-99-d7-a6-d7-99-d7-a8-d7-94--d7-a0-d7-a8-d7-98-__8f6543b0.md  [jerusalem_film_fund__d7�דנה-ליצירה-נרט-__8f6543b0.md]
+[11:30:36]           url:  https://thejerusalemfilmfund.com/%d7%a1%d7%93%d7%a0%d7%94-%d7%9c%d7%99%d7%a6%...
+[11:30:37] [37/261] OK   18p 2o 1f 0r 0ro  (7.46s)
+[11:30:37]           file: jerusalem_film_fund__film-3992__4e7fea50.md
+[11:30:37]           url:  https://thejerusalemfilmfund.com/film/3992/
+[11:30:38] [38/261] OK   7p 3o 1f 4r 7ro  (4.3s)
+[11:30:38]           file: jerusalem_film_fund__film-barbie-dreamtopia__f2c3bb82.md
+[11:30:38]           url:  https://thejerusalemfilmfund.com/film/barbie-dreamtopia/
+[11:30:39] [39/261] OK   10p 2o 1f 13r 11ro  (6.76s)
+[11:30:39]           file: jerusalem_film_fund__film-asia__441f85dd.md
+[11:30:39]           url:  https://thejerusalemfilmfund.com/film/asia/#navigation
+[11:30:40] [40/261] OK   9p 1o 1f 11r 0ro  (6.08s)
+[11:30:40]           file: jerusalem_film_fund__film-d7-90-d7-91-d7-95-d7-9c-d7-9c-d7-94__eb63a835.md  [jerusalem_film_fund__filmאבוללה__eb63a835.md]
+[11:30:40]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%91%d7%95%d7%9c%d7%9c%d7%94/
+[11:30:41] [41/261] OK   7p 3o 0f 10r 7ro  (15.16s) [TRUNC]
+[11:30:41]           file: jerusalem_film_fund__applications-large-budget-international-productions-2__58d210c9.md
+[11:30:41]           url:  https://thejerusalemfilmfund.com/applications/large-budget-international-prod...
+[11:30:41] [42/261] OK   4p 3o 1f 7r 0ro  (4.68s)
+[11:30:41]           file: jerusalem_film_fund__film-d7-90-d7-a8-d7-9e-d7-95-d7-9f--d7-94-d7-97-d7-95-d7-9c__4c711212.md  [jerusalem_film_fund__filmארמון-החול__4c711212.md]
+[11:30:41]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%a8%d7%9e%d7%95%d7%9f-%d7%94%d...
+[11:30:42] [43/261] OK   10p 2o 1f 12r 11ro  (7.68s)
+[11:30:42]           file: jerusalem_film_fund__film-asia__d1993ad4.md
+[11:30:42]           url:  https://thejerusalemfilmfund.com/film/asia/#slider_wrapper
+[11:30:42] [44/261] OK   4p 3o 1f 7r 0ro  (5.52s)
+[11:30:42]           file: jerusalem_film_fund__film-d7-90-d7-a8-d7-9e-d7-95-d7-9f--d7-94-d7-97-d7-95-d7-9c__58c82fe0.md  [jerusalem_film_fund__filmארמון-החול__58c82fe0.md]
+[11:30:42]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%a8%d7%9e%d7%95%d7%9f-%d7%94%d...
+[11:30:44] [45/261] OK   4p 3o 1f 7r 0ro  (5.16s)
+[11:30:44]           file: jerusalem_film_fund__film-d7-90-d7-a8-d7-9e-d7-95-d7-9f--d7-94-d7-97-d7-95-d7-9c__a0db25c0.md  [jerusalem_film_fund__filmארמון-החול__a0db25c0.md]
+[11:30:44]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%a8%d7%9e%d7%95%d7%9f-%d7%94%d...
+[11:30:44] [46/261] OK   4p 3o 1f 7r 0ro  (4.81s)
+[11:30:44]           file: jerusalem_film_fund__film-d7-90-d7-a8-d7-9e-d7-95-d7-9f--d7-94-d7-97-d7-95-d7-9c__c909be05.md  [jerusalem_film_fund__filmארמון-החול__c909be05.md]
+[11:30:44]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%a8%d7%9e%d7%95%d7%9f-%d7%94%d...
+[11:30:46] [47/261] OK   4p 3o 1f 7r 0ro  (5.82s)
+[11:30:46]           file: jerusalem_film_fund__film-d7-90-d7-a8-d7-9e-d7-95-d7-9f--d7-94-d7-97-d7-95-d7-9c__f6ffcb71.md  [jerusalem_film_fund__filmארמון-החול__f6ffcb71.md]
+[11:30:46]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%a8%d7%9e%d7%95%d7%9f-%d7%94%d...
+[11:30:46] [48/261] OK   7p 2o 1f 10r 0ro  (5.56s)
+[11:30:46]           file: jerusalem_film_fund__film-d7-91-d7-99-d7-aa--d7-9c-d7-97-d7-9d__c5d40480.md  [jerusalem_film_fund__filmבית-לחם__c5d40480.md]
+[11:30:46]           url:  https://thejerusalemfilmfund.com/film/%d7%91%d7%99%d7%aa-%d7%9c%d7%97%d7%9d/
+[11:30:48] [49/261] OK   10p 2o 1f 0r 0ro  (14.99s)
+[11:30:48]           file: jerusalem_film_fund__film-asia__58aa7622.md
+[11:30:48]           url:  https://thejerusalemfilmfund.com/film/asia/#page_content
+[11:30:48] [50/261] OK   7p 6o 1f 9r 9ro  (7.67s)
+[11:30:48]           file: jerusalem_film_fund__film-d7-91-d7-95-d7-a8-d7-92__a4419c41.md  [jerusalem_film_fund__filmבורג__a4419c41.md]
+[11:30:48]           url:  https://thejerusalemfilmfund.com/film/%d7%91%d7%95%d7%a8%d7%92/
+[11:30:48]   --- progress: 50/261 (19.2%)  rate: 113.7/min  eta: 1.9min  cost so far: $0.0496 ---
+[11:30:49] [51/261] OK   8p 2o 1f 0r 0ro  (7.87s)
+[11:30:49]           file: jerusalem_film_fund__film-d7-91-d7-a0-d7-99--d7-a2-d7-a8-d7-95-d7-91-d7-94__d8d47438.md  [jerusalem_film_fund__filmבני-ערובה__d8d47438.md]
+[11:30:49]           url:  https://thejerusalemfilmfund.com/film/%d7%91%d7%a0%d7%99-%d7%a2%d7%a8%d7%95%d...
+[11:30:50] [52/261] OK   7p 2o 1f 5r 9ro  (8.05s)
+[11:30:50]           file: jerusalem_film_fund__film-d7-94-d7-90-d7-95-d7-a4-d7-94--d7-9e-d7-91-d7-a8-d7-9c-d7-99-d7-9f__4af0b5ea.md  [jerusalem_film_fund__filmהאופה-מברלין__4af0b5ea.md]
+[11:30:50]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%90%d7%95%d7%a4%d7%94-%d7%9e%d...
+[11:30:51] [53/261] OK   2p 2o 1f 3r 2ro  (3.74s)
+[11:30:51]           file: jerusalem_film_fund__film-d7-94-d7-9e-d7-9c-d7-9a--d7-a9-d7-9c-d7-9e-d7-94__8746f376.md  [jerusalem_film_fund__filmהמלך-שלמה__8746f376.md]
+[11:30:51]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%9e%d7%9c%d7%9a-%d7%a9%d7%9c%d...
+[11:30:53] [54/261] OK   10p 2o 1f 0r 12ro  (9.18s)
+[11:30:53]           file: jerusalem_film_fund__film-d7-94-d7-91-d7-9c-d7-aa-d7-99--d7-a8-d7-a9-d7-9e-d7-99-d7-99-d7-9d__10ab648c.md  [jerusalem_film_fund__filmהבלתי-רשמיים__10ab648c.md]
+[11:30:53]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%91%d7%9c%d7%aa%d7%99-%d7%a8%d...
+[11:30:54] [55/261] OK   11p 2o 1f 0r 0ro  (7.56s)
+[11:30:54]           file: jerusalem_film_fund__film-d7-94-d7-97-d7-98-d7-90-d7-99-d7-9d__8e4aa617.md  [jerusalem_film_fund__filmהחטאים__8e4aa617.md]
+[11:30:54]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%97%d7%98%d7%90%d7%99%d7%9d/
+[11:30:55] [56/261] OK   6p 1o 1f 7r 0ro  (5.07s)
+[11:30:55]           file: jerusalem_film_fund__film-d7-94-d7-a0-d7-a4-d7-a9--d7-94-d7-98-d7-95-d7-91-d7-94__45cbbbff.md  [jerusalem_film_fund__filmהנפש-הטובה__45cbbbff.md]
+[11:30:55]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a0%d7%a4%d7%a9-%d7%94%d7%98%d...
+[11:30:55] [57/261] OK   6p 1o 1f 7r 0ro  (4.86s)
+[11:30:55]           file: jerusalem_film_fund__film-d7-94-d7-a0-d7-a4-d7-a9--d7-94-d7-98-d7-95-d7-91-d7-94__5a7d0219.md  [jerusalem_film_fund__filmהנפש-הטובה__5a7d0219.md]
+[11:30:55]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a0%d7%a4%d7%a9-%d7%94%d7%98%d...
+[11:30:55] [58/261] OK   8p 2o 1f 0r 0ro  (9.04s)
+[11:30:55]           file: jerusalem_film_fund__film-d7-94-d7-9e-d7-99-d7-9c-d7-99-d7-9d--d7-94-d7-98-d7-95-d7-91-d7-95-d7-aa__51004da6.md  [jerusalem_film_fund__filmהמילים-הטובות__51004da6.md]
+[11:30:55]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d...
+[11:30:56] [59/261] OK   6p 1o 1f 7r 0ro  (4.96s)
+[11:30:56]           file: jerusalem_film_fund__film-d7-94-d7-a0-d7-a4-d7-a9--d7-94-d7-98-d7-95-d7-91-d7-94__74d9e9f3.md  [jerusalem_film_fund__filmהנפש-הטובה__74d9e9f3.md]
+[11:30:56]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a0%d7%a4%d7%a9-%d7%94%d7%98%d...
+[11:31:00] [60/261] OK   6p 1o 1f 7r 7ro  (7.8s)
+[11:31:00]           file: jerusalem_film_fund__film-d7-94-d7-a0-d7-a4-d7-a9--d7-94-d7-98-d7-95-d7-91-d7-94__c3019f3f.md  [jerusalem_film_fund__filmהנפש-הטובה__c3019f3f.md]
+[11:31:00]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a0%d7%a4%d7%a9-%d7%94%d7%98%d...
+[11:31:01] [61/261] OK   8p 1o 1f 7r 9ro  (7.19s)
+[11:31:01]           file: jerusalem_film_fund__film-d7-94-d7-a0-d7-a4-d7-a9--d7-94-d7-98-d7-95-d7-91-d7-94__f000e6b8.md  [jerusalem_film_fund__filmהנפש-הטובה__f000e6b8.md]
+[11:31:01]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a0%d7%a4%d7%a9-%d7%94%d7%98%d...
+[11:31:03] [62/261] OK   13p 2o 1f 0r 0ro  (7.54s)
+[11:31:03]           file: jerusalem_film_fund__film-d7-94-d7-a4-d7-9c-d7-a0-d7-98-d7-95-d7-a0-d7-99-d7-9d__8513ff7f.md  [jerusalem_film_fund__filmהפלנטונים__8513ff7f.md]
+[11:31:03]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a4%d7%9c%d7%a0%d7%98%d7%95%d7...
+[11:31:03] [63/261] OK   6p 7o 1f 0r 0ro  (8.97s)
+[11:31:03]           file: jerusalem_film_fund__film-d7-94-d7-a2-d7-a8-d7-aa--d7-a9-d7-95-d7-9c-d7-99-d7-99-d7-9d__4bde7caa.md  [jerusalem_film_fund__filmהערת-שוליים__4bde7caa.md]
+[11:31:03]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a2%d7%a8%d7%aa-%d7%a9%d7%95%d...
+[11:31:04] [64/261] OK   13p 2o 1f 0r 0ro  (9.07s)
+[11:31:04]           file: jerusalem_film_fund__film-d7-94-d7-a4-d7-9c-d7-a0-d7-98-d7-95-d7-a0-d7-99-d7-9d__555e2f64.md  [jerusalem_film_fund__filmהפלנטונים__555e2f64.md]
+[11:31:04]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a4%d7%9c%d7%a0%d7%98%d7%95%d7...
+[11:31:08] [65/261] OK   4p 2o 1f 6r 6ro  (4.99s)
+[11:31:08]           file: jerusalem_film_fund__film-d7-94-d7-a6-d7-95-d7-a8-d7-a3__4b859adc.md  [jerusalem_film_fund__filmהצורף__4b859adc.md]
+[11:31:08]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a6%d7%95%d7%a8%d7%a3/
+[11:31:09] [66/261] OK   13p 2o 1f 0r 0ro  (8.55s)
+[11:31:09]           file: jerusalem_film_fund__film-d7-94-d7-a4-d7-9c-d7-a0-d7-98-d7-95-d7-a0-d7-99-d7-9d__df5de0a8.md  [jerusalem_film_fund__filmהפלנטונים__df5de0a8.md]
+[11:31:09]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a4%d7%9c%d7%a0%d7%98%d7%95%d7...
+[11:31:10] [67/261] OK   13p 2o 1f 0r 11ro  (8.9s)
+[11:31:10]           file: jerusalem_film_fund__film-d7-94-d7-a4-d7-9c-d7-a0-d7-98-d7-95-d7-a0-d7-99-d7-9d__ee3c26d5.md  [jerusalem_film_fund__filmהפלנטונים__ee3c26d5.md]
+[11:31:10]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a4%d7%9c%d7%a0%d7%98%d7%95%d7...
+[11:31:10] [68/261] OK   9p 2o 1f 5r 10ro  (6.81s)
+[11:31:10]           file: jerusalem_film_fund__film-d7-94-d7-a8-d7-9e-d7-95-d7-a0-d7-99-d7-94__c54f3def.md  [jerusalem_film_fund__filmהרמוניה__c54f3def.md]
+[11:31:10]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a8%d7%9e%d7%95%d7%a0%d7%99%d7...
+[11:31:11] [69/261] OK   8p 3o 1f 0r 0ro  (6.96s)
+[11:31:11]           file: jerusalem_film_fund__film-d7-94-d7-a9-d7-95-d7-98-d7-a8__a38eee0c.md  [jerusalem_film_fund__filmהשוטר__a38eee0c.md]
+[11:31:11]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a9%d7%95%d7%98%d7%a8/
+[11:31:11] [70/261] OK   10p 2o 1f 13r 0ro  (35.13s)
+[11:31:11]           file: jerusalem_film_fund__film-d7-90-d7-9e-d7-90-d7-9c__ba550637.md  [jerusalem_film_fund__filmאמאל__ba550637.md]
+[11:31:11]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%9e%d7%90%d7%9c/
+[11:31:17] [71/261] OK   13p 3o 1f 0r 0ro  (9.23s)
+[11:31:17]           file: jerusalem_film_fund__film-d7-94-d7-a9-d7-aa-d7-99-d7-a7-d7-94__246f60f8.md  [jerusalem_film_fund__filmהשתיקה__246f60f8.md]
+[11:31:17]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94/#s...
+[11:31:18] [72/261] OK   13p 3o 1f 0r 0ro  (8.77s)
+[11:31:18]           file: jerusalem_film_fund__film-d7-94-d7-a9-d7-aa-d7-99-d7-a7-d7-94__44b2fd94.md  [jerusalem_film_fund__filmהשתיקה__44b2fd94.md]
+[11:31:18]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94/#n...
+[11:31:18] [73/261] OK   13p 3o 1f 0r 13ro  (8.48s)
+[11:31:18]           file: jerusalem_film_fund__film-d7-94-d7-a9-d7-aa-d7-99-d7-a7-d7-94__5592df44.md  [jerusalem_film_fund__filmהשתיקה__5592df44.md]
+[11:31:18]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94/
+[11:31:20] [74/261] OK   13p 3o 1f 0r 0ro  (8.94s)
+[11:31:20]           file: jerusalem_film_fund__film-d7-94-d7-a9-d7-aa-d7-99-d7-a7-d7-94__b31a3f19.md  [jerusalem_film_fund__filmהשתיקה__b31a3f19.md]
+[11:31:20]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94/#f...
+[11:31:22] [75/261] OK   6p 3o 0f 11r 6ro  (56.29s) [TRUNC]
+[11:31:22]           file: jerusalem_film_fund__applications-large-budget-international-productions-2__7b06659b.md
+[11:31:22]           url:  https://thejerusalemfilmfund.com/applications/large-budget-international-prod...
+[11:31:22] [76/261] OK   7p 2o 1f 0r 0ro  (11.08s)
+[11:31:22]           file: jerusalem_film_fund__film-d7-94-d7-aa-d7-a4-d7-95-d7-a8-d7-a8-d7-95-d7-aa__9ef95c65.md  [jerusalem_film_fund__filmהתפוררות__9ef95c65.md]
+[11:31:22]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%aa%d7%a4%d7%95%d7%a8%d7%a8%d7...
+[11:31:23] [77/261] OK   6p 2o 1f 8r 0ro  (6.0s)
+[11:31:23]           file: jerusalem_film_fund__film-d7-97-d7-93-d7-a8-d7-99--d7-94-d7-91-d7-99-d7-aa__3a159e7b.md  [jerusalem_film_fund__filmחדרי-הבית__3a159e7b.md]
+[11:31:23]           url:  https://thejerusalemfilmfund.com/film/%d7%97%d7%93%d7%a8%d7%99-%d7%94%d7%91%d...
+[11:31:24] [78/261] OK   7p 3o 1f 11r 0ro  (6.1s)
+[11:31:24]           file: jerusalem_film_fund__film-d7-97-d7-a0-d7-94--d7-90-d7-a8-d7-a0-d7-93-d7-98__3b134833.md  [jerusalem_film_fund__filmחנה-ארנדט__3b134833.md]
+[11:31:24]           url:  https://thejerusalemfilmfund.com/film/%d7%97%d7%a0%d7%94-%d7%90%d7%a8%d7%a0%d...
+[11:31:28] [79/261] OK   13p 3o 1f 0r 0ro  (17.67s)
+[11:31:28]           file: jerusalem_film_fund__film-d7-94-d7-a9-d7-aa-d7-99-d7-a7-d7-94__7f2444f5.md  [jerusalem_film_fund__filmהשתיקה__7f2444f5.md]
+[11:31:28]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94/#p...
+[11:31:30] [80/261] OK   13p 3o 1f 0r 7ro  (7.8s)
+[11:31:30]           file: jerusalem_film_fund__film-d7-9c-d7-91--d7-a9-d7-a7-d7-98--d7-9e-d7-90-d7-95-d7-93__461e0121.md  [jerusalem_film_fund__filmלב-שקט-מאוד__461e0121.md]
+[11:31:30]           url:  https://thejerusalemfilmfund.com/film/%d7%9c%d7%91-%d7%a9%d7%a7%d7%98-%d7%9e%...
+[11:31:32] [81/261] OK   7p 3o 1f 0r 0ro  (8.51s)
+[11:31:32]           file: jerusalem_film_fund__film-d7-9e-d7-a2-d7-9c-d7-94--d7-a7-d7-a8-d7-97-d7-95-d7-aa__09d439ad.md  [jerusalem_film_fund__filmמעלה-קרחות__09d439ad.md]
+[11:31:32]           url:  https://thejerusalemfilmfund.com/film/%d7%9e%d7%a2%d7%9c%d7%94-%d7%a7%d7%a8%d...
+[11:31:32] [82/261] OK   8p 5o 1f 0r 0ro  (8.43s)
+[11:31:32]           file: jerusalem_film_fund__film-d7-9e-d7-a7-d7-95-d7-9d--d7-91-d7-92-d7-9f--d7-a2-d7-93-d7-9f__b0f0d43f.md  [jerusalem_film_fund__filmמקום-בגן-עדן__b0f0d43f.md]
+[11:31:32]           url:  https://thejerusalemfilmfund.com/film/%d7%9e%d7%a7%d7%95%d7%9d-%d7%91%d7%92%d...
+[11:31:33] [83/261] OK   6p 2o 1f 0r 0ro  (10.72s)
+[11:31:33]           file: jerusalem_film_fund__film-d7-9e-d7-a2-d7-91-d7-a8--d7-9c-d7-94-d7-a8-d7-99-d7-9d--d7-95-d7-94-d7-92-d__4a5868d6.md  [jerusalem_film_fund__filmמעבר-להרים-והג-d__4a5868d6.md]
+[11:31:33]           url:  https://thejerusalemfilmfund.com/film/%d7%9e%d7%a2%d7%91%d7%a8-%d7%9c%d7%94%d...
+[11:31:34] [84/261] OK   13p 2o 1f 0r 0ro  (37.31s)
+[11:31:34]           file: jerusalem_film_fund__film-d7-94-d7-a4-d7-9c-d7-a0-d7-98-d7-95-d7-a0-d7-99-d7-9d__db46d439.md  [jerusalem_film_fund__filmהפלנטונים__db46d439.md]
+[11:31:34]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%a4%d7%9c%d7%a0%d7%98%d7%95%d7...
+[11:31:34] [85/261] OK   13p 4o 1f 0r 0ro  (16.03s)
+[11:31:34]           file: jerusalem_film_fund__film-d7-99-d7-95-d7-a0-d7-94__261e4e93.md  [jerusalem_film_fund__filmיונה__261e4e93.md]
+[11:31:34]           url:  https://thejerusalemfilmfund.com/film/%d7%99%d7%95%d7%a0%d7%94/
+[11:31:36] [86/261] OK   8p 3o 1f 0r 0ro  (7.65s)
+[11:31:36]           file: jerusalem_film_fund__film-d7-a0-d7-93-d7-99-d7-94--d7-a9-d7-9d--d7-96-d7-9e-d7-a0-d7-99__f430e5f9.md  [jerusalem_film_fund__filmנדיה-שם-זמני__f430e5f9.md]
+[11:31:36]           url:  https://thejerusalemfilmfund.com/film/%d7%a0%d7%93%d7%99%d7%94-%d7%a9%d7%9d-%...
+[11:31:37] [87/261] OK   8p 2o 1f 0r 0ro  (7.05s)
+[11:31:37]           file: jerusalem_film_fund__film-d7-a1-d7-95-d7-9b-d7-a8-d7-99-d7-95-d7-aa__c3328dc7.md  [jerusalem_film_fund__filmסוכריות__c3328dc7.md]
+[11:31:37]           url:  https://thejerusalemfilmfund.com/film/%d7%a1%d7%95%d7%9b%d7%a8%d7%99%d7%95%d7...
+[11:31:39] [88/261] OK   11p 3o 1f 0r 0ro  (7.72s)
+[11:31:39]           file: jerusalem_film_fund__film-d7-a1-d7-95-d7-a3--d7-94-d7-93-d7-a8-d7-9a__9fdaef51.md  [jerusalem_film_fund__filmסוף-הדרך__9fdaef51.md]
+[11:31:39]           url:  https://thejerusalemfilmfund.com/film/%d7%a1%d7%95%d7%a3-%d7%94%d7%93%d7%a8%d...
+[11:31:41] [89/261] OK   8p 2o 1f 12r 0ro  (7.06s)
+[11:31:41]           file: jerusalem_film_fund__film-d7-a4-d7-9c-d7-90-d7-95-d7-aa__a5462bb9.md  [jerusalem_film_fund__filmפלאות__a5462bb9.md]
+[11:31:41]           url:  https://thejerusalemfilmfund.com/film/%d7%a4%d7%9c%d7%90%d7%95%d7%aa/
+[11:31:42] [90/261] OK   11p 3o 1f 0r 0ro  (8.61s)
+[11:31:42]           file: jerusalem_film_fund__film-d7-a1-d7-a8-d7-95-d7-92-d7-99-d7-9d__28947b3d.md  [jerusalem_film_fund__filmסרוגים__28947b3d.md]
+[11:31:42]           url:  https://thejerusalemfilmfund.com/film/%d7%a1%d7%a8%d7%95%d7%92%d7%99%d7%9d/
+[11:31:42] [91/261] OK   10p 7o 1f 0r 0ro  (8.63s)
+[11:31:42]           file: jerusalem_film_fund__film-d7-a2-d7-a8-d7-91-d7-99-d7-9d--d7-a8-d7-95-d7-a7-d7-93-d7-99-d7-9d__aed86f11.md  [jerusalem_film_fund__filmערבים-רוקדים__aed86f11.md]
+[11:31:42]           url:  https://thejerusalemfilmfund.com/film/%d7%a2%d7%a8%d7%91%d7%99%d7%9d-%d7%a8%d...
+[11:31:45] [92/261] OK   10p 2o 1f 0r 11ro  (7.9s)
+[11:31:45]           file: jerusalem_film_fund__film-d7-a7-d7-90-d7-a4-d7-95--d7-91-d7-99-d7-a8-d7-95-d7-a9-d7-9c-d7-99-d7-9d__9f213482.md  [jerusalem_film_fund__filmקאפו-בירושלים__9f213482.md]
+[11:31:45]           url:  https://thejerusalemfilmfund.com/film/%d7%a7%d7%90%d7%a4%d7%95-%d7%91%d7%99%d...
+[11:31:45] [93/261] OK   4p 1o 1f 6r 0ro  (3.3s)
+[11:31:45]           file: jerusalem_film_fund__film-fever-at-dawn__04b0add7.md
+[11:31:45]           url:  https://thejerusalemfilmfund.com/film/fever-at-dawn/
+[11:31:46] [94/261] OK   5p 2o 1f 8r 0ro  (3.88s)
+[11:31:46]           file: jerusalem_film_fund__film-honeymood__3faeeebf.md
+[11:31:46]           url:  https://thejerusalemfilmfund.com/film/honeymood/
+[11:31:47] [95/261] OK   0p 0o 0f 0r 0ro  (7.83s)
+[11:31:47]           file: jerusalem_film_fund__film-d7-a9-d7-9c-d7-99-d7-97-d7-95-d7-aa-d7-95--d7-a9-d7-9c--d7-94-d7-9e-d7-9e-d__863444e4.md  [jerusalem_film_fund__filmשליחותו-של-הממ-d__863444e4.md]
+[11:31:47]           url:  https://thejerusalemfilmfund.com/film/%d7%a9%d7%9c%d7%99%d7%97%d7%95%d7%aa%d7...
+[11:31:48] [96/261] OK   3p 1o 1f 5r 0ro  (2.28s)
+[11:31:48]           file: jerusalem_film_fund__film-legend-of-destruction__4ef42e3e.md
+[11:31:48]           url:  https://thejerusalemfilmfund.com/film/legend-of-destruction/#navigation
+[11:31:48] [97/261] OK   3p 1o 1f 5r 0ro  (0s) [dedup←jerusalem_film_fund__film-legend-of-destruction__4ef42e3e.md]
+[11:31:48]           file: jerusalem_film_fund__film-legend-of-destruction__7a8392d1.md
+[11:31:48]           url:  https://thejerusalemfilmfund.com/film/legend-of-destruction/
+[11:31:48] [98/261] OK   3p 1o 1f 5r 0ro  (0s) [dedup←jerusalem_film_fund__film-legend-of-destruction__4ef42e3e.md]
+[11:31:48]           file: jerusalem_film_fund__film-legend-of-destruction__8e520582.md
+[11:31:48]           url:  https://thejerusalemfilmfund.com/film/legend-of-destruction/#page_content
+[11:31:48] [99/261] OK   10p 2o 1f 0r 0ro  (28.41s)
+[11:31:48]           file: jerusalem_film_fund__film-d7-99-d7-9c-d7-93-d7-99--d7-a8-d7-90-d7-a9--d7-94-d7-9e-d7-9e-d7-a9-d7-9c-d__e478b220.md  [jerusalem_film_fund__filmילדי-ראש-הממשל-d__e478b220.md]
+[11:31:48]           url:  https://thejerusalemfilmfund.com/film/%d7%99%d7%9c%d7%93%d7%99-%d7%a8%d7%90%d...
+[11:31:49] [100/261] OK   5p 2o 1f 7r 6ro  (60.79s)
+[11:31:49]           file: jerusalem_film_fund__film-d7-94-d7-9e-d7-a1-d7-a2--d7-a9-d7-9c--d7-97-d7-a0-d7-94__17f29a8a.md  [jerusalem_film_fund__filmהמסע-של-חנה__17f29a8a.md]
+[11:31:49]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%9e%d7%a1%d7%a2-%d7%a9%d7%9c-%...
+[11:31:49]   --- progress: 100/261 (38.3%)  rate: 68.8/min  eta: 2.3min  cost so far: $0.1290 ---
+[11:31:50] [101/261] OK   6p 3o 1f 0r 0ro  (14.74s)
+[11:31:50]           file: jerusalem_film_fund__film-d7-a4-d7-9c-d7-a1-d7-98-d7-9c-d7-99-d7-a0-d7-94__0975283d.md  [jerusalem_film_fund__filmפלסטלינה__0975283d.md]
+[11:31:50]           url:  https://thejerusalemfilmfund.com/film/%d7%a4%d7%9c%d7%a1%d7%98%d7%9c%d7%99%d7...
+[11:31:53] [102/261] OK   3p 1o 1f 5r 0ro  (6.05s)
+[11:31:53]           file: jerusalem_film_fund__film-legend-of-destruction__75066ef8.md
+[11:31:53]           url:  https://thejerusalemfilmfund.com/film/legend-of-destruction/#footer
+[11:31:56] [103/261] OK   4p 6o 1f 10r 5ro  (72.26s)
+[11:31:56]           file: jerusalem_film_fund__film-d7-94-d7-94-d7-a8__2ce09539.md  [jerusalem_film_fund__filmההר__2ce09539.md]
+[11:31:56]           url:  https://thejerusalemfilmfund.com/film/%d7%94%d7%94%d7%a8/
+[11:31:57] [104/261] OK   4p 3o 1f 9r 6ro  (6.23s)
+[11:31:57]           file: jerusalem_film_fund__film-muppet-babies__54a17f11.md
+[11:31:57]           url:  https://thejerusalemfilmfund.com/film/muppet-babies/#navigation
+[11:31:58] [105/261] OK   7p 6o 1f 0r 0ro  (82.14s)
+[11:31:58]           file: jerusalem_film_fund__film-d7-90-d7-95-d7-a8-d7-97-d7-99-d7-9d--d7-9c-d7-a8-d7-92-d7-a2__d3e07a48.md  [jerusalem_film_fund__filmאורחים-לרגע__d3e07a48.md]
+[11:31:58]           url:  https://thejerusalemfilmfund.com/film/%d7%90%d7%95%d7%a8%d7%97%d7%99%d7%9d-%d...
+[11:31:58] [106/261] OK   6p 8o 1f 0r 0ro  (17.06s)
+[11:31:58]           file: jerusalem_film_fund__film-d7-aa-d7-99-d7-a7-d7-95-d7-9f__ae15e312.md  [jerusalem_film_fund__filmתיקון__ae15e312.md]
+[11:31:58]           url:  https://thejerusalemfilmfund.com/film/%d7%aa%d7%99%d7%a7%d7%95%d7%9f/
+[11:31:59] [107/261] OK   10p 2o 1f 12r 0ro  (13.7s)
+[11:31:59]           file: jerusalem_film_fund__film-laces__f405b81d.md
+[11:31:59]           url:  https://thejerusalemfilmfund.com/film/laces/
+[11:32:01] [108/261] OK   5p 2o 1f 7r 0ro  (3.89s)
+[11:32:01]           file: jerusalem_film_fund__film-norman__3eaca02d.md
+[11:32:01]           url:  https://thejerusalemfilmfund.com/film/norman/
+[11:32:01] [109/261] OK   3p 2o 1f 4r 0ro  (2.76s)
+[11:32:01]           file: jerusalem_film_fund__film-once-upon-a-sea__00e35dfc.md
+[11:32:01]           url:  https://thejerusalemfilmfund.com/film/once-upon-a-sea/#navigation
+[11:32:01] [110/261] OK   3p 2o 1f 4r 0ro  (0s) [dedup←jerusalem_film_fund__film-once-upon-a-sea__00e35dfc.md]
+[11:32:01]           file: jerusalem_film_fund__film-once-upon-a-sea__ed6880d5.md
+[11:32:01]           url:  https://thejerusalemfilmfund.com/film/once-upon-a-sea/#slider_wrapper
+[11:32:01] [111/261] OK   3p 2o 1f 4r 0ro  (2.64s)
+[11:32:01]           file: jerusalem_film_fund__film-once-upon-a-sea__172a4533.md
+[11:32:01]           url:  https://thejerusalemfilmfund.com/film/once-upon-a-sea/#footer
+[11:32:01] [112/261] OK   3p 2o 1f 5r 0ro  (2.52s)
+[11:32:01]           file: jerusalem_film_fund__film-once-upon-a-sea__39730c29.md
+[11:32:01]           url:  https://thejerusalemfilmfund.com/film/once-upon-a-sea/
+[11:32:02] [113/261] OK   4p 3o 1f 7r 6ro  (5.58s)
+[11:32:02]           file: jerusalem_film_fund__film-muppet-babies__80b4a4d9.md
+[11:32:02]           url:  https://thejerusalemfilmfund.com/film/muppet-babies/#page_content
+[11:32:02] [114/261] OK   6p 2o 1f 10r 8ro  (13.35s)
+[11:32:02]           file: jerusalem_film_fund__film-maktub__47c5540e.md
+[11:32:02]           url:  https://thejerusalemfilmfund.com/film/maktub/
+[11:32:02] [115/261] OK   4p 3o 1f 7r 0ro  (8.49s)
+[11:32:02]           file: jerusalem_film_fund__film-muppet-babies__6fdbe45f.md
+[11:32:02]           url:  https://thejerusalemfilmfund.com/film/muppet-babies/
+[11:32:04] [116/261] OK   3p 2o 1f 5r 0ro  (3.33s)
+[11:32:04]           file: jerusalem_film_fund__film-once-upon-a-sea__b37d647a.md
+[11:32:04]           url:  https://thejerusalemfilmfund.com/film/once-upon-a-sea/#page_content
+[11:32:05] [117/261] OK   3p 3o 1f 6r 5ro  (4.3s)
+[11:32:05]           file: jerusalem_film_fund__film-star-darlings__a539bf5d.md
+[11:32:05]           url:  https://thejerusalemfilmfund.com/film/star-darlings/
+[11:32:06] [118/261] OK   2p 1o 1f 4r 0ro  (2.24s)
+[11:32:06]           file: jerusalem_film_fund__film-the-holy-city__bde8e61d.md
+[11:32:06]           url:  https://thejerusalemfilmfund.com/film/the-holy-city/
+[11:32:07] [119/261] OK   2p 1o 1f 3r 0ro  (5.51s)
+[11:32:07]           file: jerusalem_film_fund__film-the-holy-city__18f3db99.md
+[11:32:07]           url:  https://thejerusalemfilmfund.com/film/the-holy-city/#navigation
+[11:32:07] [120/261] OK   10p 2o 1f 13r 0ro  (5.71s)
+[11:32:07]           file: jerusalem_film_fund__film-saving-neta__06b75211.md
+[11:32:07]           url:  https://thejerusalemfilmfund.com/film/saving-neta/
+[11:32:08] [121/261] OK   10p 2o 1f 13r 0ro  (94.97s)
+[11:32:08]           file: jerusalem_film_fund__film-asia__c757bb59.md
+[11:32:08]           url:  https://thejerusalemfilmfund.com/film/asia/#footer
+[11:32:09] [122/261] OK   2p 14o 1f 17r 0ro  (7.57s)
+[11:32:09]           file: jerusalem_film_fund__film-the-holy-city__29c97afc.md
+[11:32:09]           url:  https://thejerusalemfilmfund.com/film/the-holy-city/#footer
+[11:32:09] [123/261] OK   6p 3o 1f 0r 0ro  (36.96s)
+[11:32:09]           file: jerusalem_film_fund__film-d7-a1-d7-99-d7-a4-d7-95-d7-a8--d7-a2-d7-9c--d7-90-d7-94-d7-91-d7-94--d7-95-__3135b428.md  [jerusalem_film_fund__filmסיפור-על-אהבה-ו-__3135b428.md]
+[11:32:09]           url:  https://thejerusalemfilmfund.com/film/%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%a2%d...
+[11:32:10] [124/261] OK   4p 3o 1f 8r 0ro  (3.76s)
+[11:32:10]           file: jerusalem_film_fund__film-the-sand-castle__4d2127b1.md
+[11:32:10]           url:  https://thejerusalemfilmfund.com/film/the-sand-castle/
+[11:32:11] [125/261] OK   2p 14o 1f 0r 0ro  (8.81s)
+[11:32:11]           file: jerusalem_film_fund__film-the-holy-city__a23af8ea.md
+[11:32:11]           url:  https://thejerusalemfilmfund.com/film/the-holy-city/#slider_wrapper
+[11:32:12] [126/261] OK   4p 3o 1f 7r 0ro  (3.63s)
+[11:32:12]           file: jerusalem_film_fund__film-the-sand-castle__9e8ec911.md
+[11:32:12]           url:  https://thejerusalemfilmfund.com/film/the-sand-castle/#navigation
+[11:32:12] [127/261] OK   13p 5o 1f 0r 0ro  (6.92s)
+[11:32:12]           file: jerusalem_film_fund__film-the-other-story__d6bebed9.md
+[11:32:12]           url:  https://thejerusalemfilmfund.com/film/the-other-story/
+[11:32:12] [128/261] OK   1p 1o 1f 3r 0ro  (2.01s)
+[11:32:12]           file: jerusalem_film_fund__film-where-is-anne-frank__049f5e29.md
+[11:32:12]           url:  https://thejerusalemfilmfund.com/film/where-is-anne-frank/
+[11:32:12] [129/261] OK   1p 1o 1f 3r 0ro  (0s) [dedup←jerusalem_film_fund__film-where-is-anne-frank__049f5e29.md]
+[11:32:12]           file: jerusalem_film_fund__film-where-is-anne-frank__f7b30af2.md
+[11:32:12]           url:  https://thejerusalemfilmfund.com/film/where-is-anne-frank/#footer
+[11:32:13] [130/261] OK   4p 3o 1f 7r 0ro  (3.75s)
+[11:32:13]           file: jerusalem_film_fund__film-the-sand-castle__e1136e6d.md
+[11:32:13]           url:  https://thejerusalemfilmfund.com/film/the-sand-castle/#page_content
+[11:32:13] [131/261] OK   1p 1o 1f 4r 0ro  (2.54s)
+[11:32:13]           file: jerusalem_film_fund__film-where-is-anne-frank__0c6a0a37.md
+[11:32:13]           url:  https://thejerusalemfilmfund.com/film/where-is-anne-frank/#slider_wrapper
+[11:32:14] [132/261] OK   1p 1o 1f 3r 0ro  (1.85s)
+[11:32:14]           file: jerusalem_film_fund__film-where-is-anne-frank__b05b31b2.md
+[11:32:14]           url:  https://thejerusalemfilmfund.com/film/where-is-anne-frank/#navigation
+[11:32:14] [133/261] OK   1p 1o 1f 4r 0ro  (2.16s)
+[11:32:14]           file: jerusalem_film_fund__film-where-is-anne-frank__b1c5d3c7.md
+[11:32:14]           url:  https://thejerusalemfilmfund.com/film/where-is-anne-frank/#page_content
+[11:32:15] [134/261] OK   3p 2o 1f 4r 0ro  (2.5s)
+[11:32:15]           file: jerusalem_film_fund__film-yaturu-experience__3a34fdeb.md
+[11:32:15]           url:  https://thejerusalemfilmfund.com/film/yaturu-experience/#navigation
+[11:32:15] [135/261] OK   4p 3o 1f 7r 0ro  (8.6s)
+[11:32:15]           file: jerusalem_film_fund__film-the-sand-castle__6290ff26.md
+[11:32:15]           url:  https://thejerusalemfilmfund.com/film/the-sand-castle/#slider_wrapper
+[11:32:16] [136/261] OK   3p 2o 1f 4r 0ro  (3.01s)
+[11:32:16]           file: jerusalem_film_fund__film-yaturu-experience__47995afc.md
+[11:32:16]           url:  https://thejerusalemfilmfund.com/film/yaturu-experience/
+[11:32:16] [137/261] OK   13p 2o 1f 5r 14ro  (6.97s)
+[11:32:16]           file: jerusalem_film_fund__film-the-testament__1a732595.md
+[11:32:16]           url:  https://thejerusalemfilmfund.com/film/the-testament/
+[11:32:18] [138/261] OK   4p 2o 1f 5r 0ro  (3.64s)
+[11:32:18]           file: jerusalem_film_fund__film-yaturu-experience__e3df4a34.md
+[11:32:18]           url:  https://thejerusalemfilmfund.com/film/yaturu-experience/#slider_wrapper
+[11:32:20] [139/261] OK   4p 2o 1f 5r 0ro  (6.27s)
+[11:32:20]           file: jerusalem_film_fund__film-yaturu-experience__5b718c12.md
+[11:32:20]           url:  https://thejerusalemfilmfund.com/film/yaturu-experience/#footer
+[11:32:22] [140/261] OK   2p 14o 1f 0r 0ro  (20.47s)
+[11:32:22]           file: jerusalem_film_fund__film-the-holy-city__2cf1edca.md
+[11:32:22]           url:  https://thejerusalemfilmfund.com/film/the-holy-city/#page_content
+[11:32:22] [141/261] OK   11p 2o 2f 17r 0ro  (7.52s)
+[11:32:22]           file: jerusalem_film_fund__film-yolo__66823452.md
+[11:32:22]           url:  https://thejerusalemfilmfund.com/film/yolo/
+[11:32:24] [142/261] OK   15p 1o 15f 6r 0ro  (8.59s)
+[11:32:24]           file: jerusalem_film_fund__film__0410a535.md
+[11:32:24]           url:  https://thejerusalemfilmfund.com/film/#footer
+[11:32:24] [143/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__cash-rebate-2__1f679c10.md]
+[11:32:24]           file: jerusalem_film_fund__filming-in-jerusalem-cash-rebate-2__5bc772e0.md
+[11:32:24]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/cash-rebate-2/#navigation
+[11:32:24] [144/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__cash-rebate-2__1f679c10.md]
+[11:32:24]           file: jerusalem_film_fund__filming-in-jerusalem-cash-rebate-2__5d722909.md
+[11:32:24]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/cash-rebate-2/#page_con...
+[11:32:24] [145/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__cash-rebate-2__1f679c10.md]
+[11:32:24]           file: jerusalem_film_fund__filming-in-jerusalem-cash-rebate-2__d94e132e.md
+[11:32:24]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/cash-rebate-2/#footer
+[11:32:24] [146/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__cash-rebate-2__1f679c10.md]
+[11:32:24]           file: jerusalem_film_fund__filming-in-jerusalem-cash-rebate-2__dc723bdc.md
+[11:32:24]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/cash-rebate-2/
+[11:32:24] [147/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__cash-rebate-2__1f679c10.md]
+[11:32:24]           file: jerusalem_film_fund__filming-in-jerusalem-cash-rebate-2__e30f9b09.md
+[11:32:24]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/cash-rebate-2/#slider_w...
+[11:32:27] [148/261] OK   0p 6o 0f 4r 0ro  (2.95s)
+[11:32:27]           file: jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__12408ef7.md
+[11:32:27]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/why-jerusalem/#navigation
+[11:32:27] [149/261] OK   0p 6o 0f 4r 0ro  (0s) [dedup←jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__12408ef7.md]
+[11:32:27]           file: jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__367dadc8.md
+[11:32:27]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/why-jerusalem/#footer
+[11:32:27] [150/261] OK   0p 6o 0f 4r 0ro  (0s) [dedup←jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__12408ef7.md]
+[11:32:27]           file: jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__4471e668.md
+[11:32:27]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/why-jerusalem/#page_con...
+[11:32:27]   --- progress: 150/261 (57.5%)  rate: 72.0/min  eta: 1.5min  cost so far: $0.1748 ---
+[11:32:27] [151/261] OK   0p 6o 0f 4r 0ro  (0s) [dedup←jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__12408ef7.md]
+[11:32:27]           file: jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__601b06b4.md
+[11:32:27]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/why-jerusalem/
+[11:32:27] [152/261] OK   0p 6o 0f 4r 0ro  (0s) [dedup←jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__12408ef7.md]
+[11:32:27]           file: jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__99f8992a.md
+[11:32:27]           url:  https://thejerusalemfilmfund.com/filming-in-jerusalem/why-jerusalem/#slider_w...
+[11:32:30] [153/261] OK   3p 1o 1f 5r 0ro  (45.14s)
+[11:32:30]           file: jerusalem_film_fund__film-legend-of-destruction__2028f148.md
+[11:32:30]           url:  https://thejerusalemfilmfund.com/film/legend-of-destruction/#slider_wrapper
+[11:32:30] [154/261] OK   15p 1o 14f 8r 0ro  (8.07s)
+[11:32:30]           file: jerusalem_film_fund__film_lang-he__7b0ebf53.md
+[11:32:30]           url:  https://thejerusalemfilmfund.com/film/?lang=he
+[11:32:31] [155/261] OK   8p 1o 6f 7r 0ro  (4.57s)
+[11:32:31]           file: jerusalem_film_fund__genre-action__28649d1e.md
+[11:32:31]           url:  https://thejerusalemfilmfund.com/genre/action/
+[11:32:35] [156/261] OK   14p 1o 15f 0r 0ro  (18.47s)
+[11:32:35]           file: jerusalem_film_fund__film__22cd3ed1.md
+[11:32:35]           url:  https://thejerusalemfilmfund.com/film/#form_filters_wrapper
+[11:32:35] [157/261] OK   5p 1o 5f 6r 5ro  (4.99s)
+[11:32:35]           file: jerusalem_film_fund__genre-advanture__111186f9.md
+[11:32:35]           url:  https://thejerusalemfilmfund.com/genre/advanture/
+[11:32:36] [158/261] OK   13p 1o 15f 0r 0ro  (19.92s)
+[11:32:36]           file: jerusalem_film_fund__film__71c99105.md
+[11:32:36]           url:  https://thejerusalemfilmfund.com/film/
+[11:32:38] [159/261] OK   13p 1o 15f 0r 0ro  (18.32s)
+[11:32:38]           file: jerusalem_film_fund__film__9ddc8812.md
+[11:32:38]           url:  https://thejerusalemfilmfund.com/film/#navigation
+[11:32:38] [160/261] OK   4p 3o 1f 7r 0ro  (32.42s)
+[11:32:38]           file: jerusalem_film_fund__film-the-sand-castle__083b011e.md
+[11:32:38]           url:  https://thejerusalemfilmfund.com/film/the-sand-castle/#footer
+[11:32:39] [161/261] OK   12p 1o 13f 0r 0ro  (7.63s)
+[11:32:39]           file: jerusalem_film_fund__genre-animation__b34c710d.md
+[11:32:39]           url:  https://thejerusalemfilmfund.com/genre/animation/#navigation
+[11:32:39] [162/261] OK   12p 1o 13f 10r 0ro  (8.83s)
+[11:32:39]           file: jerusalem_film_fund__genre-animation__8350ab18.md
+[11:32:39]           url:  https://thejerusalemfilmfund.com/genre/animation/#footer
+[11:32:40] [163/261] OK   4p 2o 1f 5r 5ro  (26.67s)
+[11:32:40]           file: jerusalem_film_fund__film-yaturu-experience__3af0aac3.md
+[11:32:40]           url:  https://thejerusalemfilmfund.com/film/yaturu-experience/#page_content
+[11:32:40] [164/261] OK   4p 3o 1f 7r 0ro  (51.35s)
+[11:32:40]           file: jerusalem_film_fund__film-muppet-babies__3fb14201.md
+[11:32:40]           url:  https://thejerusalemfilmfund.com/film/muppet-babies/#slider_wrapper
+[11:32:40] [165/261] OK   4p 3o 1f 7r 0ro  (52.08s)
+[11:32:40]           file: jerusalem_film_fund__film-muppet-babies__1e4d01fd.md
+[11:32:40]           url:  https://thejerusalemfilmfund.com/film/muppet-babies/#footer
+[11:32:41] [166/261] OK   13p 1o 15f 0r 0ro  (22.65s)
+[11:32:41]           file: jerusalem_film_fund__film__868f0d18.md
+[11:32:41]           url:  https://thejerusalemfilmfund.com/film/#slider_wrapper
+[11:32:42] [167/261] OK   12p 1o 13f 0r 0ro  (7.87s)
+[11:32:42]           file: jerusalem_film_fund__genre-animation__f7583870.md
+[11:32:42]           url:  https://thejerusalemfilmfund.com/genre/animation/
+[11:32:44] [168/261] OK   16p 1o 14f 0r 0ro  (9.14s) [TRUNC]
+[11:32:44]           file: jerusalem_film_fund__genre-comedy__5d470554.md
+[11:32:44]           url:  https://thejerusalemfilmfund.com/genre/comedy/
+[11:32:46] [169/261] OK   15p 1o 5f 0r 0ro  (9.5s)
+[11:32:46]           file: jerusalem_film_fund__genre-d7-90-d7-a0-d7-99-d7-9e-d7-a6-d7-99-d7-94-2__30041c8d.md  [jerusalem_film_fund__genreאנימציה-2__30041c8d.md]
+[11:32:46]           url:  https://thejerusalemfilmfund.com/genre/%d7%90%d7%a0%d7%99%d7%9e%d7%a6%d7%99%d...
+[11:32:46] [170/261] OK   13p 1o 5f 0r 0ro  (8.1s)
+[11:32:46]           file: jerusalem_film_fund__genre-d7-90-d7-a0-d7-99-d7-9e-d7-a6-d7-99-d7-94-2__9cbc627d.md  [jerusalem_film_fund__genreאנימציה-2__9cbc627d.md]
+[11:32:46]           url:  https://thejerusalemfilmfund.com/genre/%d7%90%d7%a0%d7%99%d7%9e%d7%a6%d7%99%d...
+[11:32:46] [171/261] OK   0p 1o 3f 3r 0ro  (2.16s)
+[11:32:46]           file: jerusalem_film_fund__genreprojectsdev-about-our-special-projects__d39fab16.md
+[11:32:46]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/about-our-special-projects/
+[11:32:47] [172/261] OK   15p 1o 5f 0r 7ro  (8.17s)
+[11:32:47]           file: jerusalem_film_fund__genre-d7-90-d7-a0-d7-99-d7-9e-d7-a6-d7-99-d7-94-2__af3e5098.md  [jerusalem_film_fund__genreאנימציה-2__af3e5098.md]
+[11:32:47]           url:  https://thejerusalemfilmfund.com/genre/%d7%90%d7%a0%d7%99%d7%9e%d7%a6%d7%99%d...
+[11:32:47] [173/261] OK   15p 1o 5f 8r 0ro  (6.31s)
+[11:32:47]           file: jerusalem_film_fund__genre-vrar__bf5d24e3.md
+[11:32:47]           url:  https://thejerusalemfilmfund.com/genre/vrar/#footer
+[11:32:47] [174/261] OK   15p 1o 15f 0r 0ro  (7.7s) [TRUNC]
+[11:32:47]           file: jerusalem_film_fund__genre-drama__a6f24cfe.md
+[11:32:47]           url:  https://thejerusalemfilmfund.com/genre/drama/#navigation
+[11:32:48] [175/261] OK   0p 1o 1f 0r 0ro  (1.38s)
+[11:32:48]           file: jerusalem_film_fund__genreprojectsdev-anination-jerusalems-animation-festival__d98bbb94.md
+[11:32:48]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/anination-jerusalems-animat...
+[11:32:48] [176/261] OK   14p 1o 15f 0r 0ro  (25.91s)
+[11:32:48]           file: jerusalem_film_fund__film__e640c1a0.md
+[11:32:48]           url:  https://thejerusalemfilmfund.com/film/#results_wrapper
+[11:32:48] [177/261] OK   0p 1o 0f 0r 0ro  (1.52s)
+[11:32:48]           file: jerusalem_film_fund__genreprojectsdev-our-mentors__c52d3248.md
+[11:32:48]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/our-mentors/
+[11:32:49] [178/261] OK   0p 0o 0f 0r 0ro  (8.12s)
+[11:32:49]           file: jerusalem_film_fund__genre-vrar__3a8b836c.md
+[11:32:49]           url:  https://thejerusalemfilmfund.com/genre/vrar/
+[11:32:50] [179/261] OK   0p 0o 0f 0r 0ro  (9.33s)
+[11:32:50]           file: jerusalem_film_fund__genre-feature-films__d8092656.md
+[11:32:50]           url:  https://thejerusalemfilmfund.com/genre/feature-films/
+[11:32:51] [180/261] OK   6p 1o 5f 5r 0ro  (3.64s)
+[11:32:51]           file: jerusalem_film_fund__genreprojectsdev-web-series-vrar__8135106b.md
+[11:32:51]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/web-series-vrar/
+[11:32:54] [181/261] OK   12p 1o 9f 0r 0ro  (7.86s)
+[11:32:54]           file: jerusalem_film_fund__genreprojectsdev-annecy__0d10a5ef.md
+[11:32:54]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/annecy/
+[11:32:54] [182/261] OK   7p 3o 0f 9r 6ro  (0s) [TRUNC] [dedup←jerusalem_film_fund__applications-large-budget-international-productions-2__68191eef.md]
+[11:32:54]           file: jerusalem_film_fund__large-budget-international-productions-2__746b0af2.md
+[11:32:54]           url:  https://thejerusalemfilmfund.com/large-budget-international-productions-2/
+[11:32:54] [183/261] OK   20p 1o 16f 4r 0ro  (7.47s)
+[11:32:54]           file: jerusalem_film_fund__genreprojectsdev-shorts__46be23a0.md
+[11:32:54]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/shorts/
+[11:32:55] [184/261] OK   5p 3o 0f 7r 5ro  (5.91s) [TRUNC]
+[11:32:55]           file: jerusalem_film_fund__investment-procedure-for-cgi-computer-generated-imagery-and-animation-production__ccb72208.md
+[11:32:55]           url:  https://thejerusalemfilmfund.com/investment-procedure-for-cgi-computer-genera...
+[11:32:56] [185/261] OK   5p 3o 0f 8r 10ro  (7.46s) [TRUNC]
+[11:32:56]           file: jerusalem_film_fund__investment-procedure-for-cgi-computer-generated-imagery-and-animation-production__4c9093a0.md
+[11:32:56]           url:  https://thejerusalemfilmfund.com/investment-procedure-for-cgi-computer-genera...
+[11:32:56] [186/261] OK   1p 2o 0f 0r 1ro  (1.6s)
+[11:32:56]           file: jerusalem_film_fund__location-abraham-hostel__5fc1f81c.md
+[11:32:56]           url:  https://thejerusalemfilmfund.com/location/abraham-hostel/
+[11:32:56] [187/261] OK   5p 3o 0f 10r 10ro  (7.61s) [TRUNC]
+[11:32:56]           file: jerusalem_film_fund__investment-procedure-for-cgi-computer-generated-imagery-and-animation-production__b847a500.md
+[11:32:56]           url:  https://thejerusalemfilmfund.com/investment-procedure-for-cgi-computer-genera...
+[11:32:56] [188/261] OK   1p 2o 0f 0r 1ro  (1.64s)
+[11:32:56]           file: jerusalem_film_fund__location-arazim-valley-park__f2594c71.md
+[11:32:56]           url:  https://thejerusalemfilmfund.com/location/arazim-valley-park/
+[11:32:56] [189/261] OK   0p 2o 0f 0r 0ro  (1.86s)
+[11:32:56]           file: jerusalem_film_fund__location-nature-museum__06c0db05.md
+[11:32:56]           url:  https://thejerusalemfilmfund.com/location/nature-museum/
+[11:32:57] [190/261] OK   5p 3o 0f 8r 5ro  (6.79s) [TRUNC]
+[11:32:57]           file: jerusalem_film_fund__investment-procedure-for-cgi-computer-generated-imagery-and-animation-production__efb5052f.md
+[11:32:57]           url:  https://thejerusalemfilmfund.com/investment-procedure-for-cgi-computer-genera...
+[11:32:57] [191/261] OK   0p 1o 0f 0r 0ro  (1.14s)
+[11:32:57]           file: jerusalem_film_fund__location-road-safety-training-center__3f8a0577.md
+[11:32:57]           url:  https://thejerusalemfilmfund.com/location/road-safety-training-center/
+[11:32:57] [192/261] OK   0p 0o 0f 0r 0ro  (9.49s)
+[11:32:57]           file: jerusalem_film_fund__genreprojectsdev-tv-series__5fddb087.md
+[11:32:57]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/tv-series/
+[11:32:57] [193/261] OK   16p 1o 19f 0r 0ro  (17.94s) [TRUNC]
+[11:32:57]           file: jerusalem_film_fund__genre-drama__0ffcf846.md
+[11:32:57]           url:  https://thejerusalemfilmfund.com/genre/drama/#footer
+[11:32:57] [194/261] OK   0p 2o 1f 0r 0ro  (1.4s)
+[11:32:57]           file: jerusalem_film_fund__location-the-terrace-a-roof-for-new-urbanism__8538072e.md
+[11:32:57]           url:  https://thejerusalemfilmfund.com/location/the-terrace-a-roof-for-new-urbanism/
+[11:32:57] [195/261] OK   0p 1o 0f 0r 0ro  (1.11s) [TRUNC]
+[11:32:57]           file: jerusalem_film_fund__location__54f369c3.md
+[11:32:57]           url:  https://thejerusalemfilmfund.com/location/
+[11:32:58] [196/261] OK   0p 1o 0f 0r 0ro  (1.51s) [TRUNC]
+[11:32:58]           file: jerusalem_film_fund__location__4be8bb43.md
+[11:32:58]           url:  https://thejerusalemfilmfund.com/location/#navigation
+[11:32:58] [197/261] OK   17p 1o 18f 0r 0ro  (18.31s) [TRUNC]
+[11:32:58]           file: jerusalem_film_fund__genre-drama__4c80eb8b.md
+[11:32:58]           url:  https://thejerusalemfilmfund.com/genre/drama/
+[11:32:58] [198/261] OK   5p 3o 0f 8r 5ro  (6.41s) [TRUNC]
+[11:32:58]           file: jerusalem_film_fund__investment-procedure-for-cgi-computer-generated-imagery-and-animation-production__fce40156.md
+[11:32:58]           url:  https://thejerusalemfilmfund.com/investment-procedure-for-cgi-computer-genera...
+[11:32:58] [199/261] OK   0p 1o 0f 0r 0ro  (0.79s) [TRUNC]
+[11:32:58]           file: jerusalem_film_fund__location__c2d4e90c.md
+[11:32:58]           url:  https://thejerusalemfilmfund.com/location/#results_wrapper
+[11:32:58] [200/261] OK   0p 1o 0f 0r 0ro  (1.05s) [TRUNC]
+[11:32:58]           file: jerusalem_film_fund__location__990f9c46.md
+[11:32:58]           url:  https://thejerusalemfilmfund.com/location/#slider_wrapper
+[11:32:58]   --- progress: 200/261 (76.6%)  rate: 77.0/min  eta: 0.8min  cost so far: $0.2401 ---
+[11:32:58] [201/261] OK   0p 1o 0f 0r 0ro  (0.8s)
+[11:32:58]           file: jerusalem_film_fund__location_cat-other__7ec3327e.md
+[11:32:58]           url:  https://thejerusalemfilmfund.com/location_cat/other/
+[11:32:59] [202/261] OK   0p 1o 0f 0r 0ro  (1.1s)
+[11:32:59]           file: jerusalem_film_fund__location_cat-hostels__629bf267.md
+[11:32:59]           url:  https://thejerusalemfilmfund.com/location_cat/hostels/
+[11:32:59] [203/261] OK   0p 1o 0f 0r 0ro  (1.11s)
+[11:32:59]           file: jerusalem_film_fund__location_cat-museums__53b7b9c5.md
+[11:32:59]           url:  https://thejerusalemfilmfund.com/location_cat/museums/
+[11:32:59] [204/261] OK   0p 1o 0f 0r 0ro  (0.99s)
+[11:32:59]           file: jerusalem_film_fund__location_cat-parks__b2362cb4.md
+[11:32:59]           url:  https://thejerusalemfilmfund.com/location_cat/parks/
+[11:32:59] [205/261] OK   0p 1o 0f 0r 0ro  (1.68s)
+[11:32:59]           file: jerusalem_film_fund__location_cat-farms__4fe127fc.md
+[11:32:59]           url:  https://thejerusalemfilmfund.com/location_cat/farms/
+[11:33:00] [206/261] OK   0p 3o 0f 2r 0ro  (2.03s)
+[11:33:00]           file: jerusalem_film_fund__new-submission-dates-for-projects-in-the-field-of-cgi-computer-generated-imagery__0b73bc26.md
+[11:33:00]           url:  https://thejerusalemfilmfund.com/new-submission-dates-for-projects-in-the-fie...
+[11:33:00] [207/261] OK   0p 3o 0f 2r 0ro  (2.05s)
+[11:33:00]           file: jerusalem_film_fund__new-submission-dates-for-projects-in-the-field-of-cgi-computer-generated-imagery__1d68b82c.md
+[11:33:00]           url:  https://thejerusalemfilmfund.com/new-submission-dates-for-projects-in-the-fie...
+[11:33:00] [208/261] OK   0p 1o 0f 0r 0ro  (3.54s) [TRUNC]
+[11:33:00]           file: jerusalem_film_fund__location__885280eb.md
+[11:33:00]           url:  https://thejerusalemfilmfund.com/location/#form_filters_wrapper
+[11:33:00] [209/261] OK   0p 3o 0f 2r 0ro  (1.85s)
+[11:33:00]           file: jerusalem_film_fund__new-submission-dates-for-projects-in-the-field-of-cgi-computer-generated-imagery__3a4bd314.md
+[11:33:00]           url:  https://thejerusalemfilmfund.com/new-submission-dates-for-projects-in-the-fie...
+[11:33:01] [210/261] OK   1p 4o 0f 2r 1ro  (2.6s)
+[11:33:01]           file: jerusalem_film_fund__projects-in-development-scene-the-jerusalem-film-funds-developing-workshops__910497ef.md
+[11:33:01]           url:  https://thejerusalemfilmfund.com/projects-in-development/scene-the-jerusalem-...
+[11:33:02] [211/261] OK   1p 4o 0f 3r 1ro  (2.81s)
+[11:33:02]           file: jerusalem_film_fund__projects-in-development-scene-the-jerusalem-film-funds-developing-workshops__88081e3a.md
+[11:33:02]           url:  https://thejerusalemfilmfund.com/projects-in-development/scene-the-jerusalem-...
+[11:33:02] [212/261] OK   0p 1o 0f 0r 0ro  (6.09s)
+[11:33:02]           file: jerusalem_film_fund__location-tur-sinai-farm__acf7846b.md
+[11:33:02]           url:  https://thejerusalemfilmfund.com/location/tur-sinai-farm/
+[11:33:02] [213/261] OK   0p 3o 0f 2r 0ro  (3.41s)
+[11:33:02]           file: jerusalem_film_fund__new-submission-dates-for-projects-in-the-field-of-cgi-computer-generated-imagery__807a2ba4.md
+[11:33:02]           url:  https://thejerusalemfilmfund.com/new-submission-dates-for-projects-in-the-fie...
+[11:33:02] [214/261] OK   0p 1o 0f 0r 0ro  (5.91s) [TRUNC]
+[11:33:02]           file: jerusalem_film_fund__location__86b38141.md
+[11:33:02]           url:  https://thejerusalemfilmfund.com/location/#footer
+[11:33:03] [215/261] OK   0p 3o 0f 2r 0ro  (4.3s)
+[11:33:03]           file: jerusalem_film_fund__new-submission-dates-for-projects-in-the-field-of-cgi-computer-generated-imagery__5717dc5d.md
+[11:33:03]           url:  https://thejerusalemfilmfund.com/new-submission-dates-for-projects-in-the-fie...
+[11:33:03] [216/261] OK   1p 4o 0f 3r 1ro  (3.19s)
+[11:33:03]           file: jerusalem_film_fund__projects-in-development-scene-the-jerusalem-film-funds-developing-workshops__9a9b8453.md
+[11:33:03]           url:  https://thejerusalemfilmfund.com/projects-in-development/scene-the-jerusalem-...
+[11:33:04] [217/261] OK   1p 4o 0f 4r 1ro  (3.6s)
+[11:33:04]           file: jerusalem_film_fund__projects-in-development-scene-the-jerusalem-film-funds-developing-workshops__f16f2286.md
+[11:33:04]           url:  https://thejerusalemfilmfund.com/projects-in-development/scene-the-jerusalem-...
+[11:33:04] [218/261] OK   1p 4o 3f 6r 0ro  (3.66s)
+[11:33:04]           file: jerusalem_film_fund__root__28cae9ce.md
+[11:33:04]           url:  https://thejerusalemfilmfund.com/#home_small_carousel_section
+[11:33:05] [219/261] OK   0p 1o 0f 0r 0ro  (1.18s)
+[11:33:05]           file: jerusalem_film_fund__root_lang-he-post_type-location__1111701f.md
+[11:33:05]           url:  https://thejerusalemfilmfund.com/?lang=he&post_type=location
+[11:33:05] [220/261] OK   1p 4o 0f 3r 1ro  (5.64s)
+[11:33:05]           file: jerusalem_film_fund__projects-in-development-scene-the-jerusalem-film-funds-developing-workshops__eb617fba.md
+[11:33:05]           url:  https://thejerusalemfilmfund.com/projects-in-development/scene-the-jerusalem-...
+[11:33:06] [221/261] OK   1p 5o 3f 5r 0ro  (3.63s)
+[11:33:06]           file: jerusalem_film_fund__root__5893936f.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/
+[11:33:06] [222/261] OK   1p 1o 1f 1r 1ro  (1.7s)
+[11:33:06]           file: jerusalem_film_fund__root_lang-he__0f3531f8.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/?lang=he#home_small_carousel_section
+[11:33:06] [223/261] OK   1p 1o 1f 1r 1ro  (0s) [dedup←jerusalem_film_fund__root_lang-he__0f3531f8.md]
+[11:33:06]           file: jerusalem_film_fund__root_lang-he__d3f45bc0.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/?lang=he#home_menu_boxes_section
+[11:33:06] [224/261] OK   1p 1o 1f 1r 1ro  (0s) [dedup←jerusalem_film_fund__root_lang-he__0f3531f8.md]
+[11:33:06]           file: jerusalem_film_fund__root_lang-he__d56703b5.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/?lang=he#footer
+[11:33:06] [225/261] OK   1p 1o 1f 1r 1ro  (0s) [dedup←jerusalem_film_fund__root_lang-he__0f3531f8.md]
+[11:33:06]           file: jerusalem_film_fund__root_lang-he__fbc02f8b.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/?lang=he#home_articles_section
+[11:33:06] [226/261] OK   1p 4o 3f 6r 1ro  (3.79s)
+[11:33:06]           file: jerusalem_film_fund__root__711de9c5.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/#home_menu_boxes_section
+[11:33:06] [227/261] OK   0p 5o 3f 6r 0ro  (4.67s)
+[11:33:06]           file: jerusalem_film_fund__root__2f43ed9e.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/#footer
+[11:33:06] [228/261] OK   6p 1o 5f 8r 0ro  (23.93s)
+[11:33:06]           file: jerusalem_film_fund__genre-vrar__d14512b1.md
+[11:33:06]           url:  https://thejerusalemfilmfund.com/genre/vrar/#navigation
+[11:33:07] [229/261] OK   1p 5o 3f 5r 0ro  (3.96s)
+[11:33:07]           file: jerusalem_film_fund__root__ebc1862c.md
+[11:33:07]           url:  https://thejerusalemfilmfund.com/#home_articles_section
+[11:33:07] [230/261] OK   1p 1o 0f 2r 1ro  (2.0s)
+[11:33:07]           file: jerusalem_film_fund__root_lang-he__820b67db.md
+[11:33:07]           url:  https://thejerusalemfilmfund.com/?lang=he
+[11:33:07] [231/261] OK   1p 1o 1f 1r 1ro  (1.73s)
+[11:33:07]           file: jerusalem_film_fund__root_lang-he__8c6bf0a7.md
+[11:33:07]           url:  https://thejerusalemfilmfund.com/?lang=he#home_main_slider_section
+[11:33:07] [232/261] OK   13p 1o 12f 0r 0ro  (21.51s)
+[11:33:07]           file: jerusalem_film_fund__genreprojectsdev-animation-projects-produced-in-jerusalem__27b00e4e.md
+[11:33:07]           url:  https://thejerusalemfilmfund.com/genreprojectsdev/animation-projects-produced...
+[11:33:07] [233/261] OK   0p 6o 3f 8r 0ro  (4.95s)
+[11:33:07]           file: jerusalem_film_fund__root__764a90ca.md
+[11:33:07]           url:  https://thejerusalemfilmfund.com/#navigation
+[11:33:07] [234/261] OK   0p 1o 0f 1r 0ro  (1.58s)
+[11:33:07]           file: jerusalem_film_fund__spotlight-on-jerusalem-at-the-annecy-festival__70b8ed14.md
+[11:33:07]           url:  https://thejerusalemfilmfund.com/spotlight-on-jerusalem-at-the-annecy-festiva...
+[11:33:08] [235/261] OK   0p 2o 0f 2r 0ro  (1.95s)
+[11:33:08]           file: jerusalem_film_fund__spotlight-on-jerusalem-at-the-annecy-festival__25018209.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/spotlight-on-jerusalem-at-the-annecy-festiva...
+[11:33:08] [236/261] OK   1p 1o 0f 1r 1ro  (2.15s)
+[11:33:08]           file: jerusalem_film_fund__root_lang-he__c0938658.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/?lang=he#navigation
+[11:33:08] [237/261] OK   1p 5o 3f 6r 1ro  (4.91s)
+[11:33:08]           file: jerusalem_film_fund__root__b0ba3fdf.md
+[11:33:08]           url:  http://www.thejerusalemfilmfund.com/
+[11:33:08] [238/261] OK   0p 1o 0f 0r 0ro  (0.8s)
+[11:33:08]           file: jerusalem_film_fund__tag-19th-century__19aaa897.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/19th-century/
+[11:33:08] [239/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__tag-19th-century__19aaa897.md]
+[11:33:08]           file: jerusalem_film_fund__tag-other__a8727797.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/other/
+[11:33:08] [240/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__tag-19th-century__19aaa897.md]
+[11:33:08]           file: jerusalem_film_fund__tag-panoramic-view__1ae27d16.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/panoramic-view/
+[11:33:08] [241/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__tag-19th-century__19aaa897.md]
+[11:33:08]           file: jerusalem_film_fund__tag-parks__59a0ddd9.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/parks/
+[11:33:08] [242/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__tag-19th-century__19aaa897.md]
+[11:33:08]           file: jerusalem_film_fund__tag-plantations__e4e0d4c5.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/plantations/
+[11:33:08] [243/261] OK   0p 1o 0f 0r 0ro  (0s) [dedup←jerusalem_film_fund__tag-19th-century__19aaa897.md]
+[11:33:08]           file: jerusalem_film_fund__tag-urban-nature__0098ec6d.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/urban-nature/
+[11:33:08] [244/261] OK   0p 1o 0f 0r 0ro  (0.76s)
+[11:33:08]           file: jerusalem_film_fund__tag-accommodation__b91f7919.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/accommodation/
+[11:33:08] [245/261] OK   0p 1o 0f 0r 0ro  (0.93s)
+[11:33:08]           file: jerusalem_film_fund__tag-banquet-halls__99ac72ac.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/banquet-halls/
+[11:33:08] [246/261] OK   0p 1o 0f 0r 0ro  (0.7s)
+[11:33:08]           file: jerusalem_film_fund__tag-hostels__47259be2.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/tag/hostels/
+[11:33:08] [247/261] OK   0p 2o 0f 2r 0ro  (2.11s)
+[11:33:08]           file: jerusalem_film_fund__spotlight-on-jerusalem-at-the-annecy-festival__71235be7.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/spotlight-on-jerusalem-at-the-annecy-festival/
+[11:33:08] [248/261] OK   0p 2o 0f 2r 0ro  (1.89s)
+[11:33:08]           file: jerusalem_film_fund__spotlight-on-jerusalem-at-the-annecy-festival__92fa4fe9.md
+[11:33:08]           url:  https://thejerusalemfilmfund.com/spotlight-on-jerusalem-at-the-annecy-festiva...
+[11:33:09] [249/261] OK   0p 1o 0f 0r 0ro  (1.07s)
+[11:33:09]           file: jerusalem_film_fund__tag-historic__dfaa27d7.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/tag/historic/
+[11:33:09] [250/261] OK   0p 6o 0f 4r 0ro  (0s) [dedup←jerusalem_film_fund__filming-in-jerusalem-why-jerusalem__12408ef7.md]
+[11:33:09]           file: jerusalem_film_fund__why-jerusalem__94af50f3.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/why-jerusalem/
+[11:33:09]   --- progress: 250/261 (95.8%)  rate: 90.0/min  eta: 0.1min  cost so far: $0.2654 ---
+[11:33:09] [251/261] OK   0p 1o 0f 0r 0ro  (0.97s)
+[11:33:09]           file: jerusalem_film_fund__tag-memorials__43b2ab96.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/tag/memorials/
+[11:33:09] [252/261] OK   0p 1o 0f 0r 0ro  (0.93s)
+[11:33:09]           file: jerusalem_film_fund__tag-museum__9bb7f6ae.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/tag/museum/
+[11:33:09] [253/261] OK   0p 1o 0f 0r 0ro  (1.47s)
+[11:33:09]           file: jerusalem_film_fund__tag-farms__62e52689.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/tag/farms/
+[11:33:09] [254/261] OK   0p 2o 0f 2r 0ro  (2.16s)
+[11:33:09]           file: jerusalem_film_fund__spotlight-on-jerusalem-at-the-annecy-festival__9538bed9.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/spotlight-on-jerusalem-at-the-annecy-festiva...
+[11:33:09] [255/261] OK   0p 1o 0f 0r 0ro  (0.85s)
+[11:33:09]           file: jerusalem_film_fund__vod-your-next-film-in-jerusalem-2019__829cc177.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/vod/your-next-film-in-jerusalem-2019/#naviga...
+[11:33:09] [256/261] OK   0p 1o 0f 0r 0ro  (1.17s)
+[11:33:09]           file: jerusalem_film_fund__vod-your-next-film-in-jerusalem-2019__25d781f8.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/vod/your-next-film-in-jerusalem-2019/#slider...
+[11:33:09] [257/261] OK   0p 1o 0f 0r 0ro  (0.99s)
+[11:33:09]           file: jerusalem_film_fund__vod-your-next-film-in-jerusalem-2019__669a47be.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/vod/your-next-film-in-jerusalem-2019/#footer
+[11:33:09] [258/261] OK   0p 1o 0f 0r 0ro  (0.94s)
+[11:33:09]           file: jerusalem_film_fund__vod-your-next-film-in-jerusalem-2019__931ce00d.md
+[11:33:09]           url:  https://thejerusalemfilmfund.com/vod/your-next-film-in-jerusalem-2019/
+[11:33:10] [259/261] OK   1p 5o 3f 19r 1ro  (8.41s)
+[11:33:10]           file: jerusalem_film_fund__root__3ac60316.md
+[11:33:10]           url:  https://thejerusalemfilmfund.com/#home_main_slider_section
+[11:33:10] [260/261] OK   0p 1o 0f 0r 0ro  (1.83s)
+[11:33:10]           file: jerusalem_film_fund__vod-your-next-film-in-jerusalem-2019__b19533a0.md
+[11:33:10]           url:  https://thejerusalemfilmfund.com/vod/your-next-film-in-jerusalem-2019/#page_c...
+[11:33:12] [261/261] OK   2p 2o 2f 4r 2ro  (4.17s)
+[11:33:12]           file: jerusalem_film_fund__vod-jerusalem-an-animation-capital_lang-he__58b2fc31.md
+[11:33:12]           url:  https://thejerusalemfilmfund.com/vod/jerusalem-an-animation-capital/?lang=he
+[11:33:12] ======================================================================
+[11:33:12] DONE in 2.8min
+[11:33:12]   ok:           261
+[11:33:12]   filtered:     0
+[11:33:12]   empty:        0
+[11:33:12]   load_error:   0
+[11:33:12]   llm_error:    0
+[11:33:12] Tokens: 500,682 in / 550,094 out  |  Cost: $0.2701
+[11:33:12] Calls: 235  |  Errors: 0  |  JSON retries: 2
+[11:33:12] Output: out/jerusalem_film_fund/mentions.jsonl
+[11:33:12] Summary:  out/jerusalem_film_fund/run_summary.json
+=== Run ended 2026-05-15T11:33:12.504869 ===

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זרעי-קיץ/",
+  "stable_id": "nfct__blog-movies__74c76e8d",
+  "fetched_at": "2026-05-09T17:32:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:32:02Z",
+  "duration_ms": 63399,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:09b848fa1bf99856e8b667fc85d29df8511f287cfeb71c9c4ce7fcb77345e221",
+  "md_bytes": 22878,
+  "links_found": 50,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Second%20World%20War",
+  "stable_id": "nfct__en-movies-archive_keywords-Second-20World-20War__60d278a3",
+  "fetched_at": "2026-05-16T07:43:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:43:43Z",
+  "duration_ms": 7757,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ccd491d26fab6ca0af541cb905a6bbce72c5eb351595455a0c9f32dd44e86526",
+  "md_bytes": 11527,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=immersion",
+  "stable_id": "nfct__en-movies-archive_keywords-immersion__363a7c3a",
+  "fetched_at": "2026-05-16T16:58:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:15Z",
+  "duration_ms": 7872,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7a631f18740f0e6f312981d91a7c830c72d4fc58174af8434b51e4116a6d0d82",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

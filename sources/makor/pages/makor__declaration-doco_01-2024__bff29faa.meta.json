@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/declaration/doco_01-2024/",
+  "stable_id": "makor__declaration-doco_01-2024__bff29faa",
+  "fetched_at": "2026-05-09T14:20:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T14:20:51Z",
+  "duration_ms": 6787,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4bb4a259b09709aa037d15fcff6448304053a6704f710d28c5e68a2483a39e3",
+  "md_bytes": 450,
+  "links_found": 1,
+  "files_found": 0
+}

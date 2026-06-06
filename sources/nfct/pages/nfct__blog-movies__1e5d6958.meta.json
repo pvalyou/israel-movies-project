@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דיספוריה/",
+  "stable_id": "nfct__blog-movies__1e5d6958",
+  "fetched_at": "2026-05-09T17:27:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:27:22Z",
+  "duration_ms": 20191,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82125c04db5cf5a580c8937827e7066a8058cff8126b59e0c9765937aec44db3",
+  "md_bytes": 15339,
+  "links_found": 29,
+  "files_found": 0
+}

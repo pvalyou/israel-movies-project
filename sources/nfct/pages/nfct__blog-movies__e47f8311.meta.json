@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תמונה-שכונתית/",
+  "stable_id": "nfct__blog-movies__e47f8311",
+  "fetched_at": "2026-05-09T20:38:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:38:53Z",
+  "duration_ms": 8365,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:204d6f20876c39e7f9a6cb462ed0092f24bf8214f1ec0307354cb6cbed11946d",
+  "md_bytes": 14059,
+  "links_found": 26,
+  "files_found": 0
+}

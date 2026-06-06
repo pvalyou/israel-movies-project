@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=unrecognized%20village",
+  "stable_id": "nfct__en-movies-archive_keywords-unrecognized-20village__3534e014",
+  "fetched_at": "2026-05-16T20:28:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:28:54Z",
+  "duration_ms": 7602,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c1095f1a1c37306c01d06d3fbd0740634a16ccd4d5e61e53b159598668fc43b",
+  "md_bytes": 10499,
+  "links_found": 69,
+  "files_found": 0
+}

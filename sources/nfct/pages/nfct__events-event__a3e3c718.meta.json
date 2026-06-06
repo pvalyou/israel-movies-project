@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-סיפור-סגור-מיכה-ליבנה-סינמטק-פת/",
+  "stable_id": "nfct__events-event__a3e3c718",
+  "fetched_at": "2026-05-10T08:25:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T08:25:38Z",
+  "duration_ms": 24681,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cbacfb9ec50b04548308e2acfa063b83ac734d7426a92f5c4b50c8ae3feeeba2",
+  "md_bytes": 13795,
+  "links_found": 28,
+  "files_found": 0
+}

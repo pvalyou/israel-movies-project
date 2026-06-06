@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יסמין/",
+  "stable_id": "nfct__blog-movies__00900b9f",
+  "fetched_at": "2026-05-09T16:59:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:59:33Z",
+  "duration_ms": 33199,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9637ff6f344c8b8aa049ff44b7954cfd25f796fd4897e2c9ff6e8536a01119e",
+  "md_bytes": 16501,
+  "links_found": 40,
+  "files_found": 0
+}

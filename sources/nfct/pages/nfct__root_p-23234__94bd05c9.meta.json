@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/?p=23234",
+  "stable_id": "nfct__root_p-23234__94bd05c9",
+  "fetched_at": "2026-05-10T23:00:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T23:00:04Z",
+  "duration_ms": 16051,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:37fd23aac046ef3171971027a584c276a6b1f8320f26333119fef3faf7057978",
+  "md_bytes": 15921,
+  "links_found": 25,
+  "files_found": 0
+}

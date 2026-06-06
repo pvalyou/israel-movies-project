@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Groom%20Guide",
+  "stable_id": "nfct__en-movies-archive_keywords-Groom-20Guide__287145cb",
+  "fetched_at": "2026-05-16T13:58:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:58:46Z",
+  "duration_ms": 6859,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:015e7564f09a3a9306781180f2e64fd15c456b1962fef84a50405aa1a6a9de2b",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

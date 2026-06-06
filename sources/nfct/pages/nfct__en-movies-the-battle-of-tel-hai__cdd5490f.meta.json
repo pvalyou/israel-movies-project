@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-battle-of-tel-hai/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-battle-of-tel-hai__cdd5490f",
+  "fetched_at": "2026-05-16T10:41:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:41:18Z",
+  "duration_ms": 8498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:368261ce989ed02ef2d74b65acb37244f375e7b25c6969376a5af6e786bc56a3",
+  "md_bytes": 12244,
+  "links_found": 33,
+  "files_found": 0
+}

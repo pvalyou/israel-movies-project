@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=moments+2002",
+  "stable_id": "nfct__en-movies-archive_keywords-moments-2002__7e1a85d3",
+  "fetched_at": "2026-05-16T17:05:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:05:57Z",
+  "duration_ms": 6878,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b4a17f0ad33779d7efb0b21f8a2f02b6ae871497f566d325db8d90ec7dfad755",
+  "md_bytes": 17184,
+  "links_found": 82,
+  "files_found": 0
+}

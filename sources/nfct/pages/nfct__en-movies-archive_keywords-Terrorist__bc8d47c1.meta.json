@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Terrorist",
+  "stable_id": "nfct__en-movies-archive_keywords-Terrorist__bc8d47c1",
+  "fetched_at": "2026-05-16T11:34:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:34:32Z",
+  "duration_ms": 13012,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffb71bd636705f1944dff6be09df837c777d6f76abc51659d1893043bb9c5cde",
+  "md_bytes": 15728,
+  "links_found": 82,
+  "files_found": 0
+}

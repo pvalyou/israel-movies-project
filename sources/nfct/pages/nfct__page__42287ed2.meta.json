@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/ארכיון-ניוזלטר/",
+  "stable_id": "nfct__page__42287ed2",
+  "fetched_at": "2026-05-09T15:17:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:17:31Z",
+  "duration_ms": 42638,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:613b03d376f179aa2a8a1818acadf764c1b6e7316f129c6be7eec8e1ae47fef7",
+  "md_bytes": 32987,
+  "links_found": 26,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=radical",
+  "stable_id": "nfct__en-movies-archive_keywords-radical__c6b784f1",
+  "fetched_at": "2026-05-16T11:13:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:13:21Z",
+  "duration_ms": 8201,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c5d0b73b5b453f95ca3c261be5deddfdcf22741e5fe6cf4309884092683c8c8",
+  "md_bytes": 13352,
+  "links_found": 76,
+  "files_found": 0
+}

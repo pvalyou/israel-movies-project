@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arachne",
+  "stable_id": "nfct__en-movies-archive_keywords-Arachne__82885a97",
+  "fetched_at": "2026-05-16T20:28:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:28:34Z",
+  "duration_ms": 9289,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b95081bbc2465d803ae6a28f92cc8bdb392b5f2ca25423172994e6f7b2567c30",
+  "md_bytes": 10200,
+  "links_found": 68,
+  "files_found": 0
+}

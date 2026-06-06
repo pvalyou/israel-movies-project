@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Desert+Ark",
+  "stable_id": "nfct__en-movies-archive_keywords-Desert-Ark__b02ca9a5",
+  "fetched_at": "2026-05-16T16:03:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:03:41Z",
+  "duration_ms": 6476,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:abdda3f47334c1d5d11b08291b1d26faff7f0a5d938ca374080e739fa29483dd",
+  "md_bytes": 11080,
+  "links_found": 70,
+  "files_found": 0
+}

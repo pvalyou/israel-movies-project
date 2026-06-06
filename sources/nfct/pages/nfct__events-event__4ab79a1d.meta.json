@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מה-רודף-סמר-חגי-אדוריאן-פסטיבל/",
+  "stable_id": "nfct__events-event__4ab79a1d",
+  "fetched_at": "2026-05-10T05:30:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T05:30:22Z",
+  "duration_ms": 26210,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1aa538d62d77f78ca93903f19c44c2c0f4f4d4abc2406601c605b4a8a5350982",
+  "md_bytes": 10373,
+  "links_found": 22,
+  "files_found": 0
+}

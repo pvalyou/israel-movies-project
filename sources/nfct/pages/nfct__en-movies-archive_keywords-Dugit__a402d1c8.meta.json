@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dugit",
+  "stable_id": "nfct__en-movies-archive_keywords-Dugit__a402d1c8",
+  "fetched_at": "2026-05-16T11:28:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:28:11Z",
+  "duration_ms": 7925,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b1344048f652cf009176ab3bf30c11ae2a1d81fbc335631ea60d20771bb4a33",
+  "md_bytes": 9985,
+  "links_found": 68,
+  "files_found": 0
+}

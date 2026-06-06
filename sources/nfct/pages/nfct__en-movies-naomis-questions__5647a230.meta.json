@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/naomis-questions/",
+  "stable_id": "nfct__en-movies-naomis-questions__5647a230",
+  "fetched_at": "2026-05-16T12:21:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:57Z",
+  "duration_ms": 8514,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:645e5693aae775801104090fa572ab2966e864139131a76d44df7e150a933e32",
+  "md_bytes": 9971,
+  "links_found": 22,
+  "files_found": 0
+}

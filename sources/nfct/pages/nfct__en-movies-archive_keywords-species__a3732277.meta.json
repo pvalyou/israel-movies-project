@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=species",
+  "stable_id": "nfct__en-movies-archive_keywords-species__a3732277",
+  "fetched_at": "2026-05-16T20:17:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:06Z",
+  "duration_ms": 7276,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44e00a9be3bf8698c3c40323e7b1fb841b01006366fa31c1e17b4f22456f5d4c",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

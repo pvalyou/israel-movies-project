@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Muslim%20culture",
+  "stable_id": "nfct__en-movies-archive_keywords-Muslim-20culture__f6f4ee4a",
+  "fetched_at": "2026-05-16T11:05:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:32Z",
+  "duration_ms": 13910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90681c004374e96d3baea8c990399b1b1f05d21cd1b90a4ea8755e6cdd2ea616",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

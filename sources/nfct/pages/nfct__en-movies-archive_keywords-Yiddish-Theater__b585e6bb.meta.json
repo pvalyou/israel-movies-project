@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yiddish+Theater",
+  "stable_id": "nfct__en-movies-archive_keywords-Yiddish-Theater__b585e6bb",
+  "fetched_at": "2026-05-16T11:02:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:02:42Z",
+  "duration_ms": 9489,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ce30847575d619531eb7e72991811fbf7fb51d148f59062a94f6e3c5fbb802c4",
+  "md_bytes": 10225,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ילדי-הצללים/",
+  "stable_id": "nfct__blog-movies__92a0dccc",
+  "fetched_at": "2026-05-09T21:29:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:29:33Z",
+  "duration_ms": 35836,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c8e966038959a716d2c0242afe4378b158dcb4cf9ac80288fffbd3d343f81380",
+  "md_bytes": 21526,
+  "links_found": 53,
+  "files_found": 0
+}

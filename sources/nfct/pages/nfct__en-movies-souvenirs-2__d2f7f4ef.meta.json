@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/souvenirs-2/#UAMainContent",
+  "stable_id": "nfct__en-movies-souvenirs-2__d2f7f4ef",
+  "fetched_at": "2026-05-16T13:31:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:31:39Z",
+  "duration_ms": 6482,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed157e1da81724386d930df46a0c10d764ff0a8e744ec4b77a71fb7c648f387b",
+  "md_bytes": 12569,
+  "links_found": 37,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Turkeys",
+  "stable_id": "nfct__en-movies-archive_keywords-Turkeys__c16ef16a",
+  "fetched_at": "2026-05-16T13:12:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:12:18Z",
+  "duration_ms": 8749,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c9fc7a9066977237906303162aaec433741f341b4d42d446db5c6e11ffb99638",
+  "md_bytes": 10123,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mahmoud+Darwish",
+  "stable_id": "nfct__en-movies-archive_keywords-Mahmoud-Darwish__b397d38e",
+  "fetched_at": "2026-05-16T05:51:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:51:00Z",
+  "duration_ms": 6598,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b4666d8440fb42dc20a048626a1c549c94945359f6f73311544a28d972c2ba3",
+  "md_bytes": 10081,
+  "links_found": 68,
+  "files_found": 0
+}

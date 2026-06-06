@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=women%20in%20politics",
+  "stable_id": "nfct__en-movies-archive_keywords-women-20in-20politics__7b96cc0f",
+  "fetched_at": "2026-05-16T05:46:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:46:12Z",
+  "duration_ms": 7110,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:659312fcc11556d81aeabcd713c6d53eebaa41e84c121deea8bda800b88d44ca",
+  "md_bytes": 10049,
+  "links_found": 68,
+  "files_found": 0
+}

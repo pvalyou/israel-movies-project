@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Salah%20Al-Kuweiti",
+  "stable_id": "nfct__en-movies-archive_keywords-Salah-20Al-Kuweiti__73368769",
+  "fetched_at": "2026-05-16T10:10:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:22Z",
+  "duration_ms": 11700,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a01409f46baa8c20a0cdeb7c6182c375717ac3997247bf3300561a7243f01d53",
+  "md_bytes": 10000,
+  "links_found": 68,
+  "files_found": 0
+}

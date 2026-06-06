@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=polar%20bear",
+  "stable_id": "nfct__en-movies-archive_keywords-polar-20bear__ab97dee9",
+  "fetched_at": "2026-05-16T15:05:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:05:13Z",
+  "duration_ms": 8532,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f58e3e61fb4152c63e0f18838a531d914b97506a8b71ad4482e2ccee25da792f",
+  "md_bytes": 10038,
+  "links_found": 68,
+  "files_found": 0
+}

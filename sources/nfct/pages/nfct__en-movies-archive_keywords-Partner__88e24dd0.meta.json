@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Partner",
+  "stable_id": "nfct__en-movies-archive_keywords-Partner__88e24dd0",
+  "fetched_at": "2026-05-16T17:10:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:10:10Z",
+  "duration_ms": 9311,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ebb5a5cbfd5c61234442c95af42250b49d9242e0408dc968d6376f527e4ceb33",
+  "md_bytes": 17062,
+  "links_found": 82,
+  "files_found": 0
+}

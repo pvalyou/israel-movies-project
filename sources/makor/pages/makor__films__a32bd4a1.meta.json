@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/רוסו/",
+  "stable_id": "makor__films__a32bd4a1",
+  "fetched_at": "2026-05-09T12:54:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:54:01Z",
+  "duration_ms": 8713,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e0d25c9255f3117470dcdd7f479045e2ea040f0685932344cbb4c0591ea63e5",
+  "md_bytes": 2477,
+  "links_found": 4,
+  "files_found": 0
+}

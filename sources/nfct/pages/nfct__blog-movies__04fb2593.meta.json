@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זעקות-ואז-שתיקה/",
+  "stable_id": "nfct__blog-movies__04fb2593",
+  "fetched_at": "2026-05-09T19:18:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:18:15Z",
+  "duration_ms": 16677,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99f922f46e005a964a34a190082d6be9c18472831b0974465484ed18417b1696",
+  "md_bytes": 13705,
+  "links_found": 26,
+  "files_found": 0
+}

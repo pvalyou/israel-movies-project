@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-souvenir-shop/",
+  "stable_id": "nfct__en-movies-the-souvenir-shop__4f6aa162",
+  "fetched_at": "2026-05-12T02:55:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:55:32Z",
+  "duration_ms": 28171,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:86807dd340a2f02e5a06eb9b68d5bae328b9bf910ea2a96b67ddadf82aa9072a",
+  "md_bytes": 11846,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Zionism",
+  "stable_id": "nfct__en-movies-archive_category-Zionism__2b72cce7",
+  "fetched_at": "2026-05-16T06:58:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:58:24Z",
+  "duration_ms": 5969,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:461f682e3f637bc9fa8ca296e21180df3107d1e762ca65ec85e022c421a6a200",
+  "md_bytes": 17663,
+  "links_found": 82,
+  "files_found": 0
+}

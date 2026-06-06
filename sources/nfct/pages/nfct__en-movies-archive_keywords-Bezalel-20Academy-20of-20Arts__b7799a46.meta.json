@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bezalel%20Academy%20of%20Arts",
+  "stable_id": "nfct__en-movies-archive_keywords-Bezalel-20Academy-20of-20Arts__b7799a46",
+  "fetched_at": "2026-05-16T17:13:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:13:23Z",
+  "duration_ms": 7446,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e0fd3ee99fdaab7b1fac496a1d016f79b1c5bec69830255fccb7a8a04b3e2ee",
+  "md_bytes": 9827,
+  "links_found": 67,
+  "files_found": 0
+}

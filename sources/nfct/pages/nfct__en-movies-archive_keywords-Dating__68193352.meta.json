@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dating",
+  "stable_id": "nfct__en-movies-archive_keywords-Dating__68193352",
+  "fetched_at": "2026-05-16T12:22:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:49Z",
+  "duration_ms": 10313,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9d5cb18d16f1b01441c4703f5cd7c42a02259e0f43efe3b0c1f1cb4ec56a2f12",
+  "md_bytes": 11438,
+  "links_found": 71,
+  "files_found": 0
+}

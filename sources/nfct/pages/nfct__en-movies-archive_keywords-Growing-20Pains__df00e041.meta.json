@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Growing%20Pains",
+  "stable_id": "nfct__en-movies-archive_keywords-Growing-20Pains__df00e041",
+  "fetched_at": "2026-05-16T08:57:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:57:08Z",
+  "duration_ms": 7981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8170e414562980e343bd2a7309b620969c29bb7b64df342e347ff232145218b8",
+  "md_bytes": 13217,
+  "links_found": 75,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-התאבדות-בני-פרדמן-סינמטק-תל-אבי-33/",
+  "stable_id": "nfct__events-event--------------33__552f7bbd",
+  "fetched_at": "2026-05-10T11:29:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T11:29:37Z",
+  "duration_ms": 34340,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c0601740d071c93b963a65406df17136d0082c43609f04f2df3af0c10a356a6f",
+  "md_bytes": 10803,
+  "links_found": 22,
+  "files_found": 0
+}

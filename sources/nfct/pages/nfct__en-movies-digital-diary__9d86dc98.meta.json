@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/digital-diary/",
+  "stable_id": "nfct__en-movies-digital-diary__9d86dc98",
+  "fetched_at": "2026-05-15T15:23:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:23:42Z",
+  "duration_ms": 22291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ee23823105ebd51ac42d714309e011610d88d79885ca9100945d8d35a2d28391",
+  "md_bytes": 11475,
+  "links_found": 30,
+  "files_found": 0
+}

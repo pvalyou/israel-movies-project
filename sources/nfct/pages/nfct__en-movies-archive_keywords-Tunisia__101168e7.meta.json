@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tunisia",
+  "stable_id": "nfct__en-movies-archive_keywords-Tunisia__101168e7",
+  "fetched_at": "2026-05-16T16:09:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:09:48Z",
+  "duration_ms": 7862,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32561489dbb9d6fc07a3849b969f7880bb6c66ee1ff422781ffe96d7559b8d50",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

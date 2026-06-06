@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/be-happy-tonight-student/",
+  "stable_id": "nfct__en-movies-be-happy-tonight-student__f4e5f113",
+  "fetched_at": "2026-05-15T15:30:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:30:36Z",
+  "duration_ms": 7369,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:226de664308b1c25fe56ae1e4d162e1e053f84d0f745cdee0ccedab1d78d8a66",
+  "md_bytes": 12519,
+  "links_found": 33,
+  "files_found": 0
+}

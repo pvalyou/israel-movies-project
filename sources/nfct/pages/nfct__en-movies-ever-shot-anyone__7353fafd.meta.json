@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ever-shot-anyone/",
+  "stable_id": "nfct__en-movies-ever-shot-anyone__7353fafd",
+  "fetched_at": "2026-05-11T06:12:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:12:58Z",
+  "duration_ms": 25591,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f016b29746e22fa28e89b2004651fd25f25790f7c7d901bc32a10cff197d82bf",
+  "md_bytes": 14942,
+  "links_found": 41,
+  "files_found": 0
+}

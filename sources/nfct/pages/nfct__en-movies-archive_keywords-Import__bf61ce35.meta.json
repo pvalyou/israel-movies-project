@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Import",
+  "stable_id": "nfct__en-movies-archive_keywords-Import__bf61ce35",
+  "fetched_at": "2026-05-16T08:31:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:31:20Z",
+  "duration_ms": 7574,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:378c54002a919e2983f2c5ddd83c811fa595f6ba8d3995058276a7fe15e73a00",
+  "md_bytes": 16997,
+  "links_found": 82,
+  "files_found": 0
+}

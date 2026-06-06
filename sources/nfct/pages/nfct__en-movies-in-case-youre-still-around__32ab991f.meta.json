@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-case-youre-still-around/#UArexazDFN",
+  "stable_id": "nfct__en-movies-in-case-youre-still-around__32ab991f",
+  "fetched_at": "2026-05-16T14:49:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:49:15Z",
+  "duration_ms": 7808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a93db7ca1b0181503f2379b711da41883e4575431488a76ec36e1b996b2220e7",
+  "md_bytes": 13570,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-settlers-2/",
+  "stable_id": "nfct__en-movies-the-settlers-2__56aa98d6",
+  "fetched_at": "2026-05-15T09:43:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:43:38Z",
+  "duration_ms": 16731,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf9fb15d56d03d7516ff64bd8fddc26691bd107e9bd228719f46d6a94b642777",
+  "md_bytes": 12998,
+  "links_found": 30,
+  "files_found": 0
+}

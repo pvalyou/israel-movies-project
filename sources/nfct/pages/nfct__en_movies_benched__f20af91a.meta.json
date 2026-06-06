@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies/benched/",
+  "stable_id": "nfct__en_movies_benched__f20af91a",
+  "fetched_at": "2026-05-18T21:34:29.973483+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies/benched/",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "2b43988b550fe7fcbe910c63d520dedbe3184ed9cd73b3d685bce59763a7a196",
+  "md_bytes": 9898,
+  "links_found": 0,
+  "error": ""
+}

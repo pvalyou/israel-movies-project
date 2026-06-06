@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/freeflow/",
+  "stable_id": "nfct__en-movies-freeflow__18c1d17d",
+  "fetched_at": "2026-05-11T13:57:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:57:40Z",
+  "duration_ms": 23181,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:596c9312264d50c24d70c2177284bbb58d4f86f3425b9d427400c5d79c1060c9",
+  "md_bytes": 12986,
+  "links_found": 31,
+  "files_found": 0
+}

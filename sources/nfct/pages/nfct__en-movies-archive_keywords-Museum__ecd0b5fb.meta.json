@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Museum",
+  "stable_id": "nfct__en-movies-archive_keywords-Museum__ecd0b5fb",
+  "fetched_at": "2026-05-16T13:32:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:32:33Z",
+  "duration_ms": 9294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c98eb08bf4e5da19753f52b224e5aa4b250f6c485a9ee1fd3dc6ae7ee3479406",
+  "md_bytes": 14758,
+  "links_found": 77,
+  "files_found": 0
+}

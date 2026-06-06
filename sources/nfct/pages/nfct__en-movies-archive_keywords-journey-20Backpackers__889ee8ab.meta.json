@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=journey%20Backpackers",
+  "stable_id": "nfct__en-movies-archive_keywords-journey-20Backpackers__889ee8ab",
+  "fetched_at": "2026-05-16T11:08:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:08:28Z",
+  "duration_ms": 7511,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8057252f3024d8d4b81747b83115dff0b503b50d86ae4494a14f891435cd59b1",
+  "md_bytes": 9815,
+  "links_found": 67,
+  "files_found": 0
+}

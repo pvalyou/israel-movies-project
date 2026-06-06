@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-פרוזדור-נטע-שקד-פסטיבל-דוקאביב-2/",
+  "stable_id": "nfct__events-event------------2__6fb467c5",
+  "fetched_at": "2026-05-10T00:50:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:50:53Z",
+  "duration_ms": 20880,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:12488a5b7d2c0fe12afc9bf9c511af6839c35541b1d7614196c343b478168055",
+  "md_bytes": 10490,
+  "links_found": 22,
+  "files_found": 0
+}

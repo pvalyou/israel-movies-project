@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=cannabis",
+  "stable_id": "nfct__en-movies-archive_keywords-cannabis__94876626",
+  "fetched_at": "2026-05-16T14:25:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:25:40Z",
+  "duration_ms": 11797,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6236378f31727076fee37eb781991fade9c34cc4bda5409982fd24868f4355bb",
+  "md_bytes": 11084,
+  "links_found": 70,
+  "files_found": 0
+}

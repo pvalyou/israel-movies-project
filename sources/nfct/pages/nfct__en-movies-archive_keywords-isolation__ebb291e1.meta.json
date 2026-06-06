@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=isolation",
+  "stable_id": "nfct__en-movies-archive_keywords-isolation__ebb291e1",
+  "fetched_at": "2026-05-16T15:04:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:04:29Z",
+  "duration_ms": 7255,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f72d7e0ccc8e3e1a9b36bb6cde2824e8d9baf1ae427328c9c1b09014a007cd4",
+  "md_bytes": 16304,
+  "links_found": 79,
+  "files_found": 0
+}

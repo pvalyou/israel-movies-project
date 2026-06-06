@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/blow-up/",
+  "stable_id": "arava_film_fund__en-movies-blow-up__ecca7c3e",
+  "fetched_at": "2026-05-08T09:40:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:40:34Z",
+  "duration_ms": 5191,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0264590e8c6351ccf9a05ca058627ba7e046eafa7524467dc7544f31c814a388",
+  "md_bytes": 3511,
+  "links_found": 9,
+  "files_found": 0
+}

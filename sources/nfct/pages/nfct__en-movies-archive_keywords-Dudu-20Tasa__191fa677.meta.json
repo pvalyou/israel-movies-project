@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dudu%20Tasa",
+  "stable_id": "nfct__en-movies-archive_keywords-Dudu-20Tasa__191fa677",
+  "fetched_at": "2026-05-16T20:17:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:33Z",
+  "duration_ms": 12660,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e026b633ef9c5503e77c419b10f8f2b510c3b48e7c1baea69383f25fc781e354",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

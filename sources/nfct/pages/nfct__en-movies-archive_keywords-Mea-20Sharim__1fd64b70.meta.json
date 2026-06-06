@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mea%20Sharim",
+  "stable_id": "nfct__en-movies-archive_keywords-Mea-20Sharim__1fd64b70",
+  "fetched_at": "2026-05-16T11:20:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:20:52Z",
+  "duration_ms": 6646,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e0b494c4a205af4879387fc704ca6147819617989fe8adceacaebd0ca6d6dcb5",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=lose",
+  "stable_id": "nfct__en-movies-archive_keywords-lose__f4035d34",
+  "fetched_at": "2026-05-16T16:02:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:02:00Z",
+  "duration_ms": 13714,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f4ba8deba8f928835a196f8438d36cb3b7513c588484e7807bb0c16f20dc490",
+  "md_bytes": 17139,
+  "links_found": 82,
+  "files_found": 0
+}

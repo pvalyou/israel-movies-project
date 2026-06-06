@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הפטריוט/",
+  "stable_id": "nfct__blog-movies__7b2cba2d",
+  "fetched_at": "2026-05-09T21:37:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:37:26Z",
+  "duration_ms": 74757,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:227a0903b94eb0fea2fb56c626dd051707e5d5b06370c8d12f9ab2f12c735d31",
+  "md_bytes": 18674,
+  "links_found": 38,
+  "files_found": 0
+}

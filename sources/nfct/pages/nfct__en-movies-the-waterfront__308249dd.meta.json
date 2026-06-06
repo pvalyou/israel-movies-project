@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-waterfront/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-the-waterfront__308249dd",
+  "fetched_at": "2026-05-16T12:59:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:59:07Z",
+  "duration_ms": 8592,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d6b1cb4c052765566429b641dc76cb683184bff4a466182d48dc3e29b1511384",
+  "md_bytes": 13155,
+  "links_found": 38,
+  "files_found": 0
+}

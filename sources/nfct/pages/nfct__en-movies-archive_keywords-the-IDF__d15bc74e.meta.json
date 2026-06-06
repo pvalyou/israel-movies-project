@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=the+IDF",
+  "stable_id": "nfct__en-movies-archive_keywords-the-IDF__d15bc74e",
+  "fetched_at": "2026-05-16T17:23:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:23:11Z",
+  "duration_ms": 10612,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0a0aac981ffa5281ad26ab1b82859594bf8039020dea01904936d1398383bc74",
+  "md_bytes": 15430,
+  "links_found": 82,
+  "files_found": 0
+}

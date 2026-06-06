@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Last%20Interview",
+  "stable_id": "nfct__en-movies-archive_keywords-Last-20Interview__6c6848f1",
+  "fetched_at": "2026-05-16T12:51:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:51:03Z",
+  "duration_ms": 13113,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a1e37d4fb648b000a17d34ca2a775d439937d786c7751f73f0adadee6bac7f4d",
+  "md_bytes": 11593,
+  "links_found": 70,
+  "files_found": 0
+}

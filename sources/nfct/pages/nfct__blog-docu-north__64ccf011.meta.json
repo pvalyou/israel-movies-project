@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/docu-north/#UAmlxHHRM3",
+  "stable_id": "nfct__blog-docu-north__64ccf011",
+  "fetched_at": "2026-05-10T17:48:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T17:48:24Z",
+  "duration_ms": 13566,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69a2b1e1d52d804fc68c28a5431dc31f175205751c5c413f054a0ff1fc42fccb",
+  "md_bytes": 11342,
+  "links_found": 21,
+  "files_found": 2
+}

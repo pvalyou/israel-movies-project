@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרו-ורבו/",
+  "stable_id": "nfct__blog-movies__acdcd17d",
+  "fetched_at": "2026-05-09T17:52:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:52:17Z",
+  "duration_ms": 30043,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b25c7467c230140ff1784ea3f1804f0d1e23db52f3518def8faccba8108897f6",
+  "md_bytes": 24475,
+  "links_found": 54,
+  "files_found": 0
+}

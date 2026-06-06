@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרשת-קוזלציק/",
+  "stable_id": "nfct__blog-movies__afd8d0ad",
+  "fetched_at": "2026-05-09T22:08:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:08:49Z",
+  "duration_ms": 26249,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fdeb208e358e5bfd3f87326891f0589b3e1febbd190937e36e1bdb3baf514e37",
+  "md_bytes": 19071,
+  "links_found": 40,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/%d7%98%d7%a2%d7%9d-%d7%92%d7%9f-%d7%a2%d7%93%d7%9f/",
+  "stable_id": "nfct__blog-movies-d7-98-d7-a2-d7-9d--d7-92-d7-9f--d7-a2-d7-93-d7-9f__86df619e",
+  "fetched_at": "2026-05-11T00:34:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:34:41Z",
+  "duration_ms": 25378,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4ba480c04e1a4e5118f0f90e6ba10abde40bbad2eb75717087f4743282314af5",
+  "md_bytes": 18238,
+  "links_found": 38,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/from-one-end-to-the-other/?lang=en",
+  "stable_id": "makor__films-from-one-end-to-the-other_lang-en__9fefc301",
+  "fetched_at": "2026-05-09T12:49:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:49:24Z",
+  "duration_ms": 11506,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9464f8962353693e8577c1197b541be286f502c4850811fdd62f2c891f2f499",
+  "md_bytes": 1711,
+  "links_found": 2,
+  "files_found": 0
+}

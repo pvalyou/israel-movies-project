@@ -1,0 +1,23 @@
+{
+  "url": "https://thejerusalemfilmfund.com/about-us/",
+  "stable_id": "jerusalem_film_fund__about-us__25ae8e58",
+  "fetched_at": "2026-05-09T11:18:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:18:13Z",
+  "duration_ms": 28991,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c6993fa38bec1107e76b548345dc1e225453e581b202c9d77db019410ca2da7",
+  "md_bytes": 4268,
+  "links_found": 7,
+  "files_found": 0
+}

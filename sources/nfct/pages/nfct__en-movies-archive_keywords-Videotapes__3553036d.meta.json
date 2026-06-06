@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Videotapes",
+  "stable_id": "nfct__en-movies-archive_keywords-Videotapes__3553036d",
+  "fetched_at": "2026-05-16T20:15:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:15:56Z",
+  "duration_ms": 6786,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb1f6f9403cbb71b63b1905a120d0802fe8879c463ecf682006d8af80d03c1b4",
+  "md_bytes": 10959,
+  "links_found": 70,
+  "files_found": 0
+}

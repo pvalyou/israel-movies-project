@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=youth%20at%20risk",
+  "stable_id": "nfct__en-movies-archive_keywords-youth-20at-20risk__59672855",
+  "fetched_at": "2026-05-16T11:16:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:16:42Z",
+  "duration_ms": 7890,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8076910992d85e1a8c56624ffa33fc8c99f52a0ef6a171de5250f8dcba52588a",
+  "md_bytes": 10817,
+  "links_found": 70,
+  "files_found": 0
+}

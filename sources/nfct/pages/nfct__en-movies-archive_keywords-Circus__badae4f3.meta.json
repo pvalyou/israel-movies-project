@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Circus",
+  "stable_id": "nfct__en-movies-archive_keywords-Circus__badae4f3",
+  "fetched_at": "2026-05-16T09:09:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:09:30Z",
+  "duration_ms": 6599,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e25c522aa2e43830801d6bdb23135de983f2c4ae7b368bf85cdd6796bff3371a",
+  "md_bytes": 10152,
+  "links_found": 68,
+  "files_found": 0
+}

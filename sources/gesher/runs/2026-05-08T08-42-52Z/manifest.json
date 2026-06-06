@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-05-08T08-42-52Z",
+  "source_id": "gesher",
+  "source_name_he": "קרן גשר לקולנוע רב תרבותי",
+  "tier": "A",
+  "started_at": "2026-05-08T08:43:10Z",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "concurrency": 5,
+  "scrape_options": {
+    "format": "markdown",
+    "fit_markdown": true,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": false
+  },
+  "stats": {
+    "urls_discovered": 11,
+    "urls_attempted": 11,
+    "urls_succeeded": 1,
+    "urls_empty": 10,
+    "urls_failed": 0,
+    "cache_hits": 10,
+    "total_md_bytes": 323,
+    "duration_seconds": 23.58
+  }
+}

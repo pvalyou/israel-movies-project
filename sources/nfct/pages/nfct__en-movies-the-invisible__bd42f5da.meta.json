@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-invisible/",
+  "stable_id": "nfct__en-movies-the-invisible__bd42f5da",
+  "fetched_at": "2026-05-15T15:15:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:15:06Z",
+  "duration_ms": 13627,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a39e77ab0fb6ec0381da9d638ad811b754d812ef2a5ba8661b2a68bebec966f",
+  "md_bytes": 13713,
+  "links_found": 38,
+  "files_found": 0
+}

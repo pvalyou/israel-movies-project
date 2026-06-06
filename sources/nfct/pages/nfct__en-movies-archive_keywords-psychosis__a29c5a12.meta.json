@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=psychosis",
+  "stable_id": "nfct__en-movies-archive_keywords-psychosis__a29c5a12",
+  "fetched_at": "2026-05-16T12:46:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:46:08Z",
+  "duration_ms": 9273,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0668b9491eb2714d19ad3876fbd055d92dd89d3473f026c8fd18a0787bde5d39",
+  "md_bytes": 10038,
+  "links_found": 68,
+  "files_found": 0
+}

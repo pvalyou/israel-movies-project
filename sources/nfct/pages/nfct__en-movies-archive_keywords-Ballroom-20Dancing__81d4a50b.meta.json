@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ballroom%20Dancing",
+  "stable_id": "nfct__en-movies-archive_keywords-Ballroom-20Dancing__81d4a50b",
+  "fetched_at": "2026-05-16T11:23:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:23:50Z",
+  "duration_ms": 5372,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bfdb79ef75ac3a3d83d02c711ec90cc0fc5862a8fca5b497b5936505021f3e21",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

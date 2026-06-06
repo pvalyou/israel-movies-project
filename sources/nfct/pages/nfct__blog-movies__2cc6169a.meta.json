@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מים-עומדים/",
+  "stable_id": "nfct__blog-movies__2cc6169a",
+  "fetched_at": "2026-05-09T20:00:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:00:37Z",
+  "duration_ms": 22129,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8e30340cf30d0091a54afc486d9d22c5d4a1a46279be4ba17986009c523a5061",
+  "md_bytes": 17719,
+  "links_found": 36,
+  "files_found": 0
+}

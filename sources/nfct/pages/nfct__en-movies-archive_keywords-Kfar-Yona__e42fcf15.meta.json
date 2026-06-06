@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kfar+Yona",
+  "stable_id": "nfct__en-movies-archive_keywords-Kfar-Yona__e42fcf15",
+  "fetched_at": "2026-05-16T17:26:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:26:44Z",
+  "duration_ms": 7286,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3eb4adf69778a8126fe2dedd2c73f884fab2b93f8002ffbd540c269c846b9f21",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

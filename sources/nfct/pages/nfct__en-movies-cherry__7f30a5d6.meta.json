@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cherry/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-cherry__7f30a5d6",
+  "fetched_at": "2026-05-16T16:25:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:25:39Z",
+  "duration_ms": 7237,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b9af472245f9441eb4f938aa583aa1f9237a014b814783ddd55045d95566a77",
+  "md_bytes": 12210,
+  "links_found": 36,
+  "files_found": 0
+}

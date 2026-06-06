@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Psychiatry",
+  "stable_id": "nfct__en-movies-archive_keywords-Psychiatry__6fc10261",
+  "fetched_at": "2026-05-16T14:57:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:57:57Z",
+  "duration_ms": 9072,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dde5fe24646499720c5f733b25b5afc88f98ef53032749af81798f86a03a1d77",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

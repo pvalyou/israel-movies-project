@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sister",
+  "stable_id": "nfct__en-movies-archive_keywords-sister__f7cc87c2",
+  "fetched_at": "2026-05-16T14:51:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:51:45Z",
+  "duration_ms": 8538,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:51b55a95ec54513779593f8bc2d4a8e6f3051e23d99e6796ce323e9f0ad3cad2",
+  "md_bytes": 16477,
+  "links_found": 82,
+  "files_found": 0
+}

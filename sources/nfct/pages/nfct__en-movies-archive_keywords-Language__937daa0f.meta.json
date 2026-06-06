@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Language",
+  "stable_id": "nfct__en-movies-archive_keywords-Language__937daa0f",
+  "fetched_at": "2026-05-16T10:10:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:50Z",
+  "duration_ms": 8064,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:743e05c17e3ff473d52cb11ab63015a398f364cec2419125b51d5096bab91bbe",
+  "md_bytes": 17439,
+  "links_found": 82,
+  "files_found": 0
+}

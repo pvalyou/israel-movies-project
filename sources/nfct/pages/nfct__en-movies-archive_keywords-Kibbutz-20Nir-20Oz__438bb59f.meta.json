@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kibbutz%20Nir%20Oz",
+  "stable_id": "nfct__en-movies-archive_keywords-Kibbutz-20Nir-20Oz__438bb59f",
+  "fetched_at": "2026-05-16T20:12:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:00Z",
+  "duration_ms": 12305,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ade9501e304eee1a253b42efb237eb5bf4259f99f8192033c42ad13db26b78f5",
+  "md_bytes": 10074,
+  "links_found": 68,
+  "files_found": 0
+}

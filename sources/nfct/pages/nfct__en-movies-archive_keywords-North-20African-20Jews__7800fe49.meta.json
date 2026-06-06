@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=North%20African%20Jews",
+  "stable_id": "nfct__en-movies-archive_keywords-North-20African-20Jews__7800fe49",
+  "fetched_at": "2026-05-16T13:07:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:07:57Z",
+  "duration_ms": 9785,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:28f3b6c9ca55cc58f1a39441f1666bef50fc755dd616b1130ed9eea707b740f4",
+  "md_bytes": 10217,
+  "links_found": 68,
+  "files_found": 0
+}

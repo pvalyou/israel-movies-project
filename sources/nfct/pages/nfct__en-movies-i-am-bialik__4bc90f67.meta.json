@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/i-am-bialik/",
+  "stable_id": "nfct__en-movies-i-am-bialik__4bc90f67",
+  "fetched_at": "2026-05-12T04:00:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:00:32Z",
+  "duration_ms": 29836,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:135150945956e5c77487b6e07b0ad329b84582e5997f4e4772b57bd73f8cfcf8",
+  "md_bytes": 14307,
+  "links_found": 35,
+  "files_found": 0
+}

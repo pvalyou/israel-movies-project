@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/wanted/#UArexazDFN",
+  "stable_id": "nfct__en-movies-wanted__7df0b644",
+  "fetched_at": "2026-05-16T17:05:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:05:47Z",
+  "duration_ms": 7265,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e24d08b2085fedc4dc378b845703df84bd9d69c7ca56a129edb9bd2454d1741",
+  "md_bytes": 11168,
+  "links_found": 35,
+  "files_found": 0
+}

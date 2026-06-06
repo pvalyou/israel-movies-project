@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-תקופת-מבחן-אביגיל-שפרבר-yes-דוקו-5/",
+  "stable_id": "nfct__events-event----------yes---5__01648551",
+  "fetched_at": "2026-05-10T08:37:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T08:37:09Z",
+  "duration_ms": 28902,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60ba1c143f9e970e8150538a2d308e694708afa1fbe9d5112d48f1f6dc2290ee",
+  "md_bytes": 12461,
+  "links_found": 27,
+  "files_found": 0
+}

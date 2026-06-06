@@ -1,0 +1,21 @@
+{
+  "source_name": "guilds",
+  "run_date": "2026-05-18",
+  "elapsed_min": 0.21,
+  "pages_total": 7,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 7,
+  "status_counts": {
+    "ok": 7,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 34722,
+  "tokens_output": 18125,
+  "cost_usd": 0.0107,
+  "calls": 7,
+  "errors": 0,
+  "json_retries": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=illegal",
+  "stable_id": "nfct__en-movies-archive_keywords-illegal__6c51d518",
+  "fetched_at": "2026-05-16T14:25:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:25:40Z",
+  "duration_ms": 11358,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99d1d02962fe5b29e73c6b07cf9c743db4eabe04948a6ccf6cab51cec37be902",
+  "md_bytes": 14630,
+  "links_found": 80,
+  "files_found": 0
+}

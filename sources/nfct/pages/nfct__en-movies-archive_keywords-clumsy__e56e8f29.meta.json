@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=clumsy",
+  "stable_id": "nfct__en-movies-archive_keywords-clumsy__e56e8f29",
+  "fetched_at": "2026-05-16T15:59:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:59:43Z",
+  "duration_ms": 8074,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e6ec948fe4637dd945d1f9d2e9d4dff866b5eadb97175d5efd79d17b792fb94",
+  "md_bytes": 9787,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ruth/",
+  "stable_id": "nfct__en-movies-ruth__2b29c53b",
+  "fetched_at": "2026-05-15T09:28:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:28:45Z",
+  "duration_ms": 12908,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b5e4a281ebbdb7cf1f5c738f25240b4c1022cd7f6b072b3c1fab304cbcfc82c2",
+  "md_bytes": 14192,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish+Women",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-Women__35a3e25f",
+  "fetched_at": "2026-05-16T11:21:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:21:07Z",
+  "duration_ms": 9479,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:39e5bdc2d0b5d48def0cd43e4b7c2facd18b1745882589921c1f9c72c340a949",
+  "md_bytes": 14242,
+  "links_found": 81,
+  "files_found": 0
+}

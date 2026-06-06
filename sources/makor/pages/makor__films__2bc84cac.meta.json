@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/כיפור/",
+  "stable_id": "makor__films__2bc84cac",
+  "fetched_at": "2026-05-09T13:02:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:02:24Z",
+  "duration_ms": 6906,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bd327d316ca3c68e7840d7c9a5885491e783a1e80b6e9d84a78dae419e1844b4",
+  "md_bytes": 2461,
+  "links_found": 4,
+  "files_found": 0
+}

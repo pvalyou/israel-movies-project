@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תחשוב-פופקורן/",
+  "stable_id": "nfct__blog-movies__16b0426b",
+  "fetched_at": "2026-05-15T08:59:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:27Z",
+  "duration_ms": 8687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f97d5b690fb1be894c4e29c1d6c42a719ae9b1f224942c7eaa6674c759e3399",
+  "md_bytes": 19513,
+  "links_found": 35,
+  "files_found": 0
+}

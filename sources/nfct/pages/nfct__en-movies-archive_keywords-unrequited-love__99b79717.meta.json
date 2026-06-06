@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=unrequited+love",
+  "stable_id": "nfct__en-movies-archive_keywords-unrequited-love__99b79717",
+  "fetched_at": "2026-05-16T15:28:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:28:58Z",
+  "duration_ms": 6257,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:09ca8b6cd13ffac98b646591c26cd1f197574c26e4f5e6cfeb1f63ecf041fb0a",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

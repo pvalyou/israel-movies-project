@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סרט-בר-מצווה/",
+  "stable_id": "nfct__blog-movies__851ab104",
+  "fetched_at": "2026-05-09T17:04:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:04:12Z",
+  "duration_ms": 14686,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ab976f7d04ac6a6026e63a85b50df14f04e0705aa31bbd86e474e0fe3feed4e",
+  "md_bytes": 16185,
+  "links_found": 34,
+  "files_found": 0
+}

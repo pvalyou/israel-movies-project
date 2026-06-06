@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/טיסה-1812-לגלות-את-אמא/",
+  "stable_id": "nfct__blog-movies--1812__79a80bcd",
+  "fetched_at": "2026-05-09T19:38:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:38:48Z",
+  "duration_ms": 23663,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:95dc7adf83faacad3ed88cb5578e0dbd055e679f71581ccfe7fe96c610bcaa16",
+  "md_bytes": 19165,
+  "links_found": 42,
+  "files_found": 0
+}

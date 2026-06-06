@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sinai",
+  "stable_id": "nfct__en-movies-archive_keywords-Sinai__d3a65470",
+  "fetched_at": "2026-05-16T07:32:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:32:52Z",
+  "duration_ms": 7223,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd640e7c1d8150a9de50b1d949768522e6256fa3b5f374ba61b1cbd59d7a2cca",
+  "md_bytes": 11550,
+  "links_found": 71,
+  "files_found": 0
+}

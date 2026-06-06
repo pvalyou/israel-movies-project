@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=adultery",
+  "stable_id": "nfct__en-movies-archive_keywords-adultery__6d3860e2",
+  "fetched_at": "2026-05-16T09:20:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:20:25Z",
+  "duration_ms": 8298,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8c59fce9295bb7bdc4c8e36d2623c5512b0f4d87a3ce2b6d16e131a3016c13b",
+  "md_bytes": 11070,
+  "links_found": 70,
+  "files_found": 0
+}

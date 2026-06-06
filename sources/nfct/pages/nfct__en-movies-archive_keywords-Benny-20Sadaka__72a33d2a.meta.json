@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Benny%20Sadaka",
+  "stable_id": "nfct__en-movies-archive_keywords-Benny-20Sadaka__72a33d2a",
+  "fetched_at": "2026-05-16T14:18:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:18:30Z",
+  "duration_ms": 7204,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dcf4e345fa0721bf8f996a2547142a7eb397d774e61483f74962f6a6f585113e",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

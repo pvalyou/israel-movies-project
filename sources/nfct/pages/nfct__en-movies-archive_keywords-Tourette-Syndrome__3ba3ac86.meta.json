@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tourette+Syndrome",
+  "stable_id": "nfct__en-movies-archive_keywords-Tourette-Syndrome__3ba3ac86",
+  "fetched_at": "2026-05-16T11:05:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:09Z",
+  "duration_ms": 9952,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e265108d29f43e58ed0daa35816100d64abbd21719f292822543cc8e49dcc6b",
+  "md_bytes": 10078,
+  "links_found": 68,
+  "files_found": 0
+}

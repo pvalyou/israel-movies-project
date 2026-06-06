@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/it-kinda-scares-me/",
+  "stable_id": "nfct__en-movies-it-kinda-scares-me__37bf917c",
+  "fetched_at": "2026-05-11T05:25:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:25:55Z",
+  "duration_ms": 18861,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f56b02cc1193a516602e92c32d952b4e25e1a4e600bd3c5234d963b06dfad73",
+  "md_bytes": 14637,
+  "links_found": 35,
+  "files_found": 0
+}

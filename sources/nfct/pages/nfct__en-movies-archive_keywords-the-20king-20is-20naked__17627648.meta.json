@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=the%20king%20is%20naked",
+  "stable_id": "nfct__en-movies-archive_keywords-the-20king-20is-20naked__17627648",
+  "fetched_at": "2026-05-16T17:02:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:02:26Z",
+  "duration_ms": 9552,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0a0db353524c0194b6cc56ca08faf1361247be66045c051b3bafd6883ed106c1",
+  "md_bytes": 10240,
+  "links_found": 68,
+  "files_found": 0
+}

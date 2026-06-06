@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/במטבח-של-פריימן/",
+  "stable_id": "nfct__blog-movies__34cfe665",
+  "fetched_at": "2026-05-09T17:25:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:25:16Z",
+  "duration_ms": 41286,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d34b27f6d4ee415ebac2607d15a607d707e26d07b91c4bda7e4d3e4a2b1e3709",
+  "md_bytes": 25695,
+  "links_found": 56,
+  "files_found": 0
+}

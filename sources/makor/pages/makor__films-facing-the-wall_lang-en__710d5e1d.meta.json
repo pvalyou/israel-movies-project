@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/facing-the-wall/?lang=en",
+  "stable_id": "makor__films-facing-the-wall_lang-en__710d5e1d",
+  "fetched_at": "2026-05-09T13:03:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:14Z",
+  "duration_ms": 5189,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4ee81bc1507de38ffdc4793d061c55f9acafbade5b25ea049d81f3fb61faf11e",
+  "md_bytes": 2487,
+  "links_found": 4,
+  "files_found": 0
+}

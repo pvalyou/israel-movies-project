@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-film-unfinished/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-a-film-unfinished__f75e9abc",
+  "fetched_at": "2026-05-16T16:59:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:59:02Z",
+  "duration_ms": 9374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c06f6aacc2118f02ef9d6b1491d5fbc3f2f2d9e441e8959783ca6602a3585fa2",
+  "md_bytes": 15611,
+  "links_found": 32,
+  "files_found": 0
+}

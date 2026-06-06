@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/still-under-treatment/#UAMainContent",
+  "stable_id": "nfct__en-movies-still-under-treatment__fa408182",
+  "fetched_at": "2026-05-16T17:11:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:11:28Z",
+  "duration_ms": 7410,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:86fdd4dc9cc560cba8b4522b3e364c14e64525a820ae3667da8fe85268d09459",
+  "md_bytes": 10912,
+  "links_found": 30,
+  "files_found": 0
+}

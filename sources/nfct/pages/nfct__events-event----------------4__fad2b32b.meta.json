@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-היה-שלום-פטר-שווארץ-יעל-ראובני-ע-4/",
+  "stable_id": "nfct__events-event----------------4__fad2b32b",
+  "fetched_at": "2026-05-10T02:18:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:18:50Z",
+  "duration_ms": 65780,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c168ea7fca79ecc63f1ad54887ac1d6aa0d94e76d306f447444a1a62b6145bee",
+  "md_bytes": 12557,
+  "links_found": 27,
+  "files_found": 0
+}

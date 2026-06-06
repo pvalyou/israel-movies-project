@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Special+Effects",
+  "stable_id": "nfct__en-movies-archive_keywords-Special-Effects__f2fb26db",
+  "fetched_at": "2026-05-16T13:16:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:16:57Z",
+  "duration_ms": 10967,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fdae2a7fd241d0589daf569c2adc16c134bc70043c3120554516f940f361e7a6",
+  "md_bytes": 10275,
+  "links_found": 68,
+  "files_found": 0
+}

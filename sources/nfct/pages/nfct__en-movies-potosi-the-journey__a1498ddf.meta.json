@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/potosi-the-journey/",
+  "stable_id": "nfct__en-movies-potosi-the-journey__a1498ddf",
+  "fetched_at": "2026-05-11T06:58:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:58:28Z",
+  "duration_ms": 12522,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c6ad70d0db98e96e6ae99a5ab2af4e750e9bbb3309be95fafeeb36a9b854355",
+  "md_bytes": 17031,
+  "links_found": 41,
+  "files_found": 0
+}

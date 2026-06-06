@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מועדון-בית-הקברות/",
+  "stable_id": "nfct__movies__786e9457",
+  "fetched_at": "2026-05-16T20:26:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:26:09Z",
+  "duration_ms": 8037,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0cbfb3cc43b0b9cdb925a668a48770ac63a0cb25a6b2766e993d2bb5f19d5b4e",
+  "md_bytes": 8150,
+  "links_found": 21,
+  "files_found": 0
+}

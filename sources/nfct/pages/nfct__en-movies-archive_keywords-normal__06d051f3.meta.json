@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=normal",
+  "stable_id": "nfct__en-movies-archive_keywords-normal__06d051f3",
+  "fetched_at": "2026-05-16T10:37:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:37:50Z",
+  "duration_ms": 7407,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa6f17fc3e061f20cc0666302f8c3b78f4a156a94aafe0a0705a2a539d3a2e62",
+  "md_bytes": 15964,
+  "links_found": 82,
+  "files_found": 0
+}

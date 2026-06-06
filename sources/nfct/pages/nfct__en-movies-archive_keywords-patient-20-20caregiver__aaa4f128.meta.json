@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=patient%20&%20caregiver",
+  "stable_id": "nfct__en-movies-archive_keywords-patient-20-20caregiver__aaa4f128",
+  "fetched_at": "2026-05-16T15:10:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:10:01Z",
+  "duration_ms": 11740,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b8c392540be9ec3596e20f2a6381ce2a701f8b0b26e8aa3fbb9e08475428653",
+  "md_bytes": 13008,
+  "links_found": 75,
+  "files_found": 0
+}

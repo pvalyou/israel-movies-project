@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Women+Cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-Women-Cinema__73fbda4d",
+  "fetched_at": "2026-05-16T15:51:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:48Z",
+  "duration_ms": 8194,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:04c588455d07e2490caf462585c1da36c1577598e59b9754a552c98b1ddb3fae",
+  "md_bytes": 11445,
+  "links_found": 71,
+  "files_found": 0
+}

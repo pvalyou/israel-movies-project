@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kibbutz+Zikim",
+  "stable_id": "nfct__en-movies-archive_keywords-Kibbutz-Zikim__d2725f2c",
+  "fetched_at": "2026-05-16T20:31:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:38Z",
+  "duration_ms": 8835,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b49d9bc66370cd918685a23ecf117990c893da1df6667cecbd1b33f20272c816",
+  "md_bytes": 10329,
+  "links_found": 68,
+  "files_found": 0
+}

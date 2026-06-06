@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=operation",
+  "stable_id": "nfct__en-movies-archive_keywords-operation__d5f01261",
+  "fetched_at": "2026-05-16T13:50:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:50:34Z",
+  "duration_ms": 9778,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0d009d12d7c2a85f5cfddeb74f8cf49faed606d76c631beb5a269004dc5a34a",
+  "md_bytes": 16021,
+  "links_found": 82,
+  "files_found": 0
+}

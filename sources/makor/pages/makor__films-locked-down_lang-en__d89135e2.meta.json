@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/locked-down/?lang=en",
+  "stable_id": "makor__films-locked-down_lang-en__d89135e2",
+  "fetched_at": "2026-05-09T13:05:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:05:57Z",
+  "duration_ms": 10307,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b34e06c5a1f4fe23a3b4e28984b245a320a8b934ecf0c0ff42d8225e67595c2",
+  "md_bytes": 2811,
+  "links_found": 4,
+  "files_found": 0
+}

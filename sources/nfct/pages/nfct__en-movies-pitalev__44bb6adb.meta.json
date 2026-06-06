@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/pitalev/#UArexazDFN",
+  "stable_id": "nfct__en-movies-pitalev__44bb6adb",
+  "fetched_at": "2026-05-16T16:23:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:23:54Z",
+  "duration_ms": 6887,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b846ab17be1202eb604c404bc3ff4869dde0c71be74fa83ec1e89f66b47b6021",
+  "md_bytes": 10586,
+  "links_found": 29,
+  "files_found": 0
+}

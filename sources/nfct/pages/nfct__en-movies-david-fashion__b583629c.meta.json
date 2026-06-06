@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/david-fashion/#UArexazDFN",
+  "stable_id": "nfct__en-movies-david-fashion__b583629c",
+  "fetched_at": "2026-05-16T10:20:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:20:21Z",
+  "duration_ms": 7377,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a755684fd527bb1e75723f3c275f388aaba789db2ce78e8e2dea049e1351b4bd",
+  "md_bytes": 12135,
+  "links_found": 36,
+  "files_found": 0
+}

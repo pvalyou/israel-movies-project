@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/la-femme-qui-cherche/#UAMainContent",
+  "stable_id": "nfct__en-movies-la-femme-qui-cherche__945f58c5",
+  "fetched_at": "2026-05-16T16:46:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:46:42Z",
+  "duration_ms": 7811,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6c72061c64ab9049ca0baf341fbba7a1fb3c589a834bd0fd1c178232513e2858",
+  "md_bytes": 13594,
+  "links_found": 38,
+  "files_found": 0
+}

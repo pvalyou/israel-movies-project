@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הפיראטים-היצירתיים-מקריית-שלום/",
+  "stable_id": "nfct__blog-movies__a23f6563",
+  "fetched_at": "2026-05-09T20:39:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:39:37Z",
+  "duration_ms": 22929,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:931b08fb19e7a73157d965a6c6eb635d629f372deed9237772db4e6baa8cd1a3",
+  "md_bytes": 18953,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=JFK",
+  "stable_id": "nfct__en-movies-archive_keywords-JFK__81e1e57e",
+  "fetched_at": "2026-05-16T14:10:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:10:49Z",
+  "duration_ms": 6945,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b94ddc26ce4f86b35fcae967186c4133c65b360436db087ab2d1cffa2a4c60c1",
+  "md_bytes": 10215,
+  "links_found": 68,
+  "files_found": 0
+}

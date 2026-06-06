@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=arranged+marriage",
+  "stable_id": "nfct__en-movies-archive_keywords-arranged-marriage__dbd69333",
+  "fetched_at": "2026-05-16T16:16:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:16:18Z",
+  "duration_ms": 14970,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ad83a507f4786fe24fa3ae63004f057d03f2ad362e454141fabaea47ba77cb90",
+  "md_bytes": 9995,
+  "links_found": 68,
+  "files_found": 0
+}

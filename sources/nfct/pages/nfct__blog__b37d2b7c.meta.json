@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/תסריטאות-עד-הבית-לבעלי-מוגבלויות/",
+  "stable_id": "nfct__blog__b37d2b7c",
+  "fetched_at": "2026-05-09T16:13:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:13:20Z",
+  "duration_ms": 63221,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e36ccdf135c22ade10a359bd42dab547f53c6b712f37d8bf1ca036c362d949f9",
+  "md_bytes": 13857,
+  "links_found": 26,
+  "files_found": 2
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/bird-in-the-room/?lang=en",
+  "stable_id": "makor__films-bird-in-the-room_lang-en__b8448f72",
+  "fetched_at": "2026-05-09T12:48:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:48:11Z",
+  "duration_ms": 15988,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:873b7627a23efb739da7d0041e0e541868290bb05265337e3ad73aeade39db40",
+  "md_bytes": 2540,
+  "links_found": 4,
+  "files_found": 0
+}

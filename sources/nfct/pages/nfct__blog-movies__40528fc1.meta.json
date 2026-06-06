@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קינג-ביבי/",
+  "stable_id": "nfct__blog-movies__40528fc1",
+  "fetched_at": "2026-05-09T20:51:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:51:47Z",
+  "duration_ms": 59435,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b627d11596a2837b0aeaaa74e91dc6b0eb1d935d05127b36b021282ca992cd3",
+  "md_bytes": 24522,
+  "links_found": 48,
+  "files_found": 0
+}

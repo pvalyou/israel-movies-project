@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ramallah",
+  "stable_id": "nfct__en-movies-archive_keywords-Ramallah__3202921e",
+  "fetched_at": "2026-05-16T10:54:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:54:11Z",
+  "duration_ms": 7203,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:12d9b55f38ebc736dd88001e67a36be1cb91bc3e951eb13898bc824501e7da12",
+  "md_bytes": 11830,
+  "links_found": 72,
+  "files_found": 0
+}

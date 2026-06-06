@@ -1,0 +1,37 @@
+
+=== Run started 2026-05-18T23:37:17.102351 ===
+[23:37:17] Source: film_schools
+[23:37:17] Pages dir: sources/film_schools/pages
+[23:37:17] Output dir: out/film_schools
+[23:37:17] Total .md pages found: 6  |  Already done: 0  |  To process: 6
+[23:37:17] Model: google/gemini-2.5-flash-lite  |  Workers: 4  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:37:21] [1/6] OK   2p 3o 0f 4r 4ro  (4.23s)
+[23:37:21]           file: film_schools__root__efa82fc1.md
+[23:37:21]           url:  https://www.jsfs.co.il/
+[23:37:21] [2/6] OK   0p 0o 0f 0r 0ro  (4.83s)
+[23:37:21]           file: film_schools__filmTV__49be01e8.md
+[23:37:21]           url:  https://arts.tau.ac.il/filmTV
+[23:37:25] [3/6] OK   3p 3o 3f 6r 3ro  (4.56s)
+[23:37:25]           file: film_schools__root__ff5f861f.md
+[23:37:25]           url:  https://www.maale.co.il/
+[23:37:27] [4/6] OK   12p 1o 0f 0r 12ro  (5.73s)
+[23:37:27]           file: film_schools__staff_dep_17__839a8903.md
+[23:37:27]           url:  https://www.sapir.ac.il/staff/dep/17
+[23:37:28] [5/6] OK   6p 2o 1f 12r 10ro  (11.79s)
+[23:37:28]           file: film_schools__film-studies__b7ea0d70.md
+[23:37:28]           url:  https://www.minshar.org.il/film-studies/
+[23:37:29] [6/6] OK   10p 15o 11f 0r 1ro  (12.72s)
+[23:37:29]           file: film_schools__about__984c437f.md
+[23:37:29]           url:  https://www.jsfs.co.il/about
+[23:37:29] ======================================================================
+[23:37:29] DONE in 0.2min
+[23:37:29]   ok:           6
+[23:37:29]   filtered:     0
+[23:37:29]   empty:        0
+[23:37:29]   load_error:   0
+[23:37:29]   llm_error:    0
+[23:37:29] Tokens: 28,016 in / 16,382 out  |  Cost: $0.0094
+[23:37:29] Calls: 6  |  Errors: 0  |  JSON retries: 0
+[23:37:29] Output: out/film_schools/mentions.jsonl
+[23:37:29] Summary:  out/film_schools/run_summary.json
+=== Run ended 2026-05-18T23:37:29.848066 ===

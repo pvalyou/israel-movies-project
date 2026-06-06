@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-last-card/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-last-card__bf2cc729",
+  "fetched_at": "2026-05-16T17:10:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:10:16Z",
+  "duration_ms": 12100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:41f16276406f0704d1e1e9baa5263aab0d10ad60889a35cf2aa4a3d577a11b8f",
+  "md_bytes": 15233,
+  "links_found": 38,
+  "files_found": 0
+}

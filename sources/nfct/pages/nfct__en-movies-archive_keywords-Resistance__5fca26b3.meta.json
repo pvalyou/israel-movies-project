@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Resistance",
+  "stable_id": "nfct__en-movies-archive_keywords-Resistance__5fca26b3",
+  "fetched_at": "2026-05-16T14:46:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:44Z",
+  "duration_ms": 6290,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0428298790f38f9cb1b07b358fe7fd1ade1d8c1d9fc370cf63e504b6cf232afb",
+  "md_bytes": 12239,
+  "links_found": 74,
+  "files_found": 0
+}

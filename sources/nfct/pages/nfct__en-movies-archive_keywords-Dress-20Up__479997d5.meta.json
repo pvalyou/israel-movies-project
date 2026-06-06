@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dress%20Up",
+  "stable_id": "nfct__en-movies-archive_keywords-Dress-20Up__479997d5",
+  "fetched_at": "2026-05-16T16:01:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:01:29Z",
+  "duration_ms": 6583,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1ccbaea7c0edaf2725042face3f1926273abc7929c2648d7e0be8f9be865ce91",
+  "md_bytes": 12966,
+  "links_found": 74,
+  "files_found": 0
+}

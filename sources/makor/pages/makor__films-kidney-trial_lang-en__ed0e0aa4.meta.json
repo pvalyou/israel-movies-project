@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/kidney-trial/?lang=en",
+  "stable_id": "makor__films-kidney-trial_lang-en__ed0e0aa4",
+  "fetched_at": "2026-05-09T13:01:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:01:55Z",
+  "duration_ms": 13136,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f3e8efd4075a59e3e35b2d2ce16eade0b390d28517be66e763767f02adb221e",
+  "md_bytes": 2149,
+  "links_found": 4,
+  "files_found": 0
+}

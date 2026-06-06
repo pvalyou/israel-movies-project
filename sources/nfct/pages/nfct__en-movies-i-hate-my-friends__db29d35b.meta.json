@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/i-hate-my-friends/",
+  "stable_id": "nfct__en-movies-i-hate-my-friends__db29d35b",
+  "fetched_at": "2026-05-16T04:48:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:48:59Z",
+  "duration_ms": 8330,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6fcbcd18824dbd56ca90b55ff6c60e151813c43c1bd0d92cd721fd099f17825c",
+  "md_bytes": 14781,
+  "links_found": 45,
+  "files_found": 0
+}

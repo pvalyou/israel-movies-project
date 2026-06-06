@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cultural%20Institution",
+  "stable_id": "nfct__en-movies-archive_keywords-Cultural-20Institution__382fc493",
+  "fetched_at": "2026-05-16T13:34:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:34:21Z",
+  "duration_ms": 11294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c61f029dbbb5faa7f9ab012da088bcf10b4ed00cb6af5044160f020aad9b9d2c",
+  "md_bytes": 11074,
+  "links_found": 70,
+  "files_found": 0
+}

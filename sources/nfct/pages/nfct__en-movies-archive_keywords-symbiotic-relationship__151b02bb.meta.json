@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=symbiotic+relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-symbiotic-relationship__151b02bb",
+  "fetched_at": "2026-05-16T12:15:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:15:22Z",
+  "duration_ms": 8330,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa3841a9649286d017d741837a22405ba37e9536eee86407eb909edae55e123d",
+  "md_bytes": 10669,
+  "links_found": 69,
+  "files_found": 0
+}

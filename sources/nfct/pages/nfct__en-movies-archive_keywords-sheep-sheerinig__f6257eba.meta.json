@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sheep+sheerinig",
+  "stable_id": "nfct__en-movies-archive_keywords-sheep-sheerinig__f6257eba",
+  "fetched_at": "2026-05-16T15:30:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:30:23Z",
+  "duration_ms": 9385,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f820e29964042144995168d725db940e638e2d05a05706a2eb776ad40a862ad5",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

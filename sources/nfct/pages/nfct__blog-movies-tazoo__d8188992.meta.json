@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/tazoo/#UAmlxHHRM4",
+  "stable_id": "nfct__blog-movies-tazoo__d8188992",
+  "fetched_at": "2026-05-11T18:31:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:31:40Z",
+  "duration_ms": 30737,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:743d97d8af6de5d1c061c9688e0e5bdd2d7123ce46efbae39257d689fd56fa1b",
+  "md_bytes": 19790,
+  "links_found": 48,
+  "files_found": 0
+}

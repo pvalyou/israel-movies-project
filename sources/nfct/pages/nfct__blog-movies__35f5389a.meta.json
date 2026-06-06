@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רנטה/",
+  "stable_id": "nfct__blog-movies__35f5389a",
+  "fetched_at": "2026-05-09T17:57:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:57:51Z",
+  "duration_ms": 24395,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f5fdda8b4a9ca822c7e504c3eecb0808e2d308f834c20ddefe56a7eb3cd95bc",
+  "md_bytes": 15000,
+  "links_found": 32,
+  "files_found": 0
+}

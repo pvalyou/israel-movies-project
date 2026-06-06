@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=lunch+break",
+  "stable_id": "nfct__en-movies-archive_keywords-lunch-break__45e5df04",
+  "fetched_at": "2026-05-16T17:01:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:01:43Z",
+  "duration_ms": 9137,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6a883f9953deb73871bd11f7ec16e4dfb385203fdfc47e6400fe56413d3a8811",
+  "md_bytes": 10741,
+  "links_found": 69,
+  "files_found": 0
+}

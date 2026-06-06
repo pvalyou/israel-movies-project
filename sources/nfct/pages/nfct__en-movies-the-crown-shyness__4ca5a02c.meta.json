@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-crown-shyness/",
+  "stable_id": "nfct__en-movies-the-crown-shyness__4ca5a02c",
+  "fetched_at": "2026-05-11T17:09:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:09:10Z",
+  "duration_ms": 12729,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:75e490d213a3dec74fbd27b4e452d97c8e1299af39edae4fb50a875f0cbbf125",
+  "md_bytes": 14261,
+  "links_found": 40,
+  "files_found": 0
+}

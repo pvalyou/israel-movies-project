@@ -1,0 +1,89 @@
+# Makefile.client — Build a client delivery bundle.
+#
+# Takes the freshly built artifacts from the main pipeline (Makefile) and
+# packages them into ./dist/ for the client:
+#   - connections_report.html  (graph nav link stripped)
+#   - films.html               (graph nav link stripped)
+#   - entity_registry.json     (canonical people/orgs)
+#   - movies_db.json           (films database)
+#   - derived_conflicts.json   (computed conflict findings)
+#
+# Usage:
+#   make -f Makefile.client            # build dist/
+#   make -f Makefile.client zip        # build dist/ and zip it
+#   make -f Makefile.client clean      # remove dist/ and the zip
+#
+# Note: this Makefile does NOT rebuild the source artifacts. Run plain `make`
+# first to refresh the pipeline outputs, then `make -f Makefile.client`.
+
+DIST       := dist
+ZIP        := israeli-film-conflicts.zip
+
+# Source artifacts produced by the main pipeline
+SRC_REPORT := connections_report.html
+SRC_FILMS  := films.html
+SRC_REG    := entity_registry.json
+SRC_MOVIES := data/movies_db.json
+SRC_DERIV  := data/derived_conflicts.json
+
+.PHONY: all zip clean help
+.DEFAULT_GOAL := all
+
+all: $(DIST)/connections_report.html \
+     $(DIST)/films.html \
+     $(DIST)/entity_registry.json \
+     $(DIST)/movies_db.json \
+     $(DIST)/derived_conflicts.json \
+     $(DIST)/README.txt ## Build the client delivery folder
+
+$(DIST):
+	mkdir -p $(DIST)
+
+# Strip the graph-tab link from the HTML reports.
+# The line we're removing looks like:
+#   <a href="graph.html">🔗 גרף ניגודי עניינים</a>
+# sed deletes any line containing href="graph.html".
+$(DIST)/connections_report.html: $(SRC_REPORT) | $(DIST)
+	sed '/href="graph.html"/d' $(SRC_REPORT) > $@
+
+$(DIST)/films.html: $(SRC_FILMS) | $(DIST)
+	sed '/href="graph.html"/d' $(SRC_FILMS) > $@
+
+# Data files — straight copies.
+$(DIST)/entity_registry.json: $(SRC_REG) | $(DIST)
+	cp $< $@
+
+$(DIST)/movies_db.json: $(SRC_MOVIES) | $(DIST)
+	cp $< $@
+
+$(DIST)/derived_conflicts.json: $(SRC_DERIV) | $(DIST)
+	cp $< $@
+
+$(DIST)/README.txt: | $(DIST)
+	@printf '%s\n' \
+	  'Israeli Film Industry — Conflicts Report' \
+	  '=========================================' \
+	  '' \
+	  'HTML reports (open in any browser):' \
+	  '  connections_report.html  — full conflicts report (people, orgs, findings)' \
+	  '  films.html               — films catalog browser' \
+	  '' \
+	  'Data files (raw JSON, for programmatic use):' \
+	  '  entity_registry.json     — canonical registry of people and organizations' \
+	  '  movies_db.json           — films database with crew, funding, sources' \
+	  '  derived_conflicts.json   — computed conflict findings' \
+	  '' \
+	  'Produced by P-Valyou.' \
+	  > $@
+
+zip: all ## Build dist/ and zip it for sending
+	rm -f $(ZIP)
+	cd $(DIST) && zip -r ../$(ZIP) .
+	@echo "Wrote $(ZIP)"
+
+clean: ## Remove dist/ and the zip
+	rm -rf $(DIST) $(ZIP)
+
+help: ## List targets
+	@grep -E '^[a-zA-Z_./-]+:.*?## .*$$' $(MAKEFILE_LIST) | \
+	 awk 'BEGIN{FS=":.*?## "}{printf "  %-26s %s\n", $$1, $$2}'

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Middle%20Eastern%20Music",
+  "stable_id": "nfct__en-movies-archive_keywords-Middle-20Eastern-20Music__fee9809b",
+  "fetched_at": "2026-05-16T15:39:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:39:19Z",
+  "duration_ms": 8736,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:635cebdafb92ad279dc0c5a82966dca4aafef76930fb3eb159d12e0fe47c339d",
+  "md_bytes": 10434,
+  "links_found": 68,
+  "files_found": 0
+}

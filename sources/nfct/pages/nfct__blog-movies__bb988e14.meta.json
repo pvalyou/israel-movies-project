@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/צה-צה-היפהפה/",
+  "stable_id": "nfct__blog-movies__bb988e14",
+  "fetched_at": "2026-05-09T21:49:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:49:18Z",
+  "duration_ms": 16011,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f4d68b6e2d63d48618b86873c2fd80a5b4f84ed9ec95bf188e4a166a03d40504",
+  "md_bytes": 14002,
+  "links_found": 33,
+  "files_found": 0
+}

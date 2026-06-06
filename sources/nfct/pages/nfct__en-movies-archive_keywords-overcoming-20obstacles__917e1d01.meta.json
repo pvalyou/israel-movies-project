@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=overcoming%20obstacles",
+  "stable_id": "nfct__en-movies-archive_keywords-overcoming-20obstacles__917e1d01",
+  "fetched_at": "2026-05-16T10:38:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:38:49Z",
+  "duration_ms": 6812,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e000fd3d22cb142f343426d3c86f0e0e5f3909fdd53ebbec61f335c2da7d384",
+  "md_bytes": 9817,
+  "links_found": 67,
+  "files_found": 0
+}

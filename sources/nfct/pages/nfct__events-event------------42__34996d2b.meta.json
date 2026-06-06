@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-ויטה-אקטיבה-ביוגרפיה-רוחנית-של-42/",
+  "stable_id": "nfct__events-event------------42__34996d2b",
+  "fetched_at": "2026-05-10T08:51:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T08:51:14Z",
+  "duration_ms": 35767,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5375c38af6bc911ff821756f416cacb75df35a9f3eec6b385686c06f4a7a2236",
+  "md_bytes": 13668,
+  "links_found": 28,
+  "files_found": 0
+}

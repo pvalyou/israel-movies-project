@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-הנסיך-הירוק-נדב-שירמן-yes-דוקו-10/",
+  "stable_id": "nfct__events-event----------yes---10__0f1740c3",
+  "fetched_at": "2026-05-10T12:08:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:08:49Z",
+  "duration_ms": 9782,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:933131a07771373d32793f7a02214de1a70d3809d7d845cfcfbc6002ec7f42e9",
+  "md_bytes": 10641,
+  "links_found": 21,
+  "files_found": 0
+}

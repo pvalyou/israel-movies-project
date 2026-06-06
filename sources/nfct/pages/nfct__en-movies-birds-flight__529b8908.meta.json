@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/birds-flight/",
+  "stable_id": "nfct__en-movies-birds-flight__529b8908",
+  "fetched_at": "2026-05-11T22:03:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:03:07Z",
+  "duration_ms": 27455,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:36e5ae5980406d394bdba7869075fb25c8a5a6569dcd75e456745d5f80b62d0c",
+  "md_bytes": 15671,
+  "links_found": 50,
+  "files_found": 0
+}

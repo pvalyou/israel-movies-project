@@ -1,0 +1,1106 @@
+
+=== Run started 2026-05-20T20:40:17.176523 ===
+[20:40:17] Source: fdoc
+[20:40:17] Pages dir: sources/fdoc/pages
+[20:40:17] Output dir: out/fdoc
+[20:40:17] Total .md pages found: 360  |  Already done: 0  |  To process: 360
+[20:40:17] Model: google/gemini-2.5-flash-lite  |  Workers: 8  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[20:40:22] [1/360] OK   4p 2o 1f 4r 4ro  (5.32s)
+[20:40:22]           file: fdoc__movie_a-taste-of-the-past__af85af31.md
+[20:40:22]           url:  https://www.fdoc.org.il/movie/a-taste-of-the-past/
+[20:40:23] [2/360] OK   2p 2o 1f 3r 4ro  (6.66s)
+[20:40:23]           file: fdoc__movie_aba__fbee0b83.md
+[20:40:23]           url:  https://www.fdoc.org.il/movie/aba/
+[20:40:24] [3/360] OK   6p 1o 1f 7r 7ro  (7.27s)
+[20:40:24]           file: fdoc__movie_10_d7_99_d7_9e_d7_99_d7_9d__7a2f6a78.md
+[20:40:24]           url:  https://www.fdoc.org.il/movie/10%d7%99%d7%9e%d7%99%d7%9d/
+[20:40:26] [4/360] OK   6p 6o 1f 0r 0ro  (8.76s)
+[20:40:26]           file: fdoc__movie_1341-_d7_a4_d7_a8_d7_99_d7_99_d7_9e_d7_99_d7_9d-_d7_9e_d7_94_d7_9e_d7_a6_d__ff8ad6d9.md
+[20:40:26]           url:  https://www.fdoc.org.il/movie/1341-%d7%a4%d7%a8%d7%99%d7%99%d7%9e%d7%99%d7%9d...
+[20:40:26] [5/360] OK   12p 9o 2f 0r 0ro  (8.9s)
+[20:40:26]           file: fdoc__movie_a-letter-to-david__bba6180f.md
+[20:40:26]           url:  https://www.fdoc.org.il/movie/a-letter-to-david/
+[20:40:26] [6/360] OK   10p 2o 1f 0r 0ro  (9.11s)
+[20:40:26]           file: fdoc__movie_1948-_d7_9c_d7_96_d7_9b_d7_95_d7_a8-_d7_95_d7_9c_d7_a9_d7_9b_d7_95_d7_97__aab862c2.md
+[20:40:26]           url:  https://www.fdoc.org.il/movie/1948-%d7%9c%d7%96%d7%9b%d7%95%d7%a8-%d7%95%d7%9...
+[20:40:26] [7/360] OK   5p 4o 1f 8r 6ro  (9.66s)
+[20:40:26]           file: fdoc__movie_48-_d7_a9_d7_a2_d7_95_d7_aa-_d7_a2_d7_9d-_d7_90_d7_91_d7_90__ffae10d0.md
+[20:40:26]           url:  https://www.fdoc.org.il/movie/48-%d7%a9%d7%a2%d7%95%d7%aa-%d7%a2%d7%9d-%d7%90...
+[20:40:27] [8/360] OK   13p 4o 1f 0r 0ro  (9.86s)
+[20:40:27]           file: fdoc__movie_21-_d7_99_d7_95_d7_9d-_d7_95_d7_9c_d7_99_d7_9c_d7_94__7c4d2c5e.md
+[20:40:27]           url:  https://www.fdoc.org.il/movie/21-%d7%99%d7%95%d7%9d-%d7%95%d7%9c%d7%99%d7%9c%...
+[20:40:29] [9/360] OK   2p 2o 1f 3r 4ro  (3.42s)
+[20:40:29]           file: fdoc__movie_agenda-item-erasure__f212757f.md
+[20:40:29]           url:  https://www.fdoc.org.il/movie/agenda-item-erasure/
+[20:40:30] [10/360] OK   9p 8o 1f 0r 0ro  (7.53s)
+[20:40:30]           file: fdoc__movie_ada-my-mother-the-architect__ac2818fb.md
+[20:40:30]           url:  https://www.fdoc.org.il/movie/ada-my-mother-the-architect/
+[20:40:30] [11/360] OK   2p 2o 1f 4r 2ro  (3.4s)
+[20:40:30]           file: fdoc__movie_between-us__1e8ee6e6.md
+[20:40:30]           url:  https://www.fdoc.org.il/movie/between-us/
+[20:40:31] [12/360] OK   10p 2o 1f 0r 0ro  (7.69s)
+[20:40:31]           file: fdoc__movie_ada-sereni-the-woman-in-the-black-dress__81acb3d7.md
+[20:40:31]           url:  https://www.fdoc.org.il/movie/ada-sereni-the-woman-in-the-black-dress/
+[20:40:32] [13/360] OK   17p 2o 1f 0r 0ro  (7.57s)
+[20:40:32]           file: fdoc__movie_adam-adama__fbe74441.md
+[20:40:32]           url:  https://www.fdoc.org.il/movie/adam-adama/
+[20:40:32] [14/360] OK   1p 2o 1f 3r 2ro  (2.51s)
+[20:40:32]           file: fdoc__movie_bottle-sea-love__2ebb7d8e.md
+[20:40:32]           url:  https://www.fdoc.org.il/movie/bottle-sea-love/
+[20:40:32] [15/360] OK   2p 2o 1f 3r 2ro  (3.07s)
+[20:40:32]           file: fdoc__movie_blue-marks__d55ca513.md
+[20:40:32]           url:  https://www.fdoc.org.il/movie/blue-marks/
+[20:40:34] [16/360] OK   6p 2o 1f 9r 8ro  (6.88s)
+[20:40:34]           file: fdoc__movie_beyond-october-7th__abf53048.md
+[20:40:34]           url:  https://www.fdoc.org.il/movie/beyond-october-7th/
+[20:40:34] [17/360] OK   14p 4o 1f 0r 16ro  (7.81s)
+[20:40:34]           file: fdoc__movie_aminormal__749c45fc.md
+[20:40:34]           url:  https://www.fdoc.org.il/movie/aminormal/
+[20:40:37] [18/360] OK   9p 2o 1f 11r 11ro  (7.14s)
+[20:40:37]           file: fdoc__movie_brothers-in-arms__1bc6d3b2.md
+[20:40:37]           url:  https://www.fdoc.org.il/movie/brothers-in-arms/
+[20:40:38] [19/360] OK   8p 4o 1f 12r 9ro  (12.59s)
+[20:40:38]           file: fdoc__movie_adaptation-to-darkness__715ab4bc.md
+[20:40:38]           url:  https://www.fdoc.org.il/movie/adaptation-to-darkness/
+[20:40:40] [20/360] OK   8p 2o 1f 9r 10ro  (7.94s)
+[20:40:40]           file: fdoc__movie_clouds-of-war__a463f678.md
+[20:40:40]           url:  https://www.fdoc.org.il/movie/clouds-of-war/
+[20:40:40] [21/360] OK   15p 4o 1f 0r 0ro  (7.65s)
+[20:40:40]           file: fdoc__movie_cookeis-for-life__b4ad66ba.md
+[20:40:40]           url:  https://www.fdoc.org.il/movie/cookeis-for-life/
+[20:40:42] [22/360] OK   4p 3o 1f 0r 0ro  (9.43s)
+[20:40:42]           file: fdoc__movie_d7_90_d7_91-_d7_95_d7_91_d7_a0_d7_95__6d7814ca.md
+[20:40:42]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%91-%d7%95%d7%91%d7%a0%d7%95/
+[20:40:42] [23/360] OK   0p 0o 0f 0r 0ro  (8.27s)
+[20:40:42]           file: fdoc__movie_d7_90_d7_94_d7_91_d7_94-_d7_96_d7_90_d7_aa-_d7_9c_d7_90-_d7_94_d7_99_d7_aa__23046e72.md
+[20:40:42]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%94%d7%91%d7%94-%d7%96%d7%90%d7%aa-%d7...
+[20:40:45] [24/360] OK   19p 4o 1f 0r 0ro  (7.71s)
+[20:40:45]           file: fdoc__movie_d7_90_d7_95_d7_99_d7_91_d7_99_d7_9d__83e297fb.md
+[20:40:45]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%95%d7%99%d7%91%d7%99%d7%9d/
+[20:40:46] [25/360] OK   11p 3o 1f 0r 12ro  (7.77s)
+[20:40:46]           file: fdoc__movie_d7_90_d7_95_d7_9c_d7_9e_d7_a8_d7_98__b9282053.md
+[20:40:46]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98/
+[20:40:48] [26/360] OK   5p 7o 1f 0r 0ro  (7.71s)
+[20:40:48]           file: fdoc__movie_d7_90_d7_95_d7_aa_d7_95-_d7_94_d7_90_d7_99_d7_a9__fdfe57ca.md
+[20:40:48]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%95%d7%aa%d7%95-%d7%94%d7%90%d7%99%d7%a9/
+[20:40:48] [27/360] OK   8p 3o 1f 0r 0ro  (14.7s)
+[20:40:48]           file: fdoc__movie_d7_90_d7_92_d7_a0_d7_a1-_d7_a7_d7_9c_d7_98_d7_99-_d7_9c_d7_a0_d7_a6_d7_97-__88b1733f.md
+[20:40:48]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%92%d7%a0%d7%a1-%d7%a7%d7%9c%d7%98%d7%...
+[20:40:48] [28/360] OK   13p 4o 1f 0r 4ro  (8.67s)
+[20:40:48]           file: fdoc__movie_d7_90_d7_95_d7_a8_d7_99-_d7_96_d7_94_d7_a8-_d7_97_d7_95_d7_96_d7_a8__8a173e6e.md
+[20:40:48]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%95%d7%a8%d7%99-%d7%96%d7%94%d7%a8-%d7...
+[20:40:48] [29/360] OK   7p 3o 1f 0r 0ro  (6.78s)
+[20:40:48]           file: fdoc__movie_d7_90_d7_97_d7_99_d7_95_d7_aa__58b0ceab.md
+[20:40:48]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%97%d7%99%d7%95%d7%aa/
+[20:40:49] [30/360] OK   8p 3o 1f 12r 10ro  (18.1s)
+[20:40:49]           file: fdoc__movie_brothers-in-cams__1202b121.md
+[20:40:49]           url:  https://www.fdoc.org.il/movie/brothers-in-cams/
+[20:40:51] [31/360] OK   7p 4o 1f 0r 0ro  (8.91s)
+[20:40:51]           file: fdoc__movie_d7_90_d7_97_d7_a8_d7_99_d7_97_d7_a6_d7_95_d7_aa_d7_94_d7_a1_d7_95_d7_93_d7__d7fae6f0.md
+[20:40:51]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%97%d7%a8%d7%99%d7%97%d7%a6%d7%95%d7%a...
+[20:40:52] [32/360] OK   1p 2o 1f 3r 1ro  (3.21s)
+[20:40:52]           file: fdoc__movie_d7_90_d7_9c-_d7_94_d7_a4_d7_97_d7_93__c9adedde.md
+[20:40:52]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%9c-%d7%94%d7%a4%d7%97%d7%93/
+[20:40:54] [33/360] OK   7p 2o 1f 0r 0ro  (8.78s)
+[20:40:54]           file: fdoc__movie_d7_90_d7_97_d7_a8_d7_99_d7_99_d7_9a-_d9_88_d8_b1_d8_a7_d8_a1_d9_83__63d5efde.md
+[20:40:54]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%97%d7%a8%d7%99%d7%99%d7%9a-%d9%88%d8%...
+[20:40:54] [34/360] OK   5p 3o 1f 0r 0ro  (8.0s)
+[20:40:54]           file: fdoc__movie_d7_90_d7_99_d7_9a-_d7_90_d7_95_d7_9e_d7_a8_d7_aa-_d7_a9_d7_aa_d7_99_d7_a7___e8f67677.md
+[20:40:54]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%99%d7%9a-%d7%90%d7%95%d7%9e%d7%a8%d7%...
+[20:40:56] [35/360] OK   11p 6o 1f 0r 0ro  (8.11s)
+[20:40:56]           file: fdoc__movie_d7_90_d7_99_d7_9f-_d7_90_d7_a8_d7_99_d7_95_d7_aa-_d7_91_d7_aa_d7_9c-_d7_90__d3924341.md
+[20:40:56]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%99%d7%9f-%d7%90%d7%a8%d7%99%d7%95%d7%...
+[20:40:56] [36/360] OK   8p 1o 1f 0r 0ro  (7.98s)
+[20:40:56]           file: fdoc__movie_d7_90_d7_99_d7_a9_d7_94-_d7_90_d7_97_d7_aa__c0856526.md
+[20:40:56]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%99%d7%a9%d7%94-%d7%90%d7%97%d7%aa/
+[20:40:57] [37/360] OK   5p 4o 1f 0r 0ro  (8.29s)
+[20:40:57]           file: fdoc__movie_d7_90_d7_99_d7_9f-_d7_a1_d7_a0_d7_98_d7_99_d7_9e_d7_a0_d7_98_d7_99_d7_9d__f8595a15.md
+[20:40:57]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%99%d7%9f-%d7%a1%d7%a0%d7%98%d7%99%d7%...
+[20:40:57] [38/360] OK   11p 3o 1f 0r 0ro  (9.05s)
+[20:40:57]           file: fdoc__movie_d7_90_d7_99_d7_9e_d7_a4_d7_a8_d7_99_d7_99_d7_aa-_d7_94_d7_a4_d7_a9_d7_a2-___5c711e4b.md
+[20:40:57]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%99%d7%a...
+[20:41:00] [39/360] OK   8p 5o 1f 0r 0ro  (7.82s)
+[20:41:00]           file: fdoc__movie_d7_90_d7_9d-_d7_96_d7_94-_d7_a0_d7_92_d7_9e_d7_a8-_d7_a2_d7_a0_d7_91_d7_9c__8aa7cf27.md
+[20:41:00]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%9d-%d7%96%d7%94-%d7%a0%d7%92%d7%9e%d7...
+[20:41:01] [40/360] OK   9p 4o 1f 0r 0ro  (7.23s)
+[20:41:01]           file: fdoc__movie_d7_90_d7_a0_d7_92_d7_9c_d7_99_d7_a7_d7_94__ac30def7.md
+[20:41:01]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%a7%d7%94/
+[20:41:04] [41/360] OK   14p 3o 1f 0r 0ro  (8.0s)
+[20:41:04]           file: fdoc__movie_d7_90_d7_a0_d7_99-_d7_9c_d7_90__28b5edbc.md
+[20:41:04]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a0%d7%99-%d7%9c%d7%90/
+[20:41:05] [42/360] OK   8p 3o 1f 0r 0ro  (7.92s)
+[20:41:05]           file: fdoc__movie_d7_90_d7_a1_d7_99_d7_a8_d7_95_d7_aa__61315417.md
+[20:41:05]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a1%d7%99%d7%a8%d7%95%d7%aa/
+[20:41:05] [43/360] OK   9p 4o 1f 0r 5ro  (13.85s)
+[20:41:05]           file: fdoc__movie_d7_90_d7_9c_d7_99_d7_a4_d7_9c_d7_98-_d7_93_d7_95_d7_93-_d7_a9_d7_9c_d7_99-__fd1599bb.md
+[20:41:05]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%9c%d7%99%d7%a4%d7%9c%d7%98-%d7%93%d7%...
+[20:41:05] [44/360] OK   5p 2o 1f 7r 8ro  (8.31s)
+[20:41:05]           file: fdoc__movie_d7_90_d7_a0_d7_99-_d7_a8_d7_95_d7_90_d7_94-_d7_90_d7_95_d7_aa_d7_9a__7e14d096.md
+[20:41:05]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a0%d7%99-%d7%a8%d7%95%d7%90%d7%94-%d7...
+[20:41:07] [45/360] OK   7p 4o 1f 0r 0ro  (13.45s)
+[20:41:07]           file: fdoc__movie_d7_90_d7_a0_d7_93_d7_a8_d7_92_d7_a8_d7_90_d7_95_d7_a0_d7_93-_d7_91_d7_9c_d__c2974ca8.md
+[20:41:07]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a0%d7%93%d7%a8%d7%92%d7%a8%d7%90%d7%9...
+[20:41:08] [46/360] OK   11p 4o 1f 0r 10ro  (7.73s)
+[20:41:08]           file: fdoc__movie_d7_90_d7_a1_d7_aa_d7_99_d7_a8-_d7_a4_d7_a0_d7_99_d7_99__6c961449.md
+[20:41:08]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a1%d7%aa%d7%99%d7%a8-%d7%a4%d7%a0%d7%...
+[20:41:09] [47/360] OK   7p 3o 1f 0r 0ro  (7.99s)
+[20:41:09]           file: fdoc__movie_d7_90_d7_a8_d7_95_d7_9f-_d7_94_d7_a7_d7_95_d7_93_d7_a9__8ab58d90.md
+[20:41:09]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a8%d7%95%d7%9f-%d7%94%d7%a7%d7%95%d7%...
+[20:41:10] [48/360] OK   12p 2o 2f 0r 0ro  (13.84s)
+[20:41:10]           file: fdoc__movie_d7_90_d7_a0_d7_99-_d7_94_d7_99_d7_99_d7_aa_d7_99-_d7_a6_d7_91_d7_99__c5eff0b4.md
+[20:41:10]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a0%d7%99-%d7%94%d7%99%d7%99%d7%aa%d7%...
+[20:41:11] [49/360] OK   0p 0o 0f 0r 0ro  (1.95s)
+[20:41:11]           file: fdoc__movie_d7_91_d7_92_d7_95_d7_a3-_d7_a8_d7_90_d7_a9_d7_95_d7_9f__e23f0bce.md
+[20:41:11]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%92%d7%95%d7%a3-%d7%a8%d7%90%d7%a9%d7%...
+[20:41:12] [50/360] OK   9p 3o 1f 0r 0ro  (7.43s)
+[20:41:12]           file: fdoc__movie_d7_90_d7_a8_d7_a5-_d7_96_d7_a8_d7_94__5eb73493.md
+[20:41:12]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a8%d7%a5-%d7%96%d7%a8%d7%94/
+[20:41:12]   --- progress: 50/360 (13.9%)  rate: 54.0/min  eta: 5.7min  cost so far: $0.0869 ---
+[20:41:12] [51/360] OK   7p 4o 1f 0r 0ro  (7.92s)
+[20:41:12]           file: fdoc__movie_d7_90_d7_a8_d7_99-_d7_95_d7_94_d7_96_d7_a8_d7_a2-_d7_94_d7_a7_d7_93_d7_95___413eefc2.md
+[20:41:12]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a8%d7%99-%d7%95%d7%94%d7%96%d7%a8%d7%...
+[20:41:13] [52/360] OK   7p 5o 1f 0r 0ro  (7.9s)
+[20:41:13]           file: fdoc__movie_d7_90_d7_a8_d7_9e_d7_99-_d7_90_d7_95_d7_a3-_d7_9c_d7_90_d7_91_d7_a8_d7_96-__13ac7840.md
+[20:41:13]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a8%d7%9e%d7%99-%d7%90%d7%95%d7%a3-%d7...
+[20:41:15] [53/360] OK   0p 0o 0f 0r 0ro  (5.03s)
+[20:41:15]           file: fdoc__movie_d7_91_d7_93_d7_99_d7_9c_d7_95_d7_92_d7_99_d7_9d-_d7_a7_d7_9c_d7_99_d7_9d__882ee6e4.md
+[20:41:15]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%93%d7%99%d7%9c%d7%95%d7%92%d7%99%d7%9...
+[20:41:15] [54/360] OK   8p 8o 1f 0r 0ro  (7.89s)
+[20:41:15]           file: fdoc__movie_d7_90_d7_a9_d7_aa-_d7_97_d7_99_d7_9c__9000dd45.md
+[20:41:15]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a9%d7%aa-%d7%97%d7%99%d7%9c/
+[20:41:16] [55/360] OK   7p 6o 1f 0r 8ro  (8.22s)
+[20:41:16]           file: fdoc__movie_d7_90_d7_aa_d7_94-_d7_9e_d7_aa-_d7_a8_d7_a7-_d7_a4_d7_a2_d7_9e_d7_99_d7_99__1745a493.md
+[20:41:16]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%aa%d7%94-%d7%9e%d7%aa-%d7%a8%d7%a7-%d...
+[20:41:20] [56/360] OK   0p 0o 0f 0r 0ro  (15.03s)
+[20:41:20]           file: fdoc__movie_d7_90_d7_a8_d7_99_d7_a7-_d7_90_d7_99_d7_99_d7_a0_d7_a9_d7_98_d7_99_d7_99_d__423aca1e.md
+[20:41:20]           url:  https://www.fdoc.org.il/movie/%d7%90%d7%a8%d7%99%d7%a7-%d7%90%d7%99%d7%99%d7%...
+[20:41:20] [57/360] OK   12p 5o 1f 0r 0ro  (8.91s)
+[20:41:20]           file: fdoc__movie_d7_91_d7_97_d7_96_d7_a8_d7_94-_d7_9c_d7_a6_d7_b3_d7_a8_d7_a0_d7_95_d7_91_d__987d2714.md
+[20:41:20]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%97%d7%96%d7%a8%d7%94-%d7%9c%d7%a6%d7%...
+[20:41:20] [58/360] OK   7p 4o 1f 0r 0ro  (7.67s)
+[20:41:20]           file: fdoc__movie_d7_91_d7_99_d7_97_d7_93-_d7_9c_d7_91_d7_93__3044c10f.md
+[20:41:20]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%99%d7%97%d7%93-%d7%9c%d7%91%d7%93/
+[20:41:21] [59/360] OK   7p 4o 1f 0r 0ro  (8.06s)
+[20:41:21]           file: fdoc__movie_d7_91_d7_99_d7_aa__55190411.md
+[20:41:21]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%99%d7%aa/
+[20:41:23] [60/360] OK   8p 5o 1f 0r 0ro  (7.93s)
+[20:41:23]           file: fdoc__movie_d7_91_d7_9e_d7_a2_d7_92_d7_9c-_d7_a1_d7_92_d7_95_d7_a8-2-2-2-5-2-2-2-2-2-2__87952615.md
+[20:41:23]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%9e%d7%a2%d7%92%d7%9c-%d7%a1%d7%92%d7%...
+[20:41:24] [61/360] OK   10p 7o 1f 0r 0ro  (8.49s)
+[20:41:24]           file: fdoc__movie_d7_91_d7_9e_d7_93_d7_91_d7_a8-_d7_93_d7_99_d7_a4_d7_98_d7_99_d7_9a-_d7_aa___33a937d3.md
+[20:41:24]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%9e%d7%93%d7%91%d7%a8-%d7%93%d7%99%d7%...
+[20:41:24] [62/360] OK   4p 3o 1f 0r 0ro  (8.13s)
+[20:41:24]           file: fdoc__movie_d7_91_d7_9e_d7_a2_d7_92_d7_9c-_d7_a1_d7_92_d7_95_d7_a8-2-2-2-5-2-2-2-2-2-2__c6a9df14.md
+[20:41:24]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%9e%d7%a2%d7%92%d7%9c-%d7%a1%d7%92%d7%...
+[20:41:26] [63/360] OK   4p 2o 1f 4r 4ro  (5.9s)
+[20:41:26]           file: fdoc__movie_d7_91_d7_a2_d7_9c_d7_aa-_d7_94_d7_91_d7_99_d7_aa__6130f341.md
+[20:41:26]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%a2%d7%9c%d7%aa-%d7%94%d7%91%d7%99%d7%aa/
+[20:41:28] [64/360] OK   0p 0o 0f 0r 0ro  (15.75s)
+[20:41:28]           file: fdoc__movie_d7_91_d7_99_d7_9f-_d7_94_d7_a0_d7_92_d7_91-_d7_9c_d7_92_d7_9c_d7_99_d7_9c__ebf65f2b.md
+[20:41:28]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%99%d7%9f-%d7%94%d7%a0%d7%92%d7%91-%d7...
+[20:41:29] [65/360] OK   0p 0o 0f 0r 0ro  (8.74s)
+[20:41:29]           file: fdoc__movie_d7_91_d7_a8_d7_a0_d7_a9_d7_98_d7_99_d7_99_d7_9f__958d102a.md
+[20:41:29]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%a8%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f/
+[20:41:32] [66/360] OK   10p 5o 1f 1r 11ro  (7.8s)
+[20:41:32]           file: fdoc__movie_d7_91_d7_aa-_d7_94_d7_90_d7_9e_d7_9f__982d24c9.md
+[20:41:32]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%aa-%d7%94%d7%90%d7%9e%d7%9f/
+[20:41:33] [67/360] OK   6p 3o 1f 0r 0ro  (8.51s)
+[20:41:33]           file: fdoc__movie_d7_92_d7_90_d7_95_d7_9c_d7_94-_d7_a4_d7_99_d7_a0_d7_aa-_d7_94_d7_98_d7_99___74f84a34.md
+[20:41:33]           url:  https://www.fdoc.org.il/movie/%d7%92%d7%90%d7%95%d7%9c%d7%94-%d7%a4%d7%99%d7%...
+[20:41:33] [68/360] OK   9p 7o 1f 0r 8ro  (13.88s)
+[20:41:33]           file: fdoc__movie_d7_91_d7_9e_d7_a2_d7_92_d7_9c-_d7_a1_d7_92_d7_95_d7_a8__8fb1490b.md
+[20:41:33]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%9e%d7%a2%d7%92%d7%9c-%d7%a1%d7%92%d7%...
+[20:41:33] [69/360] OK   8p 4o 1f 0r 0ro  (13.89s)
+[20:41:33]           file: fdoc__movie_d7_91_d7_a0_d7_a4_d7_a9_d7_9d__d74d14e6.md
+[20:41:33]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%a0%d7%a4%d7%a9%d7%9d/
+[20:41:35] [70/360] OK   1p 2o 1f 5r 4ro  (8.64s)
+[20:41:35]           file: fdoc__movie_d7_92_d7_91_d7_a2_d7_aa-_d7_94_d7_a0_d7_a2_d7_a8_d7_95_d7_aa__35202923.md
+[20:41:35]           url:  https://www.fdoc.org.il/movie/%d7%92%d7%91%d7%a2%d7%aa-%d7%94%d7%a0%d7%a2%d7%...
+[20:41:35] [71/360] OK   7p 3o 1f 7r 8ro  (6.84s)
+[20:41:35]           file: fdoc__movie_d7_92_d7_9f-_d7_91_d7_9c_d7_a1_d7_99_d7_a0_d7_92__49b4fe7f.md
+[20:41:35]           url:  https://www.fdoc.org.il/movie/%d7%92%d7%9f-%d7%91%d7%9c%d7%a1%d7%99%d7%a0%d7%92/
+[20:41:37] [72/360] OK   9p 3o 1f 0r 0ro  (13.4s)
+[20:41:37]           file: fdoc__movie_d7_91_d7_a9_d7_9d-_d7_94_d7_90_d7_91__f25c27a7.md
+[20:41:37]           url:  https://www.fdoc.org.il/movie/%d7%91%d7%a9%d7%9d-%d7%94%d7%90%d7%91/
+[20:41:39] [73/360] OK   4p 2o 1f 4r 7ro  (6.07s)
+[20:41:39]           file: fdoc__movie_d7_92_d7_a9_d7_9d-_d7_90_d7_95-_d7_a9_d7_9e_d7_a9__d3bb618e.md
+[20:41:39]           url:  https://www.fdoc.org.il/movie/%d7%92%d7%a9%d7%9d-%d7%90%d7%95-%d7%a9%d7%9e%d7...
+[20:41:41] [74/360] OK   4p 4o 1f 6r 6ro  (7.31s)
+[20:41:41]           file: fdoc__movie_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_a4_d7_a9_d7_95_d7_98_d7_99_d7_9d__156b5e5b.md
+[20:41:41]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%a4%d7%a9%d7%...
+[20:41:42] [75/360] OK   0p 0o 0f 0r 0ro  (8.17s)
+[20:41:42]           file: fdoc__movie_d7_93_d7_95_d7_93_d7_95-_d7_98_d7_a1_d7_94-_d7_95_d7_94_d7_9b_d7_95_d7_95___c2ae10f3.md
+[20:41:42]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%95%d7%93%d7%95-%d7%98%d7%a1%d7%94-%d7...
+[20:41:42] [76/360] OK   11p 2o 1f 0r 0ro  (7.64s)
+[20:41:42]           file: fdoc__movie_d7_93_d7_95_d7_9e_d7_90__1ba0f55b.md
+[20:41:42]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%95%d7%9e%d7%90/
+[20:41:44] [77/360] OK   12p 6o 1f 0r 0ro  (14.34s)
+[20:41:44]           file: fdoc__movie_d7_92_d7_a8_d7_95_d7_a1_d7_9e_d7_9f__9c771ed2.md
+[20:41:44]           url:  https://www.fdoc.org.il/movie/%d7%92%d7%a8%d7%95%d7%a1%d7%9e%d7%9f/
+[20:41:44] [78/360] OK   5p 3o 1f 4r 6ro  (4.86s)
+[20:41:44]           file: fdoc__movie_d7_93_d7_9d_d7_97_d7_9d__3e91c67c.md
+[20:41:44]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%9d%d7%97%d7%9d/
+[20:41:45] [79/360] OK   13p 4o 1f 0r 0ro  (8.03s)
+[20:41:45]           file: fdoc__movie_d7_93_d7_9c_d7_aa-_d7_91_d7_a8_d7_96_d7_9c-_d7_90_d7_97_d7_aa__bf78488b.md
+[20:41:45]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%9c%d7%aa-%d7%91%d7%a8%d7%96%d7%9c-%d7...
+[20:41:45] [80/360] OK   13p 4o 1f 0r 0ro  (13.84s)
+[20:41:45]           file: fdoc__movie_d7_92_d7_a8_d7_a1_d7_aa_d7_94_d7_91_d7_9e_d7_90_d7_99__a81e6dd4.md
+[20:41:45]           url:  https://www.fdoc.org.il/movie/%d7%92%d7%a8%d7%a1%d7%aa%d7%94%d7%91%d7%9e%d7%9...
+[20:41:46] [81/360] OK   0p 0o 0f 0r 0ro  (1.15s)
+[20:41:46]           file: fdoc__movie_d7_94_d7_93_d7_95_d7_95_d7_a7_d7_90_d7_99_d7_9d__e6b34f4a.md
+[20:41:46]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%93%d7%95%d7%95%d7%a7%d7%90%d7%99%d7%9d/
+[20:41:49] [82/360] OK   12p 3o 1f 0r 0ro  (7.86s)
+[20:41:49]           file: fdoc__movie_d7_93_d7_a2_d7_aa_d7_95-_d7_a9_d7_9c-_d7_94_d7_97_d7_99_d7_99_d7_9c__bd649020.md
+[20:41:49]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%a2%d7%aa%d7%95-%d7%a9%d7%9c-%d7%94%d7...
+[20:41:49] [83/360] OK   8p 3o 1f 0r 9ro  (13.9s)
+[20:41:49]           file: fdoc__movie_d7_93_d7_99_d7_9e_d7_95_d7_a0_d7_94-_d7_a6_d7_9e_d7_a4_d7_99_d7_95_d7_a0_d__a98fd906.md
+[20:41:49]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%99%d7%9e%d7%95%d7%a0%d7%94-%d7%a6%d7%...
+[20:41:50] [84/360] OK   7p 5o 1f 0r 11ro  (7.84s)
+[20:41:50]           file: fdoc__movie_d7_93_d7_a4_d7_99_d7_a7_d7_94-_d7_91_d7_93_d7_9c_d7_aa__b1bb2c6d.md
+[20:41:50]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%a4%d7%99%d7%a7%d7%94-%d7%91%d7%93%d7%...
+[20:41:50] [85/360] OK   12p 5o 1f 0r 0ro  (8.31s)
+[20:41:50]           file: fdoc__movie_d7_93_d7_a8-_d7_a8_d7_95_d7_93_d7_99-_d7_94_d7_90_d7_9e_d7_aa-_d7_94_d7_a2__267bea4b.md
+[20:41:50]           url:  https://www.fdoc.org.il/movie/%d7%93%d7%a8-%d7%a8%d7%95%d7%93%d7%99-%d7%94%d7...
+[20:41:51] [86/360] OK   10p 3o 1f 0r 9ro  (7.55s)
+[20:41:51]           file: fdoc__movie_d7_94_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_94_d7_a7_d7_98_d7_a0_d7_99_d7_9d__e194f4b7.md
+[20:41:51]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%94%d7%...
+[20:41:52] [87/360] OK   5p 5o 1f 7r 4ro  (6.77s)
+[20:41:52]           file: fdoc__movie_d7_94_d7_97_d7_91_d7_a8-_d7_93_d7_91__fa32be34.md
+[20:41:52]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%97%d7%91%d7%a8-%d7%93%d7%91/
+[20:41:54] [88/360] OK   8p 3o 1f 1r 11ro  (7.77s)
+[20:41:54]           file: fdoc__movie_d7_94_d7_97_d7_99_d7_99_d7_9d-_d7_94_d7_98_d7_95_d7_91_d7_99_d7_9d__508b120c.md
+[20:41:54]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%94%d7%98%d7%...
+[20:41:54] [89/360] OK   4p 2o 1f 4r 2ro  (10.51s)
+[20:41:54]           file: fdoc__movie_d7_94_d7_90_d7_99_d7_a9-_d7_94_d7_a0_d7_a2_d7_9c_d7_9d-_d7_94_d7_a1_d7_99___a4eaea66.md
+[20:41:54]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%90%d7%99%d7%a9-%d7%94%d7%a0%d7%a2%d7%...
+[20:41:57] [90/360] OK   0p 0o 0f 0r 0ro  (8.05s)
+[20:41:57]           file: fdoc__movie_d7_94_d7_97_d7_99_d7_99_d7_9d-_d7_94_d7_a0_d7_a1_d7_aa_d7_a8_d7_99_d7_9d-___9ad63650.md
+[20:41:57]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%94%d7%a0%d7%...
+[20:41:57] [91/360] OK   7p 3o 1f 0r 0ro  (7.83s)
+[20:41:57]           file: fdoc__movie_d7_94_d7_98_d7_a8_d7_9e_d7_a4_d7_99_d7_a1_d7_98_d7_99_d7_9d-_d7_a2_d7_95_d__8f53a7a5.md
+[20:41:57]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%98%d7%a8%d7%9e%d7%a4%d7%99%d7%a1%d7%9...
+[20:41:58] [92/360] OK   12p 3o 1f 0r 0ro  (9.16s)
+[20:41:58]           file: fdoc__movie_d7_94_d7_97_d7_a9_d7_91_d7_95_d7_9f-_d7_95_d7_94_d7_a0_d7_a4_d7_a9__f620558b.md
+[20:41:58]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%97%d7%a9%d7%91%d7%95%d7%9f-%d7%95%d7%...
+[20:41:58] [93/360] OK   5p 5o 1f 0r 0ro  (7.57s)
+[20:41:58]           file: fdoc__movie_d7_94_d7_99_d7_94-_d7_94_d7_99_d7_94-_d7_99_d7_9c_d7_93__8d62dd58.md
+[20:41:58]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%99%d7%94-%d7%94%d7%99%d7%94-%d7%99%d7...
+[20:42:00] [94/360] OK   4p 2o 1f 0r 0ro  (8.78s)
+[20:42:00]           file: fdoc__movie_d7_94_d7_99_d7_9c_d7_93_d7_94_d7_a9_d7_9c_d7_90_d7_99_d7_93_d7_a2_d7_94_d7__21ad6096.md
+[20:42:00]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%99%d7%9c%d7%93%d7%94%d7%a9%d7%9c%d7%9...
+[20:42:01] [95/360] OK   0p 0o 0f 0r 0ro  (6.49s)
+[20:42:01]           file: fdoc__movie_d7_94_d7_9e_d7_95_d7_96_d7_99_d7_90_d7_95_d7_9f__5b8f019d.md
+[20:42:01]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7%9f/
+[20:42:03] [96/360] OK   12p 3o 1f 0r 0ro  (9.13s)
+[20:42:03]           file: fdoc__movie_d7_94_d7_9e_d7_93_d7_a8_d7_a9_d7_99_d7_94__99061368.md
+[20:42:03]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%93%d7%a8%d7%a9%d7%99%d7%94/
+[20:42:05] [97/360] OK   0p 0o 0f 0r 0ro  (8.16s)
+[20:42:05]           file: fdoc__movie_d7_94_d7_9e_d7_95_d7_97_d7_a8_d7_9d-_d7_a9_d7_a9-_d7_aa_d7_97_d7_a0_d7_95___7689e41f.md
+[20:42:05]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%95%d7%97%d7%a8%d7%9d-%d7%a9%d7%...
+[20:42:05] [98/360] OK   4p 1o 1f 0r 16ro  (7.87s)
+[20:42:05]           file: fdoc__movie_d7_94_d7_9e_d7_9b_d7_95_d7_9c_d7_aa-_d7_a9_d7_9c-_d7_93_d7_95_d7_93_d7_95__d552d5c4.md
+[20:42:05]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%9b%d7%95%d7%9c%d7%aa-%d7%a9%d7%...
+[20:42:06] [99/360] OK   7p 3o 1f 0r 0ro  (13.31s)
+[20:42:06]           file: fdoc__movie_d7_94_d7_9e_d7_93_d7_a8_d7_99_d7_9a-_d7_9c_d7_92_d7_b3_d7_a0_d7_98_d7_a8_d__86629bb5.md
+[20:42:06]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%...
+[20:42:07] [100/360] OK   8p 3o 1f 0r 0ro  (8.5s)
+[20:42:07]           file: fdoc__movie_d7_94_d7_9e_d7_9c_d7_97_d7_9e_d7_95_d7_aa__47bf7500.md
+[20:42:07]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%95%d7%aa/
+[20:42:07]   --- progress: 100/360 (27.8%)  rate: 54.7/min  eta: 4.8min  cost so far: $0.1791 ---
+[20:42:07] [101/360] OK   0p 0o 0f 0r 0ro  (8.79s)
+[20:42:07]           file: fdoc__movie_d7_94_d7_9e_d7_9c_d7_97_d7_9e_d7_94-_d7_94_d7_90_d7_97_d7_a8_d7_95_d7_a0_d__9216426e.md
+[20:42:07]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%94%d7%...
+[20:42:09] [102/360] OK   9p 3o 1f 0r 0ro  (8.16s)
+[20:42:09]           file: fdoc__movie_d7_94_d7_9e_d7_a1_d7_a2-_d7_9c_d7_a4_d7_95_d7_9c_d7_99_d7_9f__7f6ba041.md
+[20:42:09]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%a1%d7%a2-%d7%9c%d7%a4%d7%95%d7%...
+[20:42:09] [103/360] OK   9p 5o 1f 0r 9ro  (8.89s)
+[20:42:09]           file: fdoc__movie_d7_94_d7_9e_d7_9c_d7_9b_d7_94-_d7_a9_d7_95_d7_a9_d7_a0_d7_94__71a7ee57.md
+[20:42:09]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%9c%d7%9b%d7%94-%d7%a9%d7%95%d7%...
+[20:42:10] [104/360] OK   11p 3o 1f 0r 0ro  (7.59s)
+[20:42:10]           file: fdoc__movie_d7_94_d7_9e_d7_a4_d7_a8_d7_a5__3aa3aadc.md
+[20:42:10]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%a4%d7%a8%d7%a5/
+[20:42:13] [105/360] OK   11p 5o 1f 0r 0ro  (7.83s)
+[20:42:13]           file: fdoc__movie_d7_94_d7_9e_d7_a8_d7_93-_d7_a9_d7_9c-_d7_a2_d7_9e_d7_95_d7_a1__94675808.md
+[20:42:13]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%a8%d7%93-%d7%a9%d7%9c-%d7%a2%d7...
+[20:42:14] [106/360] OK   9p 4o 1f 0r 0ro  (7.48s)
+[20:42:14]           file: fdoc__movie_d7_94_d7_a0_d7_91_d7_99_d7_90-_d7_9b_d7_94_d7_a0_d7_90__111375e5.md
+[20:42:14]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a0%d7%91%d7%99%d7%90-%d7%9b%d7%94%d7%...
+[20:42:15] [107/360] OK   9p 3o 1f 0r 11ro  (8.31s)
+[20:42:15]           file: fdoc__movie_d7_94_d7_9e_d7_a8_d7_a4_d7_90-_d7_94_d7_a4_d7_a6_d7_95_d7_a2__a1a36b24.md
+[20:42:15]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%a8%d7%a4%d7%90-%d7%94%d7%a4%d7%...
+[20:42:19] [108/360] OK   9p 9o 1f 0r 0ro  (13.83s)
+[20:42:19]           file: fdoc__movie_d7_94_d7_9e_d7_a6_d7_9c_d7_9e_d7_94-_d7_a9_d7_9c-_d7_93_d7_a8-_d7_9e_d7_95__02ca5195.md
+[20:42:19]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%a6%d7%9c%d7%9e%d7%94-%d7%a9%d7%...
+[20:42:21] [109/360] OK   0p 0o 0f 0r 0ro  (7.77s)
+[20:42:21]           file: fdoc__movie_d7_94_d7_a2_d7_91_d7_a8_d7_99_d7_9d__aab2589c.md
+[20:42:21]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a2%d7%91%d7%a8%d7%99%d7%9d/
+[20:42:22] [110/360] OK   6p 4o 1f 0r 0ro  (8.06s)
+[20:42:22]           file: fdoc__movie_d7_94_d7_a2_d7_99_d7_a8-_d7_94_d7_90_d7_97_d7_a8_d7_aa__0a6dfc9b.md
+[20:42:22]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a2%d7%99%d7%a8-%d7%94%d7%90%d7%97%d7%...
+[20:42:23] [111/360] OK   8p 6o 1f 0r 2ro  (8.29s)
+[20:42:23]           file: fdoc__movie_d7_94_d7_a4_d7_a8_d7_a7-_d7_94_d7_90_d7_97_d7_a8_d7_95_d7_9f-_d7_a9_d7_9c-__b3062c59.md
+[20:42:23]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a4%d7%a8%d7%a7-%d7%94%d7%90%d7%97%d7%...
+[20:42:23] [112/360] OK   7p 5o 1f 0r 0ro  (12.99s)
+[20:42:23]           file: fdoc__movie_d7_94_d7_a1_d7_95_d7_93-_d7_a9_d7_9b_d7_95_d7_9c_d7_9d-_d7_99_d7_95_d7_93___8c7a6cb1.md
+[20:42:23]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a1%d7%95%d7%93-%d7%a9%d7%9b%d7%95%d7%...
+[20:42:23] [113/360] OK   11p 4o 1f 0r 0ro  (14.33s)
+[20:42:23]           file: fdoc__movie_d7_94_d7_a0_d7_99_d7_a6_d7_97_d7_95_d7_9f-_d7_a9_d7_9c-_d7_90_d7_9c_d7_9b___32a99b8f.md
+[20:42:23]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a0%d7%99%d7%a6%d7%97%d7%95%d7%9f-%d7%...
+[20:42:23] [114/360] OK   5p 5o 2f 0r 0ro  (14.4s)
+[20:42:23]           file: fdoc__movie_d7_94_d7_a0_d7_a2_d7_9c_d7_9d__42b098e9.md
+[20:42:23]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a0%d7%a2%d7%9c%d7%9d/
+[20:42:24] [115/360] OK   3p 4o 1f 0r 0ro  (18.82s)
+[20:42:24]           file: fdoc__movie_d7_94_d7_9e_d7_a6_d7_9c_d7_9e_d7_94-_d7_a9_d7_9c-_d7_90_d7_91_d7_90__1e2e2c19.md
+[20:42:24]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%9e%d7%a6%d7%9c%d7%9e%d7%94-%d7%a9%d7%...
+[20:42:27] [116/360] OK   6p 2o 1f 7r 8ro  (8.19s)
+[20:42:27]           file: fdoc__movie_d7_94_d7_a6_d7_9c-_d7_a9_d7_9c-_d7_94_d7_a6_d7_9e_d7_95_d7_aa__4909c7c3.md
+[20:42:27]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a6%d7%9c-%d7%a9%d7%9c-%d7%94%d7%a6%d7...
+[20:42:29] [117/360] OK   0p 0o 0f 0r 0ro  (8.05s)
+[20:42:29]           file: fdoc__movie_d7_94_d7_a6_d7_a2_d7_99_d7_a3_d7_94_d7_90_d7_93_d7_95_d7_9d__a32a4620.md
+[20:42:29]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a6%d7%a2%d7%99%d7%a3%d7%94%d7%90%d7%9...
+[20:42:31] [118/360] OK   3p 3o 1f 6r 5ro  (7.26s)
+[20:42:31]           file: fdoc__movie_d7_94_d7_a7_d7_a8_d7_91-_d7_a2_d7_9c-_d7_a7_d7_99_d7_99_d7_91__a99260e4.md
+[20:42:31]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a7%d7%a8%d7%91-%d7%a2%d7%9c-%d7%a7%d7...
+[20:42:31] [119/360] OK   8p 3o 1f 3r 10ro  (7.81s)
+[20:42:31]           file: fdoc__movie_d7_94_d7_a7_d7_91_d7_a8_d7_a0_d7_99_d7_98_d7_99_d7_9d__a512ed28.md
+[20:42:31]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a7%d7%91%d7%a8%d7%a0%d7%99%d7%98%d7%9...
+[20:42:31] [120/360] OK   7p 3o 1f 0r 0ro  (7.5s)
+[20:42:31]           file: fdoc__movie_d7_94_d7_a8_d7_97_d7_91_d7_94-_d7_a9_d7_9c_d7_a4_d7_a0_d7_99-_d7_94_d7_9e___86413b0b.md
+[20:42:31]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a8%d7%97%d7%91%d7%94-%d7%a9%d7%9c%d7%...
+[20:42:31] [121/360] OK   4p 3o 1f 6r 7ro  (7.86s)
+[20:42:31]           file: fdoc__movie_d7_94_d7_a8_d7_95_d7_a7_d7_99-_d7_a9_d7_9c-_d7_94_d7_aa_d7_a7_d7_95_d7_95___ac624242.md
+[20:42:31]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a8%d7%95%d7%a7%d7%99-%d7%a9%d7%9c-%d7...
+[20:42:32] [122/360] OK   7p 2o 1f 0r 0ro  (8.72s)
+[20:42:32]           file: fdoc__movie_d7_94_d7_a8-_d7_94_d7_90_d7_9c_d7_95_d7_94_d7_99_d7_9d__14ec6e51.md
+[20:42:32]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a8-%d7%94%d7%90%d7%9c%d7%95%d7%94%d7%...
+[20:42:36] [123/360] OK   17p 4o 1f 0r 0ro  (9.24s)
+[20:42:36]           file: fdoc__movie_d7_94_d7_a9_d7_95_d7_98_d7_a8-_d7_94_d7_a8_d7_a2__ea2fc071.md
+[20:42:36]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a9%d7%95%d7%98%d7%a8-%d7%94%d7%a8%d7%a2/
+[20:42:38] [124/360] OK   9p 2o 1f 0r 0ro  (8.61s)
+[20:42:38]           file: fdoc__movie_d7_94_d7_a9_d7_95_d7_98_d7_a8_d7_99_d7_9d-_d7_94_d7_a0_d7_95_d7_a7_d7_9e_d__10a6ee34.md
+[20:42:38]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a9%d7%95%d7%98%d7%a8%d7%99%d7%9d-%d7%...
+[20:42:39] [125/360] OK   6p 2o 1f 5r 8ro  (7.75s)
+[20:42:39]           file: fdoc__movie_d7_94_d7_a9_d7_99_d7_a2_d7_95_d7_a8-_d7_a9_d7_9c-_d7_a0_d7_99_d7_a0_d7_95__5c43f6d7.md
+[20:42:39]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a9%d7%99%d7%a2%d7%95%d7%a8-%d7%a9%d7%...
+[20:42:39] [126/360] OK   12p 2o 1f 0r 9ro  (8.64s)
+[20:42:39]           file: fdoc__movie_d7_94_d7_a9_d7_99_d7_91_d7_94-_d7_94_d7_91_d7_99_d7_aa_d7_94-2__8df93480.md
+[20:42:39]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a9%d7%99%d7%91%d7%94-%d7%94%d7%91%d7%...
+[20:42:39] [127/360] OK   11p 3o 1f 0r 0ro  (7.95s)
+[20:42:39]           file: fdoc__movie_d7_94_d7_aa_d7_96_d7_9e_d7_95_d7_a8_d7_aa__eace3c9e.md
+[20:42:39]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%aa%d7%96%d7%9e%d7%95%d7%a8%d7%aa/
+[20:42:40] [128/360] OK   8p 5o 1f 0r 0ro  (8.95s)
+[20:42:40]           file: fdoc__movie_d7_94_d7_aa_d7_96_d7_9e_d7_95_d7_a8_d7_aa-2__d771e578.md
+[20:42:40]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%aa%d7%96%d7%9e%d7%95%d7%a8%d7%aa-2/
+[20:42:40] [129/360] OK   12p 2o 1f 0r 0ro  (8.32s)
+[20:42:40]           file: fdoc__movie_d7_94_d7_aa_d7_9e_d7_95_d7_93_d7_93_d7_95_d7_aa-_d7_90_d7_a1_d7_aa_d7_99__c4a46578.md
+[20:42:40]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%aa%d7%9e%d7%95%d7%93%d7%93%d7%95%d7%a...
+[20:42:41] [130/360] OK   2p 2o 1f 5r 2ro  (4.64s)
+[20:42:41]           file: fdoc__movie_d7_94_d7_aa_d7_9e_d7_95_d7_93_d7_93_d7_95_d7_aa__08aed51c.md
+[20:42:41]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%aa%d7%9e%d7%95%d7%93%d7%93%d7%95%d7%aa/
+[20:42:44] [131/360] OK   2p 2o 1f 2r 2ro  (21.76s)
+[20:42:44]           file: fdoc__movie_d7_94_d7_a7_d7_90_d7_9e_d7_91_d7_a7__da088eb7.md
+[20:42:44]           url:  https://www.fdoc.org.il/movie/%d7%94%d7%a7%d7%90%d7%9e%d7%91%d7%a7/
+[20:42:46] [132/360] OK   0p 0o 0f 0r 0ro  (7.58s)
+[20:42:46]           file: fdoc__movie_d7_95_d7_94_d7_99_d7_9c_d7_93-_d7_94_d7_96_d7_94-_d7_94_d7_95_d7_90-_d7_90__390ac9a9.md
+[20:42:46]           url:  https://www.fdoc.org.il/movie/%d7%95%d7%94%d7%99%d7%9c%d7%93-%d7%94%d7%96%d7%...
+[20:42:47] [133/360] OK   7p 3o 1f 0r 0ro  (7.86s)
+[20:42:47]           file: fdoc__movie_d7_96_d7_94-_d7_a8_d7_a7-_d7_a8_d7_95_d7_a7_d7_a0_d7_a8_d7_95_d7_9c__ae924fc7.md
+[20:42:47]           url:  https://www.fdoc.org.il/movie/%d7%96%d7%94-%d7%a8%d7%a7-%d7%a8%d7%95%d7%a7%d7...
+[20:42:48] [134/360] OK   7p 2o 1f 5r 8ro  (6.55s)
+[20:42:48]           file: fdoc__movie_d7_97_d7_90_d7_9c_d7_93__3cb2e364.md
+[20:42:48]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%90%d7%9c%d7%93/
+[20:42:48] [135/360] OK   8p 4o 1f 0r 12ro  (8.09s)
+[20:42:48]           file: fdoc__movie_d7_96_d7_95_d7_a0_d7_94-_d7_9b_d7_9e_d7_95_d7_a0_d7_99__350282b4.md
+[20:42:48]           url:  https://www.fdoc.org.il/movie/%d7%96%d7%95%d7%a0%d7%94-%d7%9b%d7%9e%d7%95%d7%...
+[20:42:48] [136/360] OK   10p 2o 1f 0r 0ro  (9.17s)
+[20:42:48]           file: fdoc__movie_d7_96_d7_95_d7_99_d7_94-_d7_a6_d7_a8_d7_a7_d7_a1_d7_a7_d7_99-_d7_97_d7_99___f3895d96.md
+[20:42:48]           url:  https://www.fdoc.org.il/movie/%d7%96%d7%95%d7%99%d7%94-%d7%a6%d7%a8%d7%a7%d7%...
+[20:42:52] [137/360] OK   6p 3o 1f 9r 7ro  (7.72s)
+[20:42:52]           file: fdoc__movie_d7_97_d7_91_d7_9c_d7_99-_d7_9c_d7_99_d7_93_d7_94__7cbe524d.md
+[20:42:52]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%91%d7%9c%d7%99-%d7%9c%d7%99%d7%93%d7%94/
+[20:42:52] [138/360] OK   8p 4o 1f 0r 0ro  (14.17s)
+[20:42:52]           file: fdoc__movie_d7_95_d7_90_d7_a0_d7_99-_d7_94_d7_99_d7_99_d7_aa_d7_99-_d7_a9_d7_9d__ba00cebf.md
+[20:42:52]           url:  https://www.fdoc.org.il/movie/%d7%95%d7%90%d7%a0%d7%99-%d7%94%d7%99%d7%99%d7%...
+[20:42:54] [139/360] OK   8p 3o 1f 0r 0ro  (7.79s)
+[20:42:54]           file: fdoc__movie_d7_97_d7_95_d7_95_d7_aa-_d7_94_d7_97_d7_95_d7_a4_d7_a9__cc9c154d.md
+[20:42:54]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%97%d7%95%d7%...
+[20:42:55] [140/360] OK   0p 0o 0f 0r 0ro  (15.09s)
+[20:42:55]           file: fdoc__movie_d7_96_d7_9b_d7_95_d7_aa-_d7_94_d7_a6_d7_a2_d7_a7_d7_94-_d7_a4_d7_a8_d7_a7___8d17f633.md
+[20:42:55]           url:  https://www.fdoc.org.il/movie/%d7%96%d7%9b%d7%95%d7%aa-%d7%94%d7%a6%d7%a2%d7%...
+[20:42:56] [141/360] OK   10p 3o 1f 0r 0ro  (8.1s)
+[20:42:56]           file: fdoc__movie_d7_97_d7_95_d7_aa_d7_a8_d7_95_d7_aa-_d7_9c_d7_97_d7_99_d7_99_d7_9d__9d4f569d.md
+[20:42:56]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%95%d7%aa%d7%a8%d7%95%d7%aa-%d7%9c%d7%...
+[20:42:56] [142/360] OK   6p 2o 1f 8r 10ro  (7.8s)
+[20:42:56]           file: fdoc__movie_d7_97_d7_99_d7_94-_d7_91_d7_a1_d7_a8_d7_98__c8b7c316.md
+[20:42:56]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%99%d7%94-%d7%91%d7%a1%d7%a8%d7%98/
+[20:42:57] [143/360] OK   12p 5o 1f 0r 0ro  (9.58s)
+[20:42:57]           file: fdoc__movie_d7_97_d7_95_d7_a8_d7_99_d7_9d__f794979c.md
+[20:42:57]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%95%d7%a8%d7%99%d7%9d/
+[20:42:57] [144/360] OK   9p 3o 1f 0r 0ro  (8.53s)
+[20:42:57]           file: fdoc__movie_d7_97_d7_99_d7_99_d7_9d-_d7_95_d7_9e_d7_95_d7_95_d7_aa-_d7_91_d7_9c_d7_95___7bab07b1.md
+[20:42:57]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%99%d7%99%d7%9d-%d7%95%d7%9e%d7%95%d7%...
+[20:43:00] [145/360] OK   4p 2o 1f 0r 0ro  (8.12s)
+[20:43:00]           file: fdoc__movie_d7_97_d7_9e_d7_99_d7_a9_d7_99_d7_9d-_d7_9b_d7_9c_d7_91_d7_99_d7_9d-_d7_96___94960912.md
+[20:43:00]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%9e%d7%99%d7%a9%d7%99%d7%9d-%d7%9b%d7%...
+[20:43:01] [146/360] OK   11p 8o 1f 0r 0ro  (8.8s)
+[20:43:01]           file: fdoc__movie_d7_97_d7_99_d7_9c_d7_95_d7_a0_d7_99_d7_95_d7_aa__4e8401b7.md
+[20:43:01]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%95%d7%aa/
+[20:43:02] [147/360] OK   8p 4o 1f 0r 0ro  (7.92s)
+[20:43:02]           file: fdoc__movie_d7_97_d7_a8_d7_93_d7_99_d7_9d-_d7_91_d7_a8_d7_a9_d7_aa__71936a2e.md
+[20:43:02]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%a8%d7%93%d7%99%d7%9d-%d7%91%d7%a8%d7%...
+[20:43:02] [148/360] OK   5p 3o 1f 0r 0ro  (6.44s)
+[20:43:02]           file: fdoc__movie_d7_98_d7_91_d7_a8_d7_99_d7_94-_d7_9e_d7_aa_d7_97_d7_aa-_d7_9c_d7_a7_d7_95-__d0bf06bb.md
+[20:43:02]           url:  https://www.fdoc.org.il/movie/%d7%98%d7%91%d7%a8%d7%99%d7%94-%d7%9e%d7%aa%d7%...
+[20:43:03] [149/360] OK   6p 3o 1f 5r 7ro  (6.91s)
+[20:43:03]           file: fdoc__movie_d7_98_d7_99_d7_95_d7_a0_d7_99_d7_a0_d7_92__7d07276c.md
+[20:43:03]           url:  https://www.fdoc.org.il/movie/%d7%98%d7%99%d7%95%d7%a0%d7%99%d7%a0%d7%92/
+[20:43:04] [150/360] OK   7p 3o 1f 0r 0ro  (7.68s)
+[20:43:04]           file: fdoc__movie_d7_98_d7_a8_d7_a0_d7_a1_d7_a7_d7_99_d7_93_d7_a1__511ff50a.md
+[20:43:04]           url:  https://www.fdoc.org.il/movie/%d7%98%d7%a8%d7%a0%d7%a1%d7%a7%d7%99%d7%93%d7%a1/
+[20:43:04]   --- progress: 150/360 (41.7%)  rate: 53.7/min  eta: 3.9min  cost so far: $0.2778 ---
+[20:43:06] [151/360] OK   7p 7o 1f 0r 0ro  (8.97s)
+[20:43:06]           file: fdoc__movie_d7_99_d7_90_d7_a0_d7_94__a0b9cbc3.md
+[20:43:06]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%90%d7%a0%d7%94/
+[20:43:08] [152/360] OK   7p 4o 1f 0r 15ro  (7.46s)
+[20:43:08]           file: fdoc__movie_d7_99_d7_93_d7_99_d7_93-_d7_a0_d7_a4_d7_a9__2834b5cf.md
+[20:43:08]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%93%d7%99%d7%93-%d7%a0%d7%a4%d7%a9/
+[20:43:09] [153/360] OK   9p 4o 1f 0r 0ro  (7.91s)
+[20:43:09]           file: fdoc__movie_d7_99_d7_95_d7_9e_d7_a0_d7_99-_d7_91_d7_95_d7_93_d7_a4_d7_a9_d7_98__83dcebe8.md
+[20:43:09]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%95%d7%9e%d7%a0%d7%99-%d7%91%d7%95%d7%...
+[20:43:09] [154/360] OK   1p 4o 1f 9r 4ro  (6.14s)
+[20:43:09]           file: fdoc__movie_d7_99_d7_95_d7_a6_d7_a8_d7_99_d7_9d__dc0e77fd.md
+[20:43:09]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%95%d7%a6%d7%a8%d7%99%d7%9d/
+[20:43:11] [155/360] OK   11p 4o 1f 0r 0ro  (9.37s)
+[20:43:11]           file: fdoc__movie_d7_99_d7_95_d7_9e_d7_a0_d7_99-_d7_a7_d7_99_d7_a8_d7_a9_d7_a0_d7_91_d7_90_d__bfdc9773.md
+[20:43:11]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%95%d7%9e%d7%a0%d7%99-%d7%a7%d7%99%d7%...
+[20:43:12] [156/360] OK   10p 6o 1f 0r 0ro  (9.33s)
+[20:43:12]           file: fdoc__movie_d7_99_d7_95_d7_a0_d7_aa_d7_9f-_d7_90_d7_92_d7_a1_d7_99-_d7_94_d7_a6_d7_99___2b7a315f.md
+[20:43:12]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%95%d7%a0%d7%aa%d7%9f-%d7%90%d7%92%d7%...
+[20:43:13] [157/360] OK   9p 4o 1f 0r 0ro  (8.78s)
+[20:43:13]           file: fdoc__movie_d7_99_d7_9c_d7_93_d7_99_d7_9d__edb08d6b.md
+[20:43:13]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%9c%d7%93%d7%99%d7%9d/
+[20:43:14] [158/360] OK   5p 3o 1f 0r 0ro  (8.26s)
+[20:43:14]           file: fdoc__movie_d7_99_d7_a9-_d7_97_d7_99_d7_99_d7_9d-_d7_90_d7_97_d7_a8_d7_99-_d7_94_d7_9e__00fad59a.md
+[20:43:14]           url:  https://www.fdoc.org.il/movie/%d7%99%d7%a9-%d7%97%d7%99%d7%99%d7%9d-%d7%90%d7...
+[20:43:15] [159/360] OK   9p 6o 1f 0r 8ro  (19.39s)
+[20:43:15]           file: fdoc__movie_d7_97_d7_aa_d7_95_d7_a0_d7_94-_d7_94_d7_a4_d7_95_d7_9b_d7_94__a83db9b7.md
+[20:43:15]           url:  https://www.fdoc.org.il/movie/%d7%97%d7%aa%d7%95%d7%a0%d7%94-%d7%94%d7%a4%d7%...
+[20:43:16] [160/360] OK   5p 4o 1f 0r 0ro  (8.11s)
+[20:43:16]           file: fdoc__movie_d7_9b_d7_9c_d7_95_d7_91-_d7_a6_d7_91_d7_95_d7_a2-_d7_96_d7_94_d7_91__4ec9b2fe.md
+[20:43:16]           url:  https://www.fdoc.org.il/movie/%d7%9b%d7%9c%d7%95%d7%91-%d7%a6%d7%91%d7%95%d7%...
+[20:43:16] [161/360] OK   3p 3o 1f 8r 3ro  (6.94s)
+[20:43:16]           file: fdoc__movie_d7_9c_d7_90-_d7_a9_d7_95_d7_9e_d7_a8_d7_95_d7_aa-_d7_91_d7_91_d7_98_d7_9f__e8d3a93e.md
+[20:43:16]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%90-%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%...
+[20:43:16] [162/360] OK   2p 3o 1f 4r 2ro  (4.77s)
+[20:43:16]           file: fdoc__movie_d7_9c_d7_91_d7_93-_d7_91_d7_97_d7_96_d7_99_d7_aa__63530963.md
+[20:43:16]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%91%d7%93-%d7%91%d7%97%d7%96%d7%99%d7%aa/
+[20:43:20] [163/360] OK   0p 0o 0f 0r 0ro  (8.74s)
+[20:43:20]           file: fdoc__movie_d7_9c_d7_90_d7_94-_d7_a6_d7_9e_d7_9c-_d7_a2_d7_95_d7_a8_d7_9b_d7_aa-_d7_93__3eb1cf18.md
+[20:43:20]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%90%d7%94-%d7%a6%d7%9e%d7%9c-%d7%a2%d7...
+[20:43:22] [164/360] OK   9p 4o 1f 0r 0ro  (7.59s)
+[20:43:22]           file: fdoc__movie_d7_9c_d7_94_d7_90_d7_99_d7_a8-_d7_90_d7_aa-_d7_99_d7_95_d7_a1_d7_99__a035bd68.md
+[20:43:22]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%94%d7%90%d7%99%d7%a8-%d7%90%d7%aa-%d7...
+[20:43:22] [165/360] OK   0p 0o 0f 0r 0ro  (8.95s)
+[20:43:22]           file: fdoc__movie_d7_9c_d7_91_d7_a0_d7_95_d7_9f-_d7_92_d7_91_d7_95_d7_9c_d7_95_d7_aa-_d7_94___62572c5c.md
+[20:43:22]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%91%d7%a0%d7%95%d7%9f-%d7%92%d7%91%d7%...
+[20:43:23] [166/360] OK   14p 4o 1f 0r 0ro  (7.97s)
+[20:43:23]           file: fdoc__movie_d7_9c_d7_94_d7_99_d7_95_d7_aa-_d7_a2_d7_9d-_d7_97_d7_95_d7_a4_d7_a9_d7_99__2c355401.md
+[20:43:23]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%94%d7%99%d7%95%d7%aa-%d7%a2%d7%9d-%d7...
+[20:43:23] [167/360] OK   9p 3o 1f 0r 0ro  (14.49s)
+[20:43:23]           file: fdoc__movie_d7_9b_d7_9c_d7_95_d7_9d-_d7_9e_d7_9c_d7_91_d7_93-34-_d7_a6_d7_99_d7_95_d7___7dae2602.md
+[20:43:23]           url:  https://www.fdoc.org.il/movie/%d7%9b%d7%9c%d7%95%d7%9d-%d7%9e%d7%9c%d7%91%d7%...
+[20:43:24] [168/360] OK   10p 4o 1f 0r 0ro  (7.72s)
+[20:43:24]           file: fdoc__movie_d7_9c_d7_95_d7_97_d7_9d-566__5f882b0c.md
+[20:43:24]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%95%d7%97%d7%9d-566/
+[20:43:25] [169/360] OK   7p 2o 1f 0r 0ro  (9.45s)
+[20:43:25]           file: fdoc__movie_d7_9c_d7_94_d7_a6_d7_99_d7_9c-_d7_90_d7_aa-_d7_97_d7_99_d7_95_d7_aa-_d7_94__c9997db2.md
+[20:43:25]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%94%d7%a6%d7%99%d7%9c-%d7%90%d7%aa-%d7...
+[20:43:29] [170/360] OK   7p 3o 1f 10r 8ro  (8.73s)
+[20:43:29]           file: fdoc__movie_d7_9c_d7_99_d7_92_d7_94-_d7_92-2__70b65868.md
+[20:43:29]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%99%d7%92%d7%94-%d7%92-2/
+[20:43:30] [171/360] OK   13p 2o 1f 0r 0ro  (13.29s)
+[20:43:30]           file: fdoc__movie_d7_9c_d7_95_d7_97_d7_9e_d7_99_d7_9d-2__dc465918.md
+[20:43:30]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%95%d7%97%d7%9e%d7%99%d7%9d-2/
+[20:43:30] [172/360] OK   6p 4o 1f 7r 8ro  (7.96s)
+[20:43:30]           file: fdoc__movie_d7_9c_d7_99_d7_9c-_d7_9b_d7_9c_d7_95_d7_9c_d7_95_d7_aa__85dea64a.md
+[20:43:30]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%99%d7%9c-%d7%9b%d7%9c%d7%95%d7%9c%d7%...
+[20:43:31] [173/360] OK   5p 4o 1f 0r 0ro  (8.03s)
+[20:43:31]           file: fdoc__movie_d7_9c_d7_99_d7_9c_d7_95_d7_aa_d7_a7_d7_99_d7_a5__eef7c31e.md
+[20:43:31]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%99%d7%9c%d7%95%d7%aa%d7%a7%d7%99%d7%a5/
+[20:43:31] [174/360] OK   8p 5o 1f 0r 0ro  (9.13s)
+[20:43:31]           file: fdoc__movie_d7_9c_d7_99_d7_92_d7_94-_d7_92__a41b9f3b.md
+[20:43:31]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%99%d7%92%d7%94-%d7%92/
+[20:43:31] [175/360] OK   11p 5o 1f 0r 0ro  (7.92s)
+[20:43:31]           file: fdoc__movie_d7_9c_d7_9e_d7_94-_d7_90_d7_9e_d7_a8_d7_aa_d7_99-_d7_90_d7_a0_d7_99__3c964da8.md
+[20:43:31]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%9e%d7%94-%d7%90%d7%9e%d7%a8%d7%aa%d7%...
+[20:43:32] [176/360] OK   4p 3o 1f 4r 6ro  (7.78s)
+[20:43:32]           file: fdoc__movie_d7_9c_d7_9e_d7_a7_d7_a8_d7_94-_d7_a9_d7_90_d7_aa-_d7_a2_d7_93_d7_99_d7_99___d3379d1f.md
+[20:43:32]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%9e%d7%a7%d7%a8%d7%94-%d7%a9%d7%90%d7%...
+[20:43:32] [177/360] OK   3p 3o 1f 6r 6ro  (6.43s)
+[20:43:32]           file: fdoc__movie_d7_9c_d7_a8_d7_a4_d7_90-_d7_92_d7_a2_d7_92_d7_95_d7_a2_d7_99_d7_9d__1dba64cc.md
+[20:43:32]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%a8%d7%a4%d7%90-%d7%92%d7%a2%d7%92%d7%...
+[20:43:37] [178/360] OK   11p 5o 1f 0r 0ro  (7.87s)
+[20:43:37]           file: fdoc__movie_d7_9c_d7_a9_d7_93_d7_95_d7_93-_d7_90_d7_aa-_d7_a1_d7_91_d7_aa_d7_90__f5eed15a.md
+[20:43:37]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%a9%d7%93%d7%95%d7%93-%d7%90%d7%aa-%d7...
+[20:43:38] [179/360] OK   8p 2o 1f 0r 0ro  (8.31s)
+[20:43:38]           file: fdoc__movie_d7_9c_d7_a9_d7_97_d7_a7-_d7_97_d7_95_d7_9c_d7_a9_d7_94__f184e235.md
+[20:43:38]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%a9%d7%97%d7%a7-%d7%97%d7%95%d7%9c%d7%...
+[20:43:38] [180/360] OK   4p 3o 1f 7r 3ro  (6.47s)
+[20:43:38]           file: fdoc__movie_d7_9e_d7_91_d7_a6_d7_a2-_d7_92_d7_a8_d7_98_d7_9c_d7_a8__e80582fd.md
+[20:43:38]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%91%d7%a6%d7%a2-%d7%92%d7%a8%d7%98%d7%...
+[20:43:38] [181/360] OK   7p 4o 1f 0r 9ro  (8.22s)
+[20:43:38]           file: fdoc__movie_d7_9c_d7_aa_d7_a4_d7_95_d7_a1-_d7_90_d7_aa-_d7_99_d7_94_d7_95_d7_a9_d7_a2__420f75b2.md
+[20:43:38]           url:  https://www.fdoc.org.il/movie/%d7%9c%d7%aa%d7%a4%d7%95%d7%a1-%d7%90%d7%aa-%d7...
+[20:43:39] [182/360] OK   7p 3o 1f 0r 0ro  (7.71s)
+[20:43:39]           file: fdoc__movie_d7_9e_d7_90_d7_94-_d7_90_d7_97_d7_95_d7_96__37ae6d68.md
+[20:43:39]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%90%d7%94-%d7%90%d7%97%d7%95%d7%96/
+[20:43:39] [183/360] OK   5p 4o 1f 0r 0ro  (7.66s)
+[20:43:39]           file: fdoc__movie_d7_9e_d7_90_d7_99_d7_a8-_d7_90_d7_a8_d7_99_d7_90_d7_9c__70cbc64d.md
+[20:43:39]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%90%d7%99%d7%a8-%d7%90%d7%a8%d7%99%d7%...
+[20:43:39] [184/360] OK   0p 0o 0f 0r 0ro  (8.24s)
+[20:43:39]           file: fdoc__movie_d7_9e_d7_90_d7_97_d7_95_d7_a8_d7_99-_d7_94_d7_92_d7_9c_d7_99_d7_9e_d7_94__6a816679.md
+[20:43:39]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%...
+[20:43:40] [185/360] OK   4p 3o 1f 0r 0ro  (8.04s)
+[20:43:40]           file: fdoc__movie_d7_9e_d7_91_d7_95_d7_9c-2__95a95d01.md
+[20:43:40]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%91%d7%95%d7%9c-2/
+[20:43:41] [186/360] OK   1p 1o 1f 1r 1ro  (2.49s)
+[20:43:41]           file: fdoc__movie_d7_9e_d7_95_d7_a7_d7_9c_d7_98_d7_99_d7_9d__f8209b18.md
+[20:43:41]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%95%d7%a7%d7%9c%d7%98%d7%99%d7%9d/
+[20:43:42] [187/360] OK   0p 0o 0f 0r 0ro  (2.88s)
+[20:43:42]           file: fdoc__movie_d7_9e_d7_99-_d7_99_d7_a8_d7_94-_d7_91_d7_99_d7_9c_d7_93_d7_99-_d7_94_d7_91__0ad5fe0d.md
+[20:43:42]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%99-%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7...
+[20:43:43] [188/360] OK   3p 2o 1f 3r 3ro  (4.87s)
+[20:43:43]           file: fdoc__movie_d7_9e_d7_94_d7_99_d7_93_d7_99_d7_99_d7_9d-_d7_a9_d7_9c-_d7_a1_d7_91_d7_aa___5d6ffaea.md
+[20:43:43]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%94%d7%99%d7%93%d7%99%d7%99%d7%9d-%d7%...
+[20:43:44] [189/360] OK   14p 4o 1f 0r 0ro  (7.5s)
+[20:43:44]           file: fdoc__movie_d7_9e_d7_93_d7_95_d7_a8_d7_95_d7_aa-_d7_94_d7_a9_d7_91_d7_98_d7_99_d7_9d__c5cf4a2b.md
+[20:43:44]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%93%d7%95%d7%a8%d7%95%d7%aa-%d7%94%d7%...
+[20:43:46] [190/360] OK   7p 3o 1f 0r 0ro  (7.65s)
+[20:43:46]           file: fdoc__movie_d7_9e_d7_95_d7_a8_d7_a0_d7_95_d7_91__a9aeb0bb.md
+[20:43:46]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%95%d7%a8%d7%a0%d7%95%d7%91/
+[20:43:47] [191/360] OK   8p 4o 1f 0r 0ro  (7.99s)
+[20:43:47]           file: fdoc__movie_d7_9e_d7_95_d7_a9_d7_9c_d7_9e_d7_99_d7_9d__8fdd9b15.md
+[20:43:47]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%95%d7%a9%d7%9c%d7%9e%d7%99%d7%9d/
+[20:43:47] [192/360] OK   2p 3o 1f 4r 2ro  (6.12s)
+[20:43:47]           file: fdoc__movie_d7_9e_d7_99-_d7_a8_d7_a6_d7_97-_d7_90_d7_aa-_d7_99_d7_95_d7_90_d7_9c-_d7_9__5ce844fd.md
+[20:43:47]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%99-%d7%a8%d7%a6%d7%97-%d7%90%d7%aa-%d...
+[20:43:48] [193/360] OK   6p 7o 1f 0r 6ro  (9.04s)
+[20:43:48]           file: fdoc__movie_d7_9e_d7_97_d7_91_d7_a8_d7_95_d7_aa-_d7_a9_d7_97_d7_95_d7_a8_d7_95_d7_aa__ea3df97a.md
+[20:43:48]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%97%d7%91%d7%a8%d7%95%d7%aa-%d7%a9%d7%...
+[20:43:49] [194/360] OK   6p 2o 1f 5r 8ro  (6.7s)
+[20:43:49]           file: fdoc__movie_d7_9e_d7_99_d7_a0_d7_99-_d7_93_d7_99-_d7_95_d7_99__6d500da5.md
+[20:43:49]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%99%d7%a0%d7%99-%d7%93%d7%99-%d7%95%d7...
+[20:43:50] [195/360] OK   2p 3o 1f 7r 4ro  (5.85s)
+[20:43:50]           file: fdoc__movie_d7_9e_d7_9b_d7_95_d7_9f-_d7_a9_d7_9c_d7_98_d7_95_d7_9f__9866319c.md
+[20:43:50]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%9b%d7%95%d7%9f-%d7%a9%d7%9c%d7%98%d7%...
+[20:43:51] [196/360] OK   5p 5o 1f 7r 7ro  (8.59s)
+[20:43:51]           file: fdoc__movie_d7_9e_d7_99_d7_a0_d7_99-_d7_93_d7_99_d7_95_d7_99__789c2eff.md
+[20:43:51]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%99%d7%a0%d7%99-%d7%93%d7%99%d7%95%d7%99/
+[20:43:53] [197/360] OK   10p 5o 1f 0r 0ro  (14.6s)
+[20:43:53]           file: fdoc__movie_d7_9e_d7_95_d7_99_d7_99_d7_a1_d7_a8_d7_99_d7_9d__05bf6b37.md
+[20:43:53]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%95%d7%99%d7%99%d7%a1%d7%a8%d7%99%d7%9d/
+[20:43:57] [198/360] OK   11p 5o 1f 0r 5ro  (8.33s)
+[20:43:57]           file: fdoc__movie_d7_9e_d7_9c_d7_9b_d7_95_d7_99_d7_95_d7_aa-_d7_a9_d7_9c-_d7_9e_d7_98_d7_94__a5de13ab.md
+[20:43:57]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%9c%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%...
+[20:43:57] [199/360] OK   8p 3o 1f 0r 0ro  (7.59s)
+[20:43:57]           file: fdoc__movie_d7_9e_d7_9e_d7_96_d7_a8_d7_99_d7_9d-_d7_a1_d7_99_d7_9e_d7_95_d7_9f-_d7_95___94cbbdb4.md
+[20:43:57]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%9e%d7%96%d7%a8%d7%99%d7%9d-%d7%a1%d7%...
+[20:43:58] [200/360] OK   7p 3o 1f 0r 0ro  (7.53s)
+[20:43:58]           file: fdoc__movie_d7_9e_d7_a1_d7_95_d7_a8_d7_91_d7_95_d7_aa__c95b1236.md
+[20:43:58]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a1%d7%95%d7%a8%d7%91%d7%95%d7%aa/
+[20:43:58]   --- progress: 200/360 (55.6%)  rate: 54.3/min  eta: 2.9min  cost so far: $0.3686 ---
+[20:43:59] [201/360] OK   12p 2o 1f 0r 0ro  (13.12s)
+[20:43:59]           file: fdoc__movie_d7_9e_d7_9b_d7_95_d7_a0_d7_aa-_d7_94_d7_9e_d7_99_d7_aa_d7_95_d7_a1_d7_99_d__0aa315e8.md
+[20:43:59]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%9b%d7%95%d7%a0%d7%aa-%d7%94%d7%9e%d7%...
+[20:44:00] [202/360] OK   5p 4o 1f 0r 0ro  (13.0s)
+[20:44:00]           file: fdoc__movie_d7_9e_d7_9c_d7_97_d7_9e_d7_aa_d7_94-_d7_a9_d7_9c-_d7_a8_d7_a2_d7_99_d7_94-__9de9e923.md
+[20:44:00]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa%d7%94-%d7%a9%d7%...
+[20:44:01] [203/360] OK   6p 4o 1f 0r 0ro  (8.0s)
+[20:44:01]           file: fdoc__movie_d7_9e_d7_a1_d7_9b_d7_aa-_d7_a4_d7_90_d7_94__8fe4b315.md
+[20:44:01]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a1%d7%9b%d7%aa-%d7%a4%d7%90%d7%94/
+[20:44:01] [204/360] OK   9p 2o 1f 0r 0ro  (14.2s)
+[20:44:01]           file: fdoc__movie_d7_9e_d7_9c_d7_97_d7_9e_d7_94-_d7_91_d7_9c_d7_99-_d7_a9_d7_9d__1ab28799.md
+[20:44:01]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%91%d7%9c%d7%...
+[20:44:03] [205/360] OK   6p 2o 1f 5r 6ro  (6.6s)
+[20:44:03]           file: fdoc__movie_d7_9e_d7_a1_d7_a2-_d7_97_d7_99_d7_99_d7_94_d7_9d-2__23583b8b.md
+[20:44:03]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a1%d7%a2-%d7%97%d7%99%d7%99%d7%94%d7%...
+[20:44:06] [206/360] OK   13p 4o 1f 0r 0ro  (8.57s)
+[20:44:06]           file: fdoc__movie_d7_9e_d7_a2_d7_a9_d7_94-_d7_91_d7_97_d7_9e_d7_99_d7_a9_d7_94-_d7_9e_d7_a9___c5474a00.md
+[20:44:06]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a2%d7%a9%d7%94-%d7%91%d7%97%d7%9e%d7%...
+[20:44:07] [207/360] OK   8p 3o 1f 0r 0ro  (15.29s)
+[20:44:07]           file: fdoc__movie_d7_9e_d7_a1_d7_99_d7_91_d7_aa-_d7_a4_d7_a8_d7_99_d7_a9_d7_94-2__218444d5.md
+[20:44:07]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a1%d7%99%d7%91%d7%aa-%d7%a4%d7%a8%d7%...
+[20:44:07] [208/360] OK   9p 3o 1f 0r 0ro  (7.59s)
+[20:44:07]           file: fdoc__movie_d7_9e_d7_a6_d7_a8_d7_99_d7_9d-_d7_a9_d7_99_d7_a8-_d7_90_d7_94_d7_91_d7_94__87f50086.md
+[20:44:07]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a6%d7%a8%d7%99%d7%9d-%d7%a9%d7%99%d7%...
+[20:44:10] [209/360] OK   6p 5o 1f 0r 0ro  (9.32s)
+[20:44:10]           file: fdoc__movie_d7_9e_d7_a8_d7_90_d7_94__90c0ef2f.md
+[20:44:10]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a8%d7%90%d7%94/
+[20:44:10] [210/360] OK   7p 2o 1f 0r 0ro  (10.15s)
+[20:44:10]           file: fdoc__movie_d7_9e_d7_a7_d7_a6_d7_95_d7_a2_d7_95_d7_aa-_d7_91_d7_9e_d7_a1_d7_a4_d7_a8_d__26fa8cf5.md
+[20:44:10]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a7%d7%a6%d7%95%d7%a2%d7%95%d7%aa-%d7%...
+[20:44:11] [211/360] OK   12p 2o 1f 0r 0ro  (9.8s)
+[20:44:11]           file: fdoc__movie_d7_9e_d7_a8_d7_a1_d7_9c-_d7_95_d7_90_d7_a0_d7_99__e9dbd5c2.md
+[20:44:11]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a8%d7%a1%d7%9c-%d7%95%d7%90%d7%a0%d7%99/
+[20:44:11] [212/360] OK   4p 3o 1f 0r 0ro  (7.61s)
+[20:44:11]           file: fdoc__movie_d7_9e_d7_a8_d7_a4_d7_a1_d7_aa__e441c1df.md
+[20:44:11]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a8%d7%a4%d7%a1%d7%aa/
+[20:44:11] [213/360] OK   15p 6o 1f 0r 6ro  (14.32s)
+[20:44:11]           file: fdoc__movie_d7_9e_d7_a2_d7_91_d7_a8_d7_95_d7_aa__c691fe2f.md
+[20:44:11]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a2%d7%91%d7%a8%d7%95%d7%aa/
+[20:44:15] [214/360] OK   8p 1o 1f 0r 0ro  (8.99s)
+[20:44:15]           file: fdoc__movie_d7_9e_d7_a9_d7_99_d7_9e_d7_94_d7_97_d7_91_d7_a8_d7_95_d7_9f__0cebdff9.md
+[20:44:15]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a9%d7%99%d7%9e%d7%94%d7%97%d7%91%d7%a...
+[20:44:19] [215/360] OK   0p 0o 0f 0r 0ro  (7.9s)
+[20:44:19]           file: fdoc__movie_d7_a0_d7_a4_d7_99_d7_9c_d7_aa_d7_94-_d7_95_d7_a2_d7_9c_d7_99_d7_99_d7_aa_d__1e43c0ad.md
+[20:44:19]           url:  https://www.fdoc.org.il/movie/%d7%a0%d7%a4%d7%99%d7%9c%d7%aa%d7%94-%d7%95%d7%...
+[20:44:20] [216/360] OK   6p 3o 1f 11r 8ro  (8.93s)
+[20:44:20]           file: fdoc__movie_d7_a0_d7_95_d7_a8_d7_94__aa6dc254.md
+[20:44:20]           url:  https://www.fdoc.org.il/movie/%d7%a0%d7%95%d7%a8%d7%94/
+[20:44:20] [217/360] OK   13p 4o 1f 0r 0ro  (13.64s)
+[20:44:20]           file: fdoc__movie_d7_9e_d7_a9_d7_aa_d7_a4_d7_99_d7_9d-_d7_a4_d7_a2_d7_95_d7_9c_d7_94__0fdf1c0f.md
+[20:44:20]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%a9%d7%aa%d7%a4%d7%99%d7%9d-%d7%a4%d7%...
+[20:44:24] [218/360] OK   10p 3o 1f 0r 0ro  (17.05s)
+[20:44:24]           file: fdoc__movie_d7_9e_d7_aa_d7_99_d7_a8-_d7_90_d7_a1_d7_95_d7_a8_d7_99_d7_9d__d415deda.md
+[20:44:24]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%aa%d7%99%d7%a8-%d7%90%d7%a1%d7%95%d7%...
+[20:44:24] [219/360] OK   5p 4o 1f 0r 0ro  (14.53s)
+[20:44:24]           file: fdoc__movie_d7_9e_d7_aa_d7_a0_d7_97_d7_9c_d7_aa__8abe9511.md
+[20:44:24]           url:  https://www.fdoc.org.il/movie/%d7%9e%d7%aa%d7%a0%d7%97%d7%9c%d7%aa/
+[20:44:25] [220/360] OK   8p 5o 1f 0r 0ro  (14.66s)
+[20:44:25]           file: fdoc__movie_d7_a0_d7_91_d7_95_d7_90_d7_aa-_d7_a7_d7_a1_d7_a0_d7_93_d7_a8_d7_94__f69fe968.md
+[20:44:25]           url:  https://www.fdoc.org.il/movie/%d7%a0%d7%91%d7%95%d7%90%d7%aa-%d7%a7%d7%a1%d7%...
+[20:44:25] [221/360] OK   5p 5o 1f 8r 9ro  (13.99s)
+[20:44:25]           file: fdoc__movie_d7_a0_d7_a2_d7_95_d7_a8_d7_99_d7_9d__657e544f.md
+[20:44:25]           url:  https://www.fdoc.org.il/movie/%d7%a0%d7%a2%d7%95%d7%a8%d7%99%d7%9d/
+[20:44:25] [222/360] OK   3p 3o 1f 6r 3ro  (4.7s)
+[20:44:25]           file: fdoc__movie_d7_a1_d7_91_d7_aa_d7_90__adfeb146.md
+[20:44:25]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%91%d7%aa%d7%90/
+[20:44:27] [223/360] OK   8p 4o 1f 0r 0ro  (8.02s)
+[20:44:27]           file: fdoc__movie_d7_a0_d7_a9_d7_95_d7_90_d7_95_d7_aa-_d7_9c_d7_a9_d7_91_d7_9b__8691192a.md
+[20:44:27]           url:  https://www.fdoc.org.il/movie/%d7%a0%d7%a9%d7%95%d7%90%d7%95%d7%aa-%d7%9c%d7%...
+[20:44:28] [224/360] OK   9p 5o 1f 0r 0ro  (8.84s)
+[20:44:28]           file: fdoc__movie_d7_a1_d7_91_d7_95_d7_98_d7_90_d7_96__0f2fa65c.md
+[20:44:28]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%91%d7%95%d7%98%d7%90%d7%96/
+[20:44:30] [225/360] OK   11p 3o 1f 0r 0ro  (14.41s)
+[20:44:30]           file: fdoc__movie_d7_a0_d7_a9_d7_90_d7_a8_d7_aa_d7_99-_d7_91_d7_97_d7_99_d7_99_d7_9d__eb78d168.md
+[20:44:30]           url:  https://www.fdoc.org.il/movie/%d7%a0%d7%a9%d7%90%d7%a8%d7%aa%d7%99-%d7%91%d7%...
+[20:44:31] [226/360] OK   5p 2o 1f 6r 7ro  (7.05s)
+[20:44:31]           file: fdoc__movie_d7_a1_d7_95_d7_a3-_d7_93_d7_91_d7_a8__aa389348.md
+[20:44:31]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%95%d7%a3-%d7%93%d7%91%d7%a8/
+[20:44:31] [227/360] OK   5p 1o 1f 6r 6ro  (6.35s)
+[20:44:31]           file: fdoc__movie_d7_a1_d7_98_d7_95_d7_a8_d7_99_d7_96__b370f9fa.md
+[20:44:31]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%96/
+[20:44:36] [228/360] OK   7p 4o 1f 0r 0ro  (8.61s)
+[20:44:36]           file: fdoc__movie_d7_a1_d7_99_d7_99_d7_a8_d7_aa-_d7_9e_d7_98_d7_9b_d7_9c__1eea58b1.md
+[20:44:36]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%99%d7%99%d7%a8%d7%aa-%d7%9e%d7%98%d7%...
+[20:44:37] [229/360] OK   3p 8o 1f 0r 0ro  (8.96s)
+[20:44:37]           file: fdoc__movie_d7_a1_d7_99_d7_a0_d7_93_d7_a8_d7_95_d7_9d_d7_a4_d7_99_d7_99_d7_a0_d7_92_d7__aee4f777.md
+[20:44:37]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%99%d7%a0%d7%93%d7%a8%d7%95%d7%9d%d7%a...
+[20:44:39] [230/360] OK   8p 2o 1f 0r 0ro  (7.64s)
+[20:44:39]           file: fdoc__movie_d7_a1_d7_a8_d7_98-_d7_91_d7_95_d7_a8_d7_a7_d7_a1__1f89f3b0.md
+[20:44:39]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%a8%d7%98-%d7%91%d7%95%d7%a8%d7%a7%d7%a1/
+[20:44:39] [231/360] OK   8p 4o 1f 0r 0ro  (13.82s)
+[20:44:39]           file: fdoc__movie_d7_a1_d7_99_d7_91_d7_aa-_d7_94_d7_9e_d7_95_d7_95_d7_aa__aa1794b5.md
+[20:44:39]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%99%d7%91%d7%aa-%d7%94%d7%9e%d7%95%d7%...
+[20:44:39] [232/360] OK   9p 4o 1f 0r 0ro  (14.56s)
+[20:44:39]           file: fdoc__movie_d7_a1_d7_99_d7_91_d7_94-_d7_9c_d7_97_d7_99_d7_95_d7_aa__67b87eaa.md
+[20:44:39]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%99%d7%91%d7%94-%d7%9c%d7%97%d7%99%d7%...
+[20:44:40] [233/360] OK   8p 3o 1f 0r 0ro  (8.67s)
+[20:44:40]           file: fdoc__movie_d7_a1_d7_a4_d7_a8-_d7_94_d7_9e_d7_93_d7_91_d7_a8__eca7c5c4.md
+[20:44:40]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%a4%d7%a8-%d7%94%d7%9e%d7%93%d7%91%d7%a8/
+[20:44:42] [234/360] OK   6p 3o 1f 0r 0ro  (17.55s)
+[20:44:42]           file: fdoc__movie_d7_a1_d7_95_d7_a4_d7_95-_d7_a9_d7_9c-_d7_94_d7_a0_d7_a1_d7_99_d7_9a-_d7_94__fffcc51e.md
+[20:44:42]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%95%d7%a4%d7%95-%d7%a9%d7%9c-%d7%94%d7...
+[20:44:43] [235/360] OK   2p 2o 1f 4r 3ro  (5.39s)
+[20:44:43]           file: fdoc__movie_d7_a2_d7_93-_d7_94_d7_a2_d7_95_d7_a0_d7_92-_d7_94_d7_91_d7_90__0d7454ef.md
+[20:44:43]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%93-%d7%94%d7%a2%d7%95%d7%a0%d7%92-%d7...
+[20:44:44] [236/360] OK   0p 0o 0f 0r 0ro  (13.83s)
+[20:44:44]           file: fdoc__movie_d7_a1_d7_9c_d7_99_d7_97_d7_94-_d7_a2_d7_9c-_d7_94_d7_a9_d7_90_d7_9c_d7_94-__88960652.md
+[20:44:44]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%9c%d7%99%d7%97%d7%94-%d7%a2%d7%9c-%d7...
+[20:44:46] [237/360] OK   13p 9o 1f 0r 0ro  (7.04s)
+[20:44:46]           file: fdoc__movie_d7_a2_d7_93-_d7_a1_d7_95_d7_a3-_d7_94_d7_a2_d7_95_d7_9c_d7_9d__064c3555.md
+[20:44:46]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%93-%d7%a1%d7%95%d7%a3-%d7%94%d7%a2%d7...
+[20:44:46] [238/360] OK   0p 0o 0f 0r 0ro  (7.63s)
+[20:44:46]           file: fdoc__movie_d7_a2_d7_93-_d7_a1_d7_95_d7_a3-_d7_94_d7_a2_d7_95_d7_9c_d7_9d-2__ea83a056.md
+[20:44:46]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%93-%d7%a1%d7%95%d7%a3-%d7%94%d7%a2%d7...
+[20:44:48] [239/360] OK   7p 2o 1f 0r 0ro  (8.66s)
+[20:44:48]           file: fdoc__movie_d7_a2_d7_93_d7_a8-2__5070701b.md
+[20:44:48]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%93%d7%a8-2/
+[20:44:49] [240/360] OK   0p 0o 0f 0r 0ro  (8.83s)
+[20:44:49]           file: fdoc__movie_d7_a2_d7_95_d7_91_d7_93_d7_99_d7_9d_d7_a2_d7_9c_d7_96_d7_94__4018639e.md
+[20:44:49]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%9d_%d7%a2%d7%...
+[20:44:51] [241/360] OK   9p 5o 1f 0r 0ro  (9.08s)
+[20:44:51]           file: fdoc__movie_d7_a2_d7_99_d7_a0_d7_99_d7_99_d7_9d_d7_a9_d7_9c-_d7_90_d7_91_d7_90__e3252858.md
+[20:44:51]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%99%d7%a0%d7%99%d7%99%d7%9d%d7%a9%d7%9...
+[20:44:54] [242/360] OK   9p 2o 1f 8r 11ro  (7.77s)
+[20:44:54]           file: fdoc__movie_d7_a2_d7_a8_d7_95_d7_aa__fced6e77.md
+[20:44:54]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%a8%d7%95%d7%aa/
+[20:44:54] [243/360] OK   9p 6o 1f 0r 0ro  (18.55s)
+[20:44:54]           file: fdoc__movie_d7_a1_d7_a8_d7_98-_d7_a9_d7_9c_d7_9c__b948df31.md
+[20:44:54]           url:  https://www.fdoc.org.il/movie/%d7%a1%d7%a8%d7%98-%d7%a9%d7%9c%d7%9c/
+[20:44:55] [244/360] OK   7p 8o 1f 0r 11ro  (8.27s)
+[20:44:55]           file: fdoc__movie_d7_a4_d7_92_d7_95_d7_aa-_d7_aa_d7_95_d7_a7_d7_a3__4792fe96.md
+[20:44:55]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%92%d7%95%d7%aa-%d7%aa%d7%95%d7%a7%d7%a3/
+[20:44:56] [245/360] OK   5p 3o 1f 6r 10ro  (7.5s)
+[20:44:56]           file: fdoc__movie_d7_a4_d7_99_d7_a9_d7_98_d7_99_d7_99_d7_9c__9c93f25f.md
+[20:44:56]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%99%d7%a9%d7%98%d7%99%d7%99%d7%9c/
+[20:44:57] [246/360] OK   5p 4o 1f 10r 7ro  (13.79s)
+[20:44:57]           file: fdoc__movie_d7_a2_d7_9c-_d7_94_d7_a1_d7_a3__579643bf.md
+[20:44:57]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%9c-%d7%94%d7%a1%d7%a3/
+[20:44:57] [247/360] OK   5p 5o 1f 8r 8ro  (8.41s)
+[20:44:57]           file: fdoc__movie_d7_a4_d7_a2_d7_9d-_d7_a9_d7_a8_d7_a0_d7_95__6a21650d.md
+[20:44:57]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%a2%d7%9d-%d7%a9%d7%a8%d7%a0%d7%95/
+[20:44:59] [248/360] OK   8p 5o 1f 0r 0ro  (7.68s)
+[20:44:59]           file: fdoc__movie_d7_a4_d7_a8_d7_90__9dc7b826.md
+[20:44:59]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%a8%d7%90/
+[20:45:01] [249/360] OK   13p 3o 1f 0r 0ro  (17.05s)
+[20:45:01]           file: fdoc__movie_d7_a2_d7_a1_d7_a7_d7_aa_d7_94_d7_91_d7_99_d7_a9__4e4bfe29.md
+[20:45:01]           url:  https://www.fdoc.org.il/movie/%d7%a2%d7%a1%d7%a7%d7%aa%d7%94%d7%91%d7%99%d7%a9/
+[20:45:02] [250/360] OK   8p 2o 1f 6r 6ro  (8.02s)
+[20:45:02]           file: fdoc__movie_d7_a4_d7_a8_d7_97_d7_94_d7_a8_d7_9e_d7_95_d7_9f__ee52030f.md
+[20:45:02]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%a8%d7%97%d7%94%d7%a8%d7%9e%d7%95%d7%9f/
+[20:45:02]   --- progress: 250/360 (69.4%)  rate: 52.6/min  eta: 2.1min  cost so far: $0.4632 ---
+[20:45:02] [251/360] OK   0p 0o 0f 0r 0ro  (1.24s)
+[20:45:02]           file: fdoc__movie_d7_a7_d7_95-881__a6468986.md
+[20:45:02]           url:  https://www.fdoc.org.il/movie/%d7%a7%d7%95-881/
+[20:45:03] [252/360] OK   11p 4o 1f 0r 0ro  (7.91s)
+[20:45:03]           file: fdoc__movie_d7_a4_d7_a8_d7_99_d7_a6_d7_94-_d7_91_d7_9c_d7_91-_d7_98_d7_94_d7_a8_d7_90___5017a0ed.md
+[20:45:03]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%a8%d7%99%d7%a6%d7%94-%d7%91%d7%9c%d7%...
+[20:45:03] [253/360] OK   7p 3o 1f 0r 0ro  (7.98s)
+[20:45:03]           file: fdoc__movie_d7_a4_d7_aa_d7_97-_d7_90_d7_aa-_d7_94_d7_a4_d7_94__5276b30c.md
+[20:45:03]           url:  https://www.fdoc.org.il/movie/%d7%a4%d7%aa%d7%97-%d7%90%d7%aa-%d7%94%d7%a4%d7...
+[20:45:04] [254/360] OK   6p 2o 1f 7r 7ro  (7.84s)
+[20:45:04]           file: fdoc__movie_d7_a6_d7_99_d7_9c_d7_95_d7_9d-_d7_9e_d7_a9_d7_a4_d7_97_d7_aa_d7_99__e1b67735.md
+[20:45:04]           url:  https://www.fdoc.org.il/movie/%d7%a6%d7%99%d7%9c%d7%95%d7%9d-%d7%9e%d7%a9%d7%...
+[20:45:05] [255/360] OK   0p 0o 0f 0r 0ro  (7.93s)
+[20:45:05]           file: fdoc__movie_d7_a6_d7_9c-_d7_a9_d7_9c-_d7_90_d7_9e_d7_aa-_d7_a8_d7_95_d7_a6_d7_97-_d7_9__87f71f5c.md
+[20:45:05]           url:  https://www.fdoc.org.il/movie/%d7%a6%d7%9c-%d7%a9%d7%9c-%d7%90%d7%9e%d7%aa-%d...
+[20:45:05] [256/360] OK   5p 2o 1f 6r 5ro  (9.38s)
+[20:45:05]           file: fdoc__movie_d7_a6_d7_94_d7_9c_d7_94__6562f849.md
+[20:45:05]           url:  https://www.fdoc.org.il/movie/%d7%a6%d7%94%d7%9c%d7%94/
+[20:45:07] [257/360] OK   11p 1o 1f 0r 0ro  (7.82s)
+[20:45:07]           file: fdoc__movie_d7_a6_d7_9c_d7_99_d7_9c-_d7_9e_d7_9b_d7_95_d7_95_d7_9f__3bae8977.md
+[20:45:07]           url:  https://www.fdoc.org.il/movie/%d7%a6%d7%9c%d7%99%d7%9c-%d7%9e%d7%9b%d7%95%d7%...
+[20:45:09] [258/360] OK   9p 5o 1f 0r 0ro  (7.51s)
+[20:45:09]           file: fdoc__movie_d7_a7_d7_99_d7_a7_d7_99__83beaa22.md
+[20:45:09]           url:  https://www.fdoc.org.il/movie/%d7%a7%d7%99%d7%a7%d7%99/
+[20:45:10] [259/360] OK   0p 0o 0f 0r 0ro  (8.43s)
+[20:45:10]           file: fdoc__movie_d7_a7_d7_95_d7_a4_d7_a1_d7_94-_d7_9b_d7_97_d7_95_d7_9c_d7_94__cc2ec9e3.md
+[20:45:10]           url:  https://www.fdoc.org.il/movie/%d7%a7%d7%95%d7%a4%d7%a1%d7%94-%d7%9b%d7%97%d7%...
+[20:45:10] [260/360] OK   15p 6o 1f 0r 0ro  (8.28s)
+[20:45:10]           file: fdoc__movie_d7_a7_d7_a8_d7_95_d7_91-_d7_a8_d7_97_d7_95_d7_a7__0c467716.md
+[20:45:10]           url:  https://www.fdoc.org.il/movie/%d7%a7%d7%a8%d7%95%d7%91-%d7%a8%d7%97%d7%95%d7%a7/
+[20:45:12] [261/360] OK   7p 3o 1f 0r 0ro  (7.84s)
+[20:45:12]           file: fdoc__movie_d7_a8_d7_92_d7_a2_d7_99_d7_9d-_d7_9c_d7_a4_d7_a0_d7_99-_d7_94_d7_a9_d7_99___1e8e5bd4.md
+[20:45:12]           url:  https://www.fdoc.org.il/movie/%d7%a8%d7%92%d7%a2%d7%99%d7%9d-%d7%9c%d7%a4%d7%...
+[20:45:13] [262/360] OK   7p 2o 1f 8r 8ro  (7.7s)
+[20:45:13]           file: fdoc__movie_d7_a8_d7_97_d7_9c-_d7_90_d7_92_d7_9e_d7_95_d7_9f__71f95624.md
+[20:45:13]           url:  https://www.fdoc.org.il/movie/%d7%a8%d7%97%d7%9c-%d7%90%d7%92%d7%9e%d7%95%d7%9f/
+[20:45:13] [263/360] OK   4p 3o 1f 1r 10ro  (8.47s)
+[20:45:13]           file: fdoc__movie_d7_a9_d6_b6_d7_81_d7_9e_d6_b0_d6_bc_d7_a2_d6_b4_d7_99-_d7_a7_d6_b0_d7_9c_d__0bea07d5.md
+[20:45:13]           url:  https://www.fdoc.org.il/movie/%d7%a9%d6%b6%d7%81%d7%9e%d6%b0%d6%bc%d7%a2%d6%b...
+[20:45:16] [264/360] OK   0p 0o 0f 0r 0ro  (3.0s)
+[20:45:16]           file: fdoc__movie_d7_a9_d7_9c_d7_9e_d7_94-_d7_91_d7_a8__ba918b2e.md
+[20:45:16]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%9c%d7%9e%d7%94-%d7%91%d7%a8/
+[20:45:17] [265/360] OK   9p 2o 1f 0r 0ro  (7.85s)
+[20:45:17]           file: fdoc__movie_d7_a9_d7_95_d7_91_d7_a8_d7_99_d7_9d-_d7_90_d7_aa-_d7_94_d7_93_d7_9e_d7_9e___0d20b71b.md
+[20:45:17]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%95%d7%91%d7%a8%d7%99%d7%9d-%d7%90%d7%...
+[20:45:18] [266/360] OK   0p 0o 0f 0r 0ro  (7.57s)
+[20:45:18]           file: fdoc__movie_d7_a9_d7_95_d7_9c_d7_99_d7_99_d7_9d__b9a4f258.md
+[20:45:18]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%95%d7%9c%d7%99%d7%99%d7%9d/
+[20:45:19] [267/360] OK   6p 3o 1f 5r 10ro  (16.07s)
+[20:45:19]           file: fdoc__movie_d7_a7_d7_a9_d7_a8-_d7_90_d7_99_d7_9f__3ad562d0.md
+[20:45:19]           url:  https://www.fdoc.org.il/movie/%d7%a7%d7%a9%d7%a8-%d7%90%d7%99%d7%9f/
+[20:45:19] [268/360] OK   6p 4o 1f 0r 0ro  (8.79s)
+[20:45:19]           file: fdoc__movie_d7_a9_d7_99_d7_a8_d7_94-_d7_aa_d7_9e_d7_94__fa445fe3.md
+[20:45:19]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%99%d7%a8%d7%94-%d7%aa%d7%9e%d7%94/
+[20:45:20] [269/360] OK   0p 0o 0f 0r 0ro  (1.0s)
+[20:45:20]           file: fdoc__movie_d7_aa_d7_94_d7_95_d7_93_d7_94__fc952b76.md
+[20:45:20]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%94%d7%95%d7%93%d7%94/
+[20:45:21] [270/360] OK   6p 4o 1f 0r 0ro  (7.9s)
+[20:45:21]           file: fdoc__movie_d7_a9_d7_9c_d7_95_d7_a9_d7_aa_d7_a0_d7_95__cea2a971.md
+[20:45:21]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%9c%d7%95%d7%a9%d7%aa%d7%a0%d7%95/
+[20:45:21] [271/360] OK   8p 3o 1f 0r 0ro  (14.23s)
+[20:45:21]           file: fdoc__movie_d7_a9_d7_90_d7_9c_d7_95_d7_aa-_d7_90_d7_99_d7_a9_d7_99_d7_95_d7_aa-2__3f62179b.md
+[20:45:21]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%90%d7%99%d7%...
+[20:45:21] [272/360] OK   11p 2o 1f 0r 0ro  (8.78s)
+[20:45:21]           file: fdoc__movie_d7_a9_d7_9c_d7_95_d7_a9-_d7_90_d7_97_d7_99_d7_95_d7_aa__7ddc15dd.md
+[20:45:21]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%9c%d7%95%d7%a9-%d7%90%d7%97%d7%99%d7%...
+[20:45:24] [273/360] OK   0p 0o 0f 0r 0ro  (7.98s)
+[20:45:24]           file: fdoc__movie_d7_a9_d7_9e_d7_99_d7_99_d7_9d-_d7_90_d7_a4_d7_9c_d7_99_d7_9d__95efa861.md
+[20:45:24]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%9e%d7%99%d7%99%d7%9d-%d7%90%d7%a4%d7%...
+[20:45:25] [274/360] OK   0p 0o 0f 0r 0ro  (7.72s)
+[20:45:25]           file: fdoc__movie_d7_a9_d7_a4_d7_90_d7_a8__163a01ec.md
+[20:45:25]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%a4%d7%90%d7%a8/
+[20:45:25] [275/360] OK   7p 4o 1f 0r 0ro  (7.63s)
+[20:45:25]           file: fdoc__movie_d7_a9_d7_a7_d7_a8_d7_99_d7_9d-_d7_a9_d7_a1_d7_99_d7_a4_d7_a8_d7_aa_d7_99-___ed253e95.md
+[20:45:25]           url:  https://www.fdoc.org.il/movie/%d7%a9%d7%a7%d7%a8%d7%99%d7%9d-%d7%a9%d7%a1%d7%...
+[20:45:28] [276/360] OK   0p 0o 0f 0r 0ro  (7.99s)
+[20:45:28]           file: fdoc__movie_d7_aa_d7_99_d7_a7-512-_d7_9e_d7_93_d7_99_d7_a0_d7_aa-_d7_99_d7_a9_d7_a8_d7__be407bcb.md
+[20:45:28]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%99%d7%a7-512-%d7%9e%d7%93%d7%99%d7%a0...
+[20:45:29] [277/360] OK   11p 2o 1f 0r 0ro  (8.12s)
+[20:45:29]           file: fdoc__movie_d7_aa_d7_99_d7_a7-_d7_92_d7_95_d7_a0_d7_9f-_d7_a9_d7_92_d7_91__313dff52.md
+[20:45:29]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%99%d7%a7-%d7%92%d7%95%d7%a0%d7%9f-%d7...
+[20:45:29] [278/360] OK   6p 2o 1f 0r 0ro  (7.83s)
+[20:45:29]           file: fdoc__movie_d7_aa_d7_9e_d7_95_d7_a0_d7_94-_d7_9e_d7_a9_d7_a4_d7_97_d7_aa_d7_99_d7_aa__d416ed6a.md
+[20:45:29]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%9e%d7%95%d7%a0%d7%94-%d7%9e%d7%a9%d7%...
+[20:45:30] [279/360] OK   5p 2o 1f 5r 5ro  (5.0s)
+[20:45:30]           file: fdoc__movie_dear-mom__c17c19d6.md
+[20:45:30]           url:  https://www.fdoc.org.il/movie/dear-mom/
+[20:45:30] [280/360] OK   3p 2o 1f 3r 4ro  (5.53s)
+[20:45:30]           file: fdoc__movie_d7_aa_d7_a7_d7_95_d7_a4_d7_aa-_d7_93_d7_92_d7_99_d7_a8_d7_94__1e240949.md
+[20:45:30]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%a7%d7%95%d7%a4%d7%aa-%d7%93%d7%92%d7%...
+[20:45:33] [281/360] OK   0p 0o 0f 0r 0ro  (13.68s)
+[20:45:33]           file: fdoc__movie_d7_aa_d7_94_d7_9c_d7_99_d7_9d-_d7_91_d7_a9_d7_a8-_d7_95_d7_93_d7_9d-2__0b790145.md
+[20:45:33]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%94%d7%9c%d7%99%d7%9d-%d7%91%d7%a9%d7%...
+[20:45:34] [282/360] OK   2p 2o 1f 3r 2ro  (3.22s)
+[20:45:34]           file: fdoc__movie_families-of-hostage__01eef691.md
+[20:45:34]           url:  https://www.fdoc.org.il/movie/families-of-hostage/
+[20:45:35] [283/360] OK   8p 2o 1f 9r 8ro  (6.58s)
+[20:45:35]           file: fdoc__movie_deep-in-the-fog__9fc68fc5.md
+[20:45:35]           url:  https://www.fdoc.org.il/movie/deep-in-the-fog/
+[20:45:36] [284/360] OK   10p 3o 1f 10r 11ro  (7.77s)
+[20:45:36]           file: fdoc__movie_eyes-wide-open__9ff071e4.md
+[20:45:36]           url:  https://www.fdoc.org.il/movie/eyes-wide-open/
+[20:45:37] [285/360] OK   6p 3o 1f 0r 0ro  (15.96s)
+[20:45:37]           file: fdoc__movie_d7_aa_d7_9e_d7_95_d7_a0_d7_aa-_d7_a0_d7_99_d7_a6_d7_97_d7_95_d7_9f__99d58e3a.md
+[20:45:37]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%9e%d7%95%d7%a0%d7%aa-%d7%a0%d7%99%d7%...
+[20:45:38] [286/360] OK   11p 5o 1f 0r 0ro  (7.55s)
+[20:45:38]           file: fdoc__movie_firstlady__497f81f9.md
+[20:45:38]           url:  https://www.fdoc.org.il/movie/firstlady/
+[20:45:39] [287/360] OK   7p 1o 1f 4r 9ro  (14.5s)
+[20:45:39]           file: fdoc__movie_d7_aa_d7_a4_d7_99_d7_9c_d7_aa_d7_90_d7_a9_d7_9b_d7_91_d7_94_d7_9c_d7_93_d7__54f8d558.md
+[20:45:39]           url:  https://www.fdoc.org.il/movie/%d7%aa%d7%a4%d7%99%d7%9c%d7%aa%d7%90%d7%a9%d7%9...
+[20:45:41] [288/360] OK   1p 3o 1f 5r 4ro  (4.46s)
+[20:45:41]           file: fdoc__movie_freedom-farm-sanctuary-s02__d8e1a3ca.md
+[20:45:41]           url:  https://www.fdoc.org.il/movie/freedom-farm-sanctuary-s02/
+[20:45:41] [289/360] OK   5p 4o 1f 11r 9ro  (7.57s)
+[20:45:41]           file: fdoc__movie_flower__da9a9c73.md
+[20:45:41]           url:  https://www.fdoc.org.il/movie/flower/
+[20:45:42] [290/360] OK   10p 5o 1f 7r 11ro  (13.82s)
+[20:45:42]           file: fdoc__movie_death-in-umm-al-hiran__5df4f13f.md
+[20:45:42]           url:  https://www.fdoc.org.il/movie/death-in-umm-al-hiran/
+[20:45:42] [291/360] OK   6p 3o 1f 0r 0ro  (8.69s)
+[20:45:42]           file: fdoc__movie_flight-1812rediscovering-mom__a60febf4.md
+[20:45:42]           url:  https://www.fdoc.org.il/movie/flight-1812rediscovering-mom/
+[20:45:45] [292/360] OK   13p 5o 1f 0r 0ro  (7.46s)
+[20:45:45]           file: fdoc__movie_game-changer__4ebd81b7.md
+[20:45:45]           url:  https://www.fdoc.org.il/movie/game-changer/
+[20:45:47] [293/360] OK   12p 3o 1f 3r 16ro  (7.86s)
+[20:45:47]           file: fdoc__movie_gaza-syndrome__ba4b7021.md
+[20:45:47]           url:  https://www.fdoc.org.il/movie/gaza-syndrome/
+[20:45:48] [294/360] OK   6p 4o 1f 11r 10ro  (7.28s)
+[20:45:48]           file: fdoc__movie_get-the-land-back__45ad37be.md
+[20:45:48]           url:  https://www.fdoc.org.il/movie/get-the-land-back/
+[20:45:49] [295/360] OK   9p 2o 1f 14r 10ro  (13.7s)
+[20:45:49]           file: fdoc__movie_francesca__74743dcf.md
+[20:45:49]           url:  https://www.fdoc.org.il/movie/francesca/
+[20:45:49] [296/360] OK   11p 4o 1f 0r 0ro  (7.48s)
+[20:45:49]           file: fdoc__movie_grown-up-2__8230defa.md
+[20:45:49]           url:  https://www.fdoc.org.il/movie/grown-up-2/
+[20:45:50] [297/360] OK   2p 3o 1f 4r 2ro  (3.24s)
+[20:45:50]           file: fdoc__movie_home-omer-shem-tov-speaks__2100d0df.md
+[20:45:50]           url:  https://www.fdoc.org.il/movie/home-omer-shem-tov-speaks/
+[20:45:50] [298/360] OK   4p 3o 2f 7r 4ro  (8.79s)
+[20:45:50]           file: fdoc__movie_grown-up__c346115b.md
+[20:45:50]           url:  https://www.fdoc.org.il/movie/grown-up/
+[20:45:51] [299/360] OK   10p 5o 1f 4r 15ro  (14.2s)
+[20:45:51]           file: fdoc__movie_full-support__c3cdcde7.md
+[20:45:51]           url:  https://www.fdoc.org.il/movie/full-support/
+[20:45:54] [300/360] OK   1p 4o 1f 6r 3ro  (3.74s)
+[20:45:54]           file: fdoc__movie_kicking-the-family-curse__1518bd07.md
+[20:45:54]           url:  https://www.fdoc.org.il/movie/kicking-the-family-curse/
+[20:45:54]   --- progress: 300/360 (83.3%)  rate: 53.4/min  eta: 1.1min  cost so far: $0.5481 ---
+[20:45:55] [301/360] OK   8p 11o 1f 0r 0ro  (9.14s)
+[20:45:55]           file: fdoc__movie_h2-_d7_9e_d7_a2_d7_91_d7_93_d7_aa-_d7_94_d7_a9_d7_9c_d7_99_d7_98_d7_94__bb6db9a4.md
+[20:45:55]           url:  https://www.fdoc.org.il/movie/h2-%d7%9e%d7%a2%d7%91%d7%93%d7%aa-%d7%94%d7%a9%...
+[20:45:56] [302/360] OK   16p 4o 1f 0r 0ro  (8.18s)
+[20:45:56]           file: fdoc__movie_hostages__f1a2b5d9.md
+[20:45:56]           url:  https://www.fdoc.org.il/movie/hostages/
+[20:45:58] [303/360] OK   5p 5o 1f 0r 0ro  (8.78s)
+[20:45:58]           file: fdoc__movie_it-happened-on-our-ground__446d1ee9.md
+[20:45:58]           url:  https://www.fdoc.org.il/movie/it-happened-on-our-ground/
+[20:45:58] [304/360] OK   8p 6o 1f 0r 0ro  (16.53s)
+[20:45:58]           file: fdoc__movie_girl-woman__f7ed2b11.md
+[20:45:58]           url:  https://www.fdoc.org.il/movie/girl-woman/
+[20:45:58] [305/360] OK   10p 4o 1f 0r 0ro  (8.74s)
+[20:45:58]           file: fdoc__movie_kichka-teling-my-self__0f56947b.md
+[20:45:58]           url:  https://www.fdoc.org.il/movie/kichka-teling-my-self/
+[20:45:59] [306/360] OK   6p 5o 1f 0r 0ro  (8.72s)
+[20:45:59]           file: fdoc__movie_king-of-the-sephardim__872d984e.md
+[20:45:59]           url:  https://www.fdoc.org.il/movie/king-of-the-sephardim/
+[20:46:00] [307/360] OK   6p 5o 1f 9r 7ro  (6.26s)
+[20:46:00]           file: fdoc__movie_know-hope__5544c8f8.md
+[20:46:00]           url:  https://www.fdoc.org.il/movie/know-hope/
+[20:46:01] [308/360] OK   1p 3o 1f 4r 2ro  (3.17s)
+[20:46:01]           file: fdoc__movie_m-other__69f52f1b.md
+[20:46:01]           url:  https://www.fdoc.org.il/movie/m-other/
+[20:46:02] [309/360] OK   4p 2o 1f 5r 6ro  (4.4s)
+[20:46:02]           file: fdoc__movie_man-land__86f8ddc4.md
+[20:46:02]           url:  https://www.fdoc.org.il/movie/man-land/
+[20:46:03] [310/360] OK   2p 6o 1f 8r 5ro  (5.27s)
+[20:46:03]           file: fdoc__movie_make-yourself-at-home__9a4d0d5c.md
+[20:46:03]           url:  https://www.fdoc.org.il/movie/make-yourself-at-home/
+[20:46:04] [311/360] OK   3p 2o 1f 5r 4ro  (4.42s)
+[20:46:04]           file: fdoc__movie_my-ethiopian-wedding__42881ed1.md
+[20:46:04]           url:  https://www.fdoc.org.il/movie/my-ethiopian-wedding/
+[20:46:04] [312/360] OK   11p 3o 1f 7r 11ro  (8.95s)
+[20:46:04]           file: fdoc__movie_lansky-the-zionist-gangaster__c36a4a37.md
+[20:46:04]           url:  https://www.fdoc.org.il/movie/lansky-the-zionist-gangaster/
+[20:46:06] [313/360] OK   2p 2o 1f 3r 2ro  (2.73s)
+[20:46:06]           file: fdoc__movie_october-seva__b2a52296.md
+[20:46:06]           url:  https://www.fdoc.org.il/movie/october-seva/
+[20:46:07] [314/360] OK   4p 3o 1f 8r 8ro  (10.59s)
+[20:46:07]           file: fdoc__movie_look-soon-you-wont-see-anything__afec3f04.md
+[20:46:07]           url:  https://www.fdoc.org.il/movie/look-soon-you-wont-see-anything/
+[20:46:08] [315/360] OK   9p 3o 1f 7r 11ro  (16.97s)
+[20:46:08]           file: fdoc__movie_kings-of-cassettes__0db34126.md
+[20:46:08]           url:  https://www.fdoc.org.il/movie/kings-of-cassettes/
+[20:46:08] [316/360] OK   7p 5o 1f 0r 0ro  (8.41s)
+[20:46:08]           file: fdoc__movie_necropolis__4b83a567.md
+[20:46:08]           url:  https://www.fdoc.org.il/movie/necropolis/
+[20:46:09] [317/360] OK   3p 10o 1f 0r 0ro  (8.54s)
+[20:46:09]           file: fdoc__movie_nothing-special__edf5771f.md
+[20:46:09]           url:  https://www.fdoc.org.il/movie/nothing-special/
+[20:46:09] [318/360] OK   3p 2o 1f 5r 4ro  (3.71s)
+[20:46:09]           file: fdoc__movie_over-the-rainbow__c53947e9.md
+[20:46:09]           url:  https://www.fdoc.org.il/movie/over-the-rainbow/
+[20:46:10] [319/360] OK   7p 2o 1f 10r 9ro  (6.41s)
+[20:46:10]           file: fdoc__movie_open-wound__e70ec45b.md
+[20:46:10]           url:  https://www.fdoc.org.il/movie/open-wound/
+[20:46:10] [320/360] OK   8p 4o 1f 7r 11ro  (6.79s)
+[20:46:10]           file: fdoc__movie_orna-and-ella__fba09616.md
+[20:46:10]           url:  https://www.fdoc.org.il/movie/orna-and-ella/
+[20:46:11] [321/360] OK   10p 3o 1f 0r 0ro  (9.13s)
+[20:46:11]           file: fdoc__movie_nova__9d837044.md
+[20:46:11]           url:  https://www.fdoc.org.il/movie/nova/
+[20:46:11] [322/360] OK   3p 5o 1f 7r 2ro  (4.27s)
+[20:46:11]           file: fdoc__movie_paradise-shattered__c946c652.md
+[20:46:11]           url:  https://www.fdoc.org.il/movie/paradise-shattered/
+[20:46:13] [323/360] OK   1p 1o 1f 2r 2ro  (5.04s)
+[20:46:13]           file: fdoc__movie_pretty-for-her-age__888b648d.md
+[20:46:13]           url:  https://www.fdoc.org.il/movie/pretty-for-her-age/
+[20:46:14] [324/360] OK   1p 3o 1f 4r 4ro  (5.93s)
+[20:46:14]           file: fdoc__movie_press-start__5e28e67f.md
+[20:46:14]           url:  https://www.fdoc.org.il/movie/press-start/
+[20:46:17] [325/360] OK   10p 3o 1f 0r 0ro  (7.75s)
+[20:46:17]           file: fdoc__movie_sapir__db7cd049.md
+[20:46:17]           url:  https://www.fdoc.org.il/movie/sapir/
+[20:46:20] [326/360] OK   10p 6o 1f 0r 0ro  (8.37s)
+[20:46:20]           file: fdoc__movie_shooting__33e76191.md
+[20:46:20]           url:  https://www.fdoc.org.il/movie/shooting/
+[20:46:20] [327/360] OK   3p 5o 1f 7r 3ro  (9.58s)
+[20:46:20]           file: fdoc__movie_shivtown__ff68c9d0.md
+[20:46:20]           url:  https://www.fdoc.org.il/movie/shivtown/
+[20:46:21] [328/360] OK   6p 5o 1f 0r 0ro  (7.62s)
+[20:46:21]           file: fdoc__movie_sun-bay__cdc884de.md
+[20:46:21]           url:  https://www.fdoc.org.il/movie/sun-bay/
+[20:46:23] [329/360] OK   1p 2o 1f 4r 3ro  (2.85s)
+[20:46:23]           file: fdoc__movie_tattooed4life__94a22b46.md
+[20:46:23]           url:  https://www.fdoc.org.il/movie/tattooed4life/
+[20:46:24] [330/360] OK   21p 1o 1f 0r 0ro  (14.26s)
+[20:46:24]           file: fdoc__movie_screams-before-silence__0f653d40.md
+[20:46:24]           url:  https://www.fdoc.org.il/movie/screams-before-silence/
+[20:46:25] [331/360] OK   7p 4o 1f 0r 0ro  (13.82s)
+[20:46:25]           file: fdoc__movie_strange-birds__c9f1c31a.md
+[20:46:25]           url:  https://www.fdoc.org.il/movie/strange-birds/
+[20:46:26] [332/360] OK   9p 11o 1f 0r 0ro  (8.7s)
+[20:46:26]           file: fdoc__movie_taboo-amos-guttman__929cac62.md
+[20:46:26]           url:  https://www.fdoc.org.il/movie/taboo-amos-guttman/
+[20:46:27] [333/360] OK   7p 7o 1f 13r 8ro  (17.36s)
+[20:46:27]           file: fdoc__movie_return__d386df09.md
+[20:46:27]           url:  https://www.fdoc.org.il/movie/return/
+[20:46:27] [334/360] OK   3p 2o 1f 6r 5ro  (4.05s)
+[20:46:27]           file: fdoc__movie_temporary-identity__3f6dc3f9.md
+[20:46:27]           url:  https://www.fdoc.org.il/movie/temporary-identity/
+[20:46:27] [335/360] OK   3p 2o 1f 3r 3ro  (5.97s)
+[20:46:27]           file: fdoc__movie_tear-down-the-wall-of-silence__3393105f.md
+[20:46:27]           url:  https://www.fdoc.org.il/movie/tear-down-the-wall-of-silence/
+[20:46:29] [336/360] OK   12p 2o 1f 0r 0ro  (15.27s)
+[20:46:29]           file: fdoc__movie_supernova__40945495.md
+[20:46:29]           url:  https://www.fdoc.org.il/movie/supernova/
+[20:46:30] [337/360] OK   1p 2o 1f 3r 3ro  (3.42s)
+[20:46:30]           file: fdoc__movie_the-last-lap__62310065.md
+[20:46:30]           url:  https://www.fdoc.org.il/movie/the-last-lap/
+[20:46:31] [338/360] OK   7p 4o 1f 10r 7ro  (11.52s)
+[20:46:31]           file: fdoc__movie_taisia__84ee96a8.md
+[20:46:31]           url:  https://www.fdoc.org.il/movie/taisia/
+[20:46:32] [339/360] OK   3p 4o 1f 5r 4ro  (5.05s)
+[20:46:32]           file: fdoc__movie_the-lost-images-of-beeri__18418c45.md
+[20:46:32]           url:  https://www.fdoc.org.il/movie/the-lost-images-of-beeri/
+[20:46:32] [340/360] OK   6p 6o 1f 12r 7ro  (7.76s)
+[20:46:32]           file: fdoc__movie_thai-land__912cefcf.md
+[20:46:32]           url:  https://www.fdoc.org.il/movie/thai-land/
+[20:46:32] [341/360] OK   4p 2o 1f 4r 6ro  (5.03s)
+[20:46:32]           file: fdoc__movie_the-midwife-to-afterlife__79149087.md
+[20:46:32]           url:  https://www.fdoc.org.il/movie/the-midwife-to-afterlife/
+[20:46:34] [342/360] OK   15p 4o 1f 0r 14ro  (8.17s)
+[20:46:34]           file: fdoc__movie_the-governor__46d92d3e.md
+[20:46:34]           url:  https://www.fdoc.org.il/movie/the-governor/
+[20:46:38] [343/360] OK   9p 3o 1f 0r 0ro  (8.74s)
+[20:46:38]           file: fdoc__movie_the-prosecution__d284a54e.md
+[20:46:38]           url:  https://www.fdoc.org.il/movie/the-prosecution/
+[20:46:38] [344/360] OK   10p 4o 1f 0r 0ro  (13.23s)
+[20:46:38]           file: fdoc__movie_the-1957-transcripts__1d2c770d.md
+[20:46:38]           url:  https://www.fdoc.org.il/movie/the-1957-transcripts/
+[20:46:39] [345/360] OK   7p 7o 1f 8r 12ro  (7.48s)
+[20:46:39]           file: fdoc__movie_the-smugglers__7cd6be31.md
+[20:46:39]           url:  https://www.fdoc.org.il/movie/the-smugglers/
+[20:46:40] [346/360] OK   6p 3o 1f 9r 8ro  (7.45s)
+[20:46:40]           file: fdoc__movie_the-speed-of-the-distance-between-us__eadb46db.md
+[20:46:40]           url:  https://www.fdoc.org.il/movie/the-speed-of-the-distance-between-us/
+[20:46:40] [347/360] OK   12p 8o 1f 0r 0ro  (8.45s)
+[20:46:40]           file: fdoc__movie_the-return-from-the-other-planet__e57d0ee4.md
+[20:46:40]           url:  https://www.fdoc.org.il/movie/the-return-from-the-other-planet/
+[20:46:41] [348/360] OK   10p 5o 1f 0r 0ro  (7.16s)
+[20:46:41]           file: fdoc__movie_the-water-front__01f25f03.md
+[20:46:41]           url:  https://www.fdoc.org.il/movie/the-water-front/
+[20:46:41] [349/360] OK   2p 2o 1f 4r 4ro  (3.33s)
+[20:46:41]           file: fdoc__movie_things-that-have-no-name__9cead22a.md
+[20:46:41]           url:  https://www.fdoc.org.il/movie/things-that-have-no-name/
+[20:46:44] [350/360] OK   10p 3o 1f 0r 0ro  (13.66s)
+[20:46:44]           file: fdoc__movie_the-publishers__6013482d.md
+[20:46:44]           url:  https://www.fdoc.org.il/movie/the-publishers/
+[20:46:44]   --- progress: 350/360 (97.2%)  rate: 54.3/min  eta: 0.2min  cost so far: $0.6257 ---
+[20:46:45] [351/360] OK   10p 3o 1f 0r 9ro  (5.39s)
+[20:46:45]           file: fdoc__movie_war-secrets__3a1b3fe0.md
+[20:46:45]           url:  https://www.fdoc.org.il/movie/war-secrets/
+[20:46:45] [352/360] OK   6p 6o 1f 0r 0ro  (13.16s)
+[20:46:45]           file: fdoc__movie_the-shoshani-riddle__469fb8b0.md
+[20:46:45]           url:  https://www.fdoc.org.il/movie/the-shoshani-riddle/
+[20:46:45] [353/360] OK   5p 2o 1f 9r 8ro  (5.98s)
+[20:46:45]           file: fdoc__movie_voiceless-witness__0d1dedc4.md
+[20:46:45]           url:  https://www.fdoc.org.il/movie/voiceless-witness/
+[20:46:46] [354/360] OK   1p 3o 1f 3r 2ro  (2.53s)
+[20:46:46]           file: fdoc__movie_welcome-to-damascus__7ad735b7.md
+[20:46:46]           url:  https://www.fdoc.org.il/movie/welcome-to-damascus/
+[20:46:46] [355/360] OK   15p 5o 1f 0r 0ro  (8.14s)
+[20:46:46]           file: fdoc__movie_upload__572c2876.md
+[20:46:46]           url:  https://www.fdoc.org.il/movie/upload/
+[20:46:47] [356/360] OK   6p 5o 1f 11r 7ro  (7.37s)
+[20:46:47]           file: fdoc__movie_water-fuel__4a6b8745.md
+[20:46:47]           url:  https://www.fdoc.org.il/movie/water-fuel/
+[20:46:49] [357/360] OK   8p 2o 1f 10r 9ro  (7.33s)
+[20:46:49]           file: fdoc__movie_we-the-people-of-gush-katif__00e37d60.md
+[20:46:49]           url:  https://www.fdoc.org.il/movie/we-the-people-of-gush-katif/
+[20:46:54] [358/360] OK   8p 3o 1f 0r 0ro  (13.14s)
+[20:46:54]           file: fdoc__movie_water-tower-murder__6f6db68b.md
+[20:46:54]           url:  https://www.fdoc.org.il/movie/water-tower-murder/
+[20:47:02] [359/360] OK   10p 4o 1f 0r 0ro  (16.6s)
+[20:47:02]           file: fdoc__movie_whatever-happened-to-george-halil__7809e3d1.md
+[20:47:02]           url:  https://www.fdoc.org.il/movie/whatever-happened-to-george-halil/
+[20:47:02] [360/360] OK   9p 3o 1f 0r 22ro  (17.36s)
+[20:47:02]           file: fdoc__movie_well-always-have-mexico__6b83f85b.md
+[20:47:02]           url:  https://www.fdoc.org.il/movie/well-always-have-mexico/
+[20:47:02] ======================================================================
+[20:47:02] DONE in 6.8min
+[20:47:02]   ok:           360
+[20:47:02]   filtered:     0
+[20:47:02]   empty:        0
+[20:47:02]   load_error:   0
+[20:47:02]   llm_error:    0
+[20:47:02] Tokens: 1,092,029 in / 1,332,531 out  |  Cost: $0.6422
+[20:47:02] Calls: 365  |  Errors: 0  |  JSON retries: 8
+[20:47:02] Output: out/fdoc/mentions.jsonl
+[20:47:02] Summary:  out/fdoc/run_summary.json
+=== Run ended 2026-05-20T20:47:02.851238 ===

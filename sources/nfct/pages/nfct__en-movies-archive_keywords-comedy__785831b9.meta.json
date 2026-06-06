@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=comedy",
+  "stable_id": "nfct__en-movies-archive_keywords-comedy__785831b9",
+  "fetched_at": "2026-05-16T05:05:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:05:13Z",
+  "duration_ms": 13620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:41029a5daf5c2c0bcdc2db1aab7dee96a8b74b8979ed859d4ac284a6fdea6c13",
+  "md_bytes": 12961,
+  "links_found": 75,
+  "files_found": 0
+}

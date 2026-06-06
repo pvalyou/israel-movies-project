@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/yona-namer-ira/?lang=en",
+  "stable_id": "makor__films-yona-namer-ira_lang-en__43ea33f5",
+  "fetched_at": "2026-05-09T13:23:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:23:43Z",
+  "duration_ms": 9555,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8cac9546e4c01a1d4c4f7e58f42166954159b12c519d6f48b1a703ec720480c",
+  "md_bytes": 1966,
+  "links_found": 4,
+  "files_found": 0
+}

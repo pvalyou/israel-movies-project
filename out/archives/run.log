@@ -1,0 +1,31 @@
+
+=== Run started 2026-05-18T23:37:17.098698 ===
+[23:37:17] Source: archives
+[23:37:17] Pages dir: sources/archives/pages
+[23:37:17] Output dir: out/archives
+[23:37:17] Total .md pages found: 4  |  Already done: 0  |  To process: 4
+[23:37:17] Model: google/gemini-2.5-flash-lite  |  Workers: 4  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:37:20] [1/4] OK   3p 1o 3f 2r 3ro  (3.56s)
+[23:37:20]           file: archives__root__aadb5316.md
+[23:37:20]           url:  https://www.haifacin.co.il/
+[23:37:25] [2/4] OK   0p 0o 0f 0r 0ro  (8.37s)
+[23:37:25]           file: archives__root__53d50a49.md
+[23:37:25]           url:  https://jer-cin.org.il/
+[23:37:25] [3/4] OK   0p 0o 0f 0r 0ro  (8.41s) [TRUNC]
+[23:37:25]           file: archives__root__c4dcc267.md
+[23:37:25]           url:  https://www.cinema.co.il/
+[23:37:25] [4/4] OK   0p 0o 0f 0r 0ro  (8.47s)
+[23:37:25]           file: archives__root__9d17c090.md
+[23:37:25]           url:  https://israelfilmcenter.org/
+[23:37:25] ======================================================================
+[23:37:25] DONE in 0.1min
+[23:37:25]   ok:           4
+[23:37:25]   filtered:     0
+[23:37:25]   empty:        0
+[23:37:25]   load_error:   0
+[23:37:25]   llm_error:    0
+[23:37:25] Tokens: 40,131 in / 13,696 out  |  Cost: $0.0095
+[23:37:25] Calls: 4  |  Errors: 0  |  JSON retries: 0
+[23:37:25] Output: out/archives/mentions.jsonl
+[23:37:25] Summary:  out/archives/run_summary.json
+=== Run ended 2026-05-18T23:37:25.604109 ===

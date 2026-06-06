@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mayna+Bird",
+  "stable_id": "nfct__en-movies-archive_keywords-Mayna-Bird__6b6ffdd5",
+  "fetched_at": "2026-05-16T13:12:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:12:29Z",
+  "duration_ms": 9205,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fbd342b99e1541137882280e57b03f1e977236a5f8d6fc124e3116b2b184198f",
+  "md_bytes": 10129,
+  "links_found": 68,
+  "files_found": 0
+}

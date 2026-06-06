@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-terrorist/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-my-terrorist__3c9824ad",
+  "fetched_at": "2026-05-16T11:34:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:34:32Z",
+  "duration_ms": 12928,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa50d098b5cee6bc7bb8c11a89fc2c64567fb217b8c0e97f9e4de77b13d69a15",
+  "md_bytes": 14093,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Middle+East",
+  "stable_id": "nfct__en-movies-archive_keywords-Middle-East__402a73d0",
+  "fetched_at": "2026-05-16T03:16:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:16:55Z",
+  "duration_ms": 8866,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d3903f20eb7e0fb23e4e8008db5a69ec2638f2734d0995d1c66fde7531bb9c1",
+  "md_bytes": 16231,
+  "links_found": 82,
+  "files_found": 0
+}

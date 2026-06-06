@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dont-touch-my-holocaust/#UAMainContent",
+  "stable_id": "nfct__en-movies-dont-touch-my-holocaust__5106da8a",
+  "fetched_at": "2026-05-16T14:27:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:27:09Z",
+  "duration_ms": 7427,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d3bf55eb0a21f9ffdd5e461311bd2ecf4b83e220bd8b64a824014425e4f6073",
+  "md_bytes": 12423,
+  "links_found": 27,
+  "files_found": 0
+}

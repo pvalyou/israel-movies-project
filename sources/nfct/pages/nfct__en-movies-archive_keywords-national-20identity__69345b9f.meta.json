@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=national%20identity",
+  "stable_id": "nfct__en-movies-archive_keywords-national-20identity__69345b9f",
+  "fetched_at": "2026-05-16T05:31:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:31:49Z",
+  "duration_ms": 6770,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5d0bab0679c1b89ce1465443f03cbc2e7a654bcd7ef532e0c9545e780481a460",
+  "md_bytes": 12047,
+  "links_found": 72,
+  "files_found": 0
+}

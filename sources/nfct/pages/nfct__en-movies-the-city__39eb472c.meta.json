@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-city/",
+  "stable_id": "nfct__en-movies-the-city__39eb472c",
+  "fetched_at": "2026-05-15T15:22:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:22:33Z",
+  "duration_ms": 28154,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6b954ee144b6f7cb03e42cd1ef652b8f3cfec2521e2c828af2e0c9dada4aee04",
+  "md_bytes": 13593,
+  "links_found": 33,
+  "files_found": 0
+}

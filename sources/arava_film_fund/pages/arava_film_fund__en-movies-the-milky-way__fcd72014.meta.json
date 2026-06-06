@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-milky-way/",
+  "stable_id": "arava_film_fund__en-movies-the-milky-way__fcd72014",
+  "fetched_at": "2026-05-08T09:39:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:39:30Z",
+  "duration_ms": 4192,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:95e503909a4fe9b84968c5e3a6e124c41c0a2a527db74c1ce62675db5fd41451",
+  "md_bytes": 3532,
+  "links_found": 9,
+  "files_found": 0
+}

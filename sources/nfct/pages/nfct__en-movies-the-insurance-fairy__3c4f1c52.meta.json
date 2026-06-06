@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-insurance-fairy/",
+  "stable_id": "nfct__en-movies-the-insurance-fairy__3c4f1c52",
+  "fetched_at": "2026-05-11T11:10:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:10:18Z",
+  "duration_ms": 30045,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:59a3000b3e3c89fac3199b42160cfd387ae4640bb87f570e4916dd55c483b610",
+  "md_bytes": 13062,
+  "links_found": 33,
+  "files_found": 0
+}

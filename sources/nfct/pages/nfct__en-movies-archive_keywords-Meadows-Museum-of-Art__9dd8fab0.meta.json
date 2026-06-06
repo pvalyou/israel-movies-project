@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Meadows+Museum+of+Art",
+  "stable_id": "nfct__en-movies-archive_keywords-Meadows-Museum-of-Art__9dd8fab0",
+  "fetched_at": "2026-05-16T14:07:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:07:00Z",
+  "duration_ms": 6972,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ad8e529ac8fd01762f37da81491aa0bc9867b9195fa9f9bbaaa93711cd496da9",
+  "md_bytes": 9992,
+  "links_found": 68,
+  "files_found": 0
+}

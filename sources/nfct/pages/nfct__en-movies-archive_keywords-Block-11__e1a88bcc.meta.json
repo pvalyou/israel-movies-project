@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Block+11",
+  "stable_id": "nfct__en-movies-archive_keywords-Block-11__e1a88bcc",
+  "fetched_at": "2026-05-16T17:42:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:42:52Z",
+  "duration_ms": 11600,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9657ed5f228d2820a6975e9de989f387b9842be4056d6495284e711d298f54d1",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

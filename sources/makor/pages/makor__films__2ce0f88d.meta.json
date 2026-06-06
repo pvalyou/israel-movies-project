@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/איבד-פוגל-את-פוגל/",
+  "stable_id": "makor__films__2ce0f88d",
+  "fetched_at": "2026-05-09T13:09:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:09:41Z",
+  "duration_ms": 17759,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6db3f69e5de5095d790879df30d8e27b595b370e0e48f28ecde2a089a4d8ec3f",
+  "md_bytes": 2983,
+  "links_found": 4,
+  "files_found": 0
+}

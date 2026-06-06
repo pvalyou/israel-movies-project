@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/baba-luba/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-baba-luba__5d423272",
+  "fetched_at": "2026-05-16T14:38:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:38:48Z",
+  "duration_ms": 11730,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:009fc628869868eb77e0bab674fe5b4856c6cb0276a48690c79906dc535b760d",
+  "md_bytes": 14610,
+  "links_found": 39,
+  "files_found": 0
+}

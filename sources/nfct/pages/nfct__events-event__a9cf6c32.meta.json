@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-זו-הארץ-שלי-תמרה-ארדה-סינמטק-תל/",
+  "stable_id": "nfct__events-event__a9cf6c32",
+  "fetched_at": "2026-05-10T12:48:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:48:48Z",
+  "duration_ms": 36279,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:37a723369712644bfd3c61098359e55da0373f2661f53c55563f24a9bd4b24b5",
+  "md_bytes": 13092,
+  "links_found": 28,
+  "files_found": 0
+}

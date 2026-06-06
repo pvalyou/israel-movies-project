@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/summer-nights/",
+  "stable_id": "nfct__en-movies-summer-nights__3e84163c",
+  "fetched_at": "2026-05-11T12:45:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:45:05Z",
+  "duration_ms": 29141,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03ae8b78cfe62ecc20f936057dcf5cf1eee65be5d44d55501edd1822de088785",
+  "md_bytes": 12372,
+  "links_found": 34,
+  "files_found": 0
+}

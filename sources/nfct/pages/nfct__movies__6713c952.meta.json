@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/תלויים-באוויר/",
+  "stable_id": "nfct__movies__6713c952",
+  "fetched_at": "2026-05-16T13:28:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:28:03Z",
+  "duration_ms": 6737,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4e001f61ee941e73c2448a259932d81a67a45865846c37ad7b0f57ba22b7fd2",
+  "md_bytes": 8086,
+  "links_found": 21,
+  "files_found": 0
+}

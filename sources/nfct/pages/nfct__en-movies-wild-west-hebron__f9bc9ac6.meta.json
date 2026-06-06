@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/wild-west-hebron/#UAMainContent",
+  "stable_id": "nfct__en-movies-wild-west-hebron__f9bc9ac6",
+  "fetched_at": "2026-05-16T17:17:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:17:43Z",
+  "duration_ms": 14054,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6a9a443026553bdc8cdc39b8d993c88dfaaa6ab5422aabb45aab0d05c2a2a38a",
+  "md_bytes": 15067,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שחקן-ספסל/",
+  "stable_id": "nfct__blog-movies__5d387d9f",
+  "fetched_at": "2026-05-09T17:09:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:09:45Z",
+  "duration_ms": 28889,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:457e97ed35299086e0938d163dbd8ca2b5d787ca8d6109d7959d0046b9f87d66",
+  "md_bytes": 16830,
+  "links_found": 37,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/good-garbage/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-good-garbage__fe7d3ced",
+  "fetched_at": "2026-05-16T05:52:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:52:22Z",
+  "duration_ms": 10205,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05f6bf0057d5e04b1a8bbcb0c4c550a7f6ad0efa79bcec0487620d732d743bfa",
+  "md_bytes": 15983,
+  "links_found": 36,
+  "files_found": 0
+}

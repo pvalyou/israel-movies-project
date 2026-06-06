@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/accommodation-packages/",
+  "stable_id": "arava_film_fund__en-accommodation-packages__6302efe3",
+  "fetched_at": "2026-05-08T09:44:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:44:19Z",
+  "duration_ms": 4919,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae9e7fdf640de5034e36996cc4901307761733502d6927d88f338e3e9bfd2572",
+  "md_bytes": 4315,
+  "links_found": 8,
+  "files_found": 0
+}

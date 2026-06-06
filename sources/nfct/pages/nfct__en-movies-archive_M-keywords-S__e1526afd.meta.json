@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?M=&keywords=S",
+  "stable_id": "nfct__en-movies-archive_M-keywords-S__e1526afd",
+  "fetched_at": "2026-05-16T16:07:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:07:48Z",
+  "duration_ms": 8225,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a70e1bec2d1e41cb1b814b2ec863ef1a66bab822b18b4f141df08e643a6ed0e",
+  "md_bytes": 18174,
+  "links_found": 82,
+  "files_found": 0
+}

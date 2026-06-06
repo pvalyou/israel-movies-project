@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Child%20Birth",
+  "stable_id": "nfct__en-movies-archive_keywords-Child-20Birth__47ed7dc3",
+  "fetched_at": "2026-05-16T20:33:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:34Z",
+  "duration_ms": 7605,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9eecbe55b4d72a7ade94592556dae96480db1efe429a3acf3dab21594fd8b91",
+  "md_bytes": 14412,
+  "links_found": 76,
+  "files_found": 0
+}

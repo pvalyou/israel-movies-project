@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=culture+shock",
+  "stable_id": "nfct__en-movies-archive_keywords-culture-shock__546c65f3",
+  "fetched_at": "2026-05-16T07:31:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:31:35Z",
+  "duration_ms": 10625,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:226ed5136a07649c5608245e7946bb0e49ffb2386c5787332f22516b1b125ff2",
+  "md_bytes": 10054,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מוסרות/",
+  "stable_id": "nfct__blog-movies__3b31fcb8",
+  "fetched_at": "2026-05-09T20:05:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:05:48Z",
+  "duration_ms": 19264,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b3b6a598c21cb4f97e3f35f1cb74a4d522b8751ba6902c7f7543577aa20fe88",
+  "md_bytes": 17535,
+  "links_found": 36,
+  "files_found": 0
+}

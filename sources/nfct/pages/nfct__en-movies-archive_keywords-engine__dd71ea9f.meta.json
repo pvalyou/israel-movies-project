@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=engine",
+  "stable_id": "nfct__en-movies-archive_keywords-engine__dd71ea9f",
+  "fetched_at": "2026-05-16T13:52:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:32Z",
+  "duration_ms": 6309,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd32295098332b0c1d8fed1a0fe5b2eb2c77e323ce8648d8fa31229fae6a33c2",
+  "md_bytes": 10910,
+  "links_found": 70,
+  "files_found": 0
+}

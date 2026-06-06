@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Youth%20Center",
+  "stable_id": "nfct__en-movies-archive_keywords-Youth-20Center__cb66c590",
+  "fetched_at": "2026-05-16T13:48:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:48:58Z",
+  "duration_ms": 6358,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82f4426a1f84d73d2a9b59814d5dbf4404825a816d55bdf25cbbd0066e762d02",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

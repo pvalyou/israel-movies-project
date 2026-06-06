@@ -1,0 +1,387 @@
+
+=== Run started 2026-05-15T11:25:10.231741 ===
+[11:25:10] Source: gesher
+[11:25:10] Pages dir: sources/gesher/pages
+[11:25:10] Output dir: out/gesher
+[11:25:10] Total .md pages found: 65  |  Already done: 0  |  To process: 65
+[11:25:10] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:25:10] [1/65] SKIP (g=0 s=0)
+[11:25:10]           file: gesher__Page-17-Sheet.aspx_SheetID-42__10301ee7.md
+[11:25:10]           url:  https://gesherfilmfund.org.il/Page/17/Sheet.aspx?SheetID=42
+[11:25:12] [2/65] OK   0p 3o 0f 2r 0ro  (1.95s)
+[11:25:12]           file: gesher__Page-18__8f84b28a.md
+[11:25:12]           url:  https://gesherfilmfund.org.il/Page/18/
+[11:25:12] [3/65] OK   0p 3o 0f 2r 0ro  (2.05s)
+[11:25:12]           file: gesher__Page-17__b003496b.md
+[11:25:12]           url:  https://gesherfilmfund.org.il/Page/17/
+[11:25:12] [4/65] OK   0p 4o 0f 3r 0ro  (2.36s)
+[11:25:12]           file: gesher__Page-20__ef03b758.md
+[11:25:12]           url:  https://gesherfilmfund.org.il/Page/20/
+[11:25:12] [5/65] OK   0p 4o 0f 3r 0ro  (2.47s)
+[11:25:12]           file: gesher__Page-30__14474c77.md
+[11:25:12]           url:  https://gesherfilmfund.org.il/Page/30/#regional
+[11:25:12] [6/65] OK   0p 4o 0f 3r 0ro  (0s) [dedup←gesher__Page-30__14474c77.md]
+[11:25:12]           file: gesher__Page-30__9e6d6b27.md
+[11:25:12]           url:  https://gesherfilmfund.org.il/Page/30/#shorts
+[11:25:12] [7/65] OK   0p 4o 0f 3r 0ro  (0s) [dedup←gesher__Page-30__14474c77.md]
+[11:25:12]           file: gesher__Page-30__b3867588.md
+[11:25:12]           url:  https://gesherfilmfund.org.il/Page/30/#thejewishstory
+[11:25:13] [8/65] OK   0p 4o 0f 3r 0ro  (2.73s)
+[11:25:13]           file: gesher__Page-19__a00803f3.md
+[11:25:13]           url:  https://gesherfilmfund.org.il/Page/19/
+[11:25:13] [9/65] OK   1p 3o 0f 3r 1ro  (3.55s)
+[11:25:13]           file: gesher__Page-14__4d784f60.md
+[11:25:13]           url:  https://gesherfilmfund.org.il/Page/14/
+[11:25:14] [10/65] OK   0p 3o 0f 2r 0ro  (4.45s)
+[11:25:14]           file: gesher__Page-1__203dbc05.md
+[11:25:14]           url:  https://gesherfilmfund.org.il/Page/1/
+[11:25:15] [11/65] OK   0p 4o 0f 3r 0ro  (2.84s)
+[11:25:15]           file: gesher__Page-30__777dd7c8.md
+[11:25:15]           url:  https://gesherfilmfund.org.il/Page/30/#socialfilm
+[11:25:15] [12/65] OK   0p 4o 0f 4r 0ro  (2.95s)
+[11:25:15]           file: gesher__Page-30__242c2653.md
+[11:25:15]           url:  https://gesherfilmfund.org.il/Page/30/#students
+[11:25:15] [13/65] OK   1p 5o 4f 8r 0ro  (4.95s)
+[11:25:15]           file: gesher__Page-21__bce4036b.md
+[11:25:15]           url:  https://gesherfilmfund.org.il/Page/21/#thejewishstory
+[11:25:15] [14/65] OK   0p 4o 0f 3r 0ro  (2.87s)
+[11:25:15]           file: gesher__Page-30__8b7a568c.md
+[11:25:15]           url:  https://gesherfilmfund.org.il/Page/30/
+[11:25:15] [15/65] OK   0p 3o 0f 2r 0ro  (1.75s)
+[11:25:15]           file: gesher__Page-37__16c7729e.md
+[11:25:15]           url:  https://gesherfilmfund.org.il/Page/37/
+[11:25:16] [16/65] OK   0p 5o 4f 15r 0ro  (6.65s)
+[11:25:16]           file: gesher__Page-21__df18fc8d.md
+[11:25:16]           url:  https://gesherfilmfund.org.il/Page/21/
+[11:25:17] [17/65] OK   0p 3o 0f 2r 0ro  (2.13s)
+[11:25:17]           file: gesher__Page-43__be8d7476.md
+[11:25:17]           url:  https://gesherfilmfund.org.il/Page/43/
+[11:25:17] [18/65] OK   0p 3o 0f 2r 0ro  (2.15s)
+[11:25:17]           file: gesher__Page-42__62ef18ea.md
+[11:25:17]           url:  https://gesherfilmfund.org.il/Page/42/
+[11:25:18] [19/65] OK   0p 7o 0f 6r 0ro  (3.65s)
+[11:25:18]           file: gesher__Page-39__e92c8b84.md
+[11:25:18]           url:  https://gesherfilmfund.org.il/Page/39/
+[11:25:18] [20/65] OK   0p 5o 0f 4r 0ro  (2.97s)
+[11:25:18]           file: gesher__Page-46__5082ab64.md
+[11:25:18]           url:  https://gesherfilmfund.org.il/Page/46/
+[11:25:18] [21/65] OK   0p 3o 0f 2r 0ro  (1.74s)
+[11:25:18]           file: gesher__Page-52__46a56b25.md
+[11:25:18]           url:  https://gesherfilmfund.org.il/Page/52/
+[11:25:19] [22/65] OK   0p 3o 0f 2r 0ro  (1.94s)
+[11:25:19]           file: gesher__Page-55__ea09419f.md
+[11:25:19]           url:  https://gesherfilmfund.org.il/Page/55/
+[11:25:20] [23/65] OK   0p 8o 0f 7r 0ro  (4.49s)
+[11:25:20]           file: gesher__Page-4__7381d34e.md
+[11:25:20]           url:  https://gesherfilmfund.org.il/Page/4/
+[11:25:21] [24/65] OK   9p 3o 4f 18r 14ro  (11.17s)
+[11:25:21]           file: gesher__Page-25__a7698dfc.md
+[11:25:21]           url:  https://gesherfilmfund.org.il/Page/25/
+[11:25:21] [25/65] OK   0p 3o 0f 2r 0ro  (1.72s)
+[11:25:21]           file: gesher__Page-7__97798ffb.md
+[11:25:21]           url:  https://gesherfilmfund.org.il/Page/7/
+[11:25:23] [26/65] OK   16p 3o 0f 18r 21ro  (13.5s)
+[11:25:23]           file: gesher__Page-15__4923ea7b.md
+[11:25:23]           url:  https://gesherfilmfund.org.il/Page/15/
+[11:25:23] [27/65] OK   0p 3o 0f 2r 0ro  (2.16s)
+[11:25:23]           file: gesher__Tender.aspx_TenderID-26b9158c-5beb-46ca-99bf-c242bc67c40b__d045354c.md
+[11:25:23]           url:  https://gesherfilmfund.org.il/Tender.aspx?TenderID=26b9158c-5beb-46ca-99bf-c2...
+[11:25:23] [28/65] OK   0p 3o 0f 2r 0ro  (2.52s)
+[11:25:23]           file: gesher__Search__84567dcd.md
+[11:25:23]           url:  https://gesherfilmfund.org.il/Search/
+[11:25:26] [29/65] OK   0p 3o 0f 3r 0ro  (2.83s)
+[11:25:26]           file: gesher__Tender.aspx_TenderID-a8ba620a-bc14-42ef-847b-44e70f9b5511__57bd4c0f.md
+[11:25:26]           url:  https://gesherfilmfund.org.il/Tender.aspx?TenderID=a8ba620a-bc14-42ef-847b-44...
+[11:25:27] [30/65] OK   1p 4o 0f 4r 1ro  (3.97s)
+[11:25:27]           file: gesher__Tender.aspx_TenderID-cf48714a-3496-461a-beb9-d865eb4277eb__614e3256.md
+[11:25:27]           url:  https://gesherfilmfund.org.il/Tender.aspx?TenderID=cf48714a-3496-461a-beb9-d8...
+[11:25:27] [31/65] SKIP (g=1 s=0) matched=['director']
+[11:25:27]           file: gesher__documents-20-20-20-202025-20-003__d0064125.md
+[11:25:27]           url:  https://gesherfilmfund.org.il/documents/מבחן%20תמיכה%20תחום%20קולנוע%202025%2...
+[11:25:27] [32/65] SKIP (g=1 s=0) matched=['director']
+[11:25:27]           file: gesher__documents-CREDITS-2_FMC__404b6504.md
+[11:25:27]           url:  https://gesherfilmfund.org.il/documents/CREDITSֹ2_FMC
+[11:25:28] [33/65] OK   0p 3o 0f 2r 0ro  (4.77s)
+[11:25:28]           file: gesher__Tender.aspx_TenderID-7bfae985-40a9-4635-9b2e-e63624520e07__a4942521.md
+[11:25:28]           url:  https://gesherfilmfund.org.il/Tender.aspx?TenderID=7bfae985-40a9-4635-9b2e-e6...
+[11:25:28] [34/65] OK   0p 3o 0f 2r 0ro  (1.94s)
+[11:25:28]           file: gesher__Tender.aspx_TenderID-f7fcdfe5-7e91-4c3a-813c-e799e6f404e5__45d203a1.md
+[11:25:28]           url:  https://gesherfilmfund.org.il/Tender.aspx?TenderID=f7fcdfe5-7e91-4c3a-813c-e7...
+[11:25:28] [35/65] SKIP (g=1 s=0) matched=['קצר']
+[11:25:28]           file: gesher__documents-D7-A4-D7-99-D7-AA-D7-95-D7-97-20--20-D7-94-D7-A0-D7-97-D7-99-D7-95-D7-__0e9688d6.md  [gesher__documentsפיתוח - הנחיו�-__0e9688d6.md]
+[11:25:28]           url:  https://gesherfilmfund.org.il/documents/%D7%A4%D7%99%D7%AA%D7%95%D7%97%20-%20...
+[11:25:28] [36/65] SKIP (g=1 s=0) matched=['director']
+[11:25:28]           file: gesher__documents-d7-a1-d7-a8-d7-98-d7-99-20-d7-92-d7-9e-d7-a8-20-d7-95-d7-a7-d7-a6-d7-a__5831cd99.md  [gesher__documentsסרטי גמר וקצ�-a__5831cd99.md]
+[11:25:28]           url:  https://gesherfilmfund.org.il/documents/%d7%a1%d7%a8%d7%98%d7%99%20%d7%92%d7%...
+[11:25:30] [37/65] OK   0p 1o 0f 0r 0ro  (1.68s)
+[11:25:30]           file: gesher__documents-D7-A1-D7-A8-D7-98-D7-99-20-D7-92-D7-9E-D7-A8-20-D7-95-D7-A7-D7-A6-D7-A__96340c0c.md  [gesher__documentsסרטי גמר וקצ�-A__96340c0c.md]
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/%D7%A1%D7%A8%D7%98%D7%99%20%D7%92%D7%...
+[11:25:30] [38/65] SKIP (g=1 s=0) matched=['קצר']
+[11:25:30]           file: gesher__documents-d7-a4-d7-99-d7-aa-d7-95-d7-97-20--20-d7-94-d7-a0-d7-97-d7-99-d7-95-d7-__65652996.md  [gesher__documentsפיתוח - הנחיו�-__65652996.md]
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/%d7%a4%d7%99%d7%aa%d7%95%d7%97%20-%20...
+[11:25:30] [39/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents-d7-a4-d7-99-d7-aa-d7-95-d7-97-20--20-d7-94-d7-a0-d7-97-d7-99-d7-95-d7-__6b3c767d.md  [gesher__documentsפיתוח - הנחיו�-__6b3c767d.md]
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/%d7%a4%d7%99%d7%aa%d7%95%d7%97%20-%20...
+[11:25:30] [40/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__1c767ca9.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/דוח
+[11:25:30] [41/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__2be90124.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/כללי
+[11:25:30] [42/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__30f39620.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/לוגו
+[11:25:30] [43/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__6cbe3813.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/דוחות
+[11:25:30] [44/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__6fafcb25.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/סרטי
+[11:25:30] [45/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__7a6bd309.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/בוגרי
+[11:25:30] [46/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__95e531de.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/קרן
+[11:25:30] [47/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__d49e6eed.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/פיתוח
+[11:25:30] [48/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__f13fc5e5.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/כללים
+[11:25:30] [49/65] SKIP (g=1 s=0) matched=['director']
+[11:25:30]           file: gesher__documents__f733e039.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/קרדיטים
+[11:25:30] [50/65] OK   0p 1o 0f 0r 0ro  (1.52s)
+[11:25:30]           file: gesher__documents-d7-a1-d7-a8-d7-98-d7-99-20-d7-92-d7-9e-d7-a8-20-d7-95-d7-a7-d7-a6-d7-a__a6bf532b.md  [gesher__documentsסרטי גמר וקצ�-a__a6bf532b.md]
+[11:25:30]           url:  https://gesherfilmfund.org.il/documents/%d7%a1%d7%a8%d7%98%d7%99%20%d7%92%d7%...
+[11:25:30]   --- progress: 50/65 (76.9%)  rate: 149.9/min  eta: 0.1min  cost so far: $0.0428 ---
+[11:25:30] [51/65] OK   0p 3o 0f 2r 0ro  (0s) [dedup←gesher__Page-37__16c7729e.md]
+[11:25:30]           file: gesher__root__c1a2d094.md
+[11:25:30]           url:  https://gesherfilmfund.org.il/
+[11:25:32] [52/65] OK   0p 3o 0f 2r 0ro  (2.06s)
+[11:25:32]           file: gesher__productions__5ae63790.md
+[11:25:32]           url:  https://gesherfilmfund.org.il/productions
+[11:25:32] [53/65] OK   0p 4o 0f 3r 0ro  (0s) [dedup←gesher__Page-30__14474c77.md]
+[11:25:32]           file: gesher__submissions__d4a78fcb.md
+[11:25:32]           url:  https://gesherfilmfund.org.il/submissions/
+[11:25:32] [54/65] OK   1p 5o 4f 8r 0ro  (0s) [dedup←gesher__Page-21__bce4036b.md]
+[11:25:32]           file: gesher__thejewishstory__111e8fdf.md
+[11:25:32]           url:  https://gesherfilmfund.org.il/thejewishstory/
+[11:25:34] [55/65] LLM_ERROR: json_error: Invalid \escape: line 3 column 193 (char 210) | raw_len=900 | raw_head: '{\n  "metadata": {\n    "source_url
+[11:25:34]           file: gesher__documents-D7-9E-D7-91-D7-97-D7-9F-20-D7-AA-D7-9E-D7-99-D7-9B-D7-94-20-D7-AA-D7-9__2f43eec4.md  [gesher__documentsמבחן תמיכה ת�-9__2f43eec4.md]
+[11:25:34]           url:  https://gesherfilmfund.org.il/documents/%D7%9E%D7%91%D7%97%D7%9F%20%D7%AA%D7%...
+[11:25:37] [56/65] OK   5p 4o 2f 10r 7ro  (6.79s)
+[11:25:37]           file: gesher__spiritofcinema__a29cd917.md
+[11:25:37]           url:  https://gesherfilmfund.org.il/spiritofcinema/
+[11:25:42] [57/65] OK   1p 10o 1f 25r 0ro  (24.25s) [TRUNC]
+[11:25:42]           file: gesher__Page-6__4d3290a8.md
+[11:25:42]           url:  https://gesherfilmfund.org.il/Page/6/#shorts
+[11:25:43] [58/65] OK   2p 10o 3f 25r 0ro  (24.12s) [TRUNC]
+[11:25:43]           file: gesher__Page-6__a0d9d5c0.md
+[11:25:43]           url:  https://gesherfilmfund.org.il/Page/6/
+[11:25:43] [59/65] OK   1p 10o 3f 25r 1ro  (25.23s) [TRUNC]
+[11:25:43]           file: gesher__Page-6__9a30e2b8.md
+[11:25:43]           url:  https://gesherfilmfund.org.il/Page/6/#thejewishstory
+[11:25:44] [60/65] OK   2p 10o 3f 25r 2ro  (25.58s) [TRUNC]
+[11:25:44]           file: gesher__Page-6__682fa39b.md
+[11:25:44]           url:  https://gesherfilmfund.org.il/Page/6/#socialfilm
+[11:25:50] [61/65] OK   20p 1o 3f 24r 0ro  (40.46s) [TRUNC]
+[11:25:50]           file: gesher__Catalog__31de169f.md
+[11:25:50]           url:  https://gesherfilmfund.org.il/Catalog/
+[11:25:57] [62/65] OK   2p 10o 3f 25r 2ro  (40.15s) [TRUNC]
+[11:25:57]           file: gesher__Page-6__17d7d197.md
+[11:25:57]           url:  https://gesherfilmfund.org.il/Page/6/#students
+[11:25:57] [63/65] LLM_ERROR: json_error: Unterminated string starting at: line 905 column 9 (char 22005) | raw_len=22020 | raw_head: '{\n  "metadata"
+[11:25:57]           file: gesher__Page-35__34955b45.md
+[11:25:57]           url:  https://gesherfilmfund.org.il/Page/35/
+[11:25:58] [64/65] LLM_ERROR: json_error: Unterminated string starting at: line 911 column 13 (char 21995) | raw_len=22002 | raw_head: '{\n  "metadata
+[11:25:58]           file: gesher__Page-34__ece6ec40.md
+[11:25:58]           url:  https://gesherfilmfund.org.il/Page/34/
+[11:26:21] [65/65] LLM_ERROR: json_error: Unterminated string starting at: line 841 column 7 (char 20278) | raw_len=20279 | raw_head: '{\n  "metadata"
+[11:26:21]           file: gesher__Page-45__2e34bce2.md
+[11:26:21]           url:  https://gesherfilmfund.org.il/Page/45/
+[11:26:21] ======================================================================
+[11:26:21] DONE in 1.2min
+[11:26:21]   ok:           44
+[11:26:21]   filtered:     17
+[11:26:21]   empty:        0
+[11:26:21]   load_error:   0
+[11:26:21]   llm_error:    4
+[11:26:21] Tokens: 191,391 in / 210,219 out  |  Cost: $0.1032
+[11:26:21] Calls: 57  |  Errors: 4  |  JSON retries: 20
+[11:26:21] Output: out/gesher/mentions.jsonl
+[11:26:21] Summary:  out/gesher/run_summary.json
+=== Run ended 2026-05-15T11:26:21.340225 ===
+
+=== Run started 2026-05-15T11:29:29.245822 ===
+[11:29:29] Source: gesher
+[11:29:29] Pages dir: sources/gesher/pages
+[11:29:29] Output dir: out/gesher
+[11:29:29] Total .md pages found: 65  |  Already done: 61  |  To process: 4
+[11:29:29] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:29:29] Content dedup cache: 30 unique page bodies from prior ok runs
+[11:29:30] [1/4] OK   0p 1o 0f 0r 0ro  (1.55s)
+[11:29:30]           file: gesher__documents-D7-9E-D7-91-D7-97-D7-9F-20-D7-AA-D7-9E-D7-99-D7-9B-D7-94-20-D7-AA-D7-9__2f43eec4.md  [gesher__documentsמבחן תמיכה ת�-9__2f43eec4.md]
+[11:29:30]           url:  https://gesherfilmfund.org.il/documents/%D7%9E%D7%91%D7%97%D7%9F%20%D7%AA%D7%...
+[11:29:37] [2/4] OK   0p 0o 0f 0r 0ro  (7.78s)
+[11:29:37]           file: gesher__Page-34__ece6ec40.md
+[11:29:37]           url:  https://gesherfilmfund.org.il/Page/34/
+[11:29:37] [3/4] OK   0p 0o 0f 0r 0ro  (8.11s) [TRUNC]
+[11:29:37]           file: gesher__Page-35__34955b45.md
+[11:29:37]           url:  https://gesherfilmfund.org.il/Page/35/
+[11:29:38] [4/4] OK   0p 0o 0f 0r 0ro  (9.16s) [TRUNC]
+[11:29:38]           file: gesher__Page-45__2e34bce2.md
+[11:29:38]           url:  https://gesherfilmfund.org.il/Page/45/
+[11:29:38] ======================================================================
+[11:29:38] DONE in 0.2min
+[11:29:38]   ok:           4
+[11:29:38]   filtered:     0
+[11:29:38]   empty:        0
+[11:29:38]   load_error:   0
+[11:29:38]   llm_error:    0
+[11:29:38] Tokens: 15,306 in / 12,781 out  |  Cost: $0.0066
+[11:29:38] Calls: 4  |  Errors: 0  |  JSON retries: 0
+[11:29:38] Output: out/gesher/mentions.jsonl
+[11:29:38] Summary:  out/gesher/run_summary.json
+=== Run ended 2026-05-15T11:29:38.436798 ===
+
+=== Run started 2026-05-16T13:33:50.635121 ===
+[13:33:50] Source: gesher
+[13:33:50] Pages dir: sources/gesher/pages
+[13:33:50] Output dir: out/gesher
+[13:33:50] Total .md pages found: 105  |  Already done: 65  |  To process: 40
+[13:33:50] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[13:33:50] Content dedup cache: 34 unique page bodies from prior ok runs
+[13:33:52] [1/40] OK   0p 1o 0f 0r 0ro  (1.5s)
+[13:33:52]           file: gesher__Documents-Tenders-1207-TenderDocuments.pdf__60acbe8e.md
+[13:33:52]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1207/TenderDocuments.pdf
+[13:33:52] [2/40] OK   0p 1o 0f 0r 0ro  (1.84s)
+[13:33:52]           file: gesher__Documents-Tenders-1206-TenderDocuments.pdf__7dfe13da.md
+[13:33:52]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1206/TenderDocuments.pdf
+[13:33:52] [3/40] OK   0p 1o 0f 0r 0ro  (2.17s)
+[13:33:52]           file: gesher__documents-20-20-20-20-20-20-20-20-20-.pdf__ffbfd1a1.md
+[13:33:52]           url:  https://gesherfilmfund.org.il/documents/תנאי%20שימוש%20ומדיניות%20פרטיות%20את...
+[13:33:52] [4/40] SKIP (g=0 s=0)
+[13:33:52]           file: gesher__documents-D7-91-D7-95-D7-92-D7-A8-D7-99-20-D7-94-D7-A1-D7-98-D7-95-D7-93-D7-99-D__784e0aa4.md  [gesher__documentsבוגרי הסטודי-D__784e0aa4.md]
+[13:33:52]           url:  https://gesherfilmfund.org.il/documents/%D7%91%D7%95%D7%92%D7%A8%D7%99%20%D7%...
+[13:33:52] [5/40] OK   0p 2o 0f 1r 0ro  (2.24s)
+[13:33:52]           file: gesher__Documents-Tenders-1209-TenderDocuments.pdf__38436ac6.md
+[13:33:52]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1209/TenderDocuments.pdf
+[13:33:53] [6/40] OK   0p 2o 0f 1r 0ro  (2.4s) [TRUNC]
+[13:33:53]           file: gesher__documents-20-20-202017.pdf__a94cc0ce.md
+[13:33:53]           url:  https://gesherfilmfund.org.il/documents/דוחות%20כספיים%20חתומים%202017.pdf
+[13:33:53] [7/40] OK   0p 3o 0f 0r 0ro  (2.47s)
+[13:33:53]           file: gesher__Documents-Tenders-1210-TenderDocuments.pdf__b8c0aa92.md
+[13:33:53]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1210/TenderDocuments.pdf
+[13:33:53] [8/40] OK   0p 2o 0f 1r 0ro  (2.66s)
+[13:33:53]           file: gesher__Documents-Tenders-1208-TenderDocuments.pdf__8707efeb.md
+[13:33:53]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1208/TenderDocuments.pdf
+[13:33:54] [9/40] OK   0p 1o 0f 0r 0ro  (1.22s) [TRUNC]
+[13:33:54]           file: gesher__documents-D7-93-D7-95-D7-97-D7-95-D7-AA-20-D7-9B-D7-A1-D7-A4-D7-99-D7-99-D7-9D-2__bcb787a7.md  [gesher__documentsדוחות כספיים-2__bcb787a7.md]
+[13:33:54]           url:  https://gesherfilmfund.org.il/documents/%D7%93%D7%95%D7%97%D7%95%D7%AA%20%D7%...
+[13:33:56] [10/40] OK   0p 2o 3f 8r 0ro  (4.21s) [TRUNC]
+[13:33:56]           file: gesher__documents-20-20-202018.pdf__51f28461.md
+[13:33:56]           url:  https://gesherfilmfund.org.il/documents/דוחות%20כספיים%20חתומים%202018.pdf
+[13:33:57] [11/40] OK   2p 3o 0f 1r 2ro  (3.91s) [TRUNC]
+[13:33:57]           file: gesher__documents-D7-93-D7-95-D7-97-D7-95-D7-AA-20-D7-9B-D7-A1-D7-A4-D7-99-D7-99-D7-9D-2__b4208b1f.md  [gesher__documentsדוחות כספיים-2__b4208b1f.md]
+[13:33:57]           url:  https://gesherfilmfund.org.il/documents/%D7%93%D7%95%D7%97%D7%95%D7%AA%20%D7%...
+[13:33:57] [12/40] OK   2p 2o 0f 1r 2ro  (4.24s) [TRUNC]
+[13:33:57]           file: gesher__documents-D7-93-D7-95-D7-97-20-D7-9B-D7-A1-D7-A4-D7-99-20-D7-9E-D7-91-D7-95-D7-A__27a4f96d.md  [gesher__documentsדוח כספי מבו�-A__27a4f96d.md]
+[13:33:57]           url:  https://gesherfilmfund.org.il/documents/%D7%93%D7%95%D7%97%20%D7%9B%D7%A1%D7%...
+[13:33:57] [13/40] OK   0p 2o 3f 4r 1ro  (4.68s) [TRUNC]
+[13:33:57]           file: gesher__documents-D7-93-D7-95-D7-97-D7-95-D7-AA-20-D7-9B-D7-A1-D7-A4-D7-99-D7-99-D7-9D-2__a2fe769f.md  [gesher__documentsדוחות כספיים-2__a2fe769f.md]
+[13:33:57]           url:  https://gesherfilmfund.org.il/documents/%D7%93%D7%95%D7%97%D7%95%D7%AA%20%D7%...
+[13:33:57] [14/40] OK   0p 1o 0f 0r 0ro  (0s) [dedup←gesher__documents-20-20-20-20-20-20-20-20-20-.pdf__ffbfd1a1.md]
+[13:33:57]           file: gesher__documents-D7-AA-D7-A0-D7-90-D7-99-20-D7-A9-D7-99-D7-9E-D7-95-D7-A9-20-D7-95-D7-9__b5056504.md  [gesher__documentsתנאי שימוש ו�-9__b5056504.md]
+[13:33:57]           url:  https://gesherfilmfund.org.il/documents/%D7%AA%D7%A0%D7%90%D7%99%20%D7%A9%D7%...
+[13:33:58] [15/40] OK   0p 2o 3f 4r 1ro  (4.97s) [TRUNC]
+[13:33:58]           file: gesher__documents-D7-93-D7-95-D7-97-D7-95-D7-AA-20-D7-9B-D7-A1-D7-A4-D7-99-D7-99-D7-9D-2__f839e575.md  [gesher__documentsדוחות כספיים-2__f839e575.md]
+[13:33:58]           url:  https://gesherfilmfund.org.il/documents/%D7%93%D7%95%D7%97%D7%95%D7%AA%20%D7%...
+[13:33:58] [16/40] OK   8p 4o 0f 9r 8ro  (7.73s)
+[13:33:58]           file: gesher__Documents-Tenders-1208-RulesAndProcedures.pdf__e5cf7fdc.md
+[13:33:58]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1208/RulesAndProcedures.pdf
+[13:33:58] [17/40] OK   9p 6o 0f 0r 0ro  (7.88s)
+[13:33:58]           file: gesher__Documents-Tenders-1207-RulesAndProcedures.pdf__bf4cc4a0.md
+[13:33:58]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1207/RulesAndProcedures.pdf
+[13:33:58] [18/40] OK   14p 5o 0f 0r 0ro  (8.03s) [TRUNC]
+[13:33:58]           file: gesher__Documents-Tenders-1210-RulesAndProcedures.pdf__571bce84.md
+[13:33:58]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1210/RulesAndProcedures.pdf
+[13:33:58] [19/40] OK   4p 6o 0f 9r 3ro  (6.4s)
+[13:33:58]           file: gesher__documents-CREDITS-D6-B92_FMC-20FOR-20FILMS-20NOT-20SCREENED-20ON-20KAN-2011.pdf__028cadc3.md  [gesher__documents-CREDITSֹ2_FMC-20FOR-20FILMS-20NOT-20SCREENED-20ON-20KAN-2011.pdf__028cadc3.md]
+[13:33:58]           url:  https://gesherfilmfund.org.il/documents/CREDITS%D6%B92_FMC%20FOR%20FILMS%20NO...
+[13:33:59] [20/40] OK   8p 4o 0f 0r 0ro  (8.43s)
+[13:33:59]           file: gesher__Documents-Tenders-1209-RulesAndProcedures.pdf__c734ac9d.md
+[13:33:59]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1209/RulesAndProcedures.pdf
+[13:33:59] [21/40] OK   0p 2o 0f 1r 1ro  (2.23s) [TRUNC]
+[13:33:59]           file: gesher__documents-D7-A7-D7-A8-D7-9F-20-D7-92-D7-A9-D7-A8--D7-93-D7-95-D7-97-20-D7-9B-D7-__4b83377d.md  [gesher__documentsקרן גשר-דוח כ�-__4b83377d.md]
+[13:33:59]           url:  https://gesherfilmfund.org.il/documents/%D7%A7%D7%A8%D7%9F%20%D7%92%D7%A9%D7%...
+[13:33:59] [22/40] OK   0p 1o 0f 0r 0ro  (2.22s)
+[13:33:59]           file: gesher__documents-d7-91-d6-bc-d7-a8-d7-95-d6-bc-d7-97-d6-b7-20-d7-94-d7-a7-d7-95-d6-b9-d__01477766.md  [gesher__documentsבּרוּחַ הקוֹ-d__01477766.md]
+[13:33:59]           url:  https://gesherfilmfund.org.il/documents/%d7%91%d6%bc%d7%a8%d7%95%d6%bc%d7%97%...
+[13:34:01] [23/40] OK   7p 6o 0f 0r 0ro  (10.52s)
+[13:34:01]           file: gesher__Documents-Tenders-1206-RulesAndProcedures.pdf__3b34dc85.md
+[13:34:01]           url:  https://gesherfilmfund.org.il/Documents/Tenders/1206/RulesAndProcedures.pdf
+[13:34:04] [24/40] OK   8p 4o 0f 0r 0ro  (7.66s) [TRUNC]
+[13:34:04]           file: gesher__documents-D7-9B-D7-9C-D7-9C-D7-99-D7-9D-20-D7-95-D7-A0-D7-94-D7-9C-D7-99-D7-9D-2__77a6ce43.md  [gesher__documentsכללים ונהלים-2__77a6ce43.md]
+[13:34:04]           url:  https://gesherfilmfund.org.il/documents/%D7%9B%D7%9C%D7%9C%D7%99%D7%9D%20%D7%...
+[13:34:05] [25/40] OK   7p 5o 0f 0r 0ro  (7.03s)
+[13:34:05]           file: gesher__documents-d7-a7-d7-a8-d7-93-d7-99-d7-98-d7-99-d7-9d-20-d7-9e-d7-99-d7-96-d7-9d-2__ebbb3975.md  [gesher__documentsקרדיטים מיזם-2__ebbb3975.md]
+[13:34:05]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%93%d7%99%d7%98%d7%99%...
+[13:34:05] [26/40] OK   0p 1o 3f 3r 0ro  (7.54s)
+[13:34:05]           file: gesher__documents-d7-9e-d7-a2-d7-95-d7-93-d7-9b-d7-9f-20-d7-94-d7-92-d7-a9-d7-95-d7-aa-2__979d649c.md  [gesher__documentsמעודכן הגשות-2__979d649c.md]
+[13:34:05]           url:  https://gesherfilmfund.org.il/documents/%d7%9e%d7%a2%d7%95%d7%93%d7%9b%d7%9f%...
+[13:34:06] [27/40] OK   6p 2o 0f 0r 0ro  (7.69s)
+[13:34:06]           file: gesher__documents-d7-9b-d7-9c-d7-9c-d7-99-20--20-d7-94-d7-a0-d7-97-d7-99-d7-95-d7-aa-20-__2ec28abb.md  [gesher__documentsכללי - הנחיות -__2ec28abb.md]
+[13:34:06]           url:  https://gesherfilmfund.org.il/documents/%d7%9b%d7%9c%d7%9c%d7%99%20-%20%d7%94...
+[13:34:06] [28/40] OK   0p 0o 0f 0r 0ro  (7.31s)
+[13:34:06]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__40fc1cd4.md  [gesher__documentsקרן גשר-פרויי-__40fc1cd4.md]
+[13:34:06]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:06] [29/40] OK   0p 0o 0f 0r 0ro  (7.16s)
+[13:34:06]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__4aa1dd74.md  [gesher__documentsקרן גשר-פרויי-__4aa1dd74.md]
+[13:34:06]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:07] [30/40] OK   0p 0o 0f 0r 0ro  (7.19s)
+[13:34:07]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__9acf356c.md  [gesher__documentsקרן גשר-פרויי-__9acf356c.md]
+[13:34:07]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:07] [31/40] OK   0p 0o 0f 0r 0ro  (7.83s)
+[13:34:07]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__8d35fea2.md  [gesher__documentsקרן גשר-פרויי-__8d35fea2.md]
+[13:34:07]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:07] [32/40] OK   6p 2o 0f 0r 0ro  (13.42s)
+[13:34:07]           file: gesher__documents-D7-9B-D7-9C-D7-9C-D7-99-20--20-D7-94-D7-A0-D7-97-D7-99-D7-95-D7-AA-20-__1caae889.md  [gesher__documentsכללי - הנחיות -__1caae889.md]
+[13:34:07]           url:  https://gesherfilmfund.org.il/documents/%D7%9B%D7%9C%D7%9C%D7%99%20-%20%D7%94...
+[13:34:08] [33/40] OK   0p 0o 0f 0r 0ro  (9.71s)
+[13:34:08]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__2c1b94ef.md  [gesher__documentsקרן גשר-פרויי-__2c1b94ef.md]
+[13:34:08]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:08] [34/40] OK   0p 1o 5f 5r 0ro  (4.69s)
+[13:34:08]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__ec12c7f6.md  [gesher__documentsקרן גשר-פרויי-__ec12c7f6.md]
+[13:34:08]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:09] [35/40] OK   1p 8o 5f 0r 0ro  (8.0s)
+[13:34:09]           file: gesher__documents-d7-a7-d7-a8-d7-9f-20-d7-92-d7-a9-d7-a8--d7-a4-d7-a8-d7-95-d7-99-d7-99-__beb9651a.md  [gesher__documentsקרן גשר-פרויי-__beb9651a.md]
+[13:34:09]           url:  https://gesherfilmfund.org.il/documents/%d7%a7%d7%a8%d7%9f%20%d7%92%d7%a9%d7%...
+[13:34:11] [36/40] OK   7p 5o 0f 0r 0ro  (14.03s)
+[13:34:11]           file: gesher__documents-D7-A7-D7-A8-D7-93-D7-99-D7-98-D7-99-D7-9D-20-D7-9E-D7-99-D7-96-D7-9D-2__52b2a2ab.md  [gesher__documentsקרדיטים מיזם-2__52b2a2ab.md]
+[13:34:11]           url:  https://gesherfilmfund.org.il/documents/%D7%A7%D7%A8%D7%93%D7%99%D7%98%D7%99%...
+[13:34:13] [37/40] OK   0p 0o 0f 0r 0ro  (7.41s)
+[13:34:13]           file: gesher__documents-d7-a8-d7-a9-d7-99-d7-9e-d7-aa-20-d7-a4-d7-a8-d7-95-d7-99-d7-99-d7-a7-d__91acfb80.md  [gesher__documentsרשימת פרוייק-d__91acfb80.md]
+[13:34:13]           url:  https://gesherfilmfund.org.il/documents/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa%20%d7%...
+[13:34:13] [38/40] OK   0p 0o 0f 0r 0ro  (7.08s)
+[13:34:13]           file: gesher__documents-d7-a8-d7-a9-d7-99-d7-9e-d7-aa-20-d7-a4-d7-a8-d7-95-d7-99-d7-99-d7-a7-d__9aefa9f5.md  [gesher__documentsרשימת פרוייק-d__9aefa9f5.md]
+[13:34:13]           url:  https://gesherfilmfund.org.il/documents/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa%20%d7%...
+[13:34:13] [39/40] OK   0p 0o 0f 0r 0ro  (7.24s)
+[13:34:13]           file: gesher__documents-d7-a8-d7-a9-d7-99-d7-9e-d7-aa-20-d7-a4-d7-a8-d7-95-d7-99-d7-99-d7-a7-d__96708c3a.md  [gesher__documentsרשימת פרוייק-d__96708c3a.md]
+[13:34:13]           url:  https://gesherfilmfund.org.il/documents/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa%20%d7%...
+[13:34:13] [40/40] OK   0p 0o 0f 0r 0ro  (7.54s)
+[13:34:13]           file: gesher__documents-d7-a8-d7-a9-d7-99-d7-9e-d7-aa-20-d7-a4-d7-a8-d7-95-d7-99-d7-99-d7-a7-d__d4cb2f4e.md  [gesher__documentsרשימת פרוייק-d__d4cb2f4e.md]
+[13:34:13]           url:  https://gesherfilmfund.org.il/documents/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa%20%d7%...
+[13:34:13] ======================================================================
+[13:34:13] DONE in 0.4min
+[13:34:13]   ok:           39
+[13:34:13]   filtered:     1
+[13:34:13]   empty:        0
+[13:34:13]   load_error:   0
+[13:34:13]   llm_error:    0
+[13:34:13] Tokens: 170,025 in / 106,552 out  |  Cost: $0.0596
+[13:34:13] Calls: 38  |  Errors: 0  |  JSON retries: 0
+[13:34:13] Output: out/gesher/mentions.jsonl
+[13:34:13] Summary:  out/gesher/run_summary.json
+=== Run ended 2026-05-16T13:34:13.811769 ===

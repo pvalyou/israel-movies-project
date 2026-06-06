@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/הנערה-הזאת/",
+  "stable_id": "makor__films__18205196",
+  "fetched_at": "2026-05-09T12:51:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:51:59Z",
+  "duration_ms": 15082,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f8df8a3d2224f89ba82f159089b7b4d910d0c947ceeb63d24afe5efaf5960cb",
+  "md_bytes": 2643,
+  "links_found": 3,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/השבת-השחורה/",
+  "stable_id": "makor__films__65499fd9",
+  "fetched_at": "2026-05-09T13:26:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:26:06Z",
+  "duration_ms": 7407,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9d8d19516e0635ac41105681abf5f07b5de234223b2daa008e63ffe270ab619f",
+  "md_bytes": 3158,
+  "links_found": 4,
+  "files_found": 0
+}

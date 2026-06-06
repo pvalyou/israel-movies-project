@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-עמק-סופי-ארטוס-סינמטק-תל-אביב-5/",
+  "stable_id": "nfct__events-event--------------5__744289b1",
+  "fetched_at": "2026-05-10T06:11:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:11:38Z",
+  "duration_ms": 37571,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a4a22b1242cc7e1886f81eb5fa2b903b98eb8decf49edb70335ab39fef5a9589",
+  "md_bytes": 12722,
+  "links_found": 28,
+  "files_found": 0
+}

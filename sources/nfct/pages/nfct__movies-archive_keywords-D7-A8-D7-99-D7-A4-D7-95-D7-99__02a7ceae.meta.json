@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive/?keywords=%D7%A8%D7%99%D7%A4%D7%95%D7%99#UAMainContent",
+  "stable_id": "nfct__movies-archive_keywords-D7-A8-D7-99-D7-A4-D7-95-D7-99__02a7ceae",
+  "fetched_at": "2026-05-16T14:28:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:28:07Z",
+  "duration_ms": 6652,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8fa3a6a2150b7ee422613eb557649032fed25c115d51411c696abc30cf18dba1",
+  "md_bytes": 15052,
+  "links_found": 92,
+  "files_found": 0
+}

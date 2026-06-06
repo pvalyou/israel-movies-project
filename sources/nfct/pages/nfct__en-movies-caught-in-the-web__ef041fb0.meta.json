@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/caught-in-the-web/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-caught-in-the-web__ef041fb0",
+  "fetched_at": "2026-05-16T15:49:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:49:09Z",
+  "duration_ms": 6292,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:47dcd08da901b7d01ac43ba2123a20352673a6e3cdd24f829510fbcb4c61eb1b",
+  "md_bytes": 12745,
+  "links_found": 38,
+  "files_found": 0
+}

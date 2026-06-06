@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/aliza/?lang=en",
+  "stable_id": "makor__films-aliza_lang-en__2e1dbd2a",
+  "fetched_at": "2026-05-09T12:47:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:47:40Z",
+  "duration_ms": 19744,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b4a83f80ca446b6b3fa24b21ab13662f5162bdc95530c821857dcf03588af0e1",
+  "md_bytes": 1828,
+  "links_found": 4,
+  "files_found": 0
+}

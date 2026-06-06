@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חם/",
+  "stable_id": "makor__films__e77c89e0",
+  "fetched_at": "2026-05-09T13:29:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:29:25Z",
+  "duration_ms": 14261,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:20a326a9de5ba477eece979e5ccf3d51536834c27aff9977af8a29f48c65efea",
+  "md_bytes": 2842,
+  "links_found": 4,
+  "files_found": 0
+}

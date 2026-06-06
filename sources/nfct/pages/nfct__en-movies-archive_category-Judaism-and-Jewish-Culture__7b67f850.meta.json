@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Judaism+and+Jewish+Culture",
+  "stable_id": "nfct__en-movies-archive_category-Judaism-and-Jewish-Culture__7b67f850",
+  "fetched_at": "2026-05-16T07:19:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:19:25Z",
+  "duration_ms": 7474,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53268b7ef6ef81a740d7e8dd82fea01a2826d99154f0ae05875c7f183620216a",
+  "md_bytes": 16868,
+  "links_found": 82,
+  "files_found": 0
+}

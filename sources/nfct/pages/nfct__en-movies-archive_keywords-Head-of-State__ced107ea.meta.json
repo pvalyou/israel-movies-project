@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Head+of+State",
+  "stable_id": "nfct__en-movies-archive_keywords-Head-of-State__ced107ea",
+  "fetched_at": "2026-05-16T15:51:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:55Z",
+  "duration_ms": 7078,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f4b7d209b5e486b9a30643c782754c2c9aeea7262ef30cac4a8d28dbc718780b",
+  "md_bytes": 10766,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/nfct-submission/nfct-studentsub/",
+  "stable_id": "nfct__nfct-submission-nfct-studentsub__0fc4fa85",
+  "fetched_at": "2026-05-09T15:19:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:19:13Z",
+  "duration_ms": 42182,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d8c444b229797389a2db6802d47927de7ccc94d52989cf6ade3155cb661c9a5",
+  "md_bytes": 9335,
+  "links_found": 19,
+  "files_found": 0
+}

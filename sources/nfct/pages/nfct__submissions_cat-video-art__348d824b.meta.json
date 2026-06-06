@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/submissions/?cat=video-art#UAMainContent",
+  "stable_id": "nfct__submissions_cat-video-art__348d824b",
+  "fetched_at": "2026-05-15T19:22:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T19:22:41Z",
+  "duration_ms": 6587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e68db5319ea6423d293eec2c8ecf4f023483b00a228a9010a0db4d28577bfa65",
+  "md_bytes": 6558,
+  "links_found": 20,
+  "files_found": 0
+}

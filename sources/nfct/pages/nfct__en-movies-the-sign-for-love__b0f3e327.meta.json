@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-sign-for-love/",
+  "stable_id": "nfct__en-movies-the-sign-for-love__b0f3e327",
+  "fetched_at": "2026-05-12T00:51:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:51:49Z",
+  "duration_ms": 13854,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae4c67ca65668943d5462b2535c8e469605cc1815bf23f796ebe30110299b75b",
+  "md_bytes": 11862,
+  "links_found": 27,
+  "files_found": 0
+}

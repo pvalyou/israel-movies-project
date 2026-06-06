@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הסרט-אני-לא-תומר-הימן-קולנוע-לב-13/",
+  "stable_id": "nfct__events-event----------------13__85fe1e09",
+  "fetched_at": "2026-05-09T22:37:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:37:43Z",
+  "duration_ms": 22163,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f78f551a5a634ccc53f2f17d488c2935cfa6ea68a39643538fd62982d60d4215",
+  "md_bytes": 11328,
+  "links_found": 21,
+  "files_found": 0
+}

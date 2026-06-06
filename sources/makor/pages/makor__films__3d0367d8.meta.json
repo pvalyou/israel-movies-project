@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ערות/",
+  "stable_id": "makor__films__3d0367d8",
+  "fetched_at": "2026-05-09T13:03:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:09Z",
+  "duration_ms": 6285,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92ec4fed74d58ccb326ca41d1abb7ed87294a98f171c761a21be41b9af2f39c3",
+  "md_bytes": 4997,
+  "links_found": 4,
+  "files_found": 0
+}

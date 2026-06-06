@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/two-kids-a-day/",
+  "stable_id": "nfct__en-movies-two-kids-a-day__6d926aeb",
+  "fetched_at": "2026-05-11T17:43:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:43:07Z",
+  "duration_ms": 36949,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34ca467444393956fde1156e452a19e21249b43d2c49f6795a85efddacb56812",
+  "md_bytes": 14448,
+  "links_found": 40,
+  "files_found": 0
+}

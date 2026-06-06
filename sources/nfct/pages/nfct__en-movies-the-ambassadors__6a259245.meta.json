@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-ambassadors/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-ambassadors__6a259245",
+  "fetched_at": "2026-05-16T04:30:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:30:27Z",
+  "duration_ms": 13900,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7a8e5d906d6e8a120cf134065227139cd4192b80ea3e42cbd337d2aa4c8f8009",
+  "md_bytes": 14244,
+  "links_found": 38,
+  "files_found": 0
+}

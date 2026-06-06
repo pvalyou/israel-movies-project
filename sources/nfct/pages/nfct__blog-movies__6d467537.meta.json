@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הָיֹה-הָיָה-מלך/",
+  "stable_id": "nfct__blog-movies__6d467537",
+  "fetched_at": "2026-05-09T22:10:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:10:25Z",
+  "duration_ms": 68341,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c2e17f30b6678be5d410e8e9a4db2f4e4c3cbfa96dabdfeb6e438d8ebbaec98",
+  "md_bytes": 20321,
+  "links_found": 36,
+  "files_found": 0
+}

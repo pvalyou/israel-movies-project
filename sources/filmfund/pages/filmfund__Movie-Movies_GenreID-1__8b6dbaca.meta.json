@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfund.org.il/Movie/Movies?GenreID=1",
+  "stable_id": "filmfund__Movie-Movies_GenreID-1__8b6dbaca",
+  "fetched_at": "2026-05-09T10:58:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:58:06Z",
+  "duration_ms": 18066,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:854e105d4df1a556d67c9b230adafad3909ab11f4f4343b9061efce09667b4c0",
+  "md_bytes": 16140,
+  "links_found": 36,
+  "files_found": 0
+}

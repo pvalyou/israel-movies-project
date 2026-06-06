@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eitan+Cunio",
+  "stable_id": "nfct__en-movies-archive_keywords-Eitan-Cunio__c866bc03",
+  "fetched_at": "2026-05-16T20:12:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:10Z",
+  "duration_ms": 10340,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:50213f08fb53abf46b96409f70f3885d33d35b5a1de88a2704d02b77bdfe4ca9",
+  "md_bytes": 10064,
+  "links_found": 68,
+  "files_found": 0
+}

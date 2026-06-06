@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=ceremony",
+  "stable_id": "nfct__en-movies-archive_keywords-ceremony__bf044394",
+  "fetched_at": "2026-05-16T06:09:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:09:43Z",
+  "duration_ms": 8879,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0af4cf19e98008894ebafae2face28d38b7d14d4cb12eabbd314e07fe2093450",
+  "md_bytes": 14435,
+  "links_found": 78,
+  "files_found": 0
+}

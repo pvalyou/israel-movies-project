@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nazi+commanders",
+  "stable_id": "nfct__en-movies-archive_keywords-Nazi-commanders__be3dc61d",
+  "fetched_at": "2026-05-16T08:51:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:51:42Z",
+  "duration_ms": 7590,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da4542b070268e171ddedd11579ba0830ac246c0fe8b8e0c54b04f683e9bca49",
+  "md_bytes": 9881,
+  "links_found": 67,
+  "files_found": 0
+}

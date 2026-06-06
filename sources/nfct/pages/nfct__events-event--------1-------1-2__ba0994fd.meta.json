@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-שליחי-האל-פרק-1-איציק-לרנר-ערוץ-1-2/",
+  "stable_id": "nfct__events-event--------1-------1-2__ba0994fd",
+  "fetched_at": "2026-05-10T07:05:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T07:05:42Z",
+  "duration_ms": 32742,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9420b649fd9626388f9e27ad2fb905fe2077d41ff0300ef5cbb660586f419af",
+  "md_bytes": 16919,
+  "links_found": 26,
+  "files_found": 0
+}

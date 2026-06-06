@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Weil%20Bloch",
+  "stable_id": "nfct__en-movies-archive_keywords-Weil-20Bloch__17f39f80",
+  "fetched_at": "2026-05-16T12:33:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:16Z",
+  "duration_ms": 7887,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c96be57a84b98e19be917029bae26c7128c7d903a40f41733ee3b1623201c73e",
+  "md_bytes": 10177,
+  "links_found": 69,
+  "files_found": 0
+}

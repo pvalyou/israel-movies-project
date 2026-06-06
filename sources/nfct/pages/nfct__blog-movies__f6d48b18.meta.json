@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סגר/",
+  "stable_id": "nfct__blog-movies__f6d48b18",
+  "fetched_at": "2026-05-09T21:58:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:58:13Z",
+  "duration_ms": 28575,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f9bab3675860496e23b04b6ed920969b739e5f37d77e47fe5d94a567fa28ebc",
+  "md_bytes": 15853,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/docutext10/",
+  "stable_id": "nfct__blog-docutext10__fe4c46f2",
+  "fetched_at": "2026-05-09T15:26:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:26:02Z",
+  "duration_ms": 2031,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5ff97b39d715aa1469049d642517cb66dbbe764703fcf3cbc73346fb8bef6e43",
+  "md_bytes": 784,
+  "links_found": 0,
+  "files_found": 0
+}

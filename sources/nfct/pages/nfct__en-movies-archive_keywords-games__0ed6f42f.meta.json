@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=games",
+  "stable_id": "nfct__en-movies-archive_keywords-games__0ed6f42f",
+  "fetched_at": "2026-05-16T17:46:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:46:22Z",
+  "duration_ms": 10059,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d11bfd1e577968f72ce09fd0464d20a6cdcabcf339b7b2eabc87335a637d768c",
+  "md_bytes": 13021,
+  "links_found": 74,
+  "files_found": 0
+}

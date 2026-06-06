@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/הקרוואן-האחרון/",
+  "stable_id": "makor__films__1dcbcac3",
+  "fetched_at": "2026-05-09T13:26:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:26:12Z",
+  "duration_ms": 11852,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1e33b10a891b685b3dacdb6d97d361de59918d2d8c1cb5f361eac91a2a99415",
+  "md_bytes": 2927,
+  "links_found": 4,
+  "files_found": 0
+}

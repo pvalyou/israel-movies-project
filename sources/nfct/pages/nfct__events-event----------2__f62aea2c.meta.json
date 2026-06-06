@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הגלויה-האחרונה-סילבן-ביגלאייז-2/",
+  "stable_id": "nfct__events-event----------2__f62aea2c",
+  "fetched_at": "2026-05-10T06:31:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:31:03Z",
+  "duration_ms": 17296,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d84c8cf289c8321562eeb7a6766e9322b3e1042d6166af4848daeff98fa4a6ea",
+  "md_bytes": 11304,
+  "links_found": 22,
+  "files_found": 0
+}

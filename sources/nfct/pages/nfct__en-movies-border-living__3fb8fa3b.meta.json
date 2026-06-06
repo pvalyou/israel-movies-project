@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/border-living/",
+  "stable_id": "nfct__en-movies-border-living__3fb8fa3b",
+  "fetched_at": "2026-05-15T09:47:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:47:44Z",
+  "duration_ms": 11199,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c97ba0bcd3290a8a7e043b695c6c45df3426a6e8dfea7593b96e0f1a0ef265cc",
+  "md_bytes": 13204,
+  "links_found": 39,
+  "files_found": 0
+}

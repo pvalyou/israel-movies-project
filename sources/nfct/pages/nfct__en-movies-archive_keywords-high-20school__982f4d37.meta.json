@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=high%20school",
+  "stable_id": "nfct__en-movies-archive_keywords-high-20school__982f4d37",
+  "fetched_at": "2026-05-16T07:49:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:49:43Z",
+  "duration_ms": 11113,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:019fef93ce0ddc4458b76073144a3c167f6b3683b3a76b371d95b902b4412ae6",
+  "md_bytes": 12887,
+  "links_found": 75,
+  "files_found": 0
+}

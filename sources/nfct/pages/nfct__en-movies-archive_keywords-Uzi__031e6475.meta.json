@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Uzi",
+  "stable_id": "nfct__en-movies-archive_keywords-Uzi__031e6475",
+  "fetched_at": "2026-05-16T08:32:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:32:53Z",
+  "duration_ms": 6913,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:28f9d71f40d468c8211d5548f01e98ce47794667aa1e0fb7ded8c8e8a33c9625",
+  "md_bytes": 11061,
+  "links_found": 70,
+  "files_found": 0
+}

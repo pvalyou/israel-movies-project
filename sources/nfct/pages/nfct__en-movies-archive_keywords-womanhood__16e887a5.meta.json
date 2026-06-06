@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=womanhood",
+  "stable_id": "nfct__en-movies-archive_keywords-womanhood__16e887a5",
+  "fetched_at": "2026-05-16T17:32:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:32:20Z",
+  "duration_ms": 7925,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ae5a35c6e75977595a85648209eae30fe73551a2a30f1a79a9439248b5d36f3",
+  "md_bytes": 10825,
+  "links_found": 70,
+  "files_found": 0
+}

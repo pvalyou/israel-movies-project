@@ -1,0 +1,73 @@
+
+=== Run started 2026-05-15T11:29:49.923597 ===
+[11:29:49] Source: guidestar
+[11:29:49] Pages dir: sources/guidestar/pages
+[11:29:49] Output dir: out/guidestar
+[11:29:49] Total .md pages found: 18  |  Already done: 0  |  To process: 18
+[11:29:49] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:29:49] [1/18] EMPTY_CONTENT: 
+[11:29:49]           file: guidestar__admin__73017961.md
+[11:29:49]           url:  http://www.guidestar.org.il/admin
+[11:29:49] [2/18] EMPTY_CONTENT: 
+[11:29:49]           file: guidestar__admin__908ceedc.md
+[11:29:49]           url:  https://www.guidestar.org.il/admin
+[11:29:51] [3/18] OK   0p 1o 0f 0r 0ro  (1.07s)
+[11:29:51]           file: guidestar__organization-580035756-people__ebbea2ad.md
+[11:29:51]           url:  https://www.guidestar.org.il/organization/580035756/people
+[11:29:51] [4/18] OK   0p 3o 0f 0r 0ro  (1.41s)
+[11:29:51]           file: guidestar__organization-580151033-financial__2bf31c99.md
+[11:29:51]           url:  https://www.guidestar.org.il/organization/580151033/financial
+[11:29:51] [5/18] OK   0p 3o 0f 0r 0ro  (1.48s)
+[11:29:51]           file: guidestar__organization-580358190-financial__373922d9.md
+[11:29:51]           url:  https://www.guidestar.org.il/organization/580358190/financial
+[11:29:51] [6/18] OK   0p 2o 0f 0r 0ro  (1.49s)
+[11:29:51]           file: guidestar__authorized-people__819b4533.md
+[11:29:51]           url:  https://www.guidestar.org.il/authorized-people
+[11:29:51] [7/18] OK   0p 3o 0f 0r 0ro  (1.53s)
+[11:29:51]           file: guidestar__organization-580035756-financial__60909e80.md
+[11:29:51]           url:  https://www.guidestar.org.il/organization/580035756/financial
+[11:29:51] [8/18] OK   0p 3o 0f 0r 0ro  (1.64s)
+[11:29:51]           file: guidestar__organization-580234870-financial__4e326b27.md
+[11:29:51]           url:  https://www.guidestar.org.il/organization/580234870/financial
+[11:29:51] [9/18] OK   0p 3o 0f 0r 0ro  (1.67s)
+[11:29:51]           file: guidestar__organization-580151033-people__97d9b544.md
+[11:29:51]           url:  https://www.guidestar.org.il/organization/580151033/people
+[11:29:52] [10/18] OK   0p 3o 0f 2r 0ro  (2.11s)
+[11:29:52]           file: guidestar__organization-580234870__5b9b6283.md
+[11:29:52]           url:  https://www.guidestar.org.il/organization/580234870
+[11:29:52] [11/18] OK   0p 3o 0f 2r 0ro  (2.34s)
+[11:29:52]           file: guidestar__organization-580035756__4763b5fe.md
+[11:29:52]           url:  https://www.guidestar.org.il/organization/580035756
+[11:29:52] [12/18] OK   0p 3o 0f 4r 0ro  (2.67s)
+[11:29:52]           file: guidestar__organization-580151033__d69f8ced.md
+[11:29:52]           url:  https://www.guidestar.org.il/organization/580151033
+[11:29:52] [13/18] OK   0p 3o 0f 1r 0ro  (1.8s)
+[11:29:52]           file: guidestar__organization-580358190__0ea1e6fa.md
+[11:29:52]           url:  https://www.guidestar.org.il/organization/580358190
+[11:29:53] [14/18] OK   0p 12o 0f 0r 0ro  (3.16s)
+[11:29:53]           file: guidestar__organization-580234870-people__09718882.md
+[11:29:53]           url:  https://www.guidestar.org.il/organization/580234870/people
+[11:29:54] [15/18] OK   1p 3o 0f 2r 2ro  (2.79s) [TRUNC]
+[11:29:54]           file: guidestar__page-admin-userguide__fa2ea6e1.md
+[11:29:54]           url:  https://www.guidestar.org.il/page/admin-userguide
+[11:29:54] [16/18] OK   2p 3o 0f 3r 3ro  (3.03s)
+[11:29:54]           file: guidestar__page-add-user__51fa86f3.md
+[11:29:54]           url:  https://www.guidestar.org.il/page/add-user
+[11:29:55] [17/18] OK   0p 16o 0f 0r 0ro  (5.44s)
+[11:29:55]           file: guidestar__organization-580358190-people__763de621.md
+[11:29:55]           url:  https://www.guidestar.org.il/organization/580358190/people
+[11:29:56] [18/18] OK   0p 18o 0f 0r 0ro  (4.9s) [TRUNC]
+[11:29:56]           file: guidestar__search-hekdeshot__5b7d37ea.md
+[11:29:56]           url:  https://www.guidestar.org.il/search-hekdeshot
+[11:29:56] ======================================================================
+[11:29:56] DONE in 0.1min
+[11:29:56]   ok:           16
+[11:29:56]   filtered:     0
+[11:29:56]   empty:        2
+[11:29:56]   load_error:   0
+[11:29:56]   llm_error:    0
+[11:29:56] Tokens: 44,910 in / 14,239 out  |  Cost: $0.0102
+[11:29:56] Calls: 16  |  Errors: 0  |  JSON retries: 0
+[11:29:56] Output: out/guidestar/mentions.jsonl
+[11:29:56] Summary:  out/guidestar/run_summary.json
+=== Run ended 2026-05-15T11:29:56.358631 ===

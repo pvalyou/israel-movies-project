@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Six%20Days%20War",
+  "stable_id": "nfct__en-movies-archive_keywords-Six-20Days-20War__3a1a6369",
+  "fetched_at": "2026-05-16T16:34:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:01Z",
+  "duration_ms": 9462,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb52d707b311029ece4aca91c61f702178824ea2755ae2f92ef7e9639f3726ed",
+  "md_bytes": 10049,
+  "links_found": 68,
+  "files_found": 0
+}

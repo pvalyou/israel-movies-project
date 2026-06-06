@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/בובות-נייר/",
+  "stable_id": "makor__films__f6de1e32",
+  "fetched_at": "2026-05-09T13:08:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:15Z",
+  "duration_ms": 11138,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1843dc5441a78cbe5bfdbc2f1403b88b32edbd973e4b0f2edcb1ffe979d2bff7",
+  "md_bytes": 3414,
+  "links_found": 4,
+  "files_found": 0
+}

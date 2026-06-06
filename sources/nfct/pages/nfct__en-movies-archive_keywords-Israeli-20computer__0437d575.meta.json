@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20computer",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20computer__0437d575",
+  "fetched_at": "2026-05-16T08:29:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:29:58Z",
+  "duration_ms": 6202,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4290c6ac1a81a8aee406ce42bfde8e563d3115a3ad6027020f962f5063d57cbe",
+  "md_bytes": 10971,
+  "links_found": 70,
+  "files_found": 0
+}

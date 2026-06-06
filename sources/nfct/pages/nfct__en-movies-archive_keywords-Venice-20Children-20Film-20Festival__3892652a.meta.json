@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Venice%20Children%20Film%20Festival",
+  "stable_id": "nfct__en-movies-archive_keywords-Venice-20Children-20Film-20Festival__3892652a",
+  "fetched_at": "2026-05-16T14:12:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:12:59Z",
+  "duration_ms": 9808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6bafd0147fd4d5bbc65592c8c7fe8778eebc08462157b6770d5bb175ec9a1ac6",
+  "md_bytes": 10261,
+  "links_found": 68,
+  "files_found": 0
+}

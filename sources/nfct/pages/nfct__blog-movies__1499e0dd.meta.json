@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דרושה-בדחיפות-מילה-חדשה/",
+  "stable_id": "nfct__blog-movies__1499e0dd",
+  "fetched_at": "2026-05-09T19:19:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:19:20Z",
+  "duration_ms": 8615,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f7094373e609241c9ee2cad69d7cc0e077e7ddb2dc9074051fa0517e02ad019",
+  "md_bytes": 13563,
+  "links_found": 28,
+  "files_found": 0
+}

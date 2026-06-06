@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rabbi+Fruman",
+  "stable_id": "nfct__en-movies-archive_keywords-Rabbi-Fruman__b6e09e62",
+  "fetched_at": "2026-05-16T16:17:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:17:26Z",
+  "duration_ms": 7088,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a5719c5654377499649eeb2b0d11c5723a323a3fd2ebc9dac979687bc9bf78d8",
+  "md_bytes": 10272,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/פופ-איסלאם/",
+  "stable_id": "nfct__movies__172828fa",
+  "fetched_at": "2026-05-16T03:18:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:18:34Z",
+  "duration_ms": 7116,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c69d636c5c0534a8fe6f617878fd16130e41b83bc00787dbef5749d43eb7a659",
+  "md_bytes": 8026,
+  "links_found": 21,
+  "files_found": 0
+}

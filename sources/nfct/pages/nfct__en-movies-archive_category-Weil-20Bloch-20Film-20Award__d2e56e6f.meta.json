@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Weil%20Bloch%20Film%20Award",
+  "stable_id": "nfct__en-movies-archive_category-Weil-20Bloch-20Film-20Award__d2e56e6f",
+  "fetched_at": "2026-05-15T21:31:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:31:15Z",
+  "duration_ms": 6784,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:28bb7cc507eadd839ce939f1509091414df8772f82cb7058b65776d75483d2c8",
+  "md_bytes": 12299,
+  "links_found": 75,
+  "files_found": 0
+}

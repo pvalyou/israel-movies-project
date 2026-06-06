@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films_cat/animation/?lang=en",
+  "stable_id": "makor__films_cat-animation_lang-en__6c7f6f99",
+  "fetched_at": "2026-05-09T12:46:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:10Z",
+  "duration_ms": 26462,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c7f09fb0ba10cd7da485065db6c499ce5d2b4c3c883ef39b3baea771b2072c8",
+  "md_bytes": 1272,
+  "links_found": 5,
+  "files_found": 0
+}

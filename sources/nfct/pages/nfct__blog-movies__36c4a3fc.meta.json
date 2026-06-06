@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אינת-עומרי/",
+  "stable_id": "nfct__blog-movies__36c4a3fc",
+  "fetched_at": "2026-05-09T17:09:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:09:25Z",
+  "duration_ms": 20971,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7e0efd69afadcf956c2ca5bed6f16cc330c487fdb0137892dcd31de9cc8e2e1c",
+  "md_bytes": 15645,
+  "links_found": 28,
+  "files_found": 0
+}

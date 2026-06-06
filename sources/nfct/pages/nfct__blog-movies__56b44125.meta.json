@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הספה/",
+  "stable_id": "nfct__blog-movies__56b44125",
+  "fetched_at": "2026-05-09T19:23:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:23:21Z",
+  "duration_ms": 8498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e02e0d07cc4225b321863f154f2895a938fa0de633b2c8f8a422e3465206bbaa",
+  "md_bytes": 19046,
+  "links_found": 45,
+  "files_found": 0
+}

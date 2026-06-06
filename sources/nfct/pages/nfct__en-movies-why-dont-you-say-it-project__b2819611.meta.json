@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/why-dont-you-say-it-project/",
+  "stable_id": "nfct__en-movies-why-dont-you-say-it-project__b2819611",
+  "fetched_at": "2026-05-12T02:43:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:43:05Z",
+  "duration_ms": 8401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e82e532a3e548e947d1c45405382c1c6711b06606d688bb448d1792fce331bda",
+  "md_bytes": 14033,
+  "links_found": 40,
+  "files_found": 0
+}

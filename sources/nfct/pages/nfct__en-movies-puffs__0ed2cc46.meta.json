@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/puffs/",
+  "stable_id": "nfct__en-movies-puffs__0ed2cc46",
+  "fetched_at": "2026-05-11T14:33:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:33:14Z",
+  "duration_ms": 20942,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ca8eecbd0bab4350eb44774926c22dd0516b5316115076dbba961daab41fa93",
+  "md_bytes": 13704,
+  "links_found": 40,
+  "files_found": 0
+}

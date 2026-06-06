@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Common%20Ground",
+  "stable_id": "nfct__en-movies-archive_keywords-Common-20Ground__44e9f2cd",
+  "fetched_at": "2026-05-16T11:23:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:23:40Z",
+  "duration_ms": 13964,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:055cfb7b800cf5891b22ca423affb2d7f88545a9340ac9ba3fd1783f62e83610",
+  "md_bytes": 9986,
+  "links_found": 68,
+  "files_found": 0
+}

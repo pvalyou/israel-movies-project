@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zvi+Elpeleg",
+  "stable_id": "nfct__en-movies-archive_keywords-Zvi-Elpeleg__be898c18",
+  "fetched_at": "2026-05-16T20:31:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:29Z",
+  "duration_ms": 8266,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4fa5fff32bcb75a79b5243effe59ca7e488710d29e157b1f448a405de2564aae",
+  "md_bytes": 10192,
+  "links_found": 68,
+  "files_found": 0
+}

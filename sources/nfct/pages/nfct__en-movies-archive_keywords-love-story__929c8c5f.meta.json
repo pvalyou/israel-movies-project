@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=love+story",
+  "stable_id": "nfct__en-movies-archive_keywords-love-story__929c8c5f",
+  "fetched_at": "2026-05-16T04:53:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:53:22Z",
+  "duration_ms": 8123,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7ca9decfc809e772c811c5e9f312be34e852cc85638c15260772c9d5303aa1fc",
+  "md_bytes": 16858,
+  "links_found": 82,
+  "files_found": 0
+}

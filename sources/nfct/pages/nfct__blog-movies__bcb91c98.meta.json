@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ויהי-ערב-ויהי-בוקר-יום-אחד/",
+  "stable_id": "nfct__blog-movies__bcb91c98",
+  "fetched_at": "2026-05-09T22:14:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:14:16Z",
+  "duration_ms": 73358,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4190350588fe8bc5da03e2254fb4c86a24bf1c7e2544cbbccad050301a9b6f66",
+  "md_bytes": 17407,
+  "links_found": 38,
+  "files_found": 0
+}

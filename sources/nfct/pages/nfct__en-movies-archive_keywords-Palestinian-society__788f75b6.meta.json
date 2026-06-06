@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian+society",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-society__788f75b6",
+  "fetched_at": "2026-05-16T05:26:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:26:38Z",
+  "duration_ms": 7144,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:61471c22958b93a1451851a6f2bedba248e0b3507c3498c6b0ac41bc15724002",
+  "md_bytes": 14773,
+  "links_found": 79,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bachelorette+party",
+  "stable_id": "nfct__en-movies-archive_keywords-bachelorette-party__a1136c8c",
+  "fetched_at": "2026-05-16T13:45:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:45:32Z",
+  "duration_ms": 8338,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:282458a5ee62d6b2015dd33c51e4d1cb0c0d0f28d695d95ac173e873c894e0e8",
+  "md_bytes": 10305,
+  "links_found": 68,
+  "files_found": 0
+}

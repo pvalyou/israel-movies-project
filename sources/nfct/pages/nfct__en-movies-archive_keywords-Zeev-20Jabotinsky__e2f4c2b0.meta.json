@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zeev%20Jabotinsky",
+  "stable_id": "nfct__en-movies-archive_keywords-Zeev-20Jabotinsky__e2f4c2b0",
+  "fetched_at": "2026-05-16T15:44:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:44:54Z",
+  "duration_ms": 9136,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ea01accb9dee846153753bb01562ef766afefb20e321dc4cb5d7d2380389959b",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

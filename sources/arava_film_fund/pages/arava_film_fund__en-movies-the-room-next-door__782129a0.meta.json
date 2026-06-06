@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-room-next-door/",
+  "stable_id": "arava_film_fund__en-movies-the-room-next-door__782129a0",
+  "fetched_at": "2026-05-08T09:40:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:40:09Z",
+  "duration_ms": 8017,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bdb6fe94d4ef537ad96445f40c76d14e27ede763e7a20fcdcccb0b4fc2b6961f",
+  "md_bytes": 3370,
+  "links_found": 9,
+  "files_found": 0
+}

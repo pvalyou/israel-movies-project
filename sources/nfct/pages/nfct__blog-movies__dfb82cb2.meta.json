@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סיפור-כיסוי/",
+  "stable_id": "nfct__blog-movies__dfb82cb2",
+  "fetched_at": "2026-05-09T21:45:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:45:02Z",
+  "duration_ms": 8100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:33ab65063d4777ef7dbe8bdb77405d84b8f0e95e1099af8795efa364fccfd6c8",
+  "md_bytes": 14766,
+  "links_found": 30,
+  "files_found": 0
+}

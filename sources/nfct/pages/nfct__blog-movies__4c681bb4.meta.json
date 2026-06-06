@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ירית-פעם-במישהו/",
+  "stable_id": "nfct__blog-movies__4c681bb4",
+  "fetched_at": "2026-05-09T17:42:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:42:11Z",
+  "duration_ms": 43363,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:26766752208ec6ff1c3e239b86d932d6797bea1c5b819dd8a5482fc62c9789e4",
+  "md_bytes": 19433,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=pain",
+  "stable_id": "nfct__en-movies-archive_keywords-pain__b4ce96c0",
+  "fetched_at": "2026-05-16T04:36:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:36:50Z",
+  "duration_ms": 11556,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:677b023f4b7ce9ce6d05e7c7407490cdb7b1f21d4e91f79f9b3b8a50d439e054",
+  "md_bytes": 17509,
+  "links_found": 82,
+  "files_found": 0
+}

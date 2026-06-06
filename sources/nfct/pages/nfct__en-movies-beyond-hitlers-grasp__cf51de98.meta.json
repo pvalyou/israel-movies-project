@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/beyond-hitlers-grasp/",
+  "stable_id": "nfct__en-movies-beyond-hitlers-grasp__cf51de98",
+  "fetched_at": "2026-05-12T03:44:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:44:45Z",
+  "duration_ms": 21608,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0b8993f0774342e3d23f97b6d57d11d6809a2efc3cac7ad03ea27d053a93056e",
+  "md_bytes": 13836,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מנליק-נסיך-יהודי-שחור/",
+  "stable_id": "nfct__blog-movies__a3bd7e5a",
+  "fetched_at": "2026-05-09T21:10:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:10:13Z",
+  "duration_ms": 20648,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:20768442759710bf83928433c1b7e487d99d93171a037f46857c7d9ea347b161",
+  "md_bytes": 18487,
+  "links_found": 40,
+  "files_found": 0
+}

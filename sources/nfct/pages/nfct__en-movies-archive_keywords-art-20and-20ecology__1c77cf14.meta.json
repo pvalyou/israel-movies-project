@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=art%20and%20ecology",
+  "stable_id": "nfct__en-movies-archive_keywords-art-20and-20ecology__1c77cf14",
+  "fetched_at": "2026-05-16T11:00:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:00:23Z",
+  "duration_ms": 7676,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec90879e977ab10da98d78052af5d3617458fdecf6b1706921cc33b142525245",
+  "md_bytes": 10405,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=illegal+work",
+  "stable_id": "nfct__en-movies-archive_keywords-illegal-work__0c820084",
+  "fetched_at": "2026-05-16T04:31:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:31:57Z",
+  "duration_ms": 6710,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9496128d72eb8a45c8e26dfa6b9fde0d3ec1c5cbc78ab0b41c711cc1a5bc73b0",
+  "md_bytes": 11663,
+  "links_found": 72,
+  "files_found": 0
+}

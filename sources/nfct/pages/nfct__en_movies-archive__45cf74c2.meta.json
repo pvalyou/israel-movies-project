@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Young+Adults",
+  "stable_id": "nfct__en_movies-archive__45cf74c2",
+  "fetched_at": "2026-05-18T21:29:18.630904+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=Young+Adults",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "abe3fb3d18381344877e194a30917c00aeab061286a589762be4a239681323f2",
+  "md_bytes": 9201,
+  "links_found": 0,
+  "error": ""
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Finland",
+  "stable_id": "nfct__en-movies-archive_keywords-Finland__41398237",
+  "fetched_at": "2026-05-16T20:18:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:24Z",
+  "duration_ms": 7954,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c7bdcd7faea47471d519e8e04c8db5ea2660a60bd5afce3c022fc63069e1519",
+  "md_bytes": 10262,
+  "links_found": 68,
+  "files_found": 0
+}

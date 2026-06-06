@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fledge/",
+  "stable_id": "nfct__en-movies-fledge__692cae7a",
+  "fetched_at": "2026-05-11T19:41:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:41:29Z",
+  "duration_ms": 26901,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:431bace4fb2c8098b99e264e8bbef53125cd87d52b9b775aac42a6af736abc68",
+  "md_bytes": 15279,
+  "links_found": 48,
+  "files_found": 0
+}

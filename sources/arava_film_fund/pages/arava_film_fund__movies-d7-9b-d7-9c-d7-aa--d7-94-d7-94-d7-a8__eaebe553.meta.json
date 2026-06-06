@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/movies/%d7%9b%d7%9c%d7%aa-%d7%94%d7%94%d7%a8/",
+  "stable_id": "arava_film_fund__movies-d7-9b-d7-9c-d7-aa--d7-94-d7-94-d7-a8__eaebe553",
+  "fetched_at": "2026-05-08T09:38:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:38:03Z",
+  "duration_ms": 15987,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7bec70e0c949fe2ec2513172b5dc06c7783015b63715e794b6ebd9061a8f2ead",
+  "md_bytes": 4398,
+  "links_found": 8,
+  "files_found": 0
+}

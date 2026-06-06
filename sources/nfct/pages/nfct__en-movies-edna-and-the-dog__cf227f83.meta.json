@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/edna-and-the-dog/",
+  "stable_id": "nfct__en-movies-edna-and-the-dog__cf227f83",
+  "fetched_at": "2026-05-11T11:39:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:39:38Z",
+  "duration_ms": 9169,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b719386fbdf8d116d6c5f8443546da0c3f03388678bce488cbb2689c08beead6",
+  "md_bytes": 12696,
+  "links_found": 36,
+  "files_found": 0
+}

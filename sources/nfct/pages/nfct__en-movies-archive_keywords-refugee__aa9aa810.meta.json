@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=refugee",
+  "stable_id": "nfct__en-movies-archive_keywords-refugee__aa9aa810",
+  "fetched_at": "2026-05-16T10:10:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:53Z",
+  "duration_ms": 7342,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:123496aecf450a75900eabe196283e817cef255b7202bae7db4c2b5139966ca9",
+  "md_bytes": 16541,
+  "links_found": 82,
+  "files_found": 0
+}

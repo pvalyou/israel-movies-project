@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Take%20Over",
+  "stable_id": "nfct__en-movies-archive_keywords-Take-20Over__a10146fb",
+  "fetched_at": "2026-05-16T15:31:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:24Z",
+  "duration_ms": 6661,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f9a28c141625d85c99f961669387e855edd4ecf2614c3c37959c95a7e2d55200",
+  "md_bytes": 16232,
+  "links_found": 82,
+  "files_found": 0
+}

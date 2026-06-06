@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יהלומים-וחלודה-רוחה-של-נמיביה/",
+  "stable_id": "nfct__blog-movies__19e79be8",
+  "fetched_at": "2026-05-09T17:44:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:44:16Z",
+  "duration_ms": 22760,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:857ef4ace5b39e948ef7dff40b706ae61179c3bd802c0cedb2b5a2fb8681c5f0",
+  "md_bytes": 18418,
+  "links_found": 35,
+  "files_found": 0
+}

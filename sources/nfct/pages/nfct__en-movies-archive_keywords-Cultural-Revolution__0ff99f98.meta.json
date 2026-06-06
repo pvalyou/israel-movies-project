@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cultural+Revolution",
+  "stable_id": "nfct__en-movies-archive_keywords-Cultural-Revolution__0ff99f98",
+  "fetched_at": "2026-05-16T12:58:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:58:03Z",
+  "duration_ms": 12897,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:581bc35d97cdb547ca076329543aa66022824128f8c161b000df4c1d92b9c807",
+  "md_bytes": 10807,
+  "links_found": 69,
+  "files_found": 0
+}

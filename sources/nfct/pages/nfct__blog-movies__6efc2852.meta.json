@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קרוב-רחוק/",
+  "stable_id": "nfct__blog-movies__6efc2852",
+  "fetched_at": "2026-05-09T20:40:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:40:43Z",
+  "duration_ms": 21293,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:80fd2e1695b077b83541afe7ab630f3d5f8f88ac4de330863be4859919735c40",
+  "md_bytes": 23242,
+  "links_found": 60,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://intl.filmfund.org.il/ContactUs",
+  "stable_id": "filmfund__ContactUs__a98e3c6c",
+  "fetched_at": "2026-05-09T10:56:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:56:18Z",
+  "duration_ms": 4259,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ecaad33fa2310345df481ab1478faf2b79072e52b783f559df1e1003861529b2",
+  "md_bytes": 4870,
+  "links_found": 6,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/team-members/אוראל-טורנר/",
+  "stable_id": "nfct__blog-team-members__dd131f49",
+  "fetched_at": "2026-05-09T16:51:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:51:45Z",
+  "duration_ms": 62991,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:148a0d0ed4bfa13c8c14bc6a6403e47eaa747ea66c4c3f81db82bb8441f503e8",
+  "md_bytes": 11514,
+  "links_found": 26,
+  "files_found": 0
+}

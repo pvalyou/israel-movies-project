@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yamin%20Masika",
+  "stable_id": "nfct__en-movies-archive_keywords-Yamin-20Masika__c6a4eff0",
+  "fetched_at": "2026-05-16T12:57:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:57:51Z",
+  "duration_ms": 10851,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05e464b13ff5e0e6405b0df98e52f42c96aec25344d12de01b13b3079140b420",
+  "md_bytes": 10269,
+  "links_found": 68,
+  "files_found": 0
+}

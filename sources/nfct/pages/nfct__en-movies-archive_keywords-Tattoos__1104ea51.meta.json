@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tattoos",
+  "stable_id": "nfct__en-movies-archive_keywords-Tattoos__1104ea51",
+  "fetched_at": "2026-05-16T13:07:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:07:29Z",
+  "duration_ms": 10782,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:acbd94321a1f7ab81feacd0cb3b6675e0319ec3d66b5725aada865fa914efce1",
+  "md_bytes": 11315,
+  "links_found": 70,
+  "files_found": 0
+}

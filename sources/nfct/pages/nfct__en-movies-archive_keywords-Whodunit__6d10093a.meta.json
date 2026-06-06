@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Whodunit",
+  "stable_id": "nfct__en-movies-archive_keywords-Whodunit__6d10093a",
+  "fetched_at": "2026-05-16T12:36:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:36:42Z",
+  "duration_ms": 9995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9ac33130566b9c3158b45c884ad32f965dbbb6c1ed17c73f7c8f27b8fe6f601",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

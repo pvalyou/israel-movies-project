@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/יומני-המגפה/",
+  "stable_id": "makor__films__e3f783e4",
+  "fetched_at": "2026-05-09T12:57:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:57:33Z",
+  "duration_ms": 9511,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b79995a03403ab917e2db491892366c26eccecacf477ff051698add28669657f",
+  "md_bytes": 4115,
+  "links_found": 4,
+  "files_found": 0
+}

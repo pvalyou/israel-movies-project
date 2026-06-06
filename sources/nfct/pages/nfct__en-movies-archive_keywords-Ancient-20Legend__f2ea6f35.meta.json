@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ancient%20Legend",
+  "stable_id": "nfct__en-movies-archive_keywords-Ancient-20Legend__f2ea6f35",
+  "fetched_at": "2026-05-16T13:21:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:21:05Z",
+  "duration_ms": 10398,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:40a26dd129401f343ecf8fff3a94522c08fde0f73fb368bc9e5d35a2da30c7e6",
+  "md_bytes": 10008,
+  "links_found": 68,
+  "files_found": 0
+}

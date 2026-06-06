@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מערבון-בהר-חברון/",
+  "stable_id": "nfct__blog-movies__d5475b1d",
+  "fetched_at": "2026-05-09T21:54:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:54:56Z",
+  "duration_ms": 8109,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:25cba5b8ebf94e61520df8e1e7e543106df576917a25c439a173bc903c080b2e",
+  "md_bytes": 17452,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=border%20patrol",
+  "stable_id": "nfct__en-movies-archive_keywords-border-20patrol__ea20f385",
+  "fetched_at": "2026-05-16T10:36:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:36:59Z",
+  "duration_ms": 7249,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e7738911f30ce21ac60345bc2ebb9395e692d81a495e6348ad0e621bab348d8f",
+  "md_bytes": 10716,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=coming+out",
+  "stable_id": "nfct__en-movies-archive_keywords-coming-out__55747fe1",
+  "fetched_at": "2026-05-16T13:35:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:35:46Z",
+  "duration_ms": 8151,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:533ec06a0cefcdfe10b0edbdcc553ce3439c20da9b267bbaee0d3a088429e6e7",
+  "md_bytes": 15969,
+  "links_found": 82,
+  "files_found": 0
+}

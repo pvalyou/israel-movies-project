@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films-cat/",
+  "stable_id": "makor__films-cat__7498dd69",
+  "fetched_at": "2026-05-09T12:45:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:45:07Z",
+  "duration_ms": 7306,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1fed9481ceeeec2bfca82ec2c246c61f7d9d295d14ac74c61b8fc1e0ddaa794b",
+  "md_bytes": 32963,
+  "links_found": 101,
+  "files_found": 0
+}

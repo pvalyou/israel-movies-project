@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rock%20Home",
+  "stable_id": "nfct__en-movies-archive_keywords-Rock-20Home__b03ffccd",
+  "fetched_at": "2026-05-16T16:03:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:03:35Z",
+  "duration_ms": 10933,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bd6eb0e39f8a88d036323fab7a6811d05a6e89b4e3e10d713b937b7be260c1c4",
+  "md_bytes": 10488,
+  "links_found": 69,
+  "files_found": 0
+}

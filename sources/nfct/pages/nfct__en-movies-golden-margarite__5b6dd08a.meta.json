@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/golden-margarite/",
+  "stable_id": "nfct__en-movies-golden-margarite__5b6dd08a",
+  "fetched_at": "2026-05-11T18:56:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:56:34Z",
+  "duration_ms": 13991,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08b32496652a38dda8f0b08896dc4f6eb7dc97603a72cc339aed2c667eb8e7eb",
+  "md_bytes": 11408,
+  "links_found": 32,
+  "files_found": 0
+}

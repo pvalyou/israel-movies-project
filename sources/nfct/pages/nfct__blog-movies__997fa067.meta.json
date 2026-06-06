@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תרז-ואני/",
+  "stable_id": "nfct__blog-movies__997fa067",
+  "fetched_at": "2026-05-09T19:14:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:14:28Z",
+  "duration_ms": 36385,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ed829aec6eb0ba54b08017b834d390a8a565f1d54e594e538ce0490be2ed8e5",
+  "md_bytes": 17992,
+  "links_found": 36,
+  "files_found": 0
+}

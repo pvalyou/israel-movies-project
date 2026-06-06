@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פעם-אחת-ואלף-לא-מספיק/",
+  "stable_id": "nfct__blog-movies__3f6da181",
+  "fetched_at": "2026-05-09T21:13:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:13:55Z",
+  "duration_ms": 26490,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:230adb3a99a224c05d66fcdc0c3eab4dbe9a1d955b89f7ea6f2e002ebdecbe0e",
+  "md_bytes": 16106,
+  "links_found": 34,
+  "files_found": 0
+}

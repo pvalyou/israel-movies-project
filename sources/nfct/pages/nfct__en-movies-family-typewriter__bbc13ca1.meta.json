@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/family-typewriter/#UArexazDFN",
+  "stable_id": "nfct__en-movies-family-typewriter__bbc13ca1",
+  "fetched_at": "2026-05-16T16:27:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:27:18Z",
+  "duration_ms": 5707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a509d89bbda7c3951f84277797141868ed01c686cd036c33b97233c47f23cf5",
+  "md_bytes": 12848,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=brothers",
+  "stable_id": "nfct__en-movies-archive_keywords-brothers__f0f87510",
+  "fetched_at": "2026-05-16T09:36:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:36:20Z",
+  "duration_ms": 11324,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed23c7dc66527a0e53d4808b3bcf8fbc4d92f4da99fbcc9c4781bfed1e26c670",
+  "md_bytes": 15449,
+  "links_found": 82,
+  "files_found": 0
+}

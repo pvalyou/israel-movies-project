@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=betrayal",
+  "stable_id": "nfct__en-movies-archive_keywords-betrayal__13a662f3",
+  "fetched_at": "2026-05-16T12:30:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:42Z",
+  "duration_ms": 8808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5ecd24b4d595f3e76be0a442347d1bb18083fa048d0d34b8847643a0571efba3",
+  "md_bytes": 11130,
+  "links_found": 71,
+  "files_found": 0
+}

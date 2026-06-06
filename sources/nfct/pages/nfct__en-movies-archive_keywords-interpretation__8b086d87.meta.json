@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=interpretation",
+  "stable_id": "nfct__en-movies-archive_keywords-interpretation__8b086d87",
+  "fetched_at": "2026-05-16T16:58:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:50Z",
+  "duration_ms": 7482,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:79a1d78f34c997b5725ab3d0f2e8406835b505f99e4d22e90cc4b44a7b3793e0",
+  "md_bytes": 13299,
+  "links_found": 74,
+  "files_found": 0
+}

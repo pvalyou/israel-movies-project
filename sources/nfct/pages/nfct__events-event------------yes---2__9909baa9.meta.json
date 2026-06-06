@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-ואלס-עם-באשיר-ארי-פולמן-yes-דוקו-2/",
+  "stable_id": "nfct__events-event------------yes---2__9909baa9",
+  "fetched_at": "2026-05-10T05:53:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T05:53:50Z",
+  "duration_ms": 11505,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a2a0a81e0247d9d230a925050d7fcec9652719209d597bdc155b2f8998e49642",
+  "md_bytes": 10338,
+  "links_found": 21,
+  "files_found": 0
+}

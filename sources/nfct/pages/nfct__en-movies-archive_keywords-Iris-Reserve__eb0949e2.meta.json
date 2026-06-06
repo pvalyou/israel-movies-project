@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Iris+Reserve",
+  "stable_id": "nfct__en-movies-archive_keywords-Iris-Reserve__eb0949e2",
+  "fetched_at": "2026-05-16T13:09:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:09:06Z",
+  "duration_ms": 11017,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f4bcb5b580ec3dbb077603c6e317a989bb9b84c28f535e0927e84167d50901d6",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

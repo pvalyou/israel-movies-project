@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=orphanage",
+  "stable_id": "nfct__en-movies-archive_keywords-orphanage__43bbfe11",
+  "fetched_at": "2026-05-16T07:39:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:39:08Z",
+  "duration_ms": 6433,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08ad4a72ab7fab17ecbe5334c41c354d56d4ec39d78b6fce18fd024b1b9075b3",
+  "md_bytes": 10280,
+  "links_found": 69,
+  "files_found": 0
+}

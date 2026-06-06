@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=wind",
+  "stable_id": "nfct__en-movies-archive_keywords-wind__7315323d",
+  "fetched_at": "2026-05-16T15:13:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:13:10Z",
+  "duration_ms": 8992,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3eaa848bbadf086c31e5ee01fab5de2714f208fcd1d050f24b900852a8fcbf6a",
+  "md_bytes": 16253,
+  "links_found": 82,
+  "files_found": 0
+}

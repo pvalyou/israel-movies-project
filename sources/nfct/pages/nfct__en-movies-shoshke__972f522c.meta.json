@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shoshke/#UAMainContent",
+  "stable_id": "nfct__en-movies-shoshke__972f522c",
+  "fetched_at": "2026-05-16T14:25:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:25:29Z",
+  "duration_ms": 6573,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8681ecb1a573a3986cf50a23d0cfcaf9d8c14f9752ac134e5648ea5c739df908",
+  "md_bytes": 12487,
+  "links_found": 36,
+  "files_found": 0
+}

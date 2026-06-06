@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=science%20fiction",
+  "stable_id": "nfct__en-movies-archive_keywords-science-20fiction__d8f72f00",
+  "fetched_at": "2026-05-16T04:48:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:48:50Z",
+  "duration_ms": 7972,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f5d22b333c5b1a2324bde98a7ec36eaf2124edf49d03372f7b1e14e7849874e1",
+  "md_bytes": 10024,
+  "links_found": 68,
+  "files_found": 0
+}

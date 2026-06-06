@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/יש-לי-פרויקט-בשלב-פיתוחהפקה-הנדרש-לציל/",
+  "stable_id": "nfct__blog__5be4f661",
+  "fetched_at": "2026-05-09T16:25:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:25:58Z",
+  "duration_ms": 32894,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb54e68f0e811de5d04912897fb0590fdb898d4dc5027037b674e84b84fce515",
+  "md_bytes": 12175,
+  "links_found": 26,
+  "files_found": 0
+}

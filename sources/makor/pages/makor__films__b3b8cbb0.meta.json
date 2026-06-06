@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חנדה-חנדה/",
+  "stable_id": "makor__films__b3b8cbb0",
+  "fetched_at": "2026-05-09T12:59:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:34Z",
+  "duration_ms": 19765,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df50cd1621ab42c13649cd0c344fe1c567a46b035b7bec73e5f1e4df0fd6bf8f",
+  "md_bytes": 2644,
+  "links_found": 4,
+  "files_found": 0
+}

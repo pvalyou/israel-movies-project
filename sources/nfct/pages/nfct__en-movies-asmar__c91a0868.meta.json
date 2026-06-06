@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/asmar/#UAMainContent",
+  "stable_id": "nfct__en-movies-asmar__c91a0868",
+  "fetched_at": "2026-05-16T11:06:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:06:12Z",
+  "duration_ms": 16355,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ee4f6d2555e54d94aadb78114684e19b25745ef4addd28df52074b54dc71917c",
+  "md_bytes": 12559,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-her-footsteps-%D9%88%D9%8E%D8%B1%D8%A7%D8%A1%D9%83%D9%90/",
+  "stable_id": "nfct__en-movies-in-her-footsteps--D9-88-D9-8E-D8-B1-D8-A7-D8-A1-D9-83-D9-90__8ee8a50d",
+  "fetched_at": "2026-05-12T00:45:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:45:09Z",
+  "duration_ms": 28102,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:48a4e7717752b4db32f42aec15370ee2ddc793e662f8b470ba63cc5d763a4743",
+  "md_bytes": 14576,
+  "links_found": 39,
+  "files_found": 0
+}

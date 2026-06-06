@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/youth/?lang=en",
+  "stable_id": "makor__films-youth_lang-en__6fbe5b22",
+  "fetched_at": "2026-05-09T12:55:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:55:22Z",
+  "duration_ms": 10950,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d34661826617402cdcd0dacf25a937b32f464321d821e397246f60ae1bb6efef",
+  "md_bytes": 2220,
+  "links_found": 4,
+  "files_found": 0
+}

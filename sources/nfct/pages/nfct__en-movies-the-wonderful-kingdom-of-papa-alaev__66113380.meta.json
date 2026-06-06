@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-wonderful-kingdom-of-papa-alaev/",
+  "stable_id": "nfct__en-movies-the-wonderful-kingdom-of-papa-alaev__66113380",
+  "fetched_at": "2026-05-12T01:00:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:00:14Z",
+  "duration_ms": 33414,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7be162ccda5caf4818e2f98ffdc2696f9c4ac91628e6559ecd32c031850ea136",
+  "md_bytes": 14367,
+  "links_found": 31,
+  "files_found": 0
+}

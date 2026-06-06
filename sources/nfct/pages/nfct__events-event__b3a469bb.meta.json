@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-עיר-מקלט-אביקם-קובנר-סינמטק-תל-א/",
+  "stable_id": "nfct__events-event__b3a469bb",
+  "fetched_at": "2026-05-15T09:10:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:10:42Z",
+  "duration_ms": 8913,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:25c72f310a59a3d2627e8a37805da9a9d1dc685fd306cf2a303d3cf282cdef47",
+  "md_bytes": 10607,
+  "links_found": 22,
+  "files_found": 0
+}

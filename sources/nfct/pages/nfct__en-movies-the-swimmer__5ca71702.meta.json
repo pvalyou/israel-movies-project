@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-swimmer/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-swimmer__5ca71702",
+  "fetched_at": "2026-05-16T14:44:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:44:45Z",
+  "duration_ms": 8419,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:63dc4b370c88b1190fe2d0898b06e889b2c4754f113b9ef7503e74e5b0632c19",
+  "md_bytes": 12136,
+  "links_found": 34,
+  "files_found": 0
+}

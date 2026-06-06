@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/who-loves-the-sun/?lang=en",
+  "stable_id": "makor__films-who-loves-the-sun_lang-en__64f6a91b",
+  "fetched_at": "2026-05-09T13:15:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:27Z",
+  "duration_ms": 21214,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:95104d5a0d419e91ea67c3e6af44b55e0a1d5f4e950502799b685d87c926aa28",
+  "md_bytes": 1969,
+  "links_found": 4,
+  "files_found": 0
+}

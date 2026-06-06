@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-gospel-according-to-alain/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-gospel-according-to-alain__ce8f89f6",
+  "fetched_at": "2026-05-16T14:00:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:00:52Z",
+  "duration_ms": 7720,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc2dface25fdef4efdd71910aaa4b2973e3f84185039f2441c265f8a277e9918",
+  "md_bytes": 13684,
+  "links_found": 36,
+  "files_found": 0
+}

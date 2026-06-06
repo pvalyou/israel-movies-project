@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Krav%20Maga",
+  "stable_id": "nfct__en-movies-archive_keywords-Krav-20Maga__d07c4f66",
+  "fetched_at": "2026-05-16T05:56:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:56:00Z",
+  "duration_ms": 7017,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b4dbc901fb32d41b6d650e375ff9c6d3ccd8e3aa3b3070a3e27fb9450afb5289",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

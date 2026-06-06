@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/investors/#UAMainContent",
+  "stable_id": "nfct__investors__6f6ce41a",
+  "fetched_at": "2026-05-10T14:19:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T14:19:06Z",
+  "duration_ms": 24582,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b87d8b519cb4d17e9f70ed26bdd235be6b344cbc087257fb930b9e108842b54e",
+  "md_bytes": 18653,
+  "links_found": 25,
+  "files_found": 1
+}

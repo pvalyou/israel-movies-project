@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfund.org.il/Movie?movieId=61#movie_trailer",
+  "stable_id": "filmfund__Movie_movieId-61__5fbcdace",
+  "fetched_at": "2026-05-09T11:07:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:07:29Z",
+  "duration_ms": 9381,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52e0f31fd92686ebbc4d8a05fbaa08a55287905afc8b50a646c5b558cd09fe88",
+  "md_bytes": 8872,
+  "links_found": 11,
+  "files_found": 0
+}

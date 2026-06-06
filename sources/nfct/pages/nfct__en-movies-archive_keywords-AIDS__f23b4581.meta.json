@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=AIDS",
+  "stable_id": "nfct__en-movies-archive_keywords-AIDS__f23b4581",
+  "fetched_at": "2026-05-16T03:46:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:46:16Z",
+  "duration_ms": 5631,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4454ef796c273b617cdcffaaf5bab3ad6490a48907c5481224ffd22709300ba9",
+  "md_bytes": 11135,
+  "links_found": 70,
+  "files_found": 0
+}

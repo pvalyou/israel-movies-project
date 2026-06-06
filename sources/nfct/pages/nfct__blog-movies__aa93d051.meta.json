@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרוזדור/",
+  "stable_id": "nfct__blog-movies__aa93d051",
+  "fetched_at": "2026-05-09T21:17:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:17:03Z",
+  "duration_ms": 30645,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f9382898361dc71c26fcf6dab1270622df42c51725d47753c0ad191e971bd62a",
+  "md_bytes": 18436,
+  "links_found": 43,
+  "files_found": 0
+}

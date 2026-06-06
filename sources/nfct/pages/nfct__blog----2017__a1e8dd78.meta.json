@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/קצר-ובועט-2017/",
+  "stable_id": "nfct__blog----2017__a1e8dd78",
+  "fetched_at": "2026-05-09T16:20:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:20:08Z",
+  "duration_ms": 49303,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e62984f6a7aed18b07914a7f4376a10486ab0a5540c1c8fb77f136a4ab4e83ff",
+  "md_bytes": 10911,
+  "links_found": 21,
+  "files_found": 2
+}

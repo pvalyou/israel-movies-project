@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החדר-של-יעל/",
+  "stable_id": "nfct__blog-movies__0193d163",
+  "fetched_at": "2026-05-09T20:14:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:14:10Z",
+  "duration_ms": 14686,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fcacf44624bab27c67e68bb31fbe0fd057f863a7cfc09006d186ffe63d562ec0",
+  "md_bytes": 18472,
+  "links_found": 41,
+  "files_found": 0
+}

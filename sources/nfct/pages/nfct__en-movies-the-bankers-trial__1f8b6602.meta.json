@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-bankers-trial/",
+  "stable_id": "nfct__en-movies-the-bankers-trial__1f8b6602",
+  "fetched_at": "2026-05-11T17:30:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:30:51Z",
+  "duration_ms": 17001,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27040807d468fe0f24887d663fdef0b7a6dca55b146f3358e791b7bf20e4489c",
+  "md_bytes": 14406,
+  "links_found": 41,
+  "files_found": 0
+}

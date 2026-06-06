@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jews%20of%20Bulgaria",
+  "stable_id": "nfct__en-movies-archive_keywords-Jews-20of-20Bulgaria__e3726fd5",
+  "fetched_at": "2026-05-16T17:25:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:25:26Z",
+  "duration_ms": 17440,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fac9cd46068a74c829150c2b3a578b13104bb459cdc516c5c40a445ed6fbb617",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

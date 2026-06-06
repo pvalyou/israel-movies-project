@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-yard/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-the-yard__4f07e7d0",
+  "fetched_at": "2026-05-16T07:32:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:32:30Z",
+  "duration_ms": 6967,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5bdf65a02b8fce773ec6e90f70c913d37ac36a17fc614b7d630e00ab032bb3d6",
+  "md_bytes": 10984,
+  "links_found": 26,
+  "files_found": 0
+}

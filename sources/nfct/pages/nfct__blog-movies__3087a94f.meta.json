@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נאנדאורי/",
+  "stable_id": "nfct__blog-movies__3087a94f",
+  "fetched_at": "2026-05-09T19:20:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:20:39Z",
+  "duration_ms": 12590,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b78050348167e9b4d1253b554988b393bbc7164e34bb584b6ef4b331bdea34ff",
+  "md_bytes": 13024,
+  "links_found": 21,
+  "files_found": 0
+}

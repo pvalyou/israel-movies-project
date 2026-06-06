@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=quest",
+  "stable_id": "nfct__en-movies-archive_keywords-quest__8bf9c5b4",
+  "fetched_at": "2026-05-16T14:38:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:38:46Z",
+  "duration_ms": 6333,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:938df3cf4f703cb25c01ea05b3e82f29520ff7a03f7f51c7515f33ab7e3101ab",
+  "md_bytes": 17253,
+  "links_found": 82,
+  "files_found": 0
+}

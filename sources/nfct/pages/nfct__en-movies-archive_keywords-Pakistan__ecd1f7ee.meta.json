@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pakistan",
+  "stable_id": "nfct__en-movies-archive_keywords-Pakistan__ecd1f7ee",
+  "fetched_at": "2026-05-16T10:15:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:15:10Z",
+  "duration_ms": 9192,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:807ec060a9c6611ef50e114972383a8fc2fb4b7164358f7f757070c1dcecb5b2",
+  "md_bytes": 10208,
+  "links_found": 68,
+  "files_found": 0
+}

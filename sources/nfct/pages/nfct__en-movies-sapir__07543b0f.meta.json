@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sapir/#UAMainContent",
+  "stable_id": "nfct__en-movies-sapir__07543b0f",
+  "fetched_at": "2026-05-16T12:35:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:35:39Z",
+  "duration_ms": 15585,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8ca486ea6a76051f67d191a83f16eec6b1ce07b28a8a66754d0444d3a0a9511e",
+  "md_bytes": 14136,
+  "links_found": 43,
+  "files_found": 0
+}

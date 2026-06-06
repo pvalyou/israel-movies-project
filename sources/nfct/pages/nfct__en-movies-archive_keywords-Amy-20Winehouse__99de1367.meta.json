@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Amy%20Winehouse",
+  "stable_id": "nfct__en-movies-archive_keywords-Amy-20Winehouse__99de1367",
+  "fetched_at": "2026-05-16T04:53:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:53:26Z",
+  "duration_ms": 7104,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44eefa0e5f82a3808059111958aa440ce3cc6e59362e7392fcdab61e8c88719c",
+  "md_bytes": 10179,
+  "links_found": 68,
+  "files_found": 0
+}

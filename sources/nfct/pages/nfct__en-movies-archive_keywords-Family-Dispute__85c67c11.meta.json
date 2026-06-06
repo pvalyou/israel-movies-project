@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Family+Dispute",
+  "stable_id": "nfct__en-movies-archive_keywords-Family-Dispute__85c67c11",
+  "fetched_at": "2026-05-16T16:58:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:04Z",
+  "duration_ms": 7505,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:abbc18059cf2208ea2f21d682986d99caf182497cd07d55767ed52e68a8c3ba9",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/start-new-game/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-start-new-game__bdb2dc06",
+  "fetched_at": "2026-05-16T12:41:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:41:13Z",
+  "duration_ms": 8839,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05ba3ad3b298045001cc8728124843f3ed35ba0bb73d263b1ad14facd4a7ed48",
+  "md_bytes": 13675,
+  "links_found": 37,
+  "files_found": 0
+}

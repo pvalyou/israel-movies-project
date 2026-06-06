@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/weil-bloch-film-award/?lang=ar",
+  "stable_id": "nfct__weil-bloch-film-award_lang-ar__09109f91",
+  "fetched_at": "2026-05-15T09:26:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:26:35Z",
+  "duration_ms": 7908,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:afdb0f7c1d96f1b52fd51fb4fdfa4f690b1d46543285953050d06e19cc027ef7",
+  "md_bytes": 16933,
+  "links_found": 6,
+  "files_found": 0
+}

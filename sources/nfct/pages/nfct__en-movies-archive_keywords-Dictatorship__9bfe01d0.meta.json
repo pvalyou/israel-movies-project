@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dictatorship",
+  "stable_id": "nfct__en-movies-archive_keywords-Dictatorship__9bfe01d0",
+  "fetched_at": "2026-05-16T16:48:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:48:01Z",
+  "duration_ms": 6484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8e32a339fcb5e78c7c41893b4b1440438f2d1c2271f94cf51e40af3b2fbafd6c",
+  "md_bytes": 10011,
+  "links_found": 68,
+  "files_found": 0
+}

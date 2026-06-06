@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=App",
+  "stable_id": "nfct__en-movies-archive_keywords-App__7287dac7",
+  "fetched_at": "2026-05-16T14:02:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:02:34Z",
+  "duration_ms": 6895,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c97f8797b87934f823372e2242a6865ed98eb7a7965fe1b768e78fc1563c5d2",
+  "md_bytes": 16845,
+  "links_found": 82,
+  "files_found": 0
+}

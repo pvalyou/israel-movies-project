@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/children-of-peace/#UAMainContent",
+  "stable_id": "nfct__en-movies-children-of-peace__5a615332",
+  "fetched_at": "2026-05-16T14:48:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:48:46Z",
+  "duration_ms": 7514,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3801cff511eedc0393ea68f192c1e6bb00d4e1da5b923df1433a2430153c8a3b",
+  "md_bytes": 14779,
+  "links_found": 43,
+  "files_found": 0
+}

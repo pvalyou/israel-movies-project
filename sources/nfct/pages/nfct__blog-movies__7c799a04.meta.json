@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יותר-מאלף-מילים/",
+  "stable_id": "nfct__blog-movies__7c799a04",
+  "fetched_at": "2026-05-09T17:50:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:50:07Z",
+  "duration_ms": 33264,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da0971eae2b0ff5dd492421a5f9872cca588c7db3dc4fc06e383eec45c97677d",
+  "md_bytes": 21137,
+  "links_found": 37,
+  "files_found": 0
+}

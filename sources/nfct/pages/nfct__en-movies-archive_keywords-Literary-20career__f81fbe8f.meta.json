@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Literary%20career",
+  "stable_id": "nfct__en-movies-archive_keywords-Literary-20career__f81fbe8f",
+  "fetched_at": "2026-05-16T14:58:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:58:43Z",
+  "duration_ms": 8055,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90517747ef0014af7ee0258d1ec22975612d45769b904f458f55c33befd30509",
+  "md_bytes": 10107,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bialik",
+  "stable_id": "nfct__en-movies-archive_keywords-Bialik__a3d5db5a",
+  "fetched_at": "2026-05-16T15:03:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:03:35Z",
+  "duration_ms": 10995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98a4f8f7d74186eb3f2aa4bf7201bb4914b388e390de0702d03de8cc6d2aebff",
+  "md_bytes": 10291,
+  "links_found": 69,
+  "files_found": 0
+}

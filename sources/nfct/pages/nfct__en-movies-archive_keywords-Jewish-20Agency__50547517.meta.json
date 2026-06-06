@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish%20Agency",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-20Agency__50547517",
+  "fetched_at": "2026-05-16T05:22:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:22:19Z",
+  "duration_ms": 8759,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8ef58658a5c1666d8148d7369af168ab74e94cfbd28457de776436c557eb5c66",
+  "md_bytes": 10893,
+  "links_found": 71,
+  "files_found": 0
+}

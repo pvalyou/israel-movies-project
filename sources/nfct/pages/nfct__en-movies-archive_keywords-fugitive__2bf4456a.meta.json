@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fugitive",
+  "stable_id": "nfct__en-movies-archive_keywords-fugitive__2bf4456a",
+  "fetched_at": "2026-05-16T16:37:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:37:39Z",
+  "duration_ms": 8224,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c9c5af0b46fb3cb3dce34015a4d6d6d43bd979147e48e20c59efda65e70c9dc",
+  "md_bytes": 10518,
+  "links_found": 69,
+  "files_found": 0
+}

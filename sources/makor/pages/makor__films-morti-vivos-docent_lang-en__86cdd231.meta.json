@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/morti-vivos-docent/?lang=en",
+  "stable_id": "makor__films-morti-vivos-docent_lang-en__86cdd231",
+  "fetched_at": "2026-05-09T12:50:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:50:21Z",
+  "duration_ms": 8494,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:540eec198b9a8040d5dd8792f66032259befd55996cb0811a7a2020de8ce7f32",
+  "md_bytes": 2179,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/wheres-my-stuff/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-wheres-my-stuff__ee9ffdd8",
+  "fetched_at": "2026-05-16T13:23:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:23:29Z",
+  "duration_ms": 12866,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7a16bf846d82fdd3ca15bd3bad77c91bf08c4a60524d112d6fee68930d872230",
+  "md_bytes": 13254,
+  "links_found": 32,
+  "files_found": 0
+}

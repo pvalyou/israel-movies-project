@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=photography",
+  "stable_id": "nfct__en-movies-archive_keywords-photography__f0758230",
+  "fetched_at": "2026-05-16T10:11:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:11:20Z",
+  "duration_ms": 9734,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53a32e059a063444b91727b8fd5e4a06d2f1a90a7c793d1ac58625ab2cf88153",
+  "md_bytes": 10510,
+  "links_found": 69,
+  "files_found": 0
+}

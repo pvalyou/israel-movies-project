@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/מועדי-הגשה/",
+  "stable_id": "nfct__blog-specials__d5698315",
+  "fetched_at": "2026-05-09T18:07:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:07:03Z",
+  "duration_ms": 23121,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1894c57d82118f33f7ffd231ed9f07ff5650f4aec1a9ac5b20a131948ce560b",
+  "md_bytes": 9745,
+  "links_found": 21,
+  "files_found": 0
+}

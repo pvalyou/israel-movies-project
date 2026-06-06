@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=psychology",
+  "stable_id": "nfct__en-movies-archive_keywords-psychology__d5454e59",
+  "fetched_at": "2026-05-16T15:42:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:42:14Z",
+  "duration_ms": 9479,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b433465323b5a337d3e231c8d369c1703b771e9f58a08e5451936eeeda8df8f",
+  "md_bytes": 10113,
+  "links_found": 68,
+  "files_found": 0
+}

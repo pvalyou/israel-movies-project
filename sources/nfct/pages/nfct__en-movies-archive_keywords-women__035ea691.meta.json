@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=women",
+  "stable_id": "nfct__en-movies-archive_keywords-women__035ea691",
+  "fetched_at": "2026-05-16T20:58:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:58:55Z",
+  "duration_ms": 9523,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f95ef08f1174b0a2edaca4cd91471a3156e486b77ea1e9c6d25e541073d12ac5",
+  "md_bytes": 16416,
+  "links_found": 82,
+  "files_found": 0
+}

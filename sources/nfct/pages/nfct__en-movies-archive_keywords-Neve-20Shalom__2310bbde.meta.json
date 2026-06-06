@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Neve%20Shalom",
+  "stable_id": "nfct__en-movies-archive_keywords-Neve-20Shalom__2310bbde",
+  "fetched_at": "2026-05-16T15:11:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:11:45Z",
+  "duration_ms": 11388,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e695a88c70c13ff366da3b6af3ea217bfcf9c6a89156f77e019bf782944d993e",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

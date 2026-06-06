@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Epidemic",
+  "stable_id": "nfct__en-movies-archive_keywords-Epidemic__6f63ecb5",
+  "fetched_at": "2026-05-16T12:40:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:40:16Z",
+  "duration_ms": 14498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a76dff0585af4044ae46011193eb05a83b76cfde70201246225d9c9fe8de8426",
+  "md_bytes": 10882,
+  "links_found": 69,
+  "files_found": 0
+}

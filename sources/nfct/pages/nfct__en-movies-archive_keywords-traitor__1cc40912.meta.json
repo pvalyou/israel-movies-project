@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=traitor",
+  "stable_id": "nfct__en-movies-archive_keywords-traitor__1cc40912",
+  "fetched_at": "2026-05-16T15:34:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:34:32Z",
+  "duration_ms": 8586,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:562d01f53c028a1b33544fa30aea0ac67745f94cd29a63d5c3b53514e28d82bf",
+  "md_bytes": 11210,
+  "links_found": 71,
+  "files_found": 0
+}

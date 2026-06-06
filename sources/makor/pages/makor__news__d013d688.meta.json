@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/news/",
+  "stable_id": "makor__news__d013d688",
+  "fetched_at": "2026-05-09T12:02:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:02:54Z",
+  "duration_ms": 57319,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c03ec92e34bbdb81beb7bf1e68be3afa83c33f53107dbe73bc9d4c33d8d289ee",
+  "md_bytes": 741371,
+  "links_found": 406,
+  "files_found": 4
+}

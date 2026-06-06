@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dead%20Sea",
+  "stable_id": "nfct__en-movies-archive_keywords-Dead-20Sea__dc789114",
+  "fetched_at": "2026-05-16T15:04:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:04:31Z",
+  "duration_ms": 9873,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4b8425fdde86544beee22e6020c24030f1efaf940737ef5aadc638dbbcc0474",
+  "md_bytes": 12598,
+  "links_found": 73,
+  "files_found": 0
+}

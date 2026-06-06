@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=domestic+violence",
+  "stable_id": "nfct__en-movies-archive_keywords-domestic-violence__2710f564",
+  "fetched_at": "2026-05-16T05:40:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:40:16Z",
+  "duration_ms": 11703,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:139d49a35cdd83d040f28c986d987674255a1f55c69f69da5d676504c9abeb84",
+  "md_bytes": 10532,
+  "links_found": 70,
+  "files_found": 0
+}

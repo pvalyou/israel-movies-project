@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=parenting",
+  "stable_id": "nfct__en-movies-archive_keywords-parenting__39dad2fb",
+  "fetched_at": "2026-05-16T12:55:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:55:35Z",
+  "duration_ms": 12719,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b549638b59eef3b97a1da757046b46a67d5d9e1451334ab7ac27d4e6d168dae",
+  "md_bytes": 11567,
+  "links_found": 72,
+  "files_found": 0
+}

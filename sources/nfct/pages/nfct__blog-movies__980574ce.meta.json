@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מגידו/",
+  "stable_id": "nfct__blog-movies__980574ce",
+  "fetched_at": "2026-05-09T21:33:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:33:24Z",
+  "duration_ms": 31895,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc4d8b5c3cd08ac04106dc91bd4ff480288a0f515b2a7f06eb7bd4f0dff5b294",
+  "md_bytes": 16961,
+  "links_found": 38,
+  "files_found": 0
+}

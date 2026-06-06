@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mujahedin%20Halek",
+  "stable_id": "nfct__en-movies-archive_keywords-Mujahedin-20Halek__982a20db",
+  "fetched_at": "2026-05-16T09:03:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:03:51Z",
+  "duration_ms": 7778,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3367beb135aa402b517a41668f73d51a497f178a7fcc55a90e9a539dd8ea664d",
+  "md_bytes": 10210,
+  "links_found": 68,
+  "files_found": 0
+}

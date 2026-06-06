@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/10-what-makes-a-hero/#UArexazDFN",
+  "stable_id": "nfct__en-movies-10-what-makes-a-hero__95785640",
+  "fetched_at": "2026-05-16T17:24:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:24:43Z",
+  "duration_ms": 11183,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffbb1cd49fbd338f6db0a8d856db6992110b73963f4f90c7630d5d9f20ada572",
+  "md_bytes": 14490,
+  "links_found": 26,
+  "files_found": 0
+}

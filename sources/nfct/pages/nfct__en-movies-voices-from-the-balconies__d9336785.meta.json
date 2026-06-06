@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/voices-from-the-balconies/",
+  "stable_id": "nfct__en-movies-voices-from-the-balconies__d9336785",
+  "fetched_at": "2026-05-15T15:27:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:27:57Z",
+  "duration_ms": 7676,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f19e4bd70b7dd2e4ee70cf7f7785e8267e5c79e71f3243ac114d2b9415153cde",
+  "md_bytes": 13978,
+  "links_found": 42,
+  "files_found": 0
+}

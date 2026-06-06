@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/made-in-israel-energy/",
+  "stable_id": "nfct__en-movies-made-in-israel-energy__9b3a548d",
+  "fetched_at": "2026-05-11T03:18:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:18:44Z",
+  "duration_ms": 19407,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfa7e25e87e95e1d6d7c0cd84260334a1e191ba9f59d5e4f7325735fff3c6e07",
+  "md_bytes": 13950,
+  "links_found": 35,
+  "files_found": 0
+}

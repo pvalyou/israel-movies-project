@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rosa+Robota",
+  "stable_id": "nfct__en-movies-archive_keywords-Rosa-Robota__920f6e21",
+  "fetched_at": "2026-05-16T14:47:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:47:00Z",
+  "duration_ms": 8566,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:081599befbcf528dcdb7084d144ddc19eb6421e5c550d28fbcba5b464d14c79c",
+  "md_bytes": 10171,
+  "links_found": 68,
+  "files_found": 0
+}

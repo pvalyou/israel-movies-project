@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Drawings",
+  "stable_id": "nfct__en-movies-archive_keywords-Drawings__044e0667",
+  "fetched_at": "2026-05-16T13:58:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:58:12Z",
+  "duration_ms": 12665,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8bd6a7d825cbe4ead3b9b36ae8dd539c82bbd8ac2ffe29322a58c3d9a25e813e",
+  "md_bytes": 11886,
+  "links_found": 71,
+  "files_found": 0
+}

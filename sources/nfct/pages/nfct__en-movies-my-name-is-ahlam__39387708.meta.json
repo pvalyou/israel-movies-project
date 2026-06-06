@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-name-is-ahlam/",
+  "stable_id": "nfct__en-movies-my-name-is-ahlam__39387708",
+  "fetched_at": "2026-05-11T04:57:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T04:57:16Z",
+  "duration_ms": 18186,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3305deb7b0d7997b46613dddec23570ac106b284e552fb1b4b0d8789aaba96f",
+  "md_bytes": 13988,
+  "links_found": 37,
+  "files_found": 0
+}

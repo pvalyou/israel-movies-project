@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-האם-זה-אתה-דני-מנקין-קרית-טבעון-3/",
+  "stable_id": "nfct__events-event----------------3__5f38a41a",
+  "fetched_at": "2026-05-10T13:51:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:51:12Z",
+  "duration_ms": 8291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ece06fbbd1d3c2dc62b9d95dbd227f87bac4cfd8bc30a103425a373d90763285",
+  "md_bytes": 10567,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שיר-למעלות/",
+  "stable_id": "nfct__blog-movies__72015a00",
+  "fetched_at": "2026-05-09T21:17:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:17:48Z",
+  "duration_ms": 31647,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef998c95ea5d5367990205e0cf0964d2b78b7f30c12e91eb4acebd0574aa9b62",
+  "md_bytes": 16803,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/old-decorations/",
+  "stable_id": "nfct__en-movies-old-decorations__13eb8045",
+  "fetched_at": "2026-05-11T13:04:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:04:11Z",
+  "duration_ms": 16483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:319aabf5da52731a5fb41ae3b59d0fd3bc4a33183c213cf65867771d8b1fc9e8",
+  "md_bytes": 13679,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=MC+Tamer",
+  "stable_id": "nfct__en-movies-archive_keywords-MC-Tamer__ae8bf07b",
+  "fetched_at": "2026-05-16T06:59:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:59:08Z",
+  "duration_ms": 8297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2ba5d4adc01443b6d46ca4878afe828bef9db3a04f140adf57a54380061a5fa",
+  "md_bytes": 10182,
+  "links_found": 68,
+  "files_found": 0
+}

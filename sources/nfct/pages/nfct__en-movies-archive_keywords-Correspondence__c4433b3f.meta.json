@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Correspondence",
+  "stable_id": "nfct__en-movies-archive_keywords-Correspondence__c4433b3f",
+  "fetched_at": "2026-05-16T13:33:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:33:43Z",
+  "duration_ms": 13507,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:40e65e631d86fa5b906b060648404035b2a053068ca2e663e1d296191f2d8d91",
+  "md_bytes": 10788,
+  "links_found": 69,
+  "files_found": 0
+}

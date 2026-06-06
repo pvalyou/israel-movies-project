@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sound-of-torture/",
+  "stable_id": "nfct__en-movies-sound-of-torture__c4aa9900",
+  "fetched_at": "2026-05-11T02:31:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:31:52Z",
+  "duration_ms": 19210,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fbbb824db4e60f76bd5493518fe2ac9f2ccbfe67c55a8cb8348fa5b8f99ffc8f",
+  "md_bytes": 14739,
+  "links_found": 34,
+  "files_found": 0
+}

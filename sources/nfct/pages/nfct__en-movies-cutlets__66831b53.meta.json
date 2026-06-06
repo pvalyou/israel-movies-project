@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cutlets/",
+  "stable_id": "nfct__en-movies-cutlets__66831b53",
+  "fetched_at": "2026-05-11T21:10:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:10:43Z",
+  "duration_ms": 37873,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cebfc75638664ac916ceacc1e24beb7214724081ef8cf6576584fc76c1fe01f9",
+  "md_bytes": 12858,
+  "links_found": 37,
+  "files_found": 0
+}

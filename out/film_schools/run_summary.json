@@ -1,0 +1,21 @@
+{
+  "source_name": "film_schools",
+  "run_date": "2026-05-18",
+  "elapsed_min": 0.21,
+  "pages_total": 6,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 6,
+  "status_counts": {
+    "ok": 6,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 28016,
+  "tokens_output": 16382,
+  "cost_usd": 0.0094,
+  "calls": 6,
+  "errors": 0,
+  "json_retries": 0
+}

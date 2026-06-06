@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=theater%20student",
+  "stable_id": "nfct__en-movies-archive_keywords-theater-20student__d7f733fb",
+  "fetched_at": "2026-05-16T11:32:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:32:05Z",
+  "duration_ms": 12313,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:653323997e61704b3e3a7c8b1951e4212008f0b001b830384ab7a36c6c93a536",
+  "md_bytes": 10155,
+  "links_found": 68,
+  "files_found": 0
+}

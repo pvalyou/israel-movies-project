@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Old%20Testament",
+  "stable_id": "nfct__en-movies-archive_keywords-Old-20Testament__290c5d4c",
+  "fetched_at": "2026-05-16T17:18:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:18:32Z",
+  "duration_ms": 8348,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a9d3b8ca65805169e998e5387a8cb6ca1991d12881bf253ed0c47d615a38fe92",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sultan%20Yacoub",
+  "stable_id": "nfct__en-movies-archive_keywords-Sultan-20Yacoub__666978af",
+  "fetched_at": "2026-05-16T07:47:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:47:24Z",
+  "duration_ms": 5580,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4816bf463659727437b34811bccab926fa2533d43d8d77cf2c440dfd472bd62",
+  "md_bytes": 10210,
+  "links_found": 68,
+  "files_found": 0
+}

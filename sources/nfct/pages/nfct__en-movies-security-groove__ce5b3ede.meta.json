@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/security-groove/",
+  "stable_id": "nfct__en-movies-security-groove__ce5b3ede",
+  "fetched_at": "2026-05-12T02:29:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:29:47Z",
+  "duration_ms": 11792,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9132d4d52c3f871c7801627b921e6fdeb87d3ae4d340eeb194ea8497fff1b67c",
+  "md_bytes": 11560,
+  "links_found": 27,
+  "files_found": 0
+}

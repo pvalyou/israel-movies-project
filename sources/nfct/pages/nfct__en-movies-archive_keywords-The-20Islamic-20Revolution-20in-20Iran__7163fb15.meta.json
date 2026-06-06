@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The%20Islamic%20Revolution%20in%20Iran",
+  "stable_id": "nfct__en-movies-archive_keywords-The-20Islamic-20Revolution-20in-20Iran__7163fb15",
+  "fetched_at": "2026-05-16T16:19:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:19:32Z",
+  "duration_ms": 6241,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:25eacbbb13ad1149e0e471832556c6746945834df9a7f05652165e180b4526fb",
+  "md_bytes": 9843,
+  "links_found": 67,
+  "files_found": 0
+}

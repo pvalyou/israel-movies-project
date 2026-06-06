@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אמא-ילדה/",
+  "stable_id": "nfct__blog-movies__f1bfe849",
+  "fetched_at": "2026-05-15T09:03:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:03:00Z",
+  "duration_ms": 10929,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb3fddd907af5785b5d982c97fb338cae87e69842d245cd4db18d05128d68f82",
+  "md_bytes": 17506,
+  "links_found": 34,
+  "files_found": 0
+}

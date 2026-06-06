@@ -1,0 +1,21 @@
+{
+  "source_name": "arava_film_fund",
+  "run_date": "2026-06-02",
+  "elapsed_min": 0.22,
+  "pages_total": 605,
+  "pages_already_done": 606,
+  "pages_processed_this_run": 1,
+  "status_counts": {
+    "ok": 1,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 2717,
+  "tokens_output": 3853,
+  "cost_usd": 0.0018,
+  "calls": 1,
+  "errors": 0,
+  "json_retries": 0
+}

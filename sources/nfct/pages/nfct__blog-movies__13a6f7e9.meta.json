@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שלושה-צלמים-בביצה/",
+  "stable_id": "nfct__blog-movies__13a6f7e9",
+  "fetched_at": "2026-05-09T19:08:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:08:51Z",
+  "duration_ms": 19914,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe7a6ffa1843b1d48cd96bb1528d2da933763b3afeb8141abb0c33a069b49239",
+  "md_bytes": 15937,
+  "links_found": 31,
+  "files_found": 0
+}

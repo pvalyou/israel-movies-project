@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-לא-לגעת-אפרת-רסנר-סינמטק-תל-אביב/",
+  "stable_id": "nfct__events-event__3af6d4b3",
+  "fetched_at": "2026-05-10T10:26:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T10:26:09Z",
+  "duration_ms": 17176,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:183511d43d7cbaf4108c2406eb4fba647a53b2d5072ffbad997e84f14c563499",
+  "md_bytes": 12784,
+  "links_found": 28,
+  "files_found": 0
+}

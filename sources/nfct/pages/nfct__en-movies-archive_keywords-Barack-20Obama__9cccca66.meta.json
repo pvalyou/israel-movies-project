@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Barack%20Obama",
+  "stable_id": "nfct__en-movies-archive_keywords-Barack-20Obama__9cccca66",
+  "fetched_at": "2026-05-16T14:14:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:30Z",
+  "duration_ms": 6815,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:30382dd7ce9d63441b5f50f0b9229aa707f259bb6471bc26e5f7fe2eccbb4a9d",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=envy",
+  "stable_id": "nfct__en-movies-archive_keywords-envy__4c34a5e9",
+  "fetched_at": "2026-05-16T10:19:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:19:47Z",
+  "duration_ms": 14104,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8fb72fc9f57d9325376a413a269ed29945d2a60ca28e6aec5ea0a647dac86203",
+  "md_bytes": 9783,
+  "links_found": 67,
+  "files_found": 0
+}

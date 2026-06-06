@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/black-gold-the-story-of-israeli-hip-hop/",
+  "stable_id": "nfct__en-movies-black-gold-the-story-of-israeli-hip-hop__9b65e80b",
+  "fetched_at": "2026-05-16T02:33:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T02:33:25Z",
+  "duration_ms": 5979,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:942e1e5b052c4f7e1fcbc759dd2bfb89999447e9c9341ebde084b29779ad942f",
+  "md_bytes": 8852,
+  "links_found": 17,
+  "files_found": 0
+}

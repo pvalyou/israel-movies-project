@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-childrens-house/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-the-childrens-house__29dfaf24",
+  "fetched_at": "2026-05-16T06:50:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:50:12Z",
+  "duration_ms": 9187,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e8110db642fbfe64a58035d2036d960b6f3e42ef3be8748e1823017b11a3e2d",
+  "md_bytes": 14177,
+  "links_found": 34,
+  "files_found": 0
+}

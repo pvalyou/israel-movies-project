@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Decorations",
+  "stable_id": "nfct__en-movies-archive_keywords-Decorations__e8a61dc2",
+  "fetched_at": "2026-05-16T13:00:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:00:53Z",
+  "duration_ms": 10727,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c338055f5fba843b4c9b57fc5a34b0861e7035d2a0ab0afecf177b68c7f319fb",
+  "md_bytes": 10248,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eastern%20Europe",
+  "stable_id": "nfct__en-movies-archive_keywords-Eastern-20Europe__0dd1f408",
+  "fetched_at": "2026-05-16T10:40:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:40:59Z",
+  "duration_ms": 15180,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53df676900571c3f071dfb2025d98be2ec8ce896564873302c732d1fbbf295b8",
+  "md_bytes": 10907,
+  "links_found": 70,
+  "files_found": 0
+}

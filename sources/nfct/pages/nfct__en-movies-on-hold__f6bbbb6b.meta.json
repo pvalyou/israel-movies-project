@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/on-hold/",
+  "stable_id": "nfct__en-movies-on-hold__f6bbbb6b",
+  "fetched_at": "2026-05-11T00:59:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:59:24Z",
+  "duration_ms": 17473,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eaa440c757bdfd493bd3c7d655b6b7bd483a877f0eea7ebbcb894f64afe14a3d",
+  "md_bytes": 13606,
+  "links_found": 37,
+  "files_found": 0
+}

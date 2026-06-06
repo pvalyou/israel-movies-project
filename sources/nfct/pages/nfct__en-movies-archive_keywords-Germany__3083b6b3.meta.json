@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Germany",
+  "stable_id": "nfct__en-movies-archive_keywords-Germany__3083b6b3",
+  "fetched_at": "2026-05-16T04:36:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:36:17Z",
+  "duration_ms": 10814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cff1e712fb680cffeea9b9470dc30c46d12e98efadd75c61bc677668bc952fcc",
+  "md_bytes": 15246,
+  "links_found": 82,
+  "files_found": 0
+}

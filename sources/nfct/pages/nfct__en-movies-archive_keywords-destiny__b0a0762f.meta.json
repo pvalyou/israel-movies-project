@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=destiny",
+  "stable_id": "nfct__en-movies-archive_keywords-destiny__b0a0762f",
+  "fetched_at": "2026-05-16T11:31:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:31:27Z",
+  "duration_ms": 7810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:056c3c25f2450f0eb7ebbeb592cbd163fabd178916eedc196f8c0a62e0fa6405",
+  "md_bytes": 11758,
+  "links_found": 73,
+  "files_found": 0
+}

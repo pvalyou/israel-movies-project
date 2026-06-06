@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zeruya+Shalev",
+  "stable_id": "nfct__en-movies-archive_keywords-Zeruya-Shalev__206eb151",
+  "fetched_at": "2026-05-16T14:58:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:58:55Z",
+  "duration_ms": 7019,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1909e4f8f0d90797cf7928fd5d2fae5ea8bc0df63cebbd108b218fdaba85bf9e",
+  "md_bytes": 10299,
+  "links_found": 68,
+  "files_found": 0
+}

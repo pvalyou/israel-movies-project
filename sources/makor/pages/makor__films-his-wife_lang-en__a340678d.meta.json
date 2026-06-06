@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/his-wife/?lang=en",
+  "stable_id": "makor__films-his-wife_lang-en__a340678d",
+  "fetched_at": "2026-05-09T12:52:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:52:43Z",
+  "duration_ms": 15714,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfa7755b5b42cb52ad693e5fbaa65dfb5a94fafd32458c0427e3373dafd9499f",
+  "md_bytes": 2539,
+  "links_found": 4,
+  "files_found": 0
+}

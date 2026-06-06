@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כסף-ואשמה/",
+  "stable_id": "nfct__blog-movies__fc4c38ad",
+  "fetched_at": "2026-05-09T17:16:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:16:35Z",
+  "duration_ms": 18492,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:685787098037ab0a9d4c95f208c79dc1325b782e64537938a030adfd7a2d1d22",
+  "md_bytes": 21140,
+  "links_found": 35,
+  "files_found": 0
+}

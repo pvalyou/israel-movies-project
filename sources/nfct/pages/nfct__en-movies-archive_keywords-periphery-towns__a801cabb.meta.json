@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=periphery+towns",
+  "stable_id": "nfct__en-movies-archive_keywords-periphery-towns__a801cabb",
+  "fetched_at": "2026-05-16T16:32:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:32:11Z",
+  "duration_ms": 9942,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:119bc9578095611be863e6c245bfe1c9339be015e6a54bf04ad643e3ceb6046c",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

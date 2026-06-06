@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mining",
+  "stable_id": "nfct__en-movies-archive_keywords-mining__d0b5c832",
+  "fetched_at": "2026-05-16T08:31:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:31:44Z",
+  "duration_ms": 9360,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ff4d87e42baacf1c83dd478d84cbc18aafd8cd3b090294d0c1c6215e43b3a88a",
+  "md_bytes": 12810,
+  "links_found": 74,
+  "files_found": 0
+}

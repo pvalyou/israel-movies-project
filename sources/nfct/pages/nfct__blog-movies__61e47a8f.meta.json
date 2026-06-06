@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לא-גיבור/",
+  "stable_id": "nfct__blog-movies__61e47a8f",
+  "fetched_at": "2026-05-09T19:39:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:39:05Z",
+  "duration_ms": 7714,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ebfcaf455db4df7652d957bee766228718c63748423582805ead4fa31d65005",
+  "md_bytes": 17003,
+  "links_found": 39,
+  "files_found": 0
+}

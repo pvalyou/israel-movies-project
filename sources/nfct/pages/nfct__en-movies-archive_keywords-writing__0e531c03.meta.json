@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=writing",
+  "stable_id": "nfct__en-movies-archive_keywords-writing__0e531c03",
+  "fetched_at": "2026-05-16T15:46:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:46:27Z",
+  "duration_ms": 8131,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5c9345b42cf05a9a069f082fa43d5d80057f018896afe38139321a4dc5eeec5b",
+  "md_bytes": 16453,
+  "links_found": 82,
+  "files_found": 0
+}

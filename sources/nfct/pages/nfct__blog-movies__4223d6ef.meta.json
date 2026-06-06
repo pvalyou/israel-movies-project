@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בשנה-הבאה-בירושלים/",
+  "stable_id": "nfct__blog-movies__4223d6ef",
+  "fetched_at": "2026-05-09T21:22:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:22:53Z",
+  "duration_ms": 21997,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e6ce0e513999c2d16242b71f62bbb7720b1e0d55777422a2a766e6389a165d1",
+  "md_bytes": 21157,
+  "links_found": 51,
+  "files_found": 0
+}

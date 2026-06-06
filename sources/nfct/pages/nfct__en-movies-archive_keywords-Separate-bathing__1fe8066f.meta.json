@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Separate+bathing",
+  "stable_id": "nfct__en-movies-archive_keywords-Separate-bathing__1fe8066f",
+  "fetched_at": "2026-05-16T16:10:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:10:36Z",
+  "duration_ms": 8100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c415d792d55d532ce2532f52f18007786743444fe8a9986d46b4022007a919e",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

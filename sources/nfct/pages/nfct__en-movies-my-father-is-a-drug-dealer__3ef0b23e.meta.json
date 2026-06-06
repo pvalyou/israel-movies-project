@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-father-is-a-drug-dealer/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-my-father-is-a-drug-dealer__3ef0b23e",
+  "fetched_at": "2026-05-16T15:00:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:00:39Z",
+  "duration_ms": 6338,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c5d1f41a2dfa50354023e650d8beef4f470094c22fe597f4d798d1581ef51242",
+  "md_bytes": 12939,
+  "links_found": 31,
+  "files_found": 0
+}

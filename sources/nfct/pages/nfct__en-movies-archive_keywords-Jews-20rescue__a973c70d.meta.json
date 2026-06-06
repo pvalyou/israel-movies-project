@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jews%20rescue",
+  "stable_id": "nfct__en-movies-archive_keywords-Jews-20rescue__a973c70d",
+  "fetched_at": "2026-05-16T16:03:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:03:48Z",
+  "duration_ms": 6977,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6841b774842e6c3e2dcaf3cd92584b5b63f5f3699c7fd5152fccdb6daf0a1e00",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

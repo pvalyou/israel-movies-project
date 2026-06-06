@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shenkin+st.",
+  "stable_id": "nfct__en-movies-archive_keywords-Shenkin-st.__18d40c63",
+  "fetched_at": "2026-05-16T12:05:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:05:48Z",
+  "duration_ms": 16138,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b469a0823431678cac3019356d9c4090fe86f353a5256afc64238de55e420756",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

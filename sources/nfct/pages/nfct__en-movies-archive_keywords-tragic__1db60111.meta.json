@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=tragic",
+  "stable_id": "nfct__en-movies-archive_keywords-tragic__1db60111",
+  "fetched_at": "2026-05-16T13:27:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:27:02Z",
+  "duration_ms": 9569,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:157692c4a798a84f444402138ae52be881e4311d5cadb09474769d79682f9301",
+  "md_bytes": 16847,
+  "links_found": 82,
+  "files_found": 0
+}

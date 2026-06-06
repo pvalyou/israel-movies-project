@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/rachels-goodwill/?lang=en",
+  "stable_id": "makor__films-rachels-goodwill_lang-en__5723bde2",
+  "fetched_at": "2026-05-09T13:23:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:23:32Z",
+  "duration_ms": 9581,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eada8a56e166fd960a017efb1217bd9affa4abbbb22bcdab29a5b473d696d8a2",
+  "md_bytes": 2011,
+  "links_found": 4,
+  "files_found": 0
+}

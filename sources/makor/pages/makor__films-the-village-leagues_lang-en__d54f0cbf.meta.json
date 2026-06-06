@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-village-leagues/?lang=en",
+  "stable_id": "makor__films-the-village-leagues_lang-en__d54f0cbf",
+  "fetched_at": "2026-05-09T13:25:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:25:01Z",
+  "duration_ms": 8004,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab33dafaa0d1c7ed35b110a543cec35a53b95a02c8435ad99546483a1206674d",
+  "md_bytes": 2241,
+  "links_found": 4,
+  "files_found": 0
+}

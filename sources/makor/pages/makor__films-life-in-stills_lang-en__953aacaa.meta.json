@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/life-in-stills/?lang=en",
+  "stable_id": "makor__films-life-in-stills_lang-en__953aacaa",
+  "fetched_at": "2026-05-09T13:05:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:05:47Z",
+  "duration_ms": 19093,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c0f50f17eec3806334da8dc60ad4ac2a9fb7a04cacb2a57efe6dbf5368c9c912",
+  "md_bytes": 2822,
+  "links_found": 4,
+  "files_found": 0
+}

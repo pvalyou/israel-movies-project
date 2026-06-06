@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Maxim",
+  "stable_id": "nfct__en-movies-archive_keywords-Maxim__c0b9e8a8",
+  "fetched_at": "2026-05-16T11:07:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:07:40Z",
+  "duration_ms": 8400,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b3a3ea1b4b386d683cfcd5fd2c0aafd4a8ca6b3ec8fd36bc1d8c4db61b8852f3",
+  "md_bytes": 10989,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Professional%20Basketball",
+  "stable_id": "nfct__en-movies-archive_keywords-Professional-20Basketball__42ba19da",
+  "fetched_at": "2026-05-16T20:32:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:10Z",
+  "duration_ms": 7023,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:982fd9375ea19d15220d80adebae58205e32dc57ce57079cd29049e5983ef70a",
+  "md_bytes": 10176,
+  "links_found": 68,
+  "files_found": 0
+}

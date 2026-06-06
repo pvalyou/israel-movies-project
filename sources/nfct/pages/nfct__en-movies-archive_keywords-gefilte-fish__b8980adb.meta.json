@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=gefilte+fish",
+  "stable_id": "nfct__en-movies-archive_keywords-gefilte-fish__b8980adb",
+  "fetched_at": "2026-05-16T17:09:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:09:06Z",
+  "duration_ms": 8797,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d365c02609cd3650ecb4f0c3400f1cd2b16a360d12aa6a3cd1cee34064476372",
+  "md_bytes": 10876,
+  "links_found": 69,
+  "files_found": 0
+}

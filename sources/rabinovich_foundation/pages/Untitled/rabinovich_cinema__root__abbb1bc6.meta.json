@@ -1,0 +1,23 @@
+{
+  "url": "https://www.cinemaproject.org.il/",
+  "stable_id": "rabinovich_cinema__root__abbb1bc6",
+  "fetched_at": "2026-05-16T10:34:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:34:34Z",
+  "duration_ms": 11498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f02d9a2b9ec2de4f87edf8388f3759b391f2029d728629536a45ce73fc8c5afe",
+  "md_bytes": 28857,
+  "links_found": 111,
+  "files_found": 0
+}

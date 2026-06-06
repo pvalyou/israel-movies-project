@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/i-am-not/",
+  "stable_id": "nfct__en-movies-i-am-not__2bee53ec",
+  "fetched_at": "2026-05-11T13:32:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:32:27Z",
+  "duration_ms": 15365,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d86a1d25531b40a585c99f2a7a19c628c8990248ecb0527d727e4c47d6548d4c",
+  "md_bytes": 14806,
+  "links_found": 39,
+  "files_found": 0
+}

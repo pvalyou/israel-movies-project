@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/jam-session/",
+  "stable_id": "nfct__en-movies-jam-session__f4a02ee9",
+  "fetched_at": "2026-05-11T06:17:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:17:38Z",
+  "duration_ms": 17458,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef413f4be28317f403d6fbb5352141bab2b0e56a50932fc640ef7bc8cfbabf4e",
+  "md_bytes": 12616,
+  "links_found": 35,
+  "files_found": 0
+}

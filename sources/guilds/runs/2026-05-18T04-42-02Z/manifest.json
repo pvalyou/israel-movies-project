@@ -1,0 +1,40 @@
+{
+  "run_id": "2026-05-18T04-42-02Z",
+  "source_id": "guilds",
+  "source_name_he": "איגודים",
+  "tier": "B",
+  "started_at": "2026-05-18T04:42:40.458974+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "concurrency": 5,
+  "follow_links": true,
+  "max_depth": 2,
+  "scrape_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "stats": {
+    "urls_discovered": 7,
+    "urls_attempted": 7,
+    "urls_succeeded": 7,
+    "urls_empty": 0,
+    "urls_failed": 0,
+    "cache_hits": 0,
+    "total_md_bytes": 0,
+    "files_downloaded": 7,
+    "files_failed": 0,
+    "total_file_bytes": 0,
+    "duration_seconds": 0
+  },
+  "urls": [
+    "https://directorsguild.org.il/",
+    "https://producers.org.il/",
+    "https://www.fdoc.org.il/",
+    "https://www.israelfilmacademy.co.il/",
+    "https://www.writersguild.org.il/",
+    "https://www.shaham.org.il/",
+    "https://www.act.org.il/"
+  ]
+}

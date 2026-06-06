@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/נפש-צרקסי-הומיה/",
+  "stable_id": "nfct__movies__51c2ca2a",
+  "fetched_at": "2026-05-16T20:12:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:43Z",
+  "duration_ms": 7350,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e0ea0c2e1edad08d8652389a35fb0ff0f4994a90caaf2efcabcc3caae19c485",
+  "md_bytes": 8703,
+  "links_found": 21,
+  "files_found": 0
+}

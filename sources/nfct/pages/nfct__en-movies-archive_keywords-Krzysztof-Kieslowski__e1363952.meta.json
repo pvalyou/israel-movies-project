@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Krzysztof+Kieslowski",
+  "stable_id": "nfct__en-movies-archive_keywords-Krzysztof-Kieslowski__e1363952",
+  "fetched_at": "2026-05-16T14:05:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:05:00Z",
+  "duration_ms": 7078,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:47f6661bac81b2f702554dfeba90b5d8c592f6c5d9906de804988757d254d47a",
+  "md_bytes": 10029,
+  "links_found": 68,
+  "files_found": 0
+}

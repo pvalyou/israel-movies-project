@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Occupied+Territories",
+  "stable_id": "nfct__en-movies-archive_keywords-Occupied-Territories__64b0f7d7",
+  "fetched_at": "2026-05-16T07:59:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:59:03Z",
+  "duration_ms": 6295,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:514495ff1d38365c759cd636276535c45f3bb76a53d33841f5db23ebcbc48ef3",
+  "md_bytes": 11328,
+  "links_found": 72,
+  "files_found": 0
+}

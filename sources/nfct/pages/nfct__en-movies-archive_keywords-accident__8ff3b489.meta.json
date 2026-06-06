@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=accident",
+  "stable_id": "nfct__en-movies-archive_keywords-accident__8ff3b489",
+  "fetched_at": "2026-05-16T06:34:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:34:16Z",
+  "duration_ms": 7009,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53f1b5f80c92950d0cc3a33db7ade41d8d08d4b9f01478b408b817efe559c5d7",
+  "md_bytes": 13224,
+  "links_found": 75,
+  "files_found": 0
+}

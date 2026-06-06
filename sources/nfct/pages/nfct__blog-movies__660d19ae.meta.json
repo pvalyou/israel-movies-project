@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הדווקאים/",
+  "stable_id": "nfct__blog-movies__660d19ae",
+  "fetched_at": "2026-05-15T09:02:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:11Z",
+  "duration_ms": 12237,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17443a0f3b25ee0d31f8649abbe99586c1c26be06f867a79916373cb279a42ce",
+  "md_bytes": 15934,
+  "links_found": 33,
+  "files_found": 0
+}

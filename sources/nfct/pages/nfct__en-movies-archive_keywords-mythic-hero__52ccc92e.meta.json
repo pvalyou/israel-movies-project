@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mythic+hero",
+  "stable_id": "nfct__en-movies-archive_keywords-mythic-hero__52ccc92e",
+  "fetched_at": "2026-05-16T02:55:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T02:55:09Z",
+  "duration_ms": 6286,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6811e228446a083acd4451c028d3c0e61b3a3c59972519d7f34ee551f1589fe8",
+  "md_bytes": 10075,
+  "links_found": 68,
+  "files_found": 0
+}

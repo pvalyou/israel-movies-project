@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=investigative%20journey",
+  "stable_id": "nfct__en-movies-archive_keywords-investigative-20journey__d52c1054",
+  "fetched_at": "2026-05-16T20:32:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:51Z",
+  "duration_ms": 9695,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f3cf531374cd6ea53ed7e8d0f66d796666b32f9c2f15c35aca650061f3ddc2e3",
+  "md_bytes": 10446,
+  "links_found": 69,
+  "files_found": 0
+}

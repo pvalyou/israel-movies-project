@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Judea+and+Samaria",
+  "stable_id": "nfct__en-movies-archive_keywords-Judea-and-Samaria__b82270d8",
+  "fetched_at": "2026-05-16T16:42:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:42:09Z",
+  "duration_ms": 7904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4310933f1ae0591186232d701ea708ce7b706f327d25e0551e0d6e1da507c5ff",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

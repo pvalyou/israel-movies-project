@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pshychopath",
+  "stable_id": "nfct__en-movies-archive_keywords-Pshychopath__1ed94dde",
+  "fetched_at": "2026-05-16T20:33:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:17Z",
+  "duration_ms": 6904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98da4f2e2ffa8eda2943f28bab109723e13cb2401c7c24344e51eeb8a04fc24b",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

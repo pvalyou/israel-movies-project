@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Danny+Glaser",
+  "stable_id": "nfct__en-movies-archive_keywords-Danny-Glaser__9dfa1cd3",
+  "fetched_at": "2026-05-16T14:15:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:15:06Z",
+  "duration_ms": 6800,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:37c9243448a414bef9ec142e66f907aabe4ca4fade56155b1cd9a4a64ecb319e",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

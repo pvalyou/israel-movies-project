@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ערפל/",
+  "stable_id": "nfct__blog-movies__9da3e497",
+  "fetched_at": "2026-05-09T19:36:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:36:16Z",
+  "duration_ms": 40993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21178e9457211d3d637e19c1c7fffc4ed8cdd928f55dd4a82e374c36a92abf4c",
+  "md_bytes": 25049,
+  "links_found": 58,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfundgalil.com/copy-of-trailers",
+  "stable_id": "galilee_film_fund__copy-of-trailers__7d451789",
+  "fetched_at": "2026-05-09T11:10:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:10:11Z",
+  "duration_ms": 21409,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ccafd7c1930a45cc07491f2b7a6cb092ce7b5c8f16349a33068c25eb07abf2bd",
+  "md_bytes": 967,
+  "links_found": 0,
+  "files_found": 0
+}

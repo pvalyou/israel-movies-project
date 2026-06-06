@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-home-movieראובן-ברודצקי-yes-דוקו-2200/",
+  "stable_id": "nfct__events-event--home-movie----yes---2200__94e10029",
+  "fetched_at": "2026-05-10T13:34:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:34:55Z",
+  "duration_ms": 10053,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:58ccf2c0cd5b74caa02ac195fd488869c2e3013470a6eb49912b61c550ad2836",
+  "md_bytes": 9836,
+  "links_found": 20,
+  "files_found": 0
+}

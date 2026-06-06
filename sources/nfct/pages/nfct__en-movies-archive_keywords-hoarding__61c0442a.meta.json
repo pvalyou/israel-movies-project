@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hoarding",
+  "stable_id": "nfct__en-movies-archive_keywords-hoarding__61c0442a",
+  "fetched_at": "2026-05-16T12:25:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:25:56Z",
+  "duration_ms": 10210,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b78ad2dd6e92dbb0885fbd09d69d042c225161cd1170cd6ba1dd33166f94e24b",
+  "md_bytes": 10177,
+  "links_found": 68,
+  "files_found": 0
+}

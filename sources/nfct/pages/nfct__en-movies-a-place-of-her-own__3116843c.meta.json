@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-place-of-her-own/",
+  "stable_id": "nfct__en-movies-a-place-of-her-own__3116843c",
+  "fetched_at": "2026-05-11T07:13:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:13:16Z",
+  "duration_ms": 30034,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cf0e91cbc940c2ec69ccf01a7a4116c5828906e1a9d528da608ad45f098ef5c9",
+  "md_bytes": 14800,
+  "links_found": 42,
+  "files_found": 0
+}

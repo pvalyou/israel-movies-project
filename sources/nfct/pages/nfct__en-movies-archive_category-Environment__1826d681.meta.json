@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Environment",
+  "stable_id": "nfct__en-movies-archive_category-Environment__1826d681",
+  "fetched_at": "2026-05-16T05:52:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:52:39Z",
+  "duration_ms": 9227,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3862a1bffc278f53a722204e858ac8b584e43ed74892f32ce986efb93fa17bef",
+  "md_bytes": 16617,
+  "links_found": 82,
+  "files_found": 0
+}

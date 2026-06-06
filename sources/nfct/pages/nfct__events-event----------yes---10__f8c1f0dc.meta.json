@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-מרגל-השמפניה-נדב-שירמן-yes-דוקו-10/",
+  "stable_id": "nfct__events-event----------yes---10__f8c1f0dc",
+  "fetched_at": "2026-05-15T09:13:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:13:49Z",
+  "duration_ms": 9504,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e7357de8a08f972d6d038671133e7fb25b10892b4f2ddde7326ac09504fdc61d",
+  "md_bytes": 10730,
+  "links_found": 21,
+  "files_found": 0
+}

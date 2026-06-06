@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arab+society",
+  "stable_id": "nfct__en-movies-archive_keywords-Arab-society__1da34183",
+  "fetched_at": "2026-05-16T05:38:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:38:23Z",
+  "duration_ms": 6854,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21ef801602b51fc2c63b4e45cdcb361fbc2cf1fe75f5036e0a1bc41fe4119459",
+  "md_bytes": 15807,
+  "links_found": 82,
+  "files_found": 0
+}

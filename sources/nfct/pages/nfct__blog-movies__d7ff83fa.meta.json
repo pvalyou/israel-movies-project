@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חזיונות-בלתי-פוסקים/",
+  "stable_id": "nfct__blog-movies__d7ff83fa",
+  "fetched_at": "2026-05-09T17:23:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:23:09Z",
+  "duration_ms": 51300,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4702a99a28db9d520d7849598704f62f2da0996bf40312ea7df52281fa38d622",
+  "md_bytes": 22388,
+  "links_found": 43,
+  "files_found": 0
+}

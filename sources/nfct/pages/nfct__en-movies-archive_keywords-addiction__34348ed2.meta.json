@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=addiction",
+  "stable_id": "nfct__en-movies-archive_keywords-addiction__34348ed2",
+  "fetched_at": "2026-05-16T06:16:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:16:42Z",
+  "duration_ms": 7312,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2b2789cad57afbb40bb6cd3c2f078a5ce519fde8175056671473a9d0b04200ee",
+  "md_bytes": 10866,
+  "links_found": 70,
+  "files_found": 0
+}

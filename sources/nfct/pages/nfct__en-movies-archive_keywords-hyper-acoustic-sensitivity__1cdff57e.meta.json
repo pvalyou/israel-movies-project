@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hyper-acoustic+sensitivity",
+  "stable_id": "nfct__en-movies-archive_keywords-hyper-acoustic-sensitivity__1cdff57e",
+  "fetched_at": "2026-05-16T11:19:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:19:09Z",
+  "duration_ms": 7680,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b5d5ad3e8c19b9277d8f1d3729eea685d77dd49f129f7f010b1056dc1598fdc2",
+  "md_bytes": 9992,
+  "links_found": 68,
+  "files_found": 0
+}

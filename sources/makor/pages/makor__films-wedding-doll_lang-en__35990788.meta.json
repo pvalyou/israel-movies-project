@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/wedding-doll/?lang=en",
+  "stable_id": "makor__films-wedding-doll_lang-en__35990788",
+  "fetched_at": "2026-05-09T13:03:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:48Z",
+  "duration_ms": 18701,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fbe9637f74cf3c9c69d103812b1b31e37d861d2c7f975a75ea4c4af5920d725d",
+  "md_bytes": 2346,
+  "links_found": 4,
+  "files_found": 0
+}

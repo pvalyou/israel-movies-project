@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/פיל-במדבר/",
+  "stable_id": "makor__page__d0dbff8a",
+  "fetched_at": "2026-05-09T12:28:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:28:04Z",
+  "duration_ms": 17380,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56b079730bacba0731c113414e39c83153005e26d04451345ba28032a8d7161a",
+  "md_bytes": 1109,
+  "links_found": 2,
+  "files_found": 0
+}

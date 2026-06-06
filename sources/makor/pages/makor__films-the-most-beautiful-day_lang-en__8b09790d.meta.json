@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-most-beautiful-day/?lang=en",
+  "stable_id": "makor__films-the-most-beautiful-day_lang-en__8b09790d",
+  "fetched_at": "2026-05-09T13:17:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:17:58Z",
+  "duration_ms": 8809,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c0891e977736051e50a4ba5c5fa7c682e22769340d4f0e9a363b2a63a41084d",
+  "md_bytes": 2161,
+  "links_found": 4,
+  "files_found": 0
+}

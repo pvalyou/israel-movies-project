@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/night-of-love/#UAMainContent",
+  "stable_id": "nfct__en-movies-night-of-love__63d21d75",
+  "fetched_at": "2026-05-16T16:29:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:29:05Z",
+  "duration_ms": 8170,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e0539ba65806bcca6441ebf2e3aa9b716b33005473948188f8f1d1c6c7f9d146",
+  "md_bytes": 12677,
+  "links_found": 35,
+  "files_found": 0
+}

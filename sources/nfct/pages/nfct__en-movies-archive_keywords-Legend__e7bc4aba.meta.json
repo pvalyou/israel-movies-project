@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Legend",
+  "stable_id": "nfct__en-movies-archive_keywords-Legend__e7bc4aba",
+  "fetched_at": "2026-05-16T05:28:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:28:09Z",
+  "duration_ms": 10555,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9ebb5e60b0f878f6407447424729ba74e7854b88d63df5df6ec25e2e2f118af",
+  "md_bytes": 16756,
+  "links_found": 82,
+  "files_found": 0
+}

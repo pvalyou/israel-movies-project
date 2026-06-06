@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/משפה-לשפה/",
+  "stable_id": "nfct__blog-movies__23ca9534",
+  "fetched_at": "2026-05-09T17:44:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:44:14Z",
+  "duration_ms": 23610,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db4fbcdf5e1f76821ca7d55b554bf0fba335c00c26cf7d7f1e7865c62e1cd3be",
+  "md_bytes": 20959,
+  "links_found": 45,
+  "files_found": 0
+}

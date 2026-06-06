@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=LGBT",
+  "stable_id": "nfct__en-movies-archive_category-LGBT__41e58d7b",
+  "fetched_at": "2026-05-16T07:26:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:26:08Z",
+  "duration_ms": 7814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0d106361c5ed22e77dd3e3cd5e2d0d70af96fd4089faf30be77350dac73c26cc",
+  "md_bytes": 16424,
+  "links_found": 82,
+  "files_found": 0
+}

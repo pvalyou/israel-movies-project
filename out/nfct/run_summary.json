@@ -1,0 +1,21 @@
+{
+  "source_name": "nfct",
+  "run_date": "2026-05-18",
+  "elapsed_min": 11.78,
+  "pages_total": 69092,
+  "pages_already_done": 66133,
+  "pages_processed_this_run": 2959,
+  "status_counts": {
+    "ok": 2959,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 9059514,
+  "tokens_output": 3235867,
+  "cost_usd": 2.2003,
+  "calls": 2589,
+  "errors": 0,
+  "json_retries": 10
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=outlaw",
+  "stable_id": "nfct__en-movies-archive_keywords-outlaw__5726ae74",
+  "fetched_at": "2026-05-16T20:21:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:21:20Z",
+  "duration_ms": 7954,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6fe63726dd05efd52aca30977efda50676a5ac3068d9102ce2ca2dcb084c5e33",
+  "md_bytes": 10233,
+  "links_found": 69,
+  "files_found": 0
+}

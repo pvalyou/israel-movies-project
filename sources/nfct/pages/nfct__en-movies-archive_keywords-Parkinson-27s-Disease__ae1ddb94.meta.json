@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Parkinson%27s+Disease",
+  "stable_id": "nfct__en-movies-archive_keywords-Parkinson-27s-Disease__ae1ddb94",
+  "fetched_at": "2026-05-16T15:37:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:37:45Z",
+  "duration_ms": 6982,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:399d6f13aba964cb64ef1cbfd0e3f1fe873a49d2e96e2d7d3a43344c09fac9a0",
+  "md_bytes": 10268,
+  "links_found": 68,
+  "files_found": 0
+}

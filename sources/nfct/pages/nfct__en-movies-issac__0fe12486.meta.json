@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/issac/#UAMainContent",
+  "stable_id": "nfct__en-movies-issac__0fe12486",
+  "fetched_at": "2026-05-16T13:19:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:19:06Z",
+  "duration_ms": 7155,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:317c3fe9f385329befe6efc593c999da14a1e7126c5bf870ea0e10400bac24cc",
+  "md_bytes": 12764,
+  "links_found": 40,
+  "files_found": 0
+}

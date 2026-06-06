@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Falling+Out",
+  "stable_id": "nfct__en-movies-archive_keywords-Falling-Out__63076d87",
+  "fetched_at": "2026-05-16T13:45:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:45:35Z",
+  "duration_ms": 7352,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d5a636ae29ad17bf3a38cf7b29acb7b5d3db9009e3b8011d151345fcc90293dd",
+  "md_bytes": 10942,
+  "links_found": 70,
+  "files_found": 0
+}

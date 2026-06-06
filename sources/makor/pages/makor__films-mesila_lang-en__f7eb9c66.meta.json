@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/mesila/?lang=en",
+  "stable_id": "makor__films-mesila_lang-en__f7eb9c66",
+  "fetched_at": "2026-05-09T13:08:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:49Z",
+  "duration_ms": 13565,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d53ab4d42ecd306c3b514525d330eb604a97a110ad9a5b674a99e026cc9d25d",
+  "md_bytes": 2003,
+  "links_found": 4,
+  "files_found": 0
+}

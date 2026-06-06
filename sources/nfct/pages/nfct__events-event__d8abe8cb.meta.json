@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הטקס-אבי-וייסבלאי-ואלירן-קנולר/",
+  "stable_id": "nfct__events-event__d8abe8cb",
+  "fetched_at": "2026-05-10T02:58:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:58:09Z",
+  "duration_ms": 46986,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:abc235af3f39a03f1ada787a1410d95f762257d91ef5dbb6779e111f0c86efe9",
+  "md_bytes": 10421,
+  "links_found": 22,
+  "files_found": 0
+}

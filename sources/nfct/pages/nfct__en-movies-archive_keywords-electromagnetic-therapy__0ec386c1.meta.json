@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=electromagnetic+therapy",
+  "stable_id": "nfct__en-movies-archive_keywords-electromagnetic-therapy__0ec386c1",
+  "fetched_at": "2026-05-16T04:49:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:49:24Z",
+  "duration_ms": 11615,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f67a3a0adf6c81e4fa1b42c3ae1d3371fd5089e43e38203fb1d64a3fe18fa9a9",
+  "md_bytes": 9821,
+  "links_found": 67,
+  "files_found": 0
+}

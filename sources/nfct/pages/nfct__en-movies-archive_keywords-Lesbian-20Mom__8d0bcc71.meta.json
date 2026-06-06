@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lesbian%20Mom",
+  "stable_id": "nfct__en-movies-archive_keywords-Lesbian-20Mom__8d0bcc71",
+  "fetched_at": "2026-05-16T13:48:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:48:23Z",
+  "duration_ms": 6421,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c490a290be1e0e17e8f6272b13acc3d6bf9d44628970d310b2b005da60824cd",
+  "md_bytes": 10088,
+  "links_found": 68,
+  "files_found": 0
+}

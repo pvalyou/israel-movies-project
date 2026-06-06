@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=women%27s+rights",
+  "stable_id": "nfct__en-movies-archive_keywords-women-27s-rights__416b5928",
+  "fetched_at": "2026-05-16T12:49:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:49:40Z",
+  "duration_ms": 14650,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d6517761e79457d1276287a4c6160a94b7beca6232a47f770d449823a4f2882",
+  "md_bytes": 10150,
+  "links_found": 68,
+  "files_found": 0
+}

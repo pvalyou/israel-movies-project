@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בשם-חומת-מגן/",
+  "stable_id": "nfct__blog-movies__b0d25c0e",
+  "fetched_at": "2026-05-09T21:48:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:48:24Z",
+  "duration_ms": 8715,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f2e0e01be1da483dbdbd3a675929216b7d3a26186f7afd7d0490a6dc9c024f9c",
+  "md_bytes": 14967,
+  "links_found": 37,
+  "files_found": 0
+}

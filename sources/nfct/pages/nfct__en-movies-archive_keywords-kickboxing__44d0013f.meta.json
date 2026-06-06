@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=kickboxing",
+  "stable_id": "nfct__en-movies-archive_keywords-kickboxing__44d0013f",
+  "fetched_at": "2026-05-16T15:34:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:34:15Z",
+  "duration_ms": 11267,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32d97f1bf284f729a197335805b47247ced690f5c85b0e7395c9c524121be238",
+  "md_bytes": 10168,
+  "links_found": 68,
+  "files_found": 0
+}

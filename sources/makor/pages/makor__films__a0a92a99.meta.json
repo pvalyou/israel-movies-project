@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מי-יאהב-אותי-עכשיו/",
+  "stable_id": "makor__films__a0a92a99",
+  "fetched_at": "2026-05-09T13:09:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:09:17Z",
+  "duration_ms": 15595,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dcbbcdee4a2f4136e2f8912139b05d6188116f5d923a65cca093f185c445afb4",
+  "md_bytes": 3625,
+  "links_found": 4,
+  "files_found": 0
+}

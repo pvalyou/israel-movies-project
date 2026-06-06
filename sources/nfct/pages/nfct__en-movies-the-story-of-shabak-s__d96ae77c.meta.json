@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-story-of-shabak-s/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-story-of-shabak-s__d96ae77c",
+  "fetched_at": "2026-05-16T09:59:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:59:13Z",
+  "duration_ms": 6206,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84580d78c1a1c008f1c5100f7988e3c99d549661528fd48667e4570109ab12e1",
+  "md_bytes": 10362,
+  "links_found": 29,
+  "files_found": 0
+}

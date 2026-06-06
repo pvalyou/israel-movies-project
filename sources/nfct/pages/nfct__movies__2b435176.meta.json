@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/שלוש-פעמים-מגורשת/",
+  "stable_id": "nfct__movies__2b435176",
+  "fetched_at": "2026-05-16T05:39:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:39:19Z",
+  "duration_ms": 8292,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e91486d795b1c5b03c4e10576c2ce275afe4d1a5765bc2a3a2637463e8a25f9b",
+  "md_bytes": 8150,
+  "links_found": 21,
+  "files_found": 0
+}

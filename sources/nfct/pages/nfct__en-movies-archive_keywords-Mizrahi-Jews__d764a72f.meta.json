@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mizrahi+Jews",
+  "stable_id": "nfct__en-movies-archive_keywords-Mizrahi-Jews__d764a72f",
+  "fetched_at": "2026-05-16T13:47:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:47:16Z",
+  "duration_ms": 7781,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69f88f89d4e1547eb482b8ea81d473919feabc55a2e946eef4a4af4bab68333c",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

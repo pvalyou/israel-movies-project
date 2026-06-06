@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/last-cigarette/",
+  "stable_id": "nfct__en-movies-last-cigarette__2c669c25",
+  "fetched_at": "2026-05-11T14:39:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:39:14Z",
+  "duration_ms": 61763,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe371ec2aacb0af818a4a2a12f6f0d4e0244b754b59e59b09e402e46b883ff7e",
+  "md_bytes": 12916,
+  "links_found": 41,
+  "files_found": 0
+}

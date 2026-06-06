@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-fish-tale/#UAMainContent",
+  "stable_id": "nfct__en-movies-a-fish-tale__2fbe4e15",
+  "fetched_at": "2026-05-16T15:21:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:21:01Z",
+  "duration_ms": 9554,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d0df4d0cb61ae4b8a6adc9a98aa61a97352aed4738e69e85a90d8293bd9f38d",
+  "md_bytes": 14978,
+  "links_found": 45,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-ceremony/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-ceremony__515c943d",
+  "fetched_at": "2026-05-16T06:34:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:34:55Z",
+  "duration_ms": 11898,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:401bb010d2363a887bdca6afcd5d5323d006b6ec1eed48e6bcd5c8d974e02ccd",
+  "md_bytes": 11454,
+  "links_found": 30,
+  "files_found": 0
+}

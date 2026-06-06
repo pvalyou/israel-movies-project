@@ -1,0 +1,36 @@
+# אמרי דקל קדוש
+ניתן להשתמש בחצי המקלדת בכדי לנווט בין כפתורי הרכיב
+ESC
+  * סגירה
+  * ניווט מקלדתShift+A
+  * ביטול הבהוביםShift+B
+  * מונוכרוםShift+C
+  * ספיהShift+D
+  * ניגודיות גבוההShift+E
+  * שחור צהובShift+F
+  * היפוך צבעיםShift+G
+  * הדגשת כותרותShift+H
+  * הדגשת קישוריםShift+I
+  * הצגת תיאורShift+J
+  * תיאור קבועShift+K
+  * גופן קריאShift+L
+  * הגדלת גופןShift+M
+  * הקטנת גופןShift+N
+  * הגדלת מסךShift++
+  * הקטנת מסךShift+P
+  * סמן גדולShift+Q
+  * סמן שחורShift+R
+
+
+[](https://www.enable.co.il "Enable Website")
+איפוס הגדרותAlt+Pהצהרת נגישותAlt+Qדיווח הפרהAlt+R
+[מופעל על ידי](https://www.upress.co.il)
+
+
+---
+## Links
+
+
+### External
+- [https://www.enable.co.il](https://www.enable.co.il)
+- [מופעל על ידי](https://www.upress.co.il)

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=maturing",
+  "stable_id": "nfct__en-movies-archive_keywords-maturing__e1c96766",
+  "fetched_at": "2026-05-16T16:31:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:31:27Z",
+  "duration_ms": 8222,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd1d353cd11ce47c4a14a4e7b75f5d3344ca2e833ef9be7c56c6505d1fd54f03",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

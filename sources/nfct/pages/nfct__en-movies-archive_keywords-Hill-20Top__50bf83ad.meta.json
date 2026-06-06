@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hill%20Top",
+  "stable_id": "nfct__en-movies-archive_keywords-Hill-20Top__50bf83ad",
+  "fetched_at": "2026-05-16T12:47:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:47:22Z",
+  "duration_ms": 14554,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:abe10936798670f408d4e9c0d66d1b1910275bc45fa41699c50646e071f28d74",
+  "md_bytes": 11553,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מיסטר-גאגא-תומר-הימן-מוזיאון-הע/",
+  "stable_id": "nfct__events-event__f01da0d1",
+  "fetched_at": "2026-05-10T08:45:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T08:45:43Z",
+  "duration_ms": 26389,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:02a097349a04507b50801f8ac2b40694ca9711b6484a4e4639f367d7e3e2366c",
+  "md_bytes": 13110,
+  "links_found": 27,
+  "files_found": 0
+}

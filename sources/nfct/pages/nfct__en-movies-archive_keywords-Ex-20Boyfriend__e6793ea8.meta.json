@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ex%20Boyfriend",
+  "stable_id": "nfct__en-movies-archive_keywords-Ex-20Boyfriend__e6793ea8",
+  "fetched_at": "2026-05-16T16:01:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:01:33Z",
+  "duration_ms": 6664,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:80ff0209616114c1fb637b8050f8d9e3c2b55df1adcf979baaf76781d9157185",
+  "md_bytes": 11601,
+  "links_found": 72,
+  "files_found": 0
+}

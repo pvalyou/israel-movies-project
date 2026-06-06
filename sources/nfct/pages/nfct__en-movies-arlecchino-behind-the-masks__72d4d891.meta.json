@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/arlecchino-behind-the-masks/",
+  "stable_id": "nfct__en-movies-arlecchino-behind-the-masks__72d4d891",
+  "fetched_at": "2026-05-15T15:28:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:28:53Z",
+  "duration_ms": 21540,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:979dec050ce89ae59edc4de2ae6bd06ac9187742713f4dc45e1bf92206f8c025",
+  "md_bytes": 14294,
+  "links_found": 39,
+  "files_found": 0
+}

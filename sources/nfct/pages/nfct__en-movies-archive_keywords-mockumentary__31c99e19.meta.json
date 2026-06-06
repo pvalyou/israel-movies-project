@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mockumentary",
+  "stable_id": "nfct__en-movies-archive_keywords-mockumentary__31c99e19",
+  "fetched_at": "2026-05-16T09:02:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:02:53Z",
+  "duration_ms": 9218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c221f61c705cbaee6ad92b4f16c9cac46603da3fccef683e8b30f1ee3b1e1c4f",
+  "md_bytes": 9965,
+  "links_found": 68,
+  "files_found": 0
+}

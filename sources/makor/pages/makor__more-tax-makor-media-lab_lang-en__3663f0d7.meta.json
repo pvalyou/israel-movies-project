@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more-tax/makor-media-lab/?lang=en",
+  "stable_id": "makor__more-tax-makor-media-lab_lang-en__3663f0d7",
+  "fetched_at": "2026-05-09T12:46:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:39Z",
+  "duration_ms": 19138,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a9716cb5072f732dcce20b63e7a5aac82e8c2dc8b425f248bd26795db1e2ad9",
+  "md_bytes": 10766,
+  "links_found": 22,
+  "files_found": 0
+}

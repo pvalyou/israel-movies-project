@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קדיש-מאוחר/",
+  "stable_id": "nfct__blog-movies__9d2c7d24",
+  "fetched_at": "2026-05-09T21:00:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:00:27Z",
+  "duration_ms": 37415,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d43ca58be9dfb5859e6fa1363e3bba7b06649833fcf22e12a9b94480b469629",
+  "md_bytes": 18613,
+  "links_found": 47,
+  "files_found": 0
+}

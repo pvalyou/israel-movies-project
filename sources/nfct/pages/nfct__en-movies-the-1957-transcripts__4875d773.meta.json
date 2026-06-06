@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-1957-transcripts/",
+  "stable_id": "nfct__en-movies-the-1957-transcripts__4875d773",
+  "fetched_at": "2026-05-11T13:05:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:05:29Z",
+  "duration_ms": 29057,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b3d67ee1ad1d63e21194c23c4774f200ca00eda3077c0e3889b3c94ff25c259",
+  "md_bytes": 16156,
+  "links_found": 48,
+  "files_found": 0
+}

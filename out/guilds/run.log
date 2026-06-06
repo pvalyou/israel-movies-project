@@ -1,0 +1,40 @@
+
+=== Run started 2026-05-18T23:37:17.097688 ===
+[23:37:17] Source: guilds
+[23:37:17] Pages dir: sources/guilds/pages
+[23:37:17] Output dir: out/guilds
+[23:37:17] Total .md pages found: 7  |  Already done: 0  |  To process: 7
+[23:37:17] Model: google/gemini-2.5-flash-lite  |  Workers: 4  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:37:23] [1/7] OK   5p 6o 0f 6r 5ro  (6.43s)
+[23:37:23]           file: guilds__root__643d2ba4.md
+[23:37:23]           url:  https://www.fdoc.org.il/
+[23:37:24] [2/7] OK   6p 5o 0f 3r 9ro  (6.94s)
+[23:37:24]           file: guilds__root__5a541203.md
+[23:37:24]           url:  https://www.israelfilmacademy.co.il/
+[23:37:25] [3/7] OK   2p 10o 0f 11r 11ro  (8.12s)
+[23:37:25]           file: guilds__root__2471ebcd.md
+[23:37:25]           url:  https://www.shaham.org.il/
+[23:37:26] [4/7] OK   1p 4o 0f 3r 1ro  (2.5s)
+[23:37:26]           file: guilds__root__a4ae5af1.md
+[23:37:26]           url:  https://producers.org.il/
+[23:37:28] [5/7] OK   3p 1o 0f 3r 3ro  (2.83s)
+[23:37:28]           file: guilds__root__ff2b632a.md
+[23:37:28]           url:  https://directorsguild.org.il/
+[23:37:28] [6/7] OK   1p 6o 0f 7r 1ro  (4.45s)
+[23:37:28]           file: guilds__root__db4b3682.md
+[23:37:28]           url:  https://www.act.org.il/
+[23:37:29] [7/7] OK   0p 0o 0f 0r 0ro  (12.57s)
+[23:37:29]           file: guilds__root__74d80234.md
+[23:37:29]           url:  https://www.writersguild.org.il/
+[23:37:29] ======================================================================
+[23:37:29] DONE in 0.2min
+[23:37:29]   ok:           7
+[23:37:29]   filtered:     0
+[23:37:29]   empty:        0
+[23:37:29]   load_error:   0
+[23:37:29]   llm_error:    0
+[23:37:29] Tokens: 34,722 in / 18,125 out  |  Cost: $0.0107
+[23:37:29] Calls: 7  |  Errors: 0  |  JSON retries: 0
+[23:37:29] Output: out/guilds/mentions.jsonl
+[23:37:29] Summary:  out/guilds/run_summary.json
+=== Run ended 2026-05-18T23:37:29.699646 ===

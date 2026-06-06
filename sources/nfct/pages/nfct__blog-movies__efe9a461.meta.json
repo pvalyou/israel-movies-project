@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לך-לשלום-גשם/",
+  "stable_id": "nfct__blog-movies__efe9a461",
+  "fetched_at": "2026-05-09T17:45:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:45:01Z",
+  "duration_ms": 8872,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b55fa4ae462032b4ca61f5ae8a780c8a370bd2b03d465c06440a8f27ab3ddb8",
+  "md_bytes": 19297,
+  "links_found": 38,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jenin",
+  "stable_id": "nfct__en-movies-archive_keywords-Jenin__fb2e629c",
+  "fetched_at": "2026-05-16T15:02:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:02:12Z",
+  "duration_ms": 6172,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2dc8e9b437c8355504e49e58a6d6ed93787b5d482a45a4d28c6cdf2613ac4a21",
+  "md_bytes": 11105,
+  "links_found": 70,
+  "files_found": 0
+}

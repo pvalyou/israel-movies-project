@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/holiday-flowers/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-holiday-flowers__08efd73e",
+  "fetched_at": "2026-05-16T17:26:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:26:32Z",
+  "duration_ms": 7277,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:910280ff900a6e0aff6e2d085c109378ae2f6a6c6e7a34b67c4c49ba1e02f3d4",
+  "md_bytes": 12015,
+  "links_found": 30,
+  "files_found": 0
+}

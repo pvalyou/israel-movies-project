@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נסיעת-מבחן/",
+  "stable_id": "nfct__blog-movies__d65c5b79",
+  "fetched_at": "2026-05-09T17:36:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:36:56Z",
+  "duration_ms": 7967,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a17f8d8918b7204b82f30df89c80e9f75f876a4f0d389133293e72e24289f5e0",
+  "md_bytes": 15693,
+  "links_found": 41,
+  "files_found": 0
+}

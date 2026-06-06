@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האחות-של-מוסוליני/",
+  "stable_id": "nfct__blog-movies__286aab52",
+  "fetched_at": "2026-05-09T21:04:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:04:01Z",
+  "duration_ms": 37360,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f2bfb5b245697be059fc988cc50b6158ecfdb4a0020140b02f67af23cfcca14",
+  "md_bytes": 23556,
+  "links_found": 56,
+  "files_found": 0
+}

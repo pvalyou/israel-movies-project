@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/57-muscles/",
+  "stable_id": "nfct__en-movies-57-muscles__c770c6cb",
+  "fetched_at": "2026-05-11T17:51:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:51:13Z",
+  "duration_ms": 18998,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:00b2dfcbeb3a07d6b0bdd6df05dc735d51fc894ead6b98c26c3e4a5a699c677a",
+  "md_bytes": 12615,
+  "links_found": 36,
+  "files_found": 0
+}

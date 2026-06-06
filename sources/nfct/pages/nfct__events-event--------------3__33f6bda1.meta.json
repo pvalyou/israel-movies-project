@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הקיר-מורן-איפרגן-סינמטק-תל-אביב-3/",
+  "stable_id": "nfct__events-event--------------3__33f6bda1",
+  "fetched_at": "2026-05-15T09:13:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:13:18Z",
+  "duration_ms": 16509,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db242b8317a1d1c63e060226f914769c7cc6a142a41c60cdaf93eccdb7ccaca8",
+  "md_bytes": 10730,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lebanon+Civil+War",
+  "stable_id": "nfct__en-movies-archive_keywords-Lebanon-Civil-War__87e8f76b",
+  "fetched_at": "2026-05-16T16:34:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:35Z",
+  "duration_ms": 6531,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b29d6d94f0445c29cc1e347a02f1c267b8986e08fd89484d4f80b97ddf40f928",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

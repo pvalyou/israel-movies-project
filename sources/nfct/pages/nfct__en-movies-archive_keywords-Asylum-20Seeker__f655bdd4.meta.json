@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Asylum%20Seeker",
+  "stable_id": "nfct__en-movies-archive_keywords-Asylum-20Seeker__f655bdd4",
+  "fetched_at": "2026-05-16T12:42:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:42:57Z",
+  "duration_ms": 10152,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8936797d19a68e7bcbfc4df480df65e7cac9241cf3e7bfe6fbb9f82829f8c059",
+  "md_bytes": 11303,
+  "links_found": 70,
+  "files_found": 0
+}

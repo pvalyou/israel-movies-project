@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/not-today-not-now/",
+  "stable_id": "nfct__en-movies-not-today-not-now__06a60d41",
+  "fetched_at": "2026-05-11T18:01:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:01:13Z",
+  "duration_ms": 24984,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c06ba3348bec89a5695bdd3a6678734ed6820d4b04e85705ae033c895cd417e",
+  "md_bytes": 12544,
+  "links_found": 35,
+  "files_found": 0
+}

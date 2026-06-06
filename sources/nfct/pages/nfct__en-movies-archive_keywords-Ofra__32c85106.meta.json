@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ofra",
+  "stable_id": "nfct__en-movies-archive_keywords-Ofra__32c85106",
+  "fetched_at": "2026-05-16T10:54:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:54:07Z",
+  "duration_ms": 7744,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d6cbd57ff8606b095db490aa73ccce7aaa70441ffddcab1f56a2f1b80ac54cf9",
+  "md_bytes": 10824,
+  "links_found": 69,
+  "files_found": 0
+}

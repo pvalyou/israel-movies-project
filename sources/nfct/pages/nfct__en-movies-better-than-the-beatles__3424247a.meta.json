@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/better-than-the-beatles/#UArexazDFN",
+  "stable_id": "nfct__en-movies-better-than-the-beatles__3424247a",
+  "fetched_at": "2026-05-16T09:36:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:36:35Z",
+  "duration_ms": 11471,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:633ea4d0e15df8a5720fd2ea97d7f7d3ab57f0bc19767647ba156906dde05248",
+  "md_bytes": 12061,
+  "links_found": 33,
+  "files_found": 0
+}

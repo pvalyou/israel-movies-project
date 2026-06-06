@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שכח-מזה-שום-דבר-לא-קרה/",
+  "stable_id": "nfct__blog-movies__fb47b633",
+  "fetched_at": "2026-05-09T17:36:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:36:17Z",
+  "duration_ms": 20671,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e57b00ec22cf5dc660dcd1ad8db99819e6715314371528a11d39d69146d4888",
+  "md_bytes": 18899,
+  "links_found": 42,
+  "files_found": 0
+}

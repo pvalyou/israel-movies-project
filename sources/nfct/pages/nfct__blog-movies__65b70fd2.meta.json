@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ויה-דלרוזה/",
+  "stable_id": "nfct__blog-movies__65b70fd2",
+  "fetched_at": "2026-05-09T19:44:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:44:59Z",
+  "duration_ms": 9392,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8692f2c2770351aed7b481791d709e448532633175cbb42b06fda394cd9a5abc",
+  "md_bytes": 16601,
+  "links_found": 41,
+  "files_found": 0
+}

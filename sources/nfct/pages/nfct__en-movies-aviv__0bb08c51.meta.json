@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/aviv/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-aviv__0bb08c51",
+  "fetched_at": "2026-05-16T15:38:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:38:24Z",
+  "duration_ms": 17141,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:991e23c474a49794b7c4d486e272bb5803f3a388278fff7f2fb4e75751e88f5d",
+  "md_bytes": 16386,
+  "links_found": 45,
+  "files_found": 0
+}

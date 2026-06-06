@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/megido/",
+  "stable_id": "nfct__en-movies-megido__31f73905",
+  "fetched_at": "2026-05-12T00:45:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:45:38Z",
+  "duration_ms": 15546,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc8e85aafbdcc90e2612bb96401920d1685c599c4cf104eb652f0f08bd129d16",
+  "md_bytes": 12239,
+  "links_found": 30,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המוזיאון-רן-טל-קולנוע-לב-הוד-השר/",
+  "stable_id": "nfct__events-event__d2869e23",
+  "fetched_at": "2026-05-10T03:07:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T03:07:35Z",
+  "duration_ms": 20392,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c6869ef342de21ecf92f3a25aec358388f78e93453e5b0766a3b43e284d3293d",
+  "md_bytes": 10540,
+  "links_found": 22,
+  "files_found": 0
+}

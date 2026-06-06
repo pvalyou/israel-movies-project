@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Art%20Collection",
+  "stable_id": "nfct__en-movies-archive_keywords-Art-20Collection__894aac39",
+  "fetched_at": "2026-05-16T20:32:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:42Z",
+  "duration_ms": 9224,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5cc640d9b2cacec34a36f462a1a7920077538b3d41e96a821dfb0200ed4fe0af",
+  "md_bytes": 13163,
+  "links_found": 74,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Haredi",
+  "stable_id": "nfct__en-movies-archive_keywords-Haredi__958bd1aa",
+  "fetched_at": "2026-05-16T12:53:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:53:58Z",
+  "duration_ms": 12203,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0775ceecd1b722e614bdd33330fd6d9caad8d6cb27cdf22412f09c569b15b38c",
+  "md_bytes": 12213,
+  "links_found": 73,
+  "files_found": 0
+}

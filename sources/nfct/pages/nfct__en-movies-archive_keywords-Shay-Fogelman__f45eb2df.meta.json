@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shay+Fogelman",
+  "stable_id": "nfct__en-movies-archive_keywords-Shay-Fogelman__f45eb2df",
+  "fetched_at": "2026-05-16T16:25:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:25:10Z",
+  "duration_ms": 10549,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:690fd8fd7154feed7adc4b8c3849ed1fcb2d4d0f9da4176b7a6416350b41f5bd",
+  "md_bytes": 10267,
+  "links_found": 68,
+  "files_found": 0
+}

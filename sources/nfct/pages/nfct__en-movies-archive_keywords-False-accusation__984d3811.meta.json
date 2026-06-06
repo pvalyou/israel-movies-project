@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=False+accusation",
+  "stable_id": "nfct__en-movies-archive_keywords-False-accusation__984d3811",
+  "fetched_at": "2026-05-16T20:20:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:20:36Z",
+  "duration_ms": 5669,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:270edbebc65eb1a0bd745140774db54275e65b3a535a28ab56c18bdb1e5b75dc",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

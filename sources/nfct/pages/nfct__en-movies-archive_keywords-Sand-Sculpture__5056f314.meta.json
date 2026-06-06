@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sand+Sculpture",
+  "stable_id": "nfct__en-movies-archive_keywords-Sand-Sculpture__5056f314",
+  "fetched_at": "2026-05-16T15:43:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:43:00Z",
+  "duration_ms": 8580,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:479c37304518bf8a06a188b403a0666a5fa32abe406f19ea9cdc0981afea4973",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

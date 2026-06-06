@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/4015-2/",
+  "stable_id": "nfct__en-movies-4015-2__0d518ea4",
+  "fetched_at": "2026-05-12T04:39:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:39:38Z",
+  "duration_ms": 31513,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7439139b2c0797460e4f73f72fa8891b0b48b158e1918db7a5cc855e54c4ebb9",
+  "md_bytes": 11133,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Experimental%20Cinema",
+  "stable_id": "nfct__en-movies-archive_category-Experimental-20Cinema__97e91d83",
+  "fetched_at": "2026-05-16T04:53:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:53:19Z",
+  "duration_ms": 7910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27bbed8ee7ca0ce64638dd7f86d2861dba79e5b83a9fa6091b7efa1bc737b384",
+  "md_bytes": 17332,
+  "links_found": 82,
+  "files_found": 0
+}

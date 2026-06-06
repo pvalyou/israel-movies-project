@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=martyr",
+  "stable_id": "nfct__en-movies-archive_keywords-martyr__a94a8e91",
+  "fetched_at": "2026-05-16T04:23:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:23:50Z",
+  "duration_ms": 8042,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb656a350df08a7b2e4d86035537435c40874b92a8c6ee74948c5bbb7a46f471",
+  "md_bytes": 9787,
+  "links_found": 67,
+  "files_found": 0
+}

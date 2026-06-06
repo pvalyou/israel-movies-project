@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Consumate",
+  "stable_id": "nfct__en-movies-archive_keywords-Consumate__927522aa",
+  "fetched_at": "2026-05-16T13:58:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:58:40Z",
+  "duration_ms": 6145,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c2c910ba815ea6b820e16f1ec0524c7e7bfff0c78847fd08f09a51a5c178ac41",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

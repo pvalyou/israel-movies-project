@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/5-מצלמות-שבורות/",
+  "stable_id": "nfct__blog-movies-5__57cb2939",
+  "fetched_at": "2026-05-09T21:32:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:32:45Z",
+  "duration_ms": 16863,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb5b2e5e80da58a021b9ccc2c397204616c427176e49a288229e70d602a787ae",
+  "md_bytes": 22923,
+  "links_found": 49,
+  "files_found": 0
+}

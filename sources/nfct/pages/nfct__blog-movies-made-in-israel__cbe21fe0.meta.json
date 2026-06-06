@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/made-in-israel…עשייה-הישראלית/",
+  "stable_id": "nfct__blog-movies-made-in-israel__cbe21fe0",
+  "fetched_at": "2026-05-16T08:38:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:38:00Z",
+  "duration_ms": 20401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ca4fa8a70530ab22179717000e87ec230e5a149c253bb65905169ff33b29078d",
+  "md_bytes": 8212,
+  "links_found": 21,
+  "files_found": 0
+}

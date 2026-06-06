@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-assassination/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-assassination__24280e48",
+  "fetched_at": "2026-05-16T16:29:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:29:26Z",
+  "duration_ms": 7602,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e3466c4679f7bf10ac6385259c3bb044b34e8a90cbb4794a30d0070bdd550ca",
+  "md_bytes": 12675,
+  "links_found": 38,
+  "files_found": 0
+}

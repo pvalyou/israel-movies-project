@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-exchange/",
+  "stable_id": "nfct__en-movies-the-exchange__3f2da25c",
+  "fetched_at": "2026-05-11T19:47:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:47:12Z",
+  "duration_ms": 13211,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6518c2e9429752bd3e532aa7401e77d630adacd7200615d93a9357d41e544aec",
+  "md_bytes": 12244,
+  "links_found": 32,
+  "files_found": 0
+}

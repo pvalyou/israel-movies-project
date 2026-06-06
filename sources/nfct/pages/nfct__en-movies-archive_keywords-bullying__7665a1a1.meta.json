@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bullying",
+  "stable_id": "nfct__en-movies-archive_keywords-bullying__7665a1a1",
+  "fetched_at": "2026-05-16T15:11:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:11:37Z",
+  "duration_ms": 6300,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07859e1bbccc647caa35e3c1482deaf7ec43aceb75a6f9517316f11451f3ccf5",
+  "md_bytes": 10193,
+  "links_found": 68,
+  "files_found": 0
+}

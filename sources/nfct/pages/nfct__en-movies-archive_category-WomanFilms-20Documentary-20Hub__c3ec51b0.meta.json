@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=WomanFilms%20Documentary%20Hub",
+  "stable_id": "nfct__en-movies-archive_category-WomanFilms-20Documentary-20Hub__c3ec51b0",
+  "fetched_at": "2026-05-16T12:55:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:55:26Z",
+  "duration_ms": 9203,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b51c89eb1c015cbbcb4cc5c860b2b2d6adfdaf3febac5861d134189ff0c35345",
+  "md_bytes": 11469,
+  "links_found": 70,
+  "files_found": 0
+}

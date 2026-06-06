@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-קופסה-כחולה-מיכל-ויץ-סינמטק-תל-א-3/",
+  "stable_id": "nfct__events-event----------------3__b14cc812",
+  "fetched_at": "2026-05-09T23:32:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T23:32:22Z",
+  "duration_ms": 57700,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb5305193cf370944eef956fc0c48d173b19b7dd82c560133d5bc8605e5fb442",
+  "md_bytes": 13232,
+  "links_found": 28,
+  "files_found": 0
+}

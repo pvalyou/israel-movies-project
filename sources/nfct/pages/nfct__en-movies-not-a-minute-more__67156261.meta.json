@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/not-a-minute-more/",
+  "stable_id": "nfct__en-movies-not-a-minute-more__67156261",
+  "fetched_at": "2026-05-15T15:30:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:30:40Z",
+  "duration_ms": 15494,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:302069ba77d2d300f4b0c0656f3e52fb8309f0144d166830c1bf221982a07665",
+  "md_bytes": 12656,
+  "links_found": 33,
+  "files_found": 0
+}

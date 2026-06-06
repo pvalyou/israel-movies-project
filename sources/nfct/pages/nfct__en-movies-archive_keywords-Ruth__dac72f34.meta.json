@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ruth",
+  "stable_id": "nfct__en-movies-archive_keywords-Ruth__dac72f34",
+  "fetched_at": "2026-05-16T12:40:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:40:49Z",
+  "duration_ms": 10797,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84cc92a59ae51c6d6f0de731daf0bdd54ad56d85ad99f778df4b40748436f84e",
+  "md_bytes": 16636,
+  "links_found": 82,
+  "files_found": 0
+}

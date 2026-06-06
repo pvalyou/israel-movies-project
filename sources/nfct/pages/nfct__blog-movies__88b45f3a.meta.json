@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אבא-שלי-סוחר-סמים/",
+  "stable_id": "nfct__blog-movies__88b45f3a",
+  "fetched_at": "2026-05-09T20:31:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:31:04Z",
+  "duration_ms": 68477,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5b1ae8ae778bb5d7467fe0a097c7806607266034e2c05f628fa9a6ee8f1f989",
+  "md_bytes": 19840,
+  "links_found": 46,
+  "files_found": 0
+}

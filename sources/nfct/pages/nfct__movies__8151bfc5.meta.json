@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/לילה-לבן/",
+  "stable_id": "nfct__movies__8151bfc5",
+  "fetched_at": "2026-05-16T03:05:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:05:56Z",
+  "duration_ms": 13556,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae767a2178adf503aa742e49c3149cd10cf278fb03e46badbdf19c1f12d783ea",
+  "md_bytes": 7986,
+  "links_found": 21,
+  "files_found": 0
+}

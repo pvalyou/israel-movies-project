@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/con-ver-sa-tion/",
+  "stable_id": "nfct__blog-movies-con-ver-sa-tion__19e085b7",
+  "fetched_at": "2026-05-09T17:20:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:20:03Z",
+  "duration_ms": 20161,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab62c0b60ec2fcd5830f3648282b59e9b3b8801fafaa77d29a1c0254b234b33a",
+  "md_bytes": 14892,
+  "links_found": 31,
+  "files_found": 0
+}

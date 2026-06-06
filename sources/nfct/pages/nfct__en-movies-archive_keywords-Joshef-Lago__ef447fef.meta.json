@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Joshef+Lago",
+  "stable_id": "nfct__en-movies-archive_keywords-Joshef-Lago__ef447fef",
+  "fetched_at": "2026-05-16T16:34:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:30Z",
+  "duration_ms": 8025,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:357af8cb72090feca21ebe2b933059404408c1d0e3e8b1a35c9741f4a6346868",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

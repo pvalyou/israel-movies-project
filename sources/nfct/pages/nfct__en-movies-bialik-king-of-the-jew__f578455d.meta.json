@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bialik-king-of-the-jew/",
+  "stable_id": "nfct__en-movies-bialik-king-of-the-jew__f578455d",
+  "fetched_at": "2026-05-11T18:23:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:23:28Z",
+  "duration_ms": 11678,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:509bcbe79161ce6c3eb05df78dcb36c682e68a29072854ee24efc31cf22de884",
+  "md_bytes": 12639,
+  "links_found": 31,
+  "files_found": 0
+}

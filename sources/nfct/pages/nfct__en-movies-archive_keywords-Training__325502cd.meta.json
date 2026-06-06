@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Training",
+  "stable_id": "nfct__en-movies-archive_keywords-Training__325502cd",
+  "fetched_at": "2026-05-16T13:07:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:07:11Z",
+  "duration_ms": 10428,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d87b1cec6e6362692079ead67421127645254b14d7079335e2b4b4f35116fb9",
+  "md_bytes": 12692,
+  "links_found": 75,
+  "files_found": 0
+}

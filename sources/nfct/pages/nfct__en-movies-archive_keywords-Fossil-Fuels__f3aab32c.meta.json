@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fossil+Fuels",
+  "stable_id": "nfct__en-movies-archive_keywords-Fossil-Fuels__f3aab32c",
+  "fetched_at": "2026-05-16T16:03:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:03:06Z",
+  "duration_ms": 9192,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:49b9423f8dfdf6252a61e143e308f737c36211ec6e6a717e72ecdad8d1706567",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

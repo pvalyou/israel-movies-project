@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=John%20Demjanjuk",
+  "stable_id": "nfct__en-movies-archive_keywords-John-20Demjanjuk__f6bfd92e",
+  "fetched_at": "2026-05-16T16:06:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:06:44Z",
+  "duration_ms": 6524,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b9b6e51df099b501626bdae4aa8117c8ebbf4e63f2cde910a794263fe4cb783c",
+  "md_bytes": 10060,
+  "links_found": 68,
+  "files_found": 0
+}

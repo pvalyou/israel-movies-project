@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חמוצים/",
+  "stable_id": "nfct__blog-movies__be009825",
+  "fetched_at": "2026-05-09T21:00:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:00:09Z",
+  "duration_ms": 25022,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c6f0bf604e4bd83a07f16c5fdf063d7f15322da9288ccc56885d80986a015cc5",
+  "md_bytes": 18453,
+  "links_found": 37,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Haifa%20Bay",
+  "stable_id": "nfct__en-movies-archive_keywords-Haifa-20Bay__258c9d62",
+  "fetched_at": "2026-05-16T16:02:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:02:56Z",
+  "duration_ms": 6517,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2301b5232febebc0c2c7c595e6d12892a03761aaa2b328952544f6ce793f3ee1",
+  "md_bytes": 10155,
+  "links_found": 68,
+  "files_found": 0
+}

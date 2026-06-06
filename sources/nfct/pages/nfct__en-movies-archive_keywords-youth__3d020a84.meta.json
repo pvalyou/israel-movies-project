@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=youth",
+  "stable_id": "nfct__en-movies-archive_keywords-youth__3d020a84",
+  "fetched_at": "2026-05-16T06:16:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:16:57Z",
+  "duration_ms": 8025,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:31cf5db40cde7d7541bcddd11dc7408379b2f04d56350c1406cd5dcc48984b55",
+  "md_bytes": 15222,
+  "links_found": 82,
+  "files_found": 0
+}

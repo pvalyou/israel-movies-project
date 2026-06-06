@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=lonelinesse",
+  "stable_id": "nfct__en-movies-archive_keywords-lonelinesse__5cc2d7be",
+  "fetched_at": "2026-05-16T12:23:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:23:38Z",
+  "duration_ms": 17602,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84b1ed9d6934f35b3761ab332e32505004f6531b2d5ea6183e056c9ec73af573",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

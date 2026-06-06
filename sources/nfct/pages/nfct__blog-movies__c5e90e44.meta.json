@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לילה-אפל/",
+  "stable_id": "nfct__blog-movies__c5e90e44",
+  "fetched_at": "2026-05-09T17:51:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:51:51Z",
+  "duration_ms": 25280,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf2352336fc31145c9bac3c6de56bbb8813780394a9ea1350d4d4671dfac4ee2",
+  "md_bytes": 18437,
+  "links_found": 36,
+  "files_found": 0
+}

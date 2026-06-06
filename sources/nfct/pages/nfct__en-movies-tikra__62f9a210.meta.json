@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/tikra/",
+  "stable_id": "nfct__en-movies-tikra__62f9a210",
+  "fetched_at": "2026-05-15T15:20:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:20:39Z",
+  "duration_ms": 7512,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:64c71299e8aa7443990c100c807c445c1f61a784d0ad97ac5905724ea1816273",
+  "md_bytes": 13118,
+  "links_found": 39,
+  "files_found": 0
+}

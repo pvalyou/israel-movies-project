@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הפרטיזנית/",
+  "stable_id": "nfct__blog-movies__c94ca0d0",
+  "fetched_at": "2026-05-09T20:38:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:38:18Z",
+  "duration_ms": 22711,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef9beab15464c648730991844b559775a8c0a64577d99fab7c67c5a6be142992",
+  "md_bytes": 19757,
+  "links_found": 49,
+  "files_found": 0
+}

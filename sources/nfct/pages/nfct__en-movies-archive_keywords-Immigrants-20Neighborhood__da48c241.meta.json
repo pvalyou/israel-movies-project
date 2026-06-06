@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Immigrants%20Neighborhood",
+  "stable_id": "nfct__en-movies-archive_keywords-Immigrants-20Neighborhood__da48c241",
+  "fetched_at": "2026-05-16T14:10:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:10:48Z",
+  "duration_ms": 7621,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:168ab95cd9a7521a79fc2bc7a274bcc0792b8b542d5c8e1a5af5bf18fdf5a9ad",
+  "md_bytes": 12307,
+  "links_found": 72,
+  "files_found": 0
+}

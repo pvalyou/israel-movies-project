@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tibet%3B+Buddhism%3B+reincarnation%3B+Dalai+Lama",
+  "stable_id": "nfct__en-movies-archive_keywords-Tibet-3B-Buddhism-3B-reincarnation-3B-Dalai-Lama__552f6bc4",
+  "fetched_at": "2026-05-16T15:40:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:40:28Z",
+  "duration_ms": 15721,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a208a3e2aa7d083fa032220b42f99c6b644395b11fbbb9348e2d7ef1bd1829f",
+  "md_bytes": 9865,
+  "links_found": 67,
+  "files_found": 0
+}

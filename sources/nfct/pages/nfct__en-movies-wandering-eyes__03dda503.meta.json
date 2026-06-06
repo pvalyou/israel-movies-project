@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/wandering-eyes/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-wandering-eyes__03dda503",
+  "fetched_at": "2026-05-16T13:31:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:31:49Z",
+  "duration_ms": 8743,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:75135f74f53556232180ed523bff68fd37f2bb41f22eba822c712fcab55ebcd2",
+  "md_bytes": 13687,
+  "links_found": 38,
+  "files_found": 0
+}

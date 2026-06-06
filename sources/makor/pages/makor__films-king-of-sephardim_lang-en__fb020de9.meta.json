@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/king-of-sephardim/?lang=en",
+  "stable_id": "makor__films-king-of-sephardim_lang-en__fb020de9",
+  "fetched_at": "2026-05-09T13:19:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:19:01Z",
+  "duration_ms": 13019,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:777d9907bd0dea3b08485727ca21d8d4a565d1ab8aa738ac8c36892fa3abc4be",
+  "md_bytes": 2817,
+  "links_found": 4,
+  "files_found": 0
+}

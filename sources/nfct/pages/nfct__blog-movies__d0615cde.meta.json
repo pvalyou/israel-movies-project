@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החבר-הערבי-שלי/",
+  "stable_id": "nfct__blog-movies__d0615cde",
+  "fetched_at": "2026-05-09T17:18:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:18:42Z",
+  "duration_ms": 20119,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:986873191bd105ad919d107cf3f8020b8041624985a69451843eb631623d7178",
+  "md_bytes": 18133,
+  "links_found": 38,
+  "files_found": 0
+}

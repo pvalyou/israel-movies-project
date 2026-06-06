@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מת-לכעוס/",
+  "stable_id": "nfct__blog-movies__c1fc4197",
+  "fetched_at": "2026-05-09T17:53:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:53:03Z",
+  "duration_ms": 32381,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:668b6e9972707358d55c5800704a5a4b4044335868077ed8caa047cedc0f4c7b",
+  "md_bytes": 17879,
+  "links_found": 45,
+  "files_found": 0
+}

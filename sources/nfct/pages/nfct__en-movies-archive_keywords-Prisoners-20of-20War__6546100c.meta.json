@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Prisoners%20of%20War",
+  "stable_id": "nfct__en-movies-archive_keywords-Prisoners-20of-20War__6546100c",
+  "fetched_at": "2026-05-16T13:13:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:13:01Z",
+  "duration_ms": 8382,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa437c9497a3bcfc6cf127e92186521f48981c7bc7649680041ad2d576106ea9",
+  "md_bytes": 12139,
+  "links_found": 72,
+  "files_found": 0
+}

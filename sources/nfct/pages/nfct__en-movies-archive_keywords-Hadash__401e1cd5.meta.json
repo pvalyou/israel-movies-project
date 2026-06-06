@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hadash",
+  "stable_id": "nfct__en-movies-archive_keywords-Hadash__401e1cd5",
+  "fetched_at": "2026-05-16T16:10:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:10:47Z",
+  "duration_ms": 10787,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:080c6720eeb8f576e2670ecc0e4b728494a9c4df4b72592bf37d45ecdb84a793",
+  "md_bytes": 10001,
+  "links_found": 68,
+  "files_found": 0
+}

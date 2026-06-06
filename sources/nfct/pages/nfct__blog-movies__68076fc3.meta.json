@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זונה-כמוני/",
+  "stable_id": "nfct__blog-movies__68076fc3",
+  "fetched_at": "2026-05-15T09:02:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:21Z",
+  "duration_ms": 11383,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:978b8adec7644722db8e54a9294f5eab0afa61882a1b465e423550ac1086de62",
+  "md_bytes": 15008,
+  "links_found": 35,
+  "files_found": 0
+}

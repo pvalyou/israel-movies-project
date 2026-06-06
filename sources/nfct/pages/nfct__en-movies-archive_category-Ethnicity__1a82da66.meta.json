@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Ethnicity",
+  "stable_id": "nfct__en-movies-archive_category-Ethnicity__1a82da66",
+  "fetched_at": "2026-05-16T05:13:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:13:27Z",
+  "duration_ms": 7215,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a70f147d3fd31b6534e89fb7da669cf54a0c4e71c77c4396327c9e0f235e1930",
+  "md_bytes": 15982,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=ethics",
+  "stable_id": "nfct__en-movies-archive_keywords-ethics__2976d0bc",
+  "fetched_at": "2026-05-16T10:43:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:43:12Z",
+  "duration_ms": 8709,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10cdbedcc08acb32ad488ac49130e2418bbbf92f3696de8b0d8d48782ecc35c0",
+  "md_bytes": 10498,
+  "links_found": 69,
+  "files_found": 0
+}

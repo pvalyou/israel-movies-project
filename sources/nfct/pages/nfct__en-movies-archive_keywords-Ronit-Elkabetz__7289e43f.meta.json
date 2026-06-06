@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ronit+Elkabetz",
+  "stable_id": "nfct__en-movies-archive_keywords-Ronit-Elkabetz__7289e43f",
+  "fetched_at": "2026-05-16T14:46:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:14Z",
+  "duration_ms": 9004,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d73adc22687b50066f7dc7f7b3f09294a1ef3ac722c501667198a2e72a836030",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

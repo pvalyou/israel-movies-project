@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Margalit+Zeinati",
+  "stable_id": "nfct__en-movies-archive_keywords-Margalit-Zeinati__c01746a9",
+  "fetched_at": "2026-05-16T17:31:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:31:11Z",
+  "duration_ms": 19365,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78247650ca912d832ac093da2b038914ecc2ec58f523fcfee820b477dc965f3c",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

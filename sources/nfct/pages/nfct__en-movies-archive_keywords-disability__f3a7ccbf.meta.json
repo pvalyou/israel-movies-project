@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=disability",
+  "stable_id": "nfct__en-movies-archive_keywords-disability__f3a7ccbf",
+  "fetched_at": "2026-05-16T20:59:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:59:27Z",
+  "duration_ms": 9962,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6889f5b40399ef6b1ae6cc7bd7f8d3046aa4873b2e42a34b30c379cf56926c91",
+  "md_bytes": 11404,
+  "links_found": 71,
+  "files_found": 0
+}

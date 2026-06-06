@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/scattegories/#UAMainContent",
+  "stable_id": "nfct__en-movies-scattegories__1f6736c4",
+  "fetched_at": "2026-05-16T12:50:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:50:10Z",
+  "duration_ms": 14161,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e68a12351ac0884809b1bbcba0ecffd56ab844ba4c91c646e783be545fd4613f",
+  "md_bytes": 13405,
+  "links_found": 35,
+  "files_found": 0
+}

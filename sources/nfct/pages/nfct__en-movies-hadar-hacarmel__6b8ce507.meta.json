@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hadar-hacarmel/",
+  "stable_id": "nfct__en-movies-hadar-hacarmel__6b8ce507",
+  "fetched_at": "2026-05-11T19:51:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:51:10Z",
+  "duration_ms": 24533,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:100d459ef715ee6ab53b269938c9c144045b32a20606e793488f2bac4d4ff3de",
+  "md_bytes": 13299,
+  "links_found": 38,
+  "files_found": 0
+}

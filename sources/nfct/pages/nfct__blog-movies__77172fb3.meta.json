@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אני-עייף/",
+  "stable_id": "nfct__blog-movies__77172fb3",
+  "fetched_at": "2026-05-09T17:25:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:25:33Z",
+  "duration_ms": 48402,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef4c6f923f911d3ada3ac5ce8cdc569df539493009a6406f8111e01cb1d90cde",
+  "md_bytes": 14406,
+  "links_found": 33,
+  "files_found": 0
+}

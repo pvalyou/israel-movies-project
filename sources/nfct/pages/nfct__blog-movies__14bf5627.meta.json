@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האולימפיאדה-הראשונה-של-אמא/",
+  "stable_id": "nfct__blog-movies__14bf5627",
+  "fetched_at": "2026-05-09T16:53:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:53:46Z",
+  "duration_ms": 21748,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c031fadebbc744f3a57e7323eb87d31ea2d58cb1a0a76d4ac85b7c388fe09135",
+  "md_bytes": 19863,
+  "links_found": 46,
+  "files_found": 0
+}

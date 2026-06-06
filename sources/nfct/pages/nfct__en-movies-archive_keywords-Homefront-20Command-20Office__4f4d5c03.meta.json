@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Homefront%20Command%20Office",
+  "stable_id": "nfct__en-movies-archive_keywords-Homefront-20Command-20Office__4f4d5c03",
+  "fetched_at": "2026-05-16T13:26:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:26:55Z",
+  "duration_ms": 11297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:11eee889ff43f372e50c40b7286f30988e526144c1fbfbe60223d7038c0e86f3",
+  "md_bytes": 10299,
+  "links_found": 68,
+  "files_found": 0
+}

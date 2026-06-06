@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish%20settlments",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-20settlments__923cbcd6",
+  "fetched_at": "2026-05-16T15:44:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:44:00Z",
+  "duration_ms": 5769,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d1dc67e9e235d11f6b27a80f6faea8e3e0561694fe67bcd313b2e135c77dbaa3",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Natan%20Yonatan",
+  "stable_id": "nfct__en-movies-archive_keywords-Natan-20Yonatan__8f0576ff",
+  "fetched_at": "2026-05-16T13:10:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:10:19Z",
+  "duration_ms": 11125,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da0b63b77f27e40f5b33f47700b869b27607a183ad758b847be6c1d2b663b551",
+  "md_bytes": 13154,
+  "links_found": 74,
+  "files_found": 0
+}

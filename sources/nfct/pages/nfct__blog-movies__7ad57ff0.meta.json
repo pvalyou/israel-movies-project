@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החצי-השני/",
+  "stable_id": "nfct__blog-movies__7ad57ff0",
+  "fetched_at": "2026-05-09T17:38:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:38:14Z",
+  "duration_ms": 10095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc6dde18b09d8221cb8ff2ae27bfd4f240cd61b1cbe6bf7e2b5643243c4ac31d",
+  "md_bytes": 15642,
+  "links_found": 36,
+  "files_found": 0
+}

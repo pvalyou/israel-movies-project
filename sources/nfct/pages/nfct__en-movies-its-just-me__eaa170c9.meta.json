@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/its-just-me/",
+  "stable_id": "nfct__en-movies-its-just-me__eaa170c9",
+  "fetched_at": "2026-05-11T20:24:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:24:56Z",
+  "duration_ms": 49159,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8952be2ffafff58e34799c57fbe242f368ccb44a8c7a80160d29e9363c2a3ef0",
+  "md_bytes": 13092,
+  "links_found": 36,
+  "files_found": 0
+}

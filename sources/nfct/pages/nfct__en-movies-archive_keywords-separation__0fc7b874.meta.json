@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=separation",
+  "stable_id": "nfct__en-movies-archive_keywords-separation__0fc7b874",
+  "fetched_at": "2026-05-16T07:17:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:17:38Z",
+  "duration_ms": 6196,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1cf77d539f20747dcb22564bd03589c016a4c4fd7401b96467421a07e42da65",
+  "md_bytes": 14764,
+  "links_found": 78,
+  "files_found": 0
+}

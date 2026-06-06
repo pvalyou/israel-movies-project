@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Emil+Habibi",
+  "stable_id": "nfct__en-movies-archive_keywords-Emil-Habibi__cb02fac1",
+  "fetched_at": "2026-05-16T03:55:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:55:10Z",
+  "duration_ms": 6391,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e040f3b300a125dc017135a0b50f912388167f23665bd81b9b746051c662d6f2",
+  "md_bytes": 10519,
+  "links_found": 69,
+  "files_found": 0
+}

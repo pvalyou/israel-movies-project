@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הוסטל-זבוטינסקי/",
+  "stable_id": "nfct__blog-movies__b8683a23",
+  "fetched_at": "2026-05-09T19:09:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:09:56Z",
+  "duration_ms": 22318,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13918f5c31560974b4a247ab1aebf1674ceb0da0a939d71752805bcce0cfbef7",
+  "md_bytes": 18155,
+  "links_found": 37,
+  "files_found": 0
+}

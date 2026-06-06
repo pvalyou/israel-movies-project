@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/on-the-edge/#UAMainContent",
+  "stable_id": "nfct__en-movies-on-the-edge__392de715",
+  "fetched_at": "2026-05-16T15:20:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:20:12Z",
+  "duration_ms": 8297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b2cbaa8cf43dcf6544d8701471c9445934c9d655c7644921bcad6c958ae6096c",
+  "md_bytes": 13007,
+  "links_found": 39,
+  "files_found": 0
+}

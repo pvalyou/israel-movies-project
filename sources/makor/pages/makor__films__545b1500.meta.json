@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/דבש-שחור-שירת-חייו-של-אברהם-סוצקבר/",
+  "stable_id": "makor__films__545b1500",
+  "fetched_at": "2026-05-09T13:10:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:10:11Z",
+  "duration_ms": 21982,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f328ff23855675e70c821d0300b448e01d970ddd23c6deda5ba09776ba06b16",
+  "md_bytes": 3554,
+  "links_found": 4,
+  "files_found": 0
+}

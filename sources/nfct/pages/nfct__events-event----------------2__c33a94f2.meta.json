@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-שיר-למעלות-דוד-אופק-וגד-אייזן-פס-2/",
+  "stable_id": "nfct__events-event----------------2__c33a94f2",
+  "fetched_at": "2026-05-10T02:14:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:14:49Z",
+  "duration_ms": 12321,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8e081839f5f137be5169d833d82c610aea8529b3ea2a280146787927e05f4912",
+  "md_bytes": 10315,
+  "links_found": 22,
+  "files_found": 0
+}

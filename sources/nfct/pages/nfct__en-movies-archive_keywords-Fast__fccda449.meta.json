@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fast",
+  "stable_id": "nfct__en-movies-archive_keywords-Fast__fccda449",
+  "fetched_at": "2026-05-16T12:29:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:29:26Z",
+  "duration_ms": 10247,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e13ae537c49469c09f43cadb4796ed1205392008e3a81a0a0f79f98aba543b77",
+  "md_bytes": 12506,
+  "links_found": 74,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מסכת-פאה-רחל-אליצור-סינמטק-תל-אב/",
+  "stable_id": "nfct__events-event__e226c4ad",
+  "fetched_at": "2026-05-10T01:46:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:46:59Z",
+  "duration_ms": 31212,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0995084c0e507171cd8366cc11e40d019c1ce52a90d4e94af3af9185db6beb3c",
+  "md_bytes": 10997,
+  "links_found": 22,
+  "files_found": 0
+}

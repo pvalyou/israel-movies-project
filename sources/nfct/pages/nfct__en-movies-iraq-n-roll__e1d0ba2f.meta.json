@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/iraq-n-roll/#UAMainContent",
+  "stable_id": "nfct__en-movies-iraq-n-roll__e1d0ba2f",
+  "fetched_at": "2026-05-16T10:10:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:07Z",
+  "duration_ms": 17157,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0e388eccf393bd5c9f7c56b7158cae667bf274da688e477fc201d2d2f44b4df",
+  "md_bytes": 14410,
+  "links_found": 35,
+  "files_found": 0
+}

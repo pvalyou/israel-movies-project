@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kobi%20Faraj",
+  "stable_id": "nfct__en-movies-archive_keywords-Kobi-20Faraj__facda792",
+  "fetched_at": "2026-05-16T12:20:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:20:54Z",
+  "duration_ms": 8218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08785e0bd49e8380710d02645c003011b1d4b02584b786588be75647f09e5b9a",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

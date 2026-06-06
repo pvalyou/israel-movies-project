@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רינגו-וטהאר/",
+  "stable_id": "nfct__blog-movies__173f1800",
+  "fetched_at": "2026-05-09T20:00:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:00:46Z",
+  "duration_ms": 11615,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba50e3c3812e5f2715e7789a99ef2c544bbf2894277a04c235c3f8836aec1ee5",
+  "md_bytes": 17365,
+  "links_found": 42,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.rabinovichfoundation.org.il/the-arts",
+  "stable_id": "rabinovich_foundation__the-arts__b1099eff",
+  "fetched_at": "2026-05-16T10:44:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:44:48Z",
+  "duration_ms": 1902,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52aeaaaa7a4f407481593fdfe140cbce35b154ed6c70e5fcd778d8ae2a79162e",
+  "md_bytes": 6589,
+  "links_found": 7,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/חממות-הקרן/",
+  "stable_id": "nfct__blog-specials__75984071",
+  "fetched_at": "2026-05-15T08:59:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:43Z",
+  "duration_ms": 8178,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:702af249505795724aa4d22491624bed04b4525696b718950b8b30311ff39402",
+  "md_bytes": 11546,
+  "links_found": 21,
+  "files_found": 0
+}

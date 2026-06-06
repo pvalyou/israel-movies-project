@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-whale/?lang=en",
+  "stable_id": "makor__films-the-whale_lang-en__a82f7f1f",
+  "fetched_at": "2026-05-09T12:50:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:50:05Z",
+  "duration_ms": 15707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a94e4ceb5e6616febbbefc20604f52970fd27eb628f9915f4badf0b8196a1b8d",
+  "md_bytes": 2681,
+  "links_found": 4,
+  "files_found": 0
+}

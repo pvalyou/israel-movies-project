@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/watermarks/#UAMainContent",
+  "stable_id": "nfct__en-movies-watermarks__73afc0ae",
+  "fetched_at": "2026-05-16T16:40:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:40:34Z",
+  "duration_ms": 12311,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17819f40199dad1eb1c3f4cfccbf8582352c67b5a8bfebc1e7913eb482171626",
+  "md_bytes": 17497,
+  "links_found": 35,
+  "files_found": 0
+}

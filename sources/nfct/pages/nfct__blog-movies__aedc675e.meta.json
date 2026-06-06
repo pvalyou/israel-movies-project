@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ארלקינו-מאחורי-המסיכות/",
+  "stable_id": "nfct__blog-movies__aedc675e",
+  "fetched_at": "2026-05-15T09:02:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:08Z",
+  "duration_ms": 7695,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:675b06fc3fc663f8a9dea6b18202c8a671d7378052da18f29b6bcd6b4abd3d72",
+  "md_bytes": 17669,
+  "links_found": 39,
+  "files_found": 0
+}

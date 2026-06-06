@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=reality",
+  "stable_id": "nfct__en-movies-archive_keywords-reality__3b0a5639",
+  "fetched_at": "2026-05-16T16:00:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:00:23Z",
+  "duration_ms": 10355,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc2f10f99f2365dd9c69ed9276635e42dd2474e4de063ea69d43ba18e40646ba",
+  "md_bytes": 16481,
+  "links_found": 82,
+  "files_found": 0
+}

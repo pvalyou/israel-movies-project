@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אהבה-חרשת-ועיוורת/",
+  "stable_id": "nfct__blog-movies__d9009bca",
+  "fetched_at": "2026-05-09T17:09:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:09:23Z",
+  "duration_ms": 20195,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba166550923b7a9a62a960df1ed7e0c678c431fdd68562f8f4229eaf668a2cde",
+  "md_bytes": 18803,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/wild-kids/#UAMainContent",
+  "stable_id": "nfct__en-movies-wild-kids__9a8c4cd9",
+  "fetched_at": "2026-05-16T14:39:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:39:45Z",
+  "duration_ms": 8408,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ad9a07e3289a7944c815445828a73f06dbb25cb3ddab2caa167c7816416c31ab",
+  "md_bytes": 13539,
+  "links_found": 36,
+  "files_found": 0
+}

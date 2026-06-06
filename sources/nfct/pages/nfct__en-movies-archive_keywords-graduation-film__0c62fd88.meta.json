@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=graduation+film",
+  "stable_id": "nfct__en-movies-archive_keywords-graduation-film__0c62fd88",
+  "fetched_at": "2026-05-16T13:42:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:42:39Z",
+  "duration_ms": 9324,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6430c2ba272bd85c9d89ff8c5328c072d643bbd76e35f3011a5108fc133485ba",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

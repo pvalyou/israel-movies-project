@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=industry",
+  "stable_id": "nfct__en-movies-archive_keywords-industry__209454d0",
+  "fetched_at": "2026-05-16T08:27:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:27:50Z",
+  "duration_ms": 6078,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:080da973e8b53174ae7cead75d17baf62db775a3ec6664a6db214395eab3bbcd",
+  "md_bytes": 17004,
+  "links_found": 82,
+  "files_found": 0
+}

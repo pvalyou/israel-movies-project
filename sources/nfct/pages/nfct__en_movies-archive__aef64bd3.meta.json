@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=family+life",
+  "stable_id": "nfct__en_movies-archive__aef64bd3",
+  "fetched_at": "2026-05-18T21:29:53.986801+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=family+life",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "096ccb7a8b7ea9363eeb3e1ffcbad157f7747437b895d5cc5ce3b37b35587db1",
+  "md_bytes": 15888,
+  "links_found": 0,
+  "error": ""
+}

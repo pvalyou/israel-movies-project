@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=1930s",
+  "stable_id": "nfct__en-movies-archive_keywords-1930s__e6ecd4db",
+  "fetched_at": "2026-05-16T13:32:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:32:22Z",
+  "duration_ms": 9227,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ea569afd8271a8478bbbfd5f6edaae1b3a5505f2ceb32915026a0ccc2996903",
+  "md_bytes": 11333,
+  "links_found": 70,
+  "files_found": 0
+}

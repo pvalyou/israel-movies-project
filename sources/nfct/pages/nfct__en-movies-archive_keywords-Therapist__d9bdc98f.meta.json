@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Therapist",
+  "stable_id": "nfct__en-movies-archive_keywords-Therapist__d9bdc98f",
+  "fetched_at": "2026-05-16T09:54:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:54:34Z",
+  "duration_ms": 8694,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae7ee1e1d9e85eeecbd66f3b31339a69148e6b1f7e0bda71dd627ee0ab671c1d",
+  "md_bytes": 12285,
+  "links_found": 72,
+  "files_found": 0
+}

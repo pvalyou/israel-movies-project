@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Self-destruction",
+  "stable_id": "nfct__en-movies-archive_keywords-Self-destruction__a1f044f1",
+  "fetched_at": "2026-05-16T14:24:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:24:38Z",
+  "duration_ms": 5791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fce5efd4ffaebaed1d84e3b0b9ec264fff291bec9cf3b39c50d658fcd64d7785",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/radio-daze/%20%E2%80%8E",
+  "stable_id": "nfct__en-movies-radio-daze-20-E2-80-8E__9f4f74ff",
+  "fetched_at": "2026-05-12T04:20:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:20:45Z",
+  "duration_ms": 8985,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10e60cd202f54f5484d03785fed79f138c991d8404db7a67e70540eda7bfcd88",
+  "md_bytes": 6100,
+  "links_found": 17,
+  "files_found": 0
+}

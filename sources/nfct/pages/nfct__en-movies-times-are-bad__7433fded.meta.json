@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/times-are-bad/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-times-are-bad__7433fded",
+  "fetched_at": "2026-05-16T17:06:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:06:25Z",
+  "duration_ms": 6819,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d4a23d5a9015a3122274dcb73d38f374bb6cc21e91880a68c178c09fe923792",
+  "md_bytes": 11302,
+  "links_found": 29,
+  "files_found": 0
+}

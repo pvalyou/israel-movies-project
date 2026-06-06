@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-partisan/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-partisan__db807bcd",
+  "fetched_at": "2026-05-16T15:22:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:22:35Z",
+  "duration_ms": 13540,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f44b609eb78c8038e9505a5e27c3579f77610cf1a0554296c8d0361837260ae8",
+  "md_bytes": 12740,
+  "links_found": 39,
+  "files_found": 0
+}

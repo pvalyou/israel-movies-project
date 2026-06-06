@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=3D+animation",
+  "stable_id": "nfct__en-movies-archive_keywords-3D-animation__fc8c8b13",
+  "fetched_at": "2026-05-16T13:57:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:57:35Z",
+  "duration_ms": 12141,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:618e6f6698a7bdaf662fc61acc08f7711ed908befafcff6aa4e29b2aec0d6cea",
+  "md_bytes": 10299,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הבית-ברחוב-פין/",
+  "stable_id": "nfct__blog-movies__4e66cc71",
+  "fetched_at": "2026-05-09T20:36:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:36:11Z",
+  "duration_ms": 8375,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b7263bb5507422d17ec2c7a5b8c5ed48e8ee8359d6a4fc4a6ed22292ba6a206d",
+  "md_bytes": 17240,
+  "links_found": 33,
+  "files_found": 0
+}

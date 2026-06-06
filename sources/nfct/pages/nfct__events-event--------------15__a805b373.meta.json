@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-ברש-מיכל-ויניק-סינמטק-תל-אביב-15/",
+  "stable_id": "nfct__events-event--------------15__a805b373",
+  "fetched_at": "2026-05-15T09:09:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:09:06Z",
+  "duration_ms": 10190,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:70fd5e749b463145def64109d4b5c0f135fe76057de57c74f709b4a7afc06a55",
+  "md_bytes": 10531,
+  "links_found": 22,
+  "files_found": 0
+}

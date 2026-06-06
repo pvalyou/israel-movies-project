@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/these-woods/?lang=en",
+  "stable_id": "makor__films-these-woods_lang-en__e441dbd8",
+  "fetched_at": "2026-05-09T12:57:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:57:44Z",
+  "duration_ms": 15615,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c2bc14d079e9601e0953d9072654c40a4fc25cea95c61353a4d3c62bb346f4b1",
+  "md_bytes": 3085,
+  "links_found": 4,
+  "files_found": 0
+}

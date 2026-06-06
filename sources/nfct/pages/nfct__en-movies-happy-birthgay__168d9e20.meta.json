@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/happy-birthgay/",
+  "stable_id": "nfct__en-movies-happy-birthgay__168d9e20",
+  "fetched_at": "2026-05-11T16:15:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:15:12Z",
+  "duration_ms": 22354,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1aca84ac88e51e54f2f31dcd25619fb6634bff333bd88dd737a18b6a4d22968d",
+  "md_bytes": 13089,
+  "links_found": 40,
+  "files_found": 0
+}

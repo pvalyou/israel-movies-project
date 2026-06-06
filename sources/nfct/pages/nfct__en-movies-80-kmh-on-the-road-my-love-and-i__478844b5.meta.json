@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/80-kmh-on-the-road-my-love-and-i/",
+  "stable_id": "nfct__en-movies-80-kmh-on-the-road-my-love-and-i__478844b5",
+  "fetched_at": "2026-05-10T23:56:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T23:56:04Z",
+  "duration_ms": 26721,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:536492a7d72d769c1bbf4cbf599b44a1e1119574d24627ae97204746d87d4822",
+  "md_bytes": 14118,
+  "links_found": 36,
+  "files_found": 0
+}

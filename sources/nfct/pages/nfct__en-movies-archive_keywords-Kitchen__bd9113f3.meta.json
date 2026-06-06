@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kitchen",
+  "stable_id": "nfct__en-movies-archive_keywords-Kitchen__bd9113f3",
+  "fetched_at": "2026-05-16T13:18:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:18:06Z",
+  "duration_ms": 12225,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd8063ac822d9317a7db49965540e24b9762f305f347c45b4f10cb87d2b00304",
+  "md_bytes": 11383,
+  "links_found": 72,
+  "files_found": 0
+}

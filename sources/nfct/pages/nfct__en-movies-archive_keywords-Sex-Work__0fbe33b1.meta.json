@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sex+Work",
+  "stable_id": "nfct__en-movies-archive_keywords-Sex-Work__0fbe33b1",
+  "fetched_at": "2026-05-16T12:25:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:25:17Z",
+  "duration_ms": 10972,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1be9361256c3e71838595a8d853978d982c2c85e50a30e0ac40f0041ebdc67fa",
+  "md_bytes": 13515,
+  "links_found": 76,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Docu%20Drama",
+  "stable_id": "nfct__en-movies-archive_keywords-Docu-20Drama__2ec14ab3",
+  "fetched_at": "2026-05-16T20:39:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:39:37Z",
+  "duration_ms": 8995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e59f721cfb72a248aeff3f87815de1ab2f387cdf5cbb66756f07e5b9a252d7f8",
+  "md_bytes": 15015,
+  "links_found": 79,
+  "files_found": 0
+}

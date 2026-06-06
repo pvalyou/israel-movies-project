@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מדריך-לכיסוי-תחת/",
+  "stable_id": "nfct__blog-movies__5c3d2c5c",
+  "fetched_at": "2026-05-09T17:38:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:38:38Z",
+  "duration_ms": 17270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:913fae9e36ca7028210acd4824628115982928187db7cbcbe545c67eb3a7dace",
+  "md_bytes": 16265,
+  "links_found": 42,
+  "files_found": 0
+}

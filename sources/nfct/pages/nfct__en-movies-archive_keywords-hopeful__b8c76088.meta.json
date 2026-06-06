@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hopeful",
+  "stable_id": "nfct__en-movies-archive_keywords-hopeful__b8c76088",
+  "fetched_at": "2026-05-16T20:22:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:22:37Z",
+  "duration_ms": 6577,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae46fcbfadf220d00d4e49b9c01b8727a35250c3022245383ef45a37a7343d43",
+  "md_bytes": 10585,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Michal%20Aronzon",
+  "stable_id": "nfct__en-movies-archive_keywords-Michal-20Aronzon__6c834348",
+  "fetched_at": "2026-05-16T20:32:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:24Z",
+  "duration_ms": 8305,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a48d094efd57de37112e07a89972cd04f252477ca95914ec0bb9b1702a814bbc",
+  "md_bytes": 10402,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אלכס-ונדיה-לנצח/",
+  "stable_id": "nfct__blog-movies__5072a160",
+  "fetched_at": "2026-05-09T21:05:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:05:57Z",
+  "duration_ms": 45366,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9efe14c0658a13ce60218e5fdf6dc2c113378efd8dbfd9d2bc63f4f1930c7e38",
+  "md_bytes": 17353,
+  "links_found": 34,
+  "files_found": 0
+}

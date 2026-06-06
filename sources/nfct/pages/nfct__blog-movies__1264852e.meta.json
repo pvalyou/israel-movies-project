@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אמא-של-עומר/",
+  "stable_id": "nfct__blog-movies__1264852e",
+  "fetched_at": "2026-05-09T19:19:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:19:38Z",
+  "duration_ms": 17623,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bdfc3a6b12fd385a987fb87a0f96de0bb23aa4979c7eca431ebf42314c075f5c",
+  "md_bytes": 17530,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אישה-אחות/",
+  "stable_id": "nfct__blog-movies__8a37feb1",
+  "fetched_at": "2026-05-09T17:13:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:13:04Z",
+  "duration_ms": 22720,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1e6208de7f72ece5789e6ec6a6ca3f29a3234afdefdc356402b9f3cf228b29b",
+  "md_bytes": 19592,
+  "links_found": 44,
+  "files_found": 0
+}

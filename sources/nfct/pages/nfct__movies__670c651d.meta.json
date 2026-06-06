@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/סטפן-בראון/",
+  "stable_id": "nfct__movies__670c651d",
+  "fetched_at": "2026-05-16T20:21:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:21:28Z",
+  "duration_ms": 9599,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc6c188ca8310a66c8d877583e23eef0311c8a40837fcfa95da47fed6913bd81",
+  "md_bytes": 8026,
+  "links_found": 21,
+  "files_found": 0
+}

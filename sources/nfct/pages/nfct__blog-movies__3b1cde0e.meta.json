@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הצלמניה/",
+  "stable_id": "nfct__blog-movies__3b1cde0e",
+  "fetched_at": "2026-05-09T17:33:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:33:25Z",
+  "duration_ms": 12966,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d28c1c1ec29d5fd747f859c4dbcbf8cf8e4b715599eeaa0f2d2b9a5b16b0856",
+  "md_bytes": 19835,
+  "links_found": 42,
+  "files_found": 0
+}

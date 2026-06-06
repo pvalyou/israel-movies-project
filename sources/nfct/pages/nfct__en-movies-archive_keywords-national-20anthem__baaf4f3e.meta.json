@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=national%20anthem",
+  "stable_id": "nfct__en-movies-archive_keywords-national-20anthem__baaf4f3e",
+  "fetched_at": "2026-05-16T11:01:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:01:21Z",
+  "duration_ms": 9080,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10b1e964b121b08769c5dc63088d683a9bfb90ac4f8c2ea40b78f811fe2a8782",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

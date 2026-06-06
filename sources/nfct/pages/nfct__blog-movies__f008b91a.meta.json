@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אנא-המתן-לנציג/",
+  "stable_id": "nfct__blog-movies__f008b91a",
+  "fetched_at": "2026-05-09T20:00:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:00:11Z",
+  "duration_ms": 41477,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a984947841c5f01ee562518961f896fb5b0db70d2c83b4120f860073c831cd4",
+  "md_bytes": 13388,
+  "links_found": 27,
+  "files_found": 0
+}

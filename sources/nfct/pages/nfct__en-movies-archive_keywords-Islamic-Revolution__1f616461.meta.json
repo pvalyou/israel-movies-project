@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Islamic+Revolution",
+  "stable_id": "nfct__en-movies-archive_keywords-Islamic-Revolution__1f616461",
+  "fetched_at": "2026-05-16T16:34:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:28Z",
+  "duration_ms": 8306,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8e20e78438d62f4ecd86b6e9b51b003be2e45d742c9ee522f0af37b5138bb79",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

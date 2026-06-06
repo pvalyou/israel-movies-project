@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yitzhak%20Rabin",
+  "stable_id": "nfct__en-movies-archive_keywords-Yitzhak-20Rabin__d1a7be15",
+  "fetched_at": "2026-05-16T10:31:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:31:56Z",
+  "duration_ms": 24312,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d436f6c531585109a61878715090afbdd92b6e1aee45af7587552a61143be53",
+  "md_bytes": 11180,
+  "links_found": 70,
+  "files_found": 0
+}

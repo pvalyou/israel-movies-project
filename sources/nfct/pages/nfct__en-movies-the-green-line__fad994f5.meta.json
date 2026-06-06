@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-green-line/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-green-line__fad994f5",
+  "fetched_at": "2026-05-16T12:47:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:47:07Z",
+  "duration_ms": 12691,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7595c39108e5ba642df1ab3dc487405778a97915902ae905059977fd1f8ed6de",
+  "md_bytes": 15485,
+  "links_found": 49,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.rabinovichfoundation.org.il/",
+  "stable_id": "rabinovich_foundation__root__158e6481",
+  "fetched_at": "2026-05-16T10:44:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:44:28Z",
+  "duration_ms": 1957,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a6567abacfe4d03326dc5f4ff98e23c085654df535b7a8e5c91e39c932f1564e",
+  "md_bytes": 10850,
+  "links_found": 5,
+  "files_found": 0
+}

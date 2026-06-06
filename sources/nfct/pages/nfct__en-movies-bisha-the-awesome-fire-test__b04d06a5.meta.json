@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bisha-the-awesome-fire-test/",
+  "stable_id": "nfct__en-movies-bisha-the-awesome-fire-test__b04d06a5",
+  "fetched_at": "2026-05-11T01:26:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:26:31Z",
+  "duration_ms": 9922,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed9b429c8f5770e54d1deb16f8ff0ca072d3177ee1c19471073421b58fa28477",
+  "md_bytes": 14601,
+  "links_found": 40,
+  "files_found": 0
+}

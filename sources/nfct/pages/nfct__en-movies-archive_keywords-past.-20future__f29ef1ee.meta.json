@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=past.%20future",
+  "stable_id": "nfct__en-movies-archive_keywords-past.-20future__f29ef1ee",
+  "fetched_at": "2026-05-16T17:03:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:03:51Z",
+  "duration_ms": 6292,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a839c7a44916a47d8a6447225f3cafbb5895d749baaa2d2c220e2820387a0343",
+  "md_bytes": 10033,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more/מקבץ-סרטי-תעודה-2/",
+  "stable_id": "makor__more------2__c1b959b4",
+  "fetched_at": "2026-05-09T12:06:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:06:44Z",
+  "duration_ms": 6778,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c3c3eb5a0e3a57dcbf28a2817f31072e6ff9ba9bd3e24541cf5c274d5023e87e",
+  "md_bytes": 5360,
+  "links_found": 16,
+  "files_found": 0
+}

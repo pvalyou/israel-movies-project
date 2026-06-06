@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האחיות-ולדרמה/",
+  "stable_id": "nfct__blog-movies__5b6680f8",
+  "fetched_at": "2026-05-09T17:13:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:13:29Z",
+  "duration_ms": 39517,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:370018fe0ebc4fe373358321bbd44d55a14023d288e4134a4f46c1d64f8c9317",
+  "md_bytes": 20110,
+  "links_found": 41,
+  "files_found": 0
+}

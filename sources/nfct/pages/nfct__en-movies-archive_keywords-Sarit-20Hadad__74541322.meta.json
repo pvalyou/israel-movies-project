@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sarit%20Hadad",
+  "stable_id": "nfct__en-movies-archive_keywords-Sarit-20Hadad__74541322",
+  "fetched_at": "2026-05-16T12:57:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:57:48Z",
+  "duration_ms": 10794,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d61d72c2a1ba11e1f083349f53bc50de3991c61a90810c49f5926c28a17b3ee3",
+  "md_bytes": 10267,
+  "links_found": 68,
+  "files_found": 0
+}

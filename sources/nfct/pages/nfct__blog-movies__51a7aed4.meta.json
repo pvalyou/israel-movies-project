@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דם-ירח/",
+  "stable_id": "nfct__blog-movies__51a7aed4",
+  "fetched_at": "2026-05-09T20:28:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:28:59Z",
+  "duration_ms": 13537,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05209cbbc319337fff7edea5dd7e3899fa0cfbaa9ada67b7fcd6de4eb0048e77",
+  "md_bytes": 16744,
+  "links_found": 37,
+  "files_found": 0
+}

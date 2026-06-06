@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/on-the-way-back/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-on-the-way-back__d4ae2f67",
+  "fetched_at": "2026-05-16T17:44:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:44:42Z",
+  "duration_ms": 7239,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd30975b08ca98623a1da4622ace106d54d71b28bdbd4bd0c75d389e7a81bba4",
+  "md_bytes": 11544,
+  "links_found": 30,
+  "files_found": 0
+}

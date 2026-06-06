@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Assi%20Dayan",
+  "stable_id": "nfct__en-movies-archive_keywords-Assi-20Dayan__ff24e5e8",
+  "fetched_at": "2026-05-16T14:04:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:04:45Z",
+  "duration_ms": 6238,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:807f0be4f7bfb007ee82aee222c0d29fa0e1b027d950cd0bddaeaadd1749f7a6",
+  "md_bytes": 10227,
+  "links_found": 69,
+  "files_found": 0
+}

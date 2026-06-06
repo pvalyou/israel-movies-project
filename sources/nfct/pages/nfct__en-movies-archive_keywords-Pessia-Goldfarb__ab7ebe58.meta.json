@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pessia+Goldfarb",
+  "stable_id": "nfct__en-movies-archive_keywords-Pessia-Goldfarb__ab7ebe58",
+  "fetched_at": "2026-05-16T08:41:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:41:20Z",
+  "duration_ms": 7207,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23e5f4222b6fda1e732877333e124de602eec2592a19721c4a72479710d4a60e",
+  "md_bytes": 10195,
+  "links_found": 68,
+  "files_found": 0
+}

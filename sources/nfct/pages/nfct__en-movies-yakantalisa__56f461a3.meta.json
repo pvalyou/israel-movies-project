@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/yakantalisa/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-yakantalisa__56f461a3",
+  "fetched_at": "2026-05-16T20:59:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:59:21Z",
+  "duration_ms": 10613,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:95f4359dcfd8e8899cbf1e4df29d878f4d38670fcd29370a27feb1462967a5b1",
+  "md_bytes": 13236,
+  "links_found": 35,
+  "files_found": 0
+}

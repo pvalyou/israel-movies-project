@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-בורג-שירה-גפן-סינמטק-תל-אביב-4/",
+  "stable_id": "nfct__events-event--------------4__9aa4872f",
+  "fetched_at": "2026-05-10T11:26:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T11:26:03Z",
+  "duration_ms": 10850,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ea649086a8314884b1bf668c04f5277359c947491824d85376fcfe33cded3d8",
+  "md_bytes": 10610,
+  "links_found": 22,
+  "files_found": 0
+}

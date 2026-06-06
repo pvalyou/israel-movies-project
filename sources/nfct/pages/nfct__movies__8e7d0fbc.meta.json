@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/החברים-של-נאדיה/",
+  "stable_id": "nfct__movies__8e7d0fbc",
+  "fetched_at": "2026-05-16T20:26:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:26:24Z",
+  "duration_ms": 7230,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d67387064f6af36c47d25c7f45bab23b0383b9299d5bf548d4a637c2a3cd3824",
+  "md_bytes": 8110,
+  "links_found": 21,
+  "files_found": 0
+}

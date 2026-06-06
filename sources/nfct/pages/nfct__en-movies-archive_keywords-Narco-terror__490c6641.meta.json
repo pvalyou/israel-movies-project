@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Narco-terror",
+  "stable_id": "nfct__en-movies-archive_keywords-Narco-terror__490c6641",
+  "fetched_at": "2026-05-16T14:14:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:47Z",
+  "duration_ms": 6860,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3163afe2c43084ea2642676de40ca709444cbbe8c73fd49dd80b37620a581b59",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

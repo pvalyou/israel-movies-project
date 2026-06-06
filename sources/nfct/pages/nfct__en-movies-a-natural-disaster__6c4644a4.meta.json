@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-natural-disaster/#UArexazDFN",
+  "stable_id": "nfct__en-movies-a-natural-disaster__6c4644a4",
+  "fetched_at": "2026-05-16T06:44:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:44:09Z",
+  "duration_ms": 8008,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f265221982edb6c8c7cae53795607d62d671b8048af196a6774f5c7bbd234808",
+  "md_bytes": 10440,
+  "links_found": 26,
+  "files_found": 0
+}

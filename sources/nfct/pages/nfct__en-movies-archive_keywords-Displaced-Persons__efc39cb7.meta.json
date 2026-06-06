@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Displaced+Persons",
+  "stable_id": "nfct__en-movies-archive_keywords-Displaced-Persons__efc39cb7",
+  "fetched_at": "2026-05-16T16:53:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:53:52Z",
+  "duration_ms": 6602,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:18d72949dd78a8c4c582230f3f550e19dac56953041c317780505782991eb082",
+  "md_bytes": 10017,
+  "links_found": 68,
+  "files_found": 0
+}

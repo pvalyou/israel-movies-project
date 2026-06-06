@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/גברים-על-הקצה-יומן-דייגים/",
+  "stable_id": "nfct__movies__22deebd2",
+  "fetched_at": "2026-05-16T07:54:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:54:43Z",
+  "duration_ms": 12764,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:20547b6107f1e090183a3c1c2a99fb66c086c9903ad56d0b2562a6f1ef784072",
+  "md_bytes": 8278,
+  "links_found": 21,
+  "files_found": 0
+}

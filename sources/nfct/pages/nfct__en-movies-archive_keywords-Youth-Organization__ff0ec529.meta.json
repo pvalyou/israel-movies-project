@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Youth+Organization",
+  "stable_id": "nfct__en-movies-archive_keywords-Youth-Organization__ff0ec529",
+  "fetched_at": "2026-05-16T20:33:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:51Z",
+  "duration_ms": 11500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1272138568171b98649a41588e06ce913a4b80af1504f7e27293b2ba70e6a22c",
+  "md_bytes": 10122,
+  "links_found": 68,
+  "files_found": 0
+}

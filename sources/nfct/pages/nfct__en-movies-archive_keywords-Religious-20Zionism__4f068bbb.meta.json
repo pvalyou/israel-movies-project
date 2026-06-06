@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Religious%20Zionism",
+  "stable_id": "nfct__en-movies-archive_keywords-Religious-20Zionism__4f068bbb",
+  "fetched_at": "2026-05-16T12:10:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:10:33Z",
+  "duration_ms": 13582,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa9597cc032f0b5e201d31dae452416798e723dc615cba90f341a6583e7d0eea",
+  "md_bytes": 11262,
+  "links_found": 71,
+  "files_found": 0
+}

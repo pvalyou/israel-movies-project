@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/made-in-israel-תעשיית-היהלומים/",
+  "stable_id": "nfct__blog-movies-made-in-israel__e97bb099",
+  "fetched_at": "2026-05-09T17:20:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:20:04Z",
+  "duration_ms": 22463,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cac26d33055bbafd3346d46e473dfa4cefd2931e6ca2aa306164a6ff4d51b5e6",
+  "md_bytes": 21076,
+  "links_found": 43,
+  "files_found": 0
+}

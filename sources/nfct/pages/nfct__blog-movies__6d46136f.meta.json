@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שובו-של-כוכב/",
+  "stable_id": "nfct__blog-movies__6d46136f",
+  "fetched_at": "2026-05-09T21:07:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:07:20Z",
+  "duration_ms": 65634,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cd332e1d9ca2f706c2c163830caafdcbf05f0f728e03dfaf0d7ff5b6935f026e",
+  "md_bytes": 18373,
+  "links_found": 50,
+  "files_found": 0
+}

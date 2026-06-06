@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/zoom-zoom/",
+  "stable_id": "nfct__en-movies-zoom-zoom__384a7309",
+  "fetched_at": "2026-05-12T02:33:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:33:48Z",
+  "duration_ms": 14416,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:710c3ffe97dccd74d738e6bed570a22cc2fe6948da97b2bcd1db124d2705bf8b",
+  "md_bytes": 11563,
+  "links_found": 35,
+  "files_found": 0
+}

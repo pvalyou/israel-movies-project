@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=wildlife+photography",
+  "stable_id": "nfct__en-movies-archive_keywords-wildlife-photography__fc0b7471",
+  "fetched_at": "2026-05-16T15:05:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:05:22Z",
+  "duration_ms": 8673,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d5b4b4235033796660f9e7c5d9072187748e9ec9fa5efb2e6922e2460338420",
+  "md_bytes": 9815,
+  "links_found": 67,
+  "files_found": 0
+}

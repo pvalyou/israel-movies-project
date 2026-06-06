@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בית-home/",
+  "stable_id": "nfct__blog-movies--home__17a1ed30",
+  "fetched_at": "2026-05-09T19:46:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:46:28Z",
+  "duration_ms": 44440,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:118ab0a351d530056cbe3a44c37251aff51655cf142e8b59e806896b7595dd67",
+  "md_bytes": 18721,
+  "links_found": 40,
+  "files_found": 0
+}

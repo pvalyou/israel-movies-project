@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-פרינסס-שואו-עידו-הר-הפסטיבל-הבי/",
+  "stable_id": "nfct__events-event__b7b92066",
+  "fetched_at": "2026-05-10T05:27:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T05:27:57Z",
+  "duration_ms": 16088,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b3d12462439290fd4c66060dbe2bebdaa9f33eeba694f9c83d681eca2b1ac2ef",
+  "md_bytes": 10254,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חוף-המועד/",
+  "stable_id": "nfct__blog-movies__0d4069f1",
+  "fetched_at": "2026-05-09T21:15:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:15:03Z",
+  "duration_ms": 24333,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eedc01cdbf356bcf833dcdea0235526b2abae7fb8296c4be4cd9a292349dc78f",
+  "md_bytes": 15520,
+  "links_found": 34,
+  "files_found": 0
+}

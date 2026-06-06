@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ursulimum/#UAMainContent",
+  "stable_id": "nfct__en-movies-ursulimum__2a141702",
+  "fetched_at": "2026-05-16T08:44:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:44:15Z",
+  "duration_ms": 13633,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5ed34fe7d836120b7fdc26401b57509a25ea0a2e8e5d0da3c79eeae28cc0ca91",
+  "md_bytes": 15477,
+  "links_found": 42,
+  "files_found": 0
+}

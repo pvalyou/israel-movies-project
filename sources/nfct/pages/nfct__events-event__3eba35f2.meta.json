@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המוזיאון-רן-טל-קולנוע-לב-רעננה/",
+  "stable_id": "nfct__events-event__3eba35f2",
+  "fetched_at": "2026-05-10T03:08:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T03:08:12Z",
+  "duration_ms": 38013,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db8913b5d8c6ca5c56e27d09f5e7a4bc8a9f792db39b00625aed9443f187c666",
+  "md_bytes": 12309,
+  "links_found": 27,
+  "files_found": 0
+}

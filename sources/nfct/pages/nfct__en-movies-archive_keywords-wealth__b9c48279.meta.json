@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=wealth",
+  "stable_id": "nfct__en-movies-archive_keywords-wealth__b9c48279",
+  "fetched_at": "2026-05-16T16:58:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:25Z",
+  "duration_ms": 7719,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3668eb7567db23da70d05da9b018680f40b73f04f7a88036e4c26f1b864e1ddf",
+  "md_bytes": 13987,
+  "links_found": 77,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dov%20Binder",
+  "stable_id": "nfct__en-movies-archive_keywords-Dov-20Binder__d0c5e017",
+  "fetched_at": "2026-05-16T14:03:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:03:59Z",
+  "duration_ms": 7799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab1368abb84dc5725104604cec6bf748dbacf87352821f496d0c35385e2aee83",
+  "md_bytes": 10182,
+  "links_found": 68,
+  "files_found": 0
+}

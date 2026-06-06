@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חדשות-מהבית/",
+  "stable_id": "nfct__blog-movies__4a25b8bb",
+  "fetched_at": "2026-05-09T17:33:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:33:12Z",
+  "duration_ms": 55349,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:189331008c3bdf9fd450d8370cd5bdca73059a51ddb2663d0f19a38033d96331",
+  "md_bytes": 20813,
+  "links_found": 39,
+  "files_found": 0
+}

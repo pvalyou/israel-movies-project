@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/olympia/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-olympia__f5a4716c",
+  "fetched_at": "2026-05-16T14:40:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:40:21Z",
+  "duration_ms": 13849,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91c3b085f721fb5675f8be43222bec0b315c2e7a5170da747c0f1bd01c61ee85",
+  "md_bytes": 11923,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מעוף-הציפור/",
+  "stable_id": "nfct__blog-movies__607e2c0c",
+  "fetched_at": "2026-05-09T21:07:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:07:59Z",
+  "duration_ms": 30434,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2fd9f5bd0583603f9f63cc454a9c8d108c6056aaf4b717c1328bcd0e6be72192",
+  "md_bytes": 20310,
+  "links_found": 51,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=social+inequality",
+  "stable_id": "nfct__en-movies-archive_keywords-social-inequality__2db6791e",
+  "fetched_at": "2026-05-16T15:55:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:55:13Z",
+  "duration_ms": 10268,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54df6e20a3d7176ef78335bc530637e0cf9f938a2ee8f46a764bb009893c7923",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

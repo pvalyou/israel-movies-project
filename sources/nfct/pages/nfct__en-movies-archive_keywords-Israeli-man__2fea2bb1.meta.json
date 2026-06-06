@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli+man",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-man__2fea2bb1",
+  "fetched_at": "2026-05-16T20:38:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:38:15Z",
+  "duration_ms": 11758,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:24499f4f3da7df93753637c641c6ac9b64c54acac6fa249f7103565d3c5deece",
+  "md_bytes": 17207,
+  "links_found": 82,
+  "files_found": 0
+}

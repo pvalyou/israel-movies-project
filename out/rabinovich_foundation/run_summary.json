@@ -1,0 +1,21 @@
+{
+  "source_name": "rabinovich_foundation",
+  "run_date": "2026-05-16",
+  "elapsed_min": 0.19,
+  "pages_total": 24,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 24,
+  "status_counts": {
+    "ok": 21,
+    "filtered": 1,
+    "empty_content": 2,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 58440,
+  "tokens_output": 33788,
+  "cost_usd": 0.0194,
+  "calls": 21,
+  "errors": 0,
+  "json_retries": 0
+}

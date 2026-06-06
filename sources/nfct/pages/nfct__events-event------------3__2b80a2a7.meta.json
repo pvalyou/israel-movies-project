@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-התאבדות-בני-פרדמן-סינמטק-ירושל-3/",
+  "stable_id": "nfct__events-event------------3__2b80a2a7",
+  "fetched_at": "2026-05-10T11:34:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T11:34:27Z",
+  "duration_ms": 13242,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:62f386aac7256d7ecb53e413e05533a891d52db562abd2d37c4012c384ba1fb8",
+  "md_bytes": 10808,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הדר-הכרמל/",
+  "stable_id": "nfct__blog-movies__9bec99fb",
+  "fetched_at": "2026-05-09T20:44:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:44:39Z",
+  "duration_ms": 14808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af47052702833ef91b65cf553a2101d30692ad7b2e1c2ee2d25e2b98bc263f4f",
+  "md_bytes": 19587,
+  "links_found": 47,
+  "files_found": 0
+}

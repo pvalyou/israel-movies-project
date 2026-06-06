@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שושקה/",
+  "stable_id": "nfct__blog-movies__be9965df",
+  "fetched_at": "2026-05-09T20:15:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:15:12Z",
+  "duration_ms": 36895,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54f7ea2dbf7b83f3901929ca7958296b59be7284873e603dd567ec924f2dd8ec",
+  "md_bytes": 20295,
+  "links_found": 47,
+  "files_found": 0
+}

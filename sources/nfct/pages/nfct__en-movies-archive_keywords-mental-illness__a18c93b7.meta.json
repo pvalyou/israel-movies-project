@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mental+illness",
+  "stable_id": "nfct__en-movies-archive_keywords-mental-illness__a18c93b7",
+  "fetched_at": "2026-05-16T12:11:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:11:41Z",
+  "duration_ms": 10119,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:477ea42f936bbc76dc2bd316cec3ec3c3a00af6935e97012ea2773e0d9a9527a",
+  "md_bytes": 12274,
+  "links_found": 73,
+  "files_found": 0
+}

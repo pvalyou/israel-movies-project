@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish+Buddhist",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-Buddhist__1db4aad9",
+  "fetched_at": "2026-05-16T16:26:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:26:37Z",
+  "duration_ms": 6983,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f4661d5fb4cd063198b03000a957cdcf39e0b3cdb65590595b22cfa40824754",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

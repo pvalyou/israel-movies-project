@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שקרים-שסיפרתי-לעצמי/",
+  "stable_id": "makor__films__01b626ab",
+  "fetched_at": "2026-05-09T12:54:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:54:43Z",
+  "duration_ms": 21168,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e551746ea33d2a13ab04205f6cafb87789f9d5b7f909f555bb946b316c60710c",
+  "md_bytes": 3686,
+  "links_found": 4,
+  "files_found": 0
+}

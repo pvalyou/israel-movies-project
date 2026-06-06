@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/פרויקט-מראות-פורטרט-ירוחמי-פסטיבל-דוק/",
+  "stable_id": "nfct__events-event__a6d2b0f4",
+  "fetched_at": "2026-05-15T09:11:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:11:00Z",
+  "duration_ms": 10188,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f8def1064249d5d0cf35f8e87e7d24dd1e537abc10c490391373c31734f7238",
+  "md_bytes": 12742,
+  "links_found": 21,
+  "files_found": 0
+}

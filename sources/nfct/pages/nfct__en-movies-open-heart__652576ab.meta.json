@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/open-heart/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-open-heart__652576ab",
+  "fetched_at": "2026-05-16T16:58:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:34Z",
+  "duration_ms": 11537,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d7fa7c3c573390d0d2aa3c7e0a8448010a4b81710174cff6f12704108c4ab9fb",
+  "md_bytes": 12658,
+  "links_found": 33,
+  "files_found": 0
+}

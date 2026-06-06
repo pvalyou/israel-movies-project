@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=2D%20animation",
+  "stable_id": "nfct__en-movies-archive_keywords-2D-20animation__4cc59cbd",
+  "fetched_at": "2026-05-16T14:55:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:55:32Z",
+  "duration_ms": 11118,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffef296f4e1c24d5a34b8b048c8e0740e5e6499b2a66a75be7faf7261e408a96",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

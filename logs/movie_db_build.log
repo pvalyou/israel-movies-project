@@ -1,0 +1,20 @@
+=== Build movies_db.json ===
+
+Loading raw data...
+  edb: 285 ok / 285 total
+  ci: 100 ok / 105 total
+  jfc: 658 ok / 928 total
+
+  1043 unique films across all sources
+
+Merging films...
+Resolving people against entity_registry.json...
+  Resolved: 4423/5890 (75.1%)
+
+============================================================
+movies_db.json built: 1043 films
+  Multi-source: 0
+  With crew: 1008, With cast: 412
+  With fund data: 0
+  People resolution: 4423/5890 (75.1%)
+  → data/movies_db.json

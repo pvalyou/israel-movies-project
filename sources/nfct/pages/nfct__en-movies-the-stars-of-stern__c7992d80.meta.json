@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-stars-of-stern/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-stars-of-stern__c7992d80",
+  "fetched_at": "2026-05-16T16:23:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:23:33Z",
+  "duration_ms": 7937,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f825a9c87cabe011dc876b7987f6a00ea4dc8ff96b2b0a51944785e9b130fd44",
+  "md_bytes": 15793,
+  "links_found": 45,
+  "files_found": 0
+}

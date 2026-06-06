@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Estusia%20Wajcblum",
+  "stable_id": "nfct__en-movies-archive_keywords-Estusia-20Wajcblum__f756c87a",
+  "fetched_at": "2026-05-16T14:46:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:40Z",
+  "duration_ms": 5792,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b69e75bd45572437ce181224e4b6492461cb25b81cff70d9c3309413eb8ae85b",
+  "md_bytes": 10183,
+  "links_found": 68,
+  "files_found": 0
+}

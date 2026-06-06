@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=art%20therapy",
+  "stable_id": "nfct__en-movies-archive_keywords-art-20therapy__e52e1071",
+  "fetched_at": "2026-05-16T08:17:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:17:02Z",
+  "duration_ms": 6332,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:670cf9c6acbe1f50cc617905a59a2708d8236f893ac134cd26417f3df9952bbf",
+  "md_bytes": 12372,
+  "links_found": 73,
+  "files_found": 0
+}

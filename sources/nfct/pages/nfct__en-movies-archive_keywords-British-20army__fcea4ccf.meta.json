@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=British%20army",
+  "stable_id": "nfct__en-movies-archive_keywords-British-20army__fcea4ccf",
+  "fetched_at": "2026-05-16T10:46:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:22Z",
+  "duration_ms": 6586,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:169fe2167c05e266e1fdf8876f2499ccdfcc6824defa22f043aa67b5b59cca43",
+  "md_bytes": 10167,
+  "links_found": 68,
+  "files_found": 0
+}

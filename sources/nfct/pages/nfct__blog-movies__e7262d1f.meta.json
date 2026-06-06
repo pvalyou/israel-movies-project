@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ציפורה-ויעקב/",
+  "stable_id": "nfct__blog-movies__e7262d1f",
+  "fetched_at": "2026-05-09T17:29:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:29:43Z",
+  "duration_ms": 23766,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4027f17afcb6bb7ec45cc5a54948f59503a6c94ce8a05662829e9d0812a8feeb",
+  "md_bytes": 18078,
+  "links_found": 33,
+  "files_found": 0
+}

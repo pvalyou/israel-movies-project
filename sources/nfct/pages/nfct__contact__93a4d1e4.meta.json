@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/contact",
+  "stable_id": "nfct__contact__93a4d1e4",
+  "fetched_at": "2026-05-10T15:08:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T15:08:03Z",
+  "duration_ms": 27280,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4ae629056eb7863e84a3aff67aed5ac51acc45c30b17362d0ca9223198399d11",
+  "md_bytes": 9079,
+  "links_found": 19,
+  "files_found": 0
+}

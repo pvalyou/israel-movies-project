@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מאז-שהלכת/",
+  "stable_id": "nfct__movies__7c5849f3",
+  "fetched_at": "2026-05-16T11:27:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:27:29Z",
+  "duration_ms": 9981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e33d7107847cf9a5d7403b999a2c7b8935f096e329eab35f7ffa021abf0dfcf",
+  "md_bytes": 8629,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=third-world%20economies",
+  "stable_id": "nfct__en-movies-archive_keywords-third-world-20economies__7ddbb004",
+  "fetched_at": "2026-05-16T11:10:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:10:00Z",
+  "duration_ms": 6987,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4ba900e5f5d7723bd7b34139ce4bfef5bbabb21b61b11940329c9e30f0d3b5f",
+  "md_bytes": 9819,
+  "links_found": 67,
+  "files_found": 0
+}

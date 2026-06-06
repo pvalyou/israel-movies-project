@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/get-the-land-back/?lang=en",
+  "stable_id": "makor__films-get-the-land-back_lang-en__1fe8b93c",
+  "fetched_at": "2026-05-09T13:14:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:14:14Z",
+  "duration_ms": 6718,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ea1e2bb0a0f81d567c5c5688bef43ebfc323056861bfbce7ec0ec58c7ba64c0a",
+  "md_bytes": 3032,
+  "links_found": 4,
+  "files_found": 0
+}

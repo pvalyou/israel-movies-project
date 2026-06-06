@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עד-המוות-הכל-פתוח/",
+  "stable_id": "nfct__blog-movies__3983bfc7",
+  "fetched_at": "2026-05-09T17:54:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:54:48Z",
+  "duration_ms": 21112,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f3f1e87a7e0d0eef2da8f3113de4a05b78252335e9c0e4c687d95d3bcc3c2b1d",
+  "md_bytes": 19585,
+  "links_found": 44,
+  "files_found": 0
+}

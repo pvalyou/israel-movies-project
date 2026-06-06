@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=public%20health",
+  "stable_id": "nfct__en-movies-archive_keywords-public-20health__036fd1a4",
+  "fetched_at": "2026-05-16T16:58:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:22Z",
+  "duration_ms": 7150,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0eaa5137fb97c6bc2d072b49426e68b5e03b886b6ac7267473f73eed4eeacc60",
+  "md_bytes": 10768,
+  "links_found": 69,
+  "files_found": 0
+}

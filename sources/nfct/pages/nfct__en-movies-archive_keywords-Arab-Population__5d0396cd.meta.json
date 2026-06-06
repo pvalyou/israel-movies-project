@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arab+Population",
+  "stable_id": "nfct__en-movies-archive_keywords-Arab-Population__5d0396cd",
+  "fetched_at": "2026-05-16T20:31:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:21Z",
+  "duration_ms": 7003,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3fb36e732229303e80698d32c3f7e9550f1cacb6cccc95fb77e562beb6dc3185",
+  "md_bytes": 12082,
+  "links_found": 72,
+  "files_found": 0
+}

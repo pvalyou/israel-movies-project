@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-האיש-הנעלם-הסיפור-של-וילפריד-יש-9/",
+  "stable_id": "nfct__events-event--------------9__7ba836b4",
+  "fetched_at": "2026-05-10T03:39:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T03:39:01Z",
+  "duration_ms": 18861,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba6d7de7aac71887d272f8b5c77de6733a37703835772e76ae1cd087c4d3be13",
+  "md_bytes": 13947,
+  "links_found": 28,
+  "files_found": 0
+}

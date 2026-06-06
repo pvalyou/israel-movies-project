@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20Animation",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20Animation__7027c522",
+  "fetched_at": "2026-05-16T15:42:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:42:43Z",
+  "duration_ms": 8501,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1bf12c06144379b58d58338dab43233983b10db116d589d7a3c7ed7dc777fef7",
+  "md_bytes": 10356,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=moving%20house",
+  "stable_id": "nfct__en-movies-archive_keywords-moving-20house__f43a5c85",
+  "fetched_at": "2026-05-16T17:27:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:27:10Z",
+  "duration_ms": 6425,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1146552a7b871ba30c6cbcc47e2394a405dc8e73e8c06829b76e936c8f87dfe",
+  "md_bytes": 10365,
+  "links_found": 68,
+  "files_found": 0
+}

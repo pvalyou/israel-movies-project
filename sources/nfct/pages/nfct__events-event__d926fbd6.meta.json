@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-אונליין-העיר-האחרת-ליבי-קסל-פסט/",
+  "stable_id": "nfct__events-event__d926fbd6",
+  "fetched_at": "2026-05-09T22:17:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:17:59Z",
+  "duration_ms": 22107,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a0b7a2b05f563526c9c1c144715181934d3fb6eff4876c5cd15a252f9d8b4b15",
+  "md_bytes": 10671,
+  "links_found": 21,
+  "files_found": 0
+}

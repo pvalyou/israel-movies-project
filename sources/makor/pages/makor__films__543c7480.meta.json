@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חוק-האבן/",
+  "stable_id": "makor__films__543c7480",
+  "fetched_at": "2026-05-09T12:56:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:56:43Z",
+  "duration_ms": 7390,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8e7ec1153a657cd17055f043d779ff6279d5a9afa672bfda3b2784f4b07f604",
+  "md_bytes": 3878,
+  "links_found": 4,
+  "files_found": 0
+}

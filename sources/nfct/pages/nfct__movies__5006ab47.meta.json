@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מדובר-באהבה/",
+  "stable_id": "nfct__movies__5006ab47",
+  "fetched_at": "2026-05-16T11:02:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:02:18Z",
+  "duration_ms": 10384,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d7b70420fefb210ea125f97b83bcb0343e4b97c739c2644bb6f3d6d7aa6f80e0",
+  "md_bytes": 8639,
+  "links_found": 21,
+  "files_found": 0
+}

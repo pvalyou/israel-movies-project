@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Generational",
+  "stable_id": "nfct__en-movies-archive_keywords-Generational__c3af363e",
+  "fetched_at": "2026-05-16T13:17:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:17:36Z",
+  "duration_ms": 15113,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da74c2b1756887547ba41e1afe8c320d8792e4b0e946bb5b2df7d8b4ec7aba92",
+  "md_bytes": 11557,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=pathological%20liar",
+  "stable_id": "nfct__en-movies-archive_keywords-pathological-20liar__294d03d8",
+  "fetched_at": "2026-05-16T16:31:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:31:03Z",
+  "duration_ms": 9516,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db90553be98d40456c6e5c77bd80a7e33707c6d480102b2170d90c31c552e06f",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

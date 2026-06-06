@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Juvenile+Delinquents",
+  "stable_id": "nfct__en-movies-archive_keywords-Juvenile-Delinquents__76b79313",
+  "fetched_at": "2026-05-16T15:01:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:01:29Z",
+  "duration_ms": 8616,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0176fef7a12b33559389e2dfa75e256a9667f816ccbbfb1bdcbb4b1d07077ebc",
+  "md_bytes": 10314,
+  "links_found": 68,
+  "files_found": 0
+}

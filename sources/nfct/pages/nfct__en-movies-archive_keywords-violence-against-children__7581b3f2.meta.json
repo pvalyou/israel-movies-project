@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=violence+against+children",
+  "stable_id": "nfct__en-movies-archive_keywords-violence-against-children__7581b3f2",
+  "fetched_at": "2026-05-16T16:57:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:45Z",
+  "duration_ms": 8101,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:02735169b976d16e8acb5d292a6ae32af08782ac280fb63ea01a68c213641ea1",
+  "md_bytes": 9998,
+  "links_found": 68,
+  "files_found": 0
+}

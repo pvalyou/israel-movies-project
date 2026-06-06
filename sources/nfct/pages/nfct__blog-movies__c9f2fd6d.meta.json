@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הצעקה/",
+  "stable_id": "nfct__blog-movies__c9f2fd6d",
+  "fetched_at": "2026-05-09T21:51:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:51:19Z",
+  "duration_ms": 36789,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8787f00a8b2aac62f2cd0cc35a39f472c71b6c8a4abcdf1b74aec6311c377b47",
+  "md_bytes": 15339,
+  "links_found": 38,
+  "files_found": 0
+}

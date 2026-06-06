@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/living-in-illusions/",
+  "stable_id": "nfct__en-movies-living-in-illusions__7c8b25a6",
+  "fetched_at": "2026-05-11T01:13:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:13:38Z",
+  "duration_ms": 9305,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f6df0e0dacca355643c49a988e44a71e52d5d50361bd6bfa31271e1b5f0c3800",
+  "md_bytes": 13190,
+  "links_found": 27,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Evangelicals",
+  "stable_id": "nfct__en-movies-archive_keywords-Evangelicals__88cbc173",
+  "fetched_at": "2026-05-16T15:19:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:09Z",
+  "duration_ms": 11198,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c7f0be5b4176de2419c5e73a5d6c90162cbffcaf3a934b92c6c0856d160a9be",
+  "md_bytes": 10429,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,21 @@
+{
+  "source_name": "jerusalem_film_fund",
+  "run_date": "2026-05-15",
+  "elapsed_min": 2.84,
+  "pages_total": 261,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 261,
+  "status_counts": {
+    "ok": 261,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 500682,
+  "tokens_output": 550094,
+  "cost_usd": 0.2701,
+  "calls": 235,
+  "errors": 0,
+  "json_retries": 2
+}

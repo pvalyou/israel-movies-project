@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=woman%20film",
+  "stable_id": "nfct__en-movies-archive_keywords-woman-20film__cc8972f1",
+  "fetched_at": "2026-05-16T20:32:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:14Z",
+  "duration_ms": 8953,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:29a12d6d88705b1a7ec68e18cbd563a223cb8110d64d15096efc0048f29a4d80",
+  "md_bytes": 17245,
+  "links_found": 82,
+  "files_found": 0
+}

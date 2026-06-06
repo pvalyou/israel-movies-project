@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli+government",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-government__90afc541",
+  "fetched_at": "2026-05-16T15:56:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:56:11Z",
+  "duration_ms": 7439,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98bec975136179a180af07b0187a19aa69f3573a5502edb59454cf5bc89eb9ca",
+  "md_bytes": 13853,
+  "links_found": 78,
+  "files_found": 0
+}

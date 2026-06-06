@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=literature%20and%20culture",
+  "stable_id": "nfct__en-movies-archive_keywords-literature-20and-20culture__a7348f45",
+  "fetched_at": "2026-05-16T20:17:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:31Z",
+  "duration_ms": 10302,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b665f95c48ab9a0b97531e728cde6793240dfae7f3806cd218e3cf2f8c916cf7",
+  "md_bytes": 9823,
+  "links_found": 67,
+  "files_found": 0
+}

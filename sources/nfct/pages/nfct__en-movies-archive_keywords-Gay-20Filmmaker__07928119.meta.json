@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gay%20Filmmaker",
+  "stable_id": "nfct__en-movies-archive_keywords-Gay-20Filmmaker__07928119",
+  "fetched_at": "2026-05-16T12:51:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:51:02Z",
+  "duration_ms": 12340,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:97fcba04243f7ab0cc970bd3b5a6075ed14393b8dc1e71ae2b9a04be2c25fcff",
+  "md_bytes": 10368,
+  "links_found": 68,
+  "files_found": 0
+}

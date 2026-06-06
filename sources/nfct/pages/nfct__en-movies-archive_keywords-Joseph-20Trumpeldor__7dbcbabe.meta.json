@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Joseph%20Trumpeldor",
+  "stable_id": "nfct__en-movies-archive_keywords-Joseph-20Trumpeldor__7dbcbabe",
+  "fetched_at": "2026-05-16T10:41:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:41:24Z",
+  "duration_ms": 6499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:19388fcb77b00cba0de7fe41fe3c825c24e1a4cdd87c63d7a0a9049c00c184dc",
+  "md_bytes": 10273,
+  "links_found": 68,
+  "files_found": 0
+}

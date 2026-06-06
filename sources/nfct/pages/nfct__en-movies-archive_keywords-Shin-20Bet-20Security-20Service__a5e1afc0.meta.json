@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shin%20Bet%20Security%20Service",
+  "stable_id": "nfct__en-movies-archive_keywords-Shin-20Bet-20Security-20Service__a5e1afc0",
+  "fetched_at": "2026-05-16T20:17:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:59Z",
+  "duration_ms": 8267,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3a573757aae1519d3a6cb361ab17ac97e04435ec74ba4d31cfb9d05d298894bc",
+  "md_bytes": 10610,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,20 @@
+{
+  "name": "israeli-movies-ind",
+  "version": "1.0.0",
+  "description": "Scrapes Israeli film fund/festival/guild websites, extracts structured entities and relationships, detects institutional conflicts of interest, and exports a network graph for visualization.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cytoscape": "^3.34.0",
+    "cytoscape-fcose": "^2.2.0"
+  }
+}

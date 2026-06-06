@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Guillain-Barre+Syndrome",
+  "stable_id": "nfct__en-movies-archive_keywords-Guillain-Barre-Syndrome__a9f78dd2",
+  "fetched_at": "2026-05-16T14:51:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:51:59Z",
+  "duration_ms": 15925,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f083ab2440d6c10d87ec939a5939d7c27258566d57ab490cf25e5f2e396de815",
+  "md_bytes": 9821,
+  "links_found": 67,
+  "files_found": 0
+}

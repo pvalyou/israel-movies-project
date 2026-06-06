@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/different-sky/#UAMainContent",
+  "stable_id": "nfct__en-movies-different-sky__892bbcce",
+  "fetched_at": "2026-05-16T04:23:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:23:24Z",
+  "duration_ms": 20289,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ad72bea271d5e7d8e30b3e1f80cb4446fd8c92966ab6fc725c7a49d4082adce",
+  "md_bytes": 15421,
+  "links_found": 45,
+  "files_found": 0
+}

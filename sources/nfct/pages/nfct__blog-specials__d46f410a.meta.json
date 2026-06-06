@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/הקול-הנשי/",
+  "stable_id": "nfct__blog-specials__d46f410a",
+  "fetched_at": "2026-05-09T18:00:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:00:07Z",
+  "duration_ms": 30529,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f7c0ad54c84d5becb11e63e31c650e421320d097d0d8aba59e17d782d80eb872",
+  "md_bytes": 13110,
+  "links_found": 33,
+  "files_found": 0
+}

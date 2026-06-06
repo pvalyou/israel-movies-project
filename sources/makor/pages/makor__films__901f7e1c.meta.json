@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חיי-שרה/",
+  "stable_id": "makor__films__901f7e1c",
+  "fetched_at": "2026-05-09T12:48:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:48:46Z",
+  "duration_ms": 7402,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e961a2ad838feacbad78201beae4ab917eda39f132e39e0f5d56f09bf321e290",
+  "md_bytes": 2774,
+  "links_found": 4,
+  "files_found": 0
+}

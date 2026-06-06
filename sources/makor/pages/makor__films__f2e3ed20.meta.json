@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/צנועים/",
+  "stable_id": "makor__films__f2e3ed20",
+  "fetched_at": "2026-05-09T13:14:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:14:07Z",
+  "duration_ms": 8261,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:804df6c1538b0ee59db5f438e83fbac44230f4b984bd6d91190dab974f9ab175",
+  "md_bytes": 3588,
+  "links_found": 4,
+  "files_found": 0
+}

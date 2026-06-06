@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli+Prime+Minister",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-Prime-Minister__6e05487c",
+  "fetched_at": "2026-05-16T20:16:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:27Z",
+  "duration_ms": 7389,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:604e20f4ff706cf3ebaa917ebe85c3c151503bac72abec7afe1cde79949c2150",
+  "md_bytes": 12133,
+  "links_found": 72,
+  "files_found": 0
+}

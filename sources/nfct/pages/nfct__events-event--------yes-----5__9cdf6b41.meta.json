@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-בורג-שירה-גפן-yes-קולנוע-ישראלי-5/",
+  "stable_id": "nfct__events-event--------yes-----5__9cdf6b41",
+  "fetched_at": "2026-05-10T09:16:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T09:16:43Z",
+  "duration_ms": 35986,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cad53589a6afd5cd04facfa0b06b1eb6f3aa0a5fc32890ef66ae385d934dd439",
+  "md_bytes": 12140,
+  "links_found": 27,
+  "files_found": 0
+}

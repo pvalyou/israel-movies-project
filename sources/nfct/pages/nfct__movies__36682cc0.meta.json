@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/הסיפור-האחרון-של-פרנץ-קפקא/",
+  "stable_id": "nfct__movies__36682cc0",
+  "fetched_at": "2026-05-16T14:05:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:05:53Z",
+  "duration_ms": 6362,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0d4de8dff9b75b0e6348735ec5943286e026c8b4a3ad55de1768eb93ad017e4a",
+  "md_bytes": 8298,
+  "links_found": 21,
+  "files_found": 0
+}

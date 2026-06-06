@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Berry%20Sakharov",
+  "stable_id": "nfct__en-movies-archive_keywords-Berry-20Sakharov__3a46d50d",
+  "fetched_at": "2026-05-16T17:16:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:16:40Z",
+  "duration_ms": 6727,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:74a2f606f9b31447a25cc4ebbbc3117594bfca73bae2f4fbc773f995fd540bfb",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fall+from+Grace",
+  "stable_id": "nfct__en-movies-archive_keywords-Fall-from-Grace__8a961674",
+  "fetched_at": "2026-05-16T15:45:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:45:34Z",
+  "duration_ms": 7021,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f315ab4e9beea4a28486e1ba4198712da8468fbb40cab112ed27975488e5ad2",
+  "md_bytes": 10308,
+  "links_found": 68,
+  "files_found": 0
+}

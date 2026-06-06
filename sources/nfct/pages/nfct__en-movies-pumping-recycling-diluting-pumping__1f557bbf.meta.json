@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/pumping-recycling-diluting-pumping/",
+  "stable_id": "nfct__en-movies-pumping-recycling-diluting-pumping__1f557bbf",
+  "fetched_at": "2026-05-16T06:05:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:05:55Z",
+  "duration_ms": 8242,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:49ac4b99ee74a1c60db061cadddf8c6a0d954b20e0b2d49aac51699288f92cbd",
+  "md_bytes": 11183,
+  "links_found": 29,
+  "files_found": 0
+}

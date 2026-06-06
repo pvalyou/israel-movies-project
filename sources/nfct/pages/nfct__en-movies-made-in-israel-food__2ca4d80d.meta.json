@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/made-in-israel-food/",
+  "stable_id": "nfct__en-movies-made-in-israel-food__2ca4d80d",
+  "fetched_at": "2026-05-11T03:25:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:25:55Z",
+  "duration_ms": 27072,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e8cb6445c9ac93b33a4366d14494414752bd0d921997f169ce2b6c641fa7e65",
+  "md_bytes": 14462,
+  "links_found": 40,
+  "files_found": 0
+}

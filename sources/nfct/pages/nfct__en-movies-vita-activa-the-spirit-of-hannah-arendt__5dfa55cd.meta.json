@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/vita-activa-the-spirit-of-hannah-arendt/",
+  "stable_id": "nfct__en-movies-vita-activa-the-spirit-of-hannah-arendt__5dfa55cd",
+  "fetched_at": "2026-05-12T01:48:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:48:40Z",
+  "duration_ms": 42578,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c5b23bd69f388b5c3b18f5d39defc7098c3521f771ec8c6f7a34f41ffd39684f",
+  "md_bytes": 14280,
+  "links_found": 31,
+  "files_found": 0
+}

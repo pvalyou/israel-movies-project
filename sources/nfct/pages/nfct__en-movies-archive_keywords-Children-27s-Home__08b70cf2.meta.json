@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Children%27s+Home",
+  "stable_id": "nfct__en-movies-archive_keywords-Children-27s-Home__08b70cf2",
+  "fetched_at": "2026-05-16T15:14:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:14:27Z",
+  "duration_ms": 7231,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b5a86ec051be1aedac87de5f762175519dcc0d79afb2bdbac588351b6f96555",
+  "md_bytes": 10968,
+  "links_found": 70,
+  "files_found": 0
+}

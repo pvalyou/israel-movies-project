@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קפסולה/",
+  "stable_id": "nfct__blog-movies__8807aa3e",
+  "fetched_at": "2026-05-09T20:42:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:42:36Z",
+  "duration_ms": 38694,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:55f3268092b3263239feffef9eb04864dddd40f7273aee155de62e26ccb0fa8f",
+  "md_bytes": 18715,
+  "links_found": 42,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מעבר-לפירליה/",
+  "stable_id": "nfct__blog-movies__669dbac6",
+  "fetched_at": "2026-05-09T16:53:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:53:30Z",
+  "duration_ms": 25796,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:235099e799f7727c444baf1355e50d4c0fc0d19e438ad27c3e8360646a128db3",
+  "md_bytes": 16649,
+  "links_found": 39,
+  "files_found": 0
+}

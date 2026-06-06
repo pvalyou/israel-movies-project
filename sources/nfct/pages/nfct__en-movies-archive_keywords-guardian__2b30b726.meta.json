@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=guardian",
+  "stable_id": "nfct__en-movies-archive_keywords-guardian__2b30b726",
+  "fetched_at": "2026-05-16T15:54:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:54:51Z",
+  "duration_ms": 8378,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c41c6d622ebf72b076d046820dbcf78e3e08a54fe7ad1debb39a1bd981dcf0d8",
+  "md_bytes": 10590,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-darian-dilemma/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-darian-dilemma__c3740e06",
+  "fetched_at": "2026-05-16T20:41:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:41:39Z",
+  "duration_ms": 11506,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1052e2d6dda02e36bf9f3d8f1df70423664dabb25c2c274797de5b52c093178",
+  "md_bytes": 15971,
+  "links_found": 41,
+  "files_found": 0
+}

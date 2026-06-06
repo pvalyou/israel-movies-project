@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=President+Ford",
+  "stable_id": "nfct__en-movies-archive_keywords-President-Ford__59c022b6",
+  "fetched_at": "2026-05-16T20:33:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:31Z",
+  "duration_ms": 10263,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:11f43bb9847aa6b24617f95b99d567d19d3fb4daae5dcd2f4f1a6ee8ed07d498",
+  "md_bytes": 9999,
+  "links_found": 68,
+  "files_found": 0
+}

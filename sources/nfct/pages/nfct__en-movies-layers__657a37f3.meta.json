@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/layers/",
+  "stable_id": "nfct__en-movies-layers__657a37f3",
+  "fetched_at": "2026-05-11T12:56:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:56:25Z",
+  "duration_ms": 29691,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3be52e1c5a869701c2ced6dd5405b6eda8b827cb2b99089f4ca12d6460001855",
+  "md_bytes": 12014,
+  "links_found": 40,
+  "files_found": 0
+}

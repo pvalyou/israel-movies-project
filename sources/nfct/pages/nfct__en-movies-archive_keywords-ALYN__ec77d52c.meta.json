@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=ALYN",
+  "stable_id": "nfct__en-movies-archive_keywords-ALYN__ec77d52c",
+  "fetched_at": "2026-05-16T12:40:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:40:15Z",
+  "duration_ms": 14440,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7167eb022329a43aa337c76cd9b2d1d3f35311c7be52f35472e39ed3c3ea20ad",
+  "md_bytes": 10354,
+  "links_found": 68,
+  "files_found": 0
+}

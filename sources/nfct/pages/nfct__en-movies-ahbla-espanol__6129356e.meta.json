@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ahbla-espanol/",
+  "stable_id": "nfct__en-movies-ahbla-espanol__6129356e",
+  "fetched_at": "2026-05-11T11:15:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:15:24Z",
+  "duration_ms": 11959,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8b5faed607f66085591ad31185d472d9ae206f41c3603abb080fd58b72c77bd",
+  "md_bytes": 9907,
+  "links_found": 21,
+  "files_found": 0
+}

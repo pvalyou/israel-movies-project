@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ילדים-על-תנאי/",
+  "stable_id": "makor__films__d597d871",
+  "fetched_at": "2026-05-09T12:57:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:57:10Z",
+  "duration_ms": 18577,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:834e4cd380ef4c4887cbdea7f73df3c4f73dd01c96c965149341686fd2c47aa5",
+  "md_bytes": 3255,
+  "links_found": 4,
+  "files_found": 0
+}

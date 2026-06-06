@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=War%20Prisoners",
+  "stable_id": "nfct__en-movies-archive_keywords-War-20Prisoners__131d57ad",
+  "fetched_at": "2026-05-16T15:24:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:24:11Z",
+  "duration_ms": 7842,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:66ca3c5a60edba7d2fe00a6ee840f8276c5c4104b43d5882f654a3954b900332",
+  "md_bytes": 12131,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-חדר-6-רחל-חיה-זיסר-yes-דוקו-6/",
+  "stable_id": "nfct__events-event----6-------yes---6__8f577a3b",
+  "fetched_at": "2026-05-10T11:56:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T11:56:00Z",
+  "duration_ms": 21087,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:967011051880c7dcc96d842647a54c479facbfb0b716a9a6cc925c08302b1168",
+  "md_bytes": 10291,
+  "links_found": 21,
+  "files_found": 0
+}

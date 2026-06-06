@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Jerusalem",
+  "stable_id": "nfct__en-movies-archive_category-Jerusalem__d28bc381",
+  "fetched_at": "2026-05-16T03:05:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:05:08Z",
+  "duration_ms": 5914,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f2686aa416e490efa6f73760900c5ac417decc2878543b8a64c972c34d743151",
+  "md_bytes": 17265,
+  "links_found": 82,
+  "files_found": 0
+}

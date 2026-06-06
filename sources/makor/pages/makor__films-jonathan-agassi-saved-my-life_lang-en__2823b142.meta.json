@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/jonathan-agassi-saved-my-life/?lang=en",
+  "stable_id": "makor__films-jonathan-agassi-saved-my-life_lang-en__2823b142",
+  "fetched_at": "2026-05-09T13:13:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:13:18Z",
+  "duration_ms": 9776,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:829d37d9deac6b1bc11c0d54248e2b204453242d6e04261cbe1d198cd9c6cf8d",
+  "md_bytes": 2338,
+  "links_found": 4,
+  "files_found": 0
+}

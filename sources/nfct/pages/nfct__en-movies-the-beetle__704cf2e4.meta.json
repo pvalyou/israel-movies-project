@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-beetle/",
+  "stable_id": "nfct__en-movies-the-beetle__704cf2e4",
+  "fetched_at": "2026-05-11T02:14:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:14:38Z",
+  "duration_ms": 31596,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e6da4b5408425f96bef3a50a858667bf6a1bba5a8b24830f395fcdc6797b4176",
+  "md_bytes": 13430,
+  "links_found": 29,
+  "files_found": 0
+}

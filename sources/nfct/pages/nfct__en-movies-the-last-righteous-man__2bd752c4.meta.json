@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-last-righteous-man/",
+  "stable_id": "nfct__en-movies-the-last-righteous-man__2bd752c4",
+  "fetched_at": "2026-05-11T13:17:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:17:08Z",
+  "duration_ms": 16808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec325def4a532065807d7f905a5cc3d742139bfb0d26a9f510bd72b9be7abc21",
+  "md_bytes": 17344,
+  "links_found": 53,
+  "files_found": 0
+}

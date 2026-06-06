@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Justice",
+  "stable_id": "nfct__en-movies-archive_keywords-Justice__210f9761",
+  "fetched_at": "2026-05-16T09:03:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:03:43Z",
+  "duration_ms": 9513,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b67557c70b02fed4c3f1edabfa2c65f7d95c14537531f85a33914baa7ae8ebb",
+  "md_bytes": 15999,
+  "links_found": 80,
+  "files_found": 0
+}

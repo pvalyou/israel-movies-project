@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mentoring",
+  "stable_id": "nfct__en-movies-archive_keywords-Mentoring__89de7e83",
+  "fetched_at": "2026-05-16T16:46:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:46:25Z",
+  "duration_ms": 7227,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f69ce675fcb2a5a0fdbbc594567faf0d452d4df9cb45ceb4f5ba923828e0a4a7",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

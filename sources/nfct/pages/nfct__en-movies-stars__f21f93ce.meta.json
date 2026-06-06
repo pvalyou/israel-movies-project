@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/stars/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-stars__f21f93ce",
+  "fetched_at": "2026-05-16T11:15:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:15:10Z",
+  "duration_ms": 8723,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c4f2edc7f9e102ddf6767935294de9d14a69ac6f960969d3eb73dedb13115b2",
+  "md_bytes": 11518,
+  "links_found": 30,
+  "files_found": 0
+}

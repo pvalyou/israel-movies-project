@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Deep+Blue",
+  "stable_id": "nfct__en-movies-archive_keywords-Deep-Blue__da37ae63",
+  "fetched_at": "2026-05-16T11:26:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:26:21Z",
+  "duration_ms": 8693,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f6f901cd5ab66282ba8130f102a62ff8761cc1b420014ff0679767ae9c87181",
+  "md_bytes": 10405,
+  "links_found": 69,
+  "files_found": 0
+}

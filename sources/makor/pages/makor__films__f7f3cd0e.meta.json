@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אואזיס/",
+  "stable_id": "makor__films__f7f3cd0e",
+  "fetched_at": "2026-05-09T13:02:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:02:03Z",
+  "duration_ms": 15491,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ce21ceca3c8aa630f95e8e81ba778725c55c38a8f74454b155b8a0b3f4a0bbf1",
+  "md_bytes": 2811,
+  "links_found": 4,
+  "files_found": 0
+}

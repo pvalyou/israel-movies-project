@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lion-in-zion/",
+  "stable_id": "nfct__en-movies-lion-in-zion__d243c80e",
+  "fetched_at": "2026-05-15T15:31:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:31:32Z",
+  "duration_ms": 7684,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:637df7101dcc9bf0ce8d0a221f59f8aa35b189ec800c2dc2b7d9d5e0a079efaf",
+  "md_bytes": 11431,
+  "links_found": 34,
+  "files_found": 0
+}

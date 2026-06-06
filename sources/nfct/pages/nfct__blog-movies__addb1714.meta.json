@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יום-ולילה/",
+  "stable_id": "nfct__blog-movies__addb1714",
+  "fetched_at": "2026-05-09T20:46:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:46:47Z",
+  "duration_ms": 54296,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a9ad3ea22e281984499c636af02d8336ef6f2bf7da3519d1de558164e2169b6c",
+  "md_bytes": 19704,
+  "links_found": 45,
+  "files_found": 0
+}

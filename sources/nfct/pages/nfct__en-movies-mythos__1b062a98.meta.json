@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mythos/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-mythos__1b062a98",
+  "fetched_at": "2026-05-16T12:45:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:45:52Z",
+  "duration_ms": 7114,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:884e69e67712b300aaa48e301dcf3cb1b7c7c282ec008ae2ebf6aa1ad111fb39",
+  "md_bytes": 14843,
+  "links_found": 49,
+  "files_found": 0
+}

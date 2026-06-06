@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mentally%20challenged",
+  "stable_id": "nfct__en-movies-archive_keywords-mentally-20challenged__2d9f97fe",
+  "fetched_at": "2026-05-16T11:15:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:15:12Z",
+  "duration_ms": 8080,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b31dd1bda386b9e4f66452a32a604da6a658d112e1c371d265b9326c5dbf0bc3",
+  "md_bytes": 10439,
+  "links_found": 69,
+  "files_found": 0
+}

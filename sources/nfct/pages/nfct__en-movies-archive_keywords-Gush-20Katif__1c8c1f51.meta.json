@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gush%20Katif",
+  "stable_id": "nfct__en-movies-archive_keywords-Gush-20Katif__1c8c1f51",
+  "fetched_at": "2026-05-16T08:59:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:59:24Z",
+  "duration_ms": 8834,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92b4b6587efbfa3152cd48affb60e2fe2c3a9855c7d076a4701105468097a30d",
+  "md_bytes": 11564,
+  "links_found": 73,
+  "files_found": 0
+}

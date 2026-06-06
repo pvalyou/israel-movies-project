@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שושלת-פיין/",
+  "stable_id": "makor__films__482deffd",
+  "fetched_at": "2026-05-09T13:15:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:45Z",
+  "duration_ms": 17799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d58ceddb451bb890aa8a9038fb270f83353f12d3a249e03da92a8ec3ac0f25be",
+  "md_bytes": 3080,
+  "links_found": 4,
+  "files_found": 0
+}

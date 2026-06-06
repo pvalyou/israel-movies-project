@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Prisoner+Rehabilitation+Authority",
+  "stable_id": "nfct__en-movies-archive_keywords-Prisoner-Rehabilitation-Authority__a851b593",
+  "fetched_at": "2026-05-16T14:02:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:02:05Z",
+  "duration_ms": 8649,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e206350cfbe3a402870c9b6bf9ea3b820d4fbe997db51d33d018886dd1928bc",
+  "md_bytes": 10233,
+  "links_found": 68,
+  "files_found": 0
+}

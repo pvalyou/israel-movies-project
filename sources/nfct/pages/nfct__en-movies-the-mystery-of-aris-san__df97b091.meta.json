@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-mystery-of-aris-san/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-mystery-of-aris-san__df97b091",
+  "fetched_at": "2026-05-16T07:12:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:12:48Z",
+  "duration_ms": 7944,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:661e09cb740dc83682fc6ccf554a930d19b092dd26fc2c58afbc2808d2549a9a",
+  "md_bytes": 16294,
+  "links_found": 51,
+  "files_found": 0
+}

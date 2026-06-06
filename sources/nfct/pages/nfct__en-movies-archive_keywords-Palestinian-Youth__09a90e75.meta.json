@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian+Youth",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-Youth__09a90e75",
+  "fetched_at": "2026-05-16T14:02:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:02:03Z",
+  "duration_ms": 8222,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb53f5b81e62b0eb93017fd9ae4388f42af6154ec4db60f0268b38b83c68bc19",
+  "md_bytes": 10783,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ספק-ילדה-ספק-אישה-אלה-ודפנה-ארמוני/",
+  "stable_id": "nfct__blog-movies__46a0d4b6",
+  "fetched_at": "2026-05-09T19:11:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:11:48Z",
+  "duration_ms": 16707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2396bd3a5da23389a2cb0673132286143a26ff04774e133041723dab60a0983",
+  "md_bytes": 16719,
+  "links_found": 29,
+  "files_found": 0
+}

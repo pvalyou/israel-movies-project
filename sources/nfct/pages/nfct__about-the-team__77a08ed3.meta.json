@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/about/the-team/#UAMainContent",
+  "stable_id": "nfct__about-the-team__77a08ed3",
+  "fetched_at": "2026-05-10T17:03:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T17:03:02Z",
+  "duration_ms": 37494,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:01780947a19cd687b5dc2ab4533edc5b156ef98219597637188c326e8c38e6fd",
+  "md_bytes": 15445,
+  "links_found": 26,
+  "files_found": 0
+}

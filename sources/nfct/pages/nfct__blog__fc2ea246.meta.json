@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/מיזם-לקולנוע-וטלוויזיה-בגליל/",
+  "stable_id": "nfct__blog__fc2ea246",
+  "fetched_at": "2026-05-09T16:02:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:02:20Z",
+  "duration_ms": 59900,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:185f1390396a0eec18fde432eae0f6c2943696ecfaa6e7e1d791f105be8baaa6",
+  "md_bytes": 16247,
+  "links_found": 27,
+  "files_found": 8
+}

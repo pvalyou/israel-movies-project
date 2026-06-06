@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Faradis",
+  "stable_id": "nfct__en-movies-archive_keywords-Faradis__06bf0cf3",
+  "fetched_at": "2026-05-16T05:31:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:31:43Z",
+  "duration_ms": 6919,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3181cdf90176d6568aa1524961eade69ff17e22d1fa8a163adc48cabb951b955",
+  "md_bytes": 10156,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Russia",
+  "stable_id": "nfct__en-movies-archive_keywords-Russia__c4e265b2",
+  "fetched_at": "2026-05-16T09:09:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:09:45Z",
+  "duration_ms": 7510,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:563ce58b5fb525a028d0ddf7c653a3d4750fac64eae5d8769b7e2f8a2e552176",
+  "md_bytes": 16364,
+  "links_found": 82,
+  "files_found": 0
+}

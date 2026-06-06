@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/game-changer/",
+  "stable_id": "nfct__en-movies-game-changer__30f3d5ce",
+  "fetched_at": "2026-05-16T09:41:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:41:05Z",
+  "duration_ms": 8097,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:083d062345c20327a0839c5ae15de6548c147557736a55d3c51c96c24a898acb",
+  "md_bytes": 13578,
+  "links_found": 37,
+  "files_found": 0
+}

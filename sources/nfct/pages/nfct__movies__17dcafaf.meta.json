@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/החברות-משם/",
+  "stable_id": "nfct__movies__17dcafaf",
+  "fetched_at": "2026-05-16T07:23:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:23:04Z",
+  "duration_ms": 9754,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82727dd0b612776679c5c74c07d0be592a2a05dfa8ed66cc4da76ef3244f965c",
+  "md_bytes": 8649,
+  "links_found": 21,
+  "files_found": 0
+}

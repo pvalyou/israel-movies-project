@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Russian%20immigrant",
+  "stable_id": "nfct__en-movies-archive_keywords-Russian-20immigrant__3b62155b",
+  "fetched_at": "2026-05-16T11:26:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:26:16Z",
+  "duration_ms": 7088,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa7bd1df93f7335e1cbfd89f71990931e6ef15efade0f905309067ae01098dcd",
+  "md_bytes": 14076,
+  "links_found": 78,
+  "files_found": 0
+}

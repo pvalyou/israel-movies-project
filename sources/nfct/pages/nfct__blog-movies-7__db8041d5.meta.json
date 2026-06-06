@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/7-מונולוגים-על-זנות/",
+  "stable_id": "nfct__blog-movies-7__db8041d5",
+  "fetched_at": "2026-05-09T20:23:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:23:22Z",
+  "duration_ms": 28019,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e7294dadb2e8d9472373cffaf6143a3b866ae167f29fe8e0ee429bc7d3d20249",
+  "md_bytes": 20171,
+  "links_found": 45,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mossad",
+  "stable_id": "nfct__en-movies-archive_keywords-Mossad__7eef7e2e",
+  "fetched_at": "2026-05-16T06:30:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:30:50Z",
+  "duration_ms": 10032,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2abeb6b5f4cafac1fc798af2d154bb1aa975dab6d2a8cd56b0ca7140b2fbb2f8",
+  "md_bytes": 14720,
+  "links_found": 78,
+  "files_found": 0
+}

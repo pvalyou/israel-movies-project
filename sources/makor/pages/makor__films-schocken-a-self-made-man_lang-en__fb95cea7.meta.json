@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/schocken-a-self-made-man/?lang=en",
+  "stable_id": "makor__films-schocken-a-self-made-man_lang-en__fb95cea7",
+  "fetched_at": "2026-05-09T13:16:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:16:49Z",
+  "duration_ms": 9907,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b780f555d62fa9e6b78f841aad742788522dc5e803587e970b2d833ca32796e2",
+  "md_bytes": 2647,
+  "links_found": 4,
+  "files_found": 0
+}

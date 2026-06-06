@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nelson",
+  "stable_id": "nfct__en-movies-archive_keywords-Nelson__a8d74fb1",
+  "fetched_at": "2026-05-16T14:45:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:45:24Z",
+  "duration_ms": 6430,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0d031c1eeca2fd38b800e089c6923eebadb420be13621248e0cbb15c62e63d9a",
+  "md_bytes": 10639,
+  "links_found": 69,
+  "files_found": 0
+}

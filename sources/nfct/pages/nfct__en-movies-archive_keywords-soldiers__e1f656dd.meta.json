@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=soldiers",
+  "stable_id": "nfct__en-movies-archive_keywords-soldiers__e1f656dd",
+  "fetched_at": "2026-05-16T10:54:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:54:42Z",
+  "duration_ms": 7620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d79b2f3b6d45ad52ea614182c84e3763b31ee6087a8a5d44d2f8cb6bec3ad53f",
+  "md_bytes": 16398,
+  "links_found": 82,
+  "files_found": 0
+}

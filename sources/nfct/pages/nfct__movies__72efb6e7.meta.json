@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/נשיקה-ראשונה/",
+  "stable_id": "nfct__movies__72efb6e7",
+  "fetched_at": "2026-05-16T11:17:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:17:52Z",
+  "duration_ms": 9750,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:407381d8d03af3241572d3e91a99c68d9345e787834e6543cb78035d659b1f14",
+  "md_bytes": 8689,
+  "links_found": 21,
+  "files_found": 0
+}

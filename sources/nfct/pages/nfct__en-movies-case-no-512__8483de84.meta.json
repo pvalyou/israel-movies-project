@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/case-no-512/",
+  "stable_id": "nfct__en-movies-case-no-512__8483de84",
+  "fetched_at": "2026-05-11T17:14:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:14:56Z",
+  "duration_ms": 23222,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d362bc36247d70c7e3abf24a7f4bbf6c163e710e80d92fe8627e65735fbbbe69",
+  "md_bytes": 13148,
+  "links_found": 37,
+  "files_found": 0
+}

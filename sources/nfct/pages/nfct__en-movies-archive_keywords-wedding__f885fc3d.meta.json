@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=wedding",
+  "stable_id": "nfct__en-movies-archive_keywords-wedding__f885fc3d",
+  "fetched_at": "2026-05-16T05:13:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:13:49Z",
+  "duration_ms": 6698,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0916794ff872549ba2d51b7555b6ec55af138d2da90ab22f9a1d91e3928abee2",
+  "md_bytes": 13853,
+  "links_found": 77,
+  "files_found": 0
+}

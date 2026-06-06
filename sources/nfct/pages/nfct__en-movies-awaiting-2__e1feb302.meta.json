@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/awaiting-2/",
+  "stable_id": "nfct__en-movies-awaiting-2__e1feb302",
+  "fetched_at": "2026-05-11T07:34:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:34:07Z",
+  "duration_ms": 19585,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dbf312d347dd1a3a5c85fdefb16e6681469cb454a90816cfa2bb57371a2a9747",
+  "md_bytes": 13519,
+  "links_found": 40,
+  "files_found": 0
+}

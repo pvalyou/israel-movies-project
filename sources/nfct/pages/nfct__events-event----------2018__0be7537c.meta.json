@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/פרויקט-כנפיים-פסטיבל-דוקאביב-גליל-2018/",
+  "stable_id": "nfct__events-event----------2018__0be7537c",
+  "fetched_at": "2026-05-10T01:29:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:29:45Z",
+  "duration_ms": 11293,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:14a93f346b8a456bc45d48cfc954acdea6f18444909f6bc4f0c8436dd6b81c77",
+  "md_bytes": 12650,
+  "links_found": 21,
+  "files_found": 0
+}

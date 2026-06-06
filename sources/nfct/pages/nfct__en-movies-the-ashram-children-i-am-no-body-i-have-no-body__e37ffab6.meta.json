@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-ashram-children-i-am-no-body-i-have-no-body/",
+  "stable_id": "nfct__en-movies-the-ashram-children-i-am-no-body-i-have-no-body__e37ffab6",
+  "fetched_at": "2026-05-15T15:28:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:28:27Z",
+  "duration_ms": 14902,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08b822e090be91ea7a1b19495a70e78737fac018281dac61a05006584ff3e67e",
+  "md_bytes": 14069,
+  "links_found": 37,
+  "files_found": 0
+}

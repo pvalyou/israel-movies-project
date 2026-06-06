@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/three-sisters/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-three-sisters__dc5690ee",
+  "fetched_at": "2026-05-16T10:19:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:19:41Z",
+  "duration_ms": 12501,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f5074cde227a1bec71e877286af4a5274490bd19c79da7ae0c69dfb938cc1bf",
+  "md_bytes": 14758,
+  "links_found": 38,
+  "files_found": 0
+}

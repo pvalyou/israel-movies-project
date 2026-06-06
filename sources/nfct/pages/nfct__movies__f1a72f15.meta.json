@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מישהי-לאהוב/",
+  "stable_id": "nfct__movies__f1a72f15",
+  "fetched_at": "2026-05-16T11:24:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:24:40Z",
+  "duration_ms": 8829,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:571a63d3ad7e0ffa60a9f3da0a16008c10ac201a97fdc7f0b264f578b28ad929",
+  "md_bytes": 8669,
+  "links_found": 21,
+  "files_found": 0
+}

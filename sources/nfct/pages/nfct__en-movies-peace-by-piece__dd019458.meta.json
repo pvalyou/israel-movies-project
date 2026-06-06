@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/peace-by-piece/#UAMainContent",
+  "stable_id": "nfct__en-movies-peace-by-piece__dd019458",
+  "fetched_at": "2026-05-16T10:23:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:23:53Z",
+  "duration_ms": 7293,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96017108a9c9efc0f4ea742ae53b655cf03d0d84f72440560eaac1ed762e93c0",
+  "md_bytes": 15734,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=second%20generation",
+  "stable_id": "nfct__en-movies-archive_keywords-second-20generation__bdcef074",
+  "fetched_at": "2026-05-16T16:35:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:35:15Z",
+  "duration_ms": 9207,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:71a7bc509f6aa26f4bca9990a1eff6fdadf50ad0b5697b57b8f02ba713a5290e",
+  "md_bytes": 12413,
+  "links_found": 73,
+  "files_found": 0
+}

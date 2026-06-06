@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ברונקה/",
+  "stable_id": "nfct__blog-movies__dbc2ffd4",
+  "fetched_at": "2026-05-09T20:16:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:16:41Z",
+  "duration_ms": 28355,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:25b69dc31f05318db8b5f01e5235576c760abbbec326ba0b6de0c085581d0127",
+  "md_bytes": 19893,
+  "links_found": 47,
+  "files_found": 0
+}

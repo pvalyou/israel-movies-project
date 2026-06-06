@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-last-league/",
+  "stable_id": "nfct__en-movies-the-last-league__917f3df2",
+  "fetched_at": "2026-05-11T16:53:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:53:12Z",
+  "duration_ms": 20726,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2882f21a55c7e824f37c5a08f9cede18223bff5b606bb8e356f8632920187d33",
+  "md_bytes": 13124,
+  "links_found": 33,
+  "files_found": 0
+}

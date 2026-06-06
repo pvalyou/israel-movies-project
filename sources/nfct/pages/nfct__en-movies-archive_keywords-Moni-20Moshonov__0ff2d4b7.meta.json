@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Moni%20Moshonov",
+  "stable_id": "nfct__en-movies-archive_keywords-Moni-20Moshonov__0ff2d4b7",
+  "fetched_at": "2026-05-16T13:20:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:20:31Z",
+  "duration_ms": 9400,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b90b91c8b6d94519af6e9e2519f5621758be3be9074d09d3ec810c60a58420fb",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

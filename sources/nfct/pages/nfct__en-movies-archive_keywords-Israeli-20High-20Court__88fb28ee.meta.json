@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20High%20Court",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20High-20Court__88fb28ee",
+  "fetched_at": "2026-05-16T12:56:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:56:55Z",
+  "duration_ms": 7401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8fe26a5a6a4c89ddbe04e0b0ce649a49e7dd44c092c3a1a8d4c3d6c17b0caa0",
+  "md_bytes": 10218,
+  "links_found": 68,
+  "files_found": 0
+}

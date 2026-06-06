@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=culture%20of%20prepardness",
+  "stable_id": "nfct__en-movies-archive_keywords-culture-20of-20prepardness__2cfc5ddb",
+  "fetched_at": "2026-05-16T13:26:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:26:51Z",
+  "duration_ms": 11976,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65e5103d4b1ddb6be620a2a74567d8e6e7cb019530f23bcd6dea5e633cf80f2f",
+  "md_bytes": 9823,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=settlements",
+  "stable_id": "nfct__en-movies-archive_keywords-settlements__f091a73d",
+  "fetched_at": "2026-05-16T07:39:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:39:24Z",
+  "duration_ms": 6583,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f4a2e87cbf72125bb89dd5504ba70599a93dc667b806e06943b4245192be2b8",
+  "md_bytes": 12354,
+  "links_found": 75,
+  "files_found": 0
+}

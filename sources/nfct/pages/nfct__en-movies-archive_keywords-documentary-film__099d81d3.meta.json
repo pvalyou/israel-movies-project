@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=documentary+film",
+  "stable_id": "nfct__en-movies-archive_keywords-documentary-film__099d81d3",
+  "fetched_at": "2026-05-16T09:44:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:44:51Z",
+  "duration_ms": 8404,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3704ba79ecdae78438e8f4c736d83c10f921657119cbd4e69a71f9c6c898e660",
+  "md_bytes": 17462,
+  "links_found": 82,
+  "files_found": 0
+}

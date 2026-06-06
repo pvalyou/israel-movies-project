@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=deathbed",
+  "stable_id": "nfct__en-movies-archive_keywords-deathbed__0be59561",
+  "fetched_at": "2026-05-16T15:33:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:33:06Z",
+  "duration_ms": 9232,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5053451b71614cce50f6f26cb101ea5e07df5ddd0f766f22ffd4800e5e3312c6",
+  "md_bytes": 10166,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=discrimination",
+  "stable_id": "nfct__en-movies-archive_keywords-discrimination__5acb30ce",
+  "fetched_at": "2026-05-16T05:35:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:35:47Z",
+  "duration_ms": 5882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a9346a9d895f5f32864e0de2242c427ef1b4e569c729ccbe2a67b55d95154969",
+  "md_bytes": 12820,
+  "links_found": 74,
+  "files_found": 0
+}

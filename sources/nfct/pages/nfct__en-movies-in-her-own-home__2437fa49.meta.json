@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-her-own-home/",
+  "stable_id": "nfct__en-movies-in-her-own-home__2437fa49",
+  "fetched_at": "2026-05-11T17:53:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:53:02Z",
+  "duration_ms": 24215,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8fc5ba2a9268daf29b98e21efb9197a6dbf5903a62ea5dd3f0ccea05a31f82db",
+  "md_bytes": 13336,
+  "links_found": 43,
+  "files_found": 0
+}

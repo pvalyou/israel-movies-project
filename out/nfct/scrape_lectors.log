@@ -1,0 +1,9 @@
+Source: nfct (NFCT)
+URLs:   1
+Depth:  1, Follow: True
+Output: sources/nfct/pages
+
+  ✓ https://nfct.org.il/lectors/ → nfct__lectors__da208e35.md (13443 bytes)
+
+Done: 1 succeeded, 0 failed, 0 empty
+Manifest: sources/nfct/runs/2026-05-18T18-03-17Z/manifest.json

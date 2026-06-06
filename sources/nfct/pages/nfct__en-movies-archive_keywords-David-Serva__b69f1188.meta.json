@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=David+Serva",
+  "stable_id": "nfct__en-movies-archive_keywords-David-Serva__b69f1188",
+  "fetched_at": "2026-05-16T20:15:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:15:08Z",
+  "duration_ms": 6749,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:20fe4e2e6aff25216c322c49f868a43b77cc8334d51211534e74b36d971de9ed",
+  "md_bytes": 9985,
+  "links_found": 68,
+  "files_found": 0
+}

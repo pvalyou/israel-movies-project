@@ -1,0 +1,21 @@
+{
+  "source_name": "rabinovich_cinema",
+  "run_date": "2026-05-16",
+  "elapsed_min": 12.14,
+  "pages_total": 1170,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 1170,
+  "status_counts": {
+    "ok": 1170,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 4324174,
+  "tokens_output": 3871955,
+  "cost_usd": 1.9812,
+  "calls": 1170,
+  "errors": 0,
+  "json_retries": 0
+}

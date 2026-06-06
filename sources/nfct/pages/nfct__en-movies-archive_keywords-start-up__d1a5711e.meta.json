@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=start+up",
+  "stable_id": "nfct__en-movies-archive_keywords-start-up__d1a5711e",
+  "fetched_at": "2026-05-16T20:34:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:34:09Z",
+  "duration_ms": 9157,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:42cb2a15c780ee89c3002c7bbf717a6d323feef28475f51a209e0f9b74ee20d2",
+  "md_bytes": 15470,
+  "links_found": 82,
+  "files_found": 0
+}

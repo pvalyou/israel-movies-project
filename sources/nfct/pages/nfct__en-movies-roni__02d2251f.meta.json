@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/roni/",
+  "stable_id": "nfct__en-movies-roni__02d2251f",
+  "fetched_at": "2026-05-11T20:46:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:46:30Z",
+  "duration_ms": 9503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfec6474599d558eeaa1da3ede269ce799d2fc15f4c3729b339901ea5a657d48",
+  "md_bytes": 11807,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Acre+theater",
+  "stable_id": "nfct__en-movies-archive_keywords-Acre-theater__27061d13",
+  "fetched_at": "2026-05-16T14:27:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:27:24Z",
+  "duration_ms": 7517,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:80af5c8271ce1ecf9765d2d14d3fb6e3e28a2d9400c952fb87f4505b6a9822a3",
+  "md_bytes": 10300,
+  "links_found": 68,
+  "files_found": 0
+}

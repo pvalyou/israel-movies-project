@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/הציפור-שרצתה/",
+  "stable_id": "makor__films__e32ab542",
+  "fetched_at": "2026-05-09T12:50:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:50:14Z",
+  "duration_ms": 18001,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:15870677ded5d322ae376be376944e8762de8250e3e2381c4ff2e443a8dfc779",
+  "md_bytes": 3085,
+  "links_found": 4,
+  "files_found": 0
+}

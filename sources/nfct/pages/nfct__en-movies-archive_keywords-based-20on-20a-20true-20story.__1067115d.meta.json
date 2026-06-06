@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=based%20on%20a%20true%20story.",
+  "stable_id": "nfct__en-movies-archive_keywords-based-20on-20a-20true-20story.__1067115d",
+  "fetched_at": "2026-05-16T13:29:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:29:50Z",
+  "duration_ms": 7719,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be9941f688749677a0205988feb529f35880e56936c162e11d6f69ba257d77f0",
+  "md_bytes": 10188,
+  "links_found": 68,
+  "files_found": 0
+}

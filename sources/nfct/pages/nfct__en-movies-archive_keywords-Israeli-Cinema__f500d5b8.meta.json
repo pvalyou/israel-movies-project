@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli+Cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-Cinema__f500d5b8",
+  "fetched_at": "2026-05-16T20:38:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:38:13Z",
+  "duration_ms": 11072,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c37c87828c0a88bbbb37a63174fd46e56b63ca4d576692adaffab7337a9cb92f",
+  "md_bytes": 17049,
+  "links_found": 82,
+  "files_found": 0
+}

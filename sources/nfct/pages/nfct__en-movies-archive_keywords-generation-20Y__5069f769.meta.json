@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=generation%20Y",
+  "stable_id": "nfct__en-movies-archive_keywords-generation-20Y__5069f769",
+  "fetched_at": "2026-05-16T15:27:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:27:01Z",
+  "duration_ms": 9372,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0bad49799855a616742814a0df19d3f1ce1a0e858d310ea15ef8b0fdaf584167",
+  "md_bytes": 17686,
+  "links_found": 82,
+  "files_found": 0
+}

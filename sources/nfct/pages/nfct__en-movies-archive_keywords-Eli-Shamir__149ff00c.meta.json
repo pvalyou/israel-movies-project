@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eli+Shamir",
+  "stable_id": "nfct__en-movies-archive_keywords-Eli-Shamir__149ff00c",
+  "fetched_at": "2026-05-16T15:37:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:37:43Z",
+  "duration_ms": 7240,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a49499c5745c7535376fee4315a9858b114b6c6a7d74329b1706cfa55f2d7b9",
+  "md_bytes": 10620,
+  "links_found": 69,
+  "files_found": 0
+}

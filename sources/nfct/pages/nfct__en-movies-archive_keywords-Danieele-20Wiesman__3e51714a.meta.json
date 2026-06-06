@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Danieele%20Wiesman",
+  "stable_id": "nfct__en-movies-archive_keywords-Danieele-20Wiesman__3e51714a",
+  "fetched_at": "2026-05-16T12:15:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:15:43Z",
+  "duration_ms": 11444,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:499aed563e72ea9e8faa01b9d8701ffc599835ee2aef7166ce557f6af179c2b2",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

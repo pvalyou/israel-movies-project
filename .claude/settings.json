@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -c \"manual://\" connections_report.html)"
+    ]
+  }
+}

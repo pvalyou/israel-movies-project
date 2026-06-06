@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=War%20Machine",
+  "stable_id": "nfct__en-movies-archive_keywords-War-20Machine__2885c611",
+  "fetched_at": "2026-05-16T14:46:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:49Z",
+  "duration_ms": 8136,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3511cf1a6eca0ff316c71447655518e7e94ca7088dec6fb83e81616651ce9f1e",
+  "md_bytes": 10173,
+  "links_found": 68,
+  "files_found": 0
+}

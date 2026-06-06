@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=turky",
+  "stable_id": "nfct__en_movies-archive__539e3648",
+  "fetched_at": "2026-05-18T21:31:52.327796+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=turky",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "979f8d96524ca07491ca0f5c5461c61f805299db28ebf87fc51e673c00b0eebe",
+  "md_bytes": 9194,
+  "links_found": 0,
+  "error": ""
+}

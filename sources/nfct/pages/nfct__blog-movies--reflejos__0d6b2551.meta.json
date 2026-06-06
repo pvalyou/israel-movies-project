@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בבואות-reflejos/",
+  "stable_id": "nfct__blog-movies--reflejos__0d6b2551",
+  "fetched_at": "2026-05-09T21:27:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:27:18Z",
+  "duration_ms": 18886,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9121b3732083d28d7b978c96df04d40cc4db0cd97d487becbceac9f89b555198",
+  "md_bytes": 16364,
+  "links_found": 36,
+  "files_found": 0
+}

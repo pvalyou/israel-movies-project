@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המוזיאון-רן-טל-סינמטק-חיפה-2/",
+  "stable_id": "nfct__events-event------------2__94dc7ff3",
+  "fetched_at": "2026-05-10T02:29:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:29:04Z",
+  "duration_ms": 33620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a890a74526b062f85962cde15e71f2769e9db9d2e19771a5dfccc9be2d5d050e",
+  "md_bytes": 12508,
+  "links_found": 28,
+  "files_found": 0
+}

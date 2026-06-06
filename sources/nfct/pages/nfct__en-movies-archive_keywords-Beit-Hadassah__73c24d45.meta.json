@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Beit+Hadassah",
+  "stable_id": "nfct__en-movies-archive_keywords-Beit-Hadassah__73c24d45",
+  "fetched_at": "2026-05-16T20:18:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:10Z",
+  "duration_ms": 8066,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3a4d98998ad029515b14872bdd4b1abdd282900e8bf7e094b66ab95f49159d8c",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sterile",
+  "stable_id": "nfct__en-movies-archive_keywords-Sterile__3b6acb6c",
+  "fetched_at": "2026-05-16T13:37:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:37:37Z",
+  "duration_ms": 7534,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78d62438ba6035f427dda6828fca543cf83397c5e165711057ff2b04ce23d1b1",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

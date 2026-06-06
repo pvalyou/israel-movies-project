@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חלום-שפה/",
+  "stable_id": "nfct__blog-movies__363927f5",
+  "fetched_at": "2026-05-09T20:06:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:06:40Z",
+  "duration_ms": 60253,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ccee9a0398a13eb20ee4df01c9c7bea4a51705b094d23f20f72f4a7222140efd",
+  "md_bytes": 24373,
+  "links_found": 54,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=car+industry",
+  "stable_id": "nfct__en-movies-archive_keywords-car-industry__6eeaeb61",
+  "fetched_at": "2026-05-16T13:52:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:44Z",
+  "duration_ms": 6364,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b9d801f5216ab6efb128be24e38c5b4fb31c1a839df9ca7c40bfbb0a09bca808",
+  "md_bytes": 10815,
+  "links_found": 69,
+  "files_found": 0
+}

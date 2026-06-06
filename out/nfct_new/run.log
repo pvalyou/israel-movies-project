@@ -1,0 +1,2093 @@
+
+=== Run started 2026-05-18T23:37:46.163254 ===
+[23:37:46] Source: nfct_new
+[23:37:46] Pages dir: sources/nfct_new/pages
+[23:37:46] Output dir: out/nfct_new
+[23:37:46] Total .md pages found: 687  |  Already done: 0  |  To process: 687
+[23:37:46] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:37:48] [1/687] OK   0p 2o 0f 0r 0ro  (2.1s)
+[23:37:48]           file: nfct_new__blog_cinema-south-festival2025_סרטי_הקרן_בפסטיבל_קולנוע_דרום_2025__eda32ca9.md
+[23:37:48]           url:  https://nfct.org.il/blog/cinema-south-festival2025/ \"סרטי הקרן בפסטיבל קולנו...
+[23:37:48] [2/687] OK   1p 2o 0f 0r 1ro  (2.43s)
+[23:37:48]           file: nfct_new__blog_anu2025_פנים_רבות_הקולנוע_הדוקומנטרי_בעקבות_הזהות_היהודית_והישראלית_2025_20__e9831aae.md
+[23:37:48]           url:  https://nfct.org.il/blog/anu2025/ \"פנים רבות – הקולנוע הדוקומנטרי בעקבות הזה...
+[23:37:49] [3/687] OK   1p 2o 0f 0r 1ro  (2.85s)
+[23:37:49]           file: nfct_new__blog_anu2025_פנים_רבות_הקולנוע_הדוקומנטרי_בעקבות_הזהות_היהודית_והישראלית_2025_20__efeaf173.md
+[23:37:49]           url:  https://nfct.org.il/blog/anu2025/ "פנים רבות – הקולנוע הדוקומנטרי בעקבות הזהו...
+[23:37:49] [4/687] OK   1p 2o 0f 0r 0ro  (2.94s)
+[23:37:49]           file: nfct_new__blog_cinema-south-festival2025_סרטי_הקרן_בפסטיבל_קולנוע_דרום_2025__85fe182a.md
+[23:37:49]           url:  https://nfct.org.il/blog/cinema-south-festival2025/ "סרטי הקרן בפסטיבל קולנוע...
+[23:37:49] [5/687] OK   1p 2o 0f 0r 1ro  (3.16s)
+[23:37:49]           file: nfct_new__blog_d7_a4_d7_a1_d7_98_d7_99_d7_91_d7_9c-_d7_a1_d7_90_d7_95_d7_a0_d7_93_d7_98_d7__cd9fa89f.md
+[23:37:49]           url:  https://nfct.org.il/blog/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%90%d7...
+[23:37:49] [6/687] OK   1p 2o 0f 0r 0ro  (3.24s)
+[23:37:49]           file: nfct_new__blog_d7_a4_d7_a1_d7_98_d7_99_d7_91_d7_9c-_d7_a1_d7_90_d7_95_d7_a0_d7_93_d7_98_d7__7d70ac4f.md
+[23:37:49]           url:  https://nfct.org.il/blog/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%90%d7...
+[23:37:49] [7/687] OK   1p 2o 0f 0r 1ro  (3.46s)
+[23:37:49]           file: nfct_new__blog_d7_a1_d7_a8_d7_98_d7_99-_d7_94_d7_a7_d7_a8_d7_9f-_d7_91_d7_a4_d7_a1_d7_98_d__f7fd4f1d.md
+[23:37:49]           url:  https://nfct.org.il/blog/%d7%a1%d7%a8%d7%98%d7%99-%d7%94%d7%a7%d7%a8%d7%9f-%d...
+[23:37:50] [8/687] OK   1p 2o 0f 0r 0ro  (1.28s)
+[23:37:50]           file: nfct_new__blog_doc-lab-tlv-2026_קול_קורא_DOC-LAB-TLV_לשנת_2026__e759aea1.md
+[23:37:50]           url:  https://nfct.org.il/blog/doc-lab-tlv-2026/ "** קול קורא ** DOC-LAB-TLV לשנת 2026
+[23:37:50] [9/687] OK   1p 2o 0f 0r 1ro  (1.76s)
+[23:37:50]           file: nfct_new__blog_doc-lab-tlv-2026_קול_קורא_DOC-LAB-TLV_לשנת_2026__00d6a314.md
+[23:37:50]           url:  https://nfct.org.il/blog/doc-lab-tlv-2026/ \"** קול קורא ** DOC-LAB-TLV לשנת ...
+[23:37:51] [10/687] OK   1p 3o 0f 2r 1ro  (4.97s)
+[23:37:51]           file: nfct_new__blog_d7_a7_d7_95_d7_9c-_d7_a7_d7_95_d7_a8_d7_90-_d7_90_d7_a0_d7_aa_d7_95_d7_9c_d__4f695761.md
+[23:37:51]           url:  https://nfct.org.il/blog/%d7%a7%d7%95%d7%9c-%d7%a7%d7%95%d7%a8%d7%90-%d7%90%d...
+[23:37:51] [11/687] OK   1p 2o 0f 0r 1ro  (1.91s)
+[23:37:51]           file: nfct_new__blog_docaviv-2026_סרטי_הקרן_בפסטיבל_דוקאביב_2026__04b16fc3.md
+[23:37:51]           url:  https://nfct.org.il/blog/docaviv-2026/ \"סרטי הקרן בפסטיבל דוקאביב 2026\
+[23:37:51] [12/687] OK   1p 2o 0f 0r 1ro  (5.34s)
+[23:37:51]           file: nfct_new__blog_d7_a1_d7_a8_d7_98_d7_99-_d7_94_d7_a7_d7_a8_d7_9f-_d7_91_d7_a4_d7_a1_d7_98_d__74930804.md
+[23:37:51]           url:  https://nfct.org.il/blog/%d7%a1%d7%a8%d7%98%d7%99-%d7%94%d7%a7%d7%a8%d7%9f-%d...
+[23:37:52] [13/687] OK   1p 2o 0f 0r 1ro  (1.77s)
+[23:37:52]           file: nfct_new__blog_docfurom2025_סרטי_הקרן_בתחרות_פרסי_הפורום_הדוקומנטרי_לשנת_2025__de8e01ff.md
+[23:37:52]           url:  https://nfct.org.il/blog/docfurom2025/ \"סרטי הקרן בתחרות פרסי הפורום הדוקומנ...
+[23:37:53] [14/687] OK   1p 2o 0f 0r 0ro  (1.54s)
+[23:37:53]           file: nfct_new__blog_docutext10_סרטי_הקרן_בפסטיבל_דוקו_טקסט_פסטיבל_קולנוע_דוקומנטרי_בספרייה_הלאו__817d9bb6.md
+[23:37:53]           url:  https://nfct.org.il/blog/docutext10/ \"סרטי הקרן בפסטיבל דוקו.טקסט – פסטיבל ק...
+[23:37:53] [15/687] OK   1p 2o 0f 1r 1ro  (2.81s)
+[23:37:53]           file: nfct_new__blog_docu-hub2026_קול_קורא_חממת_קולנוע_תיעודי_לנשים_יוצרות_2026__aa9ab52b.md
+[23:37:53]           url:  https://nfct.org.il/blog/docu-hub2026/ \"**קול קורא** חממת קולנוע תיעודי לנשי...
+[23:37:53] [16/687] OK   1p 4o 0f 0r 1ro  (2.06s)
+[23:37:53]           file: nfct_new__blog_docu08-2025_קול_קורא_סרטי_תעודה_מועד_אוגוסט_2025__23ebb8ff.md
+[23:37:53]           url:  https://nfct.org.il/blog/docu08-2025/ \"**קול קורא** סרטי תעודה – מועד אוגוסט...
+[23:37:53] [17/687] OK   1p 3o 0f 1r 1ro  (4.15s)
+[23:37:53]           file: nfct_new__blog_docaviv-2026_סרטי_הקרן_בפסטיבל_דוקאביב_2026__dd359f11.md
+[23:37:53]           url:  https://nfct.org.il/blog/docaviv-2026/ "סרטי הקרן בפסטיבל דוקאביב 2026
+[23:37:54] [18/687] OK   1p 2o 0f 0r 1ro  (2.07s)
+[23:37:54]           file: nfct_new__blog_fiction2025_קול_קורא_מועד_עלילתי_ארוך_בנושא_חברה_משותפת__ded70a96.md
+[23:37:54]           url:  https://nfct.org.il/blog/fiction2025/ \"**קול קורא** מועד עלילתי ארוך בנושא ח...
+[23:37:54] [19/687] OK   0p 0o 0f 0r 0ro  (8.12s)
+[23:37:54]           file: nfct_new__blog_d7_a1_d7_a8_d7_98_d7_99-_d7_94_d7_a7_d7_a8_d7_9f-_d7_91_d7_a4_d7_a1_d7_98_d__19114dff.md
+[23:37:54]           url:  https://nfct.org.il/blog/%d7%a1%d7%a8%d7%98%d7%99-%d7%94%d7%a7%d7%a8%d7%9f-%d...
+[23:37:54] [20/687] OK   0p 0o 0f 0r 0ro  (8.17s)
+[23:37:54]           file: nfct_new__blog_cinema-south-festival2025__1182ad8e.md
+[23:37:54]           url:  https://nfct.org.il/blog/cinema-south-festival2025/
+[23:37:54] [21/687] OK   6p 3o 2f 0r 0ro  (8.44s)
+[23:37:54]           file: nfct_new__blog_d7_a4_d7_a1_d7_98_d7_99_d7_91_d7_9c-_d7_a1_d7_90_d7_95_d7_a0_d7_93_d7_98_d7__9a3aa38b.md
+[23:37:54]           url:  https://nfct.org.il/blog/%d7%a4%d7%a1%d7%98%d7%99%d7%91%d7%9c-%d7%a1%d7%90%d7...
+[23:37:54] [22/687] OK   1p 2o 0f 0r 0ro  (5.08s)
+[23:37:54]           file: nfct_new__blog_docfurom2025_סרטי_הקרן_בתחרות_פרסי_הפורום_הדוקומנטרי_לשנת_2025__4b00a860.md
+[23:37:54]           url:  https://nfct.org.il/blog/docfurom2025/ "סרטי הקרן בתחרות פרסי הפורום הדוקומנט...
+[23:37:55] [23/687] OK   0p 1o 0f 0r 0ro  (1.99s)
+[23:37:55]           file: nfct_new__blog_haifaff2025_סרטי_הקרן_בפסטיבל_הסרטים_הבינלאומי_חיפה_2025__a8f6d822.md
+[23:37:55]           url:  https://nfct.org.il/blog/haifaff2025/ "סרטי הקרן בפסטיבל הסרטים הבינלאומי חיפ...
+[23:37:55] [24/687] OK   1p 2o 0f 0r 1ro  (2.01s)
+[23:37:55]           file: nfct_new__blog_haifaff2025_סרטי_הקרן_בפסטיבל_הסרטים_הבינלאומי_חיפה_2025__ad4f92d9.md
+[23:37:55]           url:  https://nfct.org.il/blog/haifaff2025/ \"סרטי הקרן בפסטיבל הסרטים הבינלאומי חי...
+[23:37:56] [25/687] OK   1p 3o 0f 2r 1ro  (2.27s)
+[23:37:56]           file: nfct_new__blog_january2025__fb38edaa.md
+[23:37:56]           url:  https://nfct.org.il/blog/january2025/
+[23:37:56] [26/687] OK   2p 3o 0f 3r 3ro  (3.21s)
+[23:37:56]           file: nfct_new__blog_jan2026__274a372d.md
+[23:37:56]           url:  https://nfct.org.il/blog/jan2026/
+[23:37:56] [27/687] OK   0p 0o 0f 0r 0ro  (7.77s)
+[23:37:56]           file: nfct_new__blog_docaviv-2026__0c7444ec.md
+[23:37:56]           url:  https://nfct.org.il/blog/docaviv-2026/
+[23:37:57] [28/687] OK   1p 2o 0f 0r 0ro  (5.88s)
+[23:37:57]           file: nfct_new__blog_docu-hub2026_קול_קורא_חממת_קולנוע_תיעודי_לנשים_יוצרות_2026__d905037b.md
+[23:37:57]           url:  https://nfct.org.il/blog/docu-hub2026/ "**קול קורא** חממת קולנוע תיעודי לנשים...
+[23:37:57] [29/687] OK   1p 5o 0f 0r 1ro  (2.69s)
+[23:37:57]           file: nfct_new__blog_january2025_קול_קורא_סרטי_תעודה_מועד_ינואר_2025__63a658e4.md
+[23:37:57]           url:  https://nfct.org.il/blog/january2025/ \"**קול קורא** סרטי תעודה – מועד ינואר ...
+[23:37:57] [30/687] OK   1p 2o 0f 0r 1ro  (2.23s)
+[23:37:57]           file: nfct_new__blog_jwff2025_סרטי_הקרן_בפסטיבל_הבינלאומי_לסרטי_נשים_בירושלים_2025__928f6797.md
+[23:37:57]           url:  https://nfct.org.il/blog/jwff2025/ \"סרטי הקרן בפסטיבל הבינלאומי לסרטי נשים ב...
+[23:37:58] [31/687] OK   1p 2o 0f 0r 1ro  (4.04s)
+[23:37:58]           file: nfct_new__blog_jan2026_קול_קורא_מועד_ינואר_2026_תעודה_וסרטי_גמר_סטודנטים__d9f09427.md
+[23:37:58]           url:  https://nfct.org.il/blog/jan2026/ \"**קול קורא** מועד ינואר 2026 – תעודה וסרט...
+[23:37:58] [32/687] OK   1p 2o 0f 0r 1ro  (4.26s)
+[23:37:58]           file: nfct_new__blog_jan2026_קול_קורא_מועד_ינואר_2026_תעודה_וסרטי_גמר_סטודנטים__6f4ea842.md
+[23:37:58]           url:  https://nfct.org.il/blog/jan2026/ "**קול קורא** מועד ינואר 2026 – תעודה וסרטי...
+[23:37:59] [33/687] OK   1p 2o 0f 0r 1ro  (4.28s)
+[23:37:59]           file: nfct_new__blog_jwff2025_סרטי_הקרן_בפסטיבל_הבינלאומי_לסרטי_נשים_בירושלים_2025__40f7780f.md
+[23:37:59]           url:  https://nfct.org.il/blog/jwff2025/ "סרטי הקרן בפסטיבל הבינלאומי לסרטי נשים בי...
+[23:37:59] [34/687] OK   1p 2o 0f 0r 0ro  (2.01s)
+[23:37:59]           file: nfct_new__blog_lab2026_קול_קורא_המעבדה_לסרטים_עלילתיים_קצרים_ליוצרים_ות_מהחברה_הערבית_2026__a289bb29.md
+[23:37:59]           url:  https://nfct.org.il/blog/lab2026/ \"**קול קורא** המעבדה לסרטים עלילתיים קצרים...
+[23:37:59] [35/687] OK   1p 2o 0f 0r 1ro  (2.47s)
+[23:37:59]           file: nfct_new__blog_katze2025_סרטי_הקרן_בפסטיבל_קצה_2025__d950ec91.md
+[23:37:59]           url:  https://nfct.org.il/blog/katze2025/ \"סרטי הקרן בפסטיבל \"קצה\" 2025\
+[23:37:59] [36/687] OK   1p 2o 0f 0r 1ro  (2.34s)
+[23:37:59]           file: nfct_new__blog_may2026__2a349919.md
+[23:37:59]           url:  https://nfct.org.il/blog/may2026/
+[23:38:00] [37/687] OK   1p 2o 0f 0r 1ro  (1.72s)
+[23:38:00]           file: nfct_new__blog_may2026_קול_קורא_מועד_מאי_2026_סרטי_תעודה__d2416c6a.md
+[23:38:00]           url:  https://nfct.org.il/blog/may2026/ \"**קול קורא** מועד מאי 2026 – סרטי תעודה\
+[23:38:00] [38/687] OK   0p 2o 0f 0r 1ro  (3.68s)
+[23:38:00]           file: nfct_new__blog_katze2025_סרטי_הקרן_בפסטיבל_קצה_2025__745aa12d.md
+[23:38:00]           url:  https://nfct.org.il/blog/katze2025/ "סרטי הקרן בפסטיבל "קצה" 2025
+[23:38:00] [39/687] OK   1p 2o 0f 0r 1ro  (2.97s)
+[23:38:00]           file: nfct_new__blog_may2026_קול_קורא_מועד_מאי_2026_סרטי_תעודה__b5b10479.md
+[23:38:00]           url:  https://nfct.org.il/blog/may2026/ "**קול קורא** מועד מאי 2026 – סרטי תעודה
+[23:38:00] [40/687] OK   0p 0o 0f 0r 0ro  (12.31s)
+[23:38:00]           file: nfct_new__blog_d7_a7_d7_95_d7_9c-_d7_a7_d7_95_d7_a8_d7_90-_d7_90_d7_a0_d7_aa_d7_95_d7_9c_d__8ecdd759.md
+[23:38:00]           url:  https://nfct.org.il/blog/%d7%a7%d7%95%d7%9c-%d7%a7%d7%95%d7%a8%d7%90-%d7%90%d...
+[23:38:01] [41/687] OK   0p 0o 0f 0r 0ro  (7.97s)
+[23:38:01]           file: nfct_new__blog_haifaff2025__c7a4273f.md
+[23:38:01]           url:  https://nfct.org.il/blog/haifaff2025/
+[23:38:01] [42/687] OK   1p 2o 0f 0r 1ro  (2.69s)
+[23:38:01]           file: nfct_new__blog_movies_D7_90_D7_99_D7_A4_D7_94-_D7_A9_D7_A0_D7_92_D7_9E_D7_A8_D7_99_D7_9D-___77d8573f.md
+[23:38:01]           url:  https://nfct.org.il/blog/movies/%D7%90%D7%99%D7%A4%D7%94-%D7%A9%D7%A0%D7%92%D...
+[23:38:01] [43/687] OK   1p 2o 1f 0r 1ro  (2.36s)
+[23:38:01]           file: nfct_new__blog_movies_D7_9E_D7_91_D7_98_D7_99_D7_9D-_D7_99_D7_A9_D7_A8_D7_90_D7_9C-2002_מב__7cd86588.md
+[23:38:01]           url:  https://nfct.org.il/blog/movies/%D7%9E%D7%91%D7%98%D7%99%D7%9D-%D7%99%D7%A9%D...
+[23:38:02] [44/687] OK   1p 2o 0f 0r 1ro  (3.4s)
+[23:38:02]           file: nfct_new__blog_movies_D7_97_D7_99_D7_99_D7_9D-_D7_A2_D7_9C-_D7_94_D7_92_D7_91_D7_95_D7_9C___31714305.md
+[23:38:02]           url:  https://nfct.org.il/blog/movies/%D7%97%D7%99%D7%99%D7%9D-%D7%A2%D7%9C-%D7%94%...
+[23:38:02] [45/687] OK   1p 2o 0f 0r 0ro  (1.88s)
+[23:38:02]           file: nfct_new__blog_movies_d7_90-_d7_a7_d7_99_d7_a6_d7_a2_d7_a8-2022_א-קיצער_2022__c4ec8288.md
+[23:38:02]           url:  https://nfct.org.il/blog/movies/%d7%90-%d7%a7%d7%99%d7%a6%d7%a2%d7%a8-2022/ \...
+[23:38:03] [46/687] OK   1p 2o 1f 0r 0ro  (2.04s)
+[23:38:03]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_91_d7_92_d7_99_d7_9c-_d7_a9_d7_9c-_d7_a1_d7_91__06a01ba3.md
+[23:38:03]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%91%d7%92%d7%99%d7%9c-%...
+[23:38:03] [47/687] OK   1p 2o 0f 0r 1ro  (3.27s)
+[23:38:03]           file: nfct_new__blog_movies_D7_A0_D7_A9_D7_99_D7_9D-_D7_91_D7_99_D7_9F-_D7_A7_D7_95_D7_93_D7_A9-__66417c5a.md
+[23:38:03]           url:  https://nfct.org.il/blog/movies/%D7%A0%D7%A9%D7%99%D7%9D-%D7%91%D7%99%D7%9F-%...
+[23:38:03] [48/687] OK   1p 2o 0f 0r 0ro  (3.26s)
+[23:38:03]           file: nfct_new__blog_movies_d7_90-_d7_a7_d7_99_d7_a6_d7_a2_d7_a8-2021_א-קיצער_2021__5b03b60e.md
+[23:38:03]           url:  https://nfct.org.il/blog/movies/%d7%90-%d7%a7%d7%99%d7%a6%d7%a2%d7%a8-2021/ \...
+[23:38:04] [49/687] OK   1p 3o 1f 2r 1ro  (3.77s)
+[23:38:04]           file: nfct_new__blog_movies_d7_90_d7_90_d7_95_d7_98_d7_a1_d7_99_d7_99_d7_93_d7_a8-_d7_a4_d7_a8_d__024f03f8.md
+[23:38:04]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%90%d7%95%d7%98%d7%a1%d7%99%d7%99%d7...
+[23:38:04] [50/687] OK   1p 2o 0f 0r 0ro  (7.99s)
+[23:38:04]           file: nfct_new__blog_lab2026_קול_קורא_המעבדה_לסרטים_עלילתיים_קצרים_ליוצרים_ות_מהחברה_הערבית_2026__74e33ca1.md
+[23:38:04]           url:  https://nfct.org.il/blog/lab2026/ "**קול קורא** המעבדה לסרטים עלילתיים קצרים ...
+[23:38:04]   --- progress: 50/687 (7.3%)  rate: 160.3/min  eta: 4.0min  cost so far: $0.0509 ---
+[23:38:05] [51/687] OK   1p 1o 1f 1r 0ro  (2.11s)
+[23:38:05]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_91_d7_a1_d7_98_d7_99_d7_95_d7_a0_d7_a8_אבא_בסט__a809632c.md
+[23:38:05]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%91%d7%a1%d7%98%d7%99%d...
+[23:38:05] [52/687] OK   2p 1o 1f 2r 2ro  (5.87s)
+[23:38:05]           file: nfct_new__blog_movies_D7_9E_D7_9E_D7_9C_D7_9B_D7_AA-_D7_A2_D7_93_D7_A0_D7_99_ממלכת_עדני_במ__1fab9af4.md
+[23:38:05]           url:  https://nfct.org.il/blog/movies/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA-%D7%A2%D7%93%D...
+[23:38:06] [53/687] OK   1p 2o 1f 0r 1ro  (2.64s)
+[23:38:06]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_94_d7_95_d7_9c_d7_9a-_d7_9c_d7_a7_d7_a6_d7_94-__2724db6e.md
+[23:38:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%94%d7%95%d7%9c%d7%9a-%...
+[23:38:06] [54/687] OK   0p 0o 0f 0r 0ro  (4.72s)
+[23:38:06]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_91_d7_92_d7_99_d7_9c-_d7_a9_d7_9c-_d7_a1_d7_91__5d5d55ef.md
+[23:38:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%91%d7%92%d7%99%d7%9c-%...
+[23:38:06] [55/687] OK   0p 0o 0f 0r 0ro  (11.34s)
+[23:38:06]           file: nfct_new__blog_katze2025__660b2a8f.md
+[23:38:06]           url:  https://nfct.org.il/blog/katze2025/
+[23:38:07] [56/687] OK   1p 1o 1f 1r 0ro  (2.08s)
+[23:38:07]           file: nfct_new__blog_movies_d7_90_d7_91_d7_95-_d7_a1_d7_90_d7_9c_d7_99_אבו_סאלי__f667ef1b.md
+[23:38:07]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%95-%d7%a1%d7%90%d7%9c%d7%99/ ...
+[23:38:07] [57/687] OK   1p 2o 1f 1r 0ro  (2.0s)
+[23:38:07]           file: nfct_new__blog_movies_d7_90_d7_91_d7_95-_d7_a2_d7_95_d7_9e_d7_90_d7_a8_אבו_עומאר__c9f93f3f.md
+[23:38:07]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%95-%d7%a2%d7%95%d7%9e%d7%90%d...
+[23:38:08] [58/687] OK   14p 3o 8f 0r 0ro  (7.94s)
+[23:38:08]           file: nfct_new__blog_movies_d7_90-_d7_a7_d7_99_d7_a6_d7_a2_d7_a8-2021__b0c83c0f.md
+[23:38:08]           url:  https://nfct.org.il/blog/movies/%d7%90-%d7%a7%d7%99%d7%a6%d7%a2%d7%a8-2021/
+[23:38:08] [59/687] OK   1p 2o 0f 0r 1ro  (2.42s)
+[23:38:08]           file: nfct_new__blog_movies_d7_90_d7_91_d7_98_d7_97_d7_94-_d7_a6_d7_a8_d7_99_d7_9a-_d7_9c_d7_a7___c11001fc.md
+[23:38:08]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%98%d7%97%d7%94-%d7%a6%d7%a8%d...
+[23:38:08] [60/687] OK   1p 2o 0f 0r 0ro  (2.28s)
+[23:38:08]           file: nfct_new__blog_movies_d7_90_d7_91_d7_99_d7_91_אביב__1f5d49d1.md
+[23:38:08]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%99%d7%91/ \"אביב\
+[23:38:09] [61/687] OK   1p 2o 1f 1r 0ro  (4.15s)
+[23:38:09]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_a9_d7_9c_d7_99-_d7_a1_d7_95_d7_97_d7_a8-_d7_a1__66ca35c2.md
+[23:38:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%a9%d7%9c%d7%99-%d7%a1%...
+[23:38:09] [62/687] OK   9p 5o 4f 0r 4ro  (7.43s)
+[23:38:09]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_91_d7_92_d7_99_d7_9c-_d7_a9_d7_9c-_d7_a1_d7_91__66ef7913.md
+[23:38:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%91%d7%92%d7%99%d7%9c-%...
+[23:38:10] [63/687] OK   1p 2o 0f 0r 1ro  (2.65s)
+[23:38:10]           file: nfct_new__blog_movies_d7_90_d7_91_d7_99_d7_95_d7_a0_d7_94_אביונה__1899e46a.md
+[23:38:10]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%94/ \"אביונה\
+[23:38:10] [64/687] OK   7p 2o 4f 0r 0ro  (7.8s)
+[23:38:10]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_91_d7_a1_d7_98_d7_99_d7_95_d7_a0_d7_a8__66ace41f.md
+[23:38:10]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%91%d7%a1%d7%98%d7%99%d...
+[23:38:11] [65/687] OK   1p 2o 1f 0r 0ro  (2.14s)
+[23:38:11]           file: nfct_new__blog_movies_d7_90_d7_91_d7_9f-_d7_a0_d7_99_d7_99_d7_a8-_d7_95_d7_9e_d7_a1_d7_a4___69eeeb0c.md
+[23:38:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%9f-%d7%a0%d7%99%d7%99%d7%a8-%...
+[23:38:11] [66/687] OK   0p 0o 0f 0r 0ro  (12.3s)
+[23:38:11]           file: nfct_new__blog_movies_D7_9E_D7_91_D7_98_D7_99_D7_9D-_D7_99_D7_A9_D7_A8_D7_90_D7_9C-2002__b099de64.md
+[23:38:11]           url:  https://nfct.org.il/blog/movies/%D7%9E%D7%91%D7%98%D7%99%D7%9D-%D7%99%D7%A9%D...
+[23:38:11] [67/687] OK   1p 2o 0f 0r 0ro  (2.6s)
+[23:38:11]           file: nfct_new__blog_movies_d7_90_d7_91_d7_9f-_d7_93_d7_a8_d7_9a_אבן_דרך__452e726d.md
+[23:38:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%9f-%d7%93%d7%a8%d7%9a/ \"אבן ...
+[23:38:11] [68/687] OK   1p 3o 0f 0r 1ro  (3.35s)
+[23:38:11]           file: nfct_new__blog_movies_d7_90_d7_91_d7_99_d7_95_אביו__a7a66b83.md
+[23:38:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%99%d7%95/ \"אביו\
+[23:38:12] [69/687] OK   16p 3o 4f 0r 0ro  (7.27s)
+[23:38:12]           file: nfct_new__blog_movies_d7_90_d7_91_d7_95-_d7_a2_d7_95_d7_9e_d7_90_d7_a8__c3b461db.md
+[23:38:12]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%95-%d7%a2%d7%95%d7%9e%d7%90%d...
+[23:38:12] [70/687] OK   1p 2o 0f 0r 1ro  (1.69s)
+[23:38:12]           file: nfct_new__blog_movies_d7_90_d7_92_d7_9d-68_אגם_68__b6ce85f8.md
+[23:38:12]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%92%d7%9d-68/ \"אגם 68\
+[23:38:13] [71/687] OK   1p 2o 0f 0r 1ro  (2.8s)
+[23:38:13]           file: nfct_new__blog_movies_d7_90_d7_92_d7_95_d7_a8_d7_95_d7_aa_אגורות__05a6ddbc.md
+[23:38:13]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%92%d7%95%d7%a8%d7%95%d7%aa/ \"אגורו...
+[23:38:13] [72/687] OK   1p 2o 0f 0r 0ro  (1.77s)
+[23:38:13]           file: nfct_new__blog_movies_d7_90_d7_93_d7_95_d7_9d-_d7_97_d7_a6_d7_95_d7_aa-_d7_94_d7_9c_d7_99___8487977c.md
+[23:38:13]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%93%d7%95%d7%9d-%d7%97%d7%a6%d7%95%d...
+[23:38:13] [73/687] OK   4p 3o 1f 0r 0ro  (7.42s)
+[23:38:13]           file: nfct_new__blog_movies_d7_90_d7_91_d7_98_d7_97_d7_94-_d7_a6_d7_a8_d7_99_d7_9a-_d7_9c_d7_a7___b8be894e.md
+[23:38:13]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%98%d7%97%d7%94-%d7%a6%d7%a8%d...
+[23:38:14] [74/687] OK   1p 1o 1f 1r 1ro  (2.55s)
+[23:38:14]           file: nfct_new__blog_movies_d7_90_d7_93_d7_99_d7_a0_d7_91_d7_95_d7_a8_d7_95-_d7_9c_d7_90-_d7_9e___5c062d74.md
+[23:38:14]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%93%d7%99%d7%a0%d7%91%d7%95%d7%a8%d7...
+[23:38:14] [75/687] OK   1p 2o 0f 0r 0ro  (1.59s)
+[23:38:14]           file: nfct_new__blog_movies_d7_90_d7_94-_d7_94_d7_90-_d7_91_d7_94_אה_הא_בה__0efa4a21.md
+[23:38:14]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94-%d7%94%d7%90-%d7%91%d7%94/ \"אה ...
+[23:38:14] [76/687] OK   11p 4o 1f 0r 0ro  (7.68s)
+[23:38:14]           file: nfct_new__blog_movies_d7_90_d7_91_d7_99_d7_95_d7_a0_d7_94__b6f3b6f2.md
+[23:38:14]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%94/
+[23:38:15] [77/687] OK   1p 2o 1f 0r 1ro  (2.77s)
+[23:38:15]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_94-_d7_97_d7_a8_d7_a9_d7_aa-_d7_95_d7_a2_d7_99___2d72161c.md
+[23:38:15]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%94-%d7%97%d7%a8%d7%a9%d...
+[23:38:16] [78/687] OK   9p 2o 4f 0r 0ro  (12.49s)
+[23:38:16]           file: nfct_new__blog_movies_d7_90_d7_91_d7_90-_d7_94_d7_95_d7_9c_d7_9a-_d7_9c_d7_a7_d7_a6_d7_94-__42e83888.md
+[23:38:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%90-%d7%94%d7%95%d7%9c%d7%9a-%...
+[23:38:16] [79/687] OK   9p 6o 4f 0r 0ro  (7.29s)
+[23:38:16]           file: nfct_new__blog_movies_d7_90_d7_91_d7_9f-_d7_a0_d7_99_d7_99_d7_a8-_d7_95_d7_9e_d7_a1_d7_a4___68bd6d4c.md
+[23:38:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%91%d7%9f-%d7%a0%d7%99%d7%99%d7%a8-%...
+[23:38:16] [80/687] OK   1p 2o 0f 0r 1ro  (2.31s)
+[23:38:16]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_94-_d7_9e_d7_aa_d7_a8_d7_92_d7_a9_d7_aa-_d7_9c___82e993e5.md
+[23:38:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%94-%d7%9e%d7%aa%d7%a8%d...
+[23:38:16] [81/687] OK   1p 2o 0f 0r 1ro  (3.11s)
+[23:38:16]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_94-_d7_9e_d7_a2_d7_95_d7_a4_d7_a4_d7_aa_אהבה_מע__4e1f4647.md
+[23:38:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%94-%d7%9e%d7%a2%d7%95%d...
+[23:38:17] [82/687] OK   1p 3o 0f 0r 1ro  (3.1s)
+[23:38:17]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_94-_d7_a9_d7_90_d7_99_d7_9f-_d7_9c_d7_aa_d7_90___484580e6.md
+[23:38:17]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%94-%d7%a9%d7%90%d7%99%d...
+[23:38:17] [83/687] OK   4p 5o 1f 6r 11ro  (7.74s)
+[23:38:17]           file: nfct_new__blog_movies_d7_90_d7_92_d7_95_d7_a8_d7_95_d7_aa__ba523582.md
+[23:38:17]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%92%d7%95%d7%a8%d7%95%d7%aa/
+[23:38:18] [84/687] OK   1p 2o 0f 0r 1ro  (2.32s)
+[23:38:18]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_9c_d7_94-_d7_90_d7_a1_d7_a4_d7_a0_d7_99_d7_95_d__51d1c20e.md
+[23:38:18]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%9c%d7%94-%d7%90%d7%a1%d...
+[23:38:18] [85/687] OK   1p 2o 0f 0r 1ro  (1.82s)
+[23:38:18]           file: nfct_new__blog_movies_d7_90_d7_95_d7_90_d7_96_d7_99_d7_a1_אואזיס__79902426.md
+[23:38:18]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%90%d7%96%d7%99%d7%a1/ \"אואזיס\
+[23:38:18] [86/687] OK   12p 3o 4f 0r 0ro  (7.33s)
+[23:38:18]           file: nfct_new__blog_movies_d7_90_d7_93_d7_95_d7_9d-_d7_97_d7_a6_d7_95_d7_aa-_d7_94_d7_9c_d7_99___f339b88b.md
+[23:38:18]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%93%d7%95%d7%9d-%d7%97%d7%a6%d7%95%d...
+[23:38:19] [87/687] OK   1p 2o 1f 0r 0ro  (2.83s)
+[23:38:19]           file: nfct_new__blog_movies_d7_90_d7_95_d7_90_d7_96_d7_99_d7_a1_אאוטסיידר_פרויד__39bbe2b9.md
+[23:38:19]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%90%d7%96%d7%99%d7%a1/ \"אאוטס...
+[23:38:19] [88/687] OK   1p 2o 0f 0r 1ro  (1.8s)
+[23:38:19]           file: nfct_new__blog_movies_d7_90_d7_95_d7_91_d7_a1_d7_a1_d7_99_d7_94_אובססיה__4fe9e27d.md
+[23:38:19]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%91%d7%a1%d7%a1%d7%99%d7%94/ \...
+[23:38:20] [89/687] OK   1p 3o 0f 0r 1ro  (2.13s)
+[23:38:20]           file: nfct_new__blog_movies_d7_90_d7_95_d7_91_אוב__909f82e2.md
+[23:38:20]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%91/ \"אוב\
+[23:38:20] [90/687] OK   7p 3o 4f 0r 0ro  (7.67s)
+[23:38:20]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_94-_d7_97_d7_a8_d7_a9_d7_aa-_d7_95_d7_a2_d7_99___1af35f47.md
+[23:38:20]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%94-%d7%97%d7%a8%d7%a9%d...
+[23:38:21] [91/687] OK   1p 2o 1f 1r 1ro  (3.15s)
+[23:38:21]           file: nfct_new__blog_movies_d7_90_d7_95_d7_92_d7_95_d7_a1_d7_98-_d7_a8_d7_92_d7_a2-_d7_9c_d7_a4___00281f93.md
+[23:38:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%92%d7%95%d7%a1%d7%98-%d7%a8%d...
+[23:38:21] [92/687] OK   8p 3o 1f 0r 0ro  (11.61s)
+[23:38:21]           file: nfct_new__blog_movies_d7_90_d7_92_d7_9d-68__15d0e346.md
+[23:38:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%92%d7%9d-68/
+[23:38:21] [93/687] OK   1p 1o 0f 0r 0ro  (2.59s)
+[23:38:21]           file: nfct_new__blog_movies_d7_90_d7_95_d7_94_d7_91_d7_99_d7_9d-_d7_90_d7_95_d7_aa_d7_9a-_d7_a4___5bdf0507.md
+[23:38:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%94%d7%91%d7%99%d7%9d-%d7%90%d...
+[23:38:22] [94/687] OK   1p 2o 0f 0r 0ro  (1.36s)
+[23:38:22]           file: nfct_new__blog_movies_d7_90_d7_95_d7_95_d7_94_אווה__51d08f24.md
+[23:38:22]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%95%d7%94/ \"אווה\
+[23:38:22] [95/687] OK   0p 0o 0f 0r 0ro  (7.82s)
+[23:38:22]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_94-_d7_a9_d7_90_d7_99_d7_9f-_d7_9c_d7_aa_d7_90___78d2fbdf.md
+[23:38:22]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%94-%d7%a9%d7%90%d7%99%d...
+[23:38:22] [96/687] OK   1p 2o 0f 0r 1ro  (3.34s)
+[23:38:22]           file: nfct_new__blog_movies_d7_90_d7_95_d7_93_d7_a1_d7_94-_d7_90_d7_95_d7_93_d7_a1_d7_94_אודסה_א__5da0aaf7.md
+[23:38:22]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%93%d7%a1%d7%94-%d7%90%d7%95%d...
+[23:38:23] [97/687] OK   7p 2o 1f 5r 9ro  (10.76s)
+[23:38:23]           file: nfct_new__blog_movies_d7_90_d7_94-_d7_94_d7_90-_d7_91_d7_94__2653ddc6.md
+[23:38:23]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94-%d7%94%d7%90-%d7%91%d7%94/
+[23:38:23] [98/687] OK   12p 2o 4f 0r 0ro  (7.45s)
+[23:38:23]           file: nfct_new__blog_movies_d7_90_d7_95_d7_90_d7_96_d7_99_d7_a1__547d25c4.md
+[23:38:23]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%90%d7%96%d7%99%d7%a1/
+[23:38:23] [99/687] OK   1p 2o 0f 0r 1ro  (2.36s)
+[23:38:23]           file: nfct_new__blog_movies_d7_90_d7_95_d7_98_d7_95_d7_91_d7_99_d7_95_d7_92_d7_a8_d7_a4_d7_99_d7__6dad1aca.md
+[23:38:23]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%98%d7%95%d7%91%d7%99%d7%95%d7...
+[23:38:24] [100/687] OK   1p 2o 0f 0r 0ro  (1.41s)
+[23:38:24]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a0_d7_a8_d7_90_אונר_א__ec6e9a39.md
+[23:38:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a0%d7%a8%d7%90/ \"אונר\"א\
+[23:38:24]   --- progress: 100/687 (14.6%)  rate: 155.7/min  eta: 3.8min  cost so far: $0.1113 ---
+[23:38:25] [101/687] OK   5p 7o 4f 3r 8ro  (7.48s)
+[23:38:25]           file: nfct_new__blog_movies_d7_90_d7_95_d7_91_d7_a1_d7_a1_d7_99_d7_94__a2a6d238.md
+[23:38:25]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%91%d7%a1%d7%a1%d7%99%d7%94/
+[23:38:25] [102/687] OK   1p 2o 0f 0r 0ro  (2.71s)
+[23:38:25]           file: nfct_new__blog_movies_d7_90_d7_95_d7_9c_d7_99_d7_9e_d7_a4_d7_99_d7_94_אולימפיה__f3cf2018.md
+[23:38:25]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%9c%d7%99%d7%9e%d7%a4%d7%99%d7...
+[23:38:25] [103/687] OK   1p 2o 0f 0r 1ro  (3.36s)
+[23:38:25]           file: nfct_new__blog_movies_d7_90_d7_95_d7_9b_d7_9c_d7_99_d7_9d-_d7_a4_d7_a6_d7_a6_d7_95_d7_aa_א__f2ea3225.md
+[23:38:25]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%9b%d7%9c%d7%99%d7%9d-%d7%a4%d...
+[23:38:26] [104/687] OK   1p 2o 1f 1r 0ro  (3.39s)
+[23:38:26]           file: nfct_new__blog_movies_d7_90_d7_95_d7_9c_d7_9e_d7_a8_d7_98-_d7_94_d7_90_d7_99_d7_a9-_d7_a9___156fbace.md
+[23:38:26]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98-%d7%94%d...
+[23:38:26] [105/687] OK   1p 2o 0f 0r 1ro  (2.94s)
+[23:38:26]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a1_d7_98_d7_95_d7_a8_d7_94_אוסטורה__313f4742.md
+[23:38:26]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a1%d7%98%d7%95%d7%a8%d7%94/ \...
+[23:38:27] [106/687] OK   7p 2o 4f 0r 0ro  (7.57s)
+[23:38:27]           file: nfct_new__blog_movies_d7_90_d7_95_d7_95_d7_94__54ea74bc.md
+[23:38:27]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%95%d7%94/
+[23:38:27] [107/687] OK   1p 2o 0f 0r 1ro  (2.94s)
+[23:38:27]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a4_d7_a0_d7_aa-_d7_93_d7_95_d7_93_אופנת_דוד__28dd557d.md
+[23:38:27]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a4%d7%a0%d7%aa-%d7%93%d7%95%d...
+[23:38:28] [108/687] OK   1p 2o 1f 1r 0ro  (2.73s)
+[23:38:28]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_99-_d7_90_d7_91_d7_a0_d7_a8_d7_99-_d7_9c_d7_95___9af9f35c.md
+[23:38:28]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%99-%d7%90%d7%91%d7%a0%d...
+[23:38:28] [109/687] OK   1p 2o 0f 0r 1ro  (2.09s)
+[23:38:28]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_99-_d7_96_d7_94_d7_a8-_d7_97_d7_95_d7_96_d7_a8___5aec859c.md
+[23:38:28]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%99-%d7%96%d7%94%d7%a8-%...
+[23:38:28] [110/687] OK   8p 3o 4f 0r 0ro  (12.47s)
+[23:38:28]           file: nfct_new__blog_movies_d7_90_d7_94_d7_91_d7_9c_d7_94-_d7_90_d7_a1_d7_a4_d7_a0_d7_99_d7_95_d__7fe38bc0.md
+[23:38:28]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%94%d7%91%d7%9c%d7%94-%d7%90%d7%a1%d...
+[23:38:29] [111/687] OK   5p 3o 1f 0r 0ro  (7.25s)
+[23:38:29]           file: nfct_new__blog_movies_d7_90_d7_95_d7_98_d7_95_d7_91_d7_99_d7_95_d7_92_d7_a8_d7_a4_d7_99_d7__8bfcb8ec.md
+[23:38:29]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%98%d7%95%d7%91%d7%99%d7%95%d7...
+[23:38:29] [112/687] OK   0p 2o 0f 0r 0ro  (1.42s)
+[23:38:29]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a0_d7_94-_d7_95_d7_90_d7_9c_d7_94_אורנה_ואלה__5bcda964.md
+[23:38:29]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a0%d7%94-%d7%95%d7%90%d...
+[23:38:29] [113/687] OK   1p 2o 1f 1r 1ro  (2.78s)
+[23:38:29]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_99-_d7_96_d7_94_d7_a8-_d7_97_d7_95_d7_96_d7_a8___9accdb31.md
+[23:38:29]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%99-%d7%96%d7%94%d7%a8-%...
+[23:38:29] [114/687] OK   0p 1o 0f 0r 0ro  (1.11s)
+[23:38:29]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a0_d7_94-_d7_95_d7_90_d7_9c_d7_94_לדף_הסרט_אורנ__4c38f970.md
+[23:38:29]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a0%d7%94-%d7%95%d7%90%d...
+[23:38:29] [115/687] OK   2p 2o 1f 5r 2ro  (4.65s)
+[23:38:29]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a6_d7_a8-_d7_91_d7_90_d7_95_d7_a9_d7_95_d7_95_d7_99_d__911d07ff.md
+[23:38:29]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a6%d7%a8-%d7%91%d7%90%d7%95%d...
+[23:38:31] [116/687] OK   6p 8o 4f 2r 7ro  (7.5s)
+[23:38:31]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a1_d7_98_d7_95_d7_a8_d7_94__292d39dd.md
+[23:38:31]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a1%d7%98%d7%95%d7%a8%d7%94/
+[23:38:31] [117/687] OK   9p 7o 4f 0r 0ro  (12.74s)
+[23:38:31]           file: nfct_new__blog_movies_d7_90_d7_95_d7_92_d7_95_d7_a1_d7_98-_d7_a8_d7_92_d7_a2-_d7_9c_d7_a4___96ffbcaf.md
+[23:38:31]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%92%d7%95%d7%a1%d7%98-%d7%a8%d...
+[23:38:31] [118/687] OK   1p 2o 1f 0r 0ro  (2.01s)
+[23:38:31]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a1_d7_95_d7_9c_d7_99_d7_9e_d7_95_d7_9d_אורסולימ__05fb551d.md
+[23:38:31]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a1%d7%95%d7%9c%d7%99%d7...
+[23:38:32] [119/687] OK   9p 2o 4f 0r 0ro  (7.33s)
+[23:38:32]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a4_d7_a0_d7_aa-_d7_93_d7_95_d7_93__25cc34dc.md
+[23:38:32]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a4%d7%a0%d7%aa-%d7%93%d7%95%d...
+[23:38:32] [120/687] OK   1p 2o 0f 0r 1ro  (2.23s)
+[23:38:32]           file: nfct_new__blog_movies_d7_90_d7_95_d7_aa_d7_99_d7_95_d7_aa-_d7_a0_d7_a9_d7_9e_d7_94_אותיות___9a757dd0.md
+[23:38:32]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%aa%d7%99%d7%95%d7%aa-%d7%a0%d...
+[23:38:32] [121/687] OK   2p 2o 1f 2r 0ro  (4.46s)
+[23:38:32]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a0_d7_94-_d7_95_d7_90_d7_9c_d7_94_לדף_הסרט_אורנ__02405a83.md
+[23:38:32]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a0%d7%94-%d7%95%d7%90%d...
+[23:38:33] [122/687] OK   1p 2o 0f 0r 1ro  (2.11s)
+[23:38:33]           file: nfct_new__blog_movies_d7_90_d7_95_d7_aa_d7_9a-_d7_9c_d7_90_d7_9e_d7_90_אותך_לאמא__4c8cb9d9.md
+[23:38:33]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%aa%d7%9a-%d7%9c%d7%90%d7%9e%d...
+[23:38:34] [123/687] OK   1p 2o 0f 0r 1ro  (2.25s)
+[23:38:34]           file: nfct_new__blog_movies_d7_90_d7_97_d7_93-_d7_a2_d7_9c-_d7_90_d7_97_d7_93_אחד_על_אחד__7b718234.md
+[23:38:34]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%93-%d7%a2%d7%9c-%d7%90%d7%97%...
+[23:38:34] [124/687] OK   12p 4o 4f 0r 0ro  (12.33s)
+[23:38:34]           file: nfct_new__blog_movies_d7_90_d7_95_d7_9c_d7_99_d7_9e_d7_a4_d7_99_d7_94__956031c2.md
+[23:38:34]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%9c%d7%99%d7%9e%d7%a4%d7%99%d7...
+[23:38:34] [125/687] OK   1p 2o 0f 0r 1ro  (2.45s)
+[23:38:34]           file: nfct_new__blog_movies_d7_90_d7_97_d7_93-_d7_a9_d7_a0_d7_99_d7_99_d7_9d-_d7_91_d7_99_d7_aa___891900e2.md
+[23:38:34]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%93-%d7%a9%d7%a0%d7%99%d7%99%d...
+[23:38:35] [126/687] OK   1p 3o 0f 0r 1ro  (2.38s)
+[23:38:35]           file: nfct_new__blog_movies_d7_90_d7_97_d7_99_d7_95_d7_aa_אחיות__00880d2c.md
+[23:38:35]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%99%d7%95%d7%aa/ \"אחיות\
+[23:38:36] [127/687] OK   11p 4o 4f 0r 0ro  (8.13s)
+[23:38:36]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_99-_d7_96_d7_94_d7_a8-_d7_97_d7_95_d7_96_d7_a8__a64707b8.md
+[23:38:36]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%99-%d7%96%d7%94%d7%a8-%...
+[23:38:36] [128/687] OK   1p 2o 0f 0r 1ro  (2.32s)
+[23:38:36]           file: nfct_new__blog_movies_d7_90_d7_97_d7_a8_d7_99-_d7_a1_d7_a4_d7_99_d7_a8_d7_aa-_d7_94_d7_a7___a0d39820.md
+[23:38:36]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%a8%d7%99-%d7%a1%d7%a4%d7%99%d...
+[23:38:37] [129/687] OK   7p 1o 4f 3r 7ro  (8.19s)
+[23:38:37]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a1_d7_95_d7_9c_d7_99_d7_9e_d7_95_d7_9d__ed882d3f.md
+[23:38:37]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a1%d7%95%d7%9c%d7%99%d7...
+[23:38:38] [130/687] OK   1p 3o 0f 0r 1ro  (3.63s)
+[23:38:38]           file: nfct_new__blog_movies_d7_90_d7_97_d7_a8_d7_99-_d7_97_d7_a6_d7_95_d7_aa-_d7_94_d7_a1_d7_95___e6f2fb23.md
+[23:38:38]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%a8%d7%99-%d7%97%d7%a6%d7%95%d...
+[23:38:38] [131/687] OK   13p 2o 4f 0r 0ro  (8.46s)
+[23:38:38]           file: nfct_new__blog_movies_d7_90_d7_95_d7_aa_d7_99_d7_95_d7_aa-_d7_a0_d7_a9_d7_9e_d7_94__c9520c0a.md
+[23:38:38]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%aa%d7%99%d7%95%d7%aa-%d7%a0%d...
+[23:38:38] [132/687] OK   1p 3o 0f 0r 1ro  (2.54s)
+[23:38:38]           file: nfct_new__blog_movies_d7_90_d7_97_d7_a8_d7_99_d7_99_d7_9a-_d9_88_d9_8e_d8_b1_d8_a7_d8_a1_d__9fe2b333.md
+[23:38:38]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%a8%d7%99%d7%99%d7%9a-%d9%88%d...
+[23:38:38] [133/687] OK   1p 2o 0f 0r 1ro  (1.67s)
+[23:38:38]           file: nfct_new__blog_movies_d7_90_d7_97_d7_a8_d7_aa_אחרת__0361438f.md
+[23:38:38]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%a8%d7%aa/ \"אחרת\
+[23:38:38] [134/687] OK   4p 9o 1f 7r 5ro  (7.44s)
+[23:38:38]           file: nfct_new__blog_movies_d7_90_d7_95_d7_aa_d7_9a-_d7_9c_d7_90_d7_9e_d7_90__fea0f7ce.md
+[23:38:38]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%aa%d7%9a-%d7%9c%d7%90%d7%9e%d...
+[23:38:39] [135/687] OK   11p 2o 4f 0r 0ro  (7.62s)
+[23:38:39]           file: nfct_new__blog_movies_d7_90_d7_97_d7_93-_d7_a2_d7_9c-_d7_90_d7_97_d7_93__5522f6d0.md
+[23:38:39]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%93-%d7%a2%d7%9c-%d7%90%d7%97%...
+[23:38:39] [136/687] OK   1p 2o 0f 0r 1ro  (2.04s)
+[23:38:39]           file: nfct_new__blog_movies_d7_90_d7_97_d7_aa-_d7_94_d7_92_d7_a8_d7_a1_d7_90_d7_95_d7_aa_אחת_הגר__b4feb8f2.md
+[23:38:39]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%aa-%d7%94%d7%92%d7%a8%d7%a1%d...
+[23:38:40] [137/687] OK   8p 2o 4f 6r 8ro  (7.41s)
+[23:38:40]           file: nfct_new__blog_movies_d7_90_d7_97_d7_99_d7_95_d7_aa__2f026049.md
+[23:38:40]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%99%d7%95%d7%aa/
+[23:38:40] [138/687] OK   1p 2o 0f 0r 0ro  (1.5s)
+[23:38:40]           file: nfct_new__blog_movies_d7_90_d7_99_d7_97_d7_a6_d7_99_איחצ_י__d5c0c3a9.md
+[23:38:40]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%97%d7%a6%d7%99/ \"איחצ'י\
+[23:38:40] [139/687] OK   8p 4o 1f 0r 0ro  (12.37s)
+[23:38:40]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a0_d7_94-_d7_95_d7_90_d7_9c_d7_94__60c52550.md
+[23:38:40]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a0%d7%94-%d7%95%d7%90%d...
+[23:38:40] [140/687] OK   1p 2o 0f 0r 1ro  (2.02s)
+[23:38:40]           file: nfct_new__blog_movies_d7_90_d7_99_d7_95_d7_95_d7_9f-_d7_94_d7_90_d7_99_d7_95_d7_9d_איוון_ה__d953d343.md
+[23:38:40]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%95%d7%95%d7%9f-%d7%94%d7%90%d...
+[23:38:40] [141/687] OK   1p 2o 1f 1r 1ro  (2.61s)
+[23:38:40]           file: nfct_new__blog_movies_d7_90_d7_99_d7_95_d7_95_d7_9f-_d7_94_d7_90_d7_99_d7_95_d7_9d_איוון_ה__a2d880e2.md
+[23:38:40]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%95%d7%95%d7%9f-%d7%94%d7%90%d...
+[23:38:41] [142/687] OK   1p 2o 1f 0r 0ro  (11.99s)
+[23:38:41]           file: nfct_new__blog_movies_d7_90_d7_95_d7_a8_d7_a0_d7_94-_d7_95_d7_90_d7_9c_d7_94_לדף_הסרט_אורנ__9559f1e5.md
+[23:38:41]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%95%d7%a8%d7%a0%d7%94-%d7%95%d7%90%d...
+[23:38:41] [143/687] OK   1p 1o 1f 0r 0ro  (2.13s)
+[23:38:41]           file: nfct_new__blog_movies_d7_90_d7_99_d7_99_d7_9b_d7_9e_d7_9f-_d7_94_d7_94_d7_a7_d7_9c_d7_98_d__02e7f562.md
+[23:38:41]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%99%d7%9b%d7%9e%d7%9f-%d7%94%d...
+[23:38:42] [144/687] OK   1p 2o 0f 0r 1ro  (2.44s)
+[23:38:42]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9a-_d7_9c_d7_94_d7_99_d7_95_d7_aa-_d7_9c_d7_91_d7_93___1788100d.md
+[23:38:42]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%99%d7%95%d...
+[23:38:42] [145/687] OK   1p 2o 0f 0r 1ro  (2.08s)
+[23:38:42]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9a-_d7_9e_d7_a1_d7_9e_d7_a0_d7_99_d7_9d-_d7_90_d7_94___1d291174.md
+[23:38:42]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9a-%d7%9e%d7%a1%d7%9e%d7%a0%d...
+[23:38:43] [146/687] OK   1p 2o 0f 1r 1ro  (3.35s)
+[23:38:43]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9a-_d7_90_d7_95_d7_9e_d7_a8_d7_95_d7_aa-_d7_a9_d7_aa___dff1b47f.md
+[23:38:43]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9a-%d7%90%d7%95%d7%9e%d7%a8%d...
+[23:38:43] [147/687] OK   12p 4o 4f 0r 0ro  (7.71s)
+[23:38:43]           file: nfct_new__blog_movies_d7_90_d7_97_d7_a8_d7_aa__5ac85045.md
+[23:38:43]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%a8%d7%aa/
+[23:38:43] [148/687] OK   1p 3o 0f 0r 1ro  (2.57s)
+[23:38:43]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9f-_d7_a0_d7_a4_d7_92_d7_a2_d7_99_d7_9d-_d7_91_d7_a0___8c764002.md
+[23:38:43]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9f-%d7%a0%d7%a4%d7%92%d7%a2%d...
+[23:38:44] [149/687] OK   1p 2o 1f 1r 1ro  (4.64s)
+[23:38:44]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9a-_d7_94_d7_a4_d7_a1_d7_a7_d7_aa_d7_99-_d7_9c_d7_a4___1e29a4b6.md
+[23:38:44]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9a-%d7%94%d7%a4%d7%a1%d7%a7%d...
+[23:38:44] [150/687] OK   1p 2o 0f 0r 0ro  (1.91s)
+[23:38:44]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9f-_d7_a2_d7_a6_d7_9e_d7_99-_d7_99_d7_a9-_d7_a9_d7_99__54e0d4e5.md
+[23:38:44]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9f-%d7%a2%d7%a6%d7%9e%d7%99-%...
+[23:38:44]   --- progress: 150/687 (21.8%)  rate: 153.5/min  eta: 3.5min  cost so far: $0.1747 ---
+[23:38:44] [151/687] OK   1p 2o 0f 0r 0ro  (1.84s)
+[23:38:44]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_93_d7_9c_אינדל__89815009.md
+[23:38:44]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%93%d7%9c/ \"אינדל\
+[23:38:45] [152/687] OK   0p 0o 0f 0r 0ro  (7.43s)
+[23:38:45]           file: nfct_new__blog_movies_d7_90_d7_99_d7_95_d7_95_d7_9f-_d7_94_d7_90_d7_99_d7_95_d7_9d__6abb142d.md
+[23:38:45]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%95%d7%95%d7%9f-%d7%94%d7%90%d...
+[23:38:45] [153/687] OK   1p 2o 0f 0r 1ro  (2.1s)
+[23:38:45]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_93_d7_9c_אינדל__f74bf2c6.md
+[23:38:45]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%93%d7%9c/ "אינדל
+[23:38:46] [154/687] OK   5p 5o 1f 9r 7ro  (7.47s)
+[23:38:46]           file: nfct_new__blog_movies_d7_90_d7_99_d7_97_d7_a6_d7_99__7be5cdcb.md
+[23:38:46]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%97%d7%a6%d7%99/
+[23:38:47] [155/687] OK   1p 2o 1f 1r 0ro  (2.52s)
+[23:38:47]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_aa-_d7_a2_d7_95_d7_9e_d7_a8_d7_99_אינת_עומרי__3c53ddf0.md
+[23:38:47]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%aa-%d7%a2%d7%95%d7%9e%d...
+[23:38:47] [156/687] OK   0p 0o 0f 0r 0ro  (13.21s)
+[23:38:47]           file: nfct_new__blog_movies_d7_90_d7_97_d7_a8_d7_99-_d7_97_d7_a6_d7_95_d7_aa-_d7_94_d7_a1_d7_95___0114d5d8.md
+[23:38:47]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%97%d7%a8%d7%99-%d7%97%d7%a6%d7%95%d...
+[23:38:47] [157/687] OK   1p 2o 0f 2r 1ro  (3.0s)
+[23:38:47]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_95_d7_95_d7_a0_d7_98_d7_a8_אינוונטר__b0e2fb48.md
+[23:38:47]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%95%d7%95%d7%a0%d7%98%d7...
+[23:38:48] [158/687] OK   1p 2o 1f 0r 0ro  (2.06s)
+[23:38:48]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a4_d7_94-_d7_90_d7_a0_d7_94-_d7_a4_d7_a8_d7_a0_d7_a7___7a983ad3.md
+[23:38:48]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a4%d7%94-%d7%90%d7%a0%d7%94-%...
+[23:38:48] [159/687] OK   0p 0o 0f 0r 0ro  (7.97s)
+[23:38:48]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9a-_d7_9c_d7_94_d7_99_d7_95_d7_aa-_d7_9c_d7_91_d7_93__d86660f2.md
+[23:38:48]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%99%d7%95%d...
+[23:38:48] [160/687] OK   7p 3o 4f 0r 0ro  (7.35s)
+[23:38:48]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9f-_d7_a0_d7_a4_d7_92_d7_a2_d7_99_d7_9d-_d7_91_d7_a0___8a528264.md
+[23:38:48]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9f-%d7%a0%d7%a4%d7%92%d7%a2%d...
+[23:38:48] [161/687] OK   1p 2o 0f 0r 1ro  (2.81s)
+[23:38:48]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_aa_d7_99_d7_a4_d7_90_d7_93_d7_94-_d8_a7_d8_a7_d__945a906c.md
+[23:38:48]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%aa%d7%99%d7%a4%d7%90%d7...
+[23:38:49] [162/687] OK   0p 0o 0f 0r 0ro  (9.43s)
+[23:38:49]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9a-_d7_90_d7_95_d7_9e_d7_a8_d7_95_d7_aa-_d7_a9_d7_aa___f0dbe7a8.md
+[23:38:49]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9a-%d7%90%d7%95%d7%9e%d7%a8%d...
+[23:38:50] [163/687] OK   1p 2o 1f 1r 0ro  (2.63s)
+[23:38:50]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a4_d7_94-_d7_90_d7_a0_d7_94-_d7_a4_d7_a8_d7_a0_d7_a7___dbfb892f.md
+[23:38:50]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a4%d7%94-%d7%90%d7%a0%d7%94-%...
+[23:38:50] [164/687] OK   1p 2o 0f 0r 1ro  (2.21s)
+[23:38:50]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a4_d7_94-_d7_94_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_a9___313a3534.md
+[23:38:50]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a4%d7%94-%d7%94%d7%93%d7%91%d...
+[23:38:50] [165/687] OK   7p 1o 4f 0r 0ro  (7.6s)
+[23:38:50]           file: nfct_new__blog_movies_d7_90_d7_99_d7_9f-_d7_a2_d7_a6_d7_9e_d7_99-_d7_99_d7_a9-_d7_a9_d7_99__01eaa27c.md
+[23:38:50]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%9f-%d7%a2%d7%a6%d7%9e%d7%99-%...
+[23:38:50] [166/687] OK   1p 2o 0f 0r 0ro  (2.13s)
+[23:38:50]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a8_d7_95_d7_a1_d7_99-_d7_93_d7_9e_d7_99_d7_9d_אירוסי___327b99c1.md
+[23:38:50]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a8%d7%95%d7%a1%d7%99-%d7%93%d...
+[23:38:51] [167/687] OK   0p 2o 0f 0r 1ro  (1.72s)
+[23:38:51]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a9-_d7_94_d7_a6_d7_99_d7_a4_d7_95_d7_a8_d7_99_d7_9d_א__f84c167c.md
+[23:38:51]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a9-%d7%94%d7%a6%d7%99%d7%a4%d...
+[23:38:51] [168/687] OK   1p 2o 0f 0r 1ro  (2.87s)
+[23:38:51]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a4_d7_94-_d7_a9_d7_a0_d7_92_d7_9e_d7_a8_d7_99_d7_9d-___fbaf0159.md
+[23:38:51]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a4%d7%94-%d7%a9%d7%a0%d7%92%d...
+[23:38:52] [169/687] OK   10p 5o 4f 0r 0ro  (8.27s)
+[23:38:52]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_95_d7_95_d7_a0_d7_98_d7_a8__c3d705d2.md
+[23:38:52]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%95%d7%95%d7%a0%d7%98%d7...
+[23:38:52] [170/687] OK   1p 2o 0f 0r 1ro  (2.03s)
+[23:38:52]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a9_d7_94-_d7_a9_d7_9c-_d7_91_d7_99_d7_aa_אישה_של_בית__500b8fa6.md
+[23:38:52]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a9%d7%94-%d7%a9%d7%9c-%d7%91%...
+[23:38:52] [171/687] OK   1p 2o 0f 0r 1ro  (2.01s)
+[23:38:52]           file: nfct_new__blog_movies_d7_90_d7_99_אי__0b467f68.md
+[23:38:52]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99/ \"אי\
+[23:38:52] [172/687] OK   11p 4o 4f 0r 0ro  (8.09s)
+[23:38:52]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_aa-_d7_a2_d7_95_d7_9e_d7_a8_d7_99__dde0ebde.md
+[23:38:52]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%aa-%d7%a2%d7%95%d7%9e%d...
+[23:38:53] [173/687] OK   1p 2o 1f 1r 1ro  (2.47s)
+[23:38:53]           file: nfct_new__blog_movies_d7_90_d7_9c-_d7_92_d7_99_d7_a1_d7_a8_אל_ג_יסר__8f53d40a.md
+[23:38:53]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c-%d7%92%d7%99%d7%a1%d7%a8/ \"אל –...
+[23:38:53] [174/687] OK   3p 4o 1f 5r 5ro  (7.67s)
+[23:38:53]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a0_d7_aa_d7_99_d7_a4_d7_90_d7_93_d7_94-_d8_a7_d8_a7_d__265f02ea.md
+[23:38:53]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a0%d7%aa%d7%99%d7%a4%d7%90%d7...
+[23:38:53] [175/687] OK   1p 2o 0f 0r 1ro  (2.25s)
+[23:38:53]           file: nfct_new__blog_movies_d7_90_d7_9c-_d7_97_d7_9c_d7_90_d7_a7_אל_חלאק__3e9c8f0e.md
+[23:38:53]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c-%d7%97%d7%9c%d7%90%d7%a7/ \"אל ח...
+[23:38:53] [176/687] OK   1p 2o 0f 0r 1ro  (2.28s)
+[23:38:53]           file: nfct_new__blog_movies_d7_90_d7_9c-_d7_aa_d7_92_d7_a2_d7_95-_d7_9c_d7_99-_d7_91_d7_a9_d7_95__18a035eb.md
+[23:38:53]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c-%d7%aa%d7%92%d7%a2%d7%95-%d7%9c%...
+[23:38:54] [177/687] OK   1p 2o 0f 0r 1ro  (1.8s)
+[23:38:54]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_91_d7_95_d7_9d-61_אלבום_61__e1f2227b.md
+[23:38:54]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%91%d7%95%d7%9d-61/ \"אלבום 61\
+[23:38:54] [178/687] OK   1p 2o 0f 0r 0ro  (1.8s)
+[23:38:54]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_91_d7_99_d7_aa_d7_99_אלביתי__63532276.md
+[23:38:54]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%91%d7%99%d7%aa%d7%99/ \"אלביתי\
+[23:38:54] [179/687] OK   0p 0o 0f 0r 0ro  (7.39s)
+[23:38:54]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a4_d7_94-_d7_90_d7_a0_d7_94-_d7_a4_d7_a8_d7_a0_d7_a7__b1d5e8ba.md
+[23:38:54]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a4%d7%94-%d7%90%d7%a0%d7%94-%...
+[23:38:55] [180/687] OK   3p 5o 1f 0r 0ro  (7.42s)
+[23:38:55]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a4_d7_94-_d7_94_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_a9___2249cea9.md
+[23:38:55]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a4%d7%94-%d7%94%d7%93%d7%91%d...
+[23:38:55] [181/687] OK   1p 2o 1f 0r 1ro  (2.97s)
+[23:38:55]           file: nfct_new__blog_movies_d7_90_d7_9c-_d7_aa_d7_a7_d7_a8_d7_90-_d7_9c_d7_99-_d7_97_d7_9e_d7_95__afedb6cf.md
+[23:38:55]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c-%d7%aa%d7%a7%d7%a8%d7%90-%d7%9c%...
+[23:38:55] [182/687] OK   1p 2o 1f 0r 1ro  (2.28s)
+[23:38:55]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_91_d7_a8_d7_98-_d7_a7_d7_99_d7_95_d7_a1_d7_95-3_אלברט__2b23f9ba.md
+[23:38:55]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%91%d7%a8%d7%98-%d7%a7%d7%99%d...
+[23:38:55] [183/687] OK   1p 3o 0f 0r 1ro  (3.24s)
+[23:38:55]           file: nfct_new__blog_movies_d7_90_d7_9c-_d7_aa_d7_a4_d7_aa_d7_97_d7_99-_d7_90_d7_aa-_d7_94_d7_93__8091f779.md
+[23:38:55]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c-%d7%aa%d7%a4%d7%aa%d7%97%d7%99-%...
+[23:38:56] [184/687] OK   1p 2o 0f 0r 1ro  (2.62s)
+[23:38:56]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_95_d7_94_d7_99_d7_9d-_d7_a8_d7_95_d7_a6_d7_94-_d7_91___a990a8de.md
+[23:38:56]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%95%d7%94%d7%99%d7%9d-%d7%a8%d...
+[23:38:56] [185/687] OK   9p 5o 4f 0r 0ro  (7.63s)
+[23:38:56]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a9-_d7_94_d7_a6_d7_99_d7_a4_d7_95_d7_a8_d7_99_d7_9d__e3801d61.md
+[23:38:56]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a9-%d7%94%d7%a6%d7%99%d7%a4%d...
+[23:38:56] [186/687] OK   1p 1o 1f 0r 0ro  (1.54s)
+[23:38:56]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_99_d7_a4_d7_9c_d7_98_אליפלט_דוד_שלי_גיבור__6612de12.md
+[23:38:56]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%99%d7%a4%d7%9c%d7%98/ \"אליפל...
+[23:38:56] [187/687] OK   1p 2o 1f 1r 1ro  (2.73s)
+[23:38:56]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_95_d7_9f-_d7_90_d7_97-_d7_a9_d7_9c_d7_99-_d7_92_d7_99__c3acf527.md
+[23:38:56]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%95%d7%9f-%d7%90%d7%97-%d7%a9%...
+[23:38:57] [188/687] OK   0p 0o 0f 0r 0ro  (7.38s)
+[23:38:57]           file: nfct_new__blog_movies_d7_90_d7_99_d7_a9_d7_94-_d7_90_d7_97_d7_95_d7_aa__0ab66363.md
+[23:38:57]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%99%d7%a9%d7%94-%d7%90%d7%97%d7%95%d...
+[23:38:57] [189/687] OK   1p 2o 0f 0r 1ro  (2.08s)
+[23:38:57]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_a0_d7_91_d7_99-_d7_a7_d7_98_d7_a2_אלנבי_קטע__d9223931.md
+[23:38:57]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%a0%d7%91%d7%99-%d7%a7%d7%98%d...
+[23:38:58] [190/687] OK   1p 2o 0f 0r 1ro  (2.49s)
+[23:38:58]           file: nfct_new__blog_movies_d7_90_d7_9d-_d7_90_d7_aa-_d7_a9_d7_95_d7_9e_d7_a2_d7_aa-_d7_aa_d7_a2__fd8375b4.md
+[23:38:58]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9d-%d7%90%d7%aa-%d7%a9%d7%95%d7%9e%...
+[23:38:58] [191/687] OK   1p 2o 0f 0r 1ro  (2.51s)
+[23:38:58]           file: nfct_new__blog_movies_d7_90_d7_9d-_d7_94_d7_a2_d7_95_d7_9c_d7_9d-_d7_94_d7_96_d7_94-_d7_94__08966a85.md
+[23:38:58]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9d-%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%...
+[23:38:58] [192/687] OK   1p 2o 0f 0r 1ro  (2.04s)
+[23:38:58]           file: nfct_new__blog_movies_d7_90_d7_9d-_d7_9c_d7_95_d7_9e_d7_a8-_d7_90_d7_aa-_d7_94_d7_90_d7_9e__b24435b9.md
+[23:38:58]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9d-%d7%9c%d7%95%d7%9e%d7%a8-%d7%90%...
+[23:39:00] [193/687] OK   1p 2o 0f 0r 1ro  (2.61s)
+[23:39:00]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_97_d7_95_d7_96_d7_a8_d7_aa-_d7_94_d7_91_d7_99___5bc7a3a4.md
+[23:39:00]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%97%d7%95%d7%96%d7%a8%d...
+[23:39:00] [194/687] OK   1p 2o 1f 1r 1ro  (2.72s)
+[23:39:00]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_90_d7_93_d7_9e_d7_94_אמא_אדמה__56c797ef.md
+[23:39:00]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%90%d7%93%d7%9e%d7%94/ ...
+[23:39:00] [195/687] OK   5p 16o 1f 0r 0ro  (7.49s)
+[23:39:00]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_91_d7_a8_d7_98-_d7_a7_d7_99_d7_95_d7_a1_d7_95-3__46476aac.md
+[23:39:00]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%91%d7%a8%d7%98-%d7%a7%d7%99%d...
+[23:39:00] [196/687] OK   1p 2o 0f 0r 1ro  (1.9s)
+[23:39:00]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_99_d7_9c_d7_93_d7_94_אמא_ילדה__6b3b731b.md
+[23:39:00]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%99%d7%9c%d7%93%d7%94/ ...
+[23:39:01] [197/687] OK   2p 2o 1f 5r 5ro  (5.87s)
+[23:39:01]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_9b_d7_a1-_d7_95_d7_a0_d7_93_d7_99_d7_94-_d7_9c_d7_a0___4a129873.md
+[23:39:01]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%9b%d7%a1-%d7%95%d7%a0%d7%93%d...
+[23:39:01] [198/687] OK   11p 3o 4f 0r 3ro  (7.47s)
+[23:39:01]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_95_d7_9f-_d7_90_d7_97-_d7_a9_d7_9c_d7_99-_d7_92_d7_99__9cc119e2.md
+[23:39:01]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%95%d7%9f-%d7%90%d7%97-%d7%a9%...
+[23:39:02] [199/687] OK   0p 1o 0f 0r 0ro  (1.08s)
+[23:39:02]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_a9_d7_9c-_d7_95_d7_9c_d7_a0_d7_98_d7_99_d7_a0___92343a31.md
+[23:39:02]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%a9%d7%9c-%d7%95%d7%9c%...
+[23:39:02] [200/687] OK   1p 2o 0f 0r 1ro  (2.1s)
+[23:39:02]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_9b_d7_9c_d7_9b_d7_9c_d7_94_אמא_כלכלה__f0f5a1c8.md
+[23:39:02]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%9b%d7%9c%d7%9b%d7%9c%d...
+[23:39:02]   --- progress: 200/687 (29.1%)  rate: 157.7/min  eta: 3.1min  cost so far: $0.2345 ---
+[23:39:02] [201/687] OK   8p 4o 1f 0r 0ro  (7.67s)
+[23:39:02]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_99_d7_a4_d7_9c_d7_98__ba43fd3c.md
+[23:39:02]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%99%d7%a4%d7%9c%d7%98/
+[23:39:03] [202/687] OK   13p 3o 1f 0r 0ro  (7.82s)
+[23:39:03]           file: nfct_new__blog_movies_d7_90_d7_9c_d7_9b_d7_a1-_d7_95_d7_a0_d7_93_d7_99_d7_94-_d7_9c_d7_a0___678f362b.md
+[23:39:03]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9c%d7%9b%d7%a1-%d7%95%d7%a0%d7%93%d...
+[23:39:03] [203/687] OK   8p 3o 4f 0r 0ro  (7.69s)
+[23:39:03]           file: nfct_new__blog_movies_d7_90_d7_9d-_d7_90_d7_aa-_d7_a9_d7_95_d7_9e_d7_a2_d7_aa-_d7_aa_d7_a2__89ad8c42.md
+[23:39:03]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9d-%d7%90%d7%aa-%d7%a9%d7%95%d7%9e%...
+[23:39:03] [204/687] OK   1p 2o 0f 0r 1ro  (2.15s)
+[23:39:03]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_9c_d7_90-_d7_9e_d7_a9_d7_95_d7_92_d7_a2_d7_aa___7b73ee2c.md
+[23:39:03]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%9c%d7%90-%d7%9e%d7%a9%...
+[23:39:03] [205/687] OK   1p 2o 1f 0r 1ro  (2.79s)
+[23:39:03]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_9c_d7_90-_d7_94_d7_a8_d7_92_d7_aa_d7_99-_d7_90__cd7e205b.md
+[23:39:03]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%9c%d7%90-%d7%94%d7%a8%...
+[23:39:04] [206/687] OK   1p 2o 1f 0r 0ro  (1.9s)
+[23:39:04]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_a9_d7_9c-_d7_a2_d7_95_d7_9e_d7_a8_אמא_של_עומר__dce9300b.md
+[23:39:04]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%a9%d7%9c-%d7%a2%d7%95%...
+[23:39:04] [207/687] OK   11p 4o 5f 0r 0ro  (7.91s)
+[23:39:04]           file: nfct_new__blog_movies_d7_90_d7_9d-_d7_9c_d7_95_d7_9e_d7_a8-_d7_90_d7_aa-_d7_94_d7_90_d7_9e__4b8fe1df.md
+[23:39:04]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9d-%d7%9c%d7%95%d7%9e%d7%a8-%d7%90%...
+[23:39:04] [208/687] OK   0p 1o 0f 0r 0ro  (1.13s)
+[23:39:04]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_99_d7_9c-_d7_9e_d7_a1_d7_a2_d7_95-_d7_a9_d7_9c-_d7_92__7e35c2ae.md
+[23:39:04]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%99%d7%9c-%d7%9e%d7%a1%d7%a2%d...
+[23:39:05] [209/687] OK   2p 2o 1f 2r 0ro  (2.57s)
+[23:39:05]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_94_d7_95_d7_aa_נירה_וסאוסן_אמהות__b49b2c4d.md
+[23:39:05]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%94%d7%95%d7%aa/ \"נירה וסאוסן...
+[23:39:06] [210/687] OK   5p 4o 1f 0r 0ro  (7.5s)
+[23:39:06]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_97_d7_95_d7_96_d7_a8_d7_aa-_d7_94_d7_91_d7_99___8e421980.md
+[23:39:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%97%d7%95%d7%96%d7%a8%d...
+[23:39:06] [211/687] OK   1p 2o 1f 1r 1ro  (2.91s)
+[23:39:06]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_99_d7_9c-_d7_9e_d7_a1_d7_a2_d7_95-_d7_a9_d7_9c-_d7_92__1a5a3150.md
+[23:39:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%99%d7%9c-%d7%9e%d7%a1%d7%a2%d...
+[23:39:06] [212/687] OK   11p 7o 4f 0r 0ro  (7.52s)
+[23:39:06]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_99_d7_9c_d7_93_d7_94__e26b8fc6.md
+[23:39:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%99%d7%9c%d7%93%d7%94/
+[23:39:06] [213/687] OK   1p 2o 0f 0r 1ro  (2.23s)
+[23:39:06]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_99_d7_a6_d7_95_d7_aa_אמיצות__7d411917.md
+[23:39:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%99%d7%a6%d7%95%d7%aa/ \"אמיצות\
+[23:39:06] [214/687] OK   1p 2o 1f 1r 1ro  (3.7s)
+[23:39:06]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_99_d7_9c-_d7_97_d7_91_d7_99_d7_91_d7_99-_d7_a0_d7_a9___e2625064.md
+[23:39:06]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%99%d7%9c-%d7%97%d7%91%d7%99%d...
+[23:39:07] [215/687] OK   6p 1o 4f 7r 6ro  (7.44s)
+[23:39:07]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_9b_d7_9c_d7_9b_d7_9c_d7_94__fb8e1671.md
+[23:39:07]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%9b%d7%9c%d7%9b%d7%9c%d...
+[23:39:08] [216/687] OK   1p 2o 0f 0r 1ro  (2.56s)
+[23:39:08]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_90-_d7_94_d7_9e_d7_aa_d7_9f-_d7_9c_d7_a0_d7_a6_d7_99___e65d1660.md
+[23:39:08]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%90-%d7%94%d7%9e%d7%aa%d7%9f-%...
+[23:39:08] [217/687] OK   9p 5o 4f 0r 0ro  (7.91s)
+[23:39:08]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_9c_d7_90-_d7_9e_d7_a9_d7_95_d7_92_d7_a2_d7_aa__76ebd208.md
+[23:39:08]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%9c%d7%90-%d7%9e%d7%a9%...
+[23:39:09] [218/687] OK   1p 2o 1f 1r 1ro  (2.8s)
+[23:39:09]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_95-_d7_94_d7_a0_d7_95_d7_a1_d7_a2_d7_99_d7_9d-_d7_91___2fc33ab1.md
+[23:39:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%95-%d7%94%d7%a0%d7%95%d7%a1%d...
+[23:39:09] [219/687] OK   1p 2o 0f 0r 1ro  (2.35s)
+[23:39:09]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_97_d7_a0_d7_95-_d7_a6_d7_a8_d7_99_d7_9b_d7_99_d7_9d-___c62a161c.md
+[23:39:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%a6%d7%a8%d...
+[23:39:09] [220/687] OK   14p 2o 4f 0r 0ro  (7.19s)
+[23:39:09]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_90-_d7_a9_d7_9c-_d7_a2_d7_95_d7_9e_d7_a8__d08a549c.md
+[23:39:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%90-%d7%a9%d7%9c-%d7%a2%d7%95%...
+[23:39:09] [221/687] OK   1p 2o 1f 1r 1ro  (3.08s)
+[23:39:09]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_95-_d7_94_d7_a0_d7_95_d7_a1_d7_a2_d7_99_d7_9d-_d7_91___d7329a6b.md
+[23:39:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%95-%d7%94%d7%a0%d7%95%d7%a1%d...
+[23:39:09] [222/687] OK   6p 9o 1f 0r 0ro  (7.49s)
+[23:39:09]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_94_d7_95_d7_aa__ca4fc7f5.md
+[23:39:09]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%94%d7%95%d7%aa/
+[23:39:10] [223/687] OK   1p 2o 0f 0r 1ro  (2.8s)
+[23:39:10]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_97_d7_a0_d7_95-_d7_aa_d7_95_d7_a9_d7_91_d7_99-_d7_a9___5cafe906.md
+[23:39:10]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%aa%d7%95%d...
+[23:39:11] [224/687] OK   1p 1o 1f 0r 0ro  (1.42s)
+[23:39:11]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_90_d7_a1_d7_aa_d7_a8_אני_אסתר__7eac2e17.md
+[23:39:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%90%d7%a1%d7%aa%d7%a8/ ...
+[23:39:11] [225/687] OK   1p 2o 1f 0r 1ro  (3.05s)
+[23:39:11]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_97_d7_a0_d7_95-_d7_aa_d7_95_d7_a9_d7_91_d7_99-_d7_a9___90c99c1e.md
+[23:39:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%aa%d7%95%d...
+[23:39:11] [226/687] OK   1p 2o 0f 0r 1ro  (2.28s)
+[23:39:11]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_98_d7_99_d7_a9_d7_9e_d7_99_d7_95_d7_aa-_d7_9c_d7_90-___e0418343.md
+[23:39:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%98%d7%99%d7%a9%d7%9e%d7%99%d7...
+[23:39:11] [227/687] OK   6p 3o 4f 0r 0ro  (7.52s)
+[23:39:11]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_99_d7_a6_d7_95_d7_aa__527c6e6b.md
+[23:39:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%99%d7%a6%d7%95%d7%aa/
+[23:39:11] [228/687] OK   12p 2o 4f 0r 0ro  (7.73s)
+[23:39:11]           file: nfct_new__blog_movies_d7_90_d7_9e_d7_99_d7_9c-_d7_9e_d7_a1_d7_a2_d7_95-_d7_a9_d7_9c-_d7_92__abd446e8.md
+[23:39:11]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%9e%d7%99%d7%9c-%d7%9e%d7%a1%d7%a2%d...
+[23:39:12] [229/687] OK   1p 1o 0f 0r 0ro  (1.39s)
+[23:39:12]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a2_d7_99_d7_99_d7_a3_אני_עייף__68a885da.md
+[23:39:12]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a2%d7%99%d7%99%d7%a3/ ...
+[23:39:12] [230/687] OK   1p 3o 0f 2r 1ro  (3.56s)
+[23:39:12]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_90_d7_92_d7_99_d7_93-_d7_9c_d7_9a-_d7_9b_d7_a9__d8009f85.md
+[23:39:12]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%90%d7%92%d7%99%d7%93-%...
+[23:39:13] [231/687] OK   1p 3o 0f 0r 1ro  (2.92s)
+[23:39:13]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_90_d7_a8_d7_90_d7_94-_d7_90_d7_95_d7_aa_d7_9a-__c2b711ec.md
+[23:39:13]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%90%d7%a8%d7%90%d7%94-%...
+[23:39:13] [232/687] OK   0p 0o 0f 0r 0ro  (7.85s)
+[23:39:13]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_95-_d7_94_d7_a0_d7_95_d7_a1_d7_a2_d7_99_d7_9d-_d7_91___0ca64fce.md
+[23:39:13]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%95-%d7%94%d7%a0%d7%95%d7%a1%d...
+[23:39:14] [233/687] OK   11p 3o 4f 0r 1ro  (7.49s)
+[23:39:14]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_97_d7_a0_d7_95-_d7_a6_d7_a8_d7_99_d7_9b_d7_99_d7_9d-___5c81c95a.md
+[23:39:14]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%a6%d7%a8%d...
+[23:39:14] [234/687] OK   1p 2o 1f 3r 0ro  (3.03s)
+[23:39:14]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_91_d7_99_d7_90_d7_9c_d7_99_d7_a7_אני_ביאליק__6f3126b4.md
+[23:39:14]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%91%d7%99%d7%90%d7%9c%d...
+[23:39:14] [235/687] OK   1p 2o 1f 1r 1ro  (3.04s)
+[23:39:14]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a2_d7_99_d7_a8_d7_90_d7_a7_d7_99-_d7_a4_d7_99___743e31bb.md
+[23:39:14]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a2%d7%99%d7%a8%d7%90%d...
+[23:39:15] [236/687] OK   1p 2o 1f 1r 1ro  (2.64s)
+[23:39:15]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a8_d7_95_d7_90_d7_94-_d7_90_d7_95_d7_aa_d7_9a___6294c185.md
+[23:39:15]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a8%d7%95%d7%90%d7%94-%...
+[23:39:16] [237/687] OK   1p 2o 0f 0r 1ro  (1.88s)
+[23:39:16]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_aa_d7_a8_d7_a7_d7_a1_אנתרקס__5dbf4771.md
+[23:39:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%aa%d7%a8%d7%a7%d7%a1/ \"אנתרקס\
+[23:39:16] [238/687] OK   0p 0o 0f 0r 0ro  (7.76s)
+[23:39:16]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_97_d7_a0_d7_95-_d7_aa_d7_95_d7_a9_d7_91_d7_99-_d7_a9___d5c79e35.md
+[23:39:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%aa%d7%95%d...
+[23:39:16] [239/687] OK   0p 0o 0f 0r 0ro  (7.7s)
+[23:39:16]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_98_d7_99_d7_a9_d7_9e_d7_99_d7_95_d7_aa-_d7_9c_d7_90-___4333ae6d.md
+[23:39:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%98%d7%99%d7%a9%d7%9e%d7%99%d7...
+[23:39:16] [240/687] OK   10p 3o 4f 0r 10ro  (7.46s)
+[23:39:16]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_90_d7_a1_d7_aa_d7_a8__e5652644.md
+[23:39:16]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%90%d7%a1%d7%aa%d7%a8/
+[23:39:17] [241/687] OK   1p 2o 0f 0r 0ro  (1.61s)
+[23:39:17]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_95_d7_9f-_d7_98_d7_91_d7_a2_אסון_טבע__e3974b5c.md
+[23:39:17]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%95%d7%9f-%d7%98%d7%91%d7%a2/ ...
+[23:39:17] [242/687] OK   2p 2o 1f 2r 0ro  (4.22s)
+[23:39:17]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a8_d7_95_d7_a6_d7_94-_d7_9c_d7_96_d7_9b_d7_95___7c571488.md
+[23:39:17]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a8%d7%95%d7%a6%d7%94-%...
+[23:39:17] [243/687] OK   2p 3o 1f 4r 3ro  (4.79s)
+[23:39:17]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a8_d7_95_d7_90_d7_94-_d7_90_d7_95_d7_aa_d7_9a__6915f0ed.md
+[23:39:17]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a8%d7%95%d7%90%d7%94-%...
+[23:39:18] [244/687] OK   1p 2o 0f 0r 1ro  (1.68s)
+[23:39:18]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_99_d7_94_אסיה__9024ad17.md
+[23:39:18]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%99%d7%94/ \"אסיה\
+[23:39:18] [245/687] OK   1p 2o 0f 0r 0ro  (1.38s)
+[23:39:18]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_99_d7_a1_d7_98_אסיסט__878428b4.md
+[23:39:18]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%99%d7%a1%d7%98/ \"אסיסט\
+[23:39:18] [246/687] OK   1p 2o 0f 0r 0ro  (1.49s)
+[23:39:18]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_9e_d7_a8_אסמר__53d761dc.md
+[23:39:18]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%9e%d7%a8/ \"אסמר\
+[23:39:19] [247/687] OK   7p 5o 4f 0r 0ro  (7.85s)
+[23:39:19]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a2_d7_99_d7_99_d7_a3__feac9f14.md
+[23:39:19]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a2%d7%99%d7%99%d7%a3/
+[23:39:19] [248/687] OK   10p 4o 4f 0r 0ro  (7.65s)
+[23:39:19]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a2_d7_99_d7_a8_d7_90_d7_a7_d7_99-_d7_a4_d7_99___5c8525ab.md
+[23:39:19]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a2%d7%99%d7%a8%d7%90%d...
+[23:39:19] [249/687] OK   1p 2o 0f 0r 1ro  (1.71s)
+[23:39:19]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_aa_d7_a8_אסתר__95486f96.md
+[23:39:19]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%aa%d7%a8/ \"אסתר\
+[23:39:20] [250/687] OK   1p 2o 0f 0r 1ro  (1.79s)
+[23:39:20]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_a0_d7_a1_מהות_Essence__d5cee2b4.md
+[23:39:20]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%a0%d7%a1/ \"מהות – Essence\
+[23:39:20]   --- progress: 250/687 (36.4%)  rate: 159.9/min  eta: 2.7min  cost so far: $0.3001 ---
+[23:39:20] [251/687] OK   0p 1o 0f 0r 0ro  (0.96s)
+[23:39:20]           file: nfct_new__blog_movies_d7_90_d7_a4_d7_99_d7_9c_d7_95-_d7_93_d7_a7_d7_94_אפילו_דקה__5cc0f8c9.md
+[23:39:20]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a4%d7%99%d7%9c%d7%95-%d7%93%d7%a7%d...
+[23:39:21] [252/687] OK   1p 2o 0f 0r 1ro  (1.92s)
+[23:39:21]           file: nfct_new__blog_movies_d7_90_d7_a3-_d7_9e_d7_99_d7_9c_d7_94-_d7_90_d7_9e_d7_aa_אף_מילה_אמת__06c0806d.md
+[23:39:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a3-%d7%9e%d7%99%d7%9c%d7%94-%d7%90%...
+[23:39:21] [253/687] OK   17p 7o 1f 0r 0ro  (7.53s)
+[23:39:21]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_aa_d7_a8_d7_a7_d7_a1__206c95f5.md
+[23:39:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%aa%d7%a8%d7%a7%d7%a1/
+[23:39:21] [254/687] OK   0p 0o 0f 0r 0ro  (7.95s)
+[23:39:21]           file: nfct_new__blog_movies_d7_90_d7_a0_d7_99-_d7_a8_d7_95_d7_a6_d7_94-_d7_9c_d7_96_d7_9b_d7_95___e77b290d.md
+[23:39:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a0%d7%99-%d7%a8%d7%95%d7%a6%d7%94-%...
+[23:39:21] [255/687] OK   1p 2o 0f 0r 1ro  (1.83s)
+[23:39:21]           file: nfct_new__blog_movies_d7_90_d7_a7_d7_99_d7_a6_d7_a2_d7_a8_אקיצער__4ddaa0eb.md
+[23:39:21]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a7%d7%99%d7%a6%d7%a2%d7%a8/ \"אקיצער\
+[23:39:22] [256/687] OK   1p 2o 0f 0r 1ro  (2.21s)
+[23:39:22]           file: nfct_new__blog_movies_d7_90_d7_a6_d7_9c_d7_a0_d7_95-_d7_91_d7_97_d7_a6_d7_a8_אצלנו_בחצר__e2c5da52.md
+[23:39:22]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a6%d7%9c%d7%a0%d7%95-%d7%91%d7%97%d...
+[23:39:22] [257/687] OK   9p 4o 4f 0r 0ro  (7.29s)
+[23:39:22]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_95_d7_9f-_d7_98_d7_91_d7_a2__380581ec.md
+[23:39:22]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%95%d7%9f-%d7%98%d7%91%d7%a2/
+[23:39:22] [258/687] OK   1p 2o 0f 0r 0ro  (1.98s)
+[23:39:22]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_95_d7_9f-_d7_94_d7_a7_d7_95_d7_93_d7_a9_ארון_הקודש__75c56f5f.md
+[23:39:22]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%95%d7%9f-%d7%94%d7%a7%d7%95%d...
+[23:39:23] [259/687] OK   13p 7o 4f 0r 0ro  (7.52s)
+[23:39:23]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_99_d7_94__a7b80855.md
+[23:39:23]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%99%d7%94/
+[23:39:23] [260/687] OK   1p 2o 1f 1r 0ro  (2.8s)
+[23:39:23]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_99-_d7_95_d7_94_d7_96_d7_a8_d7_a2-_d7_94_d7_a7_d7_93___b0582693.md
+[23:39:23]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%99-%d7%95%d7%94%d7%96%d7%a8%d...
+[23:39:24] [261/687] OK   1p 2o 0f 0r 1ro  (1.8s)
+[23:39:24]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_a5-_d7_a2_d7_99_d7_a8_ארץ_עיר__7ae4f338.md
+[23:39:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%a5-%d7%a2%d7%99%d7%a8/ \"ארץ ...
+[23:39:24] [262/687] OK   1p 2o 1f 0r 0ro  (1.99s)
+[23:39:24]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_a5-_d7_90_d7_94_d7_95_d7_91_d7_94-_d7_a9_d7_9c_d7_99___fdf6dd78.md
+[23:39:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%a5-%d7%90%d7%94%d7%95%d7%91%d...
+[23:39:24] [263/687] OK   1p 1o 1f 1r 0ro  (1.75s)
+[23:39:24]           file: nfct_new__blog_movies_d7_90_d7_a9_d7_aa-_d7_97_d7_99_d7_9c_אשת_חיל__a7733503.md
+[23:39:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a9%d7%aa-%d7%97%d7%99%d7%9c/ \"אשת ...
+[23:39:24] [264/687] OK   8p 4o 4f 0r 0ro  (7.33s)
+[23:39:24]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_9e_d7_a8__bc35a966.md
+[23:39:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%9e%d7%a8/
+[23:39:24] [265/687] OK   1p 2o 0f 0r 1ro  (2.74s)
+[23:39:24]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_9c_d7_a7_d7_99_d7_a0_d7_95-_d7_9e_d7_90_d7_97_d7_95_d__6dba82a4.md
+[23:39:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%9c%d7%a7%d7%99%d7%a0%d7%95-%d...
+[23:39:24] [266/687] OK   16p 5o 4f 0r 0ro  (7.93s)
+[23:39:24]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_99_d7_a1_d7_98__b4fb2b06.md
+[23:39:24]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%99%d7%a1%d7%98/
+[23:39:25] [267/687] OK   11p 1o 4f 0r 14ro  (7.53s)
+[23:39:25]           file: nfct_new__blog_movies_d7_90_d7_a1_d7_a0_d7_a1__11062da7.md
+[23:39:25]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a1%d7%a0%d7%a1/
+[23:39:25] [268/687] OK   1p 3o 1f 1r 1ro  (3.69s)
+[23:39:25]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_99_d7_95_d7_aa-_d7_9e_d7_aa_d7_a2_d7_95_d7_a8_d7_a8_d__08842a8b.md
+[23:39:25]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%99%d7%95%d7%aa-%d7%9e%d7%aa%d...
+[23:39:26] [269/687] OK   1p 2o 0f 0r 0ro  (1.48s)
+[23:39:26]           file: nfct_new__blog_movies_d7_91_d7_90_d7_a0_d7_a6_d7_99_באנצ_י__b840ef21.md
+[23:39:26]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%90%d7%a0%d7%a6%d7%99/ \"באנצ'י\
+[23:39:26] [270/687] OK   1p 2o 1f 0r 1ro  (2.43s)
+[23:39:26]           file: nfct_new__blog_movies_d7_90_d7_aa-_d7_95_d7_90_d7_a0_d7_99-_d7_95_d7_94_d7_98_d7_91_d7_a2___fc4518c3.md
+[23:39:26]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%aa-%d7%95%d7%90%d7%a0%d7%99-%d7%95%...
+[23:39:26] [271/687] OK   1p 2o 0f 0r 1ro  (1.91s)
+[23:39:26]           file: nfct_new__blog_movies_d7_91_d7_90_d7_99_d7_a0_d7_9e_d7_92_d7_a2_באינמגע__0b2b4ed9.md
+[23:39:26]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%90%d7%99%d7%a0%d7%9e%d7%92%d7%a2/ \...
+[23:39:26] [272/687] OK   1p 2o 0f 0r 1ro  (2.47s)
+[23:39:26]           file: nfct_new__blog_movies_d7_90_d7_aa_d7_94-_d7_97_d7_99_d7_99_d7_91-_d7_9c_d7_a2_d7_a9_d7_95___54665f15.md
+[23:39:26]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%aa%d7%94-%d7%97%d7%99%d7%99%d7%91-%...
+[23:39:26] [273/687] OK   1p 2o 0f 0r 1ro  (2.69s)
+[23:39:26]           file: nfct_new__blog_movies_d7_90_d7_aa-_d7_9e_d7_a1_d7_9b_d7_99_d7_9e_d7_94-_d7_a9_d7_90_d7_a0___01c5f6be.md
+[23:39:26]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%aa-%d7%9e%d7%a1%d7%9b%d7%99%d7%9e%d...
+[23:39:26] [274/687] OK   12p 5o 4f 0r 0ro  (7.65s)
+[23:39:26]           file: nfct_new__blog_movies_d7_90_d7_a3-_d7_9e_d7_99_d7_9c_d7_94-_d7_90_d7_9e_d7_aa__c6ed1ab5.md
+[23:39:26]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a3-%d7%9e%d7%99%d7%9c%d7%94-%d7%90%...
+[23:39:27] [275/687] OK   1p 2o 0f 0r 1ro  (2.03s)
+[23:39:27]           file: nfct_new__blog_movies_d7_91_d7_91_d7_95_d7_90_d7_95_d7_aa-reflejos_בבואות_Reflejos__d848a4c9.md
+[23:39:27]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%91%d7%95%d7%90%d7%95%d7%aa-reflejos...
+[23:39:28] [276/687] OK   1p 2o 0f 0r 1ro  (2.18s)
+[23:39:28]           file: nfct_new__blog_movies_d7_91_d7_93_d7_99_d7_a7_d7_aa-_d7_9b_d7_a9_d7_a8_d7_95_d7_aa_בדיקת_כ__73dfbbf4.md
+[23:39:28]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%93%d7%99%d7%a7%d7%aa-%d7%9b%d7%a9%d...
+[23:39:29] [277/687] OK   0p 0o 0f 0r 0ro  (7.76s)
+[23:39:29]           file: nfct_new__blog_movies_d7_90_d7_a8_d7_99-_d7_95_d7_94_d7_96_d7_a8_d7_a2-_d7_94_d7_a7_d7_93___fc1f3220.md
+[23:39:29]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%a8%d7%99-%d7%95%d7%94%d7%96%d7%a8%d...
+[23:39:29] [278/687] OK   1p 2o 1f 1r 0ro  (2.43s)
+[23:39:29]           file: nfct_new__blog_movies_d7_91_d7_95_d7_91_d7_94-_d7_9e_d7_99_d7_99_d7_a1_d7_a1_בובה_מייסס__3b34ee25.md
+[23:39:29]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%91%d7%94-%d7%9e%d7%99%d7%99%d...
+[23:39:29] [279/687] OK   1p 2o 1f 0r 0ro  (3.18s)
+[23:39:29]           file: nfct_new__blog_movies_d7_91_d7_93_d7_a8_d7_9a-_d7_97_d7_96_d7_a8_d7_94_בדרך_חזרה__1b022307.md
+[23:39:29]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%93%d7%a8%d7%9a-%d7%97%d7%96%d7%a8%d...
+[23:39:30] [280/687] OK   1p 3o 1f 4r 2ro  (4.16s)
+[23:39:30]           file: nfct_new__blog_movies_d7_91_d7_93_d7_99_d7_a7_d7_aa-_d7_9b_d7_a9_d7_a8_d7_95_d7_aa__3476e9d0.md
+[23:39:30]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%93%d7%99%d7%a7%d7%aa-%d7%9b%d7%a9%d...
+[23:39:31] [281/687] OK   1p 2o 0f 0r 1ro  (2.13s)
+[23:39:31]           file: nfct_new__blog_movies_d7_91_d7_95_d7_97_d7_9f-_d7_9b_d7_9c_d7_99_d7_95_d7_aa_בוחן_כליות__2b41f675.md
+[23:39:31]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%97%d7%9f-%d7%9b%d7%9c%d7%99%d...
+[23:39:31] [282/687] OK   5p 1o 4f 6r 5ro  (6.18s)
+[23:39:31]           file: nfct_new__blog_movies_d7_91_d7_91_d7_99_d7_aa-_d7_a9_d7_9c_d7_99__e8eaca68.md
+[23:39:31]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%9c%d7%99/
+[23:39:31] [283/687] OK   0p 0o 0f 0r 0ro  (7.54s)
+[23:39:31]           file: nfct_new__blog_movies_d7_90_d7_aa_d7_94-_d7_97_d7_99_d7_99_d7_91-_d7_9c_d7_a2_d7_a9_d7_95___a90a9441.md
+[23:39:31]           url:  https://nfct.org.il/blog/movies/%d7%90%d7%aa%d7%94-%d7%97%d7%99%d7%99%d7%91-%...
+[23:39:31] [284/687] OK   6p 8o 1f 0r 0ro  (7.64s)
+[23:39:31]           file: nfct_new__blog_movies_d7_91_d7_90_d7_91_d7_90-_d7_9c_d7_95_d7_91_d7_94__aeeda1f6.md
+[23:39:31]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%90%d7%91%d7%90-%d7%9c%d7%95%d7%91%d...
+[23:39:32] [285/687] OK   1p 3o 0f 0r 1ro  (2.5s)
+[23:39:32]           file: nfct_new__blog_movies_d7_91_d7_95_d7_a2_d7_95_d7_aa_בועות__10c06ab0.md
+[23:39:32]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%a2%d7%95%d7%aa/ \"בועות\
+[23:39:32] [286/687] OK   1p 2o 0f 0r 1ro  (2.22s)
+[23:39:32]           file: nfct_new__blog_movies_d7_91_d7_95_d7_a7_d7_a8-_d7_98_d7_95_d7_91-_d7_99_d7_a8_d7_95_d7_a9___794ee03f.md
+[23:39:32]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%a7%d7%a8-%d7%98%d7%95%d7%91-%...
+[23:39:33] [287/687] OK   12p 2o 4f 0r 0ro  (7.3s)
+[23:39:33]           file: nfct_new__blog_movies_d7_91_d7_93_d7_a7-_d7_91_d7_99_d7_aa__a4592e26.md
+[23:39:33]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%93%d7%a7-%d7%91%d7%99%d7%aa/
+[23:39:34] [288/687] OK   1p 2o 0f 0r 0ro  (2.29s)
+[23:39:34]           file: nfct_new__blog_movies_d7_91_d7_95_d7_a8_d7_92_בורג__8ee0c380.md
+[23:39:34]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%a8%d7%92/ \"בורג\
+[23:39:34] [289/687] OK   1p 2o 0f 0r 0ro  (1.72s)
+[23:39:34]           file: nfct_new__blog_movies_d7_91_d7_97_d7_93_d7_a8-_d7_a9_d7_9c_d7_99_בחדר_שלי__ef8c834c.md
+[23:39:34]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%97%d7%93%d7%a8-%d7%a9%d7%9c%d7%99/ ...
+[23:39:34] [290/687] OK   14p 4o 4f 0r 4ro  (7.68s)
+[23:39:34]           file: nfct_new__blog_movies_d7_91_d7_93_d7_9e_d7_99-_d7_99_d7_9e_d7_99_d7_94__24a8f3d7.md
+[23:39:34]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%93%d7%9e%d7%99-%d7%99%d7%9e%d7%99%d...
+[23:39:34] [291/687] OK   4p 3o 1f 4r 5ro  (8.76s)
+[23:39:34]           file: nfct_new__blog_movies_d7_91_d7_93_d7_99_d7_93_d7_95_d7_93__1a9434a8.md
+[23:39:34]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%93%d7%99%d7%93%d7%95%d7%93/
+[23:39:36] [292/687] OK   0p 0o 0f 0r 0ro  (7.4s)
+[23:39:36]           file: nfct_new__blog_movies_d7_91_d7_95_d7_97_d7_9f-_d7_9b_d7_9c_d7_99_d7_95_d7_aa__301e2fb5.md
+[23:39:36]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%97%d7%9f-%d7%9b%d7%9c%d7%99%d...
+[23:39:36] [293/687] OK   1p 2o 0f 0r 1ro  (2.46s)
+[23:39:36]           file: nfct_new__blog_movies_d7_91_d7_98_d7_a8_d7_a0_d7_93_בטרנד__f85f058f.md
+[23:39:36]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%98%d7%a8%d7%a0%d7%93/ \"בטרנד\
+[23:39:36] [294/687] OK   1p 3o 0f 0r 1ro  (2.42s)
+[23:39:36]           file: nfct_new__blog_movies_d7_91_d7_99_d7_93_d7_95_d7_93-_d7_9c_d7_97_d7_95_d7_9e_d7_a8_d7_90_ב__38e73112.md
+[23:39:36]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%93%d7%95%d7%93-%d7%9c%d7%97%d...
+[23:39:36] [295/687] OK   12p 3o 4f 0r 0ro  (7.26s)
+[23:39:36]           file: nfct_new__blog_movies_d7_91_d7_95_d7_a2_d7_95_d7_aa__af3ed56f.md
+[23:39:36]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%a2%d7%95%d7%aa/
+[23:39:36] [296/687] OK   1p 2o 0f 0r 1ro  (2.11s)
+[23:39:36]           file: nfct_new__blog_movies_d7_91_d7_99_d7_99_d7_a9_d7_a0_d7_95_d7_aa-_d7_94_d7_9b_d7_aa_d7_a8_ב__1273ba84.md
+[23:39:36]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%95%d7%aa-%d...
+[23:39:36] [297/687] OK   1p 2o 0f 0r 1ro  (2.95s)
+[23:39:36]           file: nfct_new__blog_movies_d7_91_d7_98_d7_95_d7_9f_בטון__21d73dd0.md
+[23:39:36]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%98%d7%95%d7%9f/ \"בטון\
+[23:39:37] [298/687] OK   15p 4o 4f 0r 0ro  (12.66s)
+[23:39:37]           file: nfct_new__blog_movies_d7_91_d7_91_d7_95_d7_90_d7_95_d7_aa-reflejos__7ab1a7d7.md
+[23:39:37]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%91%d7%95%d7%90%d7%95%d7%aa-reflejos/
+[23:39:37] [299/687] OK   0p 1o 0f 0r 0ro  (1.68s)
+[23:39:37]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_94_d7_a0_d7_92_d7_91-_d7_9c_d7_92_d7_9c_d7_99___79ae819f.md
+[23:39:37]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%94%d7%a0%d7%92%d7%91-%...
+[23:39:38] [300/687] OK   0p 0o 0f 0r 0ro  (7.22s)
+[23:39:38]           file: nfct_new__blog_movies_d7_91_d7_95_d7_a8_d7_92__0729031d.md
+[23:39:38]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%a8%d7%92/
+[23:39:38]   --- progress: 300/687 (43.7%)  rate: 159.6/min  eta: 2.4min  cost so far: $0.3623 ---
+[23:39:38] [301/687] OK   1p 2o 1f 0r 0ro  (1.96s)
+[23:39:38]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_97_d7_95_d7_a8_d7_a3-_d7_9c_d7_90_d7_91_d7_99___a9852e05.md
+[23:39:38]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%97%d7%95%d7%a8%d7%a3-%...
+[23:39:39] [302/687] OK   1p 2o 0f 0r 1ro  (2.34s)
+[23:39:39]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_94_d7_a1_d7_93_d7_99_d7_a0_d7_99_d7_9d_בין_הסד__4573a1a6.md
+[23:39:39]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%94%d7%a1%d7%93%d7%99%d...
+[23:39:39] [303/687] OK   8p 5o 4f 0r 0ro  (7.63s)
+[23:39:39]           file: nfct_new__blog_movies_d7_91_d7_97_d7_93_d7_a8-_d7_a9_d7_9c_d7_99__90200e00.md
+[23:39:39]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%97%d7%93%d7%a8-%d7%a9%d7%9c%d7%99/
+[23:39:39] [304/687] OK   5p 4o 1f 0r 0ro  (7.24s)
+[23:39:39]           file: nfct_new__blog_movies_d7_91_d7_97_d7_95_d7_9e_d7_a9-_d7_a7_d7_a8_d7_95_d7_91-_d7_9c_d7_a9___0af4ead9.md
+[23:39:39]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%97%d7%95%d7%9e%d7%a9-%d7%a7%d7%a8%d...
+[23:39:40] [305/687] OK   1p 3o 0f 0r 1ro  (2.84s)
+[23:39:40]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_a7_d7_a8_d7_99_d7_99_d7_a8_d7_94-_d7_9c_d7_90___4473dfbd.md
+[23:39:40]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%a7%d7%a8%d7%99%d7%99%d...
+[23:39:41] [306/687] OK   1p 2o 0f 0r 1ro  (2.21s)
+[23:39:41]           file: nfct_new__blog_movies_d7_91_d7_99_d7_a7_d7_95_d7_a8-_d7_94_d7_95_d7_a8_d7_99_d7_9d_ביקור_ה__ec2a9bd7.md
+[23:39:41]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%a7%d7%95%d7%a8-%d7%94%d7%95%d...
+[23:39:42] [307/687] OK   1p 2o 0f 0r 1ro  (2.26s)
+[23:39:42]           file: nfct_new__blog_movies_d7_91_d7_99_d7_a9_d7_a2_d7_94-_d7_9e_d7_91_d7_97_d7_9f-_d7_94_d7_90___f1cb9def.md
+[23:39:42]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%a9%d7%a2%d7%94-%d7%9e%d7%91%d...
+[23:39:43] [308/687] OK   6p 3o 4f 0r 0ro  (7.16s)
+[23:39:43]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_94_d7_a1_d7_93_d7_99_d7_a0_d7_99_d7_9d__b0f8f9a8.md
+[23:39:43]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%94%d7%a1%d7%93%d7%99%d...
+[23:39:44] [309/687] OK   9p 2o 4f 0r 0ro  (7.52s)
+[23:39:44]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_94_d7_a0_d7_92_d7_91-_d7_9c_d7_92_d7_9c_d7_99___f2575b31.md
+[23:39:44]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%94%d7%a0%d7%92%d7%91-%...
+[23:39:44] [310/687] OK   1p 2o 0f 0r 0ro  (2.7s)
+[23:39:44]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-_d7_94_d7_99_d7_9c_d7_93_d7_99_d7_9d_בית_הילדים__fb094605.md
+[23:39:44]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-%d7%94%d7%99%d7%9c%d7%93%d...
+[23:39:44] [311/687] OK   9p 7o 4f 0r 0ro  (7.41s)
+[23:39:44]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_a7_d7_a8_d7_99_d7_99_d7_a8_d7_94-_d7_9c_d7_90___09476209.md
+[23:39:44]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%a7%d7%a8%d7%99%d7%99%d...
+[23:39:45] [312/687] OK   7p 3o 4f 0r 7ro  (13.56s)
+[23:39:45]           file: nfct_new__blog_movies_d7_91_d7_95_d7_a7_d7_a8-_d7_98_d7_95_d7_91-_d7_99_d7_a8_d7_95_d7_a9___d6639113.md
+[23:39:45]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%95%d7%a7%d7%a8-%d7%98%d7%95%d7%91-%...
+[23:39:45] [313/687] OK   1p 2o 0f 0r 1ro  (2.07s)
+[23:39:45]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-_d7_97_d7_9c_d7_95_d7_9e_d7_95_d7_aa_d7_99_d7_99_ב__5390e012.md
+[23:39:45]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-%d7%97%d7%9c%d7%95%d7%9e%d...
+[23:39:46] [314/687] OK   0p 0o 0f 0r 0ro  (12.5s)
+[23:39:46]           file: nfct_new__blog_movies_d7_91_d7_98_d7_95_d7_9f__abdd5b8c.md
+[23:39:46]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%98%d7%95%d7%9f/
+[23:39:46] [315/687] OK   0p 0o 0f 0r 0ro  (7.34s)
+[23:39:46]           file: nfct_new__blog_movies_d7_91_d7_99_d7_a9_d7_a2_d7_94-_d7_9e_d7_91_d7_97_d7_9f-_d7_94_d7_90___42d09ec8.md
+[23:39:46]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%a9%d7%a2%d7%94-%d7%9e%d7%91%d...
+[23:39:46] [316/687] OK   8p 3o 4f 0r 0ro  (7.96s)
+[23:39:46]           file: nfct_new__blog_movies_d7_91_d7_99_d7_a7_d7_95_d7_a8-_d7_90_d7_97_d7_a8_d7_95_d7_9f__c90cdae7.md
+[23:39:46]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%a7%d7%95%d7%a8-%d7%90%d7%97%d...
+[23:39:46] [317/687] OK   5p 2o 4f 0r 0ro  (8.0s)
+[23:39:46]           file: nfct_new__blog_movies_d7_91_d7_99_d7_a7_d7_95_d7_a8-_d7_94_d7_95_d7_a8_d7_99_d7_9d__8f75c7ce.md
+[23:39:46]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%a7%d7%95%d7%a8-%d7%94%d7%95%d...
+[23:39:47] [318/687] OK   1p 2o 1f 0r 0ro  (3.14s)
+[23:39:47]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-_d7_a9_d7_90_d7_9f-_d7_a1_d7_a8_d7_98-_d7_9e_d7_9c__a7a617c9.md
+[23:39:47]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-%d7%a9%d7%90%d7%9f-%d7%a1%...
+[23:39:48] [319/687] OK   6p 4o 1f 0r 0ro  (7.49s)
+[23:39:48]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-_d7_94_d7_99_d7_9c_d7_93_d7_99_d7_9d__fd023458.md
+[23:39:48]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-%d7%94%d7%99%d7%9c%d7%93%d...
+[23:39:49] [320/687] OK   1p 3o 0f 0r 1ro  (2.35s)
+[23:39:49]           file: nfct_new__blog_movies_d7_91_d7_9c_d7_99-_d7_9c_d7_95_d7_9e_d7_a8-_d7_9e_d7_99_d7_9c_d7_94___cb971c39.md
+[23:39:49]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9c%d7%99-%d7%9c%d7%95%d7%9e%d7%a8-%...
+[23:39:49] [321/687] OK   8p 3o 4f 0r 0ro  (7.62s)
+[23:39:49]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-_d7_97_d7_9c_d7_95_d7_9e_d7_95_d7_aa_d7_99_d7_99__3a0ac074.md
+[23:39:49]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-%d7%97%d7%9c%d7%95%d7%9e%d...
+[23:39:49] [322/687] OK   1p 5o 0f 0r 1ro  (2.77s)
+[23:39:49]           file: nfct_new__blog_movies_d7_91_d7_9c_d7_99-_d7_91_d7_95_d7_a9_d7_94_בלי_בושה__9afae3ce.md
+[23:39:49]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9c%d7%99-%d7%91%d7%95%d7%a9%d7%94/ ...
+[23:39:49] [323/687] OK   1p 2o 0f 0r 0ro  (2.86s)
+[23:39:49]           file: nfct_new__blog_movies_d7_91_d7_9c_d7_95_d7_9e_d7_a4_d7_99_d7_9c_d7_93_בלומפילד__6126bc67.md
+[23:39:49]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9c%d7%95%d7%9e%d7%a4%d7%99%d7%9c%d7...
+[23:39:49] [324/687] OK   7p 1o 4f 1r 12ro  (12.8s)
+[23:39:49]           file: nfct_new__blog_movies_d7_91_d7_99_d7_9f-_d7_94_d7_a9_d7_9e_d7_a9_d7_95_d7_aa__3dea0521.md
+[23:39:49]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%9f-%d7%94%d7%a9%d7%9e%d7%a9%d...
+[23:39:49] [325/687] OK   1p 2o 0f 0r 1ro  (3.55s)
+[23:39:49]           file: nfct_new__blog_movies_d7_91_d7_9b_d7_99_d7_a0_d7_95-_d7_91_d7_9c_d7_99-_d7_93_d7_9e_d7_a2___1028bbbd.md
+[23:39:49]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9b%d7%99%d7%a0%d7%95-%d7%91%d7%9c%d...
+[23:39:50] [326/687] OK   1p 2o 0f 0r 0ro  (1.42s)
+[23:39:50]           file: nfct_new__blog_movies_d7_91_d7_9c_d7_a0_d7_93_בלנד__73681473.md
+[23:39:50]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9c%d7%a0%d7%93/ \"בלנד\
+[23:39:51] [327/687] OK   1p 1o 1f 0r 0ro  (1.71s)
+[23:39:51]           file: nfct_new__blog_movies_d7_91_d7_9f-_d7_93_d7_95_d7_93_בֶּן_דָּוִד__9ae12eed.md
+[23:39:51]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9f-%d7%93%d7%95%d7%93/ \"בֶּן דָּוִד\
+[23:39:51] [328/687] OK   19p 5o 4f 0r 2ro  (7.4s)
+[23:39:51]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-home__f0a57681.md
+[23:39:51]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-home/
+[23:39:51] [329/687] OK   1p 2o 0f 0r 1ro  (2.04s)
+[23:39:51]           file: nfct_new__blog_movies_d7_91_d7_9f-_d7_a9_d7_9c_בן_של__424f50da.md
+[23:39:51]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9f-%d7%a9%d7%9c/ \"בן של\
+[23:39:53] [330/687] OK   1p 2o 0f 1r 1ro  (3.74s)
+[23:39:53]           file: nfct_new__blog_movies_d7_91_d7_9e_d7_98_d7_91_d7_97-_d7_a9_d7_9c-_d7_a4_d7_a8_d7_99_d7_99___c9a093db.md
+[23:39:53]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a9%d7%9c-%...
+[23:39:53] [331/687] OK   1p 1o 1f 1r 0ro  (2.02s)
+[23:39:53]           file: nfct_new__blog_movies_d7_91_d7_a0_d7_99-_d7_93_d7_95_d7_93_d7_99_d7_9d-_d7_9c_d7_a0_d7_a9___4a94f5ca.md
+[23:39:53]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a0%d7%99-%d7%93%d7%95%d7%93%d7%99%d...
+[23:39:53] [332/687] OK   1p 2o 0f 0r 1ro  (2.05s)
+[23:39:53]           file: nfct_new__blog_movies_d7_91_d7_a2_d7_9c-_d7_94_d7_97_d7_9c_d7_95_d7_9e_d7_95_d7_aa_בעל_החל__7c519ab3.md
+[23:39:53]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a2%d7%9c-%d7%94%d7%97%d7%9c%d7%95%d...
+[23:39:53] [333/687] OK   1p 2o 1f 0r 0ro  (9.27s)
+[23:39:53]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa-home_בית_HOME__7c797ecd.md
+[23:39:53]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa-home/ \"בית \\(HOME\\
+[23:39:55] [334/687] OK   1p 3o 0f 0r 1ro  (3.54s)
+[23:39:55]           file: nfct_new__blog_movies_d7_91_d7_a2_d7_99_d7_a0_d7_99_d7_99_d7_9d-_d7_a9_d7_9c_d7_99-_d7_a1___d35b40f4.md
+[23:39:55]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a2%d7%99%d7%a0%d7%99%d7%99%d7%9d-%d...
+[23:39:55] [335/687] OK   7p 1o 4f 0r 0ro  (7.25s)
+[23:39:55]           file: nfct_new__blog_movies_d7_91_d7_9c_d7_a0_d7_93__77c6cffa.md
+[23:39:55]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9c%d7%a0%d7%93/
+[23:39:55] [336/687] OK   1p 2o 0f 0r 1ro  (2.29s)
+[23:39:55]           file: nfct_new__blog_movies_d7_91_d7_a2_d7_9c_d7_95_d7_aa-_d7_91_d7_a8_d7_99_d7_aa_בעלות_ברית__ae637994.md
+[23:39:55]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a2%d7%9c%d7%95%d7%aa-%d7%91%d7%a8%d...
+[23:39:57] [337/687] OK   0p 0o 0f 0r 0ro  (7.37s)
+[23:39:57]           file: nfct_new__blog_movies_d7_91_d7_9e_d7_98_d7_91_d7_97-_d7_a9_d7_9c-_d7_a4_d7_a8_d7_99_d7_99___f3e91b81.md
+[23:39:57]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a9%d7%9c-%...
+[23:39:57] [338/687] OK   1p 3o 0f 0r 1ro  (3.71s)
+[23:39:57]           file: nfct_new__blog_movies_d7_91_d7_a2_d7_9c-_d7_94_d7_97_d7_9c_d7_95_d7_9e_d7_95_d7_aa_לדף_הסר__34c1887d.md
+[23:39:57]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a2%d7%9c-%d7%94%d7%97%d7%9c%d7%95%d...
+[23:39:57] [339/687] OK   1p 2o 1f 0r 0ro  (2.27s)
+[23:39:57]           file: nfct_new__blog_movies_d7_91_d7_a6_d7_a2_d7_93_d7_99_d7_9d-_d7_a7_d7_98_d7_a0_d7_99_d7_9d_ב__c4d14b95.md
+[23:39:57]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a6%d7%a2%d7%93%d7%99%d7%9d-%d7%a7%d...
+[23:39:57] [340/687] OK   9p 2o 4f 0r 0ro  (12.28s)
+[23:39:57]           file: nfct_new__blog_movies_d7_91_d7_99_d7_aa__922c51a9.md
+[23:39:57]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%99%d7%aa/
+[23:39:57] [341/687] OK   0p 0o 0f 0r 0ro  (12.08s)
+[23:39:57]           file: nfct_new__blog_movies_d7_91_d7_9b_d7_99_d7_a0_d7_95-_d7_91_d7_9c_d7_99-_d7_93_d7_9e_d7_a2___056f0612.md
+[23:39:57]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9b%d7%99%d7%a0%d7%95-%d7%91%d7%9c%d...
+[23:39:58] [342/687] OK   1p 2o 0f 0r 0ro  (4.32s)
+[23:39:58]           file: nfct_new__blog_movies_d7_91_d7_a2_d7_a7_d7_91_d7_95_d7_aa-_d7_a7_d7_a0_d7_93_d7_99_d7_a0_d__6eee6f3b.md
+[23:39:58]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a2%d7%a7%d7%91%d7%95%d7%aa-%d7%a7%d...
+[23:39:58] [343/687] OK   3p 15o 1f 4r 4ro  (11.66s)
+[23:39:58]           file: nfct_new__blog_movies_d7_91_d7_9c_d7_99-_d7_91_d7_95_d7_a9_d7_94__28f6fe46.md
+[23:39:58]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9c%d7%99-%d7%91%d7%95%d7%a9%d7%94/
+[23:39:58] [344/687] OK   0p 0o 0f 0r 0ro  (7.83s)
+[23:39:58]           file: nfct_new__blog_movies_d7_91_d7_a0_d7_99-_d7_93_d7_95_d7_93_d7_99_d7_9d-_d7_9c_d7_a0_d7_a9___49a9b8e0.md
+[23:39:58]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a0%d7%99-%d7%93%d7%95%d7%93%d7%99%d...
+[23:39:59] [345/687] OK   1p 2o 0f 0r 0ro  (1.32s)
+[23:39:59]           file: nfct_new__blog_movies_d7_91_d7_a8_d7_a9_ברש__da857b82.md
+[23:39:59]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a8%d7%a9/ \"ברש\
+[23:39:59] [346/687] OK   1p 2o 0f 1r 1ro  (4.16s)
+[23:39:59]           file: nfct_new__blog_movies_d7_91_d7_a7_d7_91_d7_95_d7_a7-_d7_91_d7_9e_d7_a8_d7_aa_d7_a3_בקבוק_ב__f12cabd0.md
+[23:39:59]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a7%d7%91%d7%95%d7%a7-%d7%91%d7%9e%d...
+[23:40:00] [347/687] OK   1p 2o 0f 0r 1ro  (3.22s)
+[23:40:00]           file: nfct_new__blog_movies_d7_91_d7_a7_d7_a6_d7_94-_d7_94_d7_97_d7_9c_d7_95_d7_9f_בקצה_החלון__f8d3a3bd.md
+[23:40:00]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a7%d7%a6%d7%94-%d7%94%d7%97%d7%9c%d...
+[23:40:00] [348/687] OK   1p 2o 0f 0r 0ro  (2.4s)
+[23:40:00]           file: nfct_new__blog_movies_d7_91_d7_a8_d7_9c_d7_94-_d7_91_d7_a8_d7_9c_d7_94_ברלה_ברלה__6e105f4a.md
+[23:40:00]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a8%d7%9c%d7%94-%d7%91%d7%a8%d7%9c%d...
+[23:40:01] [349/687] OK   1p 2o 0f 0r 1ro  (2.84s)
+[23:40:01]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_91_d7_99_d7_9c_d7_99-_d7_94_d7_9d-_d7_99_d7_95_d7_aa___ebccdc8d.md
+[23:40:01]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%91%d7%99%d7%9c%d7%99-%d7%94%d...
+[23:40:01] [350/687] OK   13p 6o 4f 0r 0ro  (11.7s)
+[23:40:01]           file: nfct_new__blog_movies_d7_91_d7_9f__6c79cf13.md
+[23:40:01]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%9f/
+[23:40:01]   --- progress: 350/687 (50.9%)  rate: 155.0/min  eta: 2.2min  cost so far: $0.4293 ---
+[23:40:02] [351/687] OK   5p 2o 1f 0r 0ro  (7.57s)
+[23:40:02]           file: nfct_new__blog_movies_d7_91_d7_a7_d7_91_d7_95_d7_a7-_d7_91_d7_9e_d7_a8_d7_aa_d7_a3__689c6524.md
+[23:40:02]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a7%d7%91%d7%95%d7%a7-%d7%91%d7%9e%d...
+[23:40:02] [352/687] OK   1p 3o 0f 0r 1ro  (2.54s)
+[23:40:02]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9d-_d7_94_d7_90_d7_9c_d7_95_d7_94_d7_99_d7_9d_בשם_האל__2103ac2e.md
+[23:40:02]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9d-%d7%94%d7%90%d7%9c%d7%95%d...
+[23:40:03] [353/687] OK   1p 2o 1f 0r 0ro  (1.94s)
+[23:40:03]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9d-_d7_97_d7_95_d7_9e_d7_aa-_d7_9e_d7_92_d7_9f_בשם_חו__1db12377.md
+[23:40:03]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9d-%d7%97%d7%95%d7%9e%d7%aa-%...
+[23:40:03] [354/687] OK   1p 2o 1f 0r 1ro  (4.24s)
+[23:40:03]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9d-_d7_94_d7_90_d7_91_בשם_האב__0075e278.md
+[23:40:03]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9d-%d7%94%d7%90%d7%91/ \"בשם ...
+[23:40:03] [355/687] OK   1p 2o 0f 0r 1ro  (2.23s)
+[23:40:03]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9e_d7_99_d7_9d-_d7_90_d7_97_d7_a8_d7_99_d7_9d_בשמים_א__437531eb.md
+[23:40:03]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9e%d7%99%d7%9d-%d7%90%d7%97%d...
+[23:40:04] [356/687] OK   7p 2o 4f 0r 0ro  (7.68s)
+[23:40:04]           file: nfct_new__blog_movies_d7_91_d7_a7_d7_a6_d7_94-_d7_94_d7_97_d7_9c_d7_95_d7_9f__c135d4ff.md
+[23:40:04]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a7%d7%a6%d7%94-%d7%94%d7%97%d7%9c%d...
+[23:40:04] [357/687] OK   8p 3o 4f 0r 0ro  (7.45s)
+[23:40:04]           file: nfct_new__blog_movies_d7_91_d7_a8_d7_90_d7_a9_d7_99_d7_aa__896b999f.md
+[23:40:04]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa/
+[23:40:05] [358/687] OK   1p 2o 0f 0r 1ro  (2.38s)
+[23:40:05]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_a0_d7_94-_d7_94_d7_91_d7_90_d7_94-_d7_91_d7_99_d7_a8___e789f58f.md
+[23:40:05]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%a0%d7%94-%d7%94%d7%91%d7%90%d...
+[23:40:05] [359/687] OK   1p 2o 0f 0r 0ro  (1.57s)
+[23:40:05]           file: nfct_new__blog_movies_d7_91_d7_aa-_d7_a9_d7_99_d7_a8_d7_95_d7_aa_בת_שירות__fb531dab.md
+[23:40:05]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/ ...
+[23:40:05] [360/687] OK   1p 2o 0f 0r 1ro  (1.78s)
+[23:40:05]           file: nfct_new__blog_movies_d7_91_d7_aa-_d7_a9_d7_99_d7_a8_d7_95_d7_aa_בת_שירות__127c4b78.md
+[23:40:05]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/ ...
+[23:40:05] [361/687] OK   7p 2o 4f 0r 0ro  (8.08s)
+[23:40:05]           file: nfct_new__blog_movies_d7_91_d7_a8_d7_9c_d7_94-_d7_91_d7_a8_d7_9c_d7_94__6e43d2a8.md
+[23:40:05]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a8%d7%9c%d7%94-%d7%91%d7%a8%d7%9c%d...
+[23:40:06] [362/687] OK   10p 3o 4f 0r 0ro  (7.61s)
+[23:40:06]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9d-_d7_94_d7_90_d7_91__31523c9f.md
+[23:40:06]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9d-%d7%94%d7%90%d7%91/
+[23:40:06] [363/687] OK   13p 2o 4f 0r 0ro  (12.53s)
+[23:40:06]           file: nfct_new__blog_movies_d7_91_d7_a6_d7_a2_d7_93_d7_99_d7_9d-_d7_a7_d7_98_d7_a0_d7_99_d7_9d__6ada29bc.md
+[23:40:06]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a6%d7%a2%d7%93%d7%99%d7%9d-%d7%a7%d...
+[23:40:07] [364/687] OK   1p 2o 0f 0r 0ro  (2.45s)
+[23:40:07]           file: nfct_new__blog_movies_d7_91_d7_aa_d7_95_d7_9a-_d7_91_d7_99_d7_aa_d7_94_בתוך_ביתה__22478a83.md
+[23:40:07]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa%d7%95%d7%9a-%d7%91%d7%99%d7%aa%d...
+[23:40:07] [365/687] OK   10p 9o 4f 0r 1ro  (7.51s)
+[23:40:07]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9d-_d7_94_d7_90_d7_9c_d7_95_d7_94_d7_99_d7_9d__2660f789.md
+[23:40:07]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9d-%d7%94%d7%90%d7%9c%d7%95%d...
+[23:40:07] [366/687] OK   1p 2o 0f 0r 1ro  (2.01s)
+[23:40:07]           file: nfct_new__blog_movies_d7_91_d7_aa_d7_99-_d7_90_d7_aa_בתי_את__d36aa247.md
+[23:40:07]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa%d7%99-%d7%90%d7%aa/ \"בתי את\
+[23:40:07] [367/687] OK   1p 2o 0f 0r 1ro  (2.35s)
+[23:40:07]           file: nfct_new__blog_movies_d7_91_d7_aa_d7_95_d7_9a-_d7_94_d7_a6_d7_99_d7_a0_d7_95_d7_a8_d7_95_d__9918e140.md
+[23:40:07]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa%d7%95%d7%9a-%d7%94%d7%a6%d7%99%d...
+[23:40:08] [368/687] OK   1p 2o 1f 1r 1ro  (2.46s)
+[23:40:08]           file: nfct_new__blog_movies_d7_91_d7_aa_d7_9a-_d7_99_d7_a2_d7_9c_בתך_יעל__cdba17e3.md
+[23:40:08]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa%d7%9a-%d7%99%d7%a2%d7%9c/ \"בתך,...
+[23:40:08] [369/687] OK   4p 3o 1f 0r 0ro  (8.05s)
+[23:40:08]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_9d-_d7_97_d7_95_d7_9e_d7_aa-_d7_9e_d7_92_d7_9f__ed654509.md
+[23:40:08]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%9d-%d7%97%d7%95%d7%9e%d7%aa-%...
+[23:40:08] [370/687] OK   1p 2o 0f 0r 1ro  (3.64s)
+[23:40:08]           file: nfct_new__blog_movies_d7_91_d7_aa_d7_95_d7_9a-_d7_94_d7_a6_d7_99_d7_a0_d7_95_d7_a8_d7_95_d__8d29219b.md
+[23:40:08]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa%d7%95%d7%9a-%d7%94%d7%a6%d7%99%d...
+[23:40:09] [371/687] OK   1p 2o 1f 0r 0ro  (2.09s)
+[23:40:09]           file: nfct_new__blog_movies_d7_92_d7_90_d7_a7-_d7_95_d7_92_d7_98_d7_94_ג_אק_וג_טה__d39f916d.md
+[23:40:09]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%90%d7%a7-%d7%95%d7%92%d7%98%d7%94/ ...
+[23:40:09] [372/687] OK   1p 2o 1f 2r 1ro  (3.32s)
+[23:40:09]           file: nfct_new__blog_movies_d7_92_d7_90_d7_93_d7_95-_d7_a9_d7_95_d7_90_d7_94-_d7_91_d7_9e_d7_93___e93b8590.md
+[23:40:09]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%90%d7%93%d7%95-%d7%a9%d7%95%d7%90%d...
+[23:40:10] [373/687] OK   0p 0o 0f 0r 0ro  (7.31s)
+[23:40:10]           file: nfct_new__blog_movies_d7_91_d7_a9_d7_a0_d7_94-_d7_94_d7_91_d7_90_d7_94-_d7_91_d7_99_d7_a8___65fb3ea8.md
+[23:40:10]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%a9%d7%a0%d7%94-%d7%94%d7%91%d7%90%d...
+[23:40:10] [374/687] OK   1p 2o 0f 0r 1ro  (3.31s)
+[23:40:10]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a2_d7_aa-_d7_94_d7_99_d7_a8_d7_97_גבעת_הירח__ae1d599a.md
+[23:40:10]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a2%d7%aa-%d7%94%d7%99%d7%a8%d...
+[23:40:10] [375/687] OK   8p 3o 1f 0r 0ro  (7.56s)
+[23:40:10]           file: nfct_new__blog_movies_d7_91_d7_aa-_d7_a9_d7_99_d7_a8_d7_95_d7_aa__c81010c5.md
+[23:40:10]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/
+[23:40:11] [376/687] OK   1p 2o 0f 0r 1ro  (3.09s)
+[23:40:11]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a8-_d7_9e_d7_94_d7_a1_d7_a8_d7_98_d7_99_d7_9d_גבר_מהס__8a1b1713.md
+[23:40:11]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a8-%d7%9e%d7%94%d7%a1%d7%a8%d...
+[23:40:11] [377/687] OK   1p 2o 1f 1r 0ro  (2.43s)
+[23:40:11]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a8_d7_99_d7_9d-_d7_91_d7_9c_d7_aa_d7_99-_d7_a0_d7_a8___de2e99fb.md
+[23:40:11]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a8%d7%99%d7%9d-%d7%91%d7%9c%d...
+[23:40:12] [378/687] OK   1p 2o 0f 0r 0ro  (1.7s)
+[23:40:12]           file: nfct_new__blog_movies_d7_92_d7_99_d7_91_d7_95_d7_a8_d7_95_d7_aa_גיבורות__b0af6714.md
+[23:40:12]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%95%d7%aa/ "...
+[23:40:12] [379/687] OK   1p 2o 0f 0r 1ro  (1.87s)
+[23:40:12]           file: nfct_new__blog_movies_d7_92_d7_99_d7_91_d7_95_d7_a8_d7_95_d7_aa_גיבורות__5df85988.md
+[23:40:12]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%95%d7%aa/ \...
+[23:40:12] [380/687] OK   1p 2o 1f 1r 0ro  (2.53s)
+[23:40:12]           file: nfct_new__blog_movies_d7_92_d7_95_d7_9c_d7_93_d7_9f-_d7_9e_d7_a8_d7_92_d7_a8_d7_99_d7_98_ג__78318532.md
+[23:40:12]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%95%d7%9c%d7%93%d7%9f-%d7%9e%d7%a8%d...
+[23:40:12] [381/687] OK   1p 2o 1f 0r 1ro  (3.25s)
+[23:40:12]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a8_d7_99_d7_9d-_d7_a2_d7_9c-_d7_94_d7_a7_d7_a6_d7_94-__d784f783.md
+[23:40:12]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%...
+[23:40:14] [382/687] OK   0p 0o 0f 0r 0ro  (7.65s)
+[23:40:14]           file: nfct_new__blog_movies_d7_92_d7_90_d7_93_d7_95-_d7_a9_d7_95_d7_90_d7_94-_d7_91_d7_9e_d7_93___ed27a3e3.md
+[23:40:14]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%90%d7%93%d7%95-%d7%a9%d7%95%d7%90%d...
+[23:40:14] [383/687] OK   1p 2o 0f 0r 1ro  (1.98s)
+[23:40:14]           file: nfct_new__blog_movies_d7_92_d7_99_d7_9c_d7_95_d7_99-_d7_90_d7_a8_d7_99_d7_95_d7_aa_גילוי_א__a117804c.md
+[23:40:14]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%99%d7%9c%d7%95%d7%99-%d7%90%d7%a8%d...
+[23:40:15] [384/687] OK   10p 3o 4f 0r 6ro  (7.43s)
+[23:40:15]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a8-_d7_9e_d7_94_d7_a1_d7_a8_d7_98_d7_99_d7_9d__d1c29431.md
+[23:40:15]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a8-%d7%9e%d7%94%d7%a1%d7%a8%d...
+[23:40:15] [385/687] OK   1p 2o 1f 2r 0ro  (3.87s)
+[23:40:15]           file: nfct_new__blog_movies_d7_92_d7_99_d7_99_d7_9d-_d7_a6_d7_99_d7_99_d7_a0_d7_92_d7_a8_גיים_צ___d8239203.md
+[23:40:15]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%99%d7%99%d7%9d-%d7%a6%d7%99%d7%99%d...
+[23:40:15] [386/687] OK   0p 0o 0f 0r 0ro  (7.43s)
+[23:40:15]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a8_d7_99_d7_9d-_d7_91_d7_9c_d7_aa_d7_99-_d7_a0_d7_a8___a15891f0.md
+[23:40:15]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a8%d7%99%d7%9d-%d7%91%d7%9c%d...
+[23:40:16] [387/687] OK   1p 2o 0f 0r 1ro  (3.56s)
+[23:40:16]           file: nfct_new__blog_movies_d7_92_d7_9d-_d7_90_d7_9e_d7_94_d7_95_d7_aa-_d7_91_d7_95_d7_9b_d7_95___63708487.md
+[23:40:16]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9d-%d7%90%d7%9e%d7%94%d7%95%d7%aa-%...
+[23:40:17] [388/687] OK   14p 6o 4f 0r 0ro  (12.35s)
+[23:40:17]           file: nfct_new__blog_movies_d7_91_d7_aa_d7_95_d7_9a-_d7_91_d7_99_d7_aa_d7_94__02457442.md
+[23:40:17]           url:  https://nfct.org.il/blog/movies/%d7%91%d7%aa%d7%95%d7%9a-%d7%91%d7%99%d7%aa%d...
+[23:40:17] [389/687] OK   1p 2o 0f 0r 1ro  (2.06s)
+[23:40:17]           file: nfct_new__blog_movies_d7_92_d7_9d-_d7_a1_d7_a9_d7_9f_ג_ם_סשן__7a7bd836.md
+[23:40:17]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9d-%d7%a1%d7%a9%d7%9f/ \"ג'ם סשן\
+[23:40:17] [390/687] OK   1p 2o 1f 0r 0ro  (1.94s)
+[23:40:17]           file: nfct_new__blog_movies_d7_92_d7_9e_d7_99_d7_9c_d7_94-_d7_9b_d7_a9_d7_a8_d7_94_גמילה_כשרה__f5580a5a.md
+[23:40:17]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9e%d7%99%d7%9c%d7%94-%d7%9b%d7%a9%d...
+[23:40:18] [391/687] OK   8p 6o 4f 0r 0ro  (7.3s)
+[23:40:18]           file: nfct_new__blog_movies_d7_92_d7_99_d7_99_d7_9d-_d7_a6_d7_99_d7_99_d7_a0_d7_92_d7_a8__31ff239f.md
+[23:40:18]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%99%d7%99%d7%9d-%d7%a6%d7%99%d7%99%d...
+[23:40:18] [392/687] OK   0p 1o 0f 0r 0ro  (1.11s)
+[23:40:18]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_91_d7_99_d7_9d-_d7_91_d7_97_d7_95_d7_a7_גנבים_בחוק__cb7a4802.md
+[23:40:18]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%91%d7%99%d7%9d-%d7%91%d7%97%d...
+[23:40:19] [393/687] OK   6p 1o 4f 7r 7ro  (6.31s)
+[23:40:19]           file: nfct_new__blog_movies_d7_92_d7_9c_d7_95_d7_aa__8cb97dc2.md
+[23:40:19]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9c%d7%95%d7%aa/
+[23:40:19] [394/687] OK   1p 2o 0f 0r 1ro  (2.0s)
+[23:40:19]           file: nfct_new__blog_movies_d7_92_d7_9f-_d7_99_d7_9c_d7_93_d7_99_d7_9d_גן_ילדים__b3eb1eb7.md
+[23:40:19]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9f-%d7%99%d7%9c%d7%93%d7%99%d7%9d/ ...
+[23:40:19] [395/687] OK   14p 5o 4f 0r 2ro  (12.13s)
+[23:40:19]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a2_d7_aa-_d7_94_d7_99_d7_a8_d7_97__f7756882.md
+[23:40:19]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a2%d7%aa-%d7%94%d7%99%d7%a8%d...
+[23:40:20] [396/687] OK   4p 4o 1f 6r 6ro  (6.18s)
+[23:40:20]           file: nfct_new__blog_movies_d7_92_d7_9d-_d7_a1_d7_a9_d7_9f__74a5cb4b.md
+[23:40:20]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9d-%d7%a1%d7%a9%d7%9f/
+[23:40:21] [397/687] OK   1p 2o 0f 0r 1ro  (1.95s)
+[23:40:21]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_98_d7_99_d7_a7_d7_94_גנטיקה__2c507ff4.md
+[23:40:21]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%98%d7%99%d7%a7%d7%94/ \"גנטיקה\
+[23:40:21] [398/687] OK   1p 3o 1f 0r 1ro  (2.64s)
+[23:40:21]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_92_d7_a1_d7_98_d7_a8-_d7_a9_d7_95_d7_a7_d7_95_d7_9c_d__5e1d1fce.md
+[23:40:21]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%92%d7%a1%d7%98%d7%a8-%d7%a9%d...
+[23:40:21] [399/687] OK   1p 2o 0f 0r 1ro  (2.19s)
+[23:40:21]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_98_d7_99_d7_a7_d7_94_גנטיקה__6941e840.md
+[23:40:21]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%98%d7%99%d7%a7%d7%94/ "גנטיקה
+[23:40:22] [400/687] OK   1p 3o 0f 0r 1ro  (2.0s)
+[23:40:22]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_98_ג_נט__6a6451e4.md
+[23:40:22]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%98/ \"ג'נט\
+[23:40:22]   --- progress: 400/687 (58.2%)  rate: 153.2/min  eta: 1.9min  cost so far: $0.4898 ---
+[23:40:23] [401/687] OK   0p 0o 0f 0r 0ro  (14.01s)
+[23:40:23]           file: nfct_new__blog_movies_d7_92_d7_91_d7_a8_d7_99_d7_9d-_d7_a2_d7_9c-_d7_94_d7_a7_d7_a6_d7_94-__4a13f261.md
+[23:40:23]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%91%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%...
+[23:40:23] [402/687] OK   1p 2o 0f 0r 0ro  (1.91s)
+[23:40:23]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_99-_d7_95_d7_92_d7_a0_d7_99_ג_ני_וג_ני__99c326ae.md
+[23:40:23]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%99-%d7%95%d7%92%d7%a0%d7%99/ ...
+[23:40:24] [403/687] OK   6p 5o 1f 0r 0ro  (7.56s)
+[23:40:24]           file: nfct_new__blog_movies_d7_92_d7_9f-_d7_99_d7_9c_d7_93_d7_99_d7_9d__701a3085.md
+[23:40:24]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9f-%d7%99%d7%9c%d7%93%d7%99%d7%9d/
+[23:40:24] [404/687] OK   1p 2o 1f 1r 1ro  (2.49s)
+[23:40:24]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_99_d7_a4_d7_a8-_d7_94_d7_99_d7_a7_d7_a8_d7_94_ג_ניפר___55ea8cdd.md
+[23:40:24]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%99%d7%a4%d7%a8-%d7%94%d7%99%d...
+[23:40:24] [405/687] OK   11p 6o 4f 0r 0ro  (7.45s)
+[23:40:24]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_91_d7_99_d7_9d-_d7_91_d7_97_d7_95_d7_a7__76ea3846.md
+[23:40:24]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%91%d7%99%d7%9d-%d7%91%d7%97%d...
+[23:40:25] [406/687] OK   1p 2o 0f 0r 1ro  (2.34s)
+[23:40:25]           file: nfct_new__blog_movies_d7_92_d7_a2_d7_92_d7_95_d7_a2-_d7_9c_d7_99_d7_95_d7_9d-_d7_94_d7_9e___05400e2a.md
+[23:40:25]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a2%d7%92%d7%95%d7%a2-%d7%9c%d7%99%d...
+[23:40:26] [407/687] OK   7p 6o 4f 0r 0ro  (13.45s)
+[23:40:26]           file: nfct_new__blog_movies_d7_92_d7_99_d7_9c_d7_95_d7_99-_d7_90_d7_a8_d7_99_d7_95_d7_aa__43a05a33.md
+[23:40:26]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%99%d7%9c%d7%95%d7%99-%d7%90%d7%a8%d...
+[23:40:26] [408/687] OK   1p 2o 0f 0r 1ro  (2.02s)
+[23:40:26]           file: nfct_new__blog_movies_d7_92_d7_a4_d7_99_d7_9c_d7_98_d7_a2-_d7_a4_d7_99_d7_a9_גפילטע_פיש__f42d0edc.md
+[23:40:26]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a4%d7%99%d7%9c%d7%98%d7%a2-%d7%a4%d...
+[23:40:26] [409/687] OK   13p 4o 4f 0r 7ro  (7.38s)
+[23:40:26]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_98_d7_99_d7_a7_d7_94__5f594aaa.md
+[23:40:26]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%98%d7%99%d7%a7%d7%94/
+[23:40:26] [410/687] OK   12p 4o 4f 0r 0ro  (7.99s)
+[23:40:26]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_92_d7_a1_d7_98_d7_a8-_d7_a9_d7_95_d7_a7_d7_95_d7_9c_d__4bc296bb.md
+[23:40:26]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%92%d7%a1%d7%98%d7%a8-%d7%a9%d...
+[23:40:26] [411/687] OK   13p 3o 4f 0r 2ro  (12.6s)
+[23:40:26]           file: nfct_new__blog_movies_d7_92_d7_9d-_d7_90_d7_9e_d7_94_d7_95_d7_aa-_d7_91_d7_95_d7_9b_d7_95___ef51c5d5.md
+[23:40:26]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9d-%d7%90%d7%9e%d7%94%d7%95%d7%aa-%...
+[23:40:27] [412/687] OK   9p 5o 4f 0r 0ro  (12.36s)
+[23:40:27]           file: nfct_new__blog_movies_d7_92_d7_9e_d7_99_d7_9c_d7_94-_d7_9b_d7_a9_d7_a8_d7_94__e18a6ba9.md
+[23:40:27]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%9e%d7%99%d7%9c%d7%94-%d7%9b%d7%a9%d...
+[23:40:28] [413/687] OK   1p 3o 0f 0r 1ro  (2.56s)
+[23:40:28]           file: nfct_new__blog_movies_d7_92_d7_a8_d7_a1_d7_90-_d7_93_d7_99_d7_a0_d7_a7_d7_95_d7_aa_d7_90_ג__7677b588.md
+[23:40:28]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a8%d7%a1%d7%90-%d7%93%d7%99%d7%a0%d...
+[23:40:28] [414/687] OK   8p 11o 4f 0r 0ro  (7.86s)
+[23:40:28]           file: nfct_new__blog_movies_d7_92_d7_a0_d7_99-_d7_95_d7_92_d7_a0_d7_99__736cec7c.md
+[23:40:28]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a0%d7%99-%d7%95%d7%92%d7%a0%d7%99/
+[23:40:29] [415/687] OK   1p 2o 0f 0r 1ro  (3.02s)
+[23:40:29]           file: nfct_new__blog_movies_d7_92_d7_a8_d7_95_d7_a3-_d7_95_d7_90_d7_a0_d7_99_גרוף_ואני__b037616a.md
+[23:40:29]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a8%d7%95%d7%a3-%d7%95%d7%90%d7%a0%d...
+[23:40:29] [416/687] OK   1p 2o 1f 1r 1ro  (2.95s)
+[23:40:29]           file: nfct_new__blog_movies_d7_93_d7_91_d7_99-_d7_94_d7_99_d7_99_d7_aa_d7_94-_d7_a4_d7_94_דבי_הי__d528b9eb.md
+[23:40:29]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%91%d7%99-%d7%94%d7%99%d7%99%d7%aa%d...
+[23:40:29] [417/687] OK   1p 2o 0f 2r 1ro  (3.01s)
+[23:40:29]           file: nfct_new__blog_movies_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_a9_d7_9c-_d7_90_d7_a9_d7_94_דברים___6f722139.md
+[23:40:29]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%a9%d7%9c-%...
+[23:40:30] [418/687] OK   7p 2o 4f 6r 6ro  (6.07s)
+[23:40:30]           file: nfct_new__blog_movies_d7_92_d7_a8_d7_92_d7_99_d7_a8_d7_99_d7_9d__ca32d0ae.md
+[23:40:30]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a8%d7%92%d7%99%d7%a8%d7%99%d7%9d/
+[23:40:30] [419/687] OK   1p 2o 0f 0r 1ro  (2.08s)
+[23:40:30]           file: nfct_new__blog_movies_d7_93_d7_92_d7_9c-_d7_a9_d7_97_d7_95_d7_a8_דגל_שחור__05611973.md
+[23:40:30]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/ ...
+[23:40:31] [420/687] OK   3p 6o 1f 0r 0ro  (7.88s)
+[23:40:31]           file: nfct_new__blog_movies_d7_92_d7_a2_d7_92_d7_95_d7_a2-_d7_9c_d7_99_d7_95_d7_9d-_d7_94_d7_9e___f460be15.md
+[23:40:31]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a2%d7%92%d7%95%d7%a2-%d7%9c%d7%99%d...
+[23:40:31] [421/687] OK   9p 3o 4f 0r 0ro  (7.13s)
+[23:40:31]           file: nfct_new__blog_movies_d7_92_d7_a8_d7_93-_d7_9c_d7_99-_d7_a4_d7_94__b7dd529a.md
+[23:40:31]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a8%d7%93-%d7%9c%d7%99-%d7%a4%d7%94/
+[23:40:32] [422/687] OK   1p 2o 1f 0r 0ro  (2.81s)
+[23:40:32]           file: nfct_new__blog_movies_d7_93_d7_95_d7_91_d7_93_d7_91_d7_9f_דובדבן__e8998bbc.md
+[23:40:32]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f/ \"דובדבן\
+[23:40:33] [423/687] OK   2p 1o 1f 3r 2ro  (4.08s)
+[23:40:33]           file: nfct_new__blog_movies_d7_93_d7_94-_d7_94_d7_90_d7_9f-_d7_a7_d7_95_d7_9c-_d7_9e_d7_97_d7_95__040d43f8.md
+[23:40:33]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%94-%d7%94%d7%90%d7%9f-%d7%a7%d7%95%...
+[23:40:33] [424/687] OK   1p 2o 0f 0r 1ro  (1.79s)
+[23:40:33]           file: nfct_new__blog_movies_d7_93_d7_95_d7_9e_d7_90_דומא__45bdb5e1.md
+[23:40:33]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%9e%d7%90/ \"דומא\
+[23:40:33] [425/687] OK   9p 3o 4f 0r 0ro  (8.05s)
+[23:40:33]           file: nfct_new__blog_movies_d7_92_d7_a8_d7_95_d7_a3-_d7_95_d7_90_d7_a0_d7_99__ebc9d0cc.md
+[23:40:33]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a8%d7%95%d7%a3-%d7%95%d7%90%d7%a0%d...
+[23:40:33] [426/687] OK   1p 2o 1f 1r 1ro  (2.73s)
+[23:40:33]           file: nfct_new__blog_movies_d7_93_d7_95_d7_93_d7_94-_d7_93_d7_99_d7_a0_d7_94_דודה_דינה__77ad13fe.md
+[23:40:33]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%93%d7%94-%d7%93%d7%99%d7%a0%d...
+[23:40:34] [427/687] OK   5p 1o 4f 6r 5ro  (10.78s)
+[23:40:34]           file: nfct_new__blog_movies_d7_92_d7_a4_d7_99_d7_9c_d7_98_d7_a2-_d7_a4_d7_99_d7_a9__ce7fe244.md
+[23:40:34]           url:  https://nfct.org.il/blog/movies/%d7%92%d7%a4%d7%99%d7%9c%d7%98%d7%a2-%d7%a4%d...
+[23:40:34] [428/687] OK   1p 2o 1f 0r 0ro  (1.6s)
+[23:40:34]           file: nfct_new__blog_movies_d7_93_d7_95_d7_9e_d7_99_d7_94_דומיה__d64bb39a.md
+[23:40:34]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%9e%d7%99%d7%94/ \"דומיה\
+[23:40:35] [429/687] OK   1p 2o 1f 0r 1ro  (2.82s)
+[23:40:35]           file: nfct_new__blog_movies_d7_93_d7_95_d7_9e_d7_99_d7_94_דומיה__a90692de.md
+[23:40:35]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%9e%d7%99%d7%94/ "דומיה
+[23:40:35] [430/687] OK   0p 0o 0f 0r 0ro  (7.56s)
+[23:40:35]           file: nfct_new__blog_movies_d7_93_d7_92_d7_9c-_d7_a9_d7_97_d7_95_d7_a8__f5aa5082.md
+[23:40:35]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%92%d7%9c-%d7%a9%d7%97%d7%95%d7%a8/
+[23:40:37] [431/687] OK   1p 2o 1f 0r 0ro  (2.41s)
+[23:40:37]           file: nfct_new__blog_movies_d7_93_d7_99_d7_a1_d7_a4_d7_95_d7_a8_d7_99_d7_94_דיספוריה__80e079a5.md
+[23:40:37]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%a1%d7%a4%d7%95%d7%a8%d7%99%d7...
+[23:40:37] [432/687] OK   10p 6o 4f 0r 9ro  (7.95s)
+[23:40:37]           file: nfct_new__blog_movies_d7_93_d7_95_d7_91_d7_93_d7_91_d7_9f__a573e1c8.md
+[23:40:37]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f/
+[23:40:37] [433/687] OK   12p 3o 4f 0r 0ro  (7.77s)
+[23:40:37]           file: nfct_new__blog_movies_d7_93_d7_95_d7_93-_d7_94_d7_9e_d7_9c_d7_9a-_d7_97_d7_99-_d7_95_d7_a7__4f5b0254.md
+[23:40:37]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%93-%d7%94%d7%9e%d7%9c%d7%9a-%...
+[23:40:37] [434/687] OK   16p 4o 4f 0r 0ro  (7.34s)
+[23:40:37]           file: nfct_new__blog_movies_d7_93_d7_95_d7_93_d7_94-_d7_93_d7_99_d7_a0_d7_94__ec3ab99d.md
+[23:40:37]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%93%d7%94-%d7%93%d7%99%d7%a0%d...
+[23:40:38] [435/687] OK   1p 2o 0f 0r 1ro  (3.1s)
+[23:40:38]           file: nfct_new__blog_movies_d7_93_d7_99_d7_a1_d7_a7_d7_95_דיסקו__40d85348.md
+[23:40:38]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%a1%d7%a7%d7%95/ \"דיסקו\
+[23:40:38] [436/687] OK   1p 2o 0f 0r 0ro  (1.51s)
+[23:40:38]           file: nfct_new__blog_movies_d7_93_d7_99_d7_a4_d7_9c_d7_95_d7_9e_d7_98_דיפלומט__08b9c38f.md
+[23:40:38]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%a4%d7%9c%d7%95%d7%9e%d7%98/ \...
+[23:40:39] [437/687] OK   14p 4o 4f 0r 0ro  (12.65s)
+[23:40:39]           file: nfct_new__blog_movies_d7_93_d7_91_d7_99-_d7_94_d7_99_d7_99_d7_aa_d7_94-_d7_a4_d7_94__f1795dba.md
+[23:40:39]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%91%d7%99-%d7%94%d7%99%d7%99%d7%aa%d...
+[23:40:39] [438/687] OK   2p 2o 1f 5r 5ro  (6.13s)
+[23:40:39]           file: nfct_new__blog_movies_d7_93_d7_97_d7_95_d7_a1__a75a1840.md
+[23:40:39]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%97%d7%95%d7%a1/
+[23:40:39] [439/687] OK   7p 1o 4f 0r 16ro  (7.75s)
+[23:40:39]           file: nfct_new__blog_movies_d7_93_d7_95_d7_9e_d7_99_d7_94__66552f14.md
+[23:40:39]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%95%d7%9e%d7%99%d7%94/
+[23:40:39] [440/687] OK   1p 2o 0f 0r 1ro  (2.16s)
+[23:40:39]           file: nfct_new__blog_movies_d7_93_d7_9d-_d7_95_d7_91_d7_a9_d7_a8_דם_ובשר__10bacd62.md
+[23:40:39]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%9d-%d7%95%d7%91%d7%a9%d7%a8/ \"דם ו...
+[23:40:40] [441/687] OK   1p 2o 0f 0r 1ro  (1.91s)
+[23:40:40]           file: nfct_new__blog_movies_d7_93_d7_9d-_d7_99_d7_a8_d7_97_דם_ירח__67a979e5.md
+[23:40:40]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%9d-%d7%99%d7%a8%d7%97/ \"דם ירח\
+[23:40:40] [442/687] OK   0p 0o 0f 0r 0ro  (7.48s)
+[23:40:40]           file: nfct_new__blog_movies_d7_93_d7_99_d7_9c_d7_9e_d7_aa-_d7_94_d7_93_d7_a8_d7_99_d7_99_d7_9f__1960164c.md
+[23:40:40]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%9c%d7%9e%d7%aa-%d7%94%d7%93%d...
+[23:40:41] [443/687] OK   1p 2o 0f 0r 0ro  (1.61s)
+[23:40:41]           file: nfct_new__blog_movies_d7_93_d7_a4_d7_99_d7_a7_d7_94-_d7_91_d7_93_d7_9c_d7_aa_דפיקה_בדלת__429a0daa.md
+[23:40:41]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a4%d7%99%d7%a7%d7%94-%d7%91%d7%93%d...
+[23:40:41] [444/687] OK   0p 0o 0f 0r 0ro  (7.87s)
+[23:40:41]           file: nfct_new__blog_movies_d7_93_d7_99_d7_9e_d7_95_d7_a0_d7_94-_d7_98_d7_95_d7_95_d7_99_d7_a1_d__3e27e19c.md
+[23:40:41]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%9e%d7%95%d7%a0%d7%94-%d7%98%d...
+[23:40:41] [445/687] OK   1p 3o 0f 0r 1ro  (2.39s)
+[23:40:41]           file: nfct_new__blog_movies_d7_93_d7_a2_d7_aa_d7_95-_d7_a9_d7_9c-_d7_94_d7_97_d7_99_d7_99_d7_9c___5e9f5120.md
+[23:40:41]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a2%d7%aa%d7%95-%d7%a9%d7%9c-%d7%94%...
+[23:40:41] [446/687] OK   0p 1o 0f 0r 0ro  (1.56s)
+[23:40:41]           file: nfct_new__blog_movies_d7_93_d7_a8_d7_9a-_d7_91_d7_9f-_d7_a6_d7_91_d7_99-67_דרך_בן_צבי_67__da378400.md
+[23:40:41]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a8%d7%9a-%d7%91%d7%9f-%d7%a6%d7%91%...
+[23:40:42] [447/687] OK   12p 3o 4f 0r 0ro  (7.97s)
+[23:40:42]           file: nfct_new__blog_movies_d7_93_d7_99_d7_9e_d7_95_d7_a0_d7_94-_d7_a6_d7_9e_d7_a4_d7_99_d7_95_d__6676ef95.md
+[23:40:42]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%9e%d7%95%d7%a0%d7%94-%d7%a6%d...
+[23:40:42] [448/687] OK   1p 2o 0f 0r 1ro  (2.11s)
+[23:40:42]           file: nfct_new__blog_movies_d7_93_d7_a8_d7_9a-_d7_94_d7_9e_d7_9c_d7_9a_דרך_המלך__ff589292.md
+[23:40:42]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a8%d7%9a-%d7%94%d7%9e%d7%9c%d7%9a/ ...
+[23:40:43] [449/687] OK   1p 3o 0f 0r 1ro  (2.37s)
+[23:40:43]           file: nfct_new__blog_movies_d7_93_d7_a9_d7_90_d7_99_d7_9d-_d7_a1_d7_92_d7_95_d7_9c_d7_99_d7_9d_ד__13afebbd.md
+[23:40:43]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a9%d7%90%d7%99%d7%9d-%d7%a1%d7%92%d...
+[23:40:45] [450/687] OK   1p 2o 1f 0r 1ro  (4.02s)
+[23:40:45]           file: nfct_new__blog_movies_d7_94_d6_b8_d7_99_d6_b9_d7_94-_d7_94_d6_b8_d7_99_d6_b8_d7_94-_d7_9e___38c20425.md
+[23:40:45]           url:  https://nfct.org.il/blog/movies/%d7%94%d6%b8%d7%99%d6%b9%d7%94-%d7%94%d6%b8%d...
+[23:40:45]   --- progress: 450/687 (65.5%)  rate: 150.7/min  eta: 1.6min  cost so far: $0.5582 ---
+[23:40:45] [451/687] OK   1p 2o 1f 0r 1ro  (3.68s)
+[23:40:45]           file: nfct_new__blog_movies_d7_94_d6_b8_d7_99_d6_b9_d7_94-_d7_94_d6_b8_d7_99_d6_b8_d7_94-_d7_9e___a8328a36.md
+[23:40:45]           url:  https://nfct.org.il/blog/movies/%d7%94%d6%b8%d7%99%d6%b9%d7%94-%d7%94%d6%b8%d...
+[23:40:46] [452/687] OK   8p 5o 4f 0r 0ro  (8.37s)
+[23:40:46]           file: nfct_new__blog_movies_d7_93_d7_9d-_d7_99_d7_a8_d7_97__795cd356.md
+[23:40:46]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%9d-%d7%99%d7%a8%d7%97/
+[23:40:46] [453/687] OK   13p 5o 4f 0r 0ro  (7.85s)
+[23:40:46]           file: nfct_new__blog_movies_d7_93_d7_a2_d7_aa_d7_95-_d7_a9_d7_9c-_d7_94_d7_97_d7_99_d7_99_d7_9c__09129a48.md
+[23:40:46]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a2%d7%aa%d7%95-%d7%a9%d7%9c-%d7%94%...
+[23:40:46] [454/687] OK   2p 2o 1f 3r 2ro  (4.71s)
+[23:40:46]           file: nfct_new__blog_movies_d7_94_d7_90_d7_91_d7_a8_d7_9a-_d7_9e_d7_94_d7_97_d7_99_d7_96_d7_91_d__3dec9545.md
+[23:40:46]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%91%d7%a8%d7%9a-%d7%9e%d7%94%d...
+[23:40:46] [455/687] OK   7p 6o 4f 0r 0ro  (7.23s)
+[23:40:46]           file: nfct_new__blog_movies_d7_93_d7_a8_d7_9a-_d7_91_d7_9f-_d7_a6_d7_91_d7_99-67__cf154a00.md
+[23:40:46]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a8%d7%9a-%d7%91%d7%9f-%d7%a6%d7%91%...
+[23:40:47] [456/687] OK   14p 2o 4f 0r 0ro  (12.29s)
+[23:40:47]           file: nfct_new__blog_movies_d7_93_d7_99_d7_a1_d7_a7_d7_95__260711b2.md
+[23:40:47]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%a1%d7%a7%d7%95/
+[23:40:47] [457/687] OK   1p 2o 0f 0r 1ro  (2.45s)
+[23:40:47]           file: nfct_new__blog_movies_d7_94_d7_90_d7_95_d7_a8-_d7_94_d7_90_d7_91_d7_95_d7_93-_d7_94_d7_91___d000a30c.md
+[23:40:47]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%95%d7%a8-%d7%94%d7%90%d7%91%d...
+[23:40:48] [458/687] OK   1p 2o 0f 0r 1ro  (2.21s)
+[23:40:48]           file: nfct_new__blog_movies_d7_94_d7_90_d7_97_d7_99_d7_95_d7_aa-_d7_95_d7_9c_d7_93_d7_a8_d7_9e_d__0f7066f0.md
+[23:40:48]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%97%d7%99%d7%95%d7%aa-%d7%95%d...
+[23:40:49] [459/687] OK   11p 6o 4f 0r 0ro  (12.13s)
+[23:40:49]           file: nfct_new__blog_movies_d7_93_d7_99_d7_a4_d7_9c_d7_95_d7_9e_d7_98__5a91033b.md
+[23:40:49]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%99%d7%a4%d7%9c%d7%95%d7%9e%d7%98/
+[23:40:49] [460/687] OK   1p 2o 0f 0r 1ro  (1.96s)
+[23:40:49]           file: nfct_new__blog_movies_d7_94_d7_90_d7_99_d7_a9-_d7_a9_d7_91_d7_a7_d7_99_d7_a8_האיש_שבקיר__13c8c122.md
+[23:40:49]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%99%d7%a9-%d7%a9%d7%91%d7%a7%d...
+[23:40:50] [461/687] OK   1p 2o 0f 0r 1ro  (3.62s)
+[23:40:50]           file: nfct_new__blog_movies_d7_94_d7_90_d7_99_d7_a9-_d7_91_d7_a9_d7_95_d7_9c_d7_99-_d7_94_d7_9b___34fecb88.md
+[23:40:50]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%99%d7%a9-%d7%91%d7%a9%d7%95%d...
+[23:40:50] [462/687] OK   10p 5o 1f 0r 0ro  (7.87s)
+[23:40:50]           file: nfct_new__blog_movies_d7_94_d7_90_d7_91_d7_a8_d7_9a-_d7_9e_d7_94_d7_97_d7_99_d7_96_d7_91_d__78151510.md
+[23:40:50]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%91%d7%a8%d7%9a-%d7%9e%d7%94%d...
+[23:40:51] [463/687] OK   7p 3o 1f 0r 0ro  (12.49s)
+[23:40:51]           file: nfct_new__blog_movies_d7_93_d7_a4_d7_99_d7_a7_d7_94-_d7_91_d7_93_d7_9c_d7_aa__4bb1619b.md
+[23:40:51]           url:  https://nfct.org.il/blog/movies/%d7%93%d7%a4%d7%99%d7%a7%d7%94-%d7%91%d7%93%d...
+[23:40:52] [464/687] OK   1p 2o 0f 0r 0ro  (3.01s)
+[23:40:52]           file: nfct_new__blog_movies_d7_94_d7_90_d7_99_d7_a9_d7_94-_d7_91_d7_9c_d7_91_d7_9f_האישה_בלבן__bd4e6ba5.md
+[23:40:52]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%99%d7%a9%d7%94-%d7%91%d7%9c%d...
+[23:40:52] [465/687] OK   0p 0o 0f 0r 0ro  (7.5s)
+[23:40:52]           file: nfct_new__blog_movies_d7_94_d7_90_d7_97_d7_95-_d7_94_d7_a7_d7_98_d7_9f__8614db63.md
+[23:40:52]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%97%d7%95-%d7%94%d7%a7%d7%98%d...
+[23:40:53] [466/687] OK   1p 2o 0f 0r 1ro  (2.25s)
+[23:40:53]           file: nfct_new__blog_movies_d7_94_d7_90_d7_9d-_d7_96_d7_94-_d7_90_d7_aa_d7_94_האם_זה_אתה__17ddefb2.md
+[23:40:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%9d-%d7%96%d7%94-%d7%90%d7%aa%...
+[23:40:53] [467/687] OK   1p 2o 1f 1r 0ro  (6.08s)
+[23:40:53]           file: nfct_new__blog_movies_d7_94_d7_90_d7_99_d7_a9-_d7_94_d7_a0_d7_a2_d7_9c_d7_9d-_d7_a1_d7_99___aa0a9b45.md
+[23:40:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%99%d7%a9-%d7%94%d7%a0%d7%a2%d...
+[23:40:53] [468/687] OK   1p 2o 0f 1r 1ro  (3.7s)
+[23:40:53]           file: nfct_new__blog_movies_d7_94_d7_90_d7_9d-_d7_90_d7_a0_d7_99-_d7_a0_d7_95_d7_a8_d7_9e_d7_9c___01c91799.md
+[23:40:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%9d-%d7%90%d7%a0%d7%99-%d7%a0%...
+[23:40:53] [469/687] OK   1p 2o 0f 0r 1ro  (1.68s)
+[23:40:53]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a1_d7_99_d7_a8-x_האסיר_X__12e7b444.md
+[23:40:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a1%d7%99%d7%a8-x/ \"האסיר X\
+[23:40:54] [470/687] OK   0p 0o 0f 0r 0ro  (12.57s)
+[23:40:54]           file: nfct_new__blog_movies_d7_94_d6_b8_d7_99_d6_b9_d7_94-_d7_94_d6_b8_d7_99_d6_b8_d7_94-_d7_9e___4b1b0e04.md
+[23:40:54]           url:  https://nfct.org.il/blog/movies/%d7%94%d6%b8%d7%99%d6%b9%d7%94-%d7%94%d6%b8%d...
+[23:40:54] [471/687] OK   1p 2o 0f 0r 0ro  (1.37s)
+[23:40:54]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a7_d7_93_d7_97_האקדח__944ac018.md
+[23:40:54]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a7%d7%93%d7%97/ \"האקדח\
+[23:40:54] [472/687] OK   0p 0o 0f 0r 0ro  (7.37s)
+[23:40:54]           file: nfct_new__blog_movies_d7_94_d7_90_d7_99_d7_a9-_d7_a9_d7_91_d7_a7_d7_99_d7_a8__674b3255.md
+[23:40:54]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%99%d7%a9-%d7%a9%d7%91%d7%a7%d...
+[23:40:55] [473/687] OK   1p 2o 0f 0r 1ro  (2.22s)
+[23:40:55]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a1_d7_99_d7_a8_d7_94-x_האסירה_X__7ccef982.md
+[23:40:55]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a1%d7%99%d7%a8%d7%94-x/ \"האס...
+[23:40:55] [474/687] OK   0p 0o 0f 0r 0ro  (11.75s)
+[23:40:55]           file: nfct_new__blog_movies_d7_94_d7_90_d7_95_d7_a8-_d7_94_d7_90_d7_91_d7_95_d7_93-_d7_94_d7_91___469fef80.md
+[23:40:55]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%95%d7%a8-%d7%94%d7%90%d7%91%d...
+[23:40:55] [475/687] OK   1p 2o 0f 0r 1ro  (2.11s)
+[23:40:55]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a8_d7_a5-_d7_94_d7_9e_d7_95_d7_91_d7_98_d7_97_d7_aa_ה__e1cd14bf.md
+[23:40:55]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a8%d7%a5-%d7%94%d7%9e%d7%95%d...
+[23:40:55] [476/687] OK   0p 1o 0f 0r 0ro  (1.33s)
+[23:40:55]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a9_d7_9b_d7_a0_d7_96_d7_99_d7_9d_האשכנזים__7c290cbf.md
+[23:40:55]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99%d7...
+[23:40:56] [477/687] OK   1p 2o 0f 0r 1ro  (2.12s)
+[23:40:56]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a9_d7_94-_d7_9e_d7_94_d7_a1_d7_99_d7_a0_d7_9e_d7_98_d__680bb583.md
+[23:40:56]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a9%d7%94-%d7%9e%d7%94%d7%a1%d...
+[23:40:56] [478/687] OK   0p 0o 0f 0r 0ro  (7.58s)
+[23:40:56]           file: nfct_new__blog_movies_d7_94_d7_90_d7_99_d7_a9_d7_94-_d7_91_d7_9c_d7_91_d7_9f__bfe172c8.md
+[23:40:56]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%99%d7%a9%d7%94-%d7%91%d7%9c%d...
+[23:40:57] [479/687] OK   1p 1o 1f 1r 0ro  (3.2s)
+[23:40:57]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a9_d7_94-_d7_9e_d7_94_d7_a1_d7_99_d7_a0_d7_9e_d7_98_d__87924c1e.md
+[23:40:57]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a9%d7%94-%d7%9e%d7%94%d7%a1%d...
+[23:40:57] [480/687] OK   1p 2o 0f 0r 1ro  (2.2s)
+[23:40:57]           file: nfct_new__blog_movies_d7_94_d7_91_d7_95_d7_a0_d7_a7_d7_a8_הבונקר__17b7e92f.md
+[23:40:57]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/ \"הבונקר\
+[23:40:57] [481/687] OK   1p 2o 0f 0r 1ro  (2.26s)
+[23:40:57]           file: nfct_new__blog_movies_d7_94_d7_91_d7_99_d7_aa_d7_94_הביתה__48913492.md
+[23:40:57]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%99%d7%aa%d7%94/ \"הביתה\
+[23:40:58] [482/687] OK   1p 2o 0f 0r 1ro  (2.45s)
+[23:40:58]           file: nfct_new__blog_movies_d7_94_d7_91_d7_9c_d7_aa_d7_99-_d7_a0_d7_a8_d7_90_d7_99_d7_9d_הבלתי_נ__9c7c9414.md
+[23:40:58]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%9c%d7%aa%d7%99-%d7%a0%d7%a8%d...
+[23:40:58] [483/687] OK   0p 0o 0f 0r 0ro  (12.46s)
+[23:40:58]           file: nfct_new__blog_movies_d7_94_d7_90_d7_97_d7_95_d7_aa-_d7_a9_d7_9c-_d7_9e_d7_95_d7_a1_d7_95___cc56fb26.md
+[23:40:58]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%97%d7%95%d7%aa-%d7%a9%d7%9c-%...
+[23:40:58] [484/687] OK   0p 0o 0f 0r 0ro  (8.04s)
+[23:40:58]           file: nfct_new__blog_movies_d7_94_d7_90_d7_9d-_d7_96_d7_94-_d7_90_d7_aa_d7_94__d52342c6.md
+[23:40:58]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%9d-%d7%96%d7%94-%d7%90%d7%aa%...
+[23:40:59] [485/687] OK   1p 2o 0f 0r 0ro  (1.94s)
+[23:40:59]           file: nfct_new__blog_movies_d7_94_d7_92_d7_91_d7_a8_d7_aa-_d7_94_d7_a8_d7_90_d7_a9_d7_95_d7_a0_d__ad99e81d.md
+[23:40:59]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%91%d7%a8%d7%aa-%d7%94%d7%a8%d...
+[23:40:59] [486/687] OK   1p 2o 0f 0r 1ro  (3.3s)
+[23:40:59]           file: nfct_new__blog_movies_d7_94_d7_91_d7_a8_d7_9b_d7_94-_d7_a9_d7_9c-_d7_99_d7_90_d7_9e_d7_a0___58c5b8d2.md
+[23:40:59]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%a8%d7%9b%d7%94-%d7%a9%d7%9c-%...
+[23:41:00] [487/687] OK   1p 2o 0f 0r 0ro  (1.88s)
+[23:41:00]           file: nfct_new__blog_movies_d7_94_d7_92_d7_95_d7_a3-_d7_96_d7_95_d7_9b_d7_a8_הגוף_זוכר__4cdb9b42.md
+[23:41:00]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%95%d7%a3-%d7%96%d7%95%d7%9b%d...
+[23:41:00] [488/687] OK   0p 0o 0f 0r 0ro  (7.38s)
+[23:41:00]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a8_d7_95_d7_97_d7_94__df2ca48b.md
+[23:41:00]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a8%d7%95%d7%97%d7%94/
+[23:41:00] [489/687] OK   1p 2o 0f 0r 2ro  (2.21s)
+[23:41:00]           file: nfct_new__blog_movies_d7_94_d7_92_d7_9c_d7_92_d7_95_d7_9c_הגלגול__8962d6ba.md
+[23:41:00]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%9c%d7%92%d7%95%d7%9c/ \"הגלגול\
+[23:41:01] [490/687] OK   1p 2o 0f 0r 1ro  (2.58s)
+[23:41:01]           file: nfct_new__blog_movies_d7_94_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_94_d7_a7_d7_98_d7_a0_d7_99_d__20adabde.md
+[23:41:01]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%94%d...
+[23:41:01] [491/687] OK   1p 2o 0f 0r 1ro  (2.6s)
+[23:41:01]           file: nfct_new__blog_movies_d7_94_d7_92_d7_9f_הגן__928d2797.md
+[23:41:01]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%9f/ \"הגן\
+[23:41:02] [492/687] OK   0p 0o 0f 0r 0ro  (4.89s)
+[23:41:02]           file: nfct_new__blog_movies_d7_94_d7_92_d7_91_d7_a8_d7_aa-_d7_94_d7_a8_d7_90_d7_a9_d7_95_d7_a0_d__a61fcd8d.md
+[23:41:02]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%91%d7%a8%d7%aa-%d7%94%d7%a8%d...
+[23:41:02] [493/687] OK   9p 4o 4f 0r 0ro  (7.69s)
+[23:41:02]           file: nfct_new__blog_movies_d7_94_d7_91_d7_95_d7_a0_d7_a7_d7_a8__92cf870d.md
+[23:41:02]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/
+[23:41:02] [494/687] OK   0p 0o 0f 0r 0ro  (7.54s)
+[23:41:02]           file: nfct_new__blog_movies_d7_94_d7_91_d7_99_d7_98_d7_97_d7_95_d7_a0_d7_99_d7_99_d7_9d__21c304be.md
+[23:41:02]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%a0%d7...
+[23:41:03] [495/687] OK   1p 2o 0f 0r 1ro  (3.13s)
+[23:41:03]           file: nfct_new__blog_movies_d7_94_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_a9_d7_90_d7_a0_d7_97_d7_a0_d__2a310c40.md
+[23:41:03]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%a9%d...
+[23:41:03] [496/687] OK   3p 2o 1f 5r 6ro  (5.49s)
+[23:41:03]           file: nfct_new__blog_movies_d7_94_d7_92_d7_95_d7_a3-_d7_96_d7_95_d7_9b_d7_a8__5065a792.md
+[23:41:03]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%95%d7%a3-%d7%96%d7%95%d7%9b%d...
+[23:41:03] [497/687] OK   9p 4o 4f 0r 0ro  (7.63s)
+[23:41:03]           file: nfct_new__blog_movies_d7_94_d7_91_d7_a9_d7_95_d7_a8_d7_94-_d7_a2_d7_9c-_d7_a4_d7_99-_d7_90__ef903002.md
+[23:41:03]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%91%d7%a9%d7%95%d7%a8%d7%94-%d7%a2%d...
+[23:41:03] [498/687] OK   1p 2o 0f 0r 0ro  (1.99s)
+[23:41:03]           file: nfct_new__blog_movies_d7_94_d7_93_d7_99_d7_99_d7_92-_d7_94_d7_90_d7_97_d7_a8_d7_95_d7_9f-___449d37ff.md
+[23:41:03]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%99%d7%99%d7%92-%d7%94%d7%90%d...
+[23:41:04] [499/687] OK   0p 0o 0f 0r 0ro  (12.61s)
+[23:41:04]           file: nfct_new__blog_movies_d7_94_d7_90_d7_a1_d7_99_d7_a8-x__8cd72269.md
+[23:41:04]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%90%d7%a1%d7%99%d7%a8-x/
+[23:41:04] [500/687] OK   1p 2o 0f 0r 1ro  (2.09s)
+[23:41:04]           file: nfct_new__blog_movies_d7_94_d7_93_d7_99_d7_a8_d7_94_הדירה__799add04.md
+[23:41:04]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%99%d7%a8%d7%94/ \"הדירה\
+[23:41:04]   --- progress: 500/687 (72.8%)  rate: 151.3/min  eta: 1.2min  cost so far: $0.6232 ---
+[23:41:06] [501/687] OK   1p 2o 1f 1r 0ro  (3.0s)
+[23:41:06]           file: nfct_new__blog_movies_d7_94_d7_93_d7_a8-_d7_94_d7_9b_d7_a8_d7_9e_d7_9c_הדר_הכרמל__42873538.md
+[23:41:06]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%a8-%d7%94%d7%9b%d7%a8%d7%9e%d...
+[23:41:06] [502/687] OK   0p 0o 0f 0r 0ro  (2.51s)
+[23:41:06]           file: nfct_new__blog_movies_d7_94_d7_94_d7_a4_d7_9a-_d7_9e_d7_90_d7_94_d7_91_d7_94-_d7_96_d7_95-__726491ff.md
+[23:41:06]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%94%d7%a4%d7%9a-%d7%9e%d7%90%d7%94%d...
+[23:41:06] [503/687] OK   1p 2o 1f 0r 1ro  (2.29s)
+[23:41:06]           file: nfct_new__blog_movies_d7_94_d7_95_d7_9c_d7_9a-_d7_9c_d7_90_d7_97_d7_95_d7_a8_הולך_לאחור__49ab3c03.md
+[23:41:06]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%95%d7%9c%d7%9a-%d7%9c%d7%90%d7%97%d...
+[23:41:07] [504/687] OK   1p 5o 0f 0r 1ro  (3.67s)
+[23:41:07]           file: nfct_new__blog_movies_d7_94_d7_95_d7_92_d7_95-2_הוגו_2__45b2b4ef.md
+[23:41:07]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%95%d7%92%d7%95-2/ \"הוגו 2\
+[23:41:07] [505/687] OK   0p 2o 0f 0r 0ro  (1.19s)
+[23:41:07]           file: nfct_new__blog_movies_d7_94_d7_95_d7_9d-_d7_9e_d7_95_d7_91_d7_99_הום_מובי__73d0216f.md
+[23:41:07]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%95%d7%9d-%d7%9e%d7%95%d7%91%d7%99/ ...
+[23:41:08] [506/687] OK   1p 2o 0f 1r 1ro  (2.46s)
+[23:41:08]           file: nfct_new__blog_movies_d7_94_d7_95_d7_9c_d7_9b_d7_95_d7_aa-_d7_94_d7_91_d7_99_d7_aa_d7_94_ה__f46b0401.md
+[23:41:08]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%95%d7%9c%d7%9b%d7%95%d7%aa-%d7%94%d...
+[23:41:08] [507/687] OK   12p 10o 4f 0r 0ro  (8.03s)
+[23:41:08]           file: nfct_new__blog_movies_d7_94_d7_93_d7_95_d7_9c_d7_a4_d7_99_d7_9f__d919dcfe.md
+[23:41:08]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%95%d7%9c%d7%a4%d7%99%d7%9f/
+[23:41:09] [508/687] OK   1p 1o 1f 1r 0ro  (1.89s)
+[23:41:09]           file: nfct_new__blog_movies_d7_94_d7_97_d7_91_d7_a8-_d7_93_d7_91_החבר_דב__c77758cc.md
+[23:41:09]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%91%d7%a8-%d7%93%d7%91/ \"החבר...
+[23:41:09] [509/687] OK   7p 3o 4f 0r 0ro  (7.91s)
+[23:41:09]           file: nfct_new__blog_movies_d7_94_d7_93_d7_99_d7_99_d7_92-_d7_94_d7_90_d7_97_d7_a8_d7_95_d7_9f-___82644070.md
+[23:41:09]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%99%d7%99%d7%92-%d7%94%d7%90%d...
+[23:41:10] [510/687] OK   1p 2o 0f 0r 1ro  (2.65s)
+[23:41:10]           file: nfct_new__blog_movies_d7_94_d7_97_d7_91_d7_a8-_d7_94_d7_93_d7_9e_d7_99_d7_95_d7_a0_d7_99-___f5b92b21.md
+[23:41:10]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%91%d7%a8-%d7%94%d7%93%d7%9e%d...
+[23:41:10] [511/687] OK   6p 2o 4f 0r 0ro  (11.98s)
+[23:41:10]           file: nfct_new__blog_movies_d7_94_d7_92_d7_9f__6174a08c.md
+[23:41:10]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%92%d7%9f/
+[23:41:10] [512/687] OK   10p 4o 4f 0r 0ro  (7.85s)
+[23:41:10]           file: nfct_new__blog_movies_d7_94_d7_93_d7_a8-_d7_94_d7_9b_d7_a8_d7_9e_d7_9c__b2400bd0.md
+[23:41:10]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%a8-%d7%94%d7%9b%d7%a8%d7%9e%d...
+[23:41:11] [513/687] OK   6p 4o 4f 0r 0ro  (7.74s)
+[23:41:11]           file: nfct_new__blog_movies_d7_94_d7_94_d7_95_d7_a8_d7_99_d7_9d-_d7_a9_d7_9c_d7_99__6c3e390a.md
+[23:41:11]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%94%d7%95%d7%a8%d7%99%d7%9d-%d7%a9%d...
+[23:41:11] [514/687] OK   8p 2o 4f 0r 0ro  (7.36s)
+[23:41:11]           file: nfct_new__blog_movies_d7_94_d7_95_d7_9c_d7_9b_d7_95_d7_aa-_d7_94_d7_91_d7_99_d7_aa_d7_94__b3647356.md
+[23:41:11]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%95%d7%9c%d7%9b%d7%95%d7%aa-%d7%94%d...
+[23:41:11] [515/687] OK   1p 2o 0f 0r 0ro  (1.66s)
+[23:41:11]           file: nfct_new__blog_movies_d7_94_d7_97_d7_95_d7_9c-_d7_95_d7_94_d7_99_d7_9d_החול_והים__8deb8d55.md
+[23:41:11]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%95%d7%9c-%d7%95%d7%94%d7%99%d...
+[23:41:12] [516/687] OK   1p 2o 1f 1r 1ro  (2.78s)
+[23:41:12]           file: nfct_new__blog_movies_d7_94_d7_97_d7_93_d7_a8-_d7_a9_d7_9c-_d7_99_d7_a2_d7_9c_החדר_של_יעל__0601d736.md
+[23:41:12]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%93%d7%a8-%d7%a9%d7%9c-%d7%99%...
+[23:41:13] [517/687] OK   1p 2o 0f 0r 1ro  (2.33s)
+[23:41:13]           file: nfct_new__blog_movies_d7_94_d7_97_d7_95_d7_a3-_d7_94_d7_a0_d7_a4_d7_a8_d7_93_החוף_הנפרד__7cbbb54c.md
+[23:41:13]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%95%d7%a3-%d7%94%d7%a0%d7%a4%d...
+[23:41:13] [518/687] OK   11p 5o 4f 0r 0ro  (12.87s)
+[23:41:13]           file: nfct_new__blog_movies_d7_94_d7_93_d7_95_d7_95_d7_a7_d7_90_d7_99_d7_9d__06cdaba3.md
+[23:41:13]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%95%d7%95%d7%a7%d7%90%d7%99%d7...
+[23:41:13] [519/687] OK   1p 2o 0f 0r 1ro  (1.76s)
+[23:41:13]           file: nfct_new__blog_movies_d7_94_d7_97_d7_99_d7_99_d7_93_d7_a8_החיידר__cbad39ca.md
+[23:41:13]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%99%d7%99%d7%93%d7%a8/ \"החיידר\
+[23:41:13] [520/687] OK   1p 2o 0f 0r 0ro  (1.39s)
+[23:41:13]           file: nfct_new__blog_movies_d7_94_d7_97_d7_99_d7_9c_d7_95_d7_a3_בראשית__5e24ea62.md
+[23:41:13]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%99%d7%9c%d7%95%d7%a3/ \"בראשית\
+[23:41:14] [521/687] OK   9p 8o 4f 0r 0ro  (7.67s)
+[23:41:14]           file: nfct_new__blog_movies_d7_94_d7_96_d7_99_d7_a8_d7_94__f497005b.md
+[23:41:14]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%96%d7%99%d7%a8%d7%94/
+[23:41:14] [522/687] OK   0p 0o 0f 0r 0ro  (12.46s)
+[23:41:14]           file: nfct_new__blog_movies_d7_94_d7_93_d7_99_d7_a8_d7_94__1e605d30.md
+[23:41:14]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%93%d7%99%d7%a8%d7%94/
+[23:41:14] [523/687] OK   0p 2o 0f 0r 0ro  (1.32s)
+[23:41:14]           file: nfct_new__blog_movies_d7_94_d7_97_d7_99_d7_a4_d7_95_d7_a9_d7_99_d7_aa_החיפושית__03ce1e3e.md
+[23:41:14]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%99%d7%a4%d7%95%d7%a9%d7%99%d7...
+[23:41:15] [524/687] OK   3p 6o 1f 0r 0ro  (7.32s)
+[23:41:15]           file: nfct_new__blog_movies_d7_94_d7_97_d7_91_d7_a8-_d7_94_d7_a2_d7_a8_d7_91_d7_99-_d7_a9_d7_9c___5e563d74.md
+[23:41:15]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%91%d7%a8-%d7%94%d7%a2%d7%a8%d...
+[23:41:17] [525/687] OK   9p 3o 4f 0r 0ro  (7.33s)
+[23:41:17]           file: nfct_new__blog_movies_d7_94_d7_97_d7_95_d7_92-_d7_9c_d7_a7_d7_95_d7_9c_d7_a0_d7_95_d7_a2__726c167f.md
+[23:41:17]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%95%d7%92-%d7%9c%d7%a7%d7%95%d...
+[23:41:18] [526/687] OK   7p 4o 4f 0r 0ro  (7.57s)
+[23:41:18]           file: nfct_new__blog_movies_d7_94_d7_97_d7_95_d7_9e_d7_a8-_d7_a9_d7_9e_d7_9e_d7_a0_d7_95-_d7_a2___71c26446.md
+[23:41:18]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%95%d7%9e%d7%a8-%d7%a9%d7%9e%d...
+[23:41:18] [527/687] OK   6p 3o 1f 0r 0ro  (7.37s)
+[23:41:18]           file: nfct_new__blog_movies_d7_94_d7_97_d7_99_d7_99_d7_93_d7_a8__a9201431.md
+[23:41:18]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%99%d7%99%d7%93%d7%a8/
+[23:41:21] [528/687] OK   12p 6o 4f 0r 1ro  (7.83s)
+[23:41:21]           file: nfct_new__blog_movies_d7_94_d7_97_d7_9c_d7_95_d7_9d-_d7_94_d7_90_d7_99_d7_a8_d7_95_d7_a4_d__fcd127ea.md
+[23:41:21]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%9c%d7%95%d7%9d-%d7%94%d7%90%d...
+[23:41:21] [529/687] OK   7p 6o 1f 0r 0ro  (12.95s)
+[23:41:21]           file: nfct_new__blog_movies_d7_94_d7_97_d7_91_d7_a8_d7_95_d7_aa-_d7_9e_d7_a9_d7_9d__766ce85a.md
+[23:41:21]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%91%d7%a8%d7%95%d7%aa-%d7%9e%d...
+[23:41:21] [530/687] OK   7p 4o 1f 0r 0ro  (7.4s)
+[23:41:21]           file: nfct_new__blog_movies_d7_94_d7_98_d7_95_d7_a7_d7_91_d7_a7_d7_99_d7_a1_d7_98_d7_99_d7_9d__1f985066.md
+[23:41:21]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%98%d7%95%d7%a7%d7%91%d7%a7%d7%99%d7...
+[23:41:22] [531/687] OK   0p 0o 0f 0r 0ro  (7.49s)
+[23:41:22]           file: nfct_new__blog_movies_d7_94_d7_98_d7_99_d7_95_d7_9c-_d7_94_d7_a4_d7_a0_d7_99_d7_9e_d7_99__eaf366db.md
+[23:41:22]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%98%d7%99%d7%95%d7%9c-%d7%94%d7%a4%d...
+[23:41:23] [532/687] OK   10p 5o 4f 0r 0ro  (7.41s)
+[23:41:23]           file: nfct_new__blog_movies_d7_94_d7_98_d7_a7_d7_a1__895908f3.md
+[23:41:23]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%98%d7%a7%d7%a1/
+[23:41:23] [533/687] OK   1p 4o 1f 5r 4ro  (6.57s)
+[23:41:23]           file: nfct_new__blog_movies_d7_94_d7_98_d7_a8_d7_99_d7_9c_d7_95_d7_92_d7_99_d7_94-_d7_94_d7_90_d__69b1eb1c.md
+[23:41:23]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%98%d7%a8%d7%99%d7%9c%d7%95%d7%92%d7...
+[23:41:25] [534/687] OK   14p 4o 4f 0r 0ro  (13.12s)
+[23:41:25]           file: nfct_new__blog_movies_d7_94_d7_97_d7_99_d7_9c_d7_95_d7_a3__a3aed441.md
+[23:41:25]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%99%d7%9c%d7%95%d7%a3/
+[23:41:25] [535/687] OK   4p 8o 1f 0r 0ro  (12.48s)
+[23:41:25]           file: nfct_new__blog_movies_d7_94_d7_97_d7_99_d7_a4_d7_95_d7_a9_d7_99_d7_aa__ccde48ad.md
+[23:41:25]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%99%d7%a4%d7%95%d7%a9%d7%99%d7...
+[23:41:25] [536/687] OK   14p 3o 4f 0r 2ro  (7.47s)
+[23:41:25]           file: nfct_new__blog_movies_d7_94_d7_99_d7_9c_d7_93-_d7_a9_d7_9c-_d7_93_d7_99_d7_90_d7_a0_d7_94__7c80904b.md
+[23:41:25]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%99%d7%9c%d7%93-%d7%a9%d7%9c-%d7%93%...
+[23:41:26] [537/687] OK   12p 2o 4f 0r 0ro  (12.57s)
+[23:41:26]           file: nfct_new__blog_movies_d7_94_d7_97_d7_a6_d7_99-_d7_94_d7_a9_d7_a0_d7_99__b9289ca1.md
+[23:41:26]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%97%d7%a6%d7%99-%d7%94%d7%a9%d7%a0%d...
+[23:41:27] [538/687] OK   0p 0o 0f 0r 0ro  (12.56s)
+[23:41:27]           file: nfct_new__blog_movies_d7_94_d7_98_d7_9c_d7_a0_d7_95_d7_91_d7_9c_d7_94-_d7_94_d7_a4_d7_a8_d__b4972995.md
+[23:41:27]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%98%d7%9c%d7%a0%d7%95%d7%91%d7%9c%d7...
+[23:41:28] [539/687] OK   7p 2o 4f 0r 0ro  (7.34s)
+[23:41:28]           file: nfct_new__blog_movies_d7_94_d7_99_d7_a9_d7_a8_d7_93_d7_95_d7_aa-_d7_95_d7_90_d7_9e_d7_a0_d__ab1a7a7c.md
+[23:41:28]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%99%d7%a9%d7%a8%d7%93%d7%95%d7%aa-%d...
+[23:41:29] [540/687] OK   0p 0o 0f 0r 0ro  (7.53s)
+[23:41:29]           file: nfct_new__blog_movies_d7_94_d7_9b_d7_95_d7_91_d7_a2_d7_99_d7_9d-_d7_a9_d7_9c-_d7_99_d7_a8___942b0b80.md
+[23:41:29]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9b%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d...
+[23:41:30] [541/687] OK   7p 1o 4f 0r 0ro  (11.9s)
+[23:41:30]           file: nfct_new__blog_movies_d7_94_d7_99_d7_94-_d7_a0_d7_9b_d7_95_d7_9f__c5d7a57a.md
+[23:41:30]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%99%d7%94-%d7%a0%d7%9b%d7%95%d7%9f/
+[23:41:31] [542/687] OK   0p 0o 0f 0r 0ro  (7.61s)
+[23:41:31]           file: nfct_new__blog_movies_d7_94_d7_9b_d7_97-_d7_9c_d7_a9_d7_97_d7_95_d7_aa__8ff8d343.md
+[23:41:31]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9b%d7%97-%d7%9c%d7%a9%d7%97%d7%95%d...
+[23:41:31] [543/687] OK   11p 2o 4f 0r 0ro  (7.59s)
+[23:41:31]           file: nfct_new__blog_movies_d7_94_d7_9c_d7_94_d7_98_d7_95_d7_98_d7_9f__784988be.md
+[23:41:31]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9c%d7%94%d7%98%d7%95%d7%98%d7%9f/
+[23:41:32] [544/687] OK   14p 7o 4f 0r 0ro  (7.45s)
+[23:41:32]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_93_d7_a8_d7_a9_d7_99_d7_94__e7c33825.md
+[23:41:32]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%93%d7%a8%d7%a9%d7%99%d7%94/
+[23:41:32] [545/687] OK   15p 5o 4f 0r 0ro  (7.39s)
+[23:41:32]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_95_d7_96_d7_99_d7_90_d7_95_d7_9f__429f0b87.md
+[23:41:32]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7...
+[23:41:34] [546/687] OK   0p 0o 0f 0r 0ro  (8.27s)
+[23:41:34]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_95_d7_a1_d7_93-_d7_a1_d7_99_d7_a4_d7_95_d7_a8-_d7_9b___c230f652.md
+[23:41:34]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%95%d7%a1%d7%93-%d7%a1%d7%99%d...
+[23:41:34] [547/687] OK   7p 2o 4f 0r 0ro  (12.74s)
+[23:41:34]           file: nfct_new__blog_movies_d7_94_d7_9b_d7_95_d7_9b_d7_91-_d7_a9_d7_9c-_d7_9e_d7_99_d7_a0_d7_93___3a8a4152.md
+[23:41:34]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9b%d7%95%d7%9b%d7%91-%d7%a9%d7%9c-%...
+[23:41:35] [548/687] OK   0p 0o 0f 0r 0ro  (13.24s)
+[23:41:35]           file: nfct_new__blog_movies_d7_94_d7_9b_d7_95_d7_9b_d7_91_d7_99_d7_9d-_d7_a9_d7_9c-_d7_a9_d7_98___6976669b.md
+[23:41:35]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d-%d...
+[23:41:36] [549/687] OK   4p 12o 1f 0r 0ro  (7.28s)
+[23:41:36]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_97_d7_91_d7_9c-_d7_a9_d7_9c_d7_99__4540b7ba.md
+[23:41:36]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%97%d7%91%d7%9c-%d7%a9%d7%9c%d...
+[23:41:37] [550/687] OK   0p 0o 0f 0r 0ro  (7.39s)
+[23:41:37]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_9c_d7_97_d7_9e_d7_94-_d7_94_d7_90_d7_97_d7_a8_d7_95_d__afc4545c.md
+[23:41:37]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%94%d...
+[23:41:37]   --- progress: 550/687 (80.1%)  rate: 142.7/min  eta: 1.0min  cost so far: $0.7094 ---
+[23:41:38] [551/687] OK   6p 5o 4f 0r 0ro  (12.39s)
+[23:41:38]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_95_d7_97-_d7_94_d7_97_d7_a9_d7_9e_d7_9c_d7_99__cca2fc8e.md
+[23:41:38]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%95%d7%97-%d7%94%d7%97%d7%a9%d...
+[23:41:38] [552/687] OK   0p 0o 0f 0r 0ro  (7.38s)
+[23:41:38]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_9e_d7_9c_d7_9b_d7_94-_d7_94_d7_9e_d7_95_d7_a4_d7_9c_d__b1bee9e9.md
+[23:41:38]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%9e%d7%9c%d7%9b%d7%94-%d7%94%d...
+[23:41:38] [553/687] OK   8p 5o 4f 0r 0ro  (11.79s)
+[23:41:38]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_95_d7_a4_d7_a2-_d7_a9_d7_9c-_d7_aa_d7_99_d7_9e_d7_95___f02b65dd.md
+[23:41:38]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%95%d7%a4%d7%a2-%d7%a9%d7%9c-%...
+[23:41:39] [554/687] OK   11p 6o 4f 0r 0ro  (8.13s)
+[23:41:39]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_9c_d7_9b_d7_94-_d7_a9_d7_95_d7_a9_d7_a0_d7_94__11e390a5.md
+[23:41:39]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%9c%d7%9b%d7%94-%d7%a9%d7%95%d...
+[23:41:40] [555/687] OK   15p 2o 4f 0r 8ro  (7.31s)
+[23:41:40]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_a4_d7_a8_d7_a5__eacaa378.md
+[23:41:40]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%a4%d7%a8%d7%a5/
+[23:41:40] [556/687] OK   0p 0o 0f 0r 0ro  (7.95s)
+[23:41:40]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_a1_d7_a2-_d7_a9_d7_9c-_d7_99_d7_9e_d7_99_d7_9e_d7_94__ef328a34.md
+[23:41:40]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%a1%d7%a2-%d7%a9%d7%9c-%d7%99%...
+[23:41:40] [557/687] OK   0p 0o 0f 0r 0ro  (11.61s)
+[23:41:40]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_97_d7_aa_d7_a8_d7_aa-_d7_94_d7_99_d7_94_d7_95_d7_93_d__c0dc9c56.md
+[23:41:40]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%97%d7%aa%d7%a8%d7%aa-%d7%94%d...
+[23:41:42] [558/687] OK   10p 6o 4f 0r 0ro  (7.75s)
+[23:41:42]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_a4_d7_aa_d7_97__0c8ec044.md
+[23:41:42]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%a4%d7%aa%d7%97/
+[23:41:44] [559/687] OK   11p 6o 4f 0r 0ro  (7.92s)
+[23:41:44]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_a8_d7_93-_d7_a9_d7_9c-_d7_a2_d7_9e_d7_95_d7_a1__b7e02850.md
+[23:41:44]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%a8%d7%93-%d7%a9%d7%9c-%d7%a2%...
+[23:41:45] [560/687] OK   0p 0o 0f 0r 0ro  (7.8s)
+[23:41:45]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_aa_d7_a0_d7_97_d7_9c_d7_99_d7_9d__0e54e8a4.md
+[23:41:45]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%aa%d7%a0%d7%97%d7%9c%d7%99%d7...
+[23:41:46] [561/687] OK   0p 0o 0f 0r 0ro  (7.63s)
+[23:41:46]           file: nfct_new__blog_movies_d7_94_d7_a0_d7_96_d7_99_d7_a8-_d7_9e_d7_90_d7_a8_d7_a5-_d7_94_d7_a7___4f46ac28.md
+[23:41:46]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a0%d7%96%d7%99%d7%a8-%d7%9e%d7%90%d...
+[23:41:46] [562/687] OK   0p 0o 0f 0r 0ro  (7.33s)
+[23:41:46]           file: nfct_new__blog_movies_d7_94_d7_a0_d7_a1_d7_99_d7_9a-_d7_94_d7_99_d7_a8_d7_95_d7_a7__e218e280.md
+[23:41:46]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a0%d7%a1%d7%99%d7%9a-%d7%94%d7%99%d...
+[23:41:46] [563/687] OK   7p 2o 4f 6r 8ro  (12.44s)
+[23:41:46]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_a6_d7_91-_d7_a7_d7_a9_d7_94__0c861410.md
+[23:41:46]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%a6%d7%91-%d7%a7%d7%a9%d7%94/
+[23:41:47] [564/687] OK   13p 3o 4f 0r 0ro  (7.95s)
+[23:41:47]           file: nfct_new__blog_movies_d7_94_d7_a1_d7_95_d7_93-_d7_a9_d7_9c-_d7_a8_d7_a9_d7_91_d7_99__19d5e2d0.md
+[23:41:47]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a1%d7%95%d7%93-%d7%a9%d7%9c-%d7%a8%...
+[23:41:47] [565/687] OK   4p 2o 1f 7r 6ro  (8.89s)
+[23:41:47]           file: nfct_new__blog_movies_d7_94_d7_a0_d7_a1_d7_99_d7_a2_d7_94__6224e103.md
+[23:41:47]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a0%d7%a1%d7%99%d7%a2%d7%94/
+[23:41:47] [566/687] OK   0p 0o 0f 0r 0ro  (12.56s)
+[23:41:47]           file: nfct_new__blog_movies_d7_94_d7_9e_d7_a7_d7_95_d7_9c_d7_9c_d7_99_d7_9d__178cafd1.md
+[23:41:47]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%9e%d7%a7%d7%95%d7%9c%d7%9c%d7%99%d7...
+[23:41:47] [567/687] OK   11p 3o 4f 0r 10ro  (7.56s)
+[23:41:47]           file: nfct_new__blog_movies_d7_94_d7_a4_d7_95_d7_90_d7_99_d7_94__da34e667.md
+[23:41:47]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a4%d7%95%d7%90%d7%99%d7%94/
+[23:41:48] [568/687] OK   9p 5o 4f 0r 0ro  (7.78s)
+[23:41:48]           file: nfct_new__blog_movies_d7_94_d7_a4_d7_98_d7_a8_d7_99_d7_90_d7_9a__d6f791d4.md
+[23:41:48]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a4%d7%98%d7%a8%d7%99%d7%90%d7%9a/
+[23:41:51] [569/687] OK   6p 3o 4f 0r 0ro  (7.56s)
+[23:41:51]           file: nfct_new__blog_movies_d7_94_d7_a4_d7_a1_d7_a7_d7_aa-_d7_a7_d7_a4_d7_94__1e75b378.md
+[23:41:51]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a4%d7%a1%d7%a7%d7%aa-%d7%a7%d7%a4%d...
+[23:41:51] [570/687] OK   12p 3o 4f 0r 13ro  (11.66s)
+[23:41:51]           file: nfct_new__blog_movies_d7_94_d7_a1_d7_a4_d7_94__184daf81.md
+[23:41:51]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a1%d7%a4%d7%94/
+[23:41:52] [571/687] OK   6p 1o 5f 7r 5ro  (6.91s)
+[23:41:52]           file: nfct_new__blog_movies_d7_94_d7_a4_d7_a8_d7_a9_d7_a0_d7_99_d7_aa__5700adc7.md
+[23:41:52]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a4%d7%a8%d7%a9%d7%a0%d7%99%d7%aa/
+[23:41:53] [572/687] OK   5p 1o 4f 6r 5ro  (6.41s)
+[23:41:53]           file: nfct_new__blog_movies_d7_94_d7_a6_d7_a2_d7_a7_d7_94__a401ef22.md
+[23:41:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a6%d7%a2%d7%a7%d7%94/
+[23:41:53] [573/687] OK   6p 3o 4f 0r 0ro  (7.75s)
+[23:41:53]           file: nfct_new__blog_movies_d7_94_d7_a6_d7_9c-_d7_a9_d7_9c-_d7_94_d7_a9_d7_9e_d7_a9__9e2e0ab9.md
+[23:41:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a6%d7%9c-%d7%a9%d7%9c-%d7%94%d7%a9%...
+[23:41:53] [574/687] OK   8p 10o 1f 0r 0ro  (7.86s)
+[23:41:53]           file: nfct_new__blog_movies_d7_94_d7_a6_d7_9c_d7_9e_d7_a0_d7_99_d7_94__8f1903d1.md
+[23:41:53]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a6%d7%9c%d7%9e%d7%a0%d7%99%d7%94/
+[23:41:54] [575/687] OK   16p 3o 4f 0r 0ro  (12.13s)
+[23:41:54]           file: nfct_new__blog_movies_d7_94_d7_a4_d7_a1_d7_a7_d7_aa-_d7_90_d7_a9__c6a9e0a1.md
+[23:41:54]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a4%d7%a1%d7%a7%d7%aa-%d7%90%d7%a9/
+[23:41:54] [576/687] OK   6p 3o 1f 0r 0ro  (7.49s)
+[23:41:54]           file: nfct_new__blog_movies_d7_94_d7_a7_d7_91_d7_a8_d7_a0_d7_99_d7_98_d7_99_d7_9d__df9058a1.md
+[23:41:54]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a7%d7%91%d7%a8%d7%a0%d7%99%d7%98%d7...
+[23:41:55] [577/687] OK   6p 6o 4f 0r 0ro  (7.52s)
+[23:41:55]           file: nfct_new__blog_movies_d7_94_d7_a7_d7_99_d7_a8__a8bb4dc6.md
+[23:41:55]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a7%d7%99%d7%a8/
+[23:41:55] [578/687] OK   7p 2o 4f 0r 3ro  (7.83s)
+[23:41:55]           file: nfct_new__blog_movies_d7_94_d7_a8_d7_90_d7_a9-_d7_94_d7_99_d7_94_d7_95_d7_93_d7_99-_d7_9e___b1301b8e.md
+[23:41:55]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a8%d7%90%d7%a9-%d7%94%d7%99%d7%94%d...
+[23:41:56] [579/687] OK   14p 3o 4f 0r 0ro  (8.12s)
+[23:41:56]           file: nfct_new__blog_movies_d7_94_d7_a7_d7_a8_d7_91-_d7_a2_d7_9c-_d7_aa_d7_9c-_d7_97_d7_99__11ed56cc.md
+[23:41:56]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a7%d7%a8%d7%91-%d7%a2%d7%9c-%d7%aa%...
+[23:41:56] [580/687] OK   11p 6o 4f 0r 8ro  (7.5s)
+[23:41:56]           file: nfct_new__blog_movies_d7_94_d7_a8_d7_95_d7_a2_d7_94__49311612.md
+[23:41:56]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a8%d7%95%d7%a2%d7%94/
+[23:41:59] [581/687] OK   12p 2o 4f 0r 10ro  (7.56s)
+[23:41:59]           file: nfct_new__blog_movies_d7_94_d7_a8_d7_96-_d7_a9_d7_9c_d7_99__a75b5df0.md
+[23:41:59]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a8%d7%96-%d7%a9%d7%9c%d7%99/
+[23:41:59] [582/687] OK   12p 3o 4f 0r 10ro  (7.35s)
+[23:41:59]           file: nfct_new__blog_movies_d7_94_d7_a8_d7_97_d7_91_d7_94__b063a54e.md
+[23:41:59]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a8%d7%97%d7%91%d7%94/
+[23:41:59] [583/687] OK   0p 0o 0f 0r 0ro  (7.31s)
+[23:41:59]           file: nfct_new__blog_movies_d7_94_d7_a9_d7_97_d7_99_d7_99_d7_9f__dc6170f4.md
+[23:41:59]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a9%d7%97%d7%99%d7%99%d7%9f/
+[23:41:59] [584/687] OK   0p 0o 0f 0r 0ro  (6.48s)
+[23:41:59]           file: nfct_new__blog_movies_d7_94_d7_a9_d7_99_d7_a2_d7_95_d7_a8-_d7_a9_d7_9c-_d7_a0_d7_99_d7_a0___32e22750.md
+[23:41:59]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a9%d7%99%d7%a2%d7%95%d7%a8-%d7%a9%d...
+[23:42:01] [585/687] OK   0p 0o 0f 0r 0ro  (7.53s)
+[23:42:01]           file: nfct_new__blog_movies_d7_94_d7_aa_d7_97_d7_9c-_d7_9e_d7_a9_d7_97_d7_a7-_d7_97_d7_93_d7_a9__04288f99.md
+[23:42:01]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%aa%d7%97%d7%9c-%d7%9e%d7%a9%d7%97%d...
+[23:42:01] [586/687] OK   7p 4o 1f 0r 0ro  (7.49s)
+[23:42:01]           file: nfct_new__blog_movies_d7_95_d7_90_d7_a0_d7_99-_d7_94_d7_99_d7_99_d7_aa_d7_99-_d7_a9_d7_9d__91bef803.md
+[23:42:01]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%90%d7%a0%d7%99-%d7%94%d7%99%d7%99%d...
+[23:42:02] [587/687] OK   4p 10o 1f 7r 4ro  (7.51s)
+[23:42:02]           file: nfct_new__blog_movies_d7_95_d7_92_d7_91_d7_95_d7_9c-_d7_a0_d7_aa_d7_9f__647c05bd.md
+[23:42:02]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%92%d7%91%d7%95%d7%9c-%d7%a0%d7%aa%d...
+[23:42:03] [588/687] OK   6p 1o 4f 7r 6ro  (7.97s)
+[23:42:03]           file: nfct_new__blog_movies_d7_95_d7_96_d7_a8_d7_97-_d7_94_d7_a9_d7_9e_d7_a9__6c13af2a.md
+[23:42:03]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%96%d7%a8%d7%97-%d7%94%d7%a9%d7%9e%d...
+[23:42:03] [589/687] OK   0p 0o 0f 0r 0ro  (7.39s)
+[23:42:03]           file: nfct_new__blog_movies_d7_95_d7_99_d7_94_d7_99-_d7_a2_d7_a8_d7_91-_d7_95_d7_99_d7_94_d7_99-__34e81e8f.md
+[23:42:03]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%99%d7%94%d7%99-%d7%a2%d7%a8%d7%91-%...
+[23:42:03] [590/687] OK   0p 0o 0f 0r 0ro  (7.81s)
+[23:42:03]           file: nfct_new__blog_movies_d7_95_d7_99_d7_98_d7_94-_d7_90_d7_a7_d7_98_d7_99_d7_91_d7_94-_d7_91___74dae15d.md
+[23:42:03]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%99%d7%98%d7%94-%d7%90%d7%a7%d7%98%d...
+[23:42:06] [591/687] OK   10p 4o 4f 0r 5ro  (12.3s)
+[23:42:06]           file: nfct_new__blog_movies_d7_94_d7_a9_d7_a8_d7_a9_d7_a8_d7_aa-_d7_a9_d7_9c-_d7_a4_d7_a1_d7_99___41f15a5d.md
+[23:42:06]           url:  https://nfct.org.il/blog/movies/%d7%94%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a9%d...
+[23:42:06] [592/687] OK   11p 6o 4f 0r 7ro  (7.72s)
+[23:42:06]           file: nfct_new__blog_movies_d7_95_d7_99_d7_a8_d7_90_d7_9c_d7_99__c5863af6.md
+[23:42:06]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%99%d7%a8%d7%90%d7%9c%d7%99/
+[23:42:07] [593/687] OK   0p 0o 0f 0r 0ro  (7.76s)
+[23:42:07]           file: nfct_new__blog_movies_d7_96_d7_94_d7_91-_d7_a9_d7_97_d7_95_d7_a8-_d7_94_d7_a1_d7_99_d7_a4___ec7213ba.md
+[23:42:07]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%94%d7%91-%d7%a9%d7%97%d7%95%d7%a8-%...
+[23:42:07] [594/687] OK   10p 5o 4f 0r 0ro  (8.08s)
+[23:42:07]           file: nfct_new__blog_movies_d7_96_d7_95_d7_a0_d7_94-_d7_9b_d7_9e_d7_95_d7_a0_d7_99__3b9dd510.md
+[23:42:07]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%95%d7%a0%d7%94-%d7%9b%d7%9e%d7%95%d...
+[23:42:09] [595/687] OK   8p 2o 4f 0r 0ro  (7.88s)
+[23:42:09]           file: nfct_new__blog_movies_d7_96_d7_99_d7_9b_d7_a8_d7_95_d7_a0_d7_95_d7_aa-_d7_a9_d7_98_d7_95_d__3755990c.md
+[23:42:09]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%99%d7%9b%d7%a8%d7%95%d7%a0%d7%95%d7...
+[23:42:09] [596/687] OK   7p 2o 4f 0r 0ro  (7.27s)
+[23:42:09]           file: nfct_new__blog_movies_d7_96_d7_9e_d7_9f-_d7_90_d7_99_d7_a9_d7_94__5709df9a.md
+[23:42:09]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%9e%d7%9f-%d7%90%d7%99%d7%a9%d7%94/
+[23:42:09] [597/687] OK   0p 0o 0f 0r 0ro  (7.54s)
+[23:42:09]           file: nfct_new__blog_movies_d7_96_d7_9e_d7_9f-_d7_90_d7_99_d7_9b_d7_95_d7_aa__0eb2c0c9.md
+[23:42:09]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%9e%d7%9f-%d7%90%d7%99%d7%9b%d7%95%d...
+[23:42:09] [598/687] OK   11p 3o 4f 0r 0ro  (13.62s)
+[23:42:09]           file: nfct_new__blog_movies_d7_95_d7_99_d7_94-_d7_93_d7_9c_d7_a8_d7_95_d7_96_d7_94__01a7887a.md
+[23:42:09]           url:  https://nfct.org.il/blog/movies/%d7%95%d7%99%d7%94-%d7%93%d7%9c%d7%a8%d7%95%d...
+[23:42:11] [599/687] OK   0p 0o 0f 0r 0ro  (7.74s)
+[23:42:11]           file: nfct_new__blog_movies_d7_96_d7_a2_d7_a7_d7_95_d7_aa-_d7_95_d7_90_d7_96-_d7_a9_d7_aa_d7_99___6022d0aa.md
+[23:42:11]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%a2%d7%a7%d7%95%d7%aa-%d7%95%d7%90%d...
+[23:42:11] [600/687] OK   0p 0o 0f 0r 0ro  (7.79s)
+[23:42:11]           file: nfct_new__blog_movies_d7_97_d7_93_d7_a9_d7_95_d7_aa-_d7_9e_d7_94_d7_91_d7_99_d7_aa__83d6a5c3.md
+[23:42:11]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%9e%d7%94%d...
+[23:42:11]   --- progress: 600/687 (87.3%)  rate: 135.6/min  eta: 0.6min  cost so far: $0.8139 ---
+[23:42:12] [601/687] OK   8p 10o 4f 0r 0ro  (12.66s)
+[23:42:12]           file: nfct_new__blog_movies_d7_96_d7_95-_d7_94_d7_90_d7_a8_d7_a5-_d7_a9_d7_9c_d7_99__44b20270.md
+[23:42:12]           url:  https://nfct.org.il/blog/movies/%d7%96%d7%95-%d7%94%d7%90%d7%a8%d7%a5-%d7%a9%...
+[23:42:14] [602/687] OK   13p 8o 4f 0r 0ro  (7.45s)
+[23:42:14]           file: nfct_new__blog_movies_d7_97_d7_95_d7_96_d7_a8_d7_aa__ffcaf4fb.md
+[23:42:14]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%95%d7%96%d7%a8%d7%aa/
+[23:42:15] [603/687] OK   9p 2o 4f 0r 0ro  (7.95s)
+[23:42:15]           file: nfct_new__blog_movies_d7_97_d7_95_d7_a3-_d7_94_d7_9e_d7_95_d7_a2_d7_93__63163e6e.md
+[23:42:15]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%95%d7%a3-%d7%94%d7%9e%d7%95%d7%a2%d...
+[23:42:16] [604/687] OK   13p 4o 4f 0r 2ro  (7.54s)
+[23:42:16]           file: nfct_new__blog_movies_d7_97_d7_95_d7_a4_d7_a9_d7_94-_d7_9c_d7_94_d7_95_d7_95_d7_90_d7_99__281a5a9c.md
+[23:42:16]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%95%d7%a4%d7%a9%d7%94-%d7%9c%d7%94%d...
+[23:42:17] [605/687] OK   7p 6o 1f 0r 8ro  (7.63s)
+[23:42:17]           file: nfct_new__blog_movies_d7_97_d7_96_d7_99_d7_a8-_d7_91_d7_90_d7_a8_d7_a5-_d7_94_d7_a7_d7_95___0273984b.md
+[23:42:17]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%96%d7%99%d7%a8-%d7%91%d7%90%d7%a8%d...
+[23:42:17] [606/687] OK   7p 2o 4f 0r 0ro  (13.69s)
+[23:42:17]           file: nfct_new__blog_movies_d7_97_d7_93_d7_a8-_d7_a9_d7_99_d7_a0_d7_94__1c595d1b.md
+[23:42:17]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%93%d7%a8-%d7%a9%d7%99%d7%a0%d7%94/
+[23:42:17] [607/687] OK   0p 0o 0f 0r 0ro  (7.9s)
+[23:42:17]           file: nfct_new__blog_movies_d7_97_d7_99_d7_99_d7_94-_d7_95_d7_9e_d7_95_d7_aa_d7_94-_d7_a9_d7_9c-__58548ba2.md
+[23:42:17]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%99%d7%99%d7%94-%d7%95%d7%9e%d7%95%d...
+[23:42:17] [608/687] OK   9p 2o 4f 0r 0ro  (8.57s)
+[23:42:17]           file: nfct_new__blog_movies_d7_97_d7_99_d7_91_d7_95_d7_a7-_d7_93_d7_95_d7_91-2__1e9fd066.md
+[23:42:17]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%99%d7%91%d7%95%d7%a7-%d7%93%d7%95%d...
+[23:42:18] [609/687] OK   11p 3o 4f 0r 0ro  (12.5s)
+[23:42:18]           file: nfct_new__blog_movies_d7_97_d7_95_d7_95_d7_aa-_d7_94_d7_97_d7_95_d7_a4_d7_a9-_d7_a2_d7_95___3d6b8565.md
+[23:42:18]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%97%d7%95%d...
+[23:42:19] [610/687] OK   7p 3o 4f 0r 0ro  (8.02s)
+[23:42:19]           file: nfct_new__blog_movies_d7_97_d7_99_d7_99_d7_9d-_d7_a9_d7_91_d7_a6_d7_9c_d7_97_d7_aa__d087ee30.md
+[23:42:19]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%99%d7%99%d7%9d-%d7%a9%d7%91%d7%a6%d...
+[23:42:19] [611/687] OK   12p 5o 4f 0r 0ro  (7.88s)
+[23:42:19]           file: nfct_new__blog_movies_d7_97_d7_99_d7_99_d7_9d-_d7_a9_d7_a0_d7_99_d7_99_d7_9d__855e7a21.md
+[23:42:19]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%99%d7%99%d7%9d-%d7%a9%d7%a0%d7%99%d...
+[23:42:19] [612/687] OK   4p 6o 1f 0r 0ro  (12.77s)
+[23:42:19]           file: nfct_new__blog_movies_d7_97_d7_95_d7_9c_d7_aa-_d7_a8_d7_93_d7_99_d7_95__a7fc7892.md
+[23:42:19]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%95%d7%9c%d7%aa-%d7%a8%d7%93%d7%99%d...
+[23:42:21] [613/687] OK   3p 4o 1f 8r 4ro  (5.5s)
+[23:42:21]           file: nfct_new__blog_movies_d7_97_d7_a6_d7_99__056b8fdb.md
+[23:42:21]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%a6%d7%99/
+[23:42:21] [614/687] OK   12p 3o 4f 0r 0ro  (7.38s)
+[23:42:21]           file: nfct_new__blog_movies_d7_97_d7_a6_d7_99-_d7_98_d7_95_d7_9f-_d7_91_d7_a8_d7_95_d7_a0_d7_96___844c46e1.md
+[23:42:21]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%a6%d7%99-%d7%98%d7%95%d7%9f-%d7%91%...
+[23:42:24] [615/687] OK   10p 3o 4f 0r 0ro  (7.68s)
+[23:42:24]           file: nfct_new__blog_movies_d7_97_d7_a6_d7_a8-_d7_9e_d7_a9_d7_97_d7_a7_d7_99_d7_9d__ed017f5c.md
+[23:42:24]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%a6%d7%a8-%d7%9e%d7%a9%d7%97%d7%a7%d...
+[23:42:24] [616/687] OK   0p 0o 0f 0r 0ro  (7.62s)
+[23:42:24]           file: nfct_new__blog_movies_d7_98_d7_94_d7_95_d7_a8_d7_94__e13e59b3.md
+[23:42:24]           url:  https://nfct.org.il/blog/movies/%d7%98%d7%94%d7%95%d7%a8%d7%94/
+[23:42:24] [617/687] OK   11p 4o 4f 0r 0ro  (12.53s)
+[23:42:24]           file: nfct_new__blog_movies_d7_97_d7_99_d7_9c_d7_95_d7_a3-_d7_97_d7_95_d7_9e_d7_a8_d7_99_d7_9d__af3e0575.md
+[23:42:24]           url:  https://nfct.org.il/blog/movies/%d7%97%d7%99%d7%9c%d7%95%d7%a3-%d7%97%d7%95%d...
+[23:42:24] [618/687] OK   7p 3o 4f 0r 0ro  (7.66s)
+[23:42:24]           file: nfct_new__blog_movies_d7_98_d7_99_d7_a4_d7_95_d7_9c-_d7_91_d7_9e_d7_a9_d7_91_d7_a8__a93f1ac9.md
+[23:42:24]           url:  https://nfct.org.il/blog/movies/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%9e%d...
+[23:42:25] [619/687] OK   14p 4o 4f 0r 0ro  (7.76s)
+[23:42:25]           file: nfct_new__blog_movies_d7_98_d7_9e_d7_90_d7_99_d7_9d__82b3f77e.md
+[23:42:25]           url:  https://nfct.org.il/blog/movies/%d7%98%d7%9e%d7%90%d7%99%d7%9d/
+[23:42:25] [620/687] OK   0p 0o 0f 0r 0ro  (7.39s)
+[23:42:25]           file: nfct_new__blog_movies_d7_99_d7_95_d7_90_d7_9c-_d7_99_d7_a9_d7_a8_d7_90_d7_9c-_d7_95_d7_94___ef51af6e.md
+[23:42:25]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%95%d7%90%d7%9c-%d7%99%d7%a9%d7%a8%d...
+[23:42:26] [621/687] OK   16p 4o 1f 0r 0ro  (7.68s)
+[23:42:26]           file: nfct_new__blog_movies_d7_99_d7_95_d7_9e_d7_9f-_d7_93_d7_99_d7_92_d7_99_d7_98_d7_9c_d7_99__515ca255.md
+[23:42:26]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%95%d7%9e%d7%9f-%d7%93%d7%99%d7%92%d...
+[23:42:27] [622/687] OK   5p 4o 1f 0r 0ro  (7.57s)
+[23:42:27]           file: nfct_new__blog_movies_d7_99_d7_95_d7_a1_d7_a3-_d7_95_d7_9e_d7_a8_d7_99_d7_94__a721f4ad.md
+[23:42:27]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%95%d7%a1%d7%a3-%d7%95%d7%9e%d7%a8%d...
+[23:42:27] [623/687] OK   4p 2o 1f 0r 0ro  (7.81s)
+[23:42:27]           file: nfct_new__blog_movies_d7_99_d7_95_d7_9e_d7_9f-_d7_aa_d7_a6_d7_a4_d7_99_d7_aa__8b91c814.md
+[23:42:27]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%95%d7%9e%d7%9f-%d7%aa%d7%a6%d7%a4%d...
+[23:42:29] [624/687] OK   4p 14o 1f 0r 0ro  (7.72s)
+[23:42:29]           file: nfct_new__blog_movies_d7_99_d7_95_d7_aa_d7_a8-_d7_9e_d7_90_d7_9c_d7_a3-_d7_9e_d7_99_d7_9c___c2de87dc.md
+[23:42:29]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%95%d7%aa%d7%a8-%d7%9e%d7%90%d7%9c%d...
+[23:42:29] [625/687] OK   0p 0o 0f 0r 0ro  (7.5s)
+[23:42:29]           file: nfct_new__blog_movies_d7_99_d7_9c_d7_93-_d7_96_d7_99_d7_9f__dd6357e4.md
+[23:42:29]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%9c%d7%93-%d7%96%d7%99%d7%9f/
+[23:42:31] [626/687] OK   15p 4o 4f 0r 0ro  (13.07s)
+[23:42:31]           file: nfct_new__blog_movies_d7_99_d7_95_d7_9d-_d7_a8_d7_92_d7_99_d7_9c__bd8123b9.md
+[23:42:31]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%95%d7%9d-%d7%a8%d7%92%d7%99%d7%9c/
+[23:42:32] [627/687] OK   2p 6o 1f 0r 0ro  (7.4s)
+[23:42:32]           file: nfct_new__blog_movies_d7_99_d7_a8_d7_95_d7_a9_d7_9c_d7_99_d7_9d-_d7_a9_d7_9c-_d7_91_d7_a8___9ffe1acb.md
+[23:42:32]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d...
+[23:42:32] [628/687] OK   7p 2o 4f 0r 8ro  (7.67s)
+[23:42:32]           file: nfct_new__blog_movies_d7_99_d7_a9-_d7_9c_d7_99-_d7_97_d7_9c_d7_95_d7_9d-_d7_99_d7_a4_d7_95__392ee42c.md
+[23:42:32]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%a9-%d7%9c%d7%99-%d7%97%d7%9c%d7%95%...
+[23:42:33] [629/687] OK   9p 1o 4f 0r 0ro  (8.22s)
+[23:42:33]           file: nfct_new__blog_movies_d7_99_d7_a9_d7_a8_d7_90_d7_9c-_d7_90_d7_94_d7_95_d7_91_d7_aa_d7_99__fdf3e654.md
+[23:42:33]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%90%d7%94%d...
+[23:42:35] [630/687] OK   9p 3o 4f 0r 0ro  (7.82s)
+[23:42:35]           file: nfct_new__blog_movies_d7_9b_d7_91_d7_95_d7_93-_d7_94_d7_a9_d7_92_d7_a8_d7_99_d7_a8__afd8e6f2.md
+[23:42:35]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%91%d7%95%d7%93-%d7%94%d7%a9%d7%92%d...
+[23:42:35] [631/687] OK   13p 2o 4f 0r 0ro  (8.37s)
+[23:42:35]           file: nfct_new__blog_movies_d7_9b_d7_99_d7_a1_d7_95_d7_a4_d7_99_d7_9d__b9ffcc16.md
+[23:42:35]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%99%d7%a1%d7%95%d7%a4%d7%99%d7%9d/
+[23:42:35] [632/687] OK   2p 2o 1f 5r 4ro  (9.03s)
+[23:42:35]           file: nfct_new__blog_movies_d7_99_d7_a9_d7_a8_d7_90_d7_9c_d7_99_d7_aa-_d7_91_d7_91_d7_a8_d7_9c_d__9a8a07f9.md
+[23:42:35]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%aa-%d...
+[23:42:36] [633/687] OK   0p 0o 0f 0r 0ro  (11.87s)
+[23:42:36]           file: nfct_new__blog_movies_d7_99_d7_9c_d7_93_d7_99_d7_9d__78ad17ce.md
+[23:42:36]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%9c%d7%93%d7%99%d7%9d/
+[23:42:36] [634/687] OK   6p 5o 1f 0r 0ro  (11.77s)
+[23:42:36]           file: nfct_new__blog_movies_d7_99_d7_a7_d7_a0_d7_98_d7_9c_d7_99_d7_a1_d7_94__200d618a.md
+[23:42:36]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%a7%d7%a0%d7%98%d7%9c%d7%99%d7%a1%d7...
+[23:42:36] [635/687] OK   10p 12o 1f 0r 0ro  (7.75s)
+[23:42:36]           file: nfct_new__blog_movies_d7_9b_d7_9a-_d7_a8_d7_90_d7_99_d7_a0_d7_95__75a31786.md
+[23:42:36]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%9a-%d7%a8%d7%90%d7%99%d7%a0%d7%95/
+[23:42:37] [636/687] OK   7p 3o 1f 0r 0ro  (12.86s)
+[23:42:37]           file: nfct_new__blog_movies_d7_99_d7_a6_d7_90_d7_aa_d7_99-_d7_91_d7_a9_d7_a9__5575a239.md
+[23:42:37]           url:  https://nfct.org.il/blog/movies/%d7%99%d7%a6%d7%90%d7%aa%d7%99-%d7%91%d7%a9%d...
+[23:42:37] [637/687] OK   5p 3o 4f 0r 0ro  (8.53s)
+[23:42:37]           file: nfct_new__blog_movies_d7_9b_d7_99_d7_aa_d7_aa-_d7_9b_d7_95_d7_a0_d7_a0_d7_95_d7_aa__66cbd1f6.md
+[23:42:37]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%99%d7%aa%d7%aa-%d7%9b%d7%95%d7%a0%d...
+[23:42:37] [638/687] OK   1p 1o 1f 2r 1ro  (2.49s)
+[23:42:37]           file: nfct_new__blog_movies_d7_9b_d7_aa_d7_9e_d7_99_d7_9d-2__6bbc37e3.md
+[23:42:37]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-2/
+[23:42:39] [639/687] OK   12p 6o 4f 0r 0ro  (7.38s)
+[23:42:39]           file: nfct_new__blog_movies_d7_9b_d7_9e_d7_95-_d7_91_d7_91_d7_99_d7_aa__5f766a25.md
+[23:42:39]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%9e%d7%95-%d7%91%d7%91%d7%99%d7%aa/
+[23:42:40] [640/687] OK   9p 6o 4f 0r 0ro  (8.38s)
+[23:42:40]           file: nfct_new__blog_movies_d7_9b_d7_9c_d7_95_d7_aa-_d7_94_d7_9e_d7_93_d7_91_d7_a8__b3b075da.md
+[23:42:40]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%9c%d7%95%d7%aa-%d7%94%d7%9e%d7%93%d...
+[23:42:41] [641/687] OK   12p 2o 4f 0r 7ro  (7.7s)
+[23:42:41]           file: nfct_new__blog_movies_d7_9b_d7_a4_d7_95_d7_99_d7_aa-_d7_98_d7_95_d7_91_d7_94__b27181bc.md
+[23:42:41]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%a4%d7%95%d7%99%d7%aa-%d7%98%d7%95%d...
+[23:42:42] [642/687] OK   4p 5o 1f 9r 5ro  (6.82s)
+[23:42:42]           file: nfct_new__blog_movies_d7_9c_d7_90-_d7_91_d7_91_d7_99_d7_aa__b6412824.md
+[23:42:42]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%90-%d7%91%d7%91%d7%99%d7%aa/
+[23:42:43] [643/687] OK   10p 3o 1f 0r 0ro  (7.84s)
+[23:42:43]           file: nfct_new__blog_movies_d7_9c_d7_90-_d7_91_d7_92_d7_93_d7_aa_d7_99__5d058586.md
+[23:42:43]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%90-%d7%91%d7%92%d7%93%d7%aa%d7%99/
+[23:42:44] [644/687] OK   16p 4o 4f 0r 0ro  (7.78s)
+[23:42:44]           file: nfct_new__blog_movies_d7_9c_d7_90-_d7_97_d7_91_d7_a8-_d7_a1_d7_aa_d7_9d__c68cf627.md
+[23:42:44]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%90-%d7%97%d7%91%d7%a8-%d7%a1%d7%aa%...
+[23:42:44] [645/687] OK   11p 2o 4f 0r 6ro  (8.1s)
+[23:42:44]           file: nfct_new__blog_movies_d7_9c_d7_90-_d7_91_d7_95_d7_9b_d7_99_d7_9d-_d7_91_d7_a7_d7_99_d7_a5__12f8c750.md
+[23:42:44]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%90-%d7%91%d7%95%d7%9b%d7%99%d7%9d-%...
+[23:42:44] [646/687] OK   0p 0o 0f 0r 0ro  (7.56s)
+[23:42:44]           file: nfct_new__blog_movies_d7_9c_d7_90-_d7_99_d7_95_d7_9d-_d7_95_d7_9c_d7_90-_d7_9c_d7_99_d7_9c__e5b9cb84.md
+[23:42:44]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%90-%d7%99%d7%95%d7%9d-%d7%95%d7%9c%...
+[23:42:45] [647/687] OK   0p 0o 0f 0r 0ro  (12.26s)
+[23:42:45]           file: nfct_new__blog_movies_d7_9b_d7_a1_d7_90_d7_95_d7_aa-_d7_a8_d7_a4_d7_90_d7_99_d7_9d__f9e07651.md
+[23:42:45]           url:  https://nfct.org.il/blog/movies/%d7%9b%d7%a1%d7%90%d7%95%d7%aa-%d7%a8%d7%a4%d...
+[23:42:45] [648/687] OK   8p 7o 4f 0r 9ro  (7.56s)
+[23:42:45]           file: nfct_new__blog_movies_d7_9c_d7_90-_d7_9e_d7_95_d7_9b_d7_a8__5820fadd.md
+[23:42:45]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%90-%d7%9e%d7%95%d7%9b%d7%a8/
+[23:42:45] [649/687] OK   5p 6o 1f 0r 0ro  (8.05s)
+[23:42:45]           file: nfct_new__blog_movies_d7_9c_d7_91_d7_93_d7_99_d7_aa_d7_99-_d7_90_d7_92_d7_93_d7_94-_d7_a2___bc8b75e2.md
+[23:42:45]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%91%d7%93%d7%99%d7%aa%d7%99-%d7%90%d...
+[23:42:45] [650/687] OK   12p 3o 4f 0r 0ro  (8.06s)
+[23:42:45]           file: nfct_new__blog_movies_d7_9c_d7_96_d7_9b_d7_a8-_d7_99_d7_9e_d7_99_d7_9d-_d7_a2_d7_91_d7_a8___11710c86.md
+[23:42:45]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%96%d7%9b%d7%a8-%d7%99%d7%9e%d7%99%d...
+[23:42:45]   --- progress: 650/687 (94.6%)  rate: 130.2/min  eta: 0.3min  cost so far: $0.9168 ---
+[23:42:47] [651/687] OK   8p 3o 4f 0r 0ro  (7.52s)
+[23:42:47]           file: nfct_new__blog_movies_d7_9c_d7_99-_d7_a2_d7_93__de2b4fa9.md
+[23:42:47]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%99-%d7%a2%d7%93/
+[23:42:47] [652/687] OK   7p 1o 4f 0r 0ro  (7.76s)
+[23:42:47]           file: nfct_new__blog_movies_d7_9c_d7_99_d7_93_d7_94-_d7_9e_d7_97_d7_93_d7_a9__336658d4.md
+[23:42:47]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%99%d7%93%d7%94-%d7%9e%d7%97%d7%93%d...
+[23:42:49] [653/687] OK   13p 5o 4f 0r 0ro  (7.97s)
+[23:42:49]           file: nfct_new__blog_movies_d7_9c_d7_99_d7_9c-_d7_9b_d7_9c_d7_95_d7_9c_d7_95_d7_aa__263686e1.md
+[23:42:49]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%99%d7%9c-%d7%9b%d7%9c%d7%95%d7%9c%d...
+[23:42:50] [654/687] OK   11p 6o 4f 0r 0ro  (8.03s)
+[23:42:50]           file: nfct_new__blog_movies_d7_9c_d7_9a-_d7_9c_d7_a9_d7_9c_d7_95_d7_9d-_d7_92_d7_a9_d7_9d__47c0e859.md
+[23:42:50]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%9a-%d7%9c%d7%a9%d7%9c%d7%95%d7%9d-%...
+[23:42:51] [655/687] OK   8p 3o 6f 0r 0ro  (7.71s)
+[23:42:51]           file: nfct_new__blog_movies_d7_9c_d7_9c_d7_90-_d7_91_d7_99_d7_aa__d90f9e86.md
+[23:42:51]           url:  https://nfct.org.il/blog/movies/%d7%9c%d7%9c%d7%90-%d7%91%d7%99%d7%aa/
+[23:42:51] [656/687] OK   10p 3o 4f 0r 10ro  (7.58s)
+[23:42:51]           file: nfct_new__blog_movies_d7_9e_d7_90_d7_96-_d7_a9_d7_a0_d7_93_d7_91__91a7fef6.md
+[23:42:51]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%90%d7%96-%d7%a9%d7%a0%d7%93%d7%91/
+[23:42:51] [657/687] OK   2p 2o 1f 5r 6ro  (7.34s)
+[23:42:51]           file: nfct_new__blog_movies_d7_9e_d7_91_d7_95_d7_a7_d7_a9_d7_aa__0f730c0c.md
+[23:42:51]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%91%d7%95%d7%a7%d7%a9%d7%aa/
+[23:42:52] [658/687] OK   0p 0o 0f 0r 0ro  (7.76s)
+[23:42:52]           file: nfct_new__blog_movies_d7_9e_d7_91_d7_98_d7_99_d7_9d-2005-_d7_99_d7_a8_d7_95_d7_a9_d7_9c_d7__9f1e87ed.md
+[23:42:52]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%91%d7%98%d7%99%d7%9d-2005-%d7%99%d7...
+[23:42:52] [659/687] OK   0p 0o 0f 0r 0ro  (7.52s)
+[23:42:52]           file: nfct_new__blog_movies_d7_9e_d7_91_d7_98_d7_99_d7_9d-_d7_99_d7_a9_d7_a8_d7_90_d7_9c-2002__876a6a92.md
+[23:42:52]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%91%d7%98%d7%99%d7%9d-%d7%99%d7%a9%d...
+[23:42:52] [660/687] OK   10p 4o 4f 0r 11ro  (7.77s)
+[23:42:52]           file: nfct_new__blog_movies_d7_9e_d7_92_d7_99_d7_93_d7_95__ad11fa4b.md
+[23:42:52]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%92%d7%99%d7%93%d7%95/
+[23:42:53] [661/687] OK   17p 3o 4f 0r 0ro  (7.72s)
+[23:42:53]           file: nfct_new__blog_movies_d7_9e_d7_92_d7_a4_d7_94__e0a339e3.md
+[23:42:53]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%92%d7%a4%d7%94/
+[23:42:53] [662/687] OK   0p 0o 0f 0r 0ro  (7.92s)
+[23:42:53]           file: nfct_new__blog_movies_d7_9e_d7_92_d7_a8_d7_a9-_d7_94_d7_a8_d7_95_d7_a1_d7_99_d7_9d__aa0a8d09.md
+[23:42:53]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%92%d7%a8%d7%a9-%d7%94%d7%a8%d7%95%d...
+[23:42:54] [663/687] OK   1p 2o 0f 0r 1ro  (2.4s)
+[23:42:54]           file: nfct_new__d7_9c_d7_95_d7_92_d7_95_לוגו__32189421.md
+[23:42:54]           url:  https://nfct.org.il/%d7%9c%d7%95%d7%92%d7%95/ \"לוגו\
+[23:42:55] [664/687] OK   10p 4o 1f 0r 0ro  (7.96s)
+[23:42:55]           file: nfct_new__blog_movies_d7_9e_d7_92_d7_a9-_d7_94_d7_9b_d7_a1_d7_a3__73e0defc.md
+[23:42:55]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%92%d7%a9-%d7%94%d7%9b%d7%a1%d7%a3/
+[23:42:55] [665/687] OK   1p 2o 0f 0r 1ro  (2.05s)
+[23:42:55]           file: nfct_new__d7_9e_d7_95_d7_a2_d7_93_d7_99-_d7_94_d7_92_d7_a9_d7_94_nfct-studentsub_למעבר_למו__62330b01.md
+[23:42:55]           url:  https://nfct.org.il/%d7%9e%d7%95%d7%a2%d7%93%d7%99-%d7%94%d7%92%d7%a9%d7%94/n...
+[23:42:55] [666/687] OK   1p 2o 0f 0r 1ro  (3.02s)
+[23:42:55]           file: nfct_new__d7_9c_d7_95_d7_92_d7_95_לוגו__43b31859.md
+[23:42:55]           url:  https://nfct.org.il/%d7%9c%d7%95%d7%92%d7%95/ "לוגו
+[23:42:56] [667/687] OK   8p 4o 1f 0r 0ro  (8.21s)
+[23:42:56]           file: nfct_new__blog_movies_d7_9e_d7_93_d7_95_d7_91_d7_a8-_d7_91_d7_90_d7_94_d7_91_d7_94__fb3a894c.md
+[23:42:56]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%93%d7%95%d7%91%d7%a8-%d7%91%d7%90%d...
+[23:42:57] [668/687] OK   1p 2o 0f 0r 1ro  (1.99s)
+[23:42:57]           file: nfct_new__d7_a0_d7_94_d7_9c_d7_99-_d7_94_d7_9e_d7_95_d7_a1_d7_93_נהלי_הקרן__8c60135a.md
+[23:42:57]           url:  https://nfct.org.il/%d7%a0%d7%94%d7%9c%d7%99-%d7%94%d7%9e%d7%95%d7%a1%d7%93/ ...
+[23:42:57] [669/687] OK   1p 2o 0f 1r 1ro  (3.74s)
+[23:42:57]           file: nfct_new__d7_9e_d7_95_d7_a2_d7_93_d7_99-_d7_94_d7_92_d7_a9_d7_94_nfct-studentsub__03518109.md
+[23:42:57]           url:  https://nfct.org.il/%d7%9e%d7%95%d7%a2%d7%93%d7%99-%d7%94%d7%92%d7%a9%d7%94/n...
+[23:42:57] [670/687] OK   5p 6o 4f 0r 0ro  (8.13s)
+[23:42:57]           file: nfct_new__blog_movies_d7_9e_d7_95_d7_93_d7_9c-_d7_9e_d7_95_d7_a7_d7_a0_d7_93_d7_94__330c32d0.md
+[23:42:57]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%95%d7%93%d7%9c-%d7%9e%d7%95%d7%a7%d...
+[23:42:57] [671/687] OK   4p 2o 1f 7r 5ro  (6.24s)
+[23:42:57]           file: nfct_new__blog_movies_d7_9e_d7_99_d7_9d-_d7_a1_d7_95_d7_a2_d7_a8_d7_99_d7_9d__27cd2d54.md
+[23:42:57]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%99%d7%9d-%d7%a1%d7%95%d7%a2%d7%a8%d...
+[23:42:57] [672/687] OK   1p 2o 0f 0r 1ro  (2.21s)
+[23:42:57]           file: nfct_new__d7_a2_d7_9e_d7_95_d7_93-_d7_9c_d7_a4_d7_95_d7_98_d7_a8__12064d40.md
+[23:42:57]           url:  https://nfct.org.il/%d7%a2%d7%9e%d7%95%d7%93-%d7%9c%d7%a4%d7%95%d7%98%d7%a8/
+[23:42:58] [673/687] OK   14p 2o 4f 0r 0ro  (7.67s)
+[23:42:58]           file: nfct_new__blog_movies_d7_9e_d7_95_d7_a4_d7_aa__9cc00799.md
+[23:42:58]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%95%d7%a4%d7%aa/
+[23:42:58] [674/687] OK   1p 2o 0f 0r 1ro  (2.93s)
+[23:42:58]           file: nfct_new__d7_a2_d7_9e_d7_95_d7_93-_d7_9c_d7_a4_d7_95_d7_98_d7_a8_ארכיון_ניוזלטר__ba59ecd4.md
+[23:42:58]           url:  https://nfct.org.il/%d7%a2%d7%9e%d7%95%d7%93-%d7%9c%d7%a4%d7%95%d7%98%d7%a8/ ...
+[23:42:59] [675/687] OK   1p 2o 0f 0r 1ro  (3.21s)
+[23:42:59]           file: nfct_new__d7_aa_d7_a7_d7_a0_d7_95_d7_aa-_d7_94_d7_a7_d7_95_d7_9c_d7_a0_d7_95_d7_a2-_d7_94___402c6070.md
+[23:42:59]           url:  https://nfct.org.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%aa-%d7%94%d7%a7%d7%95%d7%9c%d...
+[23:42:59] [676/687] OK   6p 2o 4f 0r 0ro  (7.35s)
+[23:42:59]           file: nfct_new__blog_movies_d7_9e_d7_9c_d7_97_d7_9e_d7_94-_d7_91_d7_90-_d7_9e_d7_9c_d7_97_d7_9d__816a9803.md
+[23:42:59]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%91%d7%90-%...
+[23:43:00] [677/687] OK   1p 2o 0f 0r 1ro  (3.33s)
+[23:43:00]           file: nfct_new__d7_aa_d7_a7_d7_a0_d7_95_d7_aa-_d7_94_d7_a7_d7_95_d7_9c_d7_a0_d7_95_d7_a2-_d7_94___c479e8d8.md
+[23:43:00]           url:  https://nfct.org.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%aa-%d7%94%d7%a7%d7%95%d7%9c%d...
+[23:43:04] [678/687] OK   15p 8o 1f 0r 0ro  (12.7s)
+[23:43:04]           file: nfct_new__blog_movies_d7_9e_d7_9b_d7_95_d7_9c_d7_aa__60b09a2b.md
+[23:43:04]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%9b%d7%95%d7%9c%d7%aa/
+[23:43:04] [679/687] OK   7p 2o 0f 1r 7ro  (9.76s)
+[23:43:04]           file: nfct_new__d7_a0_d7_94_d7_9c_d7_99-_d7_94_d7_9e_d7_95_d7_a1_d7_93__f436c996.md
+[23:43:04]           url:  https://nfct.org.il/%d7%a0%d7%94%d7%9c%d7%99-%d7%94%d7%9e%d7%95%d7%a1%d7%93/
+[23:43:04] [680/687] OK   7p 5o 4f 0r 0ro  (12.92s)
+[23:43:04]           file: nfct_new__blog_movies_d7_9e_d7_9b_d7_95_d7_a8_d7_99_d7_9d-_d7_9c_d7_a9_d7_97_d7_95_d7_a8__6df15b72.md
+[23:43:04]           url:  https://nfct.org.il/blog/movies/%d7%9e%d7%9b%d7%95%d7%a8%d7%99%d7%9d-%d7%9c%d...
+[23:43:05] [681/687] OK   0p 0o 0f 0r 0ro  (8.31s)
+[23:43:05]           file: nfct_new__root__101525aa.md
+[23:43:05]           url:  https://nfct.org.il/?eo_month=2026-06+%22%D7%97%D7%95%D7%93%D7%A9+%D7%94%D7%9...
+[23:43:06] [682/687] OK   0p 0o 0f 0r 0ro  (7.74s)
+[23:43:06]           file: nfct_new__root__83f567ce.md
+[23:43:06]           url:  https://nfct.org.il/?eo_month=2026-06%20%22%D7%97%D7%95%D7%93%D7%A9%20%D7%94%...
+[23:43:06] [683/687] OK   0p 0o 0f 0r 0ro  (8.19s)
+[23:43:06]           file: nfct_new__root__293334ed.md
+[23:43:06]           url:  https://nfct.org.il/?eo_month=2026-04%20%22%D7%97%D7%95%D7%93%D7%A9%20%D7%A7%...
+[23:43:06] [684/687] OK   0p 0o 0f 0r 0ro  (8.11s)
+[23:43:06]           file: nfct_new__root__8b62f9f8.md
+[23:43:06]           url:  https://nfct.org.il/?p=18802 \"** ייתכן ויתקיימו שינויים בנהלים ובדרישות **\
+[23:43:07] [685/687] OK   0p 0o 0f 0r 0ro  (8.16s)
+[23:43:07]           file: nfct_new__root__9144c310.md
+[23:43:07]           url:  https://nfct.org.il/?eo_month=2026-04+%22%D7%97%D7%95%D7%93%D7%A9+%D7%A7%D7%9...
+[23:43:08] [686/687] OK   1p 4o 0f 5r 1ro  (11.2s)
+[23:43:08]           file: nfct_new__d7_aa_d7_a7_d7_a0_d7_95_d7_aa-_d7_94_d7_a7_d7_95_d7_9c_d7_a0_d7_95_d7_a2-_d7_94___983478c3.md
+[23:43:08]           url:  https://nfct.org.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%aa-%d7%94%d7%a7%d7%95%d7%9c%d...
+[23:43:13] [687/687] OK   12p 5o 5f 0r 0ro  (16.17s)
+[23:43:13]           file: nfct_new__root__21f64239.md
+[23:43:13]           url:  https://nfct.org.il/?p=18802 \"פרויקטים בעבודה:\
+[23:43:13] ======================================================================
+[23:43:13] DONE in 5.5min
+[23:43:13]   ok:           687
+[23:43:13]   filtered:     0
+[23:43:13]   empty:        0
+[23:43:13]   load_error:   0
+[23:43:13]   llm_error:    0
+[23:43:13] Tokens: 3,000,430 in / 1,721,229 out  |  Cost: $0.9885
+[23:43:13] Calls: 694  |  Errors: 0  |  JSON retries: 10
+[23:43:13] Output: out/nfct_new/mentions.jsonl
+[23:43:13] Summary:  out/nfct_new/run_summary.json
+=== Run ended 2026-05-18T23:43:13.824495 ===

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=SS+Officer",
+  "stable_id": "nfct__en-movies-archive_keywords-SS-Officer__126d7e60",
+  "fetched_at": "2026-05-16T13:11:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:11:22Z",
+  "duration_ms": 9895,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2696cf2fa2ac836ee3c088b605f71e44a38a6b59f975e467d19d4d6ee60c3ca8",
+  "md_bytes": 14863,
+  "links_found": 79,
+  "files_found": 0
+}

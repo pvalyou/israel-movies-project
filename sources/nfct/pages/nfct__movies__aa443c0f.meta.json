@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/לא-רצוני/",
+  "stable_id": "nfct__movies__aa443c0f",
+  "fetched_at": "2026-05-16T11:05:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:04Z",
+  "duration_ms": 8701,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:76ae6a3cbc6049b8b5e9f981130d21be1a6009f91a4b0046156b569612672403",
+  "md_bytes": 8609,
+  "links_found": 21,
+  "files_found": 0
+}

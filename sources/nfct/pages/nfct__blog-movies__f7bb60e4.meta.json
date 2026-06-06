@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/איוון-האיום/",
+  "stable_id": "nfct__blog-movies__f7bb60e4",
+  "fetched_at": "2026-05-09T21:01:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:01:29Z",
+  "duration_ms": 13949,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:875e0c8d34ae3ba90aec662b2b55c93d153f0c7a7739c8c46f6b4acd85c9e302",
+  "md_bytes": 17991,
+  "links_found": 39,
+  "files_found": 0
+}

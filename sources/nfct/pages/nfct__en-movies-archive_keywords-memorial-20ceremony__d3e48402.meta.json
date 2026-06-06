@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=memorial%20ceremony",
+  "stable_id": "nfct__en-movies-archive_keywords-memorial-20ceremony__d3e48402",
+  "fetched_at": "2026-05-16T10:40:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:40:25Z",
+  "duration_ms": 8186,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6b2ec32d71e9868df4cb56e7c9f0cd8c3649f87e7742eeab6c2731db1227146e",
+  "md_bytes": 10301,
+  "links_found": 68,
+  "files_found": 0
+}

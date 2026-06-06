@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/הלאפ-דאנס-האחרון/",
+  "stable_id": "makor__films__66207c68",
+  "fetched_at": "2026-05-09T13:21:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:21:21Z",
+  "duration_ms": 20389,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3d5633063ba7677d8854e7a581f104fcf82b2a78b6ce7ec97f7e774f3a8fd3db",
+  "md_bytes": 3431,
+  "links_found": 4,
+  "files_found": 0
+}

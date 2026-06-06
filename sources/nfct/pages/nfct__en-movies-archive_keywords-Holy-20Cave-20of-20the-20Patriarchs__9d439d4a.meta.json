@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Holy%20Cave%20of%20the%20Patriarchs",
+  "stable_id": "nfct__en-movies-archive_keywords-Holy-20Cave-20of-20the-20Patriarchs__9d439d4a",
+  "fetched_at": "2026-05-16T14:50:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:50:28Z",
+  "duration_ms": 9095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b6185c7dfc80950e0eb3b7c81fc508a6cadb01157810b12514747ad11c84d1d6",
+  "md_bytes": 10351,
+  "links_found": 68,
+  "files_found": 0
+}

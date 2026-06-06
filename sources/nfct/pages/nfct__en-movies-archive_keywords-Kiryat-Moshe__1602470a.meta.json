@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kiryat+Moshe",
+  "stable_id": "nfct__en-movies-archive_keywords-Kiryat-Moshe__1602470a",
+  "fetched_at": "2026-05-16T14:19:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:19:49Z",
+  "duration_ms": 7652,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ada681a6f9dadbbfce93ac081338238896cf4e4f89599414cdb0e9b0379db802",
+  "md_bytes": 10458,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=deaf",
+  "stable_id": "nfct__en-movies-archive_keywords-deaf__c3f8d567",
+  "fetched_at": "2026-05-16T11:09:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:09:34Z",
+  "duration_ms": 7304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:daff93e7df434bf24e41f79b8e90c56180d9f209ed6ba0a515e385dc5891a443",
+  "md_bytes": 11427,
+  "links_found": 71,
+  "files_found": 0
+}

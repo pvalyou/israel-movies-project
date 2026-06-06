@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Confrontation",
+  "stable_id": "nfct__en_movies-archive__3f69a1de",
+  "fetched_at": "2026-05-18T21:26:48.661477+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=Confrontation",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "5075f0289948ae2b81968118db4e8e8de51dd9a30295361f7cd6b0630db08c4c",
+  "md_bytes": 11729,
+  "links_found": 0,
+  "error": ""
+}

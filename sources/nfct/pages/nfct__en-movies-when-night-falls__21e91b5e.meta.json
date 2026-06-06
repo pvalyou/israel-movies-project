@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/when-night-falls/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-when-night-falls__21e91b5e",
+  "fetched_at": "2026-05-16T17:08:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:08:22Z",
+  "duration_ms": 9685,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:808239ba156f211e279e7e2a0836f4a33564f9fd47ef9055c0e441d09d7ca00c",
+  "md_bytes": 10890,
+  "links_found": 29,
+  "files_found": 0
+}

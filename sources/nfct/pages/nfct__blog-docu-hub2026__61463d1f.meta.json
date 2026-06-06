@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/docu-hub2026/",
+  "stable_id": "nfct__blog-docu-hub2026__61463d1f",
+  "fetched_at": "2026-05-09T15:24:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:24:02Z",
+  "duration_ms": 25988,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2cc46467b470ea95befb5083e9f17b6178008303651ff7da40623cbe9e6ae873",
+  "md_bytes": 13177,
+  "links_found": 21,
+  "files_found": 1
+}

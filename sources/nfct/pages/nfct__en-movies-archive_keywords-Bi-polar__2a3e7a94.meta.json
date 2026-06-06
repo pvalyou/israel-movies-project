@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bi-polar",
+  "stable_id": "nfct__en-movies-archive_keywords-Bi-polar__2a3e7a94",
+  "fetched_at": "2026-05-16T12:45:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:45:59Z",
+  "duration_ms": 10486,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a742dfce8b7101cf7540104909382adef157aa09c62b3be06a513f24fd4315af",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

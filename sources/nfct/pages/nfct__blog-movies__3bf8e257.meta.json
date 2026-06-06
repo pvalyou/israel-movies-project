@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לי-עד/",
+  "stable_id": "nfct__blog-movies__3bf8e257",
+  "fetched_at": "2026-05-09T21:03:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:03:57Z",
+  "duration_ms": 35885,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de5c6a6d7922a0f0e191ef1d275826ee55049e182c373c5a902648efa4f1aee4",
+  "md_bytes": 18426,
+  "links_found": 46,
+  "files_found": 0
+}

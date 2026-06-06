@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=children",
+  "stable_id": "nfct__en-movies-archive_keywords-children__5df39196",
+  "fetched_at": "2026-05-16T05:55:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:55:53Z",
+  "duration_ms": 17978,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c198eecd61aab7d6f387347c37fe3072553a0880481904ec20c3bbf0dd19fb40",
+  "md_bytes": 17053,
+  "links_found": 82,
+  "files_found": 0
+}

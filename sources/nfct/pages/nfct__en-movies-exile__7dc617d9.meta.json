@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/exile/#UAMainContent",
+  "stable_id": "nfct__en-movies-exile__7dc617d9",
+  "fetched_at": "2026-05-16T13:39:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:39:46Z",
+  "duration_ms": 7565,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc0b1974212ec2e91884267f2c14abf99ec789aaff668044eb4dd8b8e1dddd0f",
+  "md_bytes": 13273,
+  "links_found": 45,
+  "files_found": 0
+}

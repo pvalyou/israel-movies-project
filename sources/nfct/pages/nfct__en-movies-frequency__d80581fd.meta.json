@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/frequency/#UArexazDFN",
+  "stable_id": "nfct__en-movies-frequency__d80581fd",
+  "fetched_at": "2026-05-16T12:26:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:26:10Z",
+  "duration_ms": 9979,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4efee89e565e0e1ffdd236660ac3b234f870074fce7b71b8794121e0079dffa5",
+  "md_bytes": 8544,
+  "links_found": 17,
+  "files_found": 0
+}

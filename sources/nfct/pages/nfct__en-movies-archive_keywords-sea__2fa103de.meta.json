@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sea",
+  "stable_id": "nfct__en-movies-archive_keywords-sea__2fa103de",
+  "fetched_at": "2026-05-16T11:07:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:07:40Z",
+  "duration_ms": 7556,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b7ab1772325619bd5a9a426df5a8f9a0040a5ef8409b93e7b8fe9201cb06006",
+  "md_bytes": 16640,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yael+Gotman",
+  "stable_id": "nfct__en-movies-archive_keywords-Yael-Gotman__014d5ed6",
+  "fetched_at": "2026-05-16T16:03:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:03:47Z",
+  "duration_ms": 9279,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17fe7be7f0254c803175b1d1baafb9ea54b3b4288437975fb61ab9f96b9b2651",
+  "md_bytes": 10033,
+  "links_found": 68,
+  "files_found": 0
+}

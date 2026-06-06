@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/משיח/",
+  "stable_id": "nfct__blog-movies__c94cadb0",
+  "fetched_at": "2026-05-09T20:52:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:52:53Z",
+  "duration_ms": 56512,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3464fa3fe302545703b74ba31e1a844ae473952d0eee2cf0dc7ef4c7990c33ff",
+  "md_bytes": 17933,
+  "links_found": 47,
+  "files_found": 0
+}

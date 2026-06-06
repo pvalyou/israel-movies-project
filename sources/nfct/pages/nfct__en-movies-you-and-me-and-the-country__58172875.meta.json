@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/you-and-me-and-the-country/",
+  "stable_id": "nfct__en-movies-you-and-me-and-the-country__58172875",
+  "fetched_at": "2026-05-11T23:38:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T23:38:38Z",
+  "duration_ms": 29374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10faef0f4cb105b4bc6beb885cbf4f36be8b381b44b8619d692b9e634bf26d2c",
+  "md_bytes": 10827,
+  "links_found": 26,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ari+Nagel",
+  "stable_id": "nfct__en-movies-archive_keywords-Ari-Nagel__6084986b",
+  "fetched_at": "2026-05-16T14:50:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:50:10Z",
+  "duration_ms": 8137,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:631ee1123edec3019b708d70e9db67c1a8322a0d91ab9a13a010e421b1e63560",
+  "md_bytes": 10014,
+  "links_found": 68,
+  "files_found": 0
+}

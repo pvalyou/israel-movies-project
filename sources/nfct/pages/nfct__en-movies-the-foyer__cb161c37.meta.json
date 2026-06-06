@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-foyer/",
+  "stable_id": "nfct__en-movies-the-foyer__cb161c37",
+  "fetched_at": "2026-05-11T14:11:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:11:15Z",
+  "duration_ms": 25817,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:83c953844484c7b804a5c645997489bb8275d4e4e50ce14c34b0c4c2f1ee65e4",
+  "md_bytes": 14019,
+  "links_found": 40,
+  "files_found": 0
+}

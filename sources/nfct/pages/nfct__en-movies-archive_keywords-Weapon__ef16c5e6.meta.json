@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Weapon",
+  "stable_id": "nfct__en-movies-archive_keywords-Weapon__ef16c5e6",
+  "fetched_at": "2026-05-16T08:33:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:33:00Z",
+  "duration_ms": 6763,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:63cb60cd565f7e4ff72564f4dfbab31225ac139676f59069e3229a012cd60331",
+  "md_bytes": 11893,
+  "links_found": 72,
+  "files_found": 0
+}

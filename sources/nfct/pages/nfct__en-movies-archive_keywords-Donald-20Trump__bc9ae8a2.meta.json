@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Donald%20Trump",
+  "stable_id": "nfct__en-movies-archive_keywords-Donald-20Trump__bc9ae8a2",
+  "fetched_at": "2026-05-16T20:16:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:13Z",
+  "duration_ms": 6720,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:690439173e18d0be82d1b389966ffb571d13af8360ab96741f4f2759fce7f001",
+  "md_bytes": 9978,
+  "links_found": 68,
+  "files_found": 0
+}

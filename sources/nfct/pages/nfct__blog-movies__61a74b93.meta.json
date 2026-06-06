@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סטאטוס-קוו/",
+  "stable_id": "nfct__blog-movies__61a74b93",
+  "fetched_at": "2026-05-09T21:47:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:47:18Z",
+  "duration_ms": 25045,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b780fbced9a0af13440e72bb2908027f6922ddb4d3ca630ba68c2dccbfee8142",
+  "md_bytes": 15625,
+  "links_found": 35,
+  "files_found": 0
+}

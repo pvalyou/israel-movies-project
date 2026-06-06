@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כבוד-אחרון/",
+  "stable_id": "nfct__blog-movies__a9165b18",
+  "fetched_at": "2026-05-09T21:20:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:20:01Z",
+  "duration_ms": 15682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c36dd2722810d2f97a4ee8527768811db12a19a77b52ec2f3ed74469191c56f",
+  "md_bytes": 16229,
+  "links_found": 37,
+  "files_found": 0
+}

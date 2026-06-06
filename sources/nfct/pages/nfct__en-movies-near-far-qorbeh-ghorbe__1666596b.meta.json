@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/near-far-qorbeh-ghorbe/",
+  "stable_id": "nfct__en-movies-near-far-qorbeh-ghorbe__1666596b",
+  "fetched_at": "2026-05-11T19:29:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:29:00Z",
+  "duration_ms": 21580,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:769df26379967c4c68d4aba1daa3e031cf47180b8d5c1359833496c28797320e",
+  "md_bytes": 18652,
+  "links_found": 62,
+  "files_found": 0
+}

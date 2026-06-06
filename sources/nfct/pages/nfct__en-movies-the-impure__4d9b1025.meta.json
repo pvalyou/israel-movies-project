@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-impure/",
+  "stable_id": "nfct__en-movies-the-impure__4d9b1025",
+  "fetched_at": "2026-05-15T09:42:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:42:03Z",
+  "duration_ms": 20700,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:14b5813f744a04231a4fd81482096d92f11ccc3f731723d744e733999939f092",
+  "md_bytes": 12893,
+  "links_found": 33,
+  "files_found": 0
+}

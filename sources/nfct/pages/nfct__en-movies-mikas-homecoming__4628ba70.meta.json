@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mikas-homecoming/#UAMainContent",
+  "stable_id": "nfct__en-movies-mikas-homecoming__4628ba70",
+  "fetched_at": "2026-05-16T16:55:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:55:27Z",
+  "duration_ms": 1269,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6aff310c5ff4fc3871d0c1472a88538f6da54601dd63d27a5f81a53f3584dccf",
+  "md_bytes": 809,
+  "links_found": 0,
+  "files_found": 0
+}

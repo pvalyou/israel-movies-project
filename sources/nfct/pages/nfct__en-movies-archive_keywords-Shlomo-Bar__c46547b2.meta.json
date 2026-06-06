@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shlomo+Bar",
+  "stable_id": "nfct__en-movies-archive_keywords-Shlomo-Bar__c46547b2",
+  "fetched_at": "2026-05-16T15:33:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:33:58Z",
+  "duration_ms": 6173,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c7f373b375eb5b4314c96531ab6df89a6ddb60ed096a3257956c120c4b9df8dd",
+  "md_bytes": 10955,
+  "links_found": 69,
+  "files_found": 0
+}

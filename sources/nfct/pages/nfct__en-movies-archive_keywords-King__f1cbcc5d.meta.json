@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=King",
+  "stable_id": "nfct__en-movies-archive_keywords-King__f1cbcc5d",
+  "fetched_at": "2026-05-16T17:25:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:25:26Z",
+  "duration_ms": 17967,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:01783dd9abf89d026bbb0748e54f0caddd6d9fb17f55a9ffcc2f557efbbcf9ef",
+  "md_bytes": 17030,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המוזיאון-רן-טל-פסטיבל-דוקאביב-נ/",
+  "stable_id": "nfct__events-event__b667f16c",
+  "fetched_at": "2026-05-10T03:01:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T03:01:12Z",
+  "duration_ms": 52882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b0c332f931865103bdc4077f10efe67ed1da94a0ba9b65c254304fa6884d2ac9",
+  "md_bytes": 12578,
+  "links_found": 28,
+  "files_found": 0
+}

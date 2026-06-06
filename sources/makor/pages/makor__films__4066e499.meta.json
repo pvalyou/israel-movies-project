@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/כאשר-היית-איתי/",
+  "stable_id": "makor__films__4066e499",
+  "fetched_at": "2026-05-09T13:24:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:24:53Z",
+  "duration_ms": 6316,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:681c63e0ed07a88acc06dd6d6c5b787a9c0b80477aabb74705f895898ae27fa3",
+  "md_bytes": 2428,
+  "links_found": 4,
+  "files_found": 0
+}

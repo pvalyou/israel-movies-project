@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-אלבום-61-חליל-אפרת-yes-דוקו-4/",
+  "stable_id": "nfct__events-event----61-----yes---4__f8837c96",
+  "fetched_at": "2026-05-10T13:32:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:32:06Z",
+  "duration_ms": 20271,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:792054743bfb8f1831aea131db8357d70a8fc6012d2db7d98f343fe76b9b24d0",
+  "md_bytes": 12904,
+  "links_found": 27,
+  "files_found": 0
+}

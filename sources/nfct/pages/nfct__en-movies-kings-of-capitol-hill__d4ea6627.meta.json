@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/kings-of-capitol-hill/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-kings-of-capitol-hill__d4ea6627",
+  "fetched_at": "2026-05-16T15:17:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:17:49Z",
+  "duration_ms": 12492,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:665924422183f98db1d4f3292488590548b6ba790c487b8ac469e5b255ba805f",
+  "md_bytes": 14038,
+  "links_found": 43,
+  "files_found": 0
+}

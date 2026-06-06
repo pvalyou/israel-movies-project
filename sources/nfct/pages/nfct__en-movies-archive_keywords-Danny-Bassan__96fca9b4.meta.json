@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Danny+Bassan",
+  "stable_id": "nfct__en-movies-archive_keywords-Danny-Bassan__96fca9b4",
+  "fetched_at": "2026-05-16T14:39:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:39:01Z",
+  "duration_ms": 12947,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0e3cd04d6d8f2a089b35275a8f00fa4a1fddcfe17055892a4efa9d53ecbe4f5a",
+  "md_bytes": 9976,
+  "links_found": 68,
+  "files_found": 0
+}

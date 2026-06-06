@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מבטים-2005-ירושלים/",
+  "stable_id": "nfct__blog-movies--2005__b6f45728",
+  "fetched_at": "2026-05-09T21:53:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:53:49Z",
+  "duration_ms": 18718,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cec69743a7834be9230084a014f1f1458e3d8266ad8eb9bc2f380d96c60af989",
+  "md_bytes": 29734,
+  "links_found": 68,
+  "files_found": 0
+}

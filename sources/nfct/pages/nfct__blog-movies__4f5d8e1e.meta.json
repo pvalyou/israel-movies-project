@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הנביא-כהנא/",
+  "stable_id": "nfct__blog-movies__4f5d8e1e",
+  "fetched_at": "2026-05-09T21:02:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:02:18Z",
+  "duration_ms": 10357,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b3c4a834f5a537c7bc84d26da87f70876c14c36b8ef6b84d08daa29a17a66dc",
+  "md_bytes": 18408,
+  "links_found": 40,
+  "files_found": 0
+}

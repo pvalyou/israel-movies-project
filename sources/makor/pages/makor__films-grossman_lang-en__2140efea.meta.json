@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/grossman/?lang=en",
+  "stable_id": "makor__films-grossman_lang-en__2140efea",
+  "fetched_at": "2026-05-09T12:56:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:56:04Z",
+  "duration_ms": 5486,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de452a6b4adeea6c12aa16be8bf5a487a17569e553f97f25255895158da04d31",
+  "md_bytes": 2562,
+  "links_found": 4,
+  "files_found": 0
+}

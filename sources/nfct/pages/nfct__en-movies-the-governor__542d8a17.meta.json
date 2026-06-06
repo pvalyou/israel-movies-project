@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-governor/",
+  "stable_id": "nfct__en-movies-the-governor__542d8a17",
+  "fetched_at": "2026-05-15T15:21:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:21:44Z",
+  "duration_ms": 6727,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5eabcd2e33bf15b672506a8ae8f0964390485a89a2f2adfd8ca7b202601c1acf",
+  "md_bytes": 14797,
+  "links_found": 48,
+  "files_found": 0
+}

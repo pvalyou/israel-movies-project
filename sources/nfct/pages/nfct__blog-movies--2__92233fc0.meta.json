@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סרט-2/",
+  "stable_id": "nfct__blog-movies--2__92233fc0",
+  "fetched_at": "2026-05-09T21:30:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:30:43Z",
+  "duration_ms": 12475,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8b747ee5f8fce31ea45996490d31a404ca7efbdd14beced813d3762372a8c21",
+  "md_bytes": 17447,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20Industry",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20Industry__3d9e2e90",
+  "fetched_at": "2026-05-16T08:32:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:32:45Z",
+  "duration_ms": 7555,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b8af4613b18d2988be5ad2ef3e48ba5c33aca67d2b61565fc02291864111aa3e",
+  "md_bytes": 16779,
+  "links_found": 82,
+  "files_found": 0
+}

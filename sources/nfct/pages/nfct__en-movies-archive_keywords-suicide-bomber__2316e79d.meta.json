@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=suicide+bomber",
+  "stable_id": "nfct__en-movies-archive_keywords-suicide-bomber__2316e79d",
+  "fetched_at": "2026-05-16T04:25:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:25:16Z",
+  "duration_ms": 9139,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a2865068cdafbe90af916b9baa398863f7d0863d6ef3a17c0c9f55e48ebc4a9",
+  "md_bytes": 12803,
+  "links_found": 75,
+  "files_found": 0
+}

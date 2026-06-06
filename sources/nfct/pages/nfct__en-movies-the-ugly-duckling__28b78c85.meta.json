@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-ugly-duckling/",
+  "stable_id": "nfct__en-movies-the-ugly-duckling__28b78c85",
+  "fetched_at": "2026-05-11T13:06:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:06:27Z",
+  "duration_ms": 42206,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f58c78784fad1fbde9ee2519c2cf49e61028207fede64e18418b5e72ab4b30b",
+  "md_bytes": 15152,
+  "links_found": 48,
+  "files_found": 0
+}

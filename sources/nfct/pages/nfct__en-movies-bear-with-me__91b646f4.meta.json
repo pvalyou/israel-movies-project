@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bear-with-me/",
+  "stable_id": "nfct__en-movies-bear-with-me__91b646f4",
+  "fetched_at": "2026-05-11T02:53:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:53:00Z",
+  "duration_ms": 11620,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e85c62f6668a2577c1c9b6c976027db0b1405acb01bb61008b4ac043e27bbab",
+  "md_bytes": 11496,
+  "links_found": 28,
+  "files_found": 0
+}

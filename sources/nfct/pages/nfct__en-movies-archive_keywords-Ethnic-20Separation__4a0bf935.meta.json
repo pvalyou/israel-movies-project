@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ethnic%20Separation",
+  "stable_id": "nfct__en-movies-archive_keywords-Ethnic-20Separation__4a0bf935",
+  "fetched_at": "2026-05-16T14:50:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:50:25Z",
+  "duration_ms": 6888,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7fa07e30a419f709fe305a5bd44cc75456748d56b5a02e7405ef8486a1192780",
+  "md_bytes": 10624,
+  "links_found": 69,
+  "files_found": 0
+}

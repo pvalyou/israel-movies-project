@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/התחלה-חדשה/",
+  "stable_id": "nfct__blog-movies__6565f80b",
+  "fetched_at": "2026-05-09T21:38:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:38:32Z",
+  "duration_ms": 49420,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:58741aabc7de1c677b5d31c5979ad9a260f909f5e44c1c87ba8fa6d7c6b69cd6",
+  "md_bytes": 14837,
+  "links_found": 32,
+  "files_found": 0
+}

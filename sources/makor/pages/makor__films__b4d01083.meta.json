@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שוקן-על-גבול-הקונצנזוס/",
+  "stable_id": "makor__films__b4d01083",
+  "fetched_at": "2026-05-09T13:17:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:17:04Z",
+  "duration_ms": 19907,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17b9a05ee8083eaf42c13cea6995a4ea5b29104570e4914b2f01f92a73f50ec3",
+  "md_bytes": 3904,
+  "links_found": 4,
+  "files_found": 0
+}

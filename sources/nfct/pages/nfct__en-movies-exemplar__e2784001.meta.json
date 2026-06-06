@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/exemplar/#UAMainContent",
+  "stable_id": "nfct__en-movies-exemplar__e2784001",
+  "fetched_at": "2026-05-16T15:11:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:11:16Z",
+  "duration_ms": 7792,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98c9eeedbfaf85a5b0b518503d5f932bd5a852f8693cddcb364da8bcb538e52c",
+  "md_bytes": 12699,
+  "links_found": 34,
+  "files_found": 0
+}

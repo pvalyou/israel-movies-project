@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מחזור-2000/",
+  "stable_id": "nfct__blog-movies--2000__fc7ded75",
+  "fetched_at": "2026-05-09T17:14:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:14:12Z",
+  "duration_ms": 42156,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5658b96af58eef11d4437cecc91000d2050d334f48893dd46b30e8af75e7a3b8",
+  "md_bytes": 19270,
+  "links_found": 47,
+  "files_found": 0
+}

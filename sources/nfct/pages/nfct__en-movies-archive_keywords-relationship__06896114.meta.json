@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-relationship__06896114",
+  "fetched_at": "2026-05-15T21:32:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:32:19Z",
+  "duration_ms": 6888,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e4e70d8c99a274570808007732aa49c3dd68de43c1285c26782ad74f6d9d068",
+  "md_bytes": 17188,
+  "links_found": 82,
+  "files_found": 0
+}

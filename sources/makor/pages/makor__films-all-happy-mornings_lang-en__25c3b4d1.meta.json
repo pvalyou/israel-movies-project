@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/all-happy-mornings/?lang=en",
+  "stable_id": "makor__films-all-happy-mornings_lang-en__25c3b4d1",
+  "fetched_at": "2026-05-09T13:10:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:10:21Z",
+  "duration_ms": 10916,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c9fe89792875982b762c7fa8aa75ea217389d19d9b5996adff469263f79b94f",
+  "md_bytes": 2306,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/spots-of-light/?lang=en",
+  "stable_id": "makor__films-spots-of-light_lang-en__921f97d1",
+  "fetched_at": "2026-05-09T13:23:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:23:11Z",
+  "duration_ms": 9587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9242b84dc3f2076bdfdbc1cd91f120feeba2105e9ad825922a79387ef432dd1",
+  "md_bytes": 4267,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דודה-דינה/",
+  "stable_id": "nfct__blog-movies__e1ee6a25",
+  "fetched_at": "2026-05-09T19:56:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:56:25Z",
+  "duration_ms": 12178,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a2b050641d5181eab1094fc2d139bf0f91e7c9bfe745d3d68121ab165c3f15c",
+  "md_bytes": 18262,
+  "links_found": 50,
+  "files_found": 0
+}

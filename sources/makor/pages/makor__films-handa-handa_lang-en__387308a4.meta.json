@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/handa-handa/?lang=en",
+  "stable_id": "makor__films-handa-handa_lang-en__387308a4",
+  "fetched_at": "2026-05-09T12:59:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:55Z",
+  "duration_ms": 13956,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78d0c7b8a6b588dd56fe2c37c3b08d6d4ffe1e9de2c926c46a3918c00fa3044f",
+  "md_bytes": 2018,
+  "links_found": 4,
+  "files_found": 0
+}

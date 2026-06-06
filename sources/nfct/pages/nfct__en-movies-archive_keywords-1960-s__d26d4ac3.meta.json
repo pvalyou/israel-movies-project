@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=1960's",
+  "stable_id": "nfct__en-movies-archive_keywords-1960-s__d26d4ac3",
+  "fetched_at": "2026-05-16T07:11:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:11:57Z",
+  "duration_ms": 13730,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb43f15f541f4939106f2ea2d5f5ce94ed89063a413705047bf5002ce22bb487",
+  "md_bytes": 10685,
+  "links_found": 69,
+  "files_found": 0
+}

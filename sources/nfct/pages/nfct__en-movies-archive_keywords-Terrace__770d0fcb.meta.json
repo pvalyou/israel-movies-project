@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Terrace",
+  "stable_id": "nfct__en-movies-archive_keywords-Terrace__770d0fcb",
+  "fetched_at": "2026-05-16T15:42:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:42:21Z",
+  "duration_ms": 7221,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e7c9f04c06150b96670fcf9500091f6ae3f95e2a5465c420a4d8ab848cdd33a3",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

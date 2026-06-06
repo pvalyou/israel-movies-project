@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=legislator",
+  "stable_id": "nfct__en-movies-archive_keywords-legislator__0b74d324",
+  "fetched_at": "2026-05-16T16:11:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:11:08Z",
+  "duration_ms": 10820,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:48900b8fdbb4f72108491c1a4581bd71a9fb84f5d7d2487cf6c63d0472e03e10",
+  "md_bytes": 10009,
+  "links_found": 68,
+  "files_found": 0
+}

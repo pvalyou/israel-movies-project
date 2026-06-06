@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20singer",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20singer__0e3eca1e",
+  "fetched_at": "2026-05-16T12:04:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:04:59Z",
+  "duration_ms": 6354,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:095285d4cf2188e8b9d36c39c3531d308ba88e1ce52e2c48eae2c00b395f69b2",
+  "md_bytes": 12457,
+  "links_found": 73,
+  "files_found": 0
+}

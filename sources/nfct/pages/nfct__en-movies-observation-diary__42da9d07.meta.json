@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/observation-diary/#UArexazDFN",
+  "stable_id": "nfct__en-movies-observation-diary__42da9d07",
+  "fetched_at": "2026-05-16T13:59:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:59:41Z",
+  "duration_ms": 5665,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ed5af3398f1f320b4b63235ce2ec5e1ee608e0f915b6a04ea9434b93f8b322b",
+  "md_bytes": 12633,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הביתה/",
+  "stable_id": "nfct__blog-movies__1a3b450a",
+  "fetched_at": "2026-05-09T20:55:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:55:07Z",
+  "duration_ms": 21959,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:427ddb747bb0b1d02a47cdd11d4aa108e03fb96c219862bf31c1f2e8de32945d",
+  "md_bytes": 17246,
+  "links_found": 43,
+  "files_found": 0
+}

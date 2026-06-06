@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-source-of-all-beauty/",
+  "stable_id": "nfct__en-movies-the-source-of-all-beauty__eafecb3a",
+  "fetched_at": "2026-05-11T16:12:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:12:44Z",
+  "duration_ms": 34589,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:30fd0c10ff3174dad2798b7affa6a087cfcacc1af0b81f20699e0f4dc35c88b7",
+  "md_bytes": 16530,
+  "links_found": 51,
+  "files_found": 0
+}

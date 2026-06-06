@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הפטריאך/",
+  "stable_id": "nfct__blog-movies__2376027c",
+  "fetched_at": "2026-05-15T09:02:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:42Z",
+  "duration_ms": 12099,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bafb5f305fa7465f8f065471e0ca9c2192e4761fbe5dc9c91f82802166786286",
+  "md_bytes": 17495,
+  "links_found": 35,
+  "files_found": 0
+}

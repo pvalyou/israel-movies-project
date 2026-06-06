@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/give-me-idf/#UAMainContent",
+  "stable_id": "nfct__en-movies-give-me-idf__b12f87a5",
+  "fetched_at": "2026-05-16T17:15:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:15:55Z",
+  "duration_ms": 11030,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:578bdbabb044e1ab44a88a7dd11f75732cf427eb2cb1fcd2ac7c1851eb4e39b0",
+  "md_bytes": 10835,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=foster%20care",
+  "stable_id": "nfct__en-movies-archive_keywords-foster-20care__992132e5",
+  "fetched_at": "2026-05-16T15:55:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:55:03Z",
+  "duration_ms": 7957,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4bb4f172ac8cf9c023e1380f6d186f686af2178bbcf49c1ddc8f07c78bb752bc",
+  "md_bytes": 10272,
+  "links_found": 68,
+  "files_found": 0
+}

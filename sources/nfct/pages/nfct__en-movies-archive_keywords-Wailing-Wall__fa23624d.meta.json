@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Wailing+Wall",
+  "stable_id": "nfct__en-movies-archive_keywords-Wailing-Wall__fa23624d",
+  "fetched_at": "2026-05-16T17:12:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:12:01Z",
+  "duration_ms": 7418,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:daa0bda012ef466c78e28f6ab0e5837b868c730b900d89d11d0c8c8110e56c95",
+  "md_bytes": 11346,
+  "links_found": 70,
+  "files_found": 0
+}

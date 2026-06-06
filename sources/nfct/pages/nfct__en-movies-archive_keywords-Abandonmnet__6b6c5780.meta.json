@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Abandonmnet",
+  "stable_id": "nfct__en-movies-archive_keywords-Abandonmnet__6b6c5780",
+  "fetched_at": "2026-05-16T17:28:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:28:13Z",
+  "duration_ms": 7466,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e3c7edf6ddc62c77b951441d5494d5a57400a3baf51994969d7f9b87c829b90",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

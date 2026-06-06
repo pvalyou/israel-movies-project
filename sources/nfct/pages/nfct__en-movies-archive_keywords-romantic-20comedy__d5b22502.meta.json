@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=romantic%20comedy",
+  "stable_id": "nfct__en-movies-archive_keywords-romantic-20comedy__d5b22502",
+  "fetched_at": "2026-05-16T10:12:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:12:49Z",
+  "duration_ms": 7723,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:802e51a1914f2c733b762255088aa853935d8e0ee8308ac3f15c29a503495328",
+  "md_bytes": 10941,
+  "links_found": 69,
+  "files_found": 0
+}

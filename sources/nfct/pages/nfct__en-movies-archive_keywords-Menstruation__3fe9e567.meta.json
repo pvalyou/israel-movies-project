@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Menstruation",
+  "stable_id": "nfct__en-movies-archive_keywords-Menstruation__3fe9e567",
+  "fetched_at": "2026-05-16T14:59:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:59:42Z",
+  "duration_ms": 7800,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67afbb43c4f17d5e9f452519ec011f159d5a3d8a032b7d6499b91a3d29b2608f",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

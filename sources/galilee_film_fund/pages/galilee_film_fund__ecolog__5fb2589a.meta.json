@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfundgalil.com/ecolog",
+  "stable_id": "galilee_film_fund__ecolog__5fb2589a",
+  "fetched_at": "2026-05-09T11:09:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:09:40Z",
+  "duration_ms": 26677,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0627512653bf1c2e1ccf6a4d74d5970007dd329cdaf47f11f6bb7404c99ee063",
+  "md_bytes": 2903,
+  "links_found": 0,
+  "files_found": 2
+}

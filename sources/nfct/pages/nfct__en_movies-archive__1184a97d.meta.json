@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=football%20fan",
+  "stable_id": "nfct__en_movies-archive__1184a97d",
+  "fetched_at": "2026-05-18T21:30:20.589878+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=football%20fan",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "9d7176d6ea550de65c431748784706f0e8514026af7fb5ebc0ec3e7b8d2c676b",
+  "md_bytes": 10247,
+  "links_found": 0,
+  "error": ""
+}

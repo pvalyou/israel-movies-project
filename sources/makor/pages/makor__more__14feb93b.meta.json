@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more/מכתב-לבן-עמית-אראל/",
+  "stable_id": "makor__more__14feb93b",
+  "fetched_at": "2026-05-09T12:15:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:15:25Z",
+  "duration_ms": 13575,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17ce1d6ee12760ed3f2741528e6b192b5237687d2ff7bb1d5f2d626993072916",
+  "md_bytes": 1565,
+  "links_found": 1,
+  "files_found": 0
+}

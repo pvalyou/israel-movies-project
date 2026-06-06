@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=pathology",
+  "stable_id": "nfct__en-movies-archive_keywords-pathology__c2db28d1",
+  "fetched_at": "2026-05-16T10:21:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:21:19Z",
+  "duration_ms": 11773,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b5817f512917c92a0e65a91ea1e6aea3fb423f0be653b7f9f9feef725793e695",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

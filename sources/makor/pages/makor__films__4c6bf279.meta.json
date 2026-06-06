@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אבא-שלי-יעקב-שבתאי/",
+  "stable_id": "makor__films__4c6bf279",
+  "fetched_at": "2026-05-09T13:07:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:07:09Z",
+  "duration_ms": 13629,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65efd83fc1451ce20f78f9cc48cca4a83351158b4e92b802639451060cd7ce32",
+  "md_bytes": 3335,
+  "links_found": 4,
+  "files_found": 0
+}

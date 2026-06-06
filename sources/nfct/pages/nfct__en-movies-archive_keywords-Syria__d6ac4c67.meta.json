@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Syria",
+  "stable_id": "nfct__en-movies-archive_keywords-Syria__d6ac4c67",
+  "fetched_at": "2026-05-16T06:02:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:02:54Z",
+  "duration_ms": 8618,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b806178c5fa5462a74eab9c4d966c8d90ef9d82ebdb35e368d620291e4bafba6",
+  "md_bytes": 14283,
+  "links_found": 78,
+  "files_found": 0
+}

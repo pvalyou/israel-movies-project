@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cast-offs/",
+  "stable_id": "nfct__en-movies-cast-offs__34de58b3",
+  "fetched_at": "2026-05-11T19:51:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:51:40Z",
+  "duration_ms": 30095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bed6e5b2d777da18213d8292cf1dc1eb6b297e3e63fbce1be3c4f1323da3930e",
+  "md_bytes": 11461,
+  "links_found": 28,
+  "files_found": 0
+}

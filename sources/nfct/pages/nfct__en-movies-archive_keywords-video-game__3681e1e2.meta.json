@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=video+game",
+  "stable_id": "nfct__en-movies-archive_keywords-video-game__3681e1e2",
+  "fetched_at": "2026-05-16T12:41:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:41:32Z",
+  "duration_ms": 13034,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7920d2814d5467f4735c8359f7156938b27ce340a4ea230267778c56301b746c",
+  "md_bytes": 11837,
+  "links_found": 71,
+  "files_found": 0
+}

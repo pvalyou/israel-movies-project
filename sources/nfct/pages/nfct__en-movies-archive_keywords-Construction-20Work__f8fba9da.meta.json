@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Construction%20Work",
+  "stable_id": "nfct__en-movies-archive_keywords-Construction-20Work__f8fba9da",
+  "fetched_at": "2026-05-16T14:17:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:17:18Z",
+  "duration_ms": 7337,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f955ebccebfb07b15f17c760148a6cfdea3a46a83f26b5deb8e9bdb734f8289",
+  "md_bytes": 10831,
+  "links_found": 69,
+  "files_found": 0
+}

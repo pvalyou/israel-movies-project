@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=headdress",
+  "stable_id": "nfct__en-movies-archive_keywords-headdress__1c949e11",
+  "fetched_at": "2026-05-16T11:25:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:25:52Z",
+  "duration_ms": 7334,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0adf0bfa47cd9fde8f21a2fa1bb215e330162b46e6231e2c10bcab15196cb667",
+  "md_bytes": 10015,
+  "links_found": 68,
+  "files_found": 0
+}

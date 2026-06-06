@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/סדרות-הדגל/",
+  "stable_id": "nfct__blog-specials__bc01a08a",
+  "fetched_at": "2026-05-09T18:01:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:01:57Z",
+  "duration_ms": 24995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:428a2c2e2ec82411690d41ffc2eed9a57a407a4c73a2a66d40aabfd7f1db5f35",
+  "md_bytes": 15569,
+  "links_found": 27,
+  "files_found": 0
+}

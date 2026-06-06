@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עמק/",
+  "stable_id": "nfct__blog-movies__a1b99564",
+  "fetched_at": "2026-05-09T22:06:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:06:19Z",
+  "duration_ms": 34285,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5fd00ab933f6826c8094ecf4aae0a4153a1898cf6eaa81a43189f11bb2918007",
+  "md_bytes": 18057,
+  "links_found": 36,
+  "files_found": 0
+}

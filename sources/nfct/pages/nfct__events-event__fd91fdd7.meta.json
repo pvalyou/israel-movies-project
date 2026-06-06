@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-עמק-סופי-ארטום-פסטיבל-הסרטים-בח/",
+  "stable_id": "nfct__events-event__fd91fdd7",
+  "fetched_at": "2026-05-10T06:08:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:08:16Z",
+  "duration_ms": 11135,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:edf656b8290342f452c66e355945ddf6dd8c7875f1dc492f032697320adca92d",
+  "md_bytes": 9678,
+  "links_found": 22,
+  "files_found": 0
+}

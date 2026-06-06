@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=feelings",
+  "stable_id": "nfct__en-movies-archive_keywords-feelings__8182fd9f",
+  "fetched_at": "2026-05-16T14:57:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:57:48Z",
+  "duration_ms": 9914,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f774e2b5cf50c6bbad0a1db598b5460d8bb59290023556b9c05f4b6b1df0460",
+  "md_bytes": 15865,
+  "links_found": 82,
+  "files_found": 0
+}

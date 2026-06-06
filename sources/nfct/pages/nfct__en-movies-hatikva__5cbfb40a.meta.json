@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hatikva/#UAMainContent",
+  "stable_id": "nfct__en-movies-hatikva__5cbfb40a",
+  "fetched_at": "2026-05-16T17:06:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:06:53Z",
+  "duration_ms": 9085,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f05b906a208d13ecfa6803c80cdffcdf3326c062cde5bae6540ab9378626e1cb",
+  "md_bytes": 11068,
+  "links_found": 26,
+  "files_found": 0
+}

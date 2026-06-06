@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Single%20Father",
+  "stable_id": "nfct__en-movies-archive_keywords-Single-20Father__9b246199",
+  "fetched_at": "2026-05-16T12:41:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:41:53Z",
+  "duration_ms": 8782,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0358cd4db4f6a9ad99e74be01a80e091662e70bb533aec958765673bc37a1003",
+  "md_bytes": 12039,
+  "links_found": 72,
+  "files_found": 0
+}

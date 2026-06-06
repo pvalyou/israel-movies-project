@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/unmistaken-child/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-unmistaken-child__ca046b3b",
+  "fetched_at": "2026-05-16T15:40:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:40:10Z",
+  "duration_ms": 9524,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:964157b16fb5d8a0a0a71184408005260d8db2c9daa6a1b5d862ac77b0615a1a",
+  "md_bytes": 12250,
+  "links_found": 25,
+  "files_found": 0
+}

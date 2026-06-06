@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mr.%20Chibotero",
+  "stable_id": "nfct__en-movies-archive_keywords-Mr.-20Chibotero__fc00daec",
+  "fetched_at": "2026-05-16T11:25:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:25:08Z",
+  "duration_ms": 7211,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af242e417c5e3a8c37c780d01fd6a66b5e02c3b6da5500f7cce12b21826f581e",
+  "md_bytes": 10238,
+  "links_found": 68,
+  "files_found": 0
+}

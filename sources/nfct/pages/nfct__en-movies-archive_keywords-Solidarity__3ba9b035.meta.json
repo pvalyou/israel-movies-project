@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Solidarity",
+  "stable_id": "nfct__en-movies-archive_keywords-Solidarity__3ba9b035",
+  "fetched_at": "2026-05-16T15:57:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:57:38Z",
+  "duration_ms": 8850,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0f7246a078b78305f7f040e6bbb8cb9ae8dc810611a2e198961dc3c435fccec",
+  "md_bytes": 11378,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/shambhala/",
+  "stable_id": "arava_film_fund__en-movies-shambhala__ac6a04a0",
+  "fetched_at": "2026-05-08T09:36:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:36:40Z",
+  "duration_ms": 12695,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:51466695ad2c07e3e5a89a6b3d9ed39453c473fed03e1a7561504b806f294f5c",
+  "md_bytes": 3330,
+  "links_found": 9,
+  "files_found": 0
+}

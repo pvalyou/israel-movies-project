@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=underground",
+  "stable_id": "nfct__en-movies-archive_keywords-underground__a662b168",
+  "fetched_at": "2026-05-16T10:27:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:27:40Z",
+  "duration_ms": 7380,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4044aafbea0fdd110ca0ee01e21a5f3f2c4039fad32dc2e8c90e1fc1a62466ba",
+  "md_bytes": 15235,
+  "links_found": 79,
+  "files_found": 0
+}

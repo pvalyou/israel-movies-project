@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-כבד-את-אביך-ואת-אמך-בלאט-אלכסנד-12/",
+  "stable_id": "nfct__events-event----------------12__4010e21b",
+  "fetched_at": "2026-05-10T03:21:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T03:21:48Z",
+  "duration_ms": 31497,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:06b047b5fec33ecb014cffe1b9977c172839f81fd285b4d35e1ff0042afd47ef",
+  "md_bytes": 13238,
+  "links_found": 27,
+  "files_found": 0
+}

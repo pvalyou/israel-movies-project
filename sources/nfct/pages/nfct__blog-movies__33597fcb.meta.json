@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החיים-יפים-פצעי-בגרות/",
+  "stable_id": "nfct__blog-movies__33597fcb",
+  "fetched_at": "2026-05-09T21:01:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:01:07Z",
+  "duration_ms": 20115,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c7cc72c74476c09412e531c698cdefb2d3ea5f87e4a577fac3a96305dd94521",
+  "md_bytes": 18662,
+  "links_found": 43,
+  "files_found": 0
+}

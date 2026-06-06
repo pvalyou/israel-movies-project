@@ -1,0 +1,23 @@
+{
+  "url": "https://www.gov.il/he/Departments/DynamicCollectors/test-servies?office=27&skip=0&title=%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2",
+  "stable_id": "ministry_of_culture__he-Departments-DynamicCollectors-test-servies_office-27-skip-0-title-D7-A7-D7-95__321e4240",
+  "fetched_at": "2026-05-09T15:15:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:15:53Z",
+  "duration_ms": 53,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90cf34fbaa07ab17aad439339e6af3bad0ad19880ba8ecc76706f0f6e1720019",
+  "md_bytes": 373,
+  "links_found": 0,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/nurith-aviv-woman-with-a-camera/?lang=en",
+  "stable_id": "makor__films-nurith-aviv-woman-with-a-camera_lang-en__807ec865",
+  "fetched_at": "2026-05-09T13:20:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:20:48Z",
+  "duration_ms": 14123,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0a8c79a93246bc7a49c18ead56ecaa19ef8bd932a827f11818c21c3e4a6df74b",
+  "md_bytes": 2146,
+  "links_found": 4,
+  "files_found": 0
+}

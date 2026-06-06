@@ -1,0 +1,21 @@
+{
+  "source_name": "gesher",
+  "run_date": "2026-05-16",
+  "elapsed_min": 0.38,
+  "pages_total": 105,
+  "pages_already_done": 65,
+  "pages_processed_this_run": 40,
+  "status_counts": {
+    "ok": 39,
+    "filtered": 1,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 170025,
+  "tokens_output": 106552,
+  "cost_usd": 0.0596,
+  "calls": 38,
+  "errors": 0,
+  "json_retries": 0
+}

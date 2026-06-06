@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=educator",
+  "stable_id": "nfct__en-movies-archive_keywords-educator__30112c02",
+  "fetched_at": "2026-05-16T10:47:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:47:42Z",
+  "duration_ms": 8258,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a6a390db98d358df0ac9a3597b75e328f0ea1483879f94011f6aac745d9bb61f",
+  "md_bytes": 10136,
+  "links_found": 68,
+  "files_found": 0
+}

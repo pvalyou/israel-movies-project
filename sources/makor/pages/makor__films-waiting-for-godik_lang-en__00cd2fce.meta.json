@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/waiting-for-godik/?lang=en",
+  "stable_id": "makor__films-waiting-for-godik_lang-en__00cd2fce",
+  "fetched_at": "2026-05-09T13:04:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:04:51Z",
+  "duration_ms": 14287,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9aa3c562f7fc1bde309df0dbd237a975c967011e7f340b20ba1fc7541cfa9111",
+  "md_bytes": 2548,
+  "links_found": 4,
+  "files_found": 0
+}

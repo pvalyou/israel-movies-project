@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fetus",
+  "stable_id": "nfct__en-movies-archive_keywords-fetus__19fa6730",
+  "fetched_at": "2026-05-16T16:01:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:01:53Z",
+  "duration_ms": 8352,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4cfb556b2a79a7541e3da777ad58d9d9bf352ef34190a364f6e7c7843372b2a4",
+  "md_bytes": 9958,
+  "links_found": 68,
+  "files_found": 0
+}

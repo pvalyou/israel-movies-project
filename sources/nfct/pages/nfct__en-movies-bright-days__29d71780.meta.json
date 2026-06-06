@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bright-days/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-bright-days__29d71780",
+  "fetched_at": "2026-05-16T09:03:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:03:34Z",
+  "duration_ms": 9357,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d442f7c3dc88827b55b5b638216e2e44cc2ed2556af54afc6be7c7965fa9e527",
+  "md_bytes": 13651,
+  "links_found": 40,
+  "files_found": 0
+}

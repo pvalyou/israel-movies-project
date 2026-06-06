@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-my-dream/",
+  "stable_id": "nfct__en-movies-in-my-dream__575b9fc2",
+  "fetched_at": "2026-05-11T01:24:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:24:42Z",
+  "duration_ms": 38409,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:614a2547b4e0322708308ca57b11393c3711f55ba56a679ce25de1dbbe49cfa1",
+  "md_bytes": 10645,
+  "links_found": 29,
+  "files_found": 0
+}

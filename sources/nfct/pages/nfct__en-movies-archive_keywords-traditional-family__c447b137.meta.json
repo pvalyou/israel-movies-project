@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=traditional+family",
+  "stable_id": "nfct__en-movies-archive_keywords-traditional-family__c447b137",
+  "fetched_at": "2026-05-16T13:41:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:41:09Z",
+  "duration_ms": 6994,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5ef537f823e234a2a9017a1daccc26de4c11fba4e8bc2650bafcf45296b302e3",
+  "md_bytes": 10933,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Power",
+  "stable_id": "nfct__en-movies-archive_keywords-Power__38df5629",
+  "fetched_at": "2026-05-16T20:32:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:34Z",
+  "duration_ms": 10216,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9308e8f30f3a5239526363a8f7c4de8b69a3ad33349864df828e38beb91f5e5d",
+  "md_bytes": 17177,
+  "links_found": 82,
+  "files_found": 0
+}

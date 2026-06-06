@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-wounded-healer/?lang=en",
+  "stable_id": "makor__films-the-wounded-healer_lang-en__227071c0",
+  "fetched_at": "2026-05-09T13:11:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:11:34Z",
+  "duration_ms": 11170,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a6010a4247583eb93bba434ad4064cc365fd23020eae2d6672262221dc6a8724",
+  "md_bytes": 2247,
+  "links_found": 4,
+  "files_found": 0
+}

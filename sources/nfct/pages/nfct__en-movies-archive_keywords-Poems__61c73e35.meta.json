@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Poems",
+  "stable_id": "nfct__en-movies-archive_keywords-Poems__61c73e35",
+  "fetched_at": "2026-05-16T15:03:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:03:37Z",
+  "duration_ms": 8888,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a086de19a1ce17f595edab80dcf05a70664cb2d2a9e119c154134cc67c75ddb1",
+  "md_bytes": 17257,
+  "links_found": 82,
+  "files_found": 0
+}

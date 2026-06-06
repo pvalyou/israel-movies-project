@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/riding-with-a-spy/",
+  "stable_id": "nfct__en-movies-riding-with-a-spy__548a5310",
+  "fetched_at": "2026-05-11T19:49:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:49:34Z",
+  "duration_ms": 21466,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:66b4141e8660e67b32907f5abd4d38804b1a80a3b44f83ca219ae775753a34ce",
+  "md_bytes": 14567,
+  "links_found": 44,
+  "files_found": 0
+}

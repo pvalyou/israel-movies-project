@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kochava+Levi",
+  "stable_id": "nfct__en-movies-archive_keywords-Kochava-Levi__f5d95edf",
+  "fetched_at": "2026-05-16T20:12:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:22Z",
+  "duration_ms": 9687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a3ca123982d8a006df532bc85a4303d21e05d9de039dae7f48c6eeee11969122",
+  "md_bytes": 9958,
+  "links_found": 68,
+  "files_found": 0
+}

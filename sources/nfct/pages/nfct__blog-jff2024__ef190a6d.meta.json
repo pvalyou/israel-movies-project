@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/jff2024/#UAMainContent",
+  "stable_id": "nfct__blog-jff2024__ef190a6d",
+  "fetched_at": "2026-05-10T17:50:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T17:50:40Z",
+  "duration_ms": 12995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ce3f85a81315c0e3fdad0f8e6dcbcf4ac5b8b390ec3efaa6b5b3ed31b737ee4",
+  "md_bytes": 21741,
+  "links_found": 35,
+  "files_found": 0
+}

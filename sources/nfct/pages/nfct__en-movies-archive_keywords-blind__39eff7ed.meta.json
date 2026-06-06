@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=blind",
+  "stable_id": "nfct__en-movies-archive_keywords-blind__39eff7ed",
+  "fetched_at": "2026-05-16T04:02:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:02:53Z",
+  "duration_ms": 6394,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56602f17d0624fba3fc684c49cd33ca31ae32dcd8e0b38707c84b0ca1cee20ce",
+  "md_bytes": 15904,
+  "links_found": 80,
+  "files_found": 0
+}

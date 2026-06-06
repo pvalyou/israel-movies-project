@@ -1,0 +1,23 @@
+{
+  "url": "http://www.guidestar.org.il/admin",
+  "stable_id": "guidestar__admin__73017961",
+  "fetched_at": "2026-05-09T11:17:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:17:05Z",
+  "duration_ms": 19231,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bcd0d27391c3d709886be9c651ae5db6167d5da21c52555bcca8e5b6f378bc3d",
+  "md_bytes": 252,
+  "links_found": 0,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-museum/",
+  "stable_id": "nfct__en-movies-the-museum__8ae97c53",
+  "fetched_at": "2026-05-11T23:08:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T23:08:32Z",
+  "duration_ms": 14203,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1ca96e35596eaa0a650566c8757213917082c529904fe0fb7eca6061329a3472",
+  "md_bytes": 13039,
+  "links_found": 32,
+  "files_found": 0
+}

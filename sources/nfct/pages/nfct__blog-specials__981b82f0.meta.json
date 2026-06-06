@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/מבטים/",
+  "stable_id": "nfct__blog-specials__981b82f0",
+  "fetched_at": "2026-05-09T18:03:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:03:09Z",
+  "duration_ms": 40374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d94463369e8a9f578d9372c4240017fec253c096cb1c01db78c174a1e26b51e",
+  "md_bytes": 13039,
+  "links_found": 24,
+  "files_found": 0
+}

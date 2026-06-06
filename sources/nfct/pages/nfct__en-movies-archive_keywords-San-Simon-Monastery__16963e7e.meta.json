@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=San+Simon+Monastery",
+  "stable_id": "nfct__en-movies-archive_keywords-San-Simon-Monastery__16963e7e",
+  "fetched_at": "2026-05-16T12:40:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:40:32Z",
+  "duration_ms": 8446,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3cfcb1d6dc0e83b286842cb933483d94531a7ca4d88844e0c12cd921e469c7b7",
+  "md_bytes": 10384,
+  "links_found": 68,
+  "files_found": 0
+}

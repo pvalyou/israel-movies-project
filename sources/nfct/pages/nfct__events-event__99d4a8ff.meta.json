@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-קינג-ביבי-דן-שדור-סינמטק-תל-אביב/",
+  "stable_id": "nfct__events-event__99d4a8ff",
+  "fetched_at": "2026-05-10T01:33:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:33:48Z",
+  "duration_ms": 39559,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d5d7d1302bdcc13d07ac7cd86f7625e834622e365b22c872e83ddd6632961e12",
+  "md_bytes": 12960,
+  "links_found": 28,
+  "files_found": 0
+}

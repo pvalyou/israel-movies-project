@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fringe+theater",
+  "stable_id": "nfct__en-movies-archive_keywords-fringe-theater__d921935f",
+  "fetched_at": "2026-05-16T11:00:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:00:06Z",
+  "duration_ms": 8484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d137440f06c4e6d85551b8dafa7c0bf59777fed81d98f3d488719d3143879983",
+  "md_bytes": 10334,
+  "links_found": 68,
+  "files_found": 0
+}

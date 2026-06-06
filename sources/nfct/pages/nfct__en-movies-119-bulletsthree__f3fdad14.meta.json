@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/119-bulletsthree/",
+  "stable_id": "nfct__en-movies-119-bulletsthree__f3fdad14",
+  "fetched_at": "2026-05-12T04:08:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:08:20Z",
+  "duration_ms": 17207,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2a301614789c5812874800ec820c5f47ad09c05cf1226cc275df718f430af6e4",
+  "md_bytes": 16093,
+  "links_found": 48,
+  "files_found": 0
+}

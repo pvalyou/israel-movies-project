@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=video%20art",
+  "stable_id": "nfct__en-movies-archive_keywords-video-20art__6f3a8010",
+  "fetched_at": "2026-05-16T20:20:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:20:23Z",
+  "duration_ms": 6169,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4eae80d5182109ddebe01666714b13b9b38b58114eb91c65ad8b3ae9c3d9e858",
+  "md_bytes": 16403,
+  "links_found": 82,
+  "files_found": 0
+}

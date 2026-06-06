@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הומור/",
+  "stable_id": "nfct__blog-movies__a12cc00b",
+  "fetched_at": "2026-05-09T21:00:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:00:40Z",
+  "duration_ms": 13336,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a84947beebcb4a6f6e461fd7ecaa4982e8cd3fa4239384aea870bdf00a2a37ee",
+  "md_bytes": 16699,
+  "links_found": 35,
+  "files_found": 0
+}

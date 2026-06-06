@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/themilkyway/#UAMainContent",
+  "stable_id": "nfct__en-movies-themilkyway__9b6c1eaf",
+  "fetched_at": "2026-05-16T12:36:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:36:45Z",
+  "duration_ms": 12706,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cd2cf405bae33e89ea3150ecdc447f4de1bb70476f4ba1dce7b9d463b140c3d2",
+  "md_bytes": 15855,
+  "links_found": 49,
+  "files_found": 0
+}

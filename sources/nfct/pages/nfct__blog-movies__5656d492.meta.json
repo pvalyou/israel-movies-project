@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פיתהלב/",
+  "stable_id": "nfct__blog-movies__5656d492",
+  "fetched_at": "2026-05-09T21:08:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:08:26Z",
+  "duration_ms": 39781,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c213dab772a7ca590c9f8f14eb1d9066676d7190f51a5a820988be4ee212c66a",
+  "md_bytes": 17165,
+  "links_found": 44,
+  "files_found": 0
+}

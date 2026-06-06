@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=democracy",
+  "stable_id": "nfct__en-movies-archive_keywords-democracy__e41628bf",
+  "fetched_at": "2026-05-16T12:56:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:56:53Z",
+  "duration_ms": 9951,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b3ca59700e52d62f88b3ae22cd127958298e7ea6f7e0b728fd58f7f808d72098",
+  "md_bytes": 11902,
+  "links_found": 71,
+  "files_found": 0
+}

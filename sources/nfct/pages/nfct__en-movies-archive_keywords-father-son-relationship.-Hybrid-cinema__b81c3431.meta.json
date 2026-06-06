@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=father-son+relationship.+Hybrid+cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-father-son-relationship.-Hybrid-cinema__b81c3431",
+  "fetched_at": "2026-05-16T14:11:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:11:53Z",
+  "duration_ms": 5973,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4eba15a0f7fdb1ad5fbca2fe55855a63506e4a76f33f878f07ce09ec65eff9b8",
+  "md_bytes": 9851,
+  "links_found": 67,
+  "files_found": 0
+}

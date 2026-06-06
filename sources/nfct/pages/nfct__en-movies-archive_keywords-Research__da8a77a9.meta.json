@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Research",
+  "stable_id": "nfct__en-movies-archive_keywords-Research__da8a77a9",
+  "fetched_at": "2026-05-16T14:34:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:34:32Z",
+  "duration_ms": 8261,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d5132ed43b06ca3f4ad46a532949b02a4f4badbc6ec36d4c1115b08ef8079a5",
+  "md_bytes": 14046,
+  "links_found": 78,
+  "files_found": 0
+}

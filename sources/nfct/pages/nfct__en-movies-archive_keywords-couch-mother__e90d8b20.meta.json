@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=couch+mother",
+  "stable_id": "nfct__en-movies-archive_keywords-couch-mother__e90d8b20",
+  "fetched_at": "2026-05-16T12:26:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:26:17Z",
+  "duration_ms": 9070,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:14b0e09fe43ef5771315cf20a9e6115f959d3f93f4722d2878c07268994a4eb3",
+  "md_bytes": 10145,
+  "links_found": 68,
+  "files_found": 0
+}

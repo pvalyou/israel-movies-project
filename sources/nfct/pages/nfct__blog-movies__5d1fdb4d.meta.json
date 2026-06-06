@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תפוחים/",
+  "stable_id": "nfct__blog-movies__5d1fdb4d",
+  "fetched_at": "2026-05-09T17:07:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:07:03Z",
+  "duration_ms": 8378,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b1a315b8a71123a74c18729fb3f0dc8235429a872c1249edca82afb1d6dd7ac7",
+  "md_bytes": 16044,
+  "links_found": 33,
+  "files_found": 0
+}

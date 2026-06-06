@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אפילו-דקה/",
+  "stable_id": "nfct__blog-movies__df6e138a",
+  "fetched_at": "2026-05-15T09:02:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:40Z",
+  "duration_ms": 18396,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f6928ac3f51134abe2f8df32bc8d7c5ea1cd928bcd5e1f1cf2f42f09a72d37e",
+  "md_bytes": 16640,
+  "links_found": 35,
+  "files_found": 0
+}

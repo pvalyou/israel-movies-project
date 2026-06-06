@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mother%20and%20daughter%20relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-mother-20and-20daughter-20relationship__8cbeecb4",
+  "fetched_at": "2026-05-16T12:05:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:05:01Z",
+  "duration_ms": 7172,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:393617a9fce52b1a1bbbc53ed65ad22eb8e939fa877f95d630eaa3cc4551f7d3",
+  "md_bytes": 12955,
+  "links_found": 74,
+  "files_found": 0
+}

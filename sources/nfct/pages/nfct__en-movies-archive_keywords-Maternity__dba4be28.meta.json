@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Maternity",
+  "stable_id": "nfct__en-movies-archive_keywords-Maternity__dba4be28",
+  "fetched_at": "2026-05-16T12:15:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:15:53Z",
+  "duration_ms": 9203,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82233db6f4a527f792cf9af34fffcd444548c983b33581b548221525268a92a5",
+  "md_bytes": 10978,
+  "links_found": 70,
+  "files_found": 0
+}

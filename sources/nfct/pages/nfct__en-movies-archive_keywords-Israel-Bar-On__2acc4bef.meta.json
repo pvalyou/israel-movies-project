@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israel+Bar-On",
+  "stable_id": "nfct__en-movies-archive_keywords-Israel-Bar-On__2acc4bef",
+  "fetched_at": "2026-05-16T16:19:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:19:00Z",
+  "duration_ms": 8889,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c78af503252c1b44bcff51d82f63a49709dbe908b624aba7d8fb4775c0ad824c",
+  "md_bytes": 10802,
+  "links_found": 69,
+  "files_found": 0
+}

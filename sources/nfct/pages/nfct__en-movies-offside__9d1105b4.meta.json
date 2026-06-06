@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/offside/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-offside__9d1105b4",
+  "fetched_at": "2026-05-16T13:53:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:53:20Z",
+  "duration_ms": 5340,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:418f2c6807d3d96be2a42bfb5d60b804921b58ad7c0ffaaeca812f67790d1c77",
+  "md_bytes": 14575,
+  "links_found": 37,
+  "files_found": 0
+}

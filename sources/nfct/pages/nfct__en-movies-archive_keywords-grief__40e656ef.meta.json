@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=grief",
+  "stable_id": "nfct__en-movies-archive_keywords-grief__40e656ef",
+  "fetched_at": "2026-05-16T07:22:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:22:22Z",
+  "duration_ms": 30399,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7906d3bfbe8fe2a043a235edee15fe720787d2d918defb4d12bca8e36e1a202a",
+  "md_bytes": 10666,
+  "links_found": 70,
+  "files_found": 0
+}

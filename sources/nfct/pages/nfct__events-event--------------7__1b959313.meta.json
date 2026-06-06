@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הרצח-אבי-וייסבלאי-סינמטק-תל-אבי-7/",
+  "stable_id": "nfct__events-event--------------7__1b959313",
+  "fetched_at": "2026-05-10T01:20:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:20:08Z",
+  "duration_ms": 21011,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b34d9479e9cfc220bf31646362717804711e74cfb50e6dcc60abdc18a6b338db",
+  "md_bytes": 11222,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jews-Arabs%20realitionship",
+  "stable_id": "nfct__en-movies-archive_keywords-Jews-Arabs-20realitionship__efee6739",
+  "fetched_at": "2026-05-16T15:11:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:11:34Z",
+  "duration_ms": 6956,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d62a23753032bc9c82ffdfdf7a5398c6ff3e8f1a86a5516da1b1cf09dc8978d",
+  "md_bytes": 9825,
+  "links_found": 67,
+  "files_found": 0
+}

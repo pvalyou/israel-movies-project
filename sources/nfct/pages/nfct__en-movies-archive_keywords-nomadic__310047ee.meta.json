@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=nomadic",
+  "stable_id": "nfct__en-movies-archive_keywords-nomadic__310047ee",
+  "fetched_at": "2026-05-16T05:44:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:44:32Z",
+  "duration_ms": 5961,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:49cef39a3707b76bb7e4342d084f6ed81e92a40d90ff6f78dd27ea8f9cfc4b48",
+  "md_bytes": 10049,
+  "links_found": 68,
+  "files_found": 0
+}

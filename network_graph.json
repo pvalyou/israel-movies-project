@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T13:16:09.890285",
-    "node_count": 2264,
+    "generated_at": "2026-06-06T13:19:03.184823",
+    "node_count": 2265,
     "edge_count": 7829,
-    "person_count": 1971,
+    "person_count": 1972,
     "fund_count": 6,
     "film_node_count": 285,
     "school_node_count": 2,
@@ -19007,6 +19007,16 @@
       "label": "בועז גולדברג",
       "type": "person",
       "gender": "m",
+      "has_strict_conflict": false,
+      "has_soft_conflict": false,
+      "source_count": 1,
+      "group": "person"
+    },
+    {
+      "id": "person::אתי כהן",
+      "label": "אתי כהן",
+      "type": "person",
+      "gender": "unknown",
       "has_strict_conflict": false,
       "has_soft_conflict": false,
       "source_count": 1,

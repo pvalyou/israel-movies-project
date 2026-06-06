@@ -1,6 +1,6 @@
 {
   "found_at": "2026-05-31T00:00:00",
-  "last_updated": "2026-05-31T22:00:00",
+  "last_updated": "2026-06-06",
   "conflicts": [
     {
       "type": "spousal",
@@ -812,6 +812,41 @@
       "source_url_2": "https://data.gov.il/dataset/552",
       "confidence": "confirmed",
       "round": 11
+    },
+    {
+      "type": "role_confirmed_independent",
+      "person_a": "אתי כהן",
+      "person_b": "אתי כהן",
+      "fund": "film_council_all",
+      "evidence": "Eti Cohen's role as Israeli Film Council manager / Ministry of Culture cinema coordinator confirmed by independent festival sources: DocAviv 2015 thank-you credits, DocAviv 2021 'about' page, and Jerusalem Film Festival 2019 team page. These are independent of the filmindustrywatch.org advocacy reporting. Exact 1999–2021 tenure dates remain single-sourced.",
+      "source_url": "https://www.docaviv.co.il/2015/about/%D7%AA%D7%95%D7%93%D7%95%D7%AA/",
+      "source_url_2": "https://www.docaviv.co.il/2021/docaviv-about/",
+      "source_url_3": "https://jff.org.il/he/article/6145",
+      "confidence": "confirmed",
+      "round": "osint-2026-06-06"
+    },
+    {
+      "type": "successor_identified",
+      "person_a": "קרן כרמל",
+      "person_b": "אתי כהן",
+      "fund": "film_council_all",
+      "evidence": "Karen Carmel (קרן כרמל) is the current manager of the Israeli Film Council and head of the cinema/dance department at the Ministry of Culture, succeeding Eti Cohen after her 2021 departure. Source: Hebrew Wikipedia article on the Israeli Film Council.",
+      "source_url": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%95%D7%A2%D7%A6%D7%94_%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA_%D7%9C%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2",
+      "source_url_2": "https://www.gov.il/he/departments/units/cinema",
+      "confidence": "confirmed",
+      "round": "osint-2026-06-06"
+    },
+    {
+      "type": "single_source_advocacy_allegation",
+      "person_a": "אתי כהן",
+      "person_b": "גיורא עיני",
+      "fund": "rabinovich_cinema",
+      "evidence": "All specific corruption allegations against Eti Cohen — alleged Eini romantic relationship, 2020-04-29 disciplinary complaint, 300+ unvetted lectors, annual Cannes 'planning' meetings, accountant restriction on her authority — remain single-sourced to filmindustrywatch.org as of 2026-06-06. Independent OSINT search across Haaretz, Ynet, Calcalist, Globes, Walla, Israel Hayom, the7eye, Maariv, the State Comptroller's published audits, and a Knesset Education/Culture committee Cinema-Law-amendment session (2018-07) found NO mention of her in connection with these claims. The 2018 Cinema Funds Examination Committee report exists but its 5.6MB PDF requires OCR to verify whether she is named.",
+      "source_url": "https://filmindustrywatch.org/israel-decades-long-alleged-corruption-at-the-rabinowitz-gesher-film-funds/",
+      "source_url_2": "https://www.gov.il/BlobFolder/rfp/cinema_funds_committee/he/דוח%20מסכם%20ועדת%20קרנות%20הקולנוע.pdf",
+      "source_url_3": "https://www.the7eye.org.il/topic/גיורא-עיני",
+      "confidence": "alleged",
+      "round": "osint-2026-06-06"
     }
   ]
 }

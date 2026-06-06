@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Omer%20Shiloah",
+  "stable_id": "nfct__en-movies-archive_keywords-Omer-20Shiloah__a6ee6f69",
+  "fetched_at": "2026-05-16T12:21:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:04Z",
+  "duration_ms": 10179,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5108581a61c3dc4172acebc545d16d213b8a0b9710f6ed9b458c2e0d0aec14b4",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

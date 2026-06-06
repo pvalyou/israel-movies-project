@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/קלף-מלוכלך/",
+  "stable_id": "makor__films__54b1fc24",
+  "fetched_at": "2026-05-09T12:57:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:57:13Z",
+  "duration_ms": 17089,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eae8e4d92493fc9eb3fe0fcbdaff68fac8896db4afc5a082849b6495566065db",
+  "md_bytes": 3855,
+  "links_found": 4,
+  "files_found": 0
+}

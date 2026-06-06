@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/still-water/",
+  "stable_id": "nfct__en-movies-still-water__f0c80a90",
+  "fetched_at": "2026-05-11T15:05:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:05:48Z",
+  "duration_ms": 16926,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:09b5a281231a7846e02baf29de3672126790b8abb50267fcf27d5a005c6ba7bf",
+  "md_bytes": 14520,
+  "links_found": 39,
+  "files_found": 0
+}

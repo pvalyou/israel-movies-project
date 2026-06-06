@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=journalism",
+  "stable_id": "nfct__en-movies-archive_keywords-journalism__c3dd2ed9",
+  "fetched_at": "2026-05-16T11:14:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:14:31Z",
+  "duration_ms": 9716,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0a02861e9fec0c037d50fb5f33604a32b156a705eae4a62e68e049fab3e0ce4b",
+  "md_bytes": 10231,
+  "links_found": 68,
+  "files_found": 0
+}

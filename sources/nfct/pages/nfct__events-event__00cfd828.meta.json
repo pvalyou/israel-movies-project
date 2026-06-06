@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הטובים-לסיף-ליאת-מר-מכון-וינגיי/",
+  "stable_id": "nfct__events-event__00cfd828",
+  "fetched_at": "2026-05-10T02:50:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:50:01Z",
+  "duration_ms": 26780,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44ab15ef3cb8cefd55161d9d6285f5ac68c74c93d91b1b2161fd0277d3cfb920",
+  "md_bytes": 10001,
+  "links_found": 21,
+  "files_found": 0
+}

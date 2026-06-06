@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fuad+Elias",
+  "stable_id": "nfct__en-movies-archive_keywords-Fuad-Elias__3ffa9022",
+  "fetched_at": "2026-05-16T10:51:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:23Z",
+  "duration_ms": 9527,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b87d876dbf2ddecf96018716e54561d1828d1dd8f9a1b27be461710345e3e8f7",
+  "md_bytes": 10109,
+  "links_found": 68,
+  "files_found": 0
+}

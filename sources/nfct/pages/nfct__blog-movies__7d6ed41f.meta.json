@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החברה-הכי-גרועה-בעולם/",
+  "stable_id": "nfct__blog-movies__7d6ed41f",
+  "fetched_at": "2026-05-09T20:59:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:59:50Z",
+  "duration_ms": 17291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a1db19c82c744b02fd17f76bc03652a50980b442b0f54440c5b052e61f25b7f0",
+  "md_bytes": 17594,
+  "links_found": 39,
+  "files_found": 0
+}

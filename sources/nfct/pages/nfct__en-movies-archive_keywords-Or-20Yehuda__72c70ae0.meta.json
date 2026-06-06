@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Or%20Yehuda",
+  "stable_id": "nfct__en-movies-archive_keywords-Or-20Yehuda__72c70ae0",
+  "fetched_at": "2026-05-16T08:56:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:56:25Z",
+  "duration_ms": 6033,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ac6e3aa65d9af032831a6a6c938e178805e6b4516eaf9ee1b8c30876702766be",
+  "md_bytes": 17322,
+  "links_found": 82,
+  "files_found": 0
+}

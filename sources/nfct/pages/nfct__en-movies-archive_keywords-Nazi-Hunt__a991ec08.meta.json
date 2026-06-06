@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nazi+Hunt",
+  "stable_id": "nfct__en-movies-archive_keywords-Nazi-Hunt__a991ec08",
+  "fetched_at": "2026-05-16T16:34:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:41Z",
+  "duration_ms": 6400,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:139f5e5f737e218a9c8631339815ef3817c35fd0f30a96c369ad7193c7f18b3a",
+  "md_bytes": 9869,
+  "links_found": 67,
+  "files_found": 0
+}

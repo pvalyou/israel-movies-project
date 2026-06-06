@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חייה-ומותה-של-טטיאנה-חייקין/",
+  "stable_id": "nfct__blog-movies__f7dd0e4b",
+  "fetched_at": "2026-05-09T19:40:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:40:21Z",
+  "duration_ms": 67393,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:997c8d54ee03b24873f119bf9f7542ff90f305c06216b39b3bc955fcdb49e78e",
+  "md_bytes": 22488,
+  "links_found": 59,
+  "files_found": 0
+}

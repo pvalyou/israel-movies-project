@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Al-Aqsa+Mosque",
+  "stable_id": "nfct__en-movies-archive_keywords-Al-Aqsa-Mosque__aebcdb1a",
+  "fetched_at": "2026-05-16T20:18:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:09Z",
+  "duration_ms": 8966,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de4feb100f19e204b3b40d7a1db6e074e9b5c0a9abeb3ca52c38fc44af4542f8",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

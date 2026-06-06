@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Film+Festival",
+  "stable_id": "nfct__en-movies-archive_keywords-Film-Festival__1b5be7d7",
+  "fetched_at": "2026-05-16T12:45:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:45:08Z",
+  "duration_ms": 10252,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c97d28705ffc3d1e0d83f34b8d539300367438f840c42914ccfbaf12b3a11a14",
+  "md_bytes": 16588,
+  "links_found": 82,
+  "files_found": 0
+}

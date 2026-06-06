@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=classic%20cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-classic-20cinema__6fec3543",
+  "fetched_at": "2026-05-16T20:28:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:28:41Z",
+  "duration_ms": 7189,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:340bc4ccac13457f40156446e3bd34efc82c3aa2d552653793f08862edd78a06",
+  "md_bytes": 10581,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-five-houses-of-leah-goldberg/",
+  "stable_id": "nfct__en-movies-the-five-houses-of-leah-goldberg__fd556727",
+  "fetched_at": "2026-05-15T09:35:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:35:33Z",
+  "duration_ms": 11393,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dfd9f8e39442a7fc1f38244ea0d45cc2da2a03533dead37c0e9f797f07d0fae6",
+  "md_bytes": 13493,
+  "links_found": 30,
+  "files_found": 0
+}

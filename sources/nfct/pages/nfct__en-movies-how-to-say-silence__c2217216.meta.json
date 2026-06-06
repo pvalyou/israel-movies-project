@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/how-to-say-silence/",
+  "stable_id": "nfct__en-movies-how-to-say-silence__c2217216",
+  "fetched_at": "2026-05-11T17:01:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:01:36Z",
+  "duration_ms": 42100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:012ca4a3461a136317d589f530b88d1a563c4d8c9e59a82e6582fe7fd6615eee",
+  "md_bytes": 13680,
+  "links_found": 35,
+  "files_found": 0
+}

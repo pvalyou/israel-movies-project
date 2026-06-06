@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mill",
+  "stable_id": "nfct__en-movies-archive_keywords-Mill__a11eceea",
+  "fetched_at": "2026-05-16T13:19:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:19:12Z",
+  "duration_ms": 11219,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4789a11adcc9f3cd67ea5019b25b02c75949ae583e02e919e175bc7983fad3b",
+  "md_bytes": 15669,
+  "links_found": 82,
+  "files_found": 0
+}

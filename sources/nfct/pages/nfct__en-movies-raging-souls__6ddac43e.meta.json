@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/raging-souls/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-raging-souls__6ddac43e",
+  "fetched_at": "2026-05-16T17:16:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:16:41Z",
+  "duration_ms": 9286,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:262ec5c03deeebdb5b5d07ba59acf941f0cfaeb183e670341eecbbcfbf4944b5",
+  "md_bytes": 11756,
+  "links_found": 27,
+  "files_found": 0
+}

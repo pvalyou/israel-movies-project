@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/victors-curse/",
+  "stable_id": "nfct__en-movies-victors-curse__a88865f2",
+  "fetched_at": "2026-05-11T21:39:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:39:10Z",
+  "duration_ms": 20665,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a3fdfc19f16f55e1c29e5f408fe311473267fa858edaf7e0bb40608476e2917f",
+  "md_bytes": 12150,
+  "links_found": 31,
+  "files_found": 0
+}

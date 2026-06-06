@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/desert-tested/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-desert-tested__b6453913",
+  "fetched_at": "2026-05-16T13:52:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:25Z",
+  "duration_ms": 7742,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0edbdc4472155d630719b4936620d388edaa072a022360436ac3b7566ed7d9da",
+  "md_bytes": 13771,
+  "links_found": 39,
+  "files_found": 0
+}

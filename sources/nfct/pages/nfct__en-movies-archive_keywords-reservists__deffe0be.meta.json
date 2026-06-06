@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=reservists",
+  "stable_id": "nfct__en-movies-archive_keywords-reservists__deffe0be",
+  "fetched_at": "2026-05-16T10:46:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:59Z",
+  "duration_ms": 9619,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5f6435e472f788229afa462ba410d4c3f44928b509650098be0827900dd3d92b",
+  "md_bytes": 10250,
+  "links_found": 68,
+  "files_found": 0
+}

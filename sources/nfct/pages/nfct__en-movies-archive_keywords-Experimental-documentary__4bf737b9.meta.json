@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Experimental+documentary",
+  "stable_id": "nfct__en-movies-archive_keywords-Experimental-documentary__4bf737b9",
+  "fetched_at": "2026-05-16T15:51:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:18Z",
+  "duration_ms": 6794,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5021d1e1d499e8b23d265a77ac97e9bd0f446facd21ee5c5e31af0e98c870df4",
+  "md_bytes": 10515,
+  "links_found": 69,
+  "files_found": 0
+}

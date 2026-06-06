@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Know%20Where%20You%20Come%20From",
+  "stable_id": "nfct__en-movies-archive_keywords-Know-20Where-20You-20Come-20From__2c7da8c9",
+  "fetched_at": "2026-05-16T16:18:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:18:53Z",
+  "duration_ms": 8916,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fed731b7fad5c91b9ac788e89e7a9a6b2ee769f05bc23a86977b3ae5294d8a92",
+  "md_bytes": 12197,
+  "links_found": 73,
+  "files_found": 0
+}

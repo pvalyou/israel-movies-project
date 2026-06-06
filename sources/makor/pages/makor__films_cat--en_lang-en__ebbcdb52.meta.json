@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films_cat/קצרים-en/?lang=en",
+  "stable_id": "makor__films_cat--en_lang-en__ebbcdb52",
+  "fetched_at": "2026-05-09T12:46:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:09Z",
+  "duration_ms": 32563,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8d43f828db110b515a2e0a310c5cc1dab8c71cd4f48e66d6396b978d1da772b",
+  "md_bytes": 1294,
+  "links_found": 6,
+  "files_found": 0
+}

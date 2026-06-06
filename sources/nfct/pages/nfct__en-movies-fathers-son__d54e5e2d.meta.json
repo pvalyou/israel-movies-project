@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fathers-son/",
+  "stable_id": "nfct__en-movies-fathers-son__d54e5e2d",
+  "fetched_at": "2026-05-15T15:22:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:22:51Z",
+  "duration_ms": 7076,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0a27560a266e580811741d8ef114fc6b5fa584f99d667663018511da28d369b6",
+  "md_bytes": 14087,
+  "links_found": 40,
+  "files_found": 0
+}

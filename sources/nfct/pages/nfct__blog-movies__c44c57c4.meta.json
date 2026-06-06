@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לשון-מאחורי-שיניים/",
+  "stable_id": "nfct__blog-movies__c44c57c4",
+  "fetched_at": "2026-05-09T19:31:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:31:50Z",
+  "duration_ms": 8594,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:508bbb0d4c58ccf3c1049dd45aeab3957484458e2f2cacd37b3ee248b91696a3",
+  "md_bytes": 12924,
+  "links_found": 23,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מסכת-פאה-רחל-אליצור-סינמטק-ירוש-9/",
+  "stable_id": "nfct__events-event--------------9__74ab9844",
+  "fetched_at": "2026-05-10T01:48:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:48:18Z",
+  "duration_ms": 23581,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e2f3a44de9d003750badcbaedc1128d541315241d87184c03c2d5fab973a75c",
+  "md_bytes": 10911,
+  "links_found": 22,
+  "files_found": 0
+}

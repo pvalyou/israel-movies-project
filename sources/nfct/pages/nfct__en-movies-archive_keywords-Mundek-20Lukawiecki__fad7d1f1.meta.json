@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mundek%20Lukawiecki",
+  "stable_id": "nfct__en-movies-archive_keywords-Mundek-20Lukawiecki__fad7d1f1",
+  "fetched_at": "2026-05-16T14:42:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:42:00Z",
+  "duration_ms": 19312,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b1c3ea4323629131f6b00cb7644d66d3b7295219db70db204a58c6d3c1f77ee",
+  "md_bytes": 10448,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive/?keywords=1973#UArexazDFN",
+  "stable_id": "nfct__movies-archive_keywords-1973__5cb30fdc",
+  "fetched_at": "2026-05-16T14:47:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:47:46Z",
+  "duration_ms": 4893,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cdb5279c486af0e71f9b88d782a3f8e0105ef3239f485a9349c5f766354c9b81",
+  "md_bytes": 16023,
+  "links_found": 94,
+  "files_found": 0
+}

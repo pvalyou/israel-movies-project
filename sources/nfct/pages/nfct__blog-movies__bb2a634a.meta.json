@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כל-העצים-נושבים-ברוח/",
+  "stable_id": "nfct__blog-movies__bb2a634a",
+  "fetched_at": "2026-05-09T19:43:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:43:41Z",
+  "duration_ms": 28798,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9ec5d751c939a71ebbbd673f893a4fb0613204cfd450d2000e28002a83715bf",
+  "md_bytes": 19177,
+  "links_found": 36,
+  "files_found": 0
+}

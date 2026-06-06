@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=flying%20the%20nest",
+  "stable_id": "nfct__en-movies-archive_keywords-flying-20the-20nest__bc306287",
+  "fetched_at": "2026-05-16T04:13:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:13:43Z",
+  "duration_ms": 6564,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b44320b036530d8c9589fdea34766de60d362c665da22a7badee58c2c08e8504",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

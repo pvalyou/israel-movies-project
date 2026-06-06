@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=globalization",
+  "stable_id": "nfct__en-movies-archive_keywords-globalization__4460ef32",
+  "fetched_at": "2026-05-16T10:12:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:12:16Z",
+  "duration_ms": 11962,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b5f4292c1bdcdcecb1621ae34e2b4bbfb6f77604fa315855470ac2832d2fdb4",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

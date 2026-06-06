@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mori-shabazys-riddle/",
+  "stable_id": "nfct__en-movies-mori-shabazys-riddle__307834c7",
+  "fetched_at": "2026-05-11T18:22:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:22:57Z",
+  "duration_ms": 52333,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d40df4d6562d4be3541270f85fa79196a5421dd369ca586bde4b5bc336604b6",
+  "md_bytes": 15285,
+  "links_found": 42,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Miri+Ben+Simhon",
+  "stable_id": "nfct__en-movies-archive_keywords-Miri-Ben-Simhon__1c9730a4",
+  "fetched_at": "2026-05-16T15:28:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:28:56Z",
+  "duration_ms": 6545,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d7cfd72c064e7b7b2d110c166d74e7ffecb38dbc39f65e219e2a26edaeba769",
+  "md_bytes": 10033,
+  "links_found": 68,
+  "files_found": 0
+}

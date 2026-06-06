@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-green-prince/",
+  "stable_id": "nfct__en-movies-the-green-prince__36061ce4",
+  "fetched_at": "2026-05-12T04:15:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:15:55Z",
+  "duration_ms": 15399,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:540dbeda1c00680af67fff775fbc4cfa862a9f9a19aa93ea4ab2000623c597ec",
+  "md_bytes": 18193,
+  "links_found": 36,
+  "files_found": 0
+}

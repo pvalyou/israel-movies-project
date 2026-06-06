@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שחור-לבן-זה-צבעוני/",
+  "stable_id": "nfct__blog-movies__a87fa9d1",
+  "fetched_at": "2026-05-09T17:17:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:17:31Z",
+  "duration_ms": 9386,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d37d778e07a494017b454f7321701dbee26d42995cef684391c030f5f246d28c",
+  "md_bytes": 21336,
+  "links_found": 43,
+  "files_found": 0
+}

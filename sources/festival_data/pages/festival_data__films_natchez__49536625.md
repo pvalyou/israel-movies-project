@@ -1,0 +1,789 @@
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/61-2b90-film.jpg)
+פנורמה
+## נאצ'ז
+## Natchez
+## Natchez
+[ לכרטיסים וזמני הקרנה ](https://www.docaviv.co.il/films/natchez/#purchase-now)
+סוזנה הרברט
+ארצות הברית
+ארצות הברית
+אנגלית, תרגום לעברית
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/61-2b90-poster-768x1024.jpg)
+בעיירה בת 14 אלף תושבים במיסיסיפי ההיסטוריה לא נשארת בעבר, שכן כאן היא הענף הכלכלי המרכזי. האחוזות מפגינות תערובת ארכיטקטונית מרהיבה של בנייה ויקטוריאנית רחבת ידיים וסגנונות קולוניאליים וניאו-קלאסיים מלפני מלחמת האזרחים, והתושבים מתחזקים אותם כמוזיאונים חיים ל"תור הזהב" של הדרום, בהם נשים בשמלות קרינולינה נפוחות מארחות תיירים לארוחות תחת נברשות קריסטל ענקיות. גלריית הדמויות הצבעונית והצילום המרהיב, העטוף בפילטרים רכים המעניקים למקום הילה אגדתית, כמעט ומטשטשים עובדה אחת: כאן שכן גם אחד משוקי העבדים הגדולים והאכזריים ביותר בארצות הברית. בכישרון לקלוט את הטיימינג ואת הפריים הנכון, הבמאית סוזנה הרברט מתבוננת בניסיון של "נאטצ'ז החדשה" לחשוף את הסדקים בסיפור המנומס ולבנות מעין אי פרוגרסיבי ומכיל בתוך ים של שמרנות רפובליקנית.
+After generations of showcasing its pre-Civil War mansions and hoop-skirted guides, Natchez, Mississippi, is now reckoning with a romanticized past, an uncertain future and the debt it owes to the descendants of slavery. A cinematic portrait of a tourist town at a crossroads, NATCHEZ follows an array of historic homeowners, activists and tour guides as they tell their versions of the past, and clash over who gets to tell America’s story.
+ההקרנות הבאות
+30/5 
+שבת / 21:00
+אולם 2, סינמטק תל אביב
+[ לרכישהTickets ](https://cintlv.presglobal.store/order/127898)
+6/6 
+שבת / 20:45
+בית ציוני אמריקה
+[ לרכישהTickets ](https://cintlv.presglobal.store/order/128001)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/777954.jpg)
+במאי
+Director
+סוזנה הרברט
+Suzannah Herbert is a documentary director and editor from Memphis whose directing work focuses on the American South. Herbert directed and produced the twice Emmy-nominated film WRESTLE. Named one of the top 5 documentaries of 2019 by the National Board of Review, lauded as “superb” by the Los Angeles Times, and hailed as a New York Times Critic’s Pick, WRESTLE was released theatrically by Oscilloscope and broadcast on PBS’s Independent Lens. As an editor, she has collaborated on various Bob Dylan, Tony Bennett and Lady Gaga projects, music videos and award-winning films like 2022’s A WOMAN ON THE OUTSIDE (SXSW 2022, PBS’s America Reframed). Her second feature film, NATCHEZ, premiering at the 2025 Tribeca Festival, was supported by ITVS, Catapult Film Fund, the Ford Foundation, Rooftop Films Fund, CIFF Points North Fellowship, Logan Nonfiction Fellowship, Yaddo, True False Catapult Rough Cut Retreat and Film Independent.
+Suzannah Herbert is a documentary director and editor from Memphis whose directing work focuses on the American South. Herbert directed and produced the twice Emmy-nominated film WRESTLE. Named one of the top 5 documentaries of 2019 by the National Board of Review, lauded as “superb” by the Los Angeles Times, and hailed as a New York Times Critic’s Pick, WRESTLE was released theatrically by Oscilloscope and broadcast on PBS’s Independent Lens. As an editor, she has collaborated on various Bob Dylan, Tony Bennett and Lady Gaga projects, music videos and award-winning films like 2022’s A WOMAN ON THE OUTSIDE (SXSW 2022, PBS’s America Reframed). Her second feature film, NATCHEZ, premiering at the 2025 Tribeca Festival, was supported by ITVS, Catapult Film Fund, the Ford Foundation, Rooftop Films Fund, CIFF Points North Fellowship, Logan Nonfiction Fellowship, Yaddo, True False Catapult Rough Cut Retreat and Film Independent.
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/%D7%91%D7%90%D7%A0%D7%A8-%D7%A1%D7%99%D7%A0%D7%9E%D7%98%D7%A7-1-1.png) ](https://cintlv.presglobal.store/membership/PRIMUIM10)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/Sch_Banner_600x400-1.jpg) ](https://www.shufersal.co.il/online/he/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/%D7%A1%D7%95%D7%A4%D7%A8%D7%9E%D7%A8%D7%A7%D7%98/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%90%D7%9C%D7%9B%D7%95%D7%94%D7%95%D7%9C-%D7%95%D7%99%D7%99%D7%9F/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%A7%D7%9C%D7%99%D7%9D/c/A1308?q=:relevance:brand:997:preferences:PD1&utm_source=minisite&utm_medium=suppliers&utm_campaign=food_schweppes&utm_term=general&utm_content=food_jafora_schweppes_button_schweppes_doc_aviv_03-05-2026)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/%D7%91%D7%90%D7%A0%D7%A8-%D7%93%D7%95%D7%A7-%D7%90%D7%91%D7%99%D7%91-26-1.jpg)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/Doc_aviv_AD_2026_banner-wide-1.jpg)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/ab_11350banners_1920X1005-2-1.png) ](https://yuvalim-cityboy.ussl.co.il/he/ycb-matmid/?utm_source=docaviv)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/%D7%91%D7%90%D7%A0%D7%A8-%D7%A4%D7%9C%D7%95%D7%A8_%D7%93%D7%95%D7%A7%D7%90%D7%91%D7%99%D7%91-1.png) ](https://www.instagram.com/flor.telaviv/?en)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/pensialogo640-1.jpg)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/DocAviv_Banner_AnimGIF_630x400_01_B.gif) ](https://www.yes.co.il/lead/docaviv-lead/)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/Copy-of-33407.8_Banner_c_sofi.jpg)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/630x400-1.jpg)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/ab_11350banners_1920X1005-2-1.png) ](https://yuvalim-cityboy.ussl.co.il/he/ycb-matmid/?utm_source=docaviv)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/ab_11350banners_1920X1005-1-1.png) ](https://yuvalim-cityboy.ussl.co.il/he/ycb-matmid/?utm_source=docaviv)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/banner_630X400-1.jpg) ](https://www.geotours.co.il/?utm_source=docaviv&utm_medium=benner&utm_campaign=docaviv2026)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/Sch_Banner_600x400-1.jpg) ](https://www.shufersal.co.il/online/he/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/%D7%A1%D7%95%D7%A4%D7%A8%D7%9E%D7%A8%D7%A7%D7%98/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%90%D7%9C%D7%9B%D7%95%D7%94%D7%95%D7%9C-%D7%95%D7%99%D7%99%D7%9F/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%A7%D7%9C%D7%99%D7%9D/c/A1308?q=:relevance:brand:997:preferences:PD1&utm_source=minisite&utm_medium=suppliers&utm_campaign=food_schweppes&utm_term=general&utm_content=food_jafora_schweppes_button_schweppes_doc_aviv_03-05-2026)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/TLVDF-DOCAVIV-15.png)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/%D7%91%D7%90%D7%A0%D7%A8-%D7%90%D7%AA%D7%A8-%D7%93%D7%95%D7%A7%D7%90%D7%91%D7%99%D7%91-400630.png)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/04/DocAviv_Banner__630-%C3%97-400_01.jpg) ](https://join.as-invest.co.il/trade/?utm_source=Docaviv&utm_medium=Docaviv&utm_campaign=Launch2026)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/04/NFCT-banner630X400.jpg)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/2026_4_Docu_02_630-%C3%97-400-1.jpg)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/banner_630X400-1.jpg) ](https://www.geotours.co.il/?utm_source=docaviv&utm_medium=benner&utm_campaign=docaviv2026)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/%D7%91%D7%90%D7%A0%D7%A8-%D7%90%D7%95%D7%91%D7%9F-%D7%A7%D7%95%D7%91%D7%9F.jpeg)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/Sch_Banner_600x400-1.jpg) ](https://www.shufersal.co.il/online/he/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/%D7%A1%D7%95%D7%A4%D7%A8%D7%9E%D7%A8%D7%A7%D7%98/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%90%D7%9C%D7%9B%D7%95%D7%94%D7%95%D7%9C-%D7%95%D7%99%D7%99%D7%9F/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%A7%D7%9C%D7%99%D7%9D/c/A1308?q=:relevance:brand:997:preferences:PD1&utm_source=minisite&utm_medium=suppliers&utm_campaign=food_schweppes&utm_term=general&utm_content=food_jafora_schweppes_button_schweppes_doc_aviv_03-05-2026)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/Copy-of-DB_banner_400X630.jpg) ](https://www.facebook.com/dbfilmsound?mibextid=ZbWKwL)
+![](https://www.docaviv.co.il/wp-content/uploads/2026/05/%D7%91%D7%90%D7%A0%D7%A82-1.jpg)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/Sch_Banner_600x400-1.jpg) ](https://www.shufersal.co.il/online/he/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/%D7%A1%D7%95%D7%A4%D7%A8%D7%9E%D7%A8%D7%A7%D7%98/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%90%D7%9C%D7%9B%D7%95%D7%94%D7%95%D7%9C-%D7%95%D7%99%D7%99%D7%9F/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%A7%D7%9C%D7%99%D7%9D/c/A1308?q=:relevance:brand:997:preferences:PD1&utm_source=minisite&utm_medium=suppliers&utm_campaign=food_schweppes&utm_term=general&utm_content=food_jafora_schweppes_button_schweppes_doc_aviv_03-05-2026)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/DocAviv_Banner_AnimGIF_630x400_01_B-1.gif) ](https://www.yes.co.il/lead/docaviv-lead/)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/DocAviv_Banner_AnimGIF_630x400_01_B-1.gif) ](https://www.yes.co.il/lead/docaviv-lead/)
+[ ![](https://www.docaviv.co.il/wp-content/uploads/2026/05/ab_11350banners_1920X1005-1-1.png) ](https://yuvalim-cityboy.ussl.co.il/he/ycb-matmid/?utm_source=docaviv)
+הפקה: Darcy Mckinnon
+תסריט: סוזנה הרברט, Pablo PROENZA
+עריכה: Pablo PROENZA
+צילום: Noah COLLIER
+מוזיקה מקורית: James NEWBERRY
+## סרטים נוספים
+[ תחרות ישראלית שלושה צלמים בביצה Wetland Rachel, איל בן משה מסע של שלושה צלמים בשנת 1956 בביצות החולה מותיר תיעוד היסטורי של טבע שנכחד  Three photographers documented the Hula wetlands in 1956, before it was drained, revealing a lost paradise  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/wetland/)
+[ רטרופקטיבה לרם לוי מתרסים Barricades סרט פורץ דרך העוקב אחר משפחה יהודית ומשפחה פלסטינית והתמודדותן עם טראומת 1948  A landmark documentary following one Jewish and one Palestinian family, each mourning a child lost in 1948  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/%d7%9e%d7%aa%d7%a8%d7%a1%d7%99%d7%9d/)
+[ תחרות ישראלית אסתר Esther שקד גורן דיוקן עדין של אסתר עופרים: סיפור על תהילה, גלות וקול ענק שהפך למיתוס  Through calls from Hamburg, Esther Ofarim’s story unfolds – portrait of a legendary voice that became a myth  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/esther/)
+[ תחרות ישראלית האישה שלא ידעה לאהוב The Woman Who Didn't Know How To Love רותם דימנד אישה שלא ידעה לאהוב ובתה שלא סלחה לה, נפגשות בזכות נכדה עקשנית וארכיון שנחשף  An unloving mother and her unforgiving daughter are reunited by a stubborn granddaughter and a hidden archive  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/the-woman-who-didnt-know-how-to-love/)
+[ מאסטרים, רטרוספקטיבה לורנר הרצוג פילי רפאים Ghost Elephants ורנר הרצוג ורנר הרצוג במסע מהפנט באנגולה בעקבות זן מיתי של פילי ענק ותשוקה אנושית לגילוי  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/ghost-elephants/)
+[ תחרות מעבר למסך לא נועדה לפוליטיקה Not Made For Politics ווֹליה צ’ייקוֹאוּסקיה שורה של נשים אמיצות מתקוממות נגד הדיקטטורה והפטריארכיה השולטות בבלארוס  Brave women are rising up against the patriarchy and dictatorship that rule Belarus  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/not-made-for-politics/)
+[ תחרות בינלאומית מיילין Mailin מריה סילביה אסטבה דרך עדות, אנימציה ווידאו ביתי, הדוקו המרשים והעוצמתי מחזיר קול לאלה שהחוק זנח  Through testimony, animation, and home video, this powerful doc gives a voice to those abandoned by the law  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/mailin/)
+[ פנורמה אילון מאסק - הניסוי של טסלה Elon Musk Unveiled – The Tesla Experiment אנדראס פיכלר "טסלה" הבטיחה נהג אוטומטי, אך החזון האוטופי מתברר כתאונת שרשרת של סודות ושקרים  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/elon-musk-unveiled-the-tesla-experiment/)
+[ אמנות ותרבות בחסות יובלים סיטיבוי דריפט Drift דיון טיילור בקו הדק שבין אמנות לעבירה פלילית, מותחן מסחרר בעקבות צלם המטפס על גורדי שחקים  Treading the line between art and crime: a dizzying thriller about a photographer who scales skyscrapers  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/drift/)
+[ פנורמה אנדריי הוא אידיוט Andre is an Idiot טוני בנה חולה סרטן סופני מתעד את שנותיו האחרונות בהומור שחור ובלי פילטרים  A man with terminal cancer documents his final years with zero filters and a lot of dark humor  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/andre-is-an-idiot/)
+## [מכתב לדויד - הגרסה השלמה A Letter to David - The Completed Version לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/a-letter-to-david-the-completed-version/)
+[ מוזיקה הקיץ הטוב בעולם The Best Summer תמרה דייויס קפסולת זמן מחוספסת ואנרגטית המתעדת סיבוב הופעות של ענקי האלט-רוק בניינטיז  A gritty and energetic time capsule revisiting a tour of '90s alt-rock legends  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/the-best-summer/)
+[ פנורמה החבילה המסתורית The Mystery Package סיליה אוונסמו ג'ייקובסן הרפתקה בלשית צבועה באורות חג מולד, על מסעם של שני ילדים לפתרון תעלומה משפחתית  A Christmas-spirited detective story about two kids on a quest to solve an old family mystery  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/the-mystery-package/)
+[ תחרות בינלאומית זמן ומים Time And Water שרה דוסה אלגיה קולנועית על זמן וזיכרון שנוזלים דרך האצבעות על רקע נופי איסלנד המפעימים  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/time-and-water/)
+[ פנורמה קצה הלילה Edge Of The Night ולדימיר לוגינוב מסע לילי בין אירועים וטיפוסים בפינותיה של עיר אירופית המתכנס לדיוקן חושי מהפנט  Nocturnal wanderings through a European city’s corners and characters converge in a hypnotic sensory portrait  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/edge-of-the-night/)
+[ פנורמה במים גועשים I Follow Rivers ברברה הולן דיוקן רווי אדרנלין על חותרת קיאקים שבוחנת את גבולות הסכנה והמימוש העצמי  An adrenaline-fueled portrait of a kayaker testing the limits of danger and self-fulfillment  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/i-follow-rivers/)
+[ תחרות מעבר למסך פוליצק: הקולות שמתנגדים לקרמלין Politzek - The Voices That Defy The Kremlin מנוֹן לוואזוּ, יקטרינה ממונטובה סיפורם של מתנגדי משטר ברוסיה, המשלמים את המחיר הכבד ביותר עבור חופש הביטוי  The story of Russian dissidents paying the ultimate price for freedom of speech  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/politzek-the-voices-that-defy-the-kremlin/)
+[ אמנות ותרבות בחסות יובלים סיטיבוי עברי מי? Ivry Who? גיא תורג'מן ביוגרפיה אינטימית של מוזיקאי וירטואוז שנע במשך כל חייו בין תהילה למחיקה  A young filmmaker meets his 93-year-old neighbor – legendary, controversial violinist Ivry Gitlis  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/ivry-who/)
+[ תחרות בינלאומית שיר ללא בית A Song Without Home רטי ציטֵלָדְזֶה בעוד שבמולדתה קיומה הטרנסי נמחק, דוקו חזק ומסוגנן מעניק נראות לגיבורה אמיצה  A powerful, stylized doc brings visibility to a brave heroine whose trans identity was erased back home  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/a-song-without-home/)
+[ אמנות ותרבות בחסות יובלים סיטיבוי פארוקיטו, שושלת הפלמנקו Farruquito, A Flamenco Dynasty סנטי אגואדו, רובן אטלס לאחר טרגדיה ששינתה את חייו, רקדן נערץ מחפש גאולה בירושה המשפחתית שלו – הפלמנקו  After a life-altering tragedy, a revered dancer seeks redemption through his family legacy – flamenco  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/farruquito-a-flamenco-dynasty/)
+[ תחרות ישראלית שלושה צלמים בביצה Wetland Rachel, איל בן משה מסע של שלושה צלמים בשנת 1956 בביצות החולה מותיר תיעוד היסטורי של טבע שנכחד  Three photographers documented the Hula wetlands in 1956, before it was drained, revealing a lost paradise  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/wetland/)
+[ רטרופקטיבה לרם לוי מתרסים Barricades סרט פורץ דרך העוקב אחר משפחה יהודית ומשפחה פלסטינית והתמודדותן עם טראומת 1948  A landmark documentary following one Jewish and one Palestinian family, each mourning a child lost in 1948  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/%d7%9e%d7%aa%d7%a8%d7%a1%d7%99%d7%9d/)
+[ תחרות ישראלית אסתר Esther שקד גורן דיוקן עדין של אסתר עופרים: סיפור על תהילה, גלות וקול ענק שהפך למיתוס  Through calls from Hamburg, Esther Ofarim’s story unfolds – portrait of a legendary voice that became a myth  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/esther/)
+[ תחרות ישראלית האישה שלא ידעה לאהוב The Woman Who Didn't Know How To Love רותם דימנד אישה שלא ידעה לאהוב ובתה שלא סלחה לה, נפגשות בזכות נכדה עקשנית וארכיון שנחשף  An unloving mother and her unforgiving daughter are reunited by a stubborn granddaughter and a hidden archive  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/the-woman-who-didnt-know-how-to-love/)
+[ מאסטרים, רטרוספקטיבה לורנר הרצוג פילי רפאים Ghost Elephants ורנר הרצוג ורנר הרצוג במסע מהפנט באנגולה בעקבות זן מיתי של פילי ענק ותשוקה אנושית לגילוי  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/ghost-elephants/)
+[ תחרות מעבר למסך לא נועדה לפוליטיקה Not Made For Politics ווֹליה צ’ייקוֹאוּסקיה שורה של נשים אמיצות מתקוממות נגד הדיקטטורה והפטריארכיה השולטות בבלארוס  Brave women are rising up against the patriarchy and dictatorship that rule Belarus  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/not-made-for-politics/)
+[ תחרות בינלאומית מיילין Mailin מריה סילביה אסטבה דרך עדות, אנימציה ווידאו ביתי, הדוקו המרשים והעוצמתי מחזיר קול לאלה שהחוק זנח  Through testimony, animation, and home video, this powerful doc gives a voice to those abandoned by the law  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/mailin/)
+[ פנורמה אילון מאסק - הניסוי של טסלה Elon Musk Unveiled – The Tesla Experiment אנדראס פיכלר "טסלה" הבטיחה נהג אוטומטי, אך החזון האוטופי מתברר כתאונת שרשרת של סודות ושקרים  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/elon-musk-unveiled-the-tesla-experiment/)
+[ אמנות ותרבות בחסות יובלים סיטיבוי דריפט Drift דיון טיילור בקו הדק שבין אמנות לעבירה פלילית, מותחן מסחרר בעקבות צלם המטפס על גורדי שחקים  Treading the line between art and crime: a dizzying thriller about a photographer who scales skyscrapers  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/drift/)
+[ פנורמה אנדריי הוא אידיוט Andre is an Idiot טוני בנה חולה סרטן סופני מתעד את שנותיו האחרונות בהומור שחור ובלי פילטרים  A man with terminal cancer documents his final years with zero filters and a lot of dark humor  לעמוד הסרט To the movie page ](https://www.docaviv.co.il/films/andre-is-an-idiot/)
+
+
+---
+## Links
+
+
+### Internal
+- [לכרטיסים וזמני הקרנה](https://www.docaviv.co.il/films/natchez/)
+- [תחרות ישראלית
+						
+				
+				
+		
+				
+				
+					שלושה צלמים בביצה				
+				
+				
+				
+					Wetland				
+				
+				
+				
+							Rachel, איל בן משה
+						
+				
+				
+				
+									מסע של שלושה צלמים בשנת 1956 בביצות החולה מותיר תיעוד היסטורי של טבע שנכחד								
+				
+				
+				
+									Three photographers documented the Hula wetlands in 1956, before it was drained, revealing a lost paradise								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/wetland/)
+- [רטרופקטיבה לרם לוי
+						
+				
+				
+				
+					
+
+
+				
+				
+		
+				
+				
+					מתרסים				
+				
+				
+				
+					Barricades				
+				
+				
+				
+							 
+						
+				
+				
+				
+									סרט פורץ דרך העוקב אחר משפחה יהודית ומשפחה פלסטינית והתמודדותן עם טראומת 1948								
+				
+				
+				
+									A landmark documentary following one Jewish and one Palestinian family, each mourning a child lost in 1948								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/%d7%9e%d7%aa%d7%a8%d7%a1%d7%99%d7%9d/)
+- [תחרות ישראלית
+						
+				
+				
+		
+				
+				
+					אסתר				
+				
+				
+				
+					Esther				
+				
+				
+				
+							שקד גורן
+						
+				
+				
+				
+									דיוקן עדין של אסתר עופרים: סיפור על תהילה, גלות וקול ענק שהפך למיתוס								
+				
+				
+				
+									Through calls from Hamburg, Esther Ofarim’s story unfolds – portrait of a legendary voice that became a myth								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/esther/)
+- [תחרות ישראלית
+						
+				
+				
+		
+				
+				
+					האישה שלא ידעה לאהוב				
+				
+				
+				
+					The Woman Who Didn't Know How To Love				
+				
+				
+				
+							רותם דימנד
+						
+				
+				
+				
+									אישה שלא ידעה לאהוב ובתה שלא סלחה לה, נפגשות בזכות נכדה עקשנית וארכיון שנחשף								
+				
+				
+				
+									An unloving mother and her unforgiving daughter are reunited by a stubborn granddaughter and a hidden archive								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/the-woman-who-didnt-know-how-to-love/)
+- [מאסטרים, רטרוספקטיבה לורנר הרצוג
+						
+				
+				
+		
+				
+				
+					פילי רפאים				
+				
+				
+				
+					Ghost Elephants				
+				
+				
+				
+							ורנר הרצוג
+						
+				
+				
+				
+									ורנר הרצוג במסע מהפנט באנגולה בעקבות זן מיתי של פילי ענק ותשוקה אנושית לגילוי								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/ghost-elephants/)
+- [תחרות מעבר למסך
+						
+				
+				
+		
+				
+				
+					לא נועדה לפוליטיקה				
+				
+				
+				
+					Not Made For Politics				
+				
+				
+				
+							ווֹליה צ’ייקוֹאוּסקיה
+						
+				
+				
+				
+									שורה של נשים אמיצות מתקוממות נגד הדיקטטורה והפטריארכיה השולטות בבלארוס								
+				
+				
+				
+									Brave women are rising up against the patriarchy and dictatorship that rule Belarus								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/not-made-for-politics/)
+- [תחרות בינלאומית
+						
+				
+				
+		
+				
+				
+					מיילין				
+				
+				
+				
+					Mailin				
+				
+				
+				
+							מריה סילביה אסטבה
+						
+				
+				
+				
+									דרך עדות, אנימציה ווידאו ביתי, הדוקו המרשים והעוצמתי מחזיר קול לאלה שהחוק זנח								
+				
+				
+				
+									Through testimony, animation, and home video, this powerful doc gives a voice to those abandoned by the law								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/mailin/)
+- [פנורמה
+						
+				
+				
+		
+				
+				
+					אילון מאסק - הניסוי של טסלה				
+				
+				
+				
+					Elon Musk Unveiled – The Tesla Experiment				
+				
+				
+				
+							אנדראס פיכלר
+						
+				
+				
+				
+									"טסלה" הבטיחה נהג אוטומטי, אך החזון האוטופי מתברר כתאונת שרשרת של סודות ושקרים								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/elon-musk-unveiled-the-tesla-experiment/)
+- [אמנות ותרבות בחסות יובלים סיטיבוי
+						
+				
+				
+		
+				
+				
+					דריפט				
+				
+				
+				
+					Drift				
+				
+				
+				
+							דיון טיילור
+						
+				
+				
+				
+									בקו הדק שבין אמנות לעבירה פלילית, מותחן מסחרר בעקבות צלם המטפס על גורדי שחקים								
+				
+				
+				
+									Treading the line between art and crime: a dizzying thriller about a photographer who scales skyscrapers								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/drift/)
+- [פנורמה
+						
+				
+				
+		
+				
+				
+					אנדריי הוא אידיוט				
+				
+				
+				
+					Andre is an Idiot				
+				
+				
+				
+							טוני בנה
+						
+				
+				
+				
+									חולה סרטן סופני מתעד את שנותיו האחרונות בהומור שחור ובלי פילטרים								
+				
+				
+				
+									A man with terminal cancer documents his final years with zero filters and a lot of dark humor								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/andre-is-an-idiot/)
+- [מכתב לדויד - הגרסה השלמה				
+				
+				
+				
+					A Letter to David - The Completed Version				
+				
+				
+				
+							 
+						
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/a-letter-to-david-the-completed-version/)
+- [מוזיקה
+						
+				
+				
+		
+				
+				
+					הקיץ הטוב בעולם				
+				
+				
+				
+					The Best Summer				
+				
+				
+				
+							תמרה דייויס
+						
+				
+				
+				
+									קפסולת זמן מחוספסת ואנרגטית המתעדת סיבוב הופעות של ענקי האלט-רוק בניינטיז								
+				
+				
+				
+									A gritty and energetic time capsule revisiting a tour of '90s alt-rock legends								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/the-best-summer/)
+- [פנורמה
+						
+				
+				
+		
+				
+				
+					החבילה המסתורית				
+				
+				
+				
+					The Mystery Package				
+				
+				
+				
+							סיליה אוונסמו ג'ייקובסן
+						
+				
+				
+				
+									הרפתקה בלשית צבועה באורות חג מולד, על מסעם של שני ילדים לפתרון תעלומה משפחתית								
+				
+				
+				
+									A Christmas-spirited detective story about two kids on a quest to solve an old family mystery								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/the-mystery-package/)
+- [תחרות בינלאומית
+						
+				
+				
+				
+					
+
+
+				
+				
+		
+				
+				
+					זמן ומים				
+				
+				
+				
+					Time And Water				
+				
+				
+				
+							שרה דוסה
+						
+				
+				
+				
+									אלגיה קולנועית על זמן וזיכרון שנוזלים דרך האצבעות על רקע נופי איסלנד המפעימים								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/time-and-water/)
+- [פנורמה
+						
+				
+				
+		
+				
+				
+					קצה הלילה				
+				
+				
+				
+					Edge Of The Night				
+				
+				
+				
+							ולדימיר לוגינוב
+						
+				
+				
+				
+									מסע לילי בין אירועים וטיפוסים בפינותיה של עיר אירופית המתכנס לדיוקן חושי מהפנט								
+				
+				
+				
+									Nocturnal wanderings through a European city’s corners and characters converge in a hypnotic sensory portrait								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/edge-of-the-night/)
+- [פנורמה
+						
+				
+				
+		
+				
+				
+					במים גועשים				
+				
+				
+				
+					I Follow Rivers				
+				
+				
+				
+							ברברה הולן
+						
+				
+				
+				
+									דיוקן רווי אדרנלין על חותרת קיאקים שבוחנת את גבולות הסכנה והמימוש העצמי								
+				
+				
+				
+									An adrenaline-fueled portrait of a kayaker testing the limits of danger and self-fulfillment								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/i-follow-rivers/)
+- [תחרות מעבר למסך
+						
+				
+				
+		
+				
+				
+					פוליצק: הקולות שמתנגדים לקרמלין				
+				
+				
+				
+					Politzek - The Voices That Defy The Kremlin				
+				
+				
+				
+							מנוֹן לוואזוּ, יקטרינה ממונטובה
+						
+				
+				
+				
+									סיפורם של מתנגדי משטר ברוסיה, המשלמים את המחיר הכבד ביותר עבור חופש הביטוי								
+				
+				
+				
+									The story of Russian dissidents paying the ultimate price for freedom of speech								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/politzek-the-voices-that-defy-the-kremlin/)
+- [אמנות ותרבות בחסות יובלים סיטיבוי
+						
+				
+				
+				
+					
+
+
+				
+				
+		
+				
+				
+					עברי מי?				
+				
+				
+				
+					Ivry Who?				
+				
+				
+				
+							גיא תורג'מן
+						
+				
+				
+				
+									ביוגרפיה אינטימית של מוזיקאי וירטואוז שנע במשך כל חייו בין תהילה למחיקה								
+				
+				
+				
+									A young filmmaker meets his 93-year-old neighbor – legendary, controversial violinist Ivry Gitlis								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/ivry-who/)
+- [תחרות בינלאומית
+						
+				
+				
+		
+				
+				
+					שיר ללא בית				
+				
+				
+				
+					A Song Without Home				
+				
+				
+				
+							רטי ציטֵלָדְזֶה
+						
+				
+				
+				
+									בעוד שבמולדתה קיומה הטרנסי נמחק, דוקו חזק ומסוגנן מעניק נראות לגיבורה אמיצה 								
+				
+				
+				
+									A powerful, stylized doc brings visibility to a brave heroine whose trans identity was erased back home								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/a-song-without-home/)
+- [אמנות ותרבות בחסות יובלים סיטיבוי
+						
+				
+				
+				
+					
+
+
+				
+				
+		
+				
+				
+					פארוקיטו, שושלת הפלמנקו				
+				
+				
+				
+					Farruquito, A Flamenco Dynasty				
+				
+				
+				
+							סנטי אגואדו, רובן אטלס
+						
+				
+				
+				
+									לאחר טרגדיה ששינתה את חייו, רקדן נערץ מחפש גאולה בירושה המשפחתית שלו – הפלמנקו								
+				
+				
+				
+									After a life-altering tragedy, a revered dancer seeks redemption through his family legacy – flamenco								
+				
+		
+				
+				
+									לעמוד הסרט								
+				
+				
+				
+									To the movie page](https://www.docaviv.co.il/films/farruquito-a-flamenco-dynasty/)
+
+### External
+- [לרכישהTickets](https://cintlv.presglobal.store/order/127898)
+- [לרכישהTickets](https://cintlv.presglobal.store/order/128001)
+- [https://cintlv.presglobal.store/membership/PRIMUIM10](https://cintlv.presglobal.store/membership/PRIMUIM10)
+- [https://www.shufersal.co.il/online/he/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/%D7%A1%D7%95%D7%A4%D7%A8%D7%9E%D7%A8%D7%A7%D7%98/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%90%D7%9C%D7%9B%D7%95%D7%94%D7%95%D7%9C-%D7%95%D7%99%D7%99%D7%9F/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%A7%D7%9C%D7%99%D7%9D/c/A1308?q=%3Arelevance%3Abrand%3A997%3Apreferences%3APD1](https://www.shufersal.co.il/online/he/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/%D7%A1%D7%95%D7%A4%D7%A8%D7%9E%D7%A8%D7%A7%D7%98/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%90%D7%9C%D7%9B%D7%95%D7%94%D7%95%D7%9C-%D7%95%D7%99%D7%99%D7%9F/%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-%D7%A7%D7%9C%D7%99%D7%9D/c/A1308?q=%3Arelevance%3Abrand%3A997%3Apreferences%3APD1)
+- [https://yuvalim-cityboy.ussl.co.il/he/ycb-matmid/](https://yuvalim-cityboy.ussl.co.il/he/ycb-matmid/)
+- [https://www.instagram.com/flor.telaviv/?en=](https://www.instagram.com/flor.telaviv/?en=)
+- [https://www.yes.co.il/lead/docaviv-lead/](https://www.yes.co.il/lead/docaviv-lead/)
+- [https://www.geotours.co.il/](https://www.geotours.co.il/)
+- [https://join.as-invest.co.il/trade/](https://join.as-invest.co.il/trade/)
+- [https://www.facebook.com/dbfilmsound?mibextid=ZbWKwL](https://www.facebook.com/dbfilmsound?mibextid=ZbWKwL)

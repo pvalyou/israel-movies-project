@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-מגש-הכסף-פרק-1-דורות-צברי-אמיר-בן/",
+  "stable_id": "nfct__events-event--------1__9de45ba2",
+  "fetched_at": "2026-05-10T07:09:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T07:09:52Z",
+  "duration_ms": 24043,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1bd432e916e1e3676f7ea5214c1a1063a1e8305c013ef5336a10c82576c744a",
+  "md_bytes": 9964,
+  "links_found": 20,
+  "files_found": 0
+}

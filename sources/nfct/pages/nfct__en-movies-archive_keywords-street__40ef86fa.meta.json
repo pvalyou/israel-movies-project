@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=street",
+  "stable_id": "nfct__en-movies-archive_keywords-street__40ef86fa",
+  "fetched_at": "2026-05-16T15:35:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:35:37Z",
+  "duration_ms": 8114,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:14e9dfd38031bb5dce1181cfcb1229d644028f49c3488f5562d6587eef972965",
+  "md_bytes": 16412,
+  "links_found": 82,
+  "files_found": 0
+}

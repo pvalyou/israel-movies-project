@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרלה-יקירתי/",
+  "stable_id": "nfct__blog-movies__5644a844",
+  "fetched_at": "2026-05-09T17:44:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:44:43Z",
+  "duration_ms": 13701,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1789bacb4ab6ace24b2611af69f6487d44d455d74b421ed3a8c2fd0a50983e4f",
+  "md_bytes": 19033,
+  "links_found": 38,
+  "files_found": 0
+}

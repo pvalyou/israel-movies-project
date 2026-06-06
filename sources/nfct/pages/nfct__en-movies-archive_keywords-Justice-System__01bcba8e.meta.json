@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Justice+System",
+  "stable_id": "nfct__en-movies-archive_keywords-Justice-System__01bcba8e",
+  "fetched_at": "2026-05-16T14:03:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:03:34Z",
+  "duration_ms": 6561,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8686d0c54117ab12ae3ec84187b6a5658bb16f3a2689418c396f7d58e44ca7ff",
+  "md_bytes": 11160,
+  "links_found": 70,
+  "files_found": 0
+}

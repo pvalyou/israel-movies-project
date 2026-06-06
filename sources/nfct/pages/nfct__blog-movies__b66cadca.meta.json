@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/על-ראש-שמחתי/",
+  "stable_id": "nfct__blog-movies__b66cadca",
+  "fetched_at": "2026-05-09T21:52:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:52:56Z",
+  "duration_ms": 22492,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:64442022069ed9c404328510b6d95ac9c6b4d62fd2fc5edd47d7af74f6baae27",
+  "md_bytes": 14479,
+  "links_found": 34,
+  "files_found": 0
+}

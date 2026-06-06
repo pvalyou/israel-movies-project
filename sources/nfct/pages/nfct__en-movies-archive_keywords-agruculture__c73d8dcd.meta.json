@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=agruculture",
+  "stable_id": "nfct__en-movies-archive_keywords-agruculture__c73d8dcd",
+  "fetched_at": "2026-05-16T15:32:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:32:57Z",
+  "duration_ms": 10970,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7aadbfe6abdb6fe77a8bf386946cdbb34c55f63b0d692f00b780af78b6467aaa",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

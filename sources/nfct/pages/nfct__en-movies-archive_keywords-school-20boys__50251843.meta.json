@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=school%20boys",
+  "stable_id": "nfct__en-movies-archive_keywords-school-20boys__50251843",
+  "fetched_at": "2026-05-16T16:24:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:24:30Z",
+  "duration_ms": 9107,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c857a8446be91d8f8005bdd62d6de5200bf047d9d9921961105772075d2810c",
+  "md_bytes": 10638,
+  "links_found": 69,
+  "files_found": 0
+}

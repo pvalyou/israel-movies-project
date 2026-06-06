@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/abu-omar/",
+  "stable_id": "nfct__en-movies-abu-omar__0a22ad69",
+  "fetched_at": "2026-05-11T20:12:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:12:17Z",
+  "duration_ms": 29733,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9eea80fec9cb1256b4854ec5063c5d2054f91001df6055306261e29435a7c6df",
+  "md_bytes": 14000,
+  "links_found": 43,
+  "files_found": 0
+}

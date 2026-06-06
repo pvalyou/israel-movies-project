@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Anat+Gov",
+  "stable_id": "nfct__en-movies-archive_keywords-Anat-Gov__638a17d7",
+  "fetched_at": "2026-05-16T15:23:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:23:34Z",
+  "duration_ms": 12544,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ced1b3672a6ddc8ebb96c3afb7fc9690b128383d556a82b73ba3ce9b04bc8e63",
+  "md_bytes": 10330,
+  "links_found": 68,
+  "files_found": 0
+}

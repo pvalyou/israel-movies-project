@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mayor+Committee",
+  "stable_id": "nfct__en-movies-archive_keywords-Mayor-Committee__8f6b5af9",
+  "fetched_at": "2026-05-16T16:55:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:55:16Z",
+  "duration_ms": 6900,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2b9b6efd73cf9928d3d508afe8e844d28021d1e012aa8dd842218fb49b2845e8",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

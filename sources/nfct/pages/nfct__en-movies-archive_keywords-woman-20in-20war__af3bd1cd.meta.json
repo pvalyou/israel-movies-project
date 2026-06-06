@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=woman%20in%20war",
+  "stable_id": "nfct__en-movies-archive_keywords-woman-20in-20war__af3bd1cd",
+  "fetched_at": "2026-05-16T15:22:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:22:39Z",
+  "duration_ms": 7791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e7690e16b9e1023de2d65b11fb19f31760e77684baef84604e388ec438bc03a",
+  "md_bytes": 15934,
+  "links_found": 82,
+  "files_found": 0
+}

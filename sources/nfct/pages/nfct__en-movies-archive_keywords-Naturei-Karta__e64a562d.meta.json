@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Naturei+Karta",
+  "stable_id": "nfct__en-movies-archive_keywords-Naturei-Karta__e64a562d",
+  "fetched_at": "2026-05-16T11:13:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:13:33Z",
+  "duration_ms": 8371,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a96fad5fbd082688cb11e248a722984d92606c87623988815f7b46efcccad25",
+  "md_bytes": 10287,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מקובלות/",
+  "stable_id": "nfct__blog-movies__05028250",
+  "fetched_at": "2026-05-09T21:36:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:36:08Z",
+  "duration_ms": 38667,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:648d2fa8a8ce0cb9d7ae07e85dada08bd4bd2ed909ff8b10c6bb5dd5c197a365",
+  "md_bytes": 15793,
+  "links_found": 33,
+  "files_found": 0
+}

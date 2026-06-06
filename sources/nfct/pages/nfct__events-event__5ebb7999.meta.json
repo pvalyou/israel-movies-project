@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-גבר-מהסרטים-נואית-גבע-בית-התפוצ/",
+  "stable_id": "nfct__events-event__5ebb7999",
+  "fetched_at": "2026-05-10T02:59:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:59:20Z",
+  "duration_ms": 34879,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9b97262db425ed51153c12e03799aa3649f467955875406435682f57158086a",
+  "md_bytes": 10587,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מלחמת-השחרור/",
+  "stable_id": "nfct__blog-movies__b5da5ef5",
+  "fetched_at": "2026-05-09T17:56:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:56:22Z",
+  "duration_ms": 14862,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03205e8e6872512992ba4df47e534e5697204e374e7ce96ea68c9f7ec2d76ee9",
+  "md_bytes": 18471,
+  "links_found": 43,
+  "files_found": 0
+}

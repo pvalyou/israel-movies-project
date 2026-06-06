@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שונד/",
+  "stable_id": "nfct__blog-movies__64c35e0e",
+  "fetched_at": "2026-05-09T17:24:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:24:25Z",
+  "duration_ms": 14232,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:760b9a5dd10c3661737e3017572b5628cd4025f3464722586f3b4544ad888a25",
+  "md_bytes": 17813,
+  "links_found": 36,
+  "files_found": 0
+}

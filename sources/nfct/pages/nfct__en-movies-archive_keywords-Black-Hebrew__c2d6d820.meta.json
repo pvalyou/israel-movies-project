@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Black+Hebrew",
+  "stable_id": "nfct__en-movies-archive_keywords-Black-Hebrew__c2d6d820",
+  "fetched_at": "2026-05-16T07:42:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:42:39Z",
+  "duration_ms": 7180,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:79c709e4d73f9351477230f30c733f6e56213998b086657f0c99d8ed1ac8e2dd",
+  "md_bytes": 10205,
+  "links_found": 68,
+  "files_found": 0
+}

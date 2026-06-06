@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=photojournalist",
+  "stable_id": "nfct__en-movies-archive_keywords-photojournalist__50383c56",
+  "fetched_at": "2026-05-16T11:14:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:14:34Z",
+  "duration_ms": 10011,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:89d0a607c695ec9777f32bd8813c20535462b004c2d730594152799f2729b16b",
+  "md_bytes": 10442,
+  "links_found": 69,
+  "files_found": 0
+}

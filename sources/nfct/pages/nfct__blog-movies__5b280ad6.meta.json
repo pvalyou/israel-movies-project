@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הברכה-של-יאמנה/",
+  "stable_id": "nfct__blog-movies__5b280ad6",
+  "fetched_at": "2026-05-09T20:16:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:16:02Z",
+  "duration_ms": 16593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07811050baeb3fba1fd069ebe4b6219fbc06b6e3252ba154c522582c10ff3f4c",
+  "md_bytes": 19978,
+  "links_found": 43,
+  "files_found": 0
+}

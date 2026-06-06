@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=wild",
+  "stable_id": "nfct__en-movies-archive_keywords-wild__657dda87",
+  "fetched_at": "2026-05-16T16:44:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:44:04Z",
+  "duration_ms": 9523,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7fbe58e680e68c3eacd30482a7712b68d693dc322b6e82502aaa7ad35bca5953",
+  "md_bytes": 16307,
+  "links_found": 82,
+  "files_found": 0
+}

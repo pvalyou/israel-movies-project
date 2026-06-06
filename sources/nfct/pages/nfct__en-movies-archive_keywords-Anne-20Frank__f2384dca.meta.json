@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Anne%20Frank",
+  "stable_id": "nfct__en-movies-archive_keywords-Anne-20Frank__f2384dca",
+  "fetched_at": "2026-05-16T12:33:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:50Z",
+  "duration_ms": 9473,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d802e8bb114064076de7911ae09a2ef93d73df06f2668fa045610bfdfbd1d84",
+  "md_bytes": 10063,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/congratulations-%e2%9d%a4%ef%b8%8f/?lang=en",
+  "stable_id": "makor__congratulations--e2-9d-a4-ef-b8-8f_lang-en__9b220cca",
+  "fetched_at": "2026-05-09T13:35:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:35:38Z",
+  "duration_ms": 15828,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ad229c3482624b6797c1b94d761edbb2fbaff8834ea6c9ea61804de31662cee4",
+  "md_bytes": 2241,
+  "links_found": 2,
+  "files_found": 0
+}

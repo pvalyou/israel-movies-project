@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-black-sabbath/?lang=en",
+  "stable_id": "makor__films-the-black-sabbath_lang-en__00bcf436",
+  "fetched_at": "2026-05-09T13:26:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:26:04Z",
+  "duration_ms": 10989,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cd10d304e8a7a63c66f9410861bd3964f490b2e9a0a9f0538488e570860afec9",
+  "md_bytes": 2505,
+  "links_found": 4,
+  "files_found": 0
+}

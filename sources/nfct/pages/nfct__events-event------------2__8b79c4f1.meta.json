@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-דובדבנים-הגן-מתוך-קצרארוך-ערו-2/",
+  "stable_id": "nfct__events-event------------2__8b79c4f1",
+  "fetched_at": "2026-05-15T09:10:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:10:54Z",
+  "duration_ms": 9935,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:096b2a540ef8b1b2212122ffe0ea92cc61c175aa8d20e976ed59a2b4932be66f",
+  "md_bytes": 11606,
+  "links_found": 23,
+  "files_found": 0
+}

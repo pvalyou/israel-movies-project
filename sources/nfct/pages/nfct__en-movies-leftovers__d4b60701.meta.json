@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/leftovers/#UArexazDFN",
+  "stable_id": "nfct__en-movies-leftovers__d4b60701",
+  "fetched_at": "2026-05-16T16:40:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:40:35Z",
+  "duration_ms": 14873,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f5c98aa99325b4e2c1e8856b338640ea16998bd498550ff2d4431b4f55f6ef22",
+  "md_bytes": 13770,
+  "links_found": 42,
+  "files_found": 0
+}

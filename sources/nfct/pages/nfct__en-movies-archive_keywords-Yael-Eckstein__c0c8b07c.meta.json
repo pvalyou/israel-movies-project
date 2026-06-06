@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yael+Eckstein",
+  "stable_id": "nfct__en-movies-archive_keywords-Yael-Eckstein__c0c8b07c",
+  "fetched_at": "2026-05-16T15:19:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:36Z",
+  "duration_ms": 7790,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:383d7376ecd26b7677110152dd625bcedf34dea7e9021f836051f862e3c3a058",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

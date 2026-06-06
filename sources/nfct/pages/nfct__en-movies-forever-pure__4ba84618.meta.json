@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/forever-pure/",
+  "stable_id": "nfct__en-movies-forever-pure__4ba84618",
+  "fetched_at": "2026-05-11T21:29:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:29:25Z",
+  "duration_ms": 27810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:71e1b1ca53bb8a11b01c922030e0543c3efc1fb14522a11afaf3bc21b48ec957",
+  "md_bytes": 15208,
+  "links_found": 39,
+  "files_found": 0
+}

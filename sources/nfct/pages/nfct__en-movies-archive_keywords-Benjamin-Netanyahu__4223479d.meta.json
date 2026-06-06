@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Benjamin+Netanyahu",
+  "stable_id": "nfct__en-movies-archive_keywords-Benjamin-Netanyahu__4223479d",
+  "fetched_at": "2026-05-16T16:34:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:13Z",
+  "duration_ms": 6489,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5315ed8ddd787cafefa13a1da89a7de827f71adb53ae1f9bef9ba4a89176972c",
+  "md_bytes": 9988,
+  "links_found": 68,
+  "files_found": 0
+}

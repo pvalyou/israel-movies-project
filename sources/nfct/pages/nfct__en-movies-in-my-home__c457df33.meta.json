@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-my-home/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-in-my-home__c457df33",
+  "fetched_at": "2026-05-16T17:07:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:07:48Z",
+  "duration_ms": 5599,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bed2d42164e5ace8bc3f47c01a24b53ad8702427179821409dd171a8f227c6f3",
+  "md_bytes": 10677,
+  "links_found": 30,
+  "files_found": 0
+}

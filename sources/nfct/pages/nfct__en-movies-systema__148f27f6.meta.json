@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/systema/",
+  "stable_id": "nfct__en-movies-systema__148f27f6",
+  "fetched_at": "2026-05-11T13:49:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:49:47Z",
+  "duration_ms": 43767,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef0e15650dc773fb5bf64ba84a3fb1c3b8452a7e4ffe9900e564bddd9b64d0dc",
+  "md_bytes": 12083,
+  "links_found": 33,
+  "files_found": 0
+}

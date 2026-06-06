@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Self",
+  "stable_id": "nfct__en-movies-archive_keywords-Self__b6a78bd2",
+  "fetched_at": "2026-05-16T13:18:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:18:05Z",
+  "duration_ms": 9432,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99d4a4142514dadbecb4c7d7591ead3f2485f7b6e998de49d0a92c632f88f4e3",
+  "md_bytes": 16935,
+  "links_found": 82,
+  "files_found": 0
+}

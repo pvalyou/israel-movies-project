@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Collective%20Memory",
+  "stable_id": "nfct__en-movies-archive_keywords-Collective-20Memory__590fe9f2",
+  "fetched_at": "2026-05-16T12:21:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:53Z",
+  "duration_ms": 9829,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7bf210c1bcba662decb0080b729f65ca7dd1a2540f36e6b7a3a3fa4dfbe36210",
+  "md_bytes": 11591,
+  "links_found": 71,
+  "files_found": 0
+}

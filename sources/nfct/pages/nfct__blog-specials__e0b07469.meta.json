@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/כרטיס-ביקור/",
+  "stable_id": "nfct__blog-specials__e0b07469",
+  "fetched_at": "2026-05-09T18:01:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:01:56Z",
+  "duration_ms": 33462,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d2461d9b509b5e7d2239cfb83b95fe837906f4db075bbc910e667c38c5d3a0b",
+  "md_bytes": 14300,
+  "links_found": 33,
+  "files_found": 0
+}

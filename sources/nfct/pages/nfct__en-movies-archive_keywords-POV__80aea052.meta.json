@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=POV",
+  "stable_id": "nfct__en-movies-archive_keywords-POV__80aea052",
+  "fetched_at": "2026-05-16T20:17:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:02Z",
+  "duration_ms": 6268,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0998d66b24f2a21e643716ebb0cb2d5b81f53685addc3773c3d1212e0f16d68a",
+  "md_bytes": 15450,
+  "links_found": 81,
+  "files_found": 0
+}

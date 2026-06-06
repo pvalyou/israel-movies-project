@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/crownless-queen-of-the-garden/",
+  "stable_id": "nfct__en-movies-crownless-queen-of-the-garden__29c22394",
+  "fetched_at": "2026-05-11T11:58:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:58:20Z",
+  "duration_ms": 18782,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be0883994dede306bf732604e2a213c7160f809553b13e1429117ea4e93d7acb",
+  "md_bytes": 11154,
+  "links_found": 30,
+  "files_found": 0
+}

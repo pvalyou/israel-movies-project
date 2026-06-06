@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נדל״ן/",
+  "stable_id": "nfct__blog-movies__7800b87d",
+  "fetched_at": "2026-05-09T19:28:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:28:44Z",
+  "duration_ms": 14204,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2a389b4bb51640fbf9fdcb5f5690c0c1d783ddc98b879cd7200ed9a7b0cb90ae",
+  "md_bytes": 12920,
+  "links_found": 23,
+  "files_found": 0
+}

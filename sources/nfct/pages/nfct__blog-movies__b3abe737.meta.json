@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הסוד-של-רשבי/",
+  "stable_id": "nfct__blog-movies__b3abe737",
+  "fetched_at": "2026-05-09T20:30:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:30:38Z",
+  "duration_ms": 53415,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96307d053295bdcc08706da3a4eb9b4150b0d67673fc87d62be662b235e91d57",
+  "md_bytes": 16934,
+  "links_found": 35,
+  "files_found": 0
+}

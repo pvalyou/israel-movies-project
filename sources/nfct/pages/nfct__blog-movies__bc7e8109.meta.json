@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ללא-בית/",
+  "stable_id": "nfct__blog-movies__bc7e8109",
+  "fetched_at": "2026-05-09T17:23:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:23:50Z",
+  "duration_ms": 40595,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:04efaf0bc574b46b2fc5e0e688a9d8cf306f33ded4ae3665440b398b6b9ce56b",
+  "md_bytes": 20877,
+  "links_found": 46,
+  "files_found": 0
+}

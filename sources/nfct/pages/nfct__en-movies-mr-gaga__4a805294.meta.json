@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mr-gaga/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-mr-gaga__4a805294",
+  "fetched_at": "2026-05-16T16:53:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:53:30Z",
+  "duration_ms": 18629,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e7fa1cc0cf8af289e67527c08c8fbae4357cabd7e67c00d8224e3c54bef7090",
+  "md_bytes": 14343,
+  "links_found": 28,
+  "files_found": 0
+}

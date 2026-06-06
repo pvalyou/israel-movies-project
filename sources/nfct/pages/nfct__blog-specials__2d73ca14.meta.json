@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/קולות-קוראים/",
+  "stable_id": "nfct__blog-specials__2d73ca14",
+  "fetched_at": "2026-05-09T18:06:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:06:36Z",
+  "duration_ms": 9188,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1dc1297fb4b521a6db425fc59db8977b6c706f54a255d1fd0f654be8fd6e0c1b",
+  "md_bytes": 14887,
+  "links_found": 26,
+  "files_found": 0
+}

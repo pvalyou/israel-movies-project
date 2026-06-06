@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הילד-מברסלב-פצעי-בגרות/",
+  "stable_id": "nfct__blog-movies__68e4f3bd",
+  "fetched_at": "2026-05-09T17:23:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:23:26Z",
+  "duration_ms": 43607,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:951c697b9caef60b32c220802188c12819a7c51a08fa0266560942606419b253",
+  "md_bytes": 14723,
+  "links_found": 37,
+  "files_found": 0
+}

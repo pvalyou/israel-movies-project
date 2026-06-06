@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Catholics",
+  "stable_id": "nfct__en-movies-archive_keywords-Catholics__b13e8e94",
+  "fetched_at": "2026-05-16T07:31:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:31:06Z",
+  "duration_ms": 13111,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f54403fb1f5bae13faa1537e7a9147a2027c807d8b3d26860f62e25924a01b70",
+  "md_bytes": 10046,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Camps",
+  "stable_id": "nfct__en-movies-archive_keywords-Camps__2a402e87",
+  "fetched_at": "2026-05-16T16:53:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:53:39Z",
+  "duration_ms": 9597,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8c5426dba354894131767060049db5e57d8dfec0dcf15fa16d67e3a41ceed693",
+  "md_bytes": 13736,
+  "links_found": 76,
+  "files_found": 0
+}

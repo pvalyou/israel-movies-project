@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-silly-song-for-lia/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-a-silly-song-for-lia__b294145e",
+  "fetched_at": "2026-05-16T12:44:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:44:19Z",
+  "duration_ms": 17598,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f21f44dfa3bd607843668f75c0e8bd7fe15e353287e0ddecd1be2bebc3c32bb",
+  "md_bytes": 11955,
+  "links_found": 30,
+  "files_found": 0
+}

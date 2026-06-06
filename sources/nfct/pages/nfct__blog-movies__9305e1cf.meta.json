@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החיידר/",
+  "stable_id": "nfct__blog-movies__9305e1cf",
+  "fetched_at": "2026-05-09T19:26:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:26:42Z",
+  "duration_ms": 13648,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f4e8da5d72ceee83fdb9f89b918ff59bf9dd539006d0bd1ab892e6f1d879e0b",
+  "md_bytes": 18498,
+  "links_found": 42,
+  "files_found": 0
+}

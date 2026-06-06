@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/המסע-של-ימימה/",
+  "stable_id": "nfct__blog-movies__82f42e69",
+  "fetched_at": "2026-05-15T09:00:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:00:53Z",
+  "duration_ms": 8169,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e632f78bc29b667a5aaa5a86c74c4f8899c1f4f4b2acde4e829b812da0ad2ac3",
+  "md_bytes": 16022,
+  "links_found": 32,
+  "files_found": 0
+}

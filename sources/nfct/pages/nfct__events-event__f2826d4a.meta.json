@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-פתלתל-אבי-לוי-אבי-בלקין-סינמטק/",
+  "stable_id": "nfct__events-event__f2826d4a",
+  "fetched_at": "2026-05-10T12:19:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:19:19Z",
+  "duration_ms": 22095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b0ba1062034a347810cedc506d97eb0a04ba4c1e61e06a9c0af643a239cc65e9",
+  "md_bytes": 11253,
+  "links_found": 22,
+  "files_found": 0
+}

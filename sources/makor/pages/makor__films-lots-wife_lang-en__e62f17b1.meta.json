@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/lots-wife/?lang=en",
+  "stable_id": "makor__films-lots-wife_lang-en__e62f17b1",
+  "fetched_at": "2026-05-09T13:24:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:24:37Z",
+  "duration_ms": 17291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a8ab569c771d59389cc27a0fccc61c4f608e17daf7aab3eded16ad2a7343b78",
+  "md_bytes": 2176,
+  "links_found": 4,
+  "files_found": 0
+}

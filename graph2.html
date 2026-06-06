@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>רשת קולנוע ישראלי — Cosmos (graph2)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Heebo:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: dark;
+  --bg:       #07080b;
+  --panel:    #0d0f14;
+  --panel-2:  #161821;
+  --border:   rgba(255,255,255,.06);
+  --border-strong: rgba(255,255,255,.10);
+  --text:     #eef0f4;
+  --text-dim: #9397a3;
+  --fg-3:     #686c75;
+  /* accents — house palette */
+  --accent:   #f0866a;  /* people / warm */
+  --accent-2: #7da4ff;  /* brand blue — funds */
+  --red:      #e85a5a;
+  --orange:   #f4c15d;
+  --green:    #6ce4a4;
+  --purple:   #8b3fd4;  /* brand violet — schools */
+  --brand-blue:#7da4ff; --brand-violet:#8b3fd4; --brand-magenta:#c63db4; --brand-pink:#e8489f; --brand-stone:#7a90bc;
+  /* type */
+  --font-sans: 'Assistant','Heebo',ui-sans-serif,system-ui,sans-serif;
+  --font-mono: 'Geist Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
+  /* radii */
+  --r-sm: 6px; --r-md: 10px; --r-lg: 14px;
+  /* card surface */
+  --card-bg: linear-gradient(180deg,#161821 0%,#0d0f14 100%);
+  --card-shadow: inset 0 1px 0 rgba(255,255,255,.025), 0 8px 24px -16px rgba(30,20,80,.45);
+  /* micro-label treatment */
+  --label-size: 10px; --label-tracking: .14em;
+  --label-color: color-mix(in srgb, var(--text-dim) 40%, var(--fg-3) 60%);
+  --ease: cubic-bezier(.2,.8,.2,1);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { height: 100%; }
+body { height: 100%; overflow: hidden; background: var(--bg); color: var(--text);
+  font-family: var(--font-sans); font-size: 13px; -webkit-font-smoothing: antialiased;
+  display: flex; flex-direction: column; }
+
+/* ── header ── */
+header {
+  padding: 14px 24px; border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, #161821 0%, #0d0f14 100%);
+  display: flex; align-items: center; gap: 14px; height: 60px; flex-shrink: 0;
+}
+header h1 { font-size: 17px; font-weight: 700; white-space: nowrap; direction: rtl; letter-spacing: -.01em; }
+.header-badge {
+  display: inline-block; color: #07080b;
+  background: linear-gradient(90deg, var(--brand-blue), var(--brand-violet) 55%, var(--brand-magenta));
+  font-size: 9px; padding: 3px 9px; border-radius: 999px; text-transform: uppercase; letter-spacing: .08em;
+  margin-inline-start: 8px; font-weight: 700; vertical-align: middle;
+}
+#header-stats { flex: 1; font-size: 11px; color: var(--text-dim); direction: rtl;
+  font-family: var(--font-mono); letter-spacing: .02em; }
+#search-wrap { position: relative; width: 230px; flex-shrink: 0; }
+#search {
+  width: 100%; background: var(--bg); border: 1px solid var(--border);
+  border-radius: 8px; padding: 6px 12px; color: var(--text); font-size: 12px;
+  font-family: inherit; direction: rtl; outline: none;
+}
+#search::placeholder { color: var(--text-dim); }
+#search:focus { border-color: var(--accent-2); }
+#search-dropdown {
+  display: none; position: absolute; top: calc(100% + 4px); left: 0; right: 0;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
+  max-height: 230px; overflow-y: auto; z-index: 200;
+}
+.sd-item { display: flex; align-items: center; gap: 8px; padding: 7px 12px; cursor: pointer; direction: rtl; }
+.sd-item:hover { background: var(--panel-2); }
+.sd-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.sd-label { font-size: 12px; }
+
+/* ── layout ── */
+#body { display: grid; grid-template-columns: 280px 1fr 380px; flex: 1; min-height: 0; overflow: hidden; }
+
+/* ── left panel ── */
+#left-panel { background: var(--panel); border-right: 1px solid var(--border); overflow-y: auto; padding: 10px 12px; }
+.sec-title { font-size: var(--label-size); font-weight: 600; letter-spacing: var(--label-tracking);
+  text-transform: uppercase; color: var(--label-color); margin: 12px 0 7px; direction: rtl; }
+.sec-title:first-child { margin-top: 0; }
+
+.filter-row { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 2px; }
+.filter-btn {
+  background: var(--panel-2); border: 1px solid var(--border); color: var(--text-dim);
+  padding: 4px 9px; border-radius: 999px; cursor: pointer; font-size: 11px;
+  font-family: inherit; direction: rtl; display: flex; align-items: center; gap: 5px;
+  transition: border-color var(--dur-fast,.14s) var(--ease), color .14s, background .14s; white-space: nowrap;
+}
+.filter-btn.active { background: color-mix(in srgb,var(--accent-2) 16%,transparent);
+  color: var(--accent-2); border-color: color-mix(in srgb,var(--accent-2) 45%,transparent); font-weight: 600; }
+.filter-btn:hover:not(.active) { border-color: var(--border-strong); color: var(--text); }
+.fbtn-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+#stats-cards { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 5px; }
+.stat { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--r-sm);
+  box-shadow: var(--card-shadow); padding: 7px 4px; direction: rtl; text-align: center; }
+.stat .num { font-family: var(--font-mono); font-size: 16px; font-weight: 600; color: var(--accent);
+  line-height: 1.05; letter-spacing: -.01em; }
+.stat .lbl { font-size: 9px; color: var(--label-color); margin-top: 3px; line-height: 1.15;
+  text-transform: uppercase; letter-spacing: .04em; }
+.stat.red .num { color: var(--red); }
+.stat.green .num { color: var(--green); }
+.stat.blue .num { color: var(--accent-2); }
+.stat.orange .num { color: var(--orange); }
+
+.legend-item { display: flex; align-items: center; gap: 7px; font-size: 11px; padding: 2px 0;
+  color: var(--text-dim); direction: rtl; }
+.lg-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.lg-sq  { width: 12px; height: 9px; border-radius: 3px; flex-shrink: 0; }
+.lg-line { width: 18px; height: 3px; border-radius: 2px; flex-shrink: 0; }
+
+.divider { border: none; border-top: 1px solid var(--border); margin: 7px 0; }
+
+/* ── display controls ── */
+#controls {
+  position: absolute; top: 12px; right: 12px; z-index: 10;
+  display: flex; flex-direction: column; gap: 5px;
+  background: color-mix(in srgb, var(--panel) 82%, transparent); border: 1px solid var(--border);
+  border-radius: var(--r-md); padding: 6px; backdrop-filter: blur(8px); box-shadow: var(--card-shadow);
+}
+.ctrl-btn {
+  width: 30px; height: 30px; background: transparent; border: 1px solid var(--border);
+  border-radius: 7px; color: var(--text-dim); font-size: 12px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center; transition: all .15s;
+  font-family: inherit; line-height: 1;
+}
+.ctrl-btn.active { background: color-mix(in srgb,var(--accent-2) 18%,transparent); color: var(--accent-2);
+  border-color: color-mix(in srgb,var(--accent-2) 50%,transparent); }
+.ctrl-btn:hover:not(.active) { border-color: var(--border-strong); color: var(--text); }
+.ctrl-sep { border-top: 1px solid var(--border); margin: 2px -2px; }
+.ctrl-deg { display: flex; align-items: center; gap: 2px; padding: 1px 2px; }
+.ctrl-deg-lbl { font-size: 9px; color: var(--text-dim); flex-shrink: 0; }
+.ctrl-deg-val { font-size: 11px; font-weight: 700; color: var(--text); min-width: 14px; text-align: center; }
+.ctrl-smb {
+  width: 18px; height: 18px; background: transparent; border: 1px solid var(--border);
+  border-radius: 4px; color: var(--text-dim); font-size: 14px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  font-family: inherit; line-height: 1; padding: 0; transition: all .15s;
+}
+.ctrl-smb:hover { border-color: var(--accent-2); color: var(--text); }
+
+/* ── canvas ── */
+#canvas-wrap { position: relative; overflow: hidden;
+  background: radial-gradient(ellipse 72% 72% at 48% 46%, #12141d 0%, #0a0b10 54%, #050608 100%); }
+#cy { width: 100%; height: 100%; }
+
+/* ── HTML-overlay hub labels (idea from pvalyou SchoolLabels) ── */
+#hub-labels { position: absolute; inset: 0; pointer-events: none; z-index: 6; overflow: hidden; }
+.hub-chip {
+  position: absolute; top: 0; left: 0; white-space: nowrap; direction: rtl;
+  font-family: var(--font-sans); font-weight: 600; color: var(--text);
+  padding: 1px 8px; border-radius: 999px; line-height: 1.55;
+  background: color-mix(in srgb, var(--bg) 72%, transparent); backdrop-filter: blur(3px);
+  border: 1px solid var(--border); text-shadow: 0 1px 3px rgba(0,0,0,.85);
+  transition: opacity .15s var(--ease); will-change: transform; opacity: 1;
+}
+.hub-chip.fund   { box-shadow: 0 0 0 1px color-mix(in srgb, var(--brand-blue) 30%, transparent),
+                               0 4px 12px -6px color-mix(in srgb, var(--brand-blue) 60%, transparent); }
+.hub-chip.school { box-shadow: 0 0 0 1px color-mix(in srgb, var(--brand-violet) 30%, transparent),
+                               0 4px 12px -6px color-mix(in srgb, var(--brand-violet) 60%, transparent); }
+.hub-chip.hidden { opacity: 0; }
+
+#loading { position: absolute; inset: 0; background: var(--bg); z-index: 5;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; }
+#loading.hidden { display: none; }
+.spinner { width: 32px; height: 32px; border: 3px solid var(--border);
+  border-top-color: var(--accent-2); border-radius: 50%; animation: spin .7s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+#loading-msg { font-size: 12px; color: var(--text-dim); }
+
+#zoom-bar { position: absolute; bottom: 18px; left: 16px; display: flex; flex-direction: column; gap: 4px; z-index: 10; }
+.zbtn { width: 32px; height: 32px; background: color-mix(in srgb,var(--panel) 82%,transparent);
+  border: 1px solid var(--border); border-radius: var(--r-sm); color: var(--text-dim); font-size: 15px;
+  cursor: pointer; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(8px);
+  transition: border-color .14s, color .14s; }
+.zbtn:hover { color: var(--text); border-color: var(--border-strong); }
+
+/* ── right panel ── */
+#right-panel { background: var(--panel); border-left: 1px solid var(--border); overflow-y: auto; padding: 16px 20px; }
+.finding { background: var(--panel-2); border: 1px solid var(--border);
+  border-right: 3px solid var(--accent); border-radius: 8px; padding: 12px 14px; margin-bottom: 10px; direction: rtl; }
+.finding h3 { margin: 0 0 5px; font-size: 14px; font-weight: 700; color: var(--text); }
+.finding p { font-size: 13px; color: var(--text-dim); margin: 0; line-height: 1.55; }
+.finding .big { color: var(--accent); font-weight: 700; }
+
+.person-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--r-md);
+  box-shadow: var(--card-shadow); padding: 16px; direction: rtl; }
+.person-card h3 { margin: 0 0 10px; font-size: 19px; font-weight: 700; }
+.person-card .badges { margin-bottom: 12px; }
+.badge-label { display: inline-block; padding: 3px 10px; border-radius: 10px; font-size: 11px; font-weight: 700; margin: 2px 2px 2px 0; }
+.badge-conflict { background: rgba(248,81,73,.15);   color: var(--red); }
+.badge-soft     { background: rgba(210,153,34,.18);  color: var(--orange); }
+.badge-fund     { background: rgba(88,166,255,.15);  color: var(--accent-2); }
+.badge-school   { background: rgba(188,140,255,.15); color: var(--purple); }
+.badge-person   { background: rgba(247,129,102,.15); color: var(--accent); }
+
+.conn-section { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border); }
+.conn-section:first-of-type { border-top: none; padding-top: 0; margin-top: 12px; }
+.conn-title { font-size: var(--label-size); font-weight: 600; letter-spacing: var(--label-tracking);
+  text-transform: uppercase; color: var(--label-color); margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+.conn-count { background: var(--panel-2); border: 1px solid var(--border); border-radius: 999px;
+  font-size: 10px; padding: 1px 7px; color: var(--text-dim); font-weight: 500; letter-spacing: 0;
+  font-family: var(--font-mono); }
+.conn-item { display: flex; align-items: flex-start; gap: 7px; padding: 6px 6px; cursor: pointer;
+  border-radius: 6px; margin-inline: -6px; }
+.conn-item:hover { background: rgba(88,166,255,.07); }
+.conn-item:hover .conn-name { color: var(--accent-2); }
+.conn-cdot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 4px; }
+.conn-text { flex: 1; }
+.conn-name { font-size: 13px; line-height: 1.4; color: var(--text); }
+.conn-role { font-size: 11px; color: var(--text-dim); }
+#rp-detail-empty { color: var(--text-dim); font-size: 12px; font-style: italic; padding: 12px 0; text-align: center; direction: rtl; }
+
+/* ── showcase panel ── */
+.showcase-list { display: flex; flex-direction: column; gap: 6px; margin-top: 7px; }
+.showcase-item {
+  display: flex; flex-direction: column; gap: 3px;
+  background: var(--card-bg); border: 1px solid var(--border);
+  border-radius: var(--r-md); padding: 9px 12px; cursor: pointer; box-shadow: var(--card-shadow);
+  direction: rtl; transition: border-color .15s var(--ease), background .15s, transform .15s var(--ease);
+}
+.showcase-item:hover { border-color: var(--border-strong); background: linear-gradient(180deg,#1a1d28,#0d0f14); transform: translateY(-1px); }
+.showcase-item.active-showcase { border-color: color-mix(in srgb,var(--accent-2) 45%,transparent);
+  background: linear-gradient(90deg, color-mix(in srgb,var(--accent-2) 14%,transparent), transparent); }
+.showcase-tag  { font-size: 10px; color: var(--label-color); font-weight: 600; letter-spacing: .04em;
+  text-transform: uppercase; }
+.showcase-name { font-size: 13px; font-weight: 700; color: var(--text); }
+.showcase-desc { font-size: 11px; color: var(--text-dim); line-height: 1.45; }
+
+/* ── tooltip ── */
+#tooltip { position: fixed; pointer-events: none; z-index: 300; display: none;
+  background: var(--bg); border: 1px solid var(--border-strong); border-radius: var(--r-md);
+  padding: 10px 13px; color: var(--text); max-width: 230px;
+  box-shadow: 0 16px 30px -18px rgba(0,0,0,.9), inset 0 1px 0 rgba(255,255,255,.03); direction: rtl; }
+.tt-title { font-weight: 700; color: var(--text); margin-bottom: 3px; font-size: 13px; }
+.tt-type  { font-size: 10px; color: var(--label-color); text-transform: uppercase; letter-spacing: .06em;
+  font-family: var(--font-mono); }
+.tt-conflict { color: var(--red); font-size: 11px; font-weight: 700; margin-top: 4px; }
+
+/* ── site nav ── */
+.site-nav { background:var(--bg); padding:6px 20px; display:flex; gap:4px; direction:rtl;
+            border-bottom:1px solid var(--border); position:sticky; top:0; z-index:2000; }
+.site-nav a { color:var(--text-dim); text-decoration:none; font-size:12px; font-weight:500;
+              padding:5px 12px; border-radius:var(--r-sm); transition:background .15s, color .15s; white-space:nowrap; }
+.site-nav a:hover { background:var(--panel-2); color:var(--text); }
+.site-nav a.active { background:color-mix(in srgb,var(--accent-2) 16%,transparent); color:var(--text); font-weight:600;
+              box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--accent-2) 35%,transparent); }
+
+/* ── graph2 (cosmos.gl) additions ── */
+#cy canvas { display:block; width:100%; height:100%; }
+.preset-bar { position:absolute; top:12px; left:16px; z-index:10; display:flex; gap:2px;
+  background:color-mix(in srgb,var(--panel) 82%,transparent); border:1px solid var(--border);
+  border-radius:var(--r-md); padding:3px; backdrop-filter:blur(8px); box-shadow:var(--card-shadow); direction:rtl; }
+.preset-btn { border:none; background:transparent; color:var(--text-dim); font-family:var(--font-mono);
+  font-size:10px; text-transform:uppercase; letter-spacing:.08em; padding:5px 11px; border-radius:7px;
+  cursor:pointer; transition:background .14s,color .14s; }
+.preset-btn:hover { color:var(--text); }
+.preset-btn.active { background:color-mix(in srgb,var(--accent-2) 18%,transparent); color:var(--accent-2); }
+#engine-badge { position:absolute; bottom:16px; right:16px; z-index:10; font-family:var(--font-mono);
+  font-size:9px; letter-spacing:.1em; text-transform:uppercase; color:var(--fg-3);
+  background:color-mix(in srgb,var(--panel) 70%,transparent); border:1px solid var(--border);
+  padding:3px 9px; border-radius:999px; backdrop-filter:blur(6px); }
+#engine-badge b { color:var(--accent-2); font-weight:600; }
+
+</style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="graph.html">🔗 גרף ניגודי עניינים</a>
+  <a href="graph2.html" class="active">✨ גרף Cosmos</a>
+  <a href="connections_report.html">📋 דוח חיבורים</a>
+  <a href="films.html">🎬 קטלוג סרטים</a>
+</nav>
+
+<header>
+  <h1>רשת קולנוע ישראלי <span class="header-badge">Cosmos · פיזיקה חיה</span></h1>
+  <div id="header-stats"></div>
+  <div id="search-wrap">
+    <input id="search" type="text" placeholder="חיפוש שם...">
+    <div id="search-dropdown"></div>
+  </div>
+</header>
+
+<div id="body">
+
+  <div id="left-panel">
+    <div class="sec-title">תצורת פיזיקה</div>
+    <div id="preset-list" class="filter-row" style="margin-bottom:6px"></div>
+
+    <div class="sec-title">סוג קשר</div>
+    <div id="edge-filters" class="filter-row"></div>
+
+    <hr class="divider">
+    <div class="sec-title">סטטיסטיקה</div>
+    <div id="stats-cards"></div>
+
+    <hr class="divider">
+    <div class="sec-title">מקרא</div>
+    <div id="node-legend"></div>
+    <div id="edge-legend" style="margin-top:10px"></div>
+  </div>
+
+  <div id="canvas-wrap">
+    <div id="loading"><div class="spinner"></div><div id="loading-msg">טוען גרף...</div></div>
+    <div id="cy"></div>
+    <div id="hub-labels"></div>
+    <div class="preset-bar" id="preset-bar"></div>
+    <div id="engine-badge">מנוע <b>cosmos.gl</b> · GPU</div>
+    <div id="zoom-bar">
+      <button class="zbtn" id="btn-zi">+</button>
+      <button class="zbtn" id="btn-zo">−</button>
+      <button class="zbtn" id="btn-fit" title="fit">⊡</button>
+    </div>
+    <div id="controls">
+      <button class="ctrl-btn active" id="ctrl-pause" title="השהה/הפעל פיזיקה">⏸</button>
+      <button class="ctrl-btn" id="ctrl-films" title="הצג/הסתר סרטים">◇</button>
+      <div class="ctrl-sep"></div>
+      <div class="ctrl-deg" title="מינימום קשרים לצומת (אנשים בלבד)">
+        <div class="ctrl-deg-lbl">≥</div>
+        <button class="ctrl-smb" id="ctrl-deg-dn">−</button>
+        <div class="ctrl-deg-val" id="ctrl-deg-val">1</div>
+        <button class="ctrl-smb" id="ctrl-deg-up">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="right-panel">
+    <div id="rp-findings-section">
+      <div id="rp-findings"></div>
+    </div>
+    <div class="sec-title">פרטי צומת</div>
+    <div id="rp-detail"><div id="rp-detail-empty">לחצו על צומת בגרף לצפייה בפרטים</div></div>
+  </div>
+
+</div>
+
+<div id="tooltip"></div>
+
+<script type="module">
+const NODE_COLOR = {
+  person: "#e07a5f",   // warm — people read against cool institutions
+  fund:   "#7da4ff",   // brand blue
+  school: "#9d5fe0",   // brand violet (lightened for node legibility)
+  film:   "#3a3550",   // cool dim (hidden by default)
+};
+const EDGE_CFG = {
+  // ── Primary conflicts ──────────────────────────────────────────────────────
+  institutional:    { label: "תפקיד מוסדי",     color: "#f85149", defOn: true,  width: 2 },
+  film_funded:      { label: "קיבל מימון",       color: "#d29922", defOn: true,  width: 1.5 },
+  affiliated_with:  { label: "מרצה / סגל",       color: "#58a6ff", defOn: true,  width: 1.2 },
+  fund_recipient:   { label: "מומן ע\"י קרן",    color: "#d29922", defOn: true,  width: 1.5 },
+  // ── Derived conflicts (new) ───────────────────────────────────────────────
+  critic_committee: { label: "מבקר + שופט קרן",  color: "#f59e0b", defOn: true,  width: 2 },
+  family_conflict:  { label: "קשר משפחתי",        color: "#c084fc", defOn: true,  width: 2.5 },
+  collab_committee: { label: "שותפי פרויקט בוועדה", color: "#22d3ee", defOn: false, width: 1 },
+  festival_committee:{ label: "מנהל פסטיבל + קרן", color: "#86efac", defOn: false, width: 1 },
+  lector_filmmaker:  { label: "לקטור + יוצר",      color: "#fb923c", defOn: false, width: 2 },
+  // ── Secondary ─────────────────────────────────────────────────────────────
+  crew_credit:      { label: "צוות הפקה",         color: "#3fb950", defOn: false, width: 1 },
+  collaborated_with:{ label: "שיתוף פעולה",       color: "#bc8cff", defOn: false, width: 0.8 },
+  co_credited:      { label: "שותפי קרדיט",       color: "#4a5568", defOn: false, width: 0.6 },
+};
+
+// ── showcase categories ──────────────────────────────────────────────────────
+const SHOWCASE_CATEGORIES = [
+  { id: "judge_judged", label: "⚖️ שופט + נשפט" },
+  { id: "family",       label: "👨‍👩‍👧 קשרי משפחה" },
+  { id: "critic",       label: "📰 מבקר + שופט קרן" },
+  { id: "festival",     label: "🎪 מנהל פסטיבל + קרנות" },
+  { id: "multi",        label: "🎬 מקרים מורכבים" },
+];
+
+// ── showcase cases ───────────────────────────────────────────────────────────
+const SHOWCASES = [
+  // ── שופט + נשפט ─────────────────────────────────────────────────────────
+  {
+    category: "judge_judged",
+    label: "טובה אשר — 57 קשרים",
+    desc:  "יו\"ר קרן ירושלים לקולנוע + לקטורה בקרן הישראלית, הקרן החדשה, רבינוביץ'. מחזיקה תפקידי שיפוט ב-4 קרנות בו-זמנית — הצומת עם הכי הרבה קשרים בגרף",
+    nodes: ["person::טובה אשר"],
+    tag:   "🔴 57 קשרים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "אסף אמיר — שופט ונשפט",
+    desc:  "יו\"ר האקדמיה הישראלית (2019–) + לקטור ב-7 קרנות. 'הרף התחתון ביותר' זכתה בפרס אופיר לסרט קצר 2023 — פרס שהוא עצמו מחלק כיו\"ר. 'חזרות' זכתה ב-8 פרסי אקדמיה 2020",
+    nodes: ["person::אסף אמיר"],
+    tag:   "⚖️ שופט+זוכה",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "judge_judged",
+    label: "ערן ריקליס — 4 קרנות",
+    desc:  "חבר ועדת קרן ירושלים + לקטור בקרן הישראלית, ירושלים, מקור, הקרן החדשה — 46 קשרים בגרף",
+    nodes: ["person::ערן ריקליס"],
+    tag:   "⚖️ ועדה+לקטור",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "יריב מוזר — רבינוביץ' מבפנים ומבחוץ",
+    desc:  "חבר ועדת קרן רבינוביץ' + לקטור ב-5 קרנות (הישראלית, גשר, מקור, ירושלים, פסטיבלים) + קיבל מימון — 37 קשרים",
+    nodes: ["person::יריב מוזר"],
+    tag:   "⚖️ שופט+נשפט",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "חיים מקלברג — הקרן הישראלית",
+    desc:  "חבר ועדת הקרן הישראלית + לקטור ב-4 קרנות (הישראלית, ירושלים, מקור, הפורום הדוקומנטרי) + מקבל מימון — 36 קשרים",
+    nodes: ["person::חיים מקלברג"],
+    tag:   "⚖️ שופט+נשפט",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "ניר ברגמן — שני תפקידים",
+    desc:  "חבר ועדה בקרן ירושלים ובקרן הישראלית + לקטור ב-4 קרנות + מקבל מימון — ניגוד עניינים חריף בשתי קרנות",
+    nodes: ["person::ניר ברגמן"],
+    tag:   "🔴 כפול",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "מיכל אביעד — ועדה כפולה",
+    desc:  "חברת ועדה ברבינוביץ' ובקרן החדשה + קיבלה מימון מ-2 קרנות — ניגוד עניינים חריף + רך + נגזר במקביל",
+    nodes: ["person::מיכל אביעד"],
+    tag:   "🔴 ועדה כפולה",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "אסף קורמן — רבינוביץ'",
+    desc:  "חבר ועדת קרן רבינוביץ' + לקטור במקור, הקרן החדשה, רבינוביץ' + קיבל מימון — 24 קשרים",
+    nodes: ["person::אסף קורמן"],
+    tag:   "⚖️ שופט+נשפט",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  {
+    category: "judge_judged",
+    label: "רפאל בלולו — יו\"ר + לקטור + יוצר",
+    desc:  "יו\"ר ועדת הקולנוע של מועצת הפיס (מחלק מענקים) + לקטור ברבינוביץ', גשר וירושלים + במאי ומפיק שקיבל מענקים",
+    nodes: ["person::רפאל בלולו"],
+    tag:   "⚖️ יו\"ר+לקטור",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "judge_judged",
+    label: "עמיר מנור — ניגוד מרובע",
+    desc:  "לקטור ב-4 קרנות + קיבל מימון + יועץ בתשלום לפניות לאותן קרנות + מרצה שתלמידיו מגישים לאותן קרנות",
+    nodes: ["person::עמיר מנור"],
+    tag:   "⚠️ מרובע",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "judge_judged",
+    label: "חיים שריר — ירושלים מבפנים",
+    desc:  "חבר ועדת קרן ירושלים + לקטור בקרן הישראלית, ירושלים, הקרן החדשה, רבינוביץ' + מקבל מימון — 24 קשרים",
+    nodes: ["person::חיים שריר"],
+    tag:   "⚖️ חריף",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional"],
+  },
+  // ── קשרי משפחה ──────────────────────────────────────────────────────────
+  {
+    category: "family",
+    label: "אורי + בני ברבש",
+    desc:  "אחים — אורי במאי גבעה 24 (יועץ לשעבר לקרן הישראלית + חבר אקדמיה), בני תסריטאי + לקטור בקרנות. שותפים בפרויקט בניגוד עניינים",
+    nodes: ["person::אורי ברבש", "person::בני ברבש"],
+    tag:   "👫 אחים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "family_conflict"],
+  },
+  {
+    category: "family",
+    label: "מרגריטה + יניב לינטון",
+    desc:  "בני זוג — שניהם לקטורים בדיוק באותן 4 קרנות: הישראלית, מקור, הקרן החדשה, רבינוביץ'. 'בת האמן' זכתה בפרס אופיר",
+    nodes: ["person::מרגריטה לינטון", "person::יניב לינטון"],
+    tag:   "👫 זוג+שופטים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "family",
+    label: "אבי נשר + תום נשר",
+    desc:  "אב ובת — אבי לקטור בקרן רבינוביץ' ו-4 קרנות; רבינוביץ' העניקה לתום מיליון ₪ לסרטה 'קרוב אלי' (4 פרסי אופיר 2024)",
+    nodes: ["person::אבי נשר", "person::תום נשר"],
+    tag:   "👪 אב-בת",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "family",
+    label: "נדב לפיד + איתמר לפיד",
+    desc:  "אחים — נדב לקטור בקרן הישראלית; הקרן השקיעה 100,000 ₪ בסרט של איתמר (2021)",
+    nodes: ["person::נדב לפיד", "person::איתמר לפיד"],
+    tag:   "👫 אחים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "family",
+    label: "דן גבע + נואית גבע",
+    desc:  "בני זוג — יוצרים ומפיקים יחד סרטי תעודה מ-1994, שניהם מומנו ע\"י הקרן החדשה",
+    nodes: ["person::דן גבע", "person::נואית גבע"],
+    tag:   "👫 בני זוג",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  // ── מבקר + שופט קרן ────────────────────────────────────────────────────
+  {
+    category: "critic",
+    label: "דן שדור — מבקר + 5 קרנות",
+    desc:  "מבקר קולנוע פעיל + חבר ועדה בפורום הדוקומנטרי, גשר, מקור, הקרן החדשה, רבינוביץ' — כותב ביקורות על סרטים שהוא עצמו סייע לממן",
+    nodes: ["person::דן שדור"],
+    tag:   "📰 מבקר+5 קרנות",
+    enableEdgeTypes: ["critic_committee"],
+  },
+  {
+    category: "critic",
+    label: "שמוליק דובדבני — מבקר + 5 קרנות",
+    desc:  "מבקר קולנוע בכיר + ועדה בפסטיבלים, הקרן הישראלית, מקור, הקרן החדשה, רבינוביץ'",
+    nodes: ["person::שמוליק דובדבני"],
+    tag:   "📰 מבקר+שופט",
+    enableEdgeTypes: ["critic_committee"],
+  },
+  {
+    category: "critic",
+    label: "יעל שוב — מבקרת + 4 קרנות",
+    desc:  "מבקרת קולנוע + חברת ועדה בגשר, מקור, הקרן החדשה, רבינוביץ'",
+    nodes: ["person::יעל שוב"],
+    tag:   "📰 מבקרת+שופטת",
+    enableEdgeTypes: ["critic_committee"],
+  },
+  {
+    category: "critic",
+    label: "יואב אברמוביץ' — מנכ\"ל לשעבר מבקר",
+    desc:  "מנכ\"ל קרן רבינוביץ' (2025) — לשעבר מבקר קולנוע + נכח ב-26 פרויקטים כמעריך. כעת מוביל את הקרן שפיקח עליה",
+    nodes: ["person::יואב אברמוביץ'"],
+    tag:   "🏛 מנהל+מבקר",
+    enableEdgeTypes: ["lector_filmmaker", "critic_committee", "fund_recipient"],
+  },
+  // ── מנהל פסטיבל + קרנות ─────────────────────────────────────────────────
+  {
+    category: "festival",
+    label: "דינה צבי-ריקליס — DocAviv + 6 קרנות",
+    desc:  "מנהלת פסטיבל DocAviv + שופטת בקרן הישראלית, הקרן החדשה, רבינוביץ', הפורום הדוקומנטרי, ירושלים, מקור — 6 קרנות במקביל",
+    nodes: ["person::דינה צבי-ריקליס"],
+    tag:   "🎪 DocAviv+6 קרנות",
+    enableEdgeTypes: ["festival_committee"],
+  },
+  {
+    category: "festival",
+    label: "רחל אליצור — מנהלת פסטיבל + 6 קרנות",
+    desc:  "מנהלת פסטיבל + שופטת בפורום הדוקומנטרי, הקרן הישראלית, גשר, מקור, הקרן החדשה, רבינוביץ'",
+    nodes: ["person::רחל אליצור"],
+    tag:   "🎪 פסטיבל+6 קרנות",
+    enableEdgeTypes: ["festival_committee"],
+  },
+  {
+    category: "festival",
+    label: "אסף לפיד — פורום הדוקומנטרי",
+    desc:  "חבר הנהלה בפורום הדוקומנטרי + סרטו מומן ע\"י הפורום + לקטור ב-4 קרנות (גשר, מקור, הקרן החדשה, ירושלים)",
+    nodes: ["person::אסף לפיד"],
+    tag:   "⚖️ שופט+נתמך",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "festival_committee"],
+  },
+  // ── מקרים מורכבים ────────────────────────────────────────────────────────
+  {
+    category: "multi",
+    label: "גבעה 24 — 4 ניגודי עניינים",
+    desc:  "הבמאי (אורי ברבש, יועץ לשעבר הקרן הישראלית + חבר אקדמיה) + התסריטאי (בני ברבש, אחיו, לקטור בקרנות) + המפיק (אסף אמיר, יו\"ר האקדמיה + לקטור ב-7 קרנות) — הקרן הישראלית ממנת",
+    nodes: ["person::אורי ברבש", "person::בני ברבש", "person::אסף אמיר"],
+    tag:   "🎬 4 ניגודי עניינים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "film_funded"],
+  },
+  {
+    category: "multi",
+    label: "קובי מזרחי + שירה הוכמן",
+    desc:  "שותפי יצירה (עין לבנה, שממה) — שניהם לקטורים בקרן מקור שמימנה את סרטיהם",
+    nodes: ["person::קובי מזרחי", "person::שירה הוכמן"],
+    tag:   "🤝 שותפים+שופטים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient"],
+  },
+  {
+    category: "multi",
+    label: "אדם ויינגרוד — 9 תפקידים",
+    desc:  "מלחין / במאי / עורך / לקטור / יוצר / מנהל פסטיבל / מנחה — תפקידים מצטלבים. חבר ועדת קרן מקור ומקבל מימון ממנה",
+    nodes: ["person::אדם ויינגרוד"],
+    tag:   "⚠️ 9 תפקידים",
+    enableEdgeTypes: ["lector_filmmaker", "fund_recipient", "institutional", "festival_committee"],
+  },
+];
+
+// ════════════════════════════════════════════════════════════════════════════
+//  graph2 — cosmos.gl (GPU) live-physics renderer over conflict_graph.json
+//  Reuses the house-style chrome from graph.html; engine swapped Cytoscape→cosmos.
+// ════════════════════════════════════════════════════════════════════════════
+import { Graph } from "https://esm.sh/@cosmos.gl/graph@2.6.4";
+
+const SPACE = 4096, CENTER = SPACE / 2;
+
+// ── physics presets (segmented control) ──────────────────────────────────────
+const PRESETS = {
+  clusters: { label: "מקבצים", simulationGravity: 0.18, simulationRepulsion: 2.2, simulationLinkSpring: 0.8, simulationLinkDistance: 14, simulationFriction: 0.86 },
+  force:    { label: "כוח",    simulationGravity: 0.16, simulationRepulsion: 2.3, simulationLinkSpring: 0.18, simulationLinkDistance: 20, simulationFriction: 0.88 },
+  cells:    { label: "תאים",   simulationGravity: 0.32, simulationRepulsion: 1.0, simulationLinkSpring: 1.25, simulationLinkDistance: 6,  simulationFriction: 0.85 },
+};
+let currentPreset = "clusters";
+
+const state = {
+  edgeTypes: new Set(Object.entries(EDGE_CFG).filter(([, v]) => v.defOn).map(([k]) => k)),
+  films: false, minDegree: 1, paused: false, selected: null,
+};
+
+let DATA, NODES, EDGES, graph, host;
+const idIndex = {};         // node id → index
+let deg = [];               // total degree per node
+let hubIdx = [];            // indices of fund/school nodes
+let edgesByNode = [];       // adjacency: index → [{e, other}]
+let posArr, colArr, sizeArr;
+
+// ── color helpers ─────────────────────────────────────────────────────────────
+function hexRgb(hex) {
+  const h = hex.replace("#", "");
+  return [parseInt(h.slice(0, 2), 16) / 255, parseInt(h.slice(2, 4), 16) / 255, parseInt(h.slice(4, 6), 16) / 255];
+}
+const RGB = { person: hexRgb(NODE_COLOR.person), fund: hexRgb(NODE_COLOR.fund), school: hexRgb(NODE_COLOR.school), film: hexRgb(NODE_COLOR.film) };
+const EDGE_RGB = {};
+for (const [k, v] of Object.entries(EDGE_CFG)) EDGE_RGB[k] = hexRgb(v.color);
+
+// ── visibility ────────────────────────────────────────────────────────────────
+function nodeVisible(i) {
+  const n = NODES[i];
+  if (n.type === "film") return state.films;
+  if (n.type === "person" && deg[i] < state.minDegree) return false;
+  return true;
+}
+
+// ── build ───────────────────────────────────────────────────────────────────
+function buildModel() {
+  NODES = DATA.nodes; EDGES = DATA.edges;
+  NODES.forEach((n, i) => { idIndex[n.id] = i; });
+  deg = new Array(NODES.length).fill(0);
+  edgesByNode = NODES.map(() => []);
+  EDGES.forEach((e, ei) => {
+    const a = idIndex[e.source], b = idIndex[e.target];
+    if (a == null || b == null) return;
+    deg[a]++; deg[b]++;
+    edgesByNode[a].push({ e: ei, other: b });
+    edgesByNode[b].push({ e: ei, other: a });
+  });
+  hubIdx = NODES.map((n, i) => (n.type === "fund" || n.type === "school") ? i : -1).filter(i => i >= 0);
+}
+
+function buildPointBuffers() {
+  const n = NODES.length;
+  posArr = new Float32Array(n * 2);
+  colArr = new Float32Array(n * 4);
+  sizeArr = new Float32Array(n);
+  let maxDeg = 1; for (let i = 0; i < n; i++) maxDeg = Math.max(maxDeg, deg[i]);
+  for (let i = 0; i < n; i++) {
+    const nd = NODES[i];
+    // seed from baked fcose positions so the graph opens coherent, then breathes
+    posArr[i * 2]     = CENTER + (typeof nd.x === "number" ? nd.x : (Math.random() - 0.5) * 600);
+    posArr[i * 2 + 1] = CENTER + (typeof nd.y === "number" ? nd.y : (Math.random() - 0.5) * 600);
+    const t = nd.type, rgb = RGB[t] || RGB.person;
+    const vis = nodeVisible(i);
+    let a = t === "person" ? 0.92 : 1.0;
+    if (t === "film") a = 0.6;
+    colArr[i * 4] = rgb[0]; colArr[i * 4 + 1] = rgb[1]; colArr[i * 4 + 2] = rgb[2];
+    colArr[i * 4 + 3] = vis ? a : 0;
+    let s;
+    if (t === "fund") s = 22; else if (t === "school") s = 16; else if (t === "film") s = 4;
+    else s = 4 + Math.sqrt(deg[i]) * 1.7;
+    sizeArr[i] = vis ? s : 0.01;
+  }
+}
+
+// ── links (respect edge-type + visibility filters) ───────────────────────────
+// Degree-scaled spring strength (pvalyou trick): effective = 1/(1+scale·maxDeg).
+// Edges touching a high-degree hub pull weakly, so hubs float apart instead of
+// all collapsing onto the gravity center — the physics version of the fund
+// separation hack in graph.html.
+const STRENGTH_SCALE = 0.05;
+function buildLinkBuffers() {
+  const links = [], cols = [], widths = [], strengths = [];
+  for (let ei = 0; ei < EDGES.length; ei++) {
+    const e = EDGES[ei];
+    if (!state.edgeTypes.has(e.type)) continue;
+    const a = idIndex[e.source], b = idIndex[e.target];
+    if (a == null || b == null) continue;
+    if (!nodeVisible(a) || !nodeVisible(b)) continue;
+    links.push(a, b);
+    const rgb = EDGE_RGB[e.type] || [0.6, 0.6, 0.7];
+    cols.push(rgb[0], rgb[1], rgb[2], 0.6);
+    widths.push((EDGE_CFG[e.type] && EDGE_CFG[e.type].width) || 1);
+    strengths.push(1 / (1 + STRENGTH_SCALE * Math.max(deg[a], deg[b])));
+  }
+  return { links: new Float32Array(links), cols: new Float32Array(cols),
+           widths: new Float32Array(widths), strengths: new Float32Array(strengths) };
+}
+function applyLinks() {
+  const L = buildLinkBuffers();
+  graph.setLinks(L.links);
+  try { graph.setLinkStrength(L.strengths); } catch {}
+  try { graph.setLinkColors(L.cols); } catch {}
+  try { graph.setLinkWidths(L.widths); } catch {}
+}
+
+// ── zoom → global link opacity (faint overview, crisp detail) ─────────────────
+function zoomOpacity(z) { return Math.max(0.04, Math.min(1, 0.06 + 0.42 * (z - 0.2))); }
+let lastZ = -1;
+function onZoom() {
+  if (!graph) return;   // cosmos fires onZoom during construction, before assignment
+  const z = graph.getZoomLevel();
+  if (!Number.isFinite(z)) return;
+  if (Math.abs(z - lastZ) < 0.002) return;
+  lastZ = z;
+  try { graph.setConfig({ linkOpacity: zoomOpacity(z) }); } catch {}
+}
+
+// ── init cosmos ───────────────────────────────────────────────────────────────
+function initGraph() {
+  host = document.getElementById("cy");
+  const p = PRESETS[currentPreset];
+  graph = new Graph(host, {
+    spaceSize: SPACE,
+    backgroundColor: "rgba(0,0,0,0)",   // let the CSS radial vignette show through
+    enableSimulation: true,
+    simulationDecay: 1000000,           // never cool — perpetual gentle breathing
+    simulationGravity: p.simulationGravity,
+    simulationRepulsion: p.simulationRepulsion,
+    simulationLinkSpring: p.simulationLinkSpring,
+    simulationLinkDistance: p.simulationLinkDistance,
+    simulationFriction: p.simulationFriction,
+    rescalePositions: false,
+    fitViewOnInit: false,
+    enableDrag: true, enableZoom: true, enableSimulationDuringZoom: true,
+    scalePointsOnZoom: true, pointSizeScale: 1,
+    pointGreyoutOpacity: 0.06, linkGreyoutOpacity: 0.03,
+    renderHoveredPointRing: true, hoveredPointRingColor: "#ffffff",
+    renderLinks: true, linkWidthScale: 1, linkOpacity: zoomOpacity(0.6),
+    onPointMouseOver: i => showTip(i),
+    onPointMouseOut: () => hideTip(),
+    onPointClick: i => { if (i != null) selectNode(i); },
+    onClick: i => { if (i === undefined) deselect(); },
+    onZoom: () => onZoom(),
+  });
+  graph.setPointPositions(posArr);
+  graph.setPointColors(colArr);
+  graph.setPointSizes(sizeArr);
+  applyLinks();
+  graph.start();
+  try { graph.trackPointPositionsByIndices(hubIdx); } catch {}
+  graph.fitView(0);
+  try { graph.setZoomLevel(0.6, 0); } catch {}
+  graph.render();
+  onZoom();
+}
+
+// ── refreshes ─────────────────────────────────────────────────────────────────
+function refreshPoints() { buildPointBuffers(); graph.setPointColors(colArr); graph.setPointSizes(sizeArr); applyLinks(); graph.render(); }
+
+// ── tooltip ─────────────────────────────────────────────────────────────────
+const tip = document.getElementById("tooltip");
+function showTip(i) {
+  const n = NODES[i];
+  const typeLbl = n.type === "fund" ? "קרן / מוסד" : n.type === "school" ? "בית ספר" : n.type === "film" ? "סרט" : "אדם";
+  let cf = "";
+  if (n.has_strict_conflict) cf = `<div class="tt-conflict">⚠ ניגוד עניינים חריף</div>`;
+  else if (n.has_soft_conflict) cf = `<div class="tt-conflict" style="color:var(--orange)">⚡ ניגוד עניינים רך</div>`;
+  tip.innerHTML = `<div class="tt-title">${n.label}</div><div class="tt-type">${typeLbl} · ${deg[i]} קשרים</div>${cf}`;
+  tip.style.display = "block";
+  document.addEventListener("mousemove", moveTip);
+}
+function moveTip(ev) { tip.style.left = (ev.clientX + 14) + "px"; tip.style.top = (ev.clientY + 14) + "px"; }
+function hideTip() { tip.style.display = "none"; document.removeEventListener("mousemove", moveTip); }
+
+// ── selection / detail ────────────────────────────────────────────────────────
+function neighborhood(i) {
+  const set = new Set([i]);
+  for (const { other } of edgesByNode[i]) if (nodeVisible(other)) set.add(other);
+  return set;
+}
+function selectNode(i) {
+  if (NODES[i].type === "film" && !state.films) return;
+  state.selected = i;
+  const keep = [...neighborhood(i)];
+  try { graph.selectPointsByIndices(keep); graph.render(); } catch {}
+  openDetail(i);
+}
+function deselect() {
+  state.selected = null;
+  try { graph.unselectPoints(); graph.render(); } catch {}
+  clearDetail();
+}
+
+function openDetail(i) {
+  const n = NODES[i];
+  const badges = [];
+  if (n.type === "fund")     badges.push(`<span class="badge-label badge-fund">קרן / מוסד</span>`);
+  else if (n.type === "school") badges.push(`<span class="badge-label badge-school">בית ספר</span>`);
+  else if (n.type === "film") badges.push(`<span class="badge-label badge-person">סרט</span>`);
+  else badges.push(`<span class="badge-label badge-person">אדם</span>`);
+  if (n.has_strict_conflict) badges.push(`<span class="badge-label badge-conflict">ניגוד עניינים חריף</span>`);
+  if (n.has_soft_conflict)   badges.push(`<span class="badge-label badge-soft">ניגוד עניינים רך</span>`);
+
+  // group connections by edge type
+  const groups = {};
+  for (const { e, other } of edgesByNode[i]) {
+    const t = EDGES[e].type;
+    (groups[t] = groups[t] || []).push(other);
+  }
+  const ORDER = ["institutional","lector_filmmaker","fund_recipient","critic_committee","family_conflict","festival_committee","film_funded","affiliated_with","collab_committee","crew_credit","collaborated_with","co_credited"];
+  let conns = "";
+  for (const t of ORDER) {
+    if (!groups[t]) continue;
+    const cfg = EDGE_CFG[t] || { label: t, color: "#888" };
+    const seen = new Set(), items = [];
+    for (const o of groups[t]) { if (seen.has(o)) continue; seen.add(o); items.push(o); }
+    conns += `<div class="conn-section"><div class="conn-title"><span class="lg-dot" style="background:${cfg.color}"></span>${cfg.label}<span class="conn-count">${items.length}</span></div>`;
+    for (const o of items.slice(0, 60)) {
+      const on = NODES[o];
+      const dot = RGB_HEX(on.type);
+      conns += `<div class="conn-item" data-i="${o}"><span class="conn-cdot" style="background:${dot}"></span><div class="conn-text"><div class="conn-name">${on.label}</div></div></div>`;
+    }
+    conns += `</div>`;
+  }
+  document.getElementById("rp-findings-section").style.display = "none";
+  document.getElementById("rp-detail").innerHTML =
+    `<div class="person-card"><h3>${n.label}</h3><div class="badges">${badges.join("")}</div>${conns || '<div style="color:var(--text-dim);font-size:12px">אין קשרים גלויים</div>'}</div>`;
+  document.querySelectorAll(".conn-item").forEach(el =>
+    el.addEventListener("click", () => { const j = +el.dataset.i; selectNode(j); }));
+}
+function RGB_HEX(t) { return NODE_COLOR[t] || NODE_COLOR.person; }
+function clearDetail() {
+  document.getElementById("rp-findings-section").style.display = "";
+  document.getElementById("rp-detail").innerHTML = `<div id="rp-detail-empty">לחצו על צומת בגרף לצפייה בפרטים</div>`;
+}
+
+// ── hub labels overlay (√degree font, follows the live sim) ───────────────────
+let hubChips = [];
+function initHubLabels() {
+  const layer = document.getElementById("hub-labels");
+  layer.innerHTML = ""; hubChips = [];
+  let maxD = 1; for (const i of hubIdx) maxD = Math.max(maxD, deg[i]);
+  for (const i of hubIdx) {
+    const el = document.createElement("div");
+    el.className = "hub-chip " + NODES[i].type;
+    el.textContent = NODES[i].label;
+    el.style.fontSize = Math.round(11 + 6 * (Math.sqrt(deg[i]) / Math.sqrt(maxD))) + "px";
+    layer.appendChild(el);
+    hubChips.push({ i, el });
+  }
+}
+function tickHubLabels() {
+  requestAnimationFrame(tickHubLabels);
+  if (!graph || !hubChips.length) return;
+  let tracked;
+  try { tracked = graph.getTrackedPointPositionsArray(); } catch { return; }
+  if (!tracked || tracked.length < hubIdx.length * 2) return;
+  const z = graph.getZoomLevel();
+  for (let k = 0; k < hubChips.length; k++) {
+    const { i, el } = hubChips[k];
+    if (NODES[i].type === "school" && !nodeVisible(i)) { el.classList.add("hidden"); continue; }
+    let sx, sy;
+    try { [sx, sy] = graph.spaceToScreenPosition([tracked[k * 2], tracked[k * 2 + 1]]); }
+    catch { el.classList.add("hidden"); continue; }
+    if (!Number.isFinite(sx) || z < 0.18) { el.classList.add("hidden"); continue; }
+    el.classList.remove("hidden");
+    el.style.transform = `translate3d(${sx}px, ${sy + 16}px, 0) translate(-50%, 0)`;
+  }
+}
+
+// ── left panel: edge filters, presets, stats, legend ─────────────────────────
+function buildPresetControls() {
+  const bar = document.getElementById("preset-bar");
+  const list = document.getElementById("preset-list");
+  bar.innerHTML = ""; list.innerHTML = "";
+  for (const [key, p] of Object.entries(PRESETS)) {
+    const b = document.createElement("button");
+    b.className = "preset-btn" + (key === currentPreset ? " active" : "");
+    b.textContent = p.label; b.dataset.k = key;
+    b.addEventListener("click", () => setPreset(key));
+    bar.appendChild(b);
+    const b2 = b.cloneNode(true);
+    b2.className = "filter-btn" + (key === currentPreset ? " active" : "");
+    b2.addEventListener("click", () => setPreset(key));
+    list.appendChild(b2);
+  }
+}
+function setPreset(key) {
+  currentPreset = key;
+  const p = PRESETS[key];
+  try {
+    graph.setConfig({
+      simulationGravity: p.simulationGravity, simulationRepulsion: p.simulationRepulsion,
+      simulationLinkSpring: p.simulationLinkSpring, simulationLinkDistance: p.simulationLinkDistance,
+      simulationFriction: p.simulationFriction,
+    });
+    graph.start();
+  } catch {}
+  document.querySelectorAll(".preset-btn,#preset-list .filter-btn").forEach(el => {
+    if (el.dataset.k) el.classList.toggle("active", el.dataset.k === key);
+  });
+}
+
+function buildEdgeFilters() {
+  const wrap = document.getElementById("edge-filters");
+  wrap.innerHTML = "";
+  for (const [k, v] of Object.entries(EDGE_CFG)) {
+    const b = document.createElement("button");
+    b.className = "filter-btn" + (state.edgeTypes.has(k) ? " active" : "");
+    b.innerHTML = `<span class="fbtn-dot" style="background:${v.color}"></span>${v.label}`;
+    b.addEventListener("click", () => {
+      if (state.edgeTypes.has(k)) state.edgeTypes.delete(k); else state.edgeTypes.add(k);
+      b.classList.toggle("active");
+      applyLinks(); graph.render();
+    });
+    wrap.appendChild(b);
+  }
+}
+function buildStats() {
+  const counts = { person: 0, fund: 0, school: 0, film: 0 };
+  let conflicts = 0;
+  NODES.forEach(n => { counts[n.type] = (counts[n.type] || 0) + 1; if (n.has_strict_conflict || n.has_soft_conflict) conflicts++; });
+  const cards = [
+    { num: counts.person, lbl: "אנשים", cls: "" },
+    { num: counts.fund, lbl: "קרנות", cls: "blue" },
+    { num: conflicts, lbl: "ניגודים", cls: "red" },
+    { num: EDGES.length, lbl: "קשרים", cls: "green" },
+  ];
+  document.getElementById("stats-cards").innerHTML = cards.map(c =>
+    `<div class="stat ${c.cls}"><div class="num">${c.num.toLocaleString()}</div><div class="lbl">${c.lbl}</div></div>`).join("");
+}
+function buildLegend() {
+  const nl = document.getElementById("node-legend");
+  nl.innerHTML = [
+    ["fund", "קרן / מוסד", "lg-sq"], ["school", "בית ספר", "lg-sq"],
+    ["person", "אדם", "lg-dot"], ["film", "סרט", "lg-dot"],
+  ].map(([t, lbl, cls]) => `<div class="legend-item"><span class="${cls}" style="background:${NODE_COLOR[t]}"></span>${lbl}</div>`).join("");
+}
+function updateHeaderStats() {
+  document.getElementById("header-stats").textContent =
+    `${NODES.length.toLocaleString()} צמתים · ${EDGES.length.toLocaleString()} קשרים · פיזיקה חיה`;
+}
+
+// ── search ────────────────────────────────────────────────────────────────────
+function initSearch() {
+  const input = document.getElementById("search"), dd = document.getElementById("search-dropdown");
+  input.addEventListener("input", () => {
+    const q = input.value.trim();
+    if (!q) { dd.style.display = "none"; return; }
+    const res = [];
+    for (let i = 0; i < NODES.length; i++) {
+      if (NODES[i].label && NODES[i].label.includes(q)) res.push(i);
+      if (res.length >= 30) break;
+    }
+    if (!res.length) { dd.style.display = "none"; return; }
+    dd.innerHTML = res.map(i =>
+      `<div class="sd-item" data-i="${i}"><span class="sd-dot" style="background:${NODE_COLOR[NODES[i].type]}"></span><span class="sd-label">${NODES[i].label}</span></div>`).join("");
+    dd.querySelectorAll(".sd-item").forEach(el =>
+      el.addEventListener("click", () => { dd.style.display = "none"; input.value = ""; jumpTo(+el.dataset.i); }));
+    dd.style.display = "block";
+  });
+  input.addEventListener("keydown", e => { if (e.key === "Escape") { dd.style.display = "none"; input.blur(); } });
+  document.addEventListener("click", e => { if (!document.getElementById("search-wrap").contains(e.target)) dd.style.display = "none"; });
+}
+function jumpTo(i) {
+  try { graph.setZoomLevel(2.2, 600); } catch {}
+  selectNode(i);
+}
+
+// ── controls ──────────────────────────────────────────────────────────────────
+function initControls() {
+  const pause = document.getElementById("ctrl-pause");
+  pause.addEventListener("click", () => {
+    state.paused = !state.paused;
+    pause.classList.toggle("active", !state.paused);
+    pause.textContent = state.paused ? "▶" : "⏸";
+    try { state.paused ? graph.pause() : graph.start(); } catch {}
+  });
+  const films = document.getElementById("ctrl-films");
+  films.addEventListener("click", () => {
+    state.films = !state.films;
+    films.classList.toggle("active", state.films);
+    refreshPoints();
+  });
+  const degVal = document.getElementById("ctrl-deg-val");
+  function setDeg(d) {
+    const next = Math.max(1, Math.min(15, state.minDegree + d));
+    if (next === state.minDegree) return;
+    state.minDegree = next; degVal.textContent = next;
+    degVal.style.color = next > 1 ? "var(--accent)" : "var(--text)";
+    refreshPoints();
+  }
+  document.getElementById("ctrl-deg-dn").addEventListener("click", () => setDeg(-1));
+  document.getElementById("ctrl-deg-up").addEventListener("click", () => setDeg(+1));
+
+  document.getElementById("btn-zi").addEventListener("click", () => { try { graph.setZoomLevel(graph.getZoomLevel() * 1.4, 250); onZoom(); } catch {} });
+  document.getElementById("btn-zo").addEventListener("click", () => { try { graph.setZoomLevel(graph.getZoomLevel() / 1.4, 250); onZoom(); } catch {} });
+  document.getElementById("btn-fit").addEventListener("click", () => { try { graph.fitView(400); } catch {} });
+}
+
+// ── boot ──────────────────────────────────────────────────────────────────────
+async function boot() {
+  const msg = document.getElementById("loading-msg");
+  try {
+    msg.textContent = "טוען נתונים...";
+    const res = await fetch("conflict_graph.json");
+    if (!res.ok) throw new Error(`HTTP ${res.status} — הפעל: python3 -m http.server 8000`);
+    DATA = await res.json();
+    msg.textContent = "בונה רשת קשרים...";
+    buildModel();
+    buildPointBuffers();
+    initGraph();
+    buildPresetControls();
+    buildEdgeFilters();
+    buildStats();
+    buildLegend();
+    updateHeaderStats();
+    initSearch();
+    initControls();
+    initHubLabels();
+    requestAnimationFrame(tickHubLabels);
+    document.getElementById("loading").classList.add("hidden");
+  } catch (err) {
+    console.error("boot error:", err);
+    msg.textContent = String(err); msg.style.color = "#e85a5a";
+  }
+}
+boot();
+</script>
+</body>
+</html>

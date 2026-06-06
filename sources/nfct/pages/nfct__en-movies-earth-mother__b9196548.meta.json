@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/earth-mother/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-earth-mother__b9196548",
+  "fetched_at": "2026-05-16T12:45:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:45:42Z",
+  "duration_ms": 6757,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:054ab19fb8f3d490686de29884815db87bb710d2c998ad91338c1c4026bce1a1",
+  "md_bytes": 11686,
+  "links_found": 31,
+  "files_found": 0
+}

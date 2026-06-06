@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=New%20York",
+  "stable_id": "nfct__en-movies-archive_keywords-New-20York__7f3d43fa",
+  "fetched_at": "2026-05-16T07:12:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:12:22Z",
+  "duration_ms": 7797,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c5d049cd5b5dd9894c8514e6c43ebbe4acdb38e53f09d34464c66d47af238d2",
+  "md_bytes": 15031,
+  "links_found": 81,
+  "files_found": 0
+}

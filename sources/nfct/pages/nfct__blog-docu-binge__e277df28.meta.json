@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/docu-binge/#UAMainContent",
+  "stable_id": "nfct__blog-docu-binge__e277df28",
+  "fetched_at": "2026-05-10T19:57:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T19:57:22Z",
+  "duration_ms": 16683,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:73004a5e951c33b25955aac3a153945cb3bd04a1ff217fec8cd3a6ee8f1c628a",
+  "md_bytes": 10327,
+  "links_found": 20,
+  "files_found": 2
+}

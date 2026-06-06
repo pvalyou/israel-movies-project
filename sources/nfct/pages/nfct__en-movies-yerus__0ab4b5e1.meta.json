@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/yerus/#UArexazDFN",
+  "stable_id": "nfct__en-movies-yerus__0ab4b5e1",
+  "fetched_at": "2026-05-16T12:42:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:42:56Z",
+  "duration_ms": 8178,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8baa894f94a2b8e199d7c01fe0b8edc595138c6a87c33c0586b03b662bc54350",
+  "md_bytes": 11494,
+  "links_found": 33,
+  "files_found": 0
+}

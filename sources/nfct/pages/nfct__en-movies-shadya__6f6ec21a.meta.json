@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shadya/#UAMainContent",
+  "stable_id": "nfct__en-movies-shadya__6f6ec21a",
+  "fetched_at": "2026-05-16T15:47:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:47:39Z",
+  "duration_ms": 11790,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23c048af83d5dd2c5cafa99225ace3f0cd4969c9482dd66cc6c082e92f27860e",
+  "md_bytes": 15076,
+  "links_found": 39,
+  "files_found": 0
+}

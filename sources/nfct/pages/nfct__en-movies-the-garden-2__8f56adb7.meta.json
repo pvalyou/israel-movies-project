@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-garden-2/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-garden-2__8f56adb7",
+  "fetched_at": "2026-05-16T17:00:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:00:46Z",
+  "duration_ms": 12200,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fee42bc948d95729498eb7b2fd6169d192afb4eaee22b9dcf80d930f221b7f31",
+  "md_bytes": 10442,
+  "links_found": 29,
+  "files_found": 0
+}

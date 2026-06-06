@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אסתר/",
+  "stable_id": "nfct__blog-movies__c25e6bd7",
+  "fetched_at": "2026-05-09T19:10:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:10:29Z",
+  "duration_ms": 28964,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f99acfba1c5bfc52c3c9724e4ce326d1178f709132a2cc13f3db5cd757fe22c4",
+  "md_bytes": 16591,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Soviet+Union",
+  "stable_id": "nfct__en-movies-archive_keywords-Soviet-Union__03bd2280",
+  "fetched_at": "2026-05-16T06:40:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:40:33Z",
+  "duration_ms": 9682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:235e4bbada777fc1651bfe32aeb1ea0555a6fe3cf9e84924ac555457ad2b1d22",
+  "md_bytes": 13396,
+  "links_found": 76,
+  "files_found": 0
+}

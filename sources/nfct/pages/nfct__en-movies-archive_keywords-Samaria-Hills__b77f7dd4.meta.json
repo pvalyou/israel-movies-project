@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Samaria+Hills",
+  "stable_id": "nfct__en-movies-archive_keywords-Samaria-Hills__b77f7dd4",
+  "fetched_at": "2026-05-16T12:47:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:47:46Z",
+  "duration_ms": 10799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d83d1d4025ab0f08fc8f21e99d9bdc8e469364c32114e961fa25de7d868ef16f",
+  "md_bytes": 10007,
+  "links_found": 68,
+  "files_found": 0
+}

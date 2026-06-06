@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אובססיה/",
+  "stable_id": "nfct__blog-movies__47904163",
+  "fetched_at": "2026-05-09T19:49:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:49:37Z",
+  "duration_ms": 20097,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1722cf9e357c285621cd46cc29f9ad756d82eb31d23f28c4f94235fec3b2649c",
+  "md_bytes": 19149,
+  "links_found": 38,
+  "files_found": 0
+}

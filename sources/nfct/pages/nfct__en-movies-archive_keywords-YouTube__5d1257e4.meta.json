@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=YouTube",
+  "stable_id": "nfct__en-movies-archive_keywords-YouTube__5d1257e4",
+  "fetched_at": "2026-05-16T04:54:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:54:13Z",
+  "duration_ms": 12989,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a490ca1040ef130499fc6ca477e1aadda704f454bd5cbd492e47b449dc7e4846",
+  "md_bytes": 11511,
+  "links_found": 73,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Atlanta",
+  "stable_id": "nfct__en-movies-archive_keywords-Atlanta__9acbab68",
+  "fetched_at": "2026-05-16T04:02:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:02:32Z",
+  "duration_ms": 6499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:83631409c1751690e37ce8566997500bbb522f6630cba2341bd5da3a444dc3c3",
+  "md_bytes": 10324,
+  "links_found": 68,
+  "files_found": 0
+}

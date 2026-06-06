@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/family-matters/",
+  "stable_id": "nfct__en-movies-family-matters__585c58a2",
+  "fetched_at": "2026-05-11T06:21:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:21:23Z",
+  "duration_ms": 7891,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4cf32df5a26dc977911f4b85a3c7130b24507344e2cafd95ec3602aef3f0e1c1",
+  "md_bytes": 13278,
+  "links_found": 33,
+  "files_found": 0
+}

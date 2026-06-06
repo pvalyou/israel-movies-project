@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Consumption%20Shopping%20Centre",
+  "stable_id": "nfct__en-movies-archive_keywords-Consumption-20Shopping-20Centre__35767b0d",
+  "fetched_at": "2026-05-16T15:54:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:54:02Z",
+  "duration_ms": 6733,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7edbd790c9c788cf9a430973f7473adfe45e5e8315eb381ddfead1798dc842be",
+  "md_bytes": 9833,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dream/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-dream__958ecd25",
+  "fetched_at": "2026-05-16T17:46:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:46:49Z",
+  "duration_ms": 6825,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2c6b5b7c64b846773f99a639c16825459658138c5618d556e107da2c7e2b87e",
+  "md_bytes": 11300,
+  "links_found": 29,
+  "files_found": 0
+}

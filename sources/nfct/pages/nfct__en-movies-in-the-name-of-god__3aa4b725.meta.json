@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-the-name-of-god/",
+  "stable_id": "nfct__en-movies-in-the-name-of-god__3aa4b725",
+  "fetched_at": "2026-05-11T05:17:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:17:20Z",
+  "duration_ms": 10196,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6fcecb702443c31cce349c49f3705f3c4768f7f7271430ff0fe8f3798a17690e",
+  "md_bytes": 12711,
+  "links_found": 30,
+  "files_found": 0
+}

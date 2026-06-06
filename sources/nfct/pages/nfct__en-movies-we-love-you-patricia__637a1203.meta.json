@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/we-love-you-patricia/#UArexazDFN",
+  "stable_id": "nfct__en-movies-we-love-you-patricia__637a1203",
+  "fetched_at": "2026-05-16T10:26:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:26:42Z",
+  "duration_ms": 7303,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f64862a1d949cf014c4283380aba7c6f0dd3661315ccc9ae24937804add64ac1",
+  "md_bytes": 13615,
+  "links_found": 33,
+  "files_found": 0
+}

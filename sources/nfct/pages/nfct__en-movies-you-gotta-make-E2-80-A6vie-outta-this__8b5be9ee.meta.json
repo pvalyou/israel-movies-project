@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/you-gotta-make%E2%80%A6vie-outta-this/",
+  "stable_id": "nfct__en-movies-you-gotta-make-E2-80-A6vie-outta-this__8b5be9ee",
+  "fetched_at": "2026-05-11T05:57:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:57:56Z",
+  "duration_ms": 38282,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:18f373adac02351212f047ad26513839995c4e52d53ea8bc981609012a51ce80",
+  "md_bytes": 7220,
+  "links_found": 21,
+  "files_found": 0
+}

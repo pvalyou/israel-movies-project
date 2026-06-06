@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/i-have-a-dream-tel-aviv-yaffo/",
+  "stable_id": "nfct__en-movies-i-have-a-dream-tel-aviv-yaffo__db0f3afb",
+  "fetched_at": "2026-05-11T01:21:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:21:08Z",
+  "duration_ms": 7906,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:253c19c4bbde52fa59e8d27d17a5ecc5da392d9c1bf90c7cccfe27d014546114",
+  "md_bytes": 10496,
+  "links_found": 27,
+  "files_found": 0
+}

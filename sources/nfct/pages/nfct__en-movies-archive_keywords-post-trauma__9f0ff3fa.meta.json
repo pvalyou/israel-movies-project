@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=post-trauma",
+  "stable_id": "nfct__en-movies-archive_keywords-post-trauma__9f0ff3fa",
+  "fetched_at": "2026-05-16T12:14:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:14:44Z",
+  "duration_ms": 7479,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78d128981f156f31c083acbb6c1f07043030830397df13e38fce5d02cc67060d",
+  "md_bytes": 10158,
+  "links_found": 68,
+  "files_found": 0
+}

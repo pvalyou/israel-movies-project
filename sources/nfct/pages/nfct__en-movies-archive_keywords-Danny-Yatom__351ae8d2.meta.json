@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Danny+Yatom",
+  "stable_id": "nfct__en-movies-archive_keywords-Danny-Yatom__351ae8d2",
+  "fetched_at": "2026-05-16T16:34:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:13Z",
+  "duration_ms": 6542,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ed5e2ced9d889a008ec1bbda22bc53381a8fa95e63a0944d1646c5d23b2f9ca",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

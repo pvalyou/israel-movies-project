@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/thieves-by-law/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-thieves-by-law__ac727bdf",
+  "fetched_at": "2026-05-16T10:08:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:08:49Z",
+  "duration_ms": 13333,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e27ce2e5848315231ae10338a52b2c4622c485a37f15c18d2b3490733bd6d08b",
+  "md_bytes": 14665,
+  "links_found": 34,
+  "files_found": 0
+}

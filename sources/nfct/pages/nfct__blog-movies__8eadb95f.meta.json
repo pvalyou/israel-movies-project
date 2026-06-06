@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/טעם-גן-עדן/",
+  "stable_id": "nfct__blog-movies__8eadb95f",
+  "fetched_at": "2026-05-09T19:13:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:13:25Z",
+  "duration_ms": 35884,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c68584918bf5733757e4c321ad255997b5784ace0dcaaecda01ecf9679324a3",
+  "md_bytes": 20118,
+  "links_found": 44,
+  "files_found": 0
+}

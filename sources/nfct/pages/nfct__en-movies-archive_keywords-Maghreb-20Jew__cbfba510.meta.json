@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Maghreb%20Jew",
+  "stable_id": "nfct__en-movies-archive_keywords-Maghreb-20Jew__cbfba510",
+  "fetched_at": "2026-05-16T15:57:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:57:22Z",
+  "duration_ms": 8282,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e63c838df9846ab2632c522f0a71f6e1bfbd2fdf06d3a509d38a6c24a9be191d",
+  "md_bytes": 10099,
+  "links_found": 68,
+  "files_found": 0
+}

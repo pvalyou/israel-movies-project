@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/פסטיבל-דוקאביב-2021/",
+  "stable_id": "nfct__blog----2021__a3ff4697",
+  "fetched_at": "2026-05-09T15:48:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:48:40Z",
+  "duration_ms": 53097,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10a557a858152b013c92704291d1c730742303fc72c9b1ef152b1a2e7b44a6fc",
+  "md_bytes": 28350,
+  "links_found": 44,
+  "files_found": 0
+}

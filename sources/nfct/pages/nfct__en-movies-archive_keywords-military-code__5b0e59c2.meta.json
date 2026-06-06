@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=military+code",
+  "stable_id": "nfct__en-movies-archive_keywords-military-code__5b0e59c2",
+  "fetched_at": "2026-05-16T09:57:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:57:03Z",
+  "duration_ms": 6016,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:569c722c4f23bc54e34560b4c5be6585c54eba5042b3b08c69bc1b48ad3667dd",
+  "md_bytes": 10007,
+  "links_found": 68,
+  "files_found": 0
+}

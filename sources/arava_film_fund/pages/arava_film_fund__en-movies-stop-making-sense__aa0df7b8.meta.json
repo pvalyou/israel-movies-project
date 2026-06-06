@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/stop-making-sense/#main",
+  "stable_id": "arava_film_fund__en-movies-stop-making-sense__aa0df7b8",
+  "fetched_at": "2026-05-08T10:12:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:12:40Z",
+  "duration_ms": 3947,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:85aff99f90bd0471a950057d59006371aef57afdfe500787095c2c016b5dd729",
+  "md_bytes": 3035,
+  "links_found": 9,
+  "files_found": 0
+}

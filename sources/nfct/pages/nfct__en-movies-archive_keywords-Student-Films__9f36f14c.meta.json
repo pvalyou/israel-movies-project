@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Student+Films",
+  "stable_id": "nfct__en-movies-archive_keywords-Student-Films__9f36f14c",
+  "fetched_at": "2026-05-16T15:14:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:14:32Z",
+  "duration_ms": 9191,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7b33dc5896fea3f0930c64c0a0b0c6d95552def07d3550c3b7f40941cce28e87",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

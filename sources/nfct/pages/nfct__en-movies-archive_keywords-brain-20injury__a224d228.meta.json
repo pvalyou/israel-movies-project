@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=brain%20injury",
+  "stable_id": "nfct__en-movies-archive_keywords-brain-20injury__a224d228",
+  "fetched_at": "2026-05-16T13:28:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:28:16Z",
+  "duration_ms": 7081,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1faf60ac706f153250f01ecceaa0f65b5cefaa6e58b263fc1c32381fdbade27c",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

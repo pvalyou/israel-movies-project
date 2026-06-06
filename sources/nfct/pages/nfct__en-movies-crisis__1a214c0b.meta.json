@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/crisis/",
+  "stable_id": "nfct__en-movies-crisis__1a214c0b",
+  "fetched_at": "2026-05-11T20:43:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:43:41Z",
+  "duration_ms": 8306,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:586e3e5509be9ce166a559967d093d69ea116b66932088f934f4277304431b03",
+  "md_bytes": 11701,
+  "links_found": 33,
+  "files_found": 0
+}

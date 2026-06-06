@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israel-Hamas%20war",
+  "stable_id": "nfct__en-movies-archive_keywords-Israel-Hamas-20war__97e83c9a",
+  "fetched_at": "2026-05-16T12:11:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:11:54Z",
+  "duration_ms": 11227,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e78714744408a72c29eb66ddbbf33ce05a66a98286d42a1a37da7f2f979e2da4",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

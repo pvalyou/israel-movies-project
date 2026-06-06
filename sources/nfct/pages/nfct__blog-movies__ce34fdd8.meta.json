@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ימים-זוהרים/",
+  "stable_id": "nfct__blog-movies__ce34fdd8",
+  "fetched_at": "2026-05-09T17:25:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:25:18Z",
+  "duration_ms": 45190,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7703347cc3f88b436c4e81fe4967d51b2d74120a687b4f67160570f44091ecdb",
+  "md_bytes": 20785,
+  "links_found": 51,
+  "files_found": 0
+}

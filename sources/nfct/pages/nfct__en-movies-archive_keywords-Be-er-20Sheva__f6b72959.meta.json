@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Be'er%20Sheva",
+  "stable_id": "nfct__en-movies-archive_keywords-Be-er-20Sheva__f6b72959",
+  "fetched_at": "2026-05-16T11:06:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:06:08Z",
+  "duration_ms": 7028,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ce5df0bb53368150429e0e2e8aa372909d15e16fc70df3b1b2321cb76cfe3ce3",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

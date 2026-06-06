@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/you-used-to-bring-me-flowers/#UArexazDFN",
+  "stable_id": "nfct__en-movies-you-used-to-bring-me-flowers__55ffa2f2",
+  "fetched_at": "2026-05-16T16:11:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:11:20Z",
+  "duration_ms": 6993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a301c18c6e1306a4c84fc56811a6bc2aa55daf80696c75b316f959636cec213b",
+  "md_bytes": 13133,
+  "links_found": 35,
+  "files_found": 0
+}

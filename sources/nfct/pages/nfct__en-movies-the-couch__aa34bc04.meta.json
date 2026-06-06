@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-couch/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-couch__aa34bc04",
+  "fetched_at": "2026-05-16T12:26:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:26:14Z",
+  "duration_ms": 8417,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5f59ad07d854de1001ee3106d04e537ec6052c726508a56b339cf14c4a8dc06e",
+  "md_bytes": 13695,
+  "links_found": 40,
+  "files_found": 0
+}

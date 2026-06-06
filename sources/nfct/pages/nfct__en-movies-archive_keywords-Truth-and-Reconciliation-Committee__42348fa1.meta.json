@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Truth+and+Reconciliation+Committee",
+  "stable_id": "nfct__en-movies-archive_keywords-Truth-and-Reconciliation-Committee__42348fa1",
+  "fetched_at": "2026-05-16T17:37:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:37:59Z",
+  "duration_ms": 8179,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c79dccf0327ebb96df1b4d5965296694d7914b461804b732f542f89e750038f5",
+  "md_bytes": 10083,
+  "links_found": 68,
+  "files_found": 0
+}

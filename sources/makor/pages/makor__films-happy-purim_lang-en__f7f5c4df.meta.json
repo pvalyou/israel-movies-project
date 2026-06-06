@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/happy-purim/?lang=en",
+  "stable_id": "makor__films-happy-purim_lang-en__f7f5c4df",
+  "fetched_at": "2026-05-09T13:17:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:17:03Z",
+  "duration_ms": 9692,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2fb15b2f35d54f03ca9dc4c389cd37f31d6532b612247070f86485b20e4b731a",
+  "md_bytes": 1779,
+  "links_found": 4,
+  "files_found": 0
+}

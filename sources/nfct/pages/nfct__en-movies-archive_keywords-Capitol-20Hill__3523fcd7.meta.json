@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Capitol%20Hill",
+  "stable_id": "nfct__en-movies-archive_keywords-Capitol-20Hill__3523fcd7",
+  "fetched_at": "2026-05-16T15:17:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:17:45Z",
+  "duration_ms": 7004,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e09706473b9d1d42fb6e1a8cdb73dd8068fb7e8a7478e547380faa44cd7c4f3b",
+  "md_bytes": 10038,
+  "links_found": 68,
+  "files_found": 0
+}

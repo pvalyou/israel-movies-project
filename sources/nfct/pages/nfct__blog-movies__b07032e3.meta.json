@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הלאפ-דאנס-האחרון/",
+  "stable_id": "nfct__blog-movies__b07032e3",
+  "fetched_at": "2026-05-09T20:16:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:16:39Z",
+  "duration_ms": 24188,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c64a88b1fb228f58e2887876baaee6d6b2e20ab7ce26cbb1a6b82a3e25e2223",
+  "md_bytes": 15125,
+  "links_found": 30,
+  "files_found": 0
+}

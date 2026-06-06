@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=holiday+village",
+  "stable_id": "nfct__en-movies-archive_keywords-holiday-village__d244401e",
+  "fetched_at": "2026-05-16T14:45:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:45:33Z",
+  "duration_ms": 6051,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc81eb66aa41635b0de3b5c052d03662d4aded940cb77caf333330125049ca8f",
+  "md_bytes": 10341,
+  "links_found": 68,
+  "files_found": 0
+}

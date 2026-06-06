@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רוח-דרומית/",
+  "stable_id": "nfct__blog-movies__011616e7",
+  "fetched_at": "2026-05-15T09:01:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:51Z",
+  "duration_ms": 9091,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:62151b6381ead6f4be3b2818d713d390635537408fcfaa06aeca700645c7ff74",
+  "md_bytes": 16548,
+  "links_found": 35,
+  "files_found": 0
+}

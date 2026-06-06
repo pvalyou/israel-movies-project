@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Immigration",
+  "stable_id": "nfct__en-movies-archive_category-Immigration__57a2d1c1",
+  "fetched_at": "2026-05-15T21:31:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:31:43Z",
+  "duration_ms": 6500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c64e3e29a87b1746303d01fbd5db5e832f9ca4f8b8a2faed3bc9ea11a1db283",
+  "md_bytes": 16511,
+  "links_found": 82,
+  "files_found": 0
+}

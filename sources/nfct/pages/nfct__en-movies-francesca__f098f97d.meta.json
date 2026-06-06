@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/francesca/",
+  "stable_id": "nfct__en-movies-francesca__f098f97d",
+  "fetched_at": "2026-05-11T13:23:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:23:39Z",
+  "duration_ms": 18997,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:93d7ad6c699c3c282a7153d4f36935c0157a046c57a67a67bb03592b2572fd4f",
+  "md_bytes": 15420,
+  "links_found": 43,
+  "files_found": 0
+}

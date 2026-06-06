@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/השיר-הטיפשי-לליה/",
+  "stable_id": "nfct__blog-movies__18ea89d1",
+  "fetched_at": "2026-05-09T19:32:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:32:57Z",
+  "duration_ms": 22081,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f05c046b7819d5dc14994ff3949609f3fc3c6f45a27e5ccc7d4afab20199c81b",
+  "md_bytes": 18889,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/salsa-tel-aviv/",
+  "stable_id": "nfct__en-movies-salsa-tel-aviv__d7d5ea9a",
+  "fetched_at": "2026-05-11T05:10:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:10:29Z",
+  "duration_ms": 23774,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b1207e74d06d414c73b882f4dd29f5a49d79e849113a4b77e7b2330fc2ad6f62",
+  "md_bytes": 14486,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fog/",
+  "stable_id": "nfct__en-movies-fog__cfaee772",
+  "fetched_at": "2026-05-11T12:53:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:53:14Z",
+  "duration_ms": 28765,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f02ec2b4d44abbd6d24ba28be382abeed8d99bd28e9a6aac8c1a34ceb00429a7",
+  "md_bytes": 15032,
+  "links_found": 40,
+  "files_found": 0
+}

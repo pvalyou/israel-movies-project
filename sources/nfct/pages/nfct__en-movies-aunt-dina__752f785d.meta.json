@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/aunt-dina/",
+  "stable_id": "nfct__en-movies-aunt-dina__752f785d",
+  "fetched_at": "2026-05-11T14:54:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:54:26Z",
+  "duration_ms": 30549,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c6d29c76d799eace668ae3dd98305ad300e9c93ca8146a3565b5f26ef26e04a8",
+  "md_bytes": 14530,
+  "links_found": 51,
+  "files_found": 0
+}

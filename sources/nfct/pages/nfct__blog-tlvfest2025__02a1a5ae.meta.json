@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/tlvfest2025/",
+  "stable_id": "nfct__blog-tlvfest2025__02a1a5ae",
+  "fetched_at": "2026-05-09T15:26:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:26:27Z",
+  "duration_ms": 58796,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:11ffdc91747063caced6e5d3e88f9b7a0f41ae30caf1683cf9097ddcccd6bb1a",
+  "md_bytes": 19527,
+  "links_found": 34,
+  "files_found": 0
+}

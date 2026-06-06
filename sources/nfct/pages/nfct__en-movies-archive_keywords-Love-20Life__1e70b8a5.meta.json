@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Love%20Life",
+  "stable_id": "nfct__en-movies-archive_keywords-Love-20Life__1e70b8a5",
+  "fetched_at": "2026-05-16T14:58:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:58:45Z",
+  "duration_ms": 8647,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:94430cea9389de061fb6b75b9eb68a11df7450dea1094f38d15aa454d3627579",
+  "md_bytes": 17011,
+  "links_found": 82,
+  "files_found": 0
+}

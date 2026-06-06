@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mehdi+Ben+Barka",
+  "stable_id": "nfct__en-movies-archive_keywords-Mehdi-Ben-Barka__39a2719a",
+  "fetched_at": "2026-05-16T16:34:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:37Z",
+  "duration_ms": 8542,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:048713487f3c8fe033a19d863930fa72aa4e1da8c7486ee326ae8eb6d8f1ff11",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

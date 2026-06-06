@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/josef-and-maria/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-josef-and-maria__7c9886ad",
+  "fetched_at": "2026-05-16T04:37:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:37:26Z",
+  "duration_ms": 9626,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c294071afbe3b935226a6f94d4bb886cb4748ca03a8c427e5ef1f9186cbf91f6",
+  "md_bytes": 15337,
+  "links_found": 47,
+  "files_found": 0
+}

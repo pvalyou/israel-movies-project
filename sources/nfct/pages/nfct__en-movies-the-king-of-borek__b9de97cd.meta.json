@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-king-of-borek/",
+  "stable_id": "nfct__en-movies-the-king-of-borek__b9de97cd",
+  "fetched_at": "2026-05-11T23:10:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T23:10:57Z",
+  "duration_ms": 19798,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1424a0461c99ac52644b35d1751bade324efa28286b6bff9513cba60cbc99e26",
+  "md_bytes": 15862,
+  "links_found": 50,
+  "files_found": 0
+}

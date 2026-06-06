@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=detective+story",
+  "stable_id": "nfct__en-movies-archive_keywords-detective-story__ee1da3dc",
+  "fetched_at": "2026-05-16T06:55:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:55:03Z",
+  "duration_ms": 5881,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0db7605eb7a45d50c2486385a16e9f97fe3163ddaf3605b65b9edc821adcec5c",
+  "md_bytes": 10481,
+  "links_found": 69,
+  "files_found": 0
+}

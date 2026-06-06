@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gay",
+  "stable_id": "nfct__en-movies-archive_keywords-Gay__07511a03",
+  "fetched_at": "2026-05-16T10:51:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:44Z",
+  "duration_ms": 7211,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ddcab85c1a47f83c12648349cb16a7cf5e0d133db37cb1003010148ca3c81683",
+  "md_bytes": 14218,
+  "links_found": 78,
+  "files_found": 0
+}

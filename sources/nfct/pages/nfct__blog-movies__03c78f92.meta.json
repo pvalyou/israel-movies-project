@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עסק-מלוכלך/",
+  "stable_id": "nfct__blog-movies__03c78f92",
+  "fetched_at": "2026-05-09T22:09:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:09:03Z",
+  "duration_ms": 26665,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9da844c9da89ddaea4f74294e740f45852345a94d1ebf16d4e88fce457ceb355",
+  "md_bytes": 19355,
+  "links_found": 53,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=side%20effects",
+  "stable_id": "nfct__en-movies-archive_keywords-side-20effects__889ea427",
+  "fetched_at": "2026-05-16T16:37:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:37:06Z",
+  "duration_ms": 7561,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90719d0f96b99a70bfb92f06eac75358a8444de6f69918e9f5f063c7fbf93c68",
+  "md_bytes": 10944,
+  "links_found": 70,
+  "files_found": 0
+}

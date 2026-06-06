@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mourning",
+  "stable_id": "nfct__en-movies-archive_keywords-mourning__bce986a9",
+  "fetched_at": "2026-05-16T10:46:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:28Z",
+  "duration_ms": 5927,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:981b6e2d87854dc931604fbb0e45c3a4870c298e57bd9d5c4d3657013b526df7",
+  "md_bytes": 11569,
+  "links_found": 71,
+  "files_found": 0
+}

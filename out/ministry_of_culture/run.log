@@ -1,0 +1,43 @@
+
+=== Run started 2026-05-15T11:58:14.802569 ===
+[11:58:14] Source: ministry_of_culture
+[11:58:14] Pages dir: sources/ministry_of_culture/pages
+[11:58:14] Output dir: out/ministry_of_culture
+[11:58:14] Total .md pages found: 8  |  Already done: 0  |  To process: 8
+[11:58:14] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:58:14] [1/8] EMPTY_CONTENT: 
+[11:58:14]           file: ministry_of_culture__he-Departments-DynamicCollectors-test-servies_office-27-skip-0-title-D7-A7-D7-95__321e4240.md  [ministry_of_culture__he-Departments-DynamicCollectors-test-servies_office-27-skip-0-titleקו__321e4240.md]
+[11:58:14]           url:  https://www.gov.il/he/Departments/DynamicCollectors/test-servies?office=27&sk...
+[11:58:14] [2/8] SKIP (g=0 s=0)
+[11:58:14]           file: ministry_of_culture__he-departments-ministry_of_culture_and_sport__57a52110.md
+[11:58:14]           url:  https://www.gov.il/he/departments/ministry_of_culture_and_sport
+[11:58:14] [3/8] EMPTY_CONTENT: 
+[11:58:14]           file: ministry_of_culture__he-Departments-General-support_models_2021__0513be53.md
+[11:58:14]           url:  https://www.gov.il/he/Departments/General/support_models_2021
+[11:58:14] [4/8] EMPTY_CONTENT: 
+[11:58:14]           file: ministry_of_culture__he-Departments-General-support_models_2023__c725a948.md
+[11:58:14]           url:  https://www.gov.il/he/Departments/General/support_models_2023
+[11:58:14] [5/8] EMPTY_CONTENT: 
+[11:58:14]           file: ministry_of_culture__he-departments-units-film_council__5c40197c.md
+[11:58:14]           url:  https://www.gov.il/he/departments/units/film_council
+[11:58:14] [6/8] EMPTY_CONTENT: 
+[11:58:14]           file: ministry_of_culture__he-departments-general-model_cinema_2022__7757bd8f.md
+[11:58:14]           url:  https://www.gov.il/he/departments/general/model_cinema_2022
+[11:58:14] [7/8] EMPTY_CONTENT: 
+[11:58:14]           file: ministry_of_culture__he-Departments-DynamicCollectors-test-servies_skip-0-office-27-title-D7-A7-D7-95__f2cde75c.md  [ministry_of_culture__he-Departments-DynamicCollectors-test-servies_skip-0-office-27-titleקו__f2cde75c.md]
+[11:58:14]           url:  https://www.gov.il/he/Departments/DynamicCollectors/test-servies?skip=0&offic...
+[11:58:18] [8/8] OK   3p 3o 0f 3r 4ro  (3.93s)
+[11:58:18]           file: ministry_of_culture__he-departments-units-cinema__46393080.md
+[11:58:18]           url:  https://www.gov.il/he/departments/units/cinema
+[11:58:18] ======================================================================
+[11:58:18] DONE in 0.1min
+[11:58:18]   ok:           1
+[11:58:18]   filtered:     1
+[11:58:18]   empty:        6
+[11:58:18]   load_error:   0
+[11:58:18]   llm_error:    0
+[11:58:18] Tokens: 2,061 in / 1,578 out  |  Cost: $0.0008
+[11:58:18] Calls: 1  |  Errors: 0  |  JSON retries: 0
+[11:58:18] Output: out/ministry_of_culture/mentions.jsonl
+[11:58:18] Summary:  out/ministry_of_culture/run_summary.json
+=== Run ended 2026-05-15T11:58:18.761285 ===

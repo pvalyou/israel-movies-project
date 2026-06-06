@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=crime",
+  "stable_id": "nfct__en-movies-archive_keywords-crime__147472ba",
+  "fetched_at": "2026-05-16T10:08:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:08:55Z",
+  "duration_ms": 8562,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4214fd35f822e9b67e67e7acacb3a68d8af901327f510038f73f370c7b85223",
+  "md_bytes": 16578,
+  "links_found": 82,
+  "files_found": 0
+}

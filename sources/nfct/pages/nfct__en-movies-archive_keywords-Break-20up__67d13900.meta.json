@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Break%20up",
+  "stable_id": "nfct__en-movies-archive_keywords-Break-20up__67d13900",
+  "fetched_at": "2026-05-16T12:40:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:40:46Z",
+  "duration_ms": 10113,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4f7be5c9496faa8b6e8770cd914876e3332f366a995bdb320bf11eb1f670098",
+  "md_bytes": 16614,
+  "links_found": 82,
+  "files_found": 0
+}

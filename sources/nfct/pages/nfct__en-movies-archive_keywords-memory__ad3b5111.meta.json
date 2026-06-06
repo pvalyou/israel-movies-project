@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=memory",
+  "stable_id": "nfct__en-movies-archive_keywords-memory__ad3b5111",
+  "fetched_at": "2026-05-16T04:53:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:53:38Z",
+  "duration_ms": 6629,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f24de740244409dc4bd5c2e634bd4d941ca9b10cbd7553a85b81b782d3b928ea",
+  "md_bytes": 16649,
+  "links_found": 82,
+  "files_found": 0
+}

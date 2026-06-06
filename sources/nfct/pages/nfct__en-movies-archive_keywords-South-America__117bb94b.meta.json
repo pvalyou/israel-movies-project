@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=South+America",
+  "stable_id": "nfct__en-movies-archive_keywords-South-America__117bb94b",
+  "fetched_at": "2026-05-16T11:08:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:08:47Z",
+  "duration_ms": 9495,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f95aaa0351235464579a13782f857763e1d936b312bbed1b44ab551138bb873",
+  "md_bytes": 10520,
+  "links_found": 69,
+  "files_found": 0
+}

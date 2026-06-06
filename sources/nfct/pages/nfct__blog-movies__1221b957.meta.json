@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ראיה-חותכת/",
+  "stable_id": "nfct__blog-movies__1221b957",
+  "fetched_at": "2026-05-09T21:35:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:35:30Z",
+  "duration_ms": 39669,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e78bca0ffe8cdff3f84a0e460192e8ecec23ef023633d9b48a9cc3493e1e622",
+  "md_bytes": 12873,
+  "links_found": 25,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/בני-דודים-לנשק/",
+  "stable_id": "nfct__movies__59097142",
+  "fetched_at": "2026-05-16T13:43:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:43:52Z",
+  "duration_ms": 7863,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb283610858abc1adb1a323e2011f9789368374144318ca3218c8ac8c591aa5b",
+  "md_bytes": 8090,
+  "links_found": 21,
+  "files_found": 0
+}

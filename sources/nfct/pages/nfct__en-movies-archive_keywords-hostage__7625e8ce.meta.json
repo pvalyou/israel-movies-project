@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hostage",
+  "stable_id": "nfct__en-movies-archive_keywords-hostage__7625e8ce",
+  "fetched_at": "2026-05-16T20:12:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:00Z",
+  "duration_ms": 12838,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9295e136376c7882fa83387aa1b07e2a91b8d2d318065eccdf9f071a193b1bb1",
+  "md_bytes": 11006,
+  "links_found": 70,
+  "files_found": 0
+}

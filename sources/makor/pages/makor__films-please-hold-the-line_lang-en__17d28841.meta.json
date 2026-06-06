@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/please-hold-the-line/?lang=en",
+  "stable_id": "makor__films-please-hold-the-line_lang-en__17d28841",
+  "fetched_at": "2026-05-09T13:22:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:22:32Z",
+  "duration_ms": 15319,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b9b54085a9851fdcdb4d216f9873286ad5a6ad6ee2668840894f8739a59b6d39",
+  "md_bytes": 2354,
+  "links_found": 4,
+  "files_found": 0
+}

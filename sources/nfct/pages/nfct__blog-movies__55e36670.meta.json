@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סיפורי-דובים/",
+  "stable_id": "nfct__blog-movies__55e36670",
+  "fetched_at": "2026-05-09T17:14:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:14:58Z",
+  "duration_ms": 46956,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:935e66bd16e700b56245f1cf2a9e20d6876fc4d5730eaabdf334e15e6c6d47ea",
+  "md_bytes": 15921,
+  "links_found": 33,
+  "files_found": 0
+}

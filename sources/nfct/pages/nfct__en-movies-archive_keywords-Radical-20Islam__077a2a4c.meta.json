@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Radical%20Islam",
+  "stable_id": "nfct__en-movies-archive_keywords-Radical-20Islam__077a2a4c",
+  "fetched_at": "2026-05-16T10:15:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:15:11Z",
+  "duration_ms": 8790,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4149be9a3d1bd0e9aa1da8af3c9ecb008bb332a725cd6bd90c1977fadf1a66fd",
+  "md_bytes": 10220,
+  "links_found": 68,
+  "files_found": 0
+}

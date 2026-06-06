@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שום-דבר-מיוחד/",
+  "stable_id": "makor__films__1ec2a939",
+  "fetched_at": "2026-05-09T12:53:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:53:17Z",
+  "duration_ms": 4998,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8410da6865e77567ad426e62a4f27b1950cdfc0a0a85ecb53728839b25d22e1",
+  "md_bytes": 4487,
+  "links_found": 4,
+  "files_found": 0
+}

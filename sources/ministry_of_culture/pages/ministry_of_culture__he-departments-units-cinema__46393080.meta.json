@@ -1,0 +1,23 @@
+{
+  "url": "https://www.gov.il/he/departments/units/cinema",
+  "stable_id": "ministry_of_culture__he-departments-units-cinema__46393080",
+  "fetched_at": "2026-05-09T15:15:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:15:35Z",
+  "duration_ms": 6516,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3857b794bb5a0b987bd03012a2a1f1dfc30b687028be37a3accdada6b439b259",
+  "md_bytes": 10085,
+  "links_found": 7,
+  "files_found": 0
+}

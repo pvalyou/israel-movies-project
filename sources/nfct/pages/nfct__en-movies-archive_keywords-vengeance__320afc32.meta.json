@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=vengeance",
+  "stable_id": "nfct__en-movies-archive_keywords-vengeance__320afc32",
+  "fetched_at": "2026-05-16T10:23:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:23:18Z",
+  "duration_ms": 8471,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:afe34dc2d73a3ecc7cff1509e3e074ef02ed5e34348521890a6f52d5eaf0150b",
+  "md_bytes": 11095,
+  "links_found": 70,
+  "files_found": 0
+}

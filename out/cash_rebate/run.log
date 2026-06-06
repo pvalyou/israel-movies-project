@@ -1,0 +1,31 @@
+
+=== Run started 2026-05-15T11:07:07.635746 ===
+[11:07:07] Source: cash_rebate
+[11:07:07] Pages dir: sources/cash_rebate/pages
+[11:07:07] Output dir: out/cash_rebate
+[11:07:07] Total .md pages found: 4  |  Already done: 0  |  To process: 4
+[11:07:07] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:07:07] [1/4] EMPTY_CONTENT: 
+[11:07:07]           file: cash_rebate__filmisrael__226d3ec6.md
+[11:07:07]           url:  https://www.israel-trade.net/filmisrael/
+[11:07:09] [2/4] OK   1p 1o 0f 1r 1ro  (2.12s)
+[11:07:09]           file: cash_rebate__filmisrael-funding__1afb18b5.md
+[11:07:09]           url:  https://israel-trade.net/filmisrael/funding/#VAopenMenu
+[11:07:09] [3/4] OK   1p 1o 0f 1r 1ro  (2.33s)
+[11:07:09]           file: cash_rebate__filmisrael-funding__0ba180b3.md
+[11:07:09]           url:  https://israel-trade.net/filmisrael/funding/
+[11:07:10] [4/4] OK   1p 2o 0f 2r 1ro  (2.84s)
+[11:07:10]           file: cash_rebate__filmisrael-funding__9c3ccdb0.md
+[11:07:10]           url:  https://www.israel-trade.net/filmisrael/funding
+[11:07:10] ======================================================================
+[11:07:10] DONE in 0.0min
+[11:07:10]   ok:           3
+[11:07:10]   filtered:     0
+[11:07:10]   empty:        1
+[11:07:10]   load_error:   0
+[11:07:10]   llm_error:    0
+[11:07:10] Tokens: 4,331 in / 2,064 out  |  Cost: $0.0013
+[11:07:10] Calls: 3  |  Errors: 0  |  JSON retries: 0
+[11:07:10] Output: out/cash_rebate/mentions.jsonl
+[11:07:10] Summary:  out/cash_rebate/run_summary.json
+=== Run ended 2026-05-15T11:07:10.509388 ===

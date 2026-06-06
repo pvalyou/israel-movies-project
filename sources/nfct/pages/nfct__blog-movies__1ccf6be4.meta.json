@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תעלומת-אריס-סאן/",
+  "stable_id": "nfct__blog-movies__1ccf6be4",
+  "fetched_at": "2026-05-09T17:09:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:09:58Z",
+  "duration_ms": 12635,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:20f34141b4563136bd13eb0cd2e769a14ff680c78d880bf775fbafe6ab35d45a",
+  "md_bytes": 16083,
+  "links_found": 36,
+  "files_found": 0
+}

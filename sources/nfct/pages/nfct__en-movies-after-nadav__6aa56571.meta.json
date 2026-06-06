@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/after-nadav/",
+  "stable_id": "nfct__en-movies-after-nadav__6aa56571",
+  "fetched_at": "2026-05-11T19:15:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:15:36Z",
+  "duration_ms": 48534,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2a1d1d4ee2947b61f85a0998e2d3751b9b052c8e893fb91a6dfb128601747ee",
+  "md_bytes": 14756,
+  "links_found": 42,
+  "files_found": 0
+}

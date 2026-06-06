@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-100-children/#UArexazDFN",
+  "stable_id": "nfct__en-movies-my-100-children__056acedd",
+  "fetched_at": "2026-05-16T10:16:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:16:14Z",
+  "duration_ms": 9886,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:40fbdfe628c6a1cc6f14f5a591b12cd63ca7c3c54787a83ec99347cb1a74037a",
+  "md_bytes": 15995,
+  "links_found": 45,
+  "files_found": 0
+}

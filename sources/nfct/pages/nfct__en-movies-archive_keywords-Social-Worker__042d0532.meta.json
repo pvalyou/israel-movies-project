@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Social+Worker",
+  "stable_id": "nfct__en-movies-archive_keywords-Social-Worker__042d0532",
+  "fetched_at": "2026-05-16T14:02:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:02:05Z",
+  "duration_ms": 7698,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a0a06d0f341fc0a11b4c9e92425ae841e823cb6a30f7d2078ad4feb830fa3500",
+  "md_bytes": 10987,
+  "links_found": 70,
+  "files_found": 0
+}

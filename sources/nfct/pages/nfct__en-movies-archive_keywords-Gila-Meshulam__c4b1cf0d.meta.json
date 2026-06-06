@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gila+Meshulam",
+  "stable_id": "nfct__en-movies-archive_keywords-Gila-Meshulam__c4b1cf0d",
+  "fetched_at": "2026-05-16T12:38:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:38:52Z",
+  "duration_ms": 8727,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:094a833fb8457a56f31f43cfba2a089a9e2f0b94fe58210db9ece31bd19993b9",
+  "md_bytes": 10102,
+  "links_found": 68,
+  "files_found": 0
+}

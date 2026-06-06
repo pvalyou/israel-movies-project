@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Golan+Heights",
+  "stable_id": "nfct__en-movies-archive_keywords-Golan-Heights__edbe1137",
+  "fetched_at": "2026-05-16T10:46:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:57Z",
+  "duration_ms": 6164,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e69cc697b5cc0906e82c83829658e09128dbaafabcc91eed37cf73976645c112",
+  "md_bytes": 12179,
+  "links_found": 73,
+  "files_found": 0
+}

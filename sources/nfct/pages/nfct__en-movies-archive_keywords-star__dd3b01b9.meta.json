@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=star",
+  "stable_id": "nfct__en-movies-archive_keywords-star__dd3b01b9",
+  "fetched_at": "2026-05-16T10:18:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:18:06Z",
+  "duration_ms": 9314,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dfe36b3816b163735bcdd90f05c7fb41bb1719772c82e1a4edc80b8021809a3f",
+  "md_bytes": 16306,
+  "links_found": 82,
+  "files_found": 0
+}

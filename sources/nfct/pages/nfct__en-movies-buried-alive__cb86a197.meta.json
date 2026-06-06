@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/buried-alive/",
+  "stable_id": "nfct__en-movies-buried-alive__cb86a197",
+  "fetched_at": "2026-05-11T06:31:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:31:13Z",
+  "duration_ms": 63,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c2dc73a5bc96c0ba8625440b647c3ce5984a9d366f05f0e06d43ffba1fbfac4",
+  "md_bytes": 368,
+  "links_found": 0,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=facial+expressions",
+  "stable_id": "nfct__en-movies-archive_keywords-facial-expressions__687bac3d",
+  "fetched_at": "2026-05-16T16:06:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:06:27Z",
+  "duration_ms": 6530,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:673c794d65aecdc9adb6478eac14ba7b846bc9a8c9ff8b4cd811122b83afef7c",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Amsterdam",
+  "stable_id": "nfct__en-movies-archive_keywords-Amsterdam__8b293f0d",
+  "fetched_at": "2026-05-16T12:33:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:49Z",
+  "duration_ms": 9682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c88d7ea2385fe4c995f2247517c0aaf40d6a23c33c23a2aaab21bf2b94add25",
+  "md_bytes": 11648,
+  "links_found": 71,
+  "files_found": 0
+}

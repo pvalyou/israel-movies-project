@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=choice",
+  "stable_id": "nfct__en-movies-archive_keywords-choice__6e8a448b",
+  "fetched_at": "2026-05-16T20:33:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:53Z",
+  "duration_ms": 11177,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:170f08fa44eb4e4815b66230b948afa6ab991903c38a7f99831fe12ace0d7052",
+  "md_bytes": 16730,
+  "links_found": 82,
+  "files_found": 0
+}

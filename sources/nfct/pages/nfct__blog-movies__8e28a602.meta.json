@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כת-התקליט/",
+  "stable_id": "nfct__blog-movies__8e28a602",
+  "fetched_at": "2026-05-09T20:13:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:13:56Z",
+  "duration_ms": 10829,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f3faf24399170614d00ec1546cc6287c06d3869b41a9f8f87ee646847ecf7f9",
+  "md_bytes": 18379,
+  "links_found": 40,
+  "files_found": 0
+}

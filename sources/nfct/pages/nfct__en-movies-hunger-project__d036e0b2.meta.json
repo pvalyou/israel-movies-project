@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hunger-project/",
+  "stable_id": "nfct__en-movies-hunger-project__d036e0b2",
+  "fetched_at": "2026-05-16T16:59:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:59:24Z",
+  "duration_ms": 7160,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d9c5bde721d7e6e8881103b89b8fd91323df3299385c1826906dcde11f5f048",
+  "md_bytes": 16066,
+  "links_found": 44,
+  "files_found": 0
+}

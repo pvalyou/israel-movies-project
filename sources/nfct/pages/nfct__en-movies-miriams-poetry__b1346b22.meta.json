@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/miriams-poetry/",
+  "stable_id": "nfct__en-movies-miriams-poetry__b1346b22",
+  "fetched_at": "2026-05-11T19:33:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:33:30Z",
+  "duration_ms": 45266,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52dd00a6da7fbb84f2e53da717004596c35abe6cdb2c5115f48c1ad391fe91c6",
+  "md_bytes": 15087,
+  "links_found": 46,
+  "files_found": 0
+}

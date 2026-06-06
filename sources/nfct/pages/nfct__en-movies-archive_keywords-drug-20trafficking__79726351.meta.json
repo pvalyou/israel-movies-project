@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=drug%20trafficking",
+  "stable_id": "nfct__en-movies-archive_keywords-drug-20trafficking__79726351",
+  "fetched_at": "2026-05-16T11:33:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:33:09Z",
+  "duration_ms": 7081,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ba8fc6a9a19cdbae67482ca2def376bd55d163fd82c2cfcfb740d8ef745d253",
+  "md_bytes": 12660,
+  "links_found": 74,
+  "files_found": 0
+}

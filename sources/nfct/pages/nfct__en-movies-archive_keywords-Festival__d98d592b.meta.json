@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Festival",
+  "stable_id": "nfct__en-movies-archive_keywords-Festival__d98d592b",
+  "fetched_at": "2026-05-16T16:18:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:18:10Z",
+  "duration_ms": 10407,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b0275c916e80532b8b367e03a68c0f87c7223cf09abacf7f1ab9a3b5f7287d8",
+  "md_bytes": 16802,
+  "links_found": 82,
+  "files_found": 0
+}

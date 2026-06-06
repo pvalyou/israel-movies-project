@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mothers",
+  "stable_id": "nfct__en-movies-archive_keywords-Mothers__e45e516a",
+  "fetched_at": "2026-05-16T12:37:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:37:00Z",
+  "duration_ms": 12487,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7205583938a1a8be883d9cef0103438530b771cc4933d2c263939e5df709c3d1",
+  "md_bytes": 14931,
+  "links_found": 80,
+  "files_found": 0
+}

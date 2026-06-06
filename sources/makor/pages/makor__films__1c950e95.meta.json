@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אגודות-הכפרים/",
+  "stable_id": "makor__films__1c950e95",
+  "fetched_at": "2026-05-09T13:24:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:24:47Z",
+  "duration_ms": 8181,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d6c3bb5dd881dd162e19f2f777f7a60515a5cebb7c43fc6217bdc6b4aca339c",
+  "md_bytes": 2812,
+  "links_found": 4,
+  "files_found": 0
+}

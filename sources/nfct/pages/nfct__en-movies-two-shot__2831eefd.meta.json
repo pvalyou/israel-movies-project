@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/two-shot/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-two-shot__2831eefd",
+  "fetched_at": "2026-05-16T17:21:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:21:12Z",
+  "duration_ms": 8473,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:19c9674b1feb2945a6b2a3b9cd43b33cd6862211b921c85eb080e3aaf251f64f",
+  "md_bytes": 14164,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/how-soon-is-now/",
+  "stable_id": "nfct__en-movies-how-soon-is-now__95627600",
+  "fetched_at": "2026-05-11T19:46:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:46:33Z",
+  "duration_ms": 7775,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ca3ac73d9628b035c0b7196090cfd1a8b7bd35783494dcf8d8702f1b16fa9670",
+  "md_bytes": 10561,
+  "links_found": 27,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=political%20satire",
+  "stable_id": "nfct__en-movies-archive_keywords-political-20satire__eafaa47d",
+  "fetched_at": "2026-05-16T10:24:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:24:08Z",
+  "duration_ms": 11205,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:19bb4b31ff51d5746b7ad0e7dd583569aa24e4832989df672d1172799f778ba4",
+  "md_bytes": 11365,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/קיקי/",
+  "stable_id": "makor__films__7a818568",
+  "fetched_at": "2026-05-09T13:20:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:20:21Z",
+  "duration_ms": 9294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd2a1b952f8698ed7a73a9ffe3c16899e8b5f8daa52f0b8ca242307af894edd0",
+  "md_bytes": 2961,
+  "links_found": 4,
+  "files_found": 0
+}

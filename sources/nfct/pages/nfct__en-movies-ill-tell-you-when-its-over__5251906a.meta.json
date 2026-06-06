@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ill-tell-you-when-its-over/",
+  "stable_id": "nfct__en-movies-ill-tell-you-when-its-over__5251906a",
+  "fetched_at": "2026-05-11T11:11:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:11:16Z",
+  "duration_ms": 7332,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa205f8d0532f1172345c8af08c3b5e2aab6a5157c5690a714892a36f5b57709",
+  "md_bytes": 10216,
+  "links_found": 24,
+  "files_found": 0
+}

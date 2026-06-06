@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Beirut",
+  "stable_id": "nfct__en-movies-archive_keywords-Beirut__940b3895",
+  "fetched_at": "2026-05-16T10:10:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:10:45Z",
+  "duration_ms": 6278,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0279719f654c81331d59b7523871fff02254db8579e3a511ce94a184beeffe49",
+  "md_bytes": 10528,
+  "links_found": 69,
+  "files_found": 0
+}

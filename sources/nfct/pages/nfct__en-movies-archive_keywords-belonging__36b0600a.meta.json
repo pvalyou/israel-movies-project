@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=belonging",
+  "stable_id": "nfct__en-movies-archive_keywords-belonging__36b0600a",
+  "fetched_at": "2026-05-16T14:37:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:37:16Z",
+  "duration_ms": 9451,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eba46cc03938b6ac0ffc2dcde4cea7be1c089041863ba80410c35b3c0b4fab7c",
+  "md_bytes": 12312,
+  "links_found": 73,
+  "files_found": 0
+}

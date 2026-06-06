@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/refugee-lullaby/",
+  "stable_id": "nfct__en-movies-refugee-lullaby__80982e19",
+  "fetched_at": "2026-05-11T16:01:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:01:24Z",
+  "duration_ms": 39285,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c1cd01f8a8b73e8bcc7b75a5969863aae9bec40147609605d730d54f2699504",
+  "md_bytes": 13862,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הגן/",
+  "stable_id": "nfct__blog-movies__2fda69bb",
+  "fetched_at": "2026-05-09T21:43:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:43:15Z",
+  "duration_ms": 51160,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:774657057f3790e0fe85738b5f2f0d667342ebbef094eb366c65518cbbc9a72b",
+  "md_bytes": 13865,
+  "links_found": 34,
+  "files_found": 0
+}

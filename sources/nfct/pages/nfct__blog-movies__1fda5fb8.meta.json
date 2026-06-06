@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ירוס/",
+  "stable_id": "nfct__blog-movies__1fda5fb8",
+  "fetched_at": "2026-05-09T19:31:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:31:42Z",
+  "duration_ms": 8268,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c8cffd0a6bf08c4b4a337d4f827fc1c63fc6437cc36ab399a088665e81b9ee7",
+  "md_bytes": 11086,
+  "links_found": 23,
+  "files_found": 0
+}

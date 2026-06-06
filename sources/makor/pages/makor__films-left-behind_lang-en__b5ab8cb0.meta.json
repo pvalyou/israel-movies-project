@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/left-behind/?lang=en",
+  "stable_id": "makor__films-left-behind_lang-en__b5ab8cb0",
+  "fetched_at": "2026-05-09T13:16:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:16:32Z",
+  "duration_ms": 10622,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7325b02c087dd8ff51d9106b5224b4ec8d5652f4225d1652f7d4a2261f3dc788",
+  "md_bytes": 2405,
+  "links_found": 4,
+  "files_found": 0
+}

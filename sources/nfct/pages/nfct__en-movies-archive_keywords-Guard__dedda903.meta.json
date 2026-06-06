@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Guard",
+  "stable_id": "nfct__en-movies-archive_keywords-Guard__dedda903",
+  "fetched_at": "2026-05-16T13:40:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:40:55Z",
+  "duration_ms": 12802,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92e6f2dbc6685eb1f64d16d48d71e1222d350d4067869010ee175539bc4c1dcd",
+  "md_bytes": 15853,
+  "links_found": 82,
+  "files_found": 0
+}

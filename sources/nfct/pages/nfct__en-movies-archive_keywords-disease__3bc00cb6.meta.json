@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=disease",
+  "stable_id": "nfct__en-movies-archive_keywords-disease__3bc00cb6",
+  "fetched_at": "2026-05-16T13:28:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:28:49Z",
+  "duration_ms": 7401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:94093ca8170c2ecaf300257d0becb27311c5f30ad147e3afc4222801cd2abdf1",
+  "md_bytes": 14071,
+  "links_found": 78,
+  "files_found": 0
+}

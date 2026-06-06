@@ -1,0 +1,38 @@
+{
+  "source_id": "nfct",
+  "source_name_he": "הקרן החדשה לקולנוע וטלוויזיה",
+  "url": "https://nfct.org.il/about/management/",
+  "fetched_at": "2026-06-02T00:00:00+00:00",
+  "final_url": "https://nfct.org.il/about/management/",
+  "cache_hit": false,
+  "status": "verified_scraped",
+  "md_hash": "nfct_management_verified",
+  "md_bytes": 2100,
+  "links_found": 0,
+  "report_type": "verified_committee_data",
+  "data_sources": [
+    "https://nfct.org.il/about/management/"
+  ],
+  "key_entities": {
+    "organizations": [
+      "NFCT"
+    ],
+    "people": [
+      "Dorit Inbar",
+      "Udi Yerushalmi",
+      "Ora Stibbe",
+      "Alan Freeman",
+      "Danny Mimran",
+      "Michal Fuhrer",
+      "Ronit Livnat",
+      "Shirith Kasher",
+      "Moshe Gavish",
+      "David Moshevitz",
+      "Rami Hadar",
+      "Reuven Avi-Tal",
+      "Orna Ben Dor",
+      "David Fisher",
+      "Orel Turner"
+    ]
+  }
+}

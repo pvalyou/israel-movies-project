@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-ארץ-אהובה-שלי-יעל-קיפר-רונן-זרצק/",
+  "stable_id": "nfct__events-event__3ab76aa5",
+  "fetched_at": "2026-05-10T01:30:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:30:33Z",
+  "duration_ms": 25099,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:151d2228c39b9acba6a75cb004e576cf28a0c117978dd27efc565b2cdf0e619c",
+  "md_bytes": 13280,
+  "links_found": 28,
+  "files_found": 0
+}

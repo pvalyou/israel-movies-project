@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/%D7%A6%D7%99%D7%A4%D7%99%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%9E%D7%93-%D7%9C%D7%A4%D7%A8%D7%A1-annie/",
+  "stable_id": "makor__D7-A6-D7-99-D7-A4-D7-99-D7-95-D7-AA--D7-9E-D7-95-D7-A2-D7-9E-D7-93--D7-9C-D7-A4-__31ac8ead",
+  "fetched_at": "2026-05-14T20:17:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": null,
+  "duration_ms": 0,
+  "status": "error",
+  "error": "HTTP 502: {\"detail\":\"Crawl failed (HTTP None): Unexpected error in _crawl_web at line 559 in wrap_api_call (../usr/local/lib/python3.12/site-packages/playwright/_impl/_connection.py):\\nError: BrowserContext.new",
+  "md_hash": null,
+  "md_bytes": 0,
+  "links_found": 0,
+  "files_found": 0
+}

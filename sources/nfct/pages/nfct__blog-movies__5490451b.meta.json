@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/המצב-קשה/",
+  "stable_id": "nfct__blog-movies__5490451b",
+  "fetched_at": "2026-05-09T21:46:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:46:55Z",
+  "duration_ms": 36285,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db316c0d6ec4ba9d59f9603c75dde1103bce9b00e3a05399ed0aafe68567533d",
+  "md_bytes": 16778,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=suicide",
+  "stable_id": "nfct__en-movies-archive_keywords-suicide__e4b80018",
+  "fetched_at": "2026-05-16T20:59:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:59:07Z",
+  "duration_ms": 27188,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fecfa8bc2dbff6178d613ea455bb7acf9a1d2e65984e791ee2e04989ae53996b",
+  "md_bytes": 16199,
+  "links_found": 82,
+  "files_found": 0
+}

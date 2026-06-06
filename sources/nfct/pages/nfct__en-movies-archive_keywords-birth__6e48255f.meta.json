@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=birth",
+  "stable_id": "nfct__en-movies-archive_keywords-birth__6e48255f",
+  "fetched_at": "2026-05-16T12:49:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:49:04Z",
+  "duration_ms": 15156,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9330cd9c7acc0644ead180d6df3981a35ed8f35321eb8c06cdfd1e36d3b1107",
+  "md_bytes": 16392,
+  "links_found": 82,
+  "files_found": 0
+}

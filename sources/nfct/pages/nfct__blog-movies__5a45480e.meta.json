@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אתה-תחיה-אבל-בישראל/",
+  "stable_id": "nfct__blog-movies__5a45480e",
+  "fetched_at": "2026-05-09T21:57:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:57:52Z",
+  "duration_ms": 19954,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fcc0eb4e03f4cbc455d008fe5e9dca4644147049800c832c70e468bb49f3e304",
+  "md_bytes": 19471,
+  "links_found": 48,
+  "files_found": 0
+}

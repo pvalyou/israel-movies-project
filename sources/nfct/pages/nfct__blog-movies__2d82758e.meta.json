@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/העיוורת/",
+  "stable_id": "nfct__blog-movies__2d82758e",
+  "fetched_at": "2026-05-09T20:13:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:13:42Z",
+  "duration_ms": 27731,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:86b42d472d0ed71ad9cbf9b3c3bf89bf03c49af13c7598d49a060b176192eb56",
+  "md_bytes": 18398,
+  "links_found": 40,
+  "files_found": 0
+}

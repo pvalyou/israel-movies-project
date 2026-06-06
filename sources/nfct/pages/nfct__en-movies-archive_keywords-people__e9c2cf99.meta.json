@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=people",
+  "stable_id": "nfct__en-movies-archive_keywords-people__e9c2cf99",
+  "fetched_at": "2026-05-16T15:35:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:35:36Z",
+  "duration_ms": 11795,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c92cf5fc14d94892dfad0c1c71d40ca0462dbeb9f7940f35769f12ea7bea2ea2",
+  "md_bytes": 15927,
+  "links_found": 82,
+  "files_found": 0
+}

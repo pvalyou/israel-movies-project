@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זהב-ליודה/",
+  "stable_id": "nfct__blog-movies__33dfb7d3",
+  "fetched_at": "2026-05-15T09:02:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:49Z",
+  "duration_ms": 9669,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:660b7f2616b454a487f574921b2f18072e71f70247ae94ef4f61b601574f4855",
+  "md_bytes": 22330,
+  "links_found": 47,
+  "files_found": 0
+}

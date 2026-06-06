@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfundgalil.com/contact-us",
+  "stable_id": "galilee_film_fund__contact-us__70d104f5",
+  "fetched_at": "2026-05-09T11:10:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:10:00Z",
+  "duration_ms": 12624,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c29031c44e5452b9b13a55fa50ab8999687aec42bbe3776c8c8e13cad1d811a",
+  "md_bytes": 1550,
+  "links_found": 0,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/lady-kul-el-arab/?lang=en",
+  "stable_id": "makor__films-lady-kul-el-arab_lang-en__a39f6a48",
+  "fetched_at": "2026-05-09T13:05:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:05:10Z",
+  "duration_ms": 8687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:545453c7bcd6e7f3a824babc503cafef9ce4416645ef6d69904a83356580cc48",
+  "md_bytes": 3095,
+  "links_found": 4,
+  "files_found": 0
+}

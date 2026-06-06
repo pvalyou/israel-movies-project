@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/black-notebooks/",
+  "stable_id": "nfct__en-movies-black-notebooks__6113ef3b",
+  "fetched_at": "2026-05-11T17:41:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:41:06Z",
+  "duration_ms": 15716,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1cbaf09cd9cf65b5ecc8be038d9d879501de8348794605fa80a1bc982b061791",
+  "md_bytes": 15006,
+  "links_found": 46,
+  "files_found": 0
+}

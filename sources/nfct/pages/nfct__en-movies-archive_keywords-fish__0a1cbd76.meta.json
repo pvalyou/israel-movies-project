@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fish",
+  "stable_id": "nfct__en-movies-archive_keywords-fish__0a1cbd76",
+  "fetched_at": "2026-05-16T20:35:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:35:32Z",
+  "duration_ms": 7639,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:346a642344ca527772186362c0bd6346800c52c6c5074cd8c2ad117ffcced750",
+  "md_bytes": 15458,
+  "links_found": 80,
+  "files_found": 0
+}

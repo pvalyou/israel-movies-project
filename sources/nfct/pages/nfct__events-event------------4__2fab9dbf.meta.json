@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-התעוררות-גיא-מאירסון-סינמטק-תל-4/",
+  "stable_id": "nfct__events-event------------4__2fab9dbf",
+  "fetched_at": "2026-05-10T08:59:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T08:59:19Z",
+  "duration_ms": 72870,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:47597411346e0bba023351632b08b382b47a124671f6b716e4d41dd2fdbfb6b2",
+  "md_bytes": 12856,
+  "links_found": 28,
+  "files_found": 0
+}

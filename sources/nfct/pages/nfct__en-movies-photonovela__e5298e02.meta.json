@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/photonovela/",
+  "stable_id": "nfct__en-movies-photonovela__e5298e02",
+  "fetched_at": "2026-05-11T02:44:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:44:14Z",
+  "duration_ms": 37282,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df49428552a5fe6e42485d88946991ee352e19d3b9b7390490d42e931a8a56ee",
+  "md_bytes": 13483,
+  "links_found": 34,
+  "files_found": 0
+}

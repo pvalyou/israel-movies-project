@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=2D",
+  "stable_id": "nfct__en-movies-archive_keywords-2D__87622f52",
+  "fetched_at": "2026-05-16T20:16:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:49Z",
+  "duration_ms": 8511,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5cd24e9e984bb0450fdae019e7637a24bddc258d59829b2fb91f0ee88dee7ad2",
+  "md_bytes": 9779,
+  "links_found": 67,
+  "files_found": 0
+}

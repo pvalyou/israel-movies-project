@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Martial+Arts",
+  "stable_id": "nfct__en-movies-archive_keywords-Martial-Arts__af2643d1",
+  "fetched_at": "2026-05-16T05:58:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:58:40Z",
+  "duration_ms": 8577,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f33a97389a7ab1834336692a37dc4ea27fa939a0dcc3735a639ae4f6117a68e",
+  "md_bytes": 10006,
+  "links_found": 68,
+  "files_found": 0
+}

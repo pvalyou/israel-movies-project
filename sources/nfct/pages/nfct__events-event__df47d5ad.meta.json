@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המתנחלים-שמעון-דותן-קולנוע-חן-ר/",
+  "stable_id": "nfct__events-event__df47d5ad",
+  "fetched_at": "2026-05-10T04:23:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T04:23:59Z",
+  "duration_ms": 9879,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e6537669a60cb1d56105d3e9cd594e0a8cd2d89ff0b40485916e6aa2ab78aa1a",
+  "md_bytes": 10393,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=transformation",
+  "stable_id": "nfct__en-movies-archive_keywords-transformation__b7db71d9",
+  "fetched_at": "2026-05-16T09:56:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:56:57Z",
+  "duration_ms": 8084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:40a2c515bb3917af30a725d79a672fafa6cfdd8b865ac6ad74533e931d577cd4",
+  "md_bytes": 12857,
+  "links_found": 75,
+  "files_found": 0
+}

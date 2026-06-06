@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-film-class/",
+  "stable_id": "nfct__en-movies-the-film-class__888b34a1",
+  "fetched_at": "2026-05-11T00:40:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:40:05Z",
+  "duration_ms": 29357,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2946089a34c079ae8f2cdaf41b2e94a1b10d5657f73139fc8ce546ab066009f1",
+  "md_bytes": 18750,
+  "links_found": 49,
+  "files_found": 0
+}

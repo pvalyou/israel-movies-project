@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mount+Herzl",
+  "stable_id": "nfct__en-movies-archive_keywords-Mount-Herzl__501e4f37",
+  "fetched_at": "2026-05-16T06:37:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:37:07Z",
+  "duration_ms": 9316,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:74f0f6aedeb0bc75b509bc74b0b3ed82818e000f4424da68480b80c582f21edb",
+  "md_bytes": 10472,
+  "links_found": 69,
+  "files_found": 0
+}

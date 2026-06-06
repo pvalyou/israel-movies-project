@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=dysfunctional",
+  "stable_id": "nfct__en-movies-archive_keywords-dysfunctional__c1c87e18",
+  "fetched_at": "2026-05-16T12:53:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:53:31Z",
+  "duration_ms": 12816,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:283605dcc856c12e07f945bded955d1c72817b9afec1d975acac6e7900856bf4",
+  "md_bytes": 10274,
+  "links_found": 68,
+  "files_found": 0
+}

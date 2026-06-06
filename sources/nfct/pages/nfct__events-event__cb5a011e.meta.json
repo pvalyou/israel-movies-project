@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-נפישות-שירי-חבצלת-פסטיבל-סוליד/",
+  "stable_id": "nfct__events-event__cb5a011e",
+  "fetched_at": "2026-05-09T23:21:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T23:21:05Z",
+  "duration_ms": 30422,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:40f517ff7375bf4d9ac5c070bdd56db62f75a34b3f5f1ead164c17ad9f0bc210",
+  "md_bytes": 11050,
+  "links_found": 22,
+  "files_found": 0
+}

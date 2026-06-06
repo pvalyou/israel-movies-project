@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/compromise/",
+  "stable_id": "nfct__en-movies-compromise__800d2a42",
+  "fetched_at": "2026-05-11T06:07:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:07:38Z",
+  "duration_ms": 24445,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2c3e707fef86d2480708faae3bd8ab4185a8398f518957d56724d017f1e95de",
+  "md_bytes": 13567,
+  "links_found": 38,
+  "files_found": 0
+}

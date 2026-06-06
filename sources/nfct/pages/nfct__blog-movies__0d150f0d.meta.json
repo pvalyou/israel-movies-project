@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עייב/",
+  "stable_id": "nfct__blog-movies__0d150f0d",
+  "fetched_at": "2026-05-09T20:40:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:40:16Z",
+  "duration_ms": 39083,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f1cbf8b9fec334ba89a3bcf33f6178bdd741e56311c8faf16336d2e82231295",
+  "md_bytes": 19918,
+  "links_found": 48,
+  "files_found": 0
+}

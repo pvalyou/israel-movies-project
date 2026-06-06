@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sami%20Bourekas",
+  "stable_id": "nfct__en-movies-archive_keywords-Sami-20Bourekas__5eb44a09",
+  "fetched_at": "2026-05-16T16:38:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:38:45Z",
+  "duration_ms": 9486,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dfec28ebdf5205556dd7740c12ee17b6a7518c38bc20aaf32df2ec735a825917",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

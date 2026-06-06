@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=frustration",
+  "stable_id": "nfct__en-movies-archive_keywords-frustration__17a013d3",
+  "fetched_at": "2026-05-16T12:17:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:17:33Z",
+  "duration_ms": 10122,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f46d94209bb94bdc0bf271d5a27ccac2a57d5c32cd25ba348e641f205e5ba49",
+  "md_bytes": 12811,
+  "links_found": 75,
+  "files_found": 0
+}

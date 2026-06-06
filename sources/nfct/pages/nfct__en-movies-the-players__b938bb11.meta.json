@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-players/",
+  "stable_id": "nfct__en-movies-the-players__b938bb11",
+  "fetched_at": "2026-05-12T03:59:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:59:53Z",
+  "duration_ms": 26567,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:06ef5b20b07dcf2830e48da0e8e2a26b786b3aae00af52d0ce3158fa154e218a",
+  "md_bytes": 12735,
+  "links_found": 35,
+  "files_found": 0
+}

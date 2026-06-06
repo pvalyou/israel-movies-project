@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/משחק-האמת-והשקר/",
+  "stable_id": "nfct__movies__f6df1251",
+  "fetched_at": "2026-05-16T09:20:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:20:44Z",
+  "duration_ms": 8902,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:174f5ef87160fcb3b43e8296a208ea7400d4dcb0a2d2c83f1417573fd8be3acb",
+  "md_bytes": 8703,
+  "links_found": 21,
+  "files_found": 0
+}

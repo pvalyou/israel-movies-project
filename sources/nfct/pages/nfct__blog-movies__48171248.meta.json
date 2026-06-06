@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עצמאות/",
+  "stable_id": "nfct__blog-movies__48171248",
+  "fetched_at": "2026-05-09T20:08:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:08:21Z",
+  "duration_ms": 10687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e053941d830071d35d607f2b393a76a4ed9b0f0a6b3802e9e2d5f8152c3dc028",
+  "md_bytes": 13459,
+  "links_found": 29,
+  "files_found": 0
+}

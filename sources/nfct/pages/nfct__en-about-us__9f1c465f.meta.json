@@ -1,0 +1,23 @@
+{
+  "url": "http://nfct.org.il/en/about-us/",
+  "stable_id": "nfct__en-about-us__9f1c465f",
+  "fetched_at": "2026-05-15T21:33:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:33:27Z",
+  "duration_ms": 6861,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc477916a35e31eef42c400f9968eb16bdee0281705f8c1147951ec65a4a8bf2",
+  "md_bytes": 8661,
+  "links_found": 16,
+  "files_found": 0
+}

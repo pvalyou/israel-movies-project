@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/gangster-chocolate/",
+  "stable_id": "nfct__en-movies-gangster-chocolate__e0e00cd9",
+  "fetched_at": "2026-05-11T17:11:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:11:02Z",
+  "duration_ms": 25350,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dac46851a668ff5b5cc5bc549a3aad4b8763c1747d7bb5868944a4d06b441c58",
+  "md_bytes": 14544,
+  "links_found": 43,
+  "files_found": 0
+}

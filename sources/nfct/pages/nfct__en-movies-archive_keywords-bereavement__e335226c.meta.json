@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bereavement",
+  "stable_id": "nfct__en-movies-archive_keywords-bereavement__e335226c",
+  "fetched_at": "2026-05-16T11:25:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:25:03Z",
+  "duration_ms": 10505,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c2366db7e7a74e2968ccb10c5e1750d819653015e5ca22bf82d0201102be3d7c",
+  "md_bytes": 11242,
+  "links_found": 71,
+  "files_found": 0
+}

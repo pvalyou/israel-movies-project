@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-ימי-תום-גיא-דוידי-פסטיבל-דוקאבי/",
+  "stable_id": "nfct__events-event__6f94dcb2",
+  "fetched_at": "2026-05-09T22:22:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:22:40Z",
+  "duration_ms": 33221,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2159038f9311e8de45625aa6a68795e25cbb6c7310b3e34617a728b609fc3c1f",
+  "md_bytes": 13026,
+  "links_found": 28,
+  "files_found": 0
+}

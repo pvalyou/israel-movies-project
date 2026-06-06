@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בראשית/",
+  "stable_id": "nfct__blog-movies__3dd495cf",
+  "fetched_at": "2026-05-15T08:59:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:34Z",
+  "duration_ms": 7721,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d2867598b4101e04c59a076ba21046f6d99de5b7acf4b83654641d34b6fed77",
+  "md_bytes": 23605,
+  "links_found": 43,
+  "files_found": 0
+}

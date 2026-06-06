@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מסילה/",
+  "stable_id": "makor__films__d5ca84c1",
+  "fetched_at": "2026-05-09T13:09:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:09:02Z",
+  "duration_ms": 12609,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b2942025e88bc18583eb1221973d8361096ba5787b90494a6678dc4368d1f2d",
+  "md_bytes": 3558,
+  "links_found": 4,
+  "files_found": 0
+}

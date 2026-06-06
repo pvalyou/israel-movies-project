@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yehezkel+Henkin",
+  "stable_id": "nfct__en-movies-archive_keywords-Yehezkel-Henkin__1ce295b3",
+  "fetched_at": "2026-05-16T10:42:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:42:00Z",
+  "duration_ms": 9045,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23bba26321aad7ed0e0c55adf975ee08225e47116f9e657f90ff631719f0f123",
+  "md_bytes": 10362,
+  "links_found": 68,
+  "files_found": 0
+}

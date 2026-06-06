@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/across-the-line/",
+  "stable_id": "nfct__en-movies-across-the-line__9a72eeb0",
+  "fetched_at": "2026-05-12T00:44:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:44:33Z",
+  "duration_ms": 12601,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6cd718d38c6fd2a293b5cf104e0fc8314f5dd079e5190d46f86be986de11254d",
+  "md_bytes": 11938,
+  "links_found": 33,
+  "files_found": 0
+}

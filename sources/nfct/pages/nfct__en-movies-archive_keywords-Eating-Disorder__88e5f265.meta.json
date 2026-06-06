@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eating+Disorder",
+  "stable_id": "nfct__en-movies-archive_keywords-Eating-Disorder__88e5f265",
+  "fetched_at": "2026-05-16T16:32:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:32:50Z",
+  "duration_ms": 7867,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cf09d05cd2bcaeef495ec5f0da96d41d4f582351865afdd9a7cd5bef2d905e85",
+  "md_bytes": 11081,
+  "links_found": 69,
+  "files_found": 0
+}

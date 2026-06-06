@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish+National+Fund",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-National-Fund__9e7e5791",
+  "fetched_at": "2026-05-16T15:29:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:29:50Z",
+  "duration_ms": 8418,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de9fa610624b215c360174b8b73d2335231aa08630af7a41fb2e9a8e8e7ee8fd",
+  "md_bytes": 9989,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bunchi/",
+  "stable_id": "nfct__en-movies-bunchi__1ed1dd96",
+  "fetched_at": "2026-05-11T17:49:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:49:16Z",
+  "duration_ms": 7577,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d162eabf28fbc147e4adc550b7b1d6a892c6da5ea3d9ae124fcdd8f6aae84189",
+  "md_bytes": 13300,
+  "links_found": 36,
+  "files_found": 0
+}

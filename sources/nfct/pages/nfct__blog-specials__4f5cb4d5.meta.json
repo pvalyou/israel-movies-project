@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/מסלול-מסע-בזמן/",
+  "stable_id": "nfct__blog-specials__4f5cb4d5",
+  "fetched_at": "2026-05-09T18:03:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:03:28Z",
+  "duration_ms": 38715,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db0364465ab90f7928c4acb98a23b3d9095bfb12129d4c273d08db0ee6f16fc8",
+  "md_bytes": 10179,
+  "links_found": 21,
+  "files_found": 0
+}

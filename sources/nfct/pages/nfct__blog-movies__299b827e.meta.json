@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יומן-תצפית/",
+  "stable_id": "nfct__blog-movies__299b827e",
+  "fetched_at": "2026-05-09T20:03:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:03:38Z",
+  "duration_ms": 20147,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f58a2a48a81e821224d5029adfba7ea68cf070135a0ef3821ab7bd61fe18916",
+  "md_bytes": 14290,
+  "links_found": 30,
+  "files_found": 0
+}

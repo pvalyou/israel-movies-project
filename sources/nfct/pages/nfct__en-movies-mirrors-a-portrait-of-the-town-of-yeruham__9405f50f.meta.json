@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mirrors-a-portrait-of-the-town-of-yeruham/",
+  "stable_id": "nfct__en-movies-mirrors-a-portrait-of-the-town-of-yeruham__9405f50f",
+  "fetched_at": "2026-05-12T01:29:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:29:25Z",
+  "duration_ms": 32161,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7753a8e75dc32ee1d961c124d9adbb2cd38af5bc5a68db9838eb8fe9d821d508",
+  "md_bytes": 11777,
+  "links_found": 32,
+  "files_found": 0
+}

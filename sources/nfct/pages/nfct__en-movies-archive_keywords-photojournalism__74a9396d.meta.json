@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=photojournalism",
+  "stable_id": "nfct__en-movies-archive_keywords-photojournalism__74a9396d",
+  "fetched_at": "2026-05-16T11:14:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:14:32Z",
+  "duration_ms": 9338,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8588822b3dc61c6bf62e77d35dcf23dc8b8faa63e68b27717ccf3e96a290633",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

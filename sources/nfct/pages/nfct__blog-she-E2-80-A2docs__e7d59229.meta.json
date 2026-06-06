@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/she%E2%80%A2docs/#UAMainContent",
+  "stable_id": "nfct__blog-she-E2-80-A2docs__e7d59229",
+  "fetched_at": "2026-05-15T17:41:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T17:41:25Z",
+  "duration_ms": 7187,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab00f7e533b06a07e75e7e080f387c168aae01cff9b2ab2ba5e7adb960c77d76",
+  "md_bytes": 13789,
+  "links_found": 20,
+  "files_found": 0
+}

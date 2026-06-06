@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rabin%20Square",
+  "stable_id": "nfct__en-movies-archive_keywords-Rabin-20Square__d8a2405f",
+  "fetched_at": "2026-05-16T17:48:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:48:02Z",
+  "duration_ms": 9881,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a5d5a645107e427893f6eac454dd283a2779a47964befa2e3477600a6ce70950",
+  "md_bytes": 11324,
+  "links_found": 70,
+  "files_found": 0
+}

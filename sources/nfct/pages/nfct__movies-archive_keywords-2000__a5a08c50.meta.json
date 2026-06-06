@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive?keywords=2000",
+  "stable_id": "nfct__movies-archive_keywords-2000__a5a08c50",
+  "fetched_at": "2026-05-11T07:34:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:34:52Z",
+  "duration_ms": 29816,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:becdcd388bcb439a77bfc8fcd10a16c6c2bb5e281e27a174418244e290a8d3d4",
+  "md_bytes": 22227,
+  "links_found": 104,
+  "files_found": 0
+}

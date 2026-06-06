@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מרגל-השמפניה/",
+  "stable_id": "nfct__movies__eef8bcae",
+  "fetched_at": "2026-05-16T06:32:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:32:58Z",
+  "duration_ms": 15294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3baecf569d5d7e51b799e02cda27865bf00896fe04c55b5104ed4957a5751f9d",
+  "md_bytes": 8066,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/הרבה-גוונים-לשחור/",
+  "stable_id": "makor__films__882c6219",
+  "fetched_at": "2026-05-09T13:09:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:09:55Z",
+  "duration_ms": 10732,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3457e7382dbaef66485be030f56aa7e302cca55b472279bc74434d1a30461e8d",
+  "md_bytes": 3410,
+  "links_found": 4,
+  "files_found": 0
+}

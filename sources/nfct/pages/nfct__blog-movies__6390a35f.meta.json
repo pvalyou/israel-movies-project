@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מתוך-שינה/",
+  "stable_id": "nfct__blog-movies__6390a35f",
+  "fetched_at": "2026-05-09T19:24:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:24:16Z",
+  "duration_ms": 17632,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:add339e75bc7f992434ba8ae0950de6486fc6d7a85c8d5702ef69f4d985f73d1",
+  "md_bytes": 11454,
+  "links_found": 21,
+  "files_found": 0
+}

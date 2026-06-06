@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=social%20security%20allowance",
+  "stable_id": "nfct__en-movies-archive_keywords-social-20security-20allowance__83fd57d3",
+  "fetched_at": "2026-05-16T16:05:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:05:19Z",
+  "duration_ms": 7372,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4594c8b02b95b60e71668174b449464b85d027b1557ed3ff4a83e741f89b8592",
+  "md_bytes": 10002,
+  "links_found": 68,
+  "files_found": 0
+}

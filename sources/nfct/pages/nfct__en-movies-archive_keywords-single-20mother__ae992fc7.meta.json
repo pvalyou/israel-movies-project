@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=single%20mother",
+  "stable_id": "nfct__en-movies-archive_keywords-single-20mother__ae992fc7",
+  "fetched_at": "2026-05-16T09:17:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:17:04Z",
+  "duration_ms": 6993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:64e4f072a1ae43eb27e0a2a64cff2b95976d29a7804ff9b144af76470fed1658",
+  "md_bytes": 13544,
+  "links_found": 77,
+  "files_found": 0
+}

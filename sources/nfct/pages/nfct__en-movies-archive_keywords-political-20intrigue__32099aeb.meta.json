@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=political%20intrigue",
+  "stable_id": "nfct__en-movies-archive_keywords-political-20intrigue__32099aeb",
+  "fetched_at": "2026-05-16T14:45:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:45:28Z",
+  "duration_ms": 8314,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:86062e6853c040fabbc2a5b7c55f3aac589a0a815b1b589f5b586dfef2951e37",
+  "md_bytes": 11060,
+  "links_found": 70,
+  "files_found": 0
+}

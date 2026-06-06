@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ilia%20Kavidan",
+  "stable_id": "nfct__en-movies-archive_keywords-Ilia-20Kavidan__517123d9",
+  "fetched_at": "2026-05-16T17:13:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:13:08Z",
+  "duration_ms": 7728,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92266a5ca89bfcf574b866cfdf7515ceaaf6018c9ccd18550c049dc7d14d30e5",
+  "md_bytes": 10328,
+  "links_found": 68,
+  "files_found": 0
+}

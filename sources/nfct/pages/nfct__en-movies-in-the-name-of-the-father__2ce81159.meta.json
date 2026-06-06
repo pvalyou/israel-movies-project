@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-the-name-of-the-father/#UArexazDFN",
+  "stable_id": "nfct__en-movies-in-the-name-of-the-father__2ce81159",
+  "fetched_at": "2026-05-16T13:49:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:49:56Z",
+  "duration_ms": 8304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:15a520c518c627f33248647aac60e0729bdb7d5fe4ac7fba2c9c9c6a64d2bcbe",
+  "md_bytes": 14432,
+  "links_found": 44,
+  "files_found": 0
+}

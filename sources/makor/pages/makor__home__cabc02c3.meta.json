@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/home/סרטים/",
+  "stable_id": "makor__home__cabc02c3",
+  "fetched_at": "2026-05-09T12:04:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:04:08Z",
+  "duration_ms": 43501,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c8276d4e0fb8ac8e87d620e8687176bd53e4b3689fc6d94a2855bf4109a1d007",
+  "md_bytes": 578,
+  "links_found": 1,
+  "files_found": 0
+}

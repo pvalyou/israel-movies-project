@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/not-home/",
+  "stable_id": "nfct__en-movies-not-home__7ecf9bbe",
+  "fetched_at": "2026-05-16T07:52:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:52:17Z",
+  "duration_ms": 6752,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3723a0e590afd7130c6ddaa24a7119223356bad143c8ac10836b7f579e51c951",
+  "md_bytes": 15193,
+  "links_found": 56,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gun+Patrol+Boat",
+  "stable_id": "nfct__en-movies-archive_keywords-Gun-Patrol-Boat__00e9e281",
+  "fetched_at": "2026-05-16T12:30:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:11Z",
+  "duration_ms": 9090,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e70943fd0eadd5dd95ca110f1f0ca46d3b33ce98cc62126ef9a1eedd71046eb",
+  "md_bytes": 10259,
+  "links_found": 68,
+  "files_found": 0
+}

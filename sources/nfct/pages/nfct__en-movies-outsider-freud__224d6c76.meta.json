@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/outsider-freud/#UAMainContent",
+  "stable_id": "nfct__en-movies-outsider-freud__224d6c76",
+  "fetched_at": "2026-05-16T12:32:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:32:39Z",
+  "duration_ms": 8527,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ec2924954ffad632ff4d30f68efa5bf14e44b9803e94e77af505cc525bff287",
+  "md_bytes": 13131,
+  "links_found": 34,
+  "files_found": 0
+}

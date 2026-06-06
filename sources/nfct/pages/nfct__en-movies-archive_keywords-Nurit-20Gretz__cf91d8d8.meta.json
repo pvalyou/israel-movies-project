@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nurit%20Gretz",
+  "stable_id": "nfct__en-movies-archive_keywords-Nurit-20Gretz__cf91d8d8",
+  "fetched_at": "2026-05-16T12:33:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:14Z",
+  "duration_ms": 10401,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:692530a3458a24a5e6dfc5c0b8047a2c192a807a8824fdec673e6ea584caa3f9",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

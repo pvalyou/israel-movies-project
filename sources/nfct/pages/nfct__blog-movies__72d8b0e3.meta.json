@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סודה/",
+  "stable_id": "nfct__blog-movies__72d8b0e3",
+  "fetched_at": "2026-05-09T19:35:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:35:34Z",
+  "duration_ms": 29801,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:89b6363c4752c6990be208ba654db82a03444f40f0d88bccc2db0346f3d225fa",
+  "md_bytes": 14549,
+  "links_found": 29,
+  "files_found": 0
+}

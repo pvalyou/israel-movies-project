@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-group-portrait-with-a-woman/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-a-group-portrait-with-a-woman__6bd28605",
+  "fetched_at": "2026-05-16T11:31:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:31:23Z",
+  "duration_ms": 11270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4a16e304b89bbbb62f452044a3f74da68c956af34a98647a7fbfec36b12d09dc",
+  "md_bytes": 13092,
+  "links_found": 32,
+  "files_found": 0
+}

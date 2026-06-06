@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=vegan",
+  "stable_id": "nfct__en_movies-archive__725034c1",
+  "fetched_at": "2026-05-18T21:31:52.359437+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=vegan",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "55428f2320bf253bc05c19eb811f84b6b703e01e6ea5650ed0a9885379b9e49c",
+  "md_bytes": 9194,
+  "links_found": 0,
+  "error": ""
+}

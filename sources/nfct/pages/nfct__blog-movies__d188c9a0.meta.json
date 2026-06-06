@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קו-המים/",
+  "stable_id": "nfct__blog-movies__d188c9a0",
+  "fetched_at": "2026-05-09T19:38:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:38:23Z",
+  "duration_ms": 21111,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e29839316f1b005b86c42122656e0b64b3072b5663e836510e03c40aad3ccf62",
+  "md_bytes": 16565,
+  "links_found": 34,
+  "files_found": 0
+}

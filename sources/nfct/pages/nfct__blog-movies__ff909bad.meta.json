@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרחים-לחג/",
+  "stable_id": "nfct__blog-movies__ff909bad",
+  "fetched_at": "2026-05-09T21:59:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:59:51Z",
+  "duration_ms": 34178,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f474c5f51ef0ab401e77d7157c8c3f545747770ece9fa340ed5ca07d288ffc8e",
+  "md_bytes": 19302,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/?p=26085&post_type=movies&preview=true",
+  "stable_id": "nfct__root_p-26085-post_type-movies-preview-true__fc16620f",
+  "fetched_at": "2026-05-15T15:07:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:07:50Z",
+  "duration_ms": 9688,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed54ce44026e008d91df8b6db444687e0119693dae7b692000434a115c507202",
+  "md_bytes": 14862,
+  "links_found": 28,
+  "files_found": 0
+}

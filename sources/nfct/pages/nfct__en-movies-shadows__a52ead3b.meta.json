@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shadows/",
+  "stable_id": "nfct__en-movies-shadows__a52ead3b",
+  "fetched_at": "2026-05-15T09:41:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:41:42Z",
+  "duration_ms": 13922,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:61bc355117c322b36b2bf86cf9e75f56a9c90a1b71de9f216ce69a44c52c9f4f",
+  "md_bytes": 12134,
+  "links_found": 28,
+  "files_found": 0
+}

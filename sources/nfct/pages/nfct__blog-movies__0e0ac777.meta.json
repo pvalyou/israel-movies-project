@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ענבל-פרלמוטר-אם-זה-נגמר/",
+  "stable_id": "nfct__blog-movies__0e0ac777",
+  "fetched_at": "2026-05-09T19:58:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:58:36Z",
+  "duration_ms": 12799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2abbd7f5d6028a786b56e2db40f34c5443d175f34bbb18e020bf1ebb1e38fb31",
+  "md_bytes": 17535,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-south-alice-never-lived-here/",
+  "stable_id": "nfct__en-movies-the-south-alice-never-lived-here__e5c22d2b",
+  "fetched_at": "2026-05-11T11:03:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:03:45Z",
+  "duration_ms": 17590,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:37308046bc3468bc4115157aaae1785c2ae70a7e3906cf30156ec81603842f07",
+  "md_bytes": 13280,
+  "links_found": 29,
+  "files_found": 0
+}

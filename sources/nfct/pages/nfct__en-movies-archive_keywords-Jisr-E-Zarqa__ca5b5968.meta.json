@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jisr+E-Zarqa",
+  "stable_id": "nfct__en-movies-archive_keywords-Jisr-E-Zarqa__ca5b5968",
+  "fetched_at": "2026-05-16T05:36:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:36:25Z",
+  "duration_ms": 7499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54e340cb10092fc61571a93b754f793cb5de5807105ceaff4dd24a29444837eb",
+  "md_bytes": 9971,
+  "links_found": 68,
+  "files_found": 0
+}

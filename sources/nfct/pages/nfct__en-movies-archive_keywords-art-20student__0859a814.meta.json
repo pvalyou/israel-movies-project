@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=art%20student",
+  "stable_id": "nfct__en-movies-archive_keywords-art-20student__0859a814",
+  "fetched_at": "2026-05-16T17:13:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:13:22Z",
+  "duration_ms": 7304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:197bb052020f0955d0f0c8a762d14d53d63657f5ca19ccaf06f448bbc3c1faf2",
+  "md_bytes": 16548,
+  "links_found": 82,
+  "files_found": 0
+}

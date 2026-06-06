@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Aliyah",
+  "stable_id": "nfct__en-movies-archive_keywords-Aliyah__dfb3818e",
+  "fetched_at": "2026-05-16T06:48:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:48:03Z",
+  "duration_ms": 10639,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e2983ba5a1f5fdc4d2a641e4c6a5a37b9b0c15ffd1cf5edb00dfff4aaebfef8",
+  "md_bytes": 10473,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=prayer",
+  "stable_id": "nfct__en-movies-archive_keywords-prayer__f274a901",
+  "fetched_at": "2026-05-16T11:01:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:01:22Z",
+  "duration_ms": 8192,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b5fc19b547b2f0b79c94419dc77b2c8ff9a547349ddff660d862dc43a21d063",
+  "md_bytes": 11484,
+  "links_found": 71,
+  "files_found": 0
+}

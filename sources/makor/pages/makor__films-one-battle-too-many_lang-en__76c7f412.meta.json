@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/one-battle-too-many/?lang=en",
+  "stable_id": "makor__films-one-battle-too-many_lang-en__76c7f412",
+  "fetched_at": "2026-05-09T13:08:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:31Z",
+  "duration_ms": 13883,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bdd39e4d7dc79b4df96de1626df9e2f92ec8e3e0e59bdca13db542ab4dd11f68",
+  "md_bytes": 2240,
+  "links_found": 4,
+  "files_found": 0
+}

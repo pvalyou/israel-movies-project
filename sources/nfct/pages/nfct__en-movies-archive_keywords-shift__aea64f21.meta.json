@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=shift",
+  "stable_id": "nfct__en-movies-archive_keywords-shift__aea64f21",
+  "fetched_at": "2026-05-16T15:23:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:23:45Z",
+  "duration_ms": 8157,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ea9cb131325e9021f7eea934c7f82c549926bb376aa66da1eb72b02777e3d4dc",
+  "md_bytes": 16657,
+  "links_found": 82,
+  "files_found": 0
+}

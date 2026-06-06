@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/מסלול-לפיתוח-והפקת-סרטים-של-יוצרים-ויו/",
+  "stable_id": "nfct__blog-specials__a2d3ab08",
+  "fetched_at": "2026-05-09T17:59:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:59:09Z",
+  "duration_ms": 8334,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0fc554b1d43ab4b759a4fa9a979169aecd12024037a6dad89a07c6811e654cb3",
+  "md_bytes": 11354,
+  "links_found": 20,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/made-in-israel-תעשיית-האנרגיה/",
+  "stable_id": "nfct__blog-movies-made-in-israel__27655822",
+  "fetched_at": "2026-05-09T17:19:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:19:06Z",
+  "duration_ms": 14041,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:71992154d94581b5704f5e4fcd99c9bfafd2538e2e0a5ff0207b18af15b14759",
+  "md_bytes": 19586,
+  "links_found": 40,
+  "files_found": 0
+}

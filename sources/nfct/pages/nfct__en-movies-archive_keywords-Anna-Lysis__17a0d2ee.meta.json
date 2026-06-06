@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Anna+Lysis",
+  "stable_id": "nfct__en-movies-archive_keywords-Anna-Lysis__17a0d2ee",
+  "fetched_at": "2026-05-16T15:15:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:15:25Z",
+  "duration_ms": 6847,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e34f448a707e4b87f2229be70f8564912cae5bdf822368bc62ad6a359bdd06e9",
+  "md_bytes": 10415,
+  "links_found": 68,
+  "files_found": 0
+}

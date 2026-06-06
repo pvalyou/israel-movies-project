@@ -1,0 +1,38 @@
+Seed person IDs from edb_films.json: 1719
+Checkpoint: 0 already scraped
+Seed to scrape: 1719
+  checkpoint: 100 persons | 100/1719 (119/min)
+  checkpoint: 200 persons | 200/1719 (117/min)
+  checkpoint: 300 persons | 300/1719 (115/min)
+  checkpoint: 400 persons | 400/1719 (116/min)
+  checkpoint: 500 persons | 500/1719 (116/min)
+  checkpoint: 600 persons | 600/1719 (113/min)
+  checkpoint: 700 persons | 700/1719 (114/min)
+  checkpoint: 800 persons | 800/1719 (114/min)
+  checkpoint: 900 persons | 900/1719 (114/min)
+  checkpoint: 1000 persons | 1000/1719 (115/min)
+  checkpoint: 1100 persons | 1100/1719 (115/min)
+  checkpoint: 1200 persons | 1200/1719 (115/min)
+  checkpoint: 1300 persons | 1300/1719 (115/min)
+  checkpoint: 1400 persons | 1400/1719 (115/min)
+  checkpoint: 1500 persons | 1500/1719 (115/min)
+  checkpoint: 1600 persons | 1600/1719 (115/min)
+  checkpoint: 1700 persons | 1700/1719 (115/min)
+
+Seed complete: 1719 persons in 15.0 min
+
+Collaborators to expand: 872
+  expand checkpoint: 1819 persons | 100/872 (119/min)
+    ERROR n0001961: HTTPSConnectionPool(host='www.edb.co.il', port=443): Read timed out. (read timeout=15)
+  expand checkpoint: 1918 persons | 200/872 (103/min)
+  expand checkpoint: 2018 persons | 300/872 (108/min)
+  expand checkpoint: 2118 persons | 400/872 (109/min)
+  expand checkpoint: 2218 persons | 500/872 (110/min)
+  expand checkpoint: 2318 persons | 600/872 (110/min)
+  expand checkpoint: 2418 persons | 700/872 (111/min)
+  expand checkpoint: 2518 persons | 800/872 (112/min)
+
+Expansion complete: 2590 persons in 7.8 min
+Seed: 1719, Expanded: 871, Total: 2590
+Total film credits: 33055
+Total collaborator links: 9791

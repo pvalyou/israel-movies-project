@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Iranian%20Revolution",
+  "stable_id": "nfct__en-movies-archive_keywords-Iranian-20Revolution__6b4edc71",
+  "fetched_at": "2026-05-16T16:33:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:33:33Z",
+  "duration_ms": 7869,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6033af66c37d4ae673f0595c45588b17c8b2c0dc4e95b8c208b4448b08a582ed",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/back-and-forth/",
+  "stable_id": "nfct__en-movies-back-and-forth__bd557a16",
+  "fetched_at": "2026-05-11T01:03:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:03:22Z",
+  "duration_ms": 21810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7cecf4bd90667b004cb8e8c768056c49decc98694aa196a6b788903d019207e6",
+  "md_bytes": 16138,
+  "links_found": 40,
+  "files_found": 0
+}

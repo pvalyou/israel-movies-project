@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-valderama-sisters/",
+  "stable_id": "nfct__en-movies-the-valderama-sisters__b76c9444",
+  "fetched_at": "2026-05-11T02:34:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:34:52Z",
+  "duration_ms": 25433,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60f6cb456ddac46ffb55c2d8677675b5db3ddd33915f006619183db404ff44e1",
+  "md_bytes": 14673,
+  "links_found": 39,
+  "files_found": 0
+}

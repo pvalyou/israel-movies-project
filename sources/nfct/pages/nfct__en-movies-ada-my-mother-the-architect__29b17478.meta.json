@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ada-my-mother-the-architect/",
+  "stable_id": "nfct__en-movies-ada-my-mother-the-architect__29b17478",
+  "fetched_at": "2026-05-11T12:59:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:59:22Z",
+  "duration_ms": 16451,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b71ea3f3d5fa40a9bfc288954bce92152c51e2a2479945dc81d4c6cbf29ae9ec",
+  "md_bytes": 14190,
+  "links_found": 35,
+  "files_found": 0
+}

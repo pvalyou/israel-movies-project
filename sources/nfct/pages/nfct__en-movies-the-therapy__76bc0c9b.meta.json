@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-therapy/",
+  "stable_id": "nfct__en-movies-the-therapy__76bc0c9b",
+  "fetched_at": "2026-05-11T19:50:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:50:30Z",
+  "duration_ms": 18484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b0dd211f5f431d2d8751cd0e7e58a2a28c441c444219d781e8b71c5c0fbeef84",
+  "md_bytes": 13040,
+  "links_found": 35,
+  "files_found": 0
+}

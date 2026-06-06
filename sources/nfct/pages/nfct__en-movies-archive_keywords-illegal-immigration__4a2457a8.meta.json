@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=illegal+immigration",
+  "stable_id": "nfct__en-movies-archive_keywords-illegal-immigration__4a2457a8",
+  "fetched_at": "2026-05-16T17:01:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:01:32Z",
+  "duration_ms": 6342,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99bb2e57ef0e5c03abd1619d5a2fde02bbe0e138fc604711eac5f19c01827498",
+  "md_bytes": 9972,
+  "links_found": 68,
+  "files_found": 0
+}

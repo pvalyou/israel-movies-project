@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/כך-ראינו/",
+  "stable_id": "nfct__movies__1ba1ba83",
+  "fetched_at": "2026-05-16T12:11:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:11:13Z",
+  "duration_ms": 10013,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f742acaa5496ead3f0221b6f8b1a6763706b585bd357459548104f7ea7a2ca45",
+  "md_bytes": 8609,
+  "links_found": 21,
+  "files_found": 0
+}

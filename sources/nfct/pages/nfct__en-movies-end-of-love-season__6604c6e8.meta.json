@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/end-of-love-season/",
+  "stable_id": "nfct__en-movies-end-of-love-season__6604c6e8",
+  "fetched_at": "2026-05-11T15:25:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:25:19Z",
+  "duration_ms": 16573,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c9fea821bed973b9befee0aea34c1108e01d6d7750d3026815e4fcf01ced3032",
+  "md_bytes": 12194,
+  "links_found": 29,
+  "files_found": 0
+}

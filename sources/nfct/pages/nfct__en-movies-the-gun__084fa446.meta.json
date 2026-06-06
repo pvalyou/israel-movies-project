@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-gun/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-gun__084fa446",
+  "fetched_at": "2026-05-16T13:59:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:59:13Z",
+  "duration_ms": 6739,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2d14806f17c36fb86abbc6f506cbd8c736618d2b60df103fa6e9d56530bf6622",
+  "md_bytes": 13329,
+  "links_found": 42,
+  "files_found": 0
+}

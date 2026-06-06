@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בן-דוד/",
+  "stable_id": "nfct__blog-movies__0cbc42da",
+  "fetched_at": "2026-05-09T21:21:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:21:37Z",
+  "duration_ms": 17835,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:efde9523be1755a626888752a6b8307c90521fe4beaa0b655436210d5a08da72",
+  "md_bytes": 26142,
+  "links_found": 65,
+  "files_found": 0
+}

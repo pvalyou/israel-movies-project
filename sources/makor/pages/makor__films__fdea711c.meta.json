@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חדר-ריק-מדינת-ישראל-נגד-אירית-ואשר/",
+  "stable_id": "makor__films__fdea711c",
+  "fetched_at": "2026-05-09T13:08:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:56Z",
+  "duration_ms": 13373,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69c4a6a11f3ca015741cea3e7eafc5594b96cb48dde10d245cdbfe410ad1a7f3",
+  "md_bytes": 3728,
+  "links_found": 4,
+  "files_found": 0
+}

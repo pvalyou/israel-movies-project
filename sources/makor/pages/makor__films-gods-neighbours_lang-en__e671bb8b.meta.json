@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/gods-neighbours/?lang=en",
+  "stable_id": "makor__films-gods-neighbours_lang-en__e671bb8b",
+  "fetched_at": "2026-05-09T12:54:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:54:20Z",
+  "duration_ms": 8109,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67608bef17306480cf546b2301c37773b438bb1dc3611e530de116c51aa06ec9",
+  "md_bytes": 2336,
+  "links_found": 4,
+  "files_found": 0
+}

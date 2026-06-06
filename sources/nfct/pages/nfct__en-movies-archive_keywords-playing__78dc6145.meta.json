@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=playing",
+  "stable_id": "nfct__en-movies-archive_keywords-playing__78dc6145",
+  "fetched_at": "2026-05-16T07:15:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:15:20Z",
+  "duration_ms": 7178,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e9e1481bf4ab0b61a6cc7dceef080f98dde39d6ce6630350fc9c137065f51a4",
+  "md_bytes": 14878,
+  "links_found": 79,
+  "files_found": 0
+}

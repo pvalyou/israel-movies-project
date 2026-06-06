@@ -1,0 +1,3336 @@
+{
+  "generated_at": "2026-06-06T13:02:45.778185",
+  "critic_committee": [
+    {
+      "person": "דן שדור",
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": true,
+      "also_producer": true
+    },
+    {
+      "person": "יעל שוב",
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "שמוליק דובדבני",
+      "funds": [
+        "festival_data",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "also_faculty": true,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "אלברט גבאי",
+      "funds": [
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "דבורית שרגל",
+      "funds": [
+        "fdoc",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": true,
+      "also_producer": true
+    },
+    {
+      "person": "רון פוגל",
+      "funds": [
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "ארז דבורה",
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": true,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "דורון פישלר",
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "יאיר הוכנר",
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "יאיר רוה",
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": true,
+      "also_producer": false
+    },
+    {
+      "person": "מרט פרחומובסקי",
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "מרלין וניג",
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "נסים דיין",
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "פבלו אוטין",
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    },
+    {
+      "person": "תומר קמרלינג",
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ],
+      "also_faculty": false,
+      "also_director": false,
+      "also_producer": false
+    }
+  ],
+  "family_pairs": [
+    {
+      "person_a": "מרגריטה לינטון",
+      "person_b": "יניב לינטון",
+      "shared_surname": "לינטון",
+      "shared_funds": [
+        "filmfund",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "funds_a": [
+        "filmfund",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "funds_b": [
+        "filmfund",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles_a": [
+        "lector"
+      ],
+      "fund_roles_b": [
+        "lector"
+      ],
+      "verified": true,
+      "relationship": "spousal",
+      "source_urls_a": [
+        "https://www.ynet.co.il/laisha/article/s1c1ac411o"
+      ],
+      "source_urls_b": [
+        "https://www.ynet.co.il/laisha/article/s1c1ac411o"
+      ]
+    },
+    {
+      "person_a": "אבי נשר",
+      "person_b": "תום נשר",
+      "shared_surname": "נשר",
+      "shared_funds": [
+        "rabinovich_cinema"
+      ],
+      "funds_a": [
+        "filmfund",
+        "gesher",
+        "jerusalem_film_fund",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "funds_b": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles_a": [
+        "lector"
+      ],
+      "fund_roles_b": [],
+      "verified": true,
+      "relationship": "parent_child",
+      "source_urls_a": [
+        "https://www.rabinovich.org.il/"
+      ],
+      "source_urls_b": [
+        "https://www.rabinovich.org.il/"
+      ]
+    },
+    {
+      "person_a": "אורי ברבש",
+      "person_b": "בני ברבש",
+      "shared_surname": "ברבש",
+      "shared_funds": [
+        "filmfund"
+      ],
+      "funds_a": [
+        "filmfund",
+        "jerusalem_film_fund",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "funds_b": [
+        "filmfund",
+        "gesher",
+        "jerusalem_film_fund"
+      ],
+      "fund_roles_a": [
+        "lector"
+      ],
+      "fund_roles_b": [
+        "lector"
+      ],
+      "verified": true,
+      "relationship": "siblings",
+      "source_urls_a": [
+        "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%99_%D7%91%D7%A8%D7%91%D7%A9"
+      ],
+      "source_urls_b": [
+        "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%99_%D7%91%D7%A8%D7%91%D7%A9"
+      ]
+    },
+    {
+      "person_a": "דן גבע",
+      "person_b": "נואית גבע",
+      "shared_surname": "גבע",
+      "shared_funds": [
+        "nfct"
+      ],
+      "funds_a": [
+        "nfct"
+      ],
+      "funds_b": [
+        "nfct"
+      ],
+      "fund_roles_a": [],
+      "fund_roles_b": [],
+      "verified": true,
+      "relationship": "spousal",
+      "source_urls_a": [
+        "https://www.ynet.co.il/articles/0,7340,L-3036457,00.html"
+      ],
+      "source_urls_b": [
+        "https://www.ynet.co.il/articles/0,7340,L-3036457,00.html"
+      ]
+    },
+    {
+      "person_a": "נדב לפיד",
+      "person_b": "איתמר לפיד",
+      "shared_surname": "לפיד",
+      "shared_funds": [
+        "filmfund"
+      ],
+      "funds_a": [
+        "filmfund",
+        "rabinovich_cinema"
+      ],
+      "funds_b": [
+        "filmfund"
+      ],
+      "fund_roles_a": [
+        "lector"
+      ],
+      "fund_roles_b": [],
+      "verified": true,
+      "relationship": "siblings",
+      "note": "Nadav was lector Aug 2018; filmfund invested 100K NIS in Itamar's film 2021 — gap noted",
+      "source_urls_a": [
+        "https://www.ynet.co.il/articles/0,7340,L-5277774,00.html"
+      ],
+      "source_urls_b": [
+        "https://www.filmfund.org.il/Movie?movieId=17"
+      ]
+    }
+  ],
+  "collab_committee": [],
+  "multi_fund": [
+    {
+      "person": "דורון גרסי",
+      "funds": [
+        "festival_data",
+        "makor"
+      ],
+      "fund_count": 2
+    },
+    {
+      "person": "נטעלי בראון",
+      "funds": [
+        "festival_data",
+        "gesher"
+      ],
+      "fund_count": 2
+    },
+    {
+      "person": "רוני אבולעפיה",
+      "funds": [
+        "fdoc",
+        "makor"
+      ],
+      "fund_count": 2
+    }
+  ],
+  "faculty_committee": [
+    {
+      "person": "אנה סומרשף",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "גלית כחלון",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ראובן ברודסקי",
+      "schools": [
+        "film_schools",
+        "sam_spiegel"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אפרת כורם",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ג'ולי שלז",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "רובי אלמליח",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שמוליק דובדבני",
+      "schools": [
+        "film_schools",
+        "sam_spiegel"
+      ],
+      "funds": [
+        "festival_data",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ]
+    },
+    {
+      "person": "אבנר ברנהיימר",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אורית אזולאי",
+      "schools": [
+        "film_schools",
+        "sam_spiegel"
+      ],
+      "funds": [
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "דורון צברי",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "festival_data",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "מיטל אבוקסיס",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "עידית אברהמי",
+      "schools": [
+        "film_schools",
+        "sam_spiegel"
+      ],
+      "funds": [
+        "fdoc",
+        "makor"
+      ],
+      "fund_roles": [
+        "board_member"
+      ]
+    },
+    {
+      "person": "רונן מכליס בלזם",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "רנא אבו פריחה",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שי-לי עטרי",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor",
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שלומי אלקבץ",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אבישי דויד כהנא",
+      "schools": [
+        "film_schools",
+        "sam_spiegel"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "איריס זכי",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "fdoc",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ארז דבורה",
+      "schools": [
+        "film_schools",
+        "sam_spiegel"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "יסמין ששון",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "יערה עוזרי",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "festival_data",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "מיקי פולונסקי",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ניר ברגר",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "jerusalem_film_fund",
+        "makor"
+      ],
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ]
+    },
+    {
+      "person": "ענבל פטל",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "תמי ברנשטיין",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אורן גרנר",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אלינור נחמיה",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אסף סבן",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ברכה זיסמן",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "מור ישראלי",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ערן שפירא",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "פרופ' אורי סיון",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "jerusalem_film_fund"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שוקי בן נעים",
+      "schools": [
+        "sam_spiegel"
+      ],
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שרון גזית",
+      "schools": [
+        "film_schools"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    }
+  ],
+  "festival_committee": [
+    {
+      "person": "רחל אליצור",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שקד גורן",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אדם ויינגרוד",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אסף לפיד",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ]
+    },
+    {
+      "person": "ג'ולי שלז",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "דינה צבי-ריקליס",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "rabinovich_cinema",
+        "fdoc",
+        "jerusalem_film_fund",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "כליל כובש",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "סוהא עראף",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "קובי פרג'",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "רובי אלמליח",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "רון גולדמן",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אלעד קידן",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אתי ציקו",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "גליה בדור",
+      "festival_roles": [
+        "festival_director"
+      ],
+      "funds": [
+        "festival_data",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "ceo"
+      ]
+    },
+    {
+      "person": "עמית גורן",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "ceo",
+        "lector"
+      ]
+    },
+    {
+      "person": "רנא אבו פריחה",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "שרית חיימיאן",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אור סיגולי",
+      "festival_roles": [
+        "artistic_director",
+        "festival_director",
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "איריס זכי",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "fdoc",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "אלעד סמורזיק",
+      "festival_roles": [
+        "artistic_director",
+        "festival_director",
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "זיו נווה",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "ceo"
+      ]
+    },
+    {
+      "person": "טובה אשר",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "jerusalem_film_fund",
+        "nfct"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "יערה עוזרי",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "festival_data",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "מיכל חג'ג'",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "ניר סער",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "gesher",
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "עידן הובל",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher",
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "רות דיסקין",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "gesher",
+        "nfct"
+      ],
+      "fund_roles": [
+        "board_member",
+        "ceo",
+        "executive_director"
+      ]
+    },
+    {
+      "person": "שירי בר און",
+      "festival_roles": [
+        "artistic_director"
+      ],
+      "funds": [
+        "makor",
+        "nfct"
+      ],
+      "fund_roles": [
+        "ceo"
+      ]
+    },
+    {
+      "person": "שרון שמיר",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "דנה מורג",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "יאיר הוכנר",
+      "festival_roles": [
+        "festival_director"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "נועה רגב",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "ceo"
+      ]
+    },
+    {
+      "person": "ניר נאמן",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "rabinovich_cinema"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "סמירה סרייה",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    },
+    {
+      "person": "רוני מהדב-לוין",
+      "festival_roles": [
+        "festival_director",
+        "festival_programmer"
+      ],
+      "funds": [
+        "gesher"
+      ],
+      "fund_roles": [
+        "ceo",
+        "lector"
+      ]
+    },
+    {
+      "person": "שירה הוכמן",
+      "festival_roles": [
+        "festival_programmer"
+      ],
+      "funds": [
+        "makor"
+      ],
+      "fund_roles": [
+        "lector"
+      ]
+    }
+  ],
+  "exec_filmmaker": [
+    {
+      "person": "מוריה שלומות",
+      "exec_roles": [
+        "ceo"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "makor"
+      ]
+    },
+    {
+      "person": "עמית גורן",
+      "exec_roles": [
+        "ceo"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "makor"
+      ]
+    }
+  ],
+  "lector_filmmaker": [
+    {
+      "person": "חגי ארד",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "jerusalem_film_fund",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "דוד אופק",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "jerusalem_film_fund",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "לב אורלוב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "קובי מזרחי",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "רונן זרצקי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אביגיל שפרבר",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "אוהד מילשטיין",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אוריה הרץ",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "בר כהן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "דנאל אל-פלג",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "יוני כהן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "jerusalem_film_fund",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "יעל פרלוב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "יעל קיפר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "יריב מוזר",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "לירן עצמור",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "jerusalem_film_fund",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "נטעלי בראון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "רפאל בלולו",
+      "fund_roles": [
+        "committee_chair",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אלון לוי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "אסף אמיר",
+      "fund_roles": [
+        "chairperson",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "אסתי יעקב מקלברג",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "rabinovich_cinema",
+        "fdoc",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "ארז לאופר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "ברכה זיסמן כהן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "ברק הימן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "דוד טאובר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "דוקי דרור",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "דליה מבורך",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "הדס נוימן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "הניה ברודבקר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "טלי הלטר-שנקר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "screenwriter"
+      ],
+      "funds": [
+        "makor",
+        "fdoc",
+        "gesher",
+        "nfct"
+      ]
+    },
+    {
+      "person": "יאיר לב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "לי גילת",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "לימור פנחסוב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "מאיה פישר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "מולי לנדסמן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "מרגריטה לינטון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "נועה אהרוני",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "נורית יעקבס-ינון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "nfct",
+        "gesher",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "נורית קידר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "ניר דבורצ'ין",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "סיגלית ליפשיץ",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "סתיו מרון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "עדי ארבל",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "עידו מוכריק",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "ציפי ביידר",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "רומן שומונוב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "רוני מנור",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "ריטה בורודיאנסקי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "רם לוי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "שולה שפיגל",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "שחר בן-חור",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct",
+        "gesher"
+      ]
+    },
+    {
+      "person": "תמיר הוד",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אדר שפרן",
+      "fund_roles": [
+        "chairperson"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "jerusalem_film_fund",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "אורי אהרון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אורי ברבש",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "jerusalem_film_fund",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "אורי רוזנווקס",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "nfct"
+      ]
+    },
+    {
+      "person": "אוריאל סיני",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "אורלי מלסה",
+      "fund_roles": [
+        "committee_chair",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אייל חלפון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "jerusalem_film_fund"
+      ]
+    },
+    {
+      "person": "אייל צרפתי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "screenwriter"
+      ],
+      "funds": [
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "איילת הלר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "איילת מנחמי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "איילת עופרים",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "אלה בן יעקב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אלמה בן זאב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "festival_data",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אסף סודרי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "ארי דוידוביץ'",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "makor",
+        "gesher",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "אריק ברנשטיין",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "ארתור אברמוב",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "בן מולינה",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "בני פרדמן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "nfct"
+      ]
+    },
+    {
+      "person": "ברק היימן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "גולן רייז",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "גיל סימה",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "דוד דרעי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "דור לוי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "דורון ג'רסי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor"
+      ]
+    },
+    {
+      "person": "דן גבע",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "makor",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "דני רוזנברג",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "nfct"
+      ]
+    },
+    {
+      "person": "הדר מורג",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "הילה שטרית",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "הלל רוזמן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "חגית בן יעקב",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "חוה דיבון",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "nfct"
+      ]
+    },
+    {
+      "person": "חן שלח",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "חנה אזולאי-הספרי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "טל ברדה",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "טל קנטור",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "טל שפי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "טלי שלום עזר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "טלי שמש",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "יבגני רומן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "יהודית מנסן רמון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "יהונתן סגל",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "יוחאי רוזנברג",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "יסמין קיני",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor"
+      ]
+    },
+    {
+      "person": "יעל קיפר זרצקי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "יעל רייספלד",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "ישראלה שאער-מעודד",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "rabinovich_cinema",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "לב ברודינסקי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "מורן איפרגן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "מורן נקר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "מרק רוזנבאום",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "festival_data",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "נדב הראל",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "ניצן גלעדי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "עדי נבון",
+      "fund_roles": [
+        "board_member"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "festival_data",
+        "makor"
+      ]
+    },
+    {
+      "person": "עדן גוריון",
+      "fund_roles": [
+        "board_member",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "screenwriter"
+      ],
+      "funds": [
+        "festival_data",
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "עידו הר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "עמי דרוזד",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "nfct"
+      ]
+    },
+    {
+      "person": "עמי לבנה",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "עמיר מנור",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "ערן קולירין",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "jerusalem_film_fund",
+        "makor"
+      ]
+    },
+    {
+      "person": "ערן ריקליס",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "jerusalem_film_fund",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "פיני טבגר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "קרן אלכסנדר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "קרן שעיו",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "ראידה אדון",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "nfct",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "רון עופר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "producer"
+      ],
+      "funds": [
+        "fdoc",
+        "gesher",
+        "makor"
+      ]
+    },
+    {
+      "person": "רונה סגל",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "רוני אבולעפיה",
+      "fund_roles": [
+        "chairperson",
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "fdoc",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "רוני קידר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "רותי פרי-בר",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer",
+        "screenwriter"
+      ],
+      "funds": [
+        "jerusalem_film_fund",
+        "makor",
+        "nfct"
+      ]
+    },
+    {
+      "person": "רותם קפלינסקי",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "שרי תורג'מן",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "screenwriter"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    },
+    {
+      "person": "תמר ירום",
+      "fund_roles": [
+        "lector"
+      ],
+      "filmmaker_roles": [
+        "director",
+        "producer"
+      ],
+      "funds": [
+        "gesher",
+        "makor",
+        "rabinovich_cinema"
+      ]
+    }
+  ]
+}

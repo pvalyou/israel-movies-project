@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-שמעי-קלמי-זוהר-אוריין-כהן-פסטיב/",
+  "stable_id": "nfct__events-event__c95fd03c",
+  "fetched_at": "2026-05-09T22:15:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:15:58Z",
+  "duration_ms": 27348,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c678712d5e252341f64d4a03166c9e82cdc14f4e0b3b1d08939146901efacd2",
+  "md_bytes": 10752,
+  "links_found": 21,
+  "files_found": 0
+}

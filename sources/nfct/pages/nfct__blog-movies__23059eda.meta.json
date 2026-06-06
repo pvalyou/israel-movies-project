@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הקהילה/",
+  "stable_id": "nfct__blog-movies__23059eda",
+  "fetched_at": "2026-05-09T19:24:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:24:15Z",
+  "duration_ms": 21447,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f453adef06d96294145097284a46379fc7e0d1b1415ccdd3037067e7062253e5",
+  "md_bytes": 17586,
+  "links_found": 40,
+  "files_found": 0
+}

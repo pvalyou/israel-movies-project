@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Academia",
+  "stable_id": "nfct__en-movies-archive_keywords-Academia__fe04338f",
+  "fetched_at": "2026-05-16T14:34:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:34:31Z",
+  "duration_ms": 8507,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5fcc533c2b06c8f5b11e9a6b8d1f17fe453015f2a3322060ebc3da873d81e71",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

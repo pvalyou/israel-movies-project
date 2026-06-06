@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=purple",
+  "stable_id": "nfct__en-movies-archive_keywords-purple__7b10b624",
+  "fetched_at": "2026-05-16T15:50:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:50:07Z",
+  "duration_ms": 11493,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ebcee532a3d13ac74446e9c1b3816cc1a273317380e89adb7e2d24939e26249f",
+  "md_bytes": 10488,
+  "links_found": 69,
+  "files_found": 0
+}

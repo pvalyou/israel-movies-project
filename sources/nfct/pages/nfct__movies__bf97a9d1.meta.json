@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מילים-בסרט-יענקלה-רוטבליט/",
+  "stable_id": "nfct__movies__bf97a9d1",
+  "fetched_at": "2026-05-16T11:17:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:17:14Z",
+  "duration_ms": 6750,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af9a3fb46610ffad1f195ac843fd1f40929510affbd6103ee844de8f3df26d24",
+  "md_bytes": 8294,
+  "links_found": 21,
+  "files_found": 0
+}

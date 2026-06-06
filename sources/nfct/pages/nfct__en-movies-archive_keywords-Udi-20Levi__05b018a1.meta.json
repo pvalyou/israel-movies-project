@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Udi%20Levi",
+  "stable_id": "nfct__en-movies-archive_keywords-Udi-20Levi__05b018a1",
+  "fetched_at": "2026-05-16T14:14:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:59Z",
+  "duration_ms": 6874,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65ee34f81853a7b76b76b46acf1c503a644cfa78662e45897b93e40d5aa1f420",
+  "md_bytes": 11095,
+  "links_found": 70,
+  "files_found": 0
+}

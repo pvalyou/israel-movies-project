@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Production%20line",
+  "stable_id": "nfct__en-movies-archive_keywords-Production-20line__efeaf503",
+  "fetched_at": "2026-05-16T12:37:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:37:05Z",
+  "duration_ms": 9245,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:43c8f04e4e2e26d1985d874e520c086eddb3f2f85ba13ac91ce1db8f34800a6c",
+  "md_bytes": 11081,
+  "links_found": 70,
+  "files_found": 0
+}

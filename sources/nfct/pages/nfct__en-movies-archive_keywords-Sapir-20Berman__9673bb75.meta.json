@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sapir%20Berman",
+  "stable_id": "nfct__en-movies-archive_keywords-Sapir-20Berman__9673bb75",
+  "fetched_at": "2026-05-16T12:35:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:35:56Z",
+  "duration_ms": 12687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4949d90449a5d9c6fe7d4f1101c1a9e9ad7a25aff1f5a4c031ba9ab4d0e32ae8",
+  "md_bytes": 9960,
+  "links_found": 68,
+  "files_found": 0
+}

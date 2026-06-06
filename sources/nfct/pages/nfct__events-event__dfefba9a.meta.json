@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הסרט-אני-לא-תומר-הימן-מוזיאון-טי/",
+  "stable_id": "nfct__events-event__dfefba9a",
+  "fetched_at": "2026-05-09T22:39:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:39:10Z",
+  "duration_ms": 36756,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cba12391b4369bd18b387f69c65b6867d0c1b7915e68c9ce4f907209a4110231",
+  "md_bytes": 13804,
+  "links_found": 27,
+  "files_found": 0
+}

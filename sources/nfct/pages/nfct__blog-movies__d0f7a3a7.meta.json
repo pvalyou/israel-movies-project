@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הטרילוגיה-האוזבקית/",
+  "stable_id": "nfct__blog-movies__d0f7a3a7",
+  "fetched_at": "2026-05-09T17:22:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:22:42Z",
+  "duration_ms": 23250,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8636007bfde9e0f8ef0dd25fe15afc96573dd5c95197c58d9b260c5218a6c312",
+  "md_bytes": 17778,
+  "links_found": 38,
+  "files_found": 0
+}

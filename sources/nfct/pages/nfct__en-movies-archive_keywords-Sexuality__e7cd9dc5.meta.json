@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sexuality",
+  "stable_id": "nfct__en-movies-archive_keywords-Sexuality__e7cd9dc5",
+  "fetched_at": "2026-05-16T10:18:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:18:40Z",
+  "duration_ms": 8720,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8375db28c53e1ee9410e311ecf6c158c95aaca4065385a120fbcd0a041790057",
+  "md_bytes": 12620,
+  "links_found": 76,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/jonah-the-wet-nurse/?lang=en",
+  "stable_id": "makor__films-jonah-the-wet-nurse_lang-en__cd203093",
+  "fetched_at": "2026-05-09T12:54:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:54:32Z",
+  "duration_ms": 12172,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:72c17919984eb540fb31337a24170bf1f1e81b9f0c6e885ad50add8eb2d39cf1",
+  "md_bytes": 2087,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ליגה-ג/",
+  "stable_id": "nfct__blog-movies__7ea0afcd",
+  "fetched_at": "2026-05-09T20:17:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:17:20Z",
+  "duration_ms": 37942,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ad194a17d446623b3a95a1fb38870e4cb273aec588bb7bb92b5311476bd7d5e",
+  "md_bytes": 24872,
+  "links_found": 47,
+  "files_found": 0
+}

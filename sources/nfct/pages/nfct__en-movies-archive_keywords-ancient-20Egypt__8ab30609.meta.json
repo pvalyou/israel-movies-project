@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=ancient%20Egypt",
+  "stable_id": "nfct__en-movies-archive_keywords-ancient-20Egypt__8ab30609",
+  "fetched_at": "2026-05-16T08:44:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:44:39Z",
+  "duration_ms": 6697,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:070062c7a064b7a67a1463926ab61f1f2fe19344912e42b59cdfc04f44e56cd5",
+  "md_bytes": 9983,
+  "links_found": 68,
+  "files_found": 0
+}

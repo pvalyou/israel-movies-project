@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=philanthropy",
+  "stable_id": "nfct__en-movies-archive_keywords-philanthropy__4ee2cbe6",
+  "fetched_at": "2026-05-16T15:19:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:20Z",
+  "duration_ms": 7463,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13d33b63ba753001148620344f68765a251eedc936170b00867a470c75005577",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-תקופת-מבחן-חלק-גאביגיל-שפרבר-ye-4/",
+  "stable_id": "nfct__events-event------------ye-4__bf7a1580",
+  "fetched_at": "2026-05-10T13:33:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:33:59Z",
+  "duration_ms": 23937,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3547164d1c35ef781a4278fdf876909ebf7cad49e4cac2aa9fb6d443458fc358",
+  "md_bytes": 12504,
+  "links_found": 27,
+  "files_found": 0
+}

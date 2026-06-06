@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=clandestine",
+  "stable_id": "nfct__en-movies-archive_keywords-clandestine__839b33ab",
+  "fetched_at": "2026-05-16T20:36:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:36:39Z",
+  "duration_ms": 9803,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17a125d32b859a038a760dfe63f4f6fa739836cee2c8ad70b7f3b31d39b1d31f",
+  "md_bytes": 11239,
+  "links_found": 70,
+  "files_found": 0
+}

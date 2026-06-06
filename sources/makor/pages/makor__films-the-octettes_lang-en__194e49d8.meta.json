@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-octettes/?lang=en",
+  "stable_id": "makor__films-the-octettes_lang-en__194e49d8",
+  "fetched_at": "2026-05-09T13:00:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:00:19Z",
+  "duration_ms": 8810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4bb7f3460bad6fa3dd48debcb332d3acac56b4c9b938581ac5da358756979d5b",
+  "md_bytes": 2268,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/jennys-wars/?lang=en",
+  "stable_id": "makor__films-jennys-wars_lang-en__62fee00a",
+  "fetched_at": "2026-05-09T13:01:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:01:42Z",
+  "duration_ms": 22125,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c7a2585f2b392478a44abcd2d883e533654255b608d3c3a53ac4a9b689da07a",
+  "md_bytes": 2167,
+  "links_found": 4,
+  "files_found": 0
+}

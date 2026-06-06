@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/stains/",
+  "stable_id": "nfct__en-movies-stains__85fd8256",
+  "fetched_at": "2026-05-11T22:48:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:48:03Z",
+  "duration_ms": 48218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f945709ded2eeec89f33e711a9f44ae0e253a78b7ace2a3f81e017154144a8a7",
+  "md_bytes": 12684,
+  "links_found": 32,
+  "files_found": 0
+}

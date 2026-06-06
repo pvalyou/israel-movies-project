@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-העיר-האחרת-ליבי-קסל-סינמטק-תל-אב-4/",
+  "stable_id": "nfct__events-event----------------4__a1090b84",
+  "fetched_at": "2026-05-09T22:56:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:56:21Z",
+  "duration_ms": 28048,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f21182509c2a20783f08ccfc890118d52b2f30fba11e88077656953d22d99bf",
+  "md_bytes": 13185,
+  "links_found": 28,
+  "files_found": 0
+}

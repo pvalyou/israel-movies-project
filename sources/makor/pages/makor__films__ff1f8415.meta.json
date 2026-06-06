@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/היה-היה-ילד/",
+  "stable_id": "makor__films__ff1f8415",
+  "fetched_at": "2026-05-09T13:14:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:14:09Z",
+  "duration_ms": 9910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1686eea5902fbbae596e2a8c574d03c4f51a05b9214aa0ec0a2a9984aff2ed90",
+  "md_bytes": 3438,
+  "links_found": 4,
+  "files_found": 0
+}

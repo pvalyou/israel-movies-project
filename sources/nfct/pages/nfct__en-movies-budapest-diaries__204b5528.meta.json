@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/budapest-diaries/#UArexazDFN",
+  "stable_id": "nfct__en-movies-budapest-diaries__204b5528",
+  "fetched_at": "2026-05-16T14:01:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:01:28Z",
+  "duration_ms": 5912,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2844f7c6bc29b0ea9d577b0f097f168633ca04d8c9ec0fc5bb522fe6cda574aa",
+  "md_bytes": 13177,
+  "links_found": 33,
+  "files_found": 0
+}

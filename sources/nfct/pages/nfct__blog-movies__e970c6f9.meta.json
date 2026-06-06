@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הטיול-הפנימי/",
+  "stable_id": "nfct__blog-movies__e970c6f9",
+  "fetched_at": "2026-05-09T20:05:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:05:14Z",
+  "duration_ms": 21406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a64ae04b5857a033e6b0342c047630eb363a01a73e1a1905df04da8bdd6aefb5",
+  "md_bytes": 20784,
+  "links_found": 47,
+  "files_found": 0
+}

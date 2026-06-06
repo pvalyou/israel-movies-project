@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/caught/",
+  "stable_id": "nfct__en-movies-caught__43c4e043",
+  "fetched_at": "2026-05-11T21:52:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:52:29Z",
+  "duration_ms": 25235,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a3407d00c5e878dacbab46b0035470196728d16daea6b8d2b69f307de4bdd453",
+  "md_bytes": 10043,
+  "links_found": 27,
+  "files_found": 0
+}

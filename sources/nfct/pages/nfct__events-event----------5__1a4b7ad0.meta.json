@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-שידור-המקוללים-אפילוג-פרק-5-ערו/",
+  "stable_id": "nfct__events-event----------5__1a4b7ad0",
+  "fetched_at": "2026-05-10T13:55:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:55:15Z",
+  "duration_ms": 17450,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7fb50f3a93bcb0eb6a18043b6eb54e684be3c9cd2edfa73157489d55eea90d31",
+  "md_bytes": 10657,
+  "links_found": 21,
+  "files_found": 0
+}

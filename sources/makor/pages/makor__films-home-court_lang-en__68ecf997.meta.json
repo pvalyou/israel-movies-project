@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/home-court/?lang=en",
+  "stable_id": "makor__films-home-court_lang-en__68ecf997",
+  "fetched_at": "2026-05-09T13:00:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:00:19Z",
+  "duration_ms": 13910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6c359b53f26bbc2ff6946e62285d355e5c1b2388778edfd101d929d9f0269d91",
+  "md_bytes": 1626,
+  "links_found": 4,
+  "files_found": 0
+}

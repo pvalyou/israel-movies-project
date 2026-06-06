@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfund.org.il/Movie?movieId=486#movie_fests",
+  "stable_id": "filmfund__Movie_movieId-486__1b814bfe",
+  "fetched_at": "2026-05-09T11:00:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:00:43Z",
+  "duration_ms": 30880,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5db176a40ada8180b836c16765f5994b75137b66f6935334b568ccbae5fb13a8",
+  "md_bytes": 8467,
+  "links_found": 12,
+  "files_found": 0
+}

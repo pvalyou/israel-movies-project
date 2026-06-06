@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Avi%20Bitter",
+  "stable_id": "nfct__en-movies-archive_keywords-Avi-20Bitter__2e78c1ed",
+  "fetched_at": "2026-05-16T12:57:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:57:28Z",
+  "duration_ms": 10507,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0e947837d17bb3e4fec1bb76794fd29b15203ff886b52678805c81610af1197f",
+  "md_bytes": 12512,
+  "links_found": 73,
+  "files_found": 0
+}

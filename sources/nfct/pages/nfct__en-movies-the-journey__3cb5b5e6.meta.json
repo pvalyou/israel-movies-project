@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-journey/",
+  "stable_id": "nfct__en-movies-the-journey__3cb5b5e6",
+  "fetched_at": "2026-05-12T02:23:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:23:29Z",
+  "duration_ms": 13563,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8631baa223ca7bd98713ebc129f6f7ff77830856cdf3b17b1851f36a63c7b764",
+  "md_bytes": 11458,
+  "links_found": 25,
+  "files_found": 0
+}

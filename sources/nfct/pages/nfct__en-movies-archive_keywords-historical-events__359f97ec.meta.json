@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=historical+events",
+  "stable_id": "nfct__en-movies-archive_keywords-historical-events__359f97ec",
+  "fetched_at": "2026-05-16T17:44:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:44:19Z",
+  "duration_ms": 9832,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5f338fd3eec5ea873562053078cce5ce55ddb0c1b661879a7eb9fde970b0a27c",
+  "md_bytes": 12750,
+  "links_found": 75,
+  "files_found": 0
+}

@@ -1,0 +1,42 @@
+{
+  "run_id": "2026-05-18T04-42-02Z",
+  "source_id": "docaviv_festivals",
+  "source_name_he": "פסטיבלים",
+  "tier": "B",
+  "started_at": "2026-05-18T04:42:48.578838+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "concurrency": 5,
+  "follow_links": true,
+  "max_depth": 2,
+  "scrape_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "stats": {
+    "urls_discovered": 9,
+    "urls_attempted": 9,
+    "urls_succeeded": 7,
+    "urls_empty": 1,
+    "urls_failed": 1,
+    "cache_hits": 0,
+    "total_md_bytes": 0,
+    "files_downloaded": 7,
+    "files_failed": 1,
+    "total_file_bytes": 0,
+    "duration_seconds": 0
+  },
+  "urls": [
+    "https://www.docaviv.co.il/",
+    "https://www.docaviv.co.il/about/",
+    "https://www.docaviv.co.il/industry/",
+    "https://jff.org.il/",
+    "https://www.haifaff.co.il/",
+    "https://www.israelfilmacademy.co.il/",
+    "https://www.sapir.ac.il/cinema/csf",
+    "https://tlvfest.com/",
+    "https://www.animixfest.co.il/"
+  ]
+}

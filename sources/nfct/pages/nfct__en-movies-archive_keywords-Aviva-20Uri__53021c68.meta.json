@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Aviva%20Uri",
+  "stable_id": "nfct__en-movies-archive_keywords-Aviva-20Uri__53021c68",
+  "fetched_at": "2026-05-16T14:54:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:54:20Z",
+  "duration_ms": 8376,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65d51be7dce33e09c29c539205902cd03371d66a4e314296c216f02bbc0678b5",
+  "md_bytes": 10269,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=NA",
+  "stable_id": "nfct__en-movies-archive_keywords-NA__ac71b332",
+  "fetched_at": "2026-05-16T14:33:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:33:12Z",
+  "duration_ms": 9085,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c62495f754e4a4440fc4cd02d8e29b859fef7cdf848ef20dc2d8765771127347",
+  "md_bytes": 18102,
+  "links_found": 82,
+  "files_found": 0
+}

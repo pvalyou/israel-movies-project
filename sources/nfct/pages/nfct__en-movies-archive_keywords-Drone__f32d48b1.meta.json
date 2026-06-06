@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Drone",
+  "stable_id": "nfct__en-movies-archive_keywords-Drone__f32d48b1",
+  "fetched_at": "2026-05-16T12:27:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:27:54Z",
+  "duration_ms": 8750,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc6a8a3ace9708d0f3c5dd61c0594788541ee755ad7d322a3f1e46a74053fe98",
+  "md_bytes": 11249,
+  "links_found": 70,
+  "files_found": 0
+}

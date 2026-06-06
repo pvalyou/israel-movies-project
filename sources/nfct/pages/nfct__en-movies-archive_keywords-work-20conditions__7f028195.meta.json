@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=work%20conditions",
+  "stable_id": "nfct__en-movies-archive_keywords-work-20conditions__7f028195",
+  "fetched_at": "2026-05-16T20:13:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:13:48Z",
+  "duration_ms": 6269,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d31f1bb8ed94f87cfb4459cf8517164955501a18d84c35126cb884568f0843fa",
+  "md_bytes": 9996,
+  "links_found": 68,
+  "files_found": 0
+}

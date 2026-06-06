@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=African%20American",
+  "stable_id": "nfct__en-movies-archive_keywords-African-20American__8df973ce",
+  "fetched_at": "2026-05-16T17:03:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:03:04Z",
+  "duration_ms": 9571,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc4d8b5540a7b1af3246ae5572a24391003ea248ce89b3665ab01a23861c7e34",
+  "md_bytes": 10027,
+  "links_found": 68,
+  "files_found": 0
+}

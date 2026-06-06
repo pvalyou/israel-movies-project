@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/underdogs-a-war-story/#UAMainContent",
+  "stable_id": "nfct__en-movies-underdogs-a-war-story__1cf0acf8",
+  "fetched_at": "2026-05-16T09:52:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:52:30Z",
+  "duration_ms": 59733,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0a51bf81f93712afb796877b70df16a30db580c72e5687a6e7ea658217743d0c",
+  "md_bytes": 12650,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/1-out-of-three/",
+  "stable_id": "nfct__en-movies-1-out-of-three__05aef34c",
+  "fetched_at": "2026-05-12T02:36:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:36:48Z",
+  "duration_ms": 11968,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54e8d1a10c7fe7de10fbfcb5ed06e7f7013f2d7fd1291059df0c5a00068bc05b",
+  "md_bytes": 12656,
+  "links_found": 29,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-mysterious-gaze-of-the-flamingo/#main",
+  "stable_id": "arava_film_fund__en-movies-the-mysterious-gaze-of-the-flamingo__dffe6781",
+  "fetched_at": "2026-05-08T10:21:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:21:05Z",
+  "duration_ms": 3834,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c10a0d23cbd7072e7f5d0de35edadd939b2eda9a18f9dba83bac3ce9634c6f8f",
+  "md_bytes": 3796,
+  "links_found": 9,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Heaven",
+  "stable_id": "nfct__en-movies-archive_keywords-Heaven__e17b2b36",
+  "fetched_at": "2026-05-16T12:07:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:07:01Z",
+  "duration_ms": 9587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c556b497d9e8d79940cde8175def163503f7b7101d5c34fbb76c2748d8382273",
+  "md_bytes": 12535,
+  "links_found": 73,
+  "files_found": 0
+}

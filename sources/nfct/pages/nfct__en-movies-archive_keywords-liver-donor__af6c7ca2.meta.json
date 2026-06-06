@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=liver+donor",
+  "stable_id": "nfct__en-movies-archive_keywords-liver-donor__af6c7ca2",
+  "fetched_at": "2026-05-16T11:32:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:32:06Z",
+  "duration_ms": 12864,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4ba50676af2b03b625ebda08453b946f9dfc5d1b21b129aa45ca2dde48407e6",
+  "md_bytes": 10145,
+  "links_found": 68,
+  "files_found": 0
+}

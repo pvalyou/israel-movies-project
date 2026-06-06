@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אוגוסט-רגע-לפני/",
+  "stable_id": "nfct__blog-movies__8c958f4e",
+  "fetched_at": "2026-05-09T22:01:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:01:04Z",
+  "duration_ms": 24926,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99875f6a56de9f071d71c5e86e91a063fa2dd10e65b68cee51980de100521291",
+  "md_bytes": 18390,
+  "links_found": 41,
+  "files_found": 0
+}

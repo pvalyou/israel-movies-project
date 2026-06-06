@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מאה-ילדים-שלי/",
+  "stable_id": "nfct__blog-movies__082076a3",
+  "fetched_at": "2026-05-09T17:35:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:35:41Z",
+  "duration_ms": 53431,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:57428204415057a0b3646727d147a431599f71ba2aab77606fff6b2fca69eb36",
+  "md_bytes": 21561,
+  "links_found": 50,
+  "files_found": 0
+}

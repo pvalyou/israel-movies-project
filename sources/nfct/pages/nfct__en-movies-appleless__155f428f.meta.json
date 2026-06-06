@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/appleless/",
+  "stable_id": "nfct__en-movies-appleless__155f428f",
+  "fetched_at": "2026-05-11T01:53:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:53:43Z",
+  "duration_ms": 10399,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d1c0edca9f4083a573fb10e48dbed28892f004c89d2b73cceca42d6a4c646dfe",
+  "md_bytes": 10753,
+  "links_found": 27,
+  "files_found": 0
+}

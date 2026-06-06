@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=ecology",
+  "stable_id": "nfct__en-movies-archive_keywords-ecology__7b61f17e",
+  "fetched_at": "2026-05-16T11:00:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:00:24Z",
+  "duration_ms": 6866,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:30ed33f520a83a70a594ef45585168a98e34eabe053f5b2150755173d7e12da5",
+  "md_bytes": 10385,
+  "links_found": 68,
+  "files_found": 0
+}

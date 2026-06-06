@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/counting-sheep/",
+  "stable_id": "nfct__en-movies-counting-sheep__f3419614",
+  "fetched_at": "2026-05-12T04:37:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:37:10Z",
+  "duration_ms": 30904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7e118c149b9d04248baa2be5d30983bdfcb26b0abef0b910ebfe2de407d65d49",
+  "md_bytes": 11511,
+  "links_found": 29,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מי-ירה-בילדי-הברנוער/",
+  "stable_id": "nfct__blog-movies__169eecde",
+  "fetched_at": "2026-05-09T21:10:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:10:48Z",
+  "duration_ms": 24975,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:543fbf745fe84348fe0ddb13440f195da36bc157734f0c0e3948376aa140c6da",
+  "md_bytes": 17866,
+  "links_found": 37,
+  "files_found": 0
+}

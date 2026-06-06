@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מעכשיו-לעכשיו/",
+  "stable_id": "nfct__blog-movies__d35a329c",
+  "fetched_at": "2026-05-09T21:48:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:48:48Z",
+  "duration_ms": 18370,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6901814db2584bb5e7f3df2eba45e47ee4b9aa87b8a6d930c42c53b4572c0216",
+  "md_bytes": 14672,
+  "links_found": 31,
+  "files_found": 0
+}

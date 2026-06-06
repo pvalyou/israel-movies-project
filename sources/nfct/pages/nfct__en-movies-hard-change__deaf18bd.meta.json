@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hard-change/",
+  "stable_id": "nfct__en-movies-hard-change__deaf18bd",
+  "fetched_at": "2026-05-12T01:03:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:03:49Z",
+  "duration_ms": 23598,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:11277c71314da3595bdcf57ec06739106e4e1a5760ec6a396cae8fb5922d1e25",
+  "md_bytes": 12596,
+  "links_found": 33,
+  "files_found": 0
+}

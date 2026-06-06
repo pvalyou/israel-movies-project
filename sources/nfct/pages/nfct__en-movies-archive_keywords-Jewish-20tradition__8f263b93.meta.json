@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish%20tradition",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-20tradition__8f263b93",
+  "fetched_at": "2026-05-16T11:20:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:20:49Z",
+  "duration_ms": 9132,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ea39bf58b2c32ceec208ff7206466faa58fa3fcab9e74d39a90e7815a526451",
+  "md_bytes": 13303,
+  "links_found": 75,
+  "files_found": 0
+}

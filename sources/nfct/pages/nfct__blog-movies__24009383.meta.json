@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כופר-נפש/",
+  "stable_id": "nfct__blog-movies__24009383",
+  "fetched_at": "2026-05-09T17:12:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:12:41Z",
+  "duration_ms": 29798,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3fb69bdc87dabf6b169df3c062e6a7061366f2abc456b1f2ae7670da157a6b7d",
+  "md_bytes": 20154,
+  "links_found": 37,
+  "files_found": 0
+}

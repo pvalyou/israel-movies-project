@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ye'arim",
+  "stable_id": "nfct__en-movies-archive_keywords-Ye-arim__9332b1a1",
+  "fetched_at": "2026-05-16T20:31:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:38Z",
+  "duration_ms": 8553,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bca12054462fceeb4ad2078c030634cf7dc224e948ede756fd221947eef1a48e",
+  "md_bytes": 10319,
+  "links_found": 68,
+  "files_found": 0
+}

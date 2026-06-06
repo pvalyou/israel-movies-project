@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fear",
+  "stable_id": "nfct__en-movies-archive_keywords-fear__93b83924",
+  "fetched_at": "2026-05-16T08:23:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:23:45Z",
+  "duration_ms": 8386,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3326041c65e27a38fb4e79d9b78e213704b3c2ca0922a9c5d00c40793f1cecb",
+  "md_bytes": 17020,
+  "links_found": 82,
+  "files_found": 0
+}

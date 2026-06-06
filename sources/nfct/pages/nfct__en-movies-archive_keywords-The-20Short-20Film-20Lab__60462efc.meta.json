@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The%20Short%20Film%20Lab",
+  "stable_id": "nfct__en-movies-archive_keywords-The-20Short-20Film-20Lab__60462efc",
+  "fetched_at": "2026-05-16T12:54:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:54:25Z",
+  "duration_ms": 12014,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78ff398d3eeb97a82e86d9be06891cfe041c5985f19b7a2186c5159957a64658",
+  "md_bytes": 12656,
+  "links_found": 73,
+  "files_found": 0
+}

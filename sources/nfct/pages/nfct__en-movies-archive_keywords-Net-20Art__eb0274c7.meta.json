@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Net%20Art",
+  "stable_id": "nfct__en-movies-archive_keywords-Net-20Art__eb0274c7",
+  "fetched_at": "2026-05-16T06:37:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:37:53Z",
+  "duration_ms": 8102,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:74db4888d02b4a2391fe974efb2650c2f93997375f7be0a5916f6b3a7d7db2e0",
+  "md_bytes": 16029,
+  "links_found": 82,
+  "files_found": 0
+}

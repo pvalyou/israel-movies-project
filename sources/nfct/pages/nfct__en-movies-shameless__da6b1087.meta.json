@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shameless/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-shameless__da6b1087",
+  "fetched_at": "2026-05-16T17:02:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:02:28Z",
+  "duration_ms": 9484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2411e072ab2c532fa8716e86f2e31c6631a783bff10876977620aa1563f7622d",
+  "md_bytes": 10658,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/after-lucia/#main",
+  "stable_id": "arava_film_fund__en-movies-after-lucia__9172377e",
+  "fetched_at": "2026-05-09T10:50:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:50:40Z",
+  "duration_ms": 10753,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4bf5f393f598d8f2bca3616967d9881b2a0177634927987eddbd42f27c1bd8c9",
+  "md_bytes": 3523,
+  "links_found": 9,
+  "files_found": 0
+}

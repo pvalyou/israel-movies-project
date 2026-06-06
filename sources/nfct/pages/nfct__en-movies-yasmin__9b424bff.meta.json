@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/yasmin/#UAMainContent",
+  "stable_id": "nfct__en-movies-yasmin__9b424bff",
+  "fetched_at": "2026-05-16T05:24:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:24:36Z",
+  "duration_ms": 7815,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c57239edb48a9324474ea51a275889bf8a32d44e6f3e8a2f241a8aadd6223905",
+  "md_bytes": 11829,
+  "links_found": 33,
+  "files_found": 0
+}

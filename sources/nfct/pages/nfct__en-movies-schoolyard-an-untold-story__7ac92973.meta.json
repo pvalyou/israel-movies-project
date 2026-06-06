@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/schoolyard-an-untold-story/",
+  "stable_id": "nfct__en-movies-schoolyard-an-untold-story__7ac92973",
+  "fetched_at": "2026-05-11T19:20:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:20:12Z",
+  "duration_ms": 33704,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f573d40354b560f06c128921fe8e6bc164b8cb0e1576d12d966294521f21814",
+  "md_bytes": 14466,
+  "links_found": 45,
+  "files_found": 0
+}

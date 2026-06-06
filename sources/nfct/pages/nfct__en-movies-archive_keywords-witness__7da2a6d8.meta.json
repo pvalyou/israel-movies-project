@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=witness",
+  "stable_id": "nfct__en-movies-archive_keywords-witness__7da2a6d8",
+  "fetched_at": "2026-05-16T10:51:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:11Z",
+  "duration_ms": 7884,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6b7ff4cc3c8b85e9d3314a0cb4e4b2b04cf3c2e8fbc36fe3933211784f68e618",
+  "md_bytes": 16380,
+  "links_found": 82,
+  "files_found": 0
+}

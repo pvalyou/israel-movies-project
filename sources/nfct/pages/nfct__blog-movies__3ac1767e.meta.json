@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כמה-קרוב-זה-עכשיו/",
+  "stable_id": "nfct__blog-movies__3ac1767e",
+  "fetched_at": "2026-05-09T20:45:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:45:19Z",
+  "duration_ms": 21210,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d423e383ce9c3e0f2e88751312fb444722140127eb472a6d0ae8c36e092342e9",
+  "md_bytes": 14074,
+  "links_found": 31,
+  "files_found": 0
+}

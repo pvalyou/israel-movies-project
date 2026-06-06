@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=WWII",
+  "stable_id": "nfct__en-movies-archive_keywords-WWII__04ffbac3",
+  "fetched_at": "2026-05-16T04:37:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:37:21Z",
+  "duration_ms": 6553,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4650e2ccb82504cf3ca5fa2894305e66a4cacf44328fc544ca0d233c10bec5b8",
+  "md_bytes": 12390,
+  "links_found": 75,
+  "files_found": 0
+}

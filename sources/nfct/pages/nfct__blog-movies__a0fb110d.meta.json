@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ראשון-יהיה-אחרון/",
+  "stable_id": "nfct__blog-movies__a0fb110d",
+  "fetched_at": "2026-05-15T09:01:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:50Z",
+  "duration_ms": 7760,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c62e530ad4e3d1886c13a2747ce1e36b5e5d7094a937fbc3f02e9a7cf4a1da5",
+  "md_bytes": 19773,
+  "links_found": 45,
+  "files_found": 0
+}

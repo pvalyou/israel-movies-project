@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=guilty%20verdict",
+  "stable_id": "nfct__en-movies-archive_keywords-guilty-20verdict__80e945cd",
+  "fetched_at": "2026-05-16T16:24:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:24:54Z",
+  "duration_ms": 9101,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ed4982c5cd20ec0c6a7cecca7ac062222719e58578ba096474fa723b61b9d00",
+  "md_bytes": 10271,
+  "links_found": 68,
+  "files_found": 0
+}

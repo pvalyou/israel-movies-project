@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/one-on-one/",
+  "stable_id": "nfct__en-movies-one-on-one__3981ace1",
+  "fetched_at": "2026-05-11T07:00:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:00:02Z",
+  "duration_ms": 10176,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5fedd628fbcc7dc84e7b47562f3fe2d9ab05333043fd2a36e546eea988bd6839",
+  "md_bytes": 11845,
+  "links_found": 29,
+  "files_found": 0
+}

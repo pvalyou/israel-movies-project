@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Longing",
+  "stable_id": "nfct__en-movies-archive_keywords-Longing__84993c7a",
+  "fetched_at": "2026-05-16T15:51:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:41Z",
+  "duration_ms": 9896,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b46ef149b73af42526b0f0da9dd1651159bd0871f7f02fa8e1ca4ee76ab55cd",
+  "md_bytes": 15905,
+  "links_found": 82,
+  "files_found": 0
+}

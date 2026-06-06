@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-פרינסס-שואו-עידו-הר-קרית-טבעון-4/",
+  "stable_id": "nfct__events-event--------------4__3dfd5052",
+  "fetched_at": "2026-05-10T05:20:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T05:20:44Z",
+  "duration_ms": 53575,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69676fc1878fcbc4981efa8a0a2291473c361c1d7016cf3f55d2e6223123c93d",
+  "md_bytes": 10992,
+  "links_found": 22,
+  "files_found": 0
+}

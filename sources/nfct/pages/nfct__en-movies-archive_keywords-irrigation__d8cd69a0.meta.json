@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=irrigation",
+  "stable_id": "nfct__en-movies-archive_keywords-irrigation__d8cd69a0",
+  "fetched_at": "2026-05-16T11:19:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:19:31Z",
+  "duration_ms": 11137,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d7a7326dbda54bece9359667f57808b52e4fd7ab2262a7fbc9c3ccc6c832cd89",
+  "md_bytes": 10028,
+  "links_found": 68,
+  "files_found": 0
+}

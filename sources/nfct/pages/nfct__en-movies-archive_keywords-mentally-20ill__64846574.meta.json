@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mentally%20ill",
+  "stable_id": "nfct__en-movies-archive_keywords-mentally-20ill__64846574",
+  "fetched_at": "2026-05-16T20:29:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:29:30Z",
+  "duration_ms": 8542,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be7f0712562d2000e14e4294f257ebb4cf45d65bcd37888bce2d9482585000f7",
+  "md_bytes": 11298,
+  "links_found": 72,
+  "files_found": 0
+}

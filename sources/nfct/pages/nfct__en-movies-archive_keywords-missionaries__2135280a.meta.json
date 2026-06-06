@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=missionaries",
+  "stable_id": "nfct__en-movies-archive_keywords-missionaries__2135280a",
+  "fetched_at": "2026-05-16T16:57:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:11Z",
+  "duration_ms": 8086,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bbdbf62cdc1623ac60bd5939bb76fef74474789d7744205ff9cee0294b02c597",
+  "md_bytes": 10018,
+  "links_found": 68,
+  "files_found": 0
+}

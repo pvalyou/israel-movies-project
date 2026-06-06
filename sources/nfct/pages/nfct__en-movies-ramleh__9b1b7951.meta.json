@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ramleh/",
+  "stable_id": "nfct__en-movies-ramleh__9b1b7951",
+  "fetched_at": "2026-05-12T03:56:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:56:05Z",
+  "duration_ms": 18207,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3fddb17a981510ffb2487db1a9a9d5f76556cafaff1a405195418702bc4d9805",
+  "md_bytes": 14952,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-electric-mind/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-the-electric-mind__a7ba5f0c",
+  "fetched_at": "2026-05-16T04:49:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:49:00Z",
+  "duration_ms": 9645,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c42555f661052a6467f8fe3f16a6b3082ac40819d25b3159d078c21035f26133",
+  "md_bytes": 15017,
+  "links_found": 40,
+  "files_found": 0
+}

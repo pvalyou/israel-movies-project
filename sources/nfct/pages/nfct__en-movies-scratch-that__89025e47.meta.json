@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/scratch-that/",
+  "stable_id": "nfct__en-movies-scratch-that__89025e47",
+  "fetched_at": "2026-05-11T14:52:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:52:54Z",
+  "duration_ms": 21165,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23cc4a3452ac657ba0d919b49c01f39c11d6875ccc89e047d4c94008f3b2c106",
+  "md_bytes": 12852,
+  "links_found": 41,
+  "files_found": 0
+}

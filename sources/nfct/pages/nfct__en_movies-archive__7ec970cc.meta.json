@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Population",
+  "stable_id": "nfct__en_movies-archive__7ec970cc",
+  "fetched_at": "2026-05-18T21:28:18.184413+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=Population",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "15e031082bf120ed7bf5cb05ad6e3428c6bded88e138249176b8e5706368a1ed",
+  "md_bytes": 15446,
+  "links_found": 0,
+  "error": ""
+}

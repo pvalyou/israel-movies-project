@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lebanese%20border",
+  "stable_id": "nfct__en-movies-archive_keywords-Lebanese-20border__f7e42f2a",
+  "fetched_at": "2026-05-16T12:14:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:14:40Z",
+  "duration_ms": 8864,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be134b9a5389b55245446b67f3caca15c4bd3c5a4d0530695c4a7e46216db289",
+  "md_bytes": 10868,
+  "links_found": 70,
+  "files_found": 0
+}

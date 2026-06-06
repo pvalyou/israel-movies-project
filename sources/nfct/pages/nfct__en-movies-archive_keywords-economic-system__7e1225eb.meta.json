@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=economic+system",
+  "stable_id": "nfct__en-movies-archive_keywords-economic-system__7e1225eb",
+  "fetched_at": "2026-05-16T15:55:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:55:12Z",
+  "duration_ms": 9282,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:522c98b9a6b63731643d279105d4d0bd349a2eb6b50cb992f8145d0347dcbc7b",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

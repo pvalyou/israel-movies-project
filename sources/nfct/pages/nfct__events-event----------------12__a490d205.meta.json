@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-חייו-מלאי-שיר-סיפורו-של-אברהם-חל-12/",
+  "stable_id": "nfct__events-event----------------12__a490d205",
+  "fetched_at": "2026-05-09T18:32:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:32:55Z",
+  "duration_ms": 14360,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc5affeb5ba3d68869afb5949a6c4a16de40a5c27d17599594f2f023927dee1c",
+  "md_bytes": 11568,
+  "links_found": 22,
+  "files_found": 0
+}

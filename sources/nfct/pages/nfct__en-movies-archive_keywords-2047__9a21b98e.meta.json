@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=2047",
+  "stable_id": "nfct__en-movies-archive_keywords-2047__9a21b98e",
+  "fetched_at": "2026-05-16T16:45:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:45:14Z",
+  "duration_ms": 7855,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27cf4ca911eaf0db5bd00c46f13f5995b4ff75c1047069f4c7e90b953c993894",
+  "md_bytes": 10039,
+  "links_found": 68,
+  "files_found": 0
+}

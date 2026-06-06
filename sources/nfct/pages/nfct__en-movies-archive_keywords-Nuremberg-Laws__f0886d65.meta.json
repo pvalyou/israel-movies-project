@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nuremberg+Laws",
+  "stable_id": "nfct__en-movies-archive_keywords-Nuremberg-Laws__f0886d65",
+  "fetched_at": "2026-05-16T17:25:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:25:34Z",
+  "duration_ms": 7436,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e0de0d947e101a8e460d365c60783b06bb85e0940d82b6bf91e500d13eb4b7a",
+  "md_bytes": 10043,
+  "links_found": 68,
+  "files_found": 0
+}

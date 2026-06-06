@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yaakov+Gutterman",
+  "stable_id": "nfct__en-movies-archive_keywords-Yaakov-Gutterman__26451c27",
+  "fetched_at": "2026-05-16T10:51:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:13Z",
+  "duration_ms": 7145,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32fc0c69d6f84bdfd4cebfdd2751cc4b2175ffb26edce4b588914a20d0bed796",
+  "md_bytes": 10293,
+  "links_found": 68,
+  "files_found": 0
+}

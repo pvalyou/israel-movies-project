@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/true-mother/#UAMainContent",
+  "stable_id": "nfct__en-movies-true-mother__374e54e1",
+  "fetched_at": "2026-05-16T14:56:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:56:08Z",
+  "duration_ms": 7280,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf42bc5640680127ac9b0e998f00d68a73eed91bd0c9aaf2e2278803a614241b",
+  "md_bytes": 12057,
+  "links_found": 31,
+  "files_found": 0
+}

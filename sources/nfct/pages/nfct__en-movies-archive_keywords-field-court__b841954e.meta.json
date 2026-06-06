@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=field+court",
+  "stable_id": "nfct__en-movies-archive_keywords-field-court__b841954e",
+  "fetched_at": "2026-05-16T10:46:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:35Z",
+  "duration_ms": 6745,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bfafa52955810c096cce3c7ef9f3f05fe39216930324b0a8e8846306355a6b1e",
+  "md_bytes": 10526,
+  "links_found": 69,
+  "files_found": 0
+}

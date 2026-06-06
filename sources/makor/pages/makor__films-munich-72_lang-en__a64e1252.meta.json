@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/munich-72/?lang=en",
+  "stable_id": "makor__films-munich-72_lang-en__a64e1252",
+  "fetched_at": "2026-05-09T13:19:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:19:42Z",
+  "duration_ms": 10690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f06bff355cc39aa9e5555c077ffa3a63084b8a9d2a7e8ee2667ba34b9f7147b",
+  "md_bytes": 2096,
+  "links_found": 4,
+  "files_found": 0
+}

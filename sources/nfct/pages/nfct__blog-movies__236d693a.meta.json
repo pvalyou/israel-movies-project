@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ביקור-אחרון/",
+  "stable_id": "nfct__blog-movies__236d693a",
+  "fetched_at": "2026-05-09T20:29:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:29:44Z",
+  "duration_ms": 46653,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe105ec3cbf1635472f17f10230295c03e47cdb279705eedfaa51bcb71ce752d",
+  "md_bytes": 15936,
+  "links_found": 35,
+  "files_found": 0
+}

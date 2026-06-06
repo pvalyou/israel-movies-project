@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fat-cows-lean-cows/",
+  "stable_id": "nfct__en-movies-fat-cows-lean-cows__cc760d8a",
+  "fetched_at": "2026-05-11T05:08:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:08:37Z",
+  "duration_ms": 18053,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9fb0f5a260fa62ab06069577183d6828bc524b704a60f1431096c0fb7339c256",
+  "md_bytes": 14713,
+  "links_found": 41,
+  "files_found": 0
+}

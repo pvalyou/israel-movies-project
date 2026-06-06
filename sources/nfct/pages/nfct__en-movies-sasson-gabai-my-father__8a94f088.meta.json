@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sasson-gabai-my-father/#UAMainContent",
+  "stable_id": "nfct__en-movies-sasson-gabai-my-father__8a94f088",
+  "fetched_at": "2026-05-16T14:58:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:58:10Z",
+  "duration_ms": 7111,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1770c8ee3137f620464f7a4787c16259d3143a1f42803898e7300bfa24deba58",
+  "md_bytes": 12090,
+  "links_found": 31,
+  "files_found": 0
+}

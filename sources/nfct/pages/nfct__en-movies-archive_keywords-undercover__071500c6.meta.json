@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=undercover",
+  "stable_id": "nfct__en-movies-archive_keywords-undercover__071500c6",
+  "fetched_at": "2026-05-16T16:24:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:24:43Z",
+  "duration_ms": 10667,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bada67922b89d55ff44ded1ded1632c5449313f66979308fdfce4e3b2bd0c793",
+  "md_bytes": 10221,
+  "links_found": 68,
+  "files_found": 0
+}

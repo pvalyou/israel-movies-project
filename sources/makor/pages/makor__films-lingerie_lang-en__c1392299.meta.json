@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/lingerie/?lang=en",
+  "stable_id": "makor__films-lingerie_lang-en__c1392299",
+  "fetched_at": "2026-05-09T12:53:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:53:55Z",
+  "duration_ms": 12161,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ce986ddb2b45e7ed47d2d7f396dd8e8d82ddc0472169bf44a6232ca0fc3d3d1",
+  "md_bytes": 1780,
+  "links_found": 4,
+  "files_found": 0
+}

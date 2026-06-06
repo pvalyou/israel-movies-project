@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-treasure-in-auschwitz/",
+  "stable_id": "nfct__en-movies-a-treasure-in-auschwitz__646639d6",
+  "fetched_at": "2026-05-11T06:29:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:29:41Z",
+  "duration_ms": 25491,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b3efa1a6c5ce13225e10e067b07a9c17f7aca6993397bc1c57b1a2750ae2e248",
+  "md_bytes": 13181,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/block-of-clay/?lang=en",
+  "stable_id": "makor__films-block-of-clay_lang-en__3dd75103",
+  "fetched_at": "2026-05-09T13:04:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:04:09Z",
+  "duration_ms": 20903,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d53ec8cda86eef07360a9d78fc34b6e8f32bc41c987e474accaba0d7a642bb86",
+  "md_bytes": 2174,
+  "links_found": 4,
+  "files_found": 0
+}

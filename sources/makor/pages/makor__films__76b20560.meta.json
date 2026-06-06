@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חורים/",
+  "stable_id": "makor__films__76b20560",
+  "fetched_at": "2026-05-09T12:56:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:56:56Z",
+  "duration_ms": 12998,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8c1ac9e5bc524f26b4369b0fb1cbbf50a1898c39cfbfe42014eabe5498dc9c65",
+  "md_bytes": 3157,
+  "links_found": 4,
+  "files_found": 0
+}

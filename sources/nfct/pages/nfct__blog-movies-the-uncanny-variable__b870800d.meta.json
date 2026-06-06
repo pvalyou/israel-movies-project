@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/the-uncanny-variable/",
+  "stable_id": "nfct__blog-movies-the-uncanny-variable__b870800d",
+  "fetched_at": "2026-05-09T21:16:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:16:30Z",
+  "duration_ms": 8913,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6bf8fdea5f0aca60b6b84c50c1a0fbd17c5963ad2a51ad90ef68c29c0abdab3c",
+  "md_bytes": 13127,
+  "links_found": 29,
+  "files_found": 0
+}

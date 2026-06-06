@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המלחמה-האחרונה-של-ילדי-טהרן-טלי-4/",
+  "stable_id": "nfct__events-event--------------4__43fb8336",
+  "fetched_at": "2026-05-10T06:24:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:24:17Z",
+  "duration_ms": 10348,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc10256abb2478aaffc06d42709d8981380ed9b75a4b2e214a2698bb6f09f34d",
+  "md_bytes": 11094,
+  "links_found": 22,
+  "files_found": 0
+}

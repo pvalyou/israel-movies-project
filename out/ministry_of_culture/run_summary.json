@@ -1,0 +1,21 @@
+{
+  "source_name": "ministry_of_culture",
+  "run_date": "2026-05-15",
+  "elapsed_min": 0.07,
+  "pages_total": 8,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 8,
+  "status_counts": {
+    "ok": 1,
+    "filtered": 1,
+    "empty_content": 6,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 2061,
+  "tokens_output": 1578,
+  "cost_usd": 0.0008,
+  "calls": 1,
+  "errors": 0,
+  "json_retries": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/death-in-umm-al-hiran/?lang=en",
+  "stable_id": "makor__films-death-in-umm-al-hiran_lang-en__00c808d9",
+  "fetched_at": "2026-05-09T13:19:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:19:00Z",
+  "duration_ms": 9508,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be9dd3515ab1ce5c74f357c17e7f70c8769f7fdc337d6fe6d24ebdb30f38592f",
+  "md_bytes": 2801,
+  "links_found": 4,
+  "files_found": 0
+}

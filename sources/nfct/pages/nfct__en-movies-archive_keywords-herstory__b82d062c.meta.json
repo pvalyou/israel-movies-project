@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=herstory",
+  "stable_id": "nfct__en-movies-archive_keywords-herstory__b82d062c",
+  "fetched_at": "2026-05-16T12:09:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:09:11Z",
+  "duration_ms": 9406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c2e4880876e1c93c098562b814ed6bf892ccf2ba0e96e093de5a5887f8962a9",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

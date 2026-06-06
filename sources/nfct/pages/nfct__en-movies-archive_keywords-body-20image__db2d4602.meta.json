@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=body%20image",
+  "stable_id": "nfct__en-movies-archive_keywords-body-20image__db2d4602",
+  "fetched_at": "2026-05-16T15:28:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:28:08Z",
+  "duration_ms": 9118,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c10456e3c1b4c959472e938bab79ac7ecd36c67c0e288906f929793910d5b0a",
+  "md_bytes": 12931,
+  "links_found": 73,
+  "files_found": 0
+}

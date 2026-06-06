@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lions-awake-in-summer/#UAMainContent",
+  "stable_id": "nfct__en-movies-lions-awake-in-summer__e7e625e6",
+  "fetched_at": "2026-05-16T15:14:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:14:48Z",
+  "duration_ms": 9242,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44e2ac8d1478105c659ee2085b4a83ddbdf96e1901f17c52252906e1419cbfc3",
+  "md_bytes": 15201,
+  "links_found": 45,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Franz+Kafka",
+  "stable_id": "nfct__en-movies-archive_keywords-Franz-Kafka__26afd3b6",
+  "fetched_at": "2026-05-16T12:30:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:58Z",
+  "duration_ms": 7629,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b431babfd0487d10f5ba558f80fb51fc04c5b33646e3fee9e1988ad9e6a8b79f",
+  "md_bytes": 10986,
+  "links_found": 70,
+  "files_found": 0
+}

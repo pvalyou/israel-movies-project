@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Falafel",
+  "stable_id": "nfct__en-movies-archive_keywords-Falafel__6b771554",
+  "fetched_at": "2026-05-16T11:26:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:26:12Z",
+  "duration_ms": 6705,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db60ed522ca2cd651d102f2be57c8daf97eeac46476e2c2f4d4520d25065776d",
+  "md_bytes": 10589,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/המעורר-יח-ברנר/",
+  "stable_id": "makor__films__e3a1586b",
+  "fetched_at": "2026-05-09T13:08:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:14Z",
+  "duration_ms": 13480,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:30b9ab0515956312a74cdf406c07262e6569b1506f954c8e157728b06ef12bf6",
+  "md_bytes": 3275,
+  "links_found": 4,
+  "files_found": 0
+}

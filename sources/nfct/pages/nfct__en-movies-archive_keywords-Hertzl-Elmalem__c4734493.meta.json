@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hertzl+Elmalem",
+  "stable_id": "nfct__en-movies-archive_keywords-Hertzl-Elmalem__c4734493",
+  "fetched_at": "2026-05-16T12:30:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:14Z",
+  "duration_ms": 9747,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6952546a2527981408a874cfbbf62845cfdc5f393b00b8c829fd626aeb5ed685",
+  "md_bytes": 10257,
+  "links_found": 68,
+  "files_found": 0
+}

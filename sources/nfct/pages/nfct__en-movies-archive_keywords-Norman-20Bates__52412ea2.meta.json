@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Norman%20Bates",
+  "stable_id": "nfct__en-movies-archive_keywords-Norman-20Bates__52412ea2",
+  "fetched_at": "2026-05-16T17:08:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:08:57Z",
+  "duration_ms": 9389,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d4d808f3ed323b49054566321f388c70b977f9a00b39661a1f6e9bf9f8814973",
+  "md_bytes": 10262,
+  "links_found": 68,
+  "files_found": 0
+}

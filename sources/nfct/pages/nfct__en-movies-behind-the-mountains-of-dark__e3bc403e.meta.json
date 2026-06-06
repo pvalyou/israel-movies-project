@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/behind-the-mountains-of-dark/",
+  "stable_id": "nfct__en-movies-behind-the-mountains-of-dark__e3bc403e",
+  "fetched_at": "2026-05-11T06:25:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:25:53Z",
+  "duration_ms": 39869,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1e8e957a2a643d73dd5f7a80b15c5662c38ca1a4a19012d90d0b21714c624a7",
+  "md_bytes": 14285,
+  "links_found": 43,
+  "files_found": 0
+}

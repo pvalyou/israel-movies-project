@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ריאליטי-שואו/",
+  "stable_id": "nfct__blog-movies__0e2a33ee",
+  "fetched_at": "2026-05-09T21:42:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:42:34Z",
+  "duration_ms": 36431,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:66875154eb37e7c56f60f1431fe9e828961f5d1ced329f531407e177a3519d88",
+  "md_bytes": 14591,
+  "links_found": 33,
+  "files_found": 0
+}

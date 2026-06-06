@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=meir+kahane",
+  "stable_id": "nfct__en-movies-archive_keywords-meir-kahane__ef484f43",
+  "fetched_at": "2026-05-16T16:09:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:09:59Z",
+  "duration_ms": 7263,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:77bbebf6a266cecb5ca9dcfe93595556e508054260a4435fcb9f146cab301170",
+  "md_bytes": 9991,
+  "links_found": 68,
+  "files_found": 0
+}

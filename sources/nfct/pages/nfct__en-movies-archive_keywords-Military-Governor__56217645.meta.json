@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Military+Governor",
+  "stable_id": "nfct__en-movies-archive_keywords-Military-Governor__56217645",
+  "fetched_at": "2026-05-16T20:31:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:22Z",
+  "duration_ms": 5681,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab01f0851b64a12c8f6f016188676968b5166f5352fd3a7e0d40f424168e841e",
+  "md_bytes": 10204,
+  "links_found": 68,
+  "files_found": 0
+}

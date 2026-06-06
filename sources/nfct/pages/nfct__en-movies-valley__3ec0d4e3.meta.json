@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/valley/",
+  "stable_id": "nfct__en-movies-valley__3ec0d4e3",
+  "fetched_at": "2026-05-12T04:16:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:16:42Z",
+  "duration_ms": 12358,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2aab4ed039dfcad4466e0c496778953ab6417de615f0fa7f2babf1a498b160bb",
+  "md_bytes": 12695,
+  "links_found": 34,
+  "files_found": 0
+}

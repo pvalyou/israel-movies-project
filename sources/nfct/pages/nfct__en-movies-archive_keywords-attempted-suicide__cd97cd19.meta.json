@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=attempted+suicide",
+  "stable_id": "nfct__en-movies-archive_keywords-attempted-suicide__cd97cd19",
+  "fetched_at": "2026-05-16T13:15:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:15:48Z",
+  "duration_ms": 9640,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f17ac2e1ceeb382a1e42f7d06bfe8c08a4cf9a623a837e5400325cc22bc3e24",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

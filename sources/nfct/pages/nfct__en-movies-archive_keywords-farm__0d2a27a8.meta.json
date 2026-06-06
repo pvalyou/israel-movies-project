@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=farm",
+  "stable_id": "nfct__en-movies-archive_keywords-farm__0d2a27a8",
+  "fetched_at": "2026-05-16T10:12:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:12:10Z",
+  "duration_ms": 7727,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e50512bda76fd8f1bc2f87318e2c4febce24bf90246f3cd40364a342882bb76b",
+  "md_bytes": 16632,
+  "links_found": 82,
+  "files_found": 0
+}

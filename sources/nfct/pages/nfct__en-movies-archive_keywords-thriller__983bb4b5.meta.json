@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=thriller",
+  "stable_id": "nfct__en-movies-archive_keywords-thriller__983bb4b5",
+  "fetched_at": "2026-05-16T12:05:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:05:51Z",
+  "duration_ms": 9076,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8a91b8fc444d2bf7b754ecf200bbf382534c8d327576b614007c49553215bdf",
+  "md_bytes": 12929,
+  "links_found": 74,
+  "files_found": 0
+}

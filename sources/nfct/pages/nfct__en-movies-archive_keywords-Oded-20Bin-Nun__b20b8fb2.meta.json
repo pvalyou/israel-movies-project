@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Oded%20Bin-Nun",
+  "stable_id": "nfct__en-movies-archive_keywords-Oded-20Bin-Nun__b20b8fb2",
+  "fetched_at": "2026-05-16T12:18:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:18:25Z",
+  "duration_ms": 8801,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d641835f10928f83aa82762cc461461181d2828302b6cceb94846e9223a3a404",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

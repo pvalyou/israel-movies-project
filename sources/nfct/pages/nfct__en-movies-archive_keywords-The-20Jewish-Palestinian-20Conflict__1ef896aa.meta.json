@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The%20Jewish-Palestinian%20Conflict",
+  "stable_id": "nfct__en-movies-archive_keywords-The-20Jewish-Palestinian-20Conflict__1ef896aa",
+  "fetched_at": "2026-05-16T20:18:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:10Z",
+  "duration_ms": 10723,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d08def72b949b3d59c9d00b4a1064907e27c67e8bf7246f3684c51cc32bad9c5",
+  "md_bytes": 9841,
+  "links_found": 67,
+  "files_found": 0
+}

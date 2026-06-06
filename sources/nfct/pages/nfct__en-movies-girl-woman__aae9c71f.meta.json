@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/girl-woman/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-girl-woman__aae9c71f",
+  "fetched_at": "2026-05-16T12:04:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:04:48Z",
+  "duration_ms": 6514,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dde8996377788fe16f6b0ba21bfc248bce5cb0cf83dbcdd42818be1b66700449",
+  "md_bytes": 15174,
+  "links_found": 45,
+  "files_found": 0
+}

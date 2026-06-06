@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בקבוק-במרתף/",
+  "stable_id": "nfct__blog-movies__4a46d641",
+  "fetched_at": "2026-05-09T17:42:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:42:29Z",
+  "duration_ms": 9190,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:526c49f24cbcd2761703027a95503fb297592f9369e302ce9880e1b7b1ea9c8d",
+  "md_bytes": 17674,
+  "links_found": 42,
+  "files_found": 0
+}

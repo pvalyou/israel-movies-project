@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כתמים-2/",
+  "stable_id": "nfct__blog-movies--2__ccb835e3",
+  "fetched_at": "2026-05-15T09:02:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:00Z",
+  "duration_ms": 10397,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:94ea7f2d85e58f27c72b3f954b6fb976068e1b588197b6624a0da24d28fc09e3",
+  "md_bytes": 14135,
+  "links_found": 29,
+  "files_found": 0
+}

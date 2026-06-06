@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Space",
+  "stable_id": "nfct__en-movies-archive_keywords-Space__44f93f53",
+  "fetched_at": "2026-05-16T16:46:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:46:52Z",
+  "duration_ms": 8699,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4579aa11f16c32bb11f086072a77c896d826f7ce85b6ba92678871789ce9d14",
+  "md_bytes": 16872,
+  "links_found": 82,
+  "files_found": 0
+}

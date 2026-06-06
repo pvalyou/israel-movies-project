@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/kafkas-last-story/",
+  "stable_id": "nfct__en-movies-kafkas-last-story__aa8b38a0",
+  "fetched_at": "2026-05-11T15:48:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:48:20Z",
+  "duration_ms": 23355,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba6977d526a4d6ee2442f52e71cc3f79f6ef5a420dd45cd76753f25b56e07485",
+  "md_bytes": 14277,
+  "links_found": 37,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nobody-home/",
+  "stable_id": "nfct__en-movies-nobody-home__8a3405b9",
+  "fetched_at": "2026-05-11T13:49:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:49:51Z",
+  "duration_ms": 28484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8f2029000b99968804cf03aab7df5e14875549e6b65b1ca86860dd3a43ed26d",
+  "md_bytes": 14632,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Roman+Zadorov",
+  "stable_id": "nfct__en-movies-archive_keywords-Roman-Zadorov__32e4f2a3",
+  "fetched_at": "2026-05-16T14:03:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:03:18Z",
+  "duration_ms": 6259,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:220317162192536f095f6a94c6e4e3f7b980a6a03cc84caeb9715461dad383ff",
+  "md_bytes": 10361,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/אני-רוצה-להגיש/",
+  "stable_id": "nfct__blog__9cd058df",
+  "fetched_at": "2026-05-09T16:26:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:26:24Z",
+  "duration_ms": 40885,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:036dc052dbfaf6e0dbd5f50d1e1fca3e48a854de1c2c50d2a6fd297b0f885a67",
+  "md_bytes": 11081,
+  "links_found": 26,
+  "files_found": 0
+}

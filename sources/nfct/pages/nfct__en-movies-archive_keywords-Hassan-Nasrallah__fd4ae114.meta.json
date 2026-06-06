@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hassan+Nasrallah",
+  "stable_id": "nfct__en-movies-archive_keywords-Hassan-Nasrallah__fd4ae114",
+  "fetched_at": "2026-05-16T14:15:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:15:10Z",
+  "duration_ms": 7146,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6b38f49a2cb2f01215d4ff3d045a992a7a7176033f766720453ceadaa99d8d3e",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

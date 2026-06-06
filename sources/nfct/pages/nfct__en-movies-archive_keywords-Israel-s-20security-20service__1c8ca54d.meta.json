@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israel's%20security%20service",
+  "stable_id": "nfct__en-movies-archive_keywords-Israel-s-20security-20service__1c8ca54d",
+  "fetched_at": "2026-05-16T17:37:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:37:12Z",
+  "duration_ms": 7077,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3324e874bf1e4b95c3ef61e05e20bb9c359ddd0a51b52e0a295f4b9ae24911b2",
+  "md_bytes": 10049,
+  "links_found": 68,
+  "files_found": 0
+}

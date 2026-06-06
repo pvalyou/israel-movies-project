@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=melting+pot",
+  "stable_id": "nfct__en-movies-archive_keywords-melting-pot__f110fdd7",
+  "fetched_at": "2026-05-16T03:16:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:16:32Z",
+  "duration_ms": 6180,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f658c854c1d762b740e78b39de1eb4751a7afe65f0313dd68d0a8755661f5d8",
+  "md_bytes": 9979,
+  "links_found": 68,
+  "files_found": 0
+}

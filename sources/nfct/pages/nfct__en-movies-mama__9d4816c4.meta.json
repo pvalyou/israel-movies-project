@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mama/#UAMainContent",
+  "stable_id": "nfct__en-movies-mama__9d4816c4",
+  "fetched_at": "2026-05-16T12:23:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:23:23Z",
+  "duration_ms": 15205,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:632d26e29c450c5f1f0480af8ea7846c47d1cfdf7ec3c5d8ea9d42a70b2a01a1",
+  "md_bytes": 16526,
+  "links_found": 50,
+  "files_found": 0
+}

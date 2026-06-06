@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dirty-business/#UAMainContent",
+  "stable_id": "nfct__en-movies-dirty-business__90e4c8ea",
+  "fetched_at": "2026-05-16T17:43:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:43:27Z",
+  "duration_ms": 9464,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2c1dd282c94ac93851e224cb745ab47deecf679a92ad2861c5e30d531357f565",
+  "md_bytes": 11372,
+  "links_found": 35,
+  "files_found": 0
+}

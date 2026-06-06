@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfund.org.il/Movie?movieId=497#movie_productionTeam",
+  "stable_id": "filmfund__Movie_movieId-497__841324dc",
+  "fetched_at": "2026-05-09T10:59:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:59:09Z",
+  "duration_ms": 19464,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c5f51aea1631a8ee712923367e8b46ce7effa6e2b4c0adbf677f781ef3fff22b",
+  "md_bytes": 9840,
+  "links_found": 12,
+  "files_found": 0
+}

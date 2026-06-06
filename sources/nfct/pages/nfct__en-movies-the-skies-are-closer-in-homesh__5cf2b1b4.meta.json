@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-skies-are-closer-in-homesh/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-the-skies-are-closer-in-homesh__5cf2b1b4",
+  "fetched_at": "2026-05-16T11:30:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:30:38Z",
+  "duration_ms": 7659,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:39e269e793729aa4f657a8f875013c6faba29ae16ff64201a828aa55512ba9b8",
+  "md_bytes": 13489,
+  "links_found": 37,
+  "files_found": 0
+}

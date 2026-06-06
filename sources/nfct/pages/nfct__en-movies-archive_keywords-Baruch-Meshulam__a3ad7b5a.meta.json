@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Baruch+Meshulam",
+  "stable_id": "nfct__en-movies-archive_keywords-Baruch-Meshulam__a3ad7b5a",
+  "fetched_at": "2026-05-16T12:38:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:38:48Z",
+  "duration_ms": 8678,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:616c925a58b2863f268c78f1d1d4a3b3ec3ceb3cf30cafb255790b31cf624b83",
+  "md_bytes": 10106,
+  "links_found": 68,
+  "files_found": 0
+}

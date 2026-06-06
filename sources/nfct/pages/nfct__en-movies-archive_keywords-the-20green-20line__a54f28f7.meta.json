@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=the%20green%20line",
+  "stable_id": "nfct__en-movies-archive_keywords-the-20green-20line__a54f28f7",
+  "fetched_at": "2026-05-16T12:47:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:47:35Z",
+  "duration_ms": 13593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ece912cbe785a81c2919f48cb25a385e2d0cff77f5b1068f1ef0c514e0789cef",
+  "md_bytes": 10886,
+  "links_found": 70,
+  "files_found": 0
+}

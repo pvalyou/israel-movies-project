@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-first-lady/",
+  "stable_id": "nfct__en-movies-the-first-lady__3b36fd71",
+  "fetched_at": "2026-05-15T15:22:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:22:16Z",
+  "duration_ms": 12300,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:79e04e4f25b688bb740714db2709117f898d6874e620903484f411265aa255de",
+  "md_bytes": 11572,
+  "links_found": 32,
+  "files_found": 0
+}

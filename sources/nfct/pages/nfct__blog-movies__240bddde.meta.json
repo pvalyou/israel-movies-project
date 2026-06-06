@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קופסה-כחולה/",
+  "stable_id": "nfct__blog-movies__240bddde",
+  "fetched_at": "2026-05-09T20:41:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:41:06Z",
+  "duration_ms": 23484,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2a75f6607420f0e5c020e61c0bea086f3a0cc7f9fb8f7e4fb12fc87697b02d08",
+  "md_bytes": 23124,
+  "links_found": 47,
+  "files_found": 0
+}

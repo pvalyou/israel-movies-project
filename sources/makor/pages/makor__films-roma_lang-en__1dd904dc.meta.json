@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/roma/?lang=en",
+  "stable_id": "makor__films-roma_lang-en__1dd904dc",
+  "fetched_at": "2026-05-09T12:58:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:58:25Z",
+  "duration_ms": 7157,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b152479b3ee824e9dff26b9ba75fcd1fc26898233f0f7dc0333112e291feddd",
+  "md_bytes": 2284,
+  "links_found": 4,
+  "files_found": 0
+}

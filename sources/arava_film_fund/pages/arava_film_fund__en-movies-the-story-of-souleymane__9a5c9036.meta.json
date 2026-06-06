@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-story-of-souleymane/",
+  "stable_id": "arava_film_fund__en-movies-the-story-of-souleymane__9a5c9036",
+  "fetched_at": "2026-05-08T09:34:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:34:54Z",
+  "duration_ms": 7165,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3aafab5ed213c2194a3d2f44b1677b7fbe32f87b07cc7abc5bf1a292d9be1567",
+  "md_bytes": 3412,
+  "links_found": 9,
+  "files_found": 0
+}

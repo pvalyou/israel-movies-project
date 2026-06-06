@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=affair",
+  "stable_id": "nfct__en-movies-archive_keywords-affair__48cf4f1e",
+  "fetched_at": "2026-05-16T10:31:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:31:25Z",
+  "duration_ms": 8634,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a88766fdec85caca0a36c1e54878863c00596a8f896635c7b6c90769b854f92",
+  "md_bytes": 16126,
+  "links_found": 82,
+  "files_found": 0
+}

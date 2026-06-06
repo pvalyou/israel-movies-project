@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לוט-בערפל/",
+  "stable_id": "nfct__blog-movies__e8863b61",
+  "fetched_at": "2026-05-09T19:41:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:41:50Z",
+  "duration_ms": 24093,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e7fdb3db1286a7e262eff9df34fdb7ee209199b979a9ac30de5bd835214e533",
+  "md_bytes": 17688,
+  "links_found": 42,
+  "files_found": 0
+}

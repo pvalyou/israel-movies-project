@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20Music",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20Music__1662bf34",
+  "fetched_at": "2026-05-16T13:10:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:10:15Z",
+  "duration_ms": 9335,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7e14f3a63f44eae80a789d4ac8ba8821a2cb33eaf06c7fda9378053799ccd70c",
+  "md_bytes": 17190,
+  "links_found": 82,
+  "files_found": 0
+}

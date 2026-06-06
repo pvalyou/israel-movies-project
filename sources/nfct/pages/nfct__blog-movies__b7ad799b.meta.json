@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הרעב-ומערכת-העיכול-של-התקשורת/",
+  "stable_id": "nfct__blog-movies__b7ad799b",
+  "fetched_at": "2026-05-09T21:40:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:40:49Z",
+  "duration_ms": 16502,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f87e47a8b1e8bc184fcdf87a3b615c705f44e69a4a7aaab8e5ae8dd563c25b75",
+  "md_bytes": 14935,
+  "links_found": 31,
+  "files_found": 0
+}

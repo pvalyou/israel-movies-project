@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/המהפכה-הצרפתית/",
+  "stable_id": "nfct__blog-movies__9a53cee7",
+  "fetched_at": "2026-05-09T21:28:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:28:20Z",
+  "duration_ms": 24108,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f279bb09f949ee93905b5a4782e06bd0ce4cbc791bb9f6bba7619ee6d9cd49a",
+  "md_bytes": 16441,
+  "links_found": 31,
+  "files_found": 0
+}

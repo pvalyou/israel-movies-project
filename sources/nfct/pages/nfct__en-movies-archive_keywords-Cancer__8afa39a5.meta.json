@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cancer",
+  "stable_id": "nfct__en-movies-archive_keywords-Cancer__8afa39a5",
+  "fetched_at": "2026-05-16T09:42:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:42:04Z",
+  "duration_ms": 7912,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a21aae4e80cec1155fb13a349a7fca7ebbfe7e1b60299ed0086974178748da6d",
+  "md_bytes": 13925,
+  "links_found": 77,
+  "files_found": 0
+}

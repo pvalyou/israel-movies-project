@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/status-quo/#UArexazDFN",
+  "stable_id": "nfct__en-movies-status-quo__137047b2",
+  "fetched_at": "2026-05-16T17:06:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:06:56Z",
+  "duration_ms": 12847,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53268268d69675f3f566620ee848457db7266f182f8b83dc07ffcf5230e36276",
+  "md_bytes": 11256,
+  "links_found": 27,
+  "files_found": 0
+}

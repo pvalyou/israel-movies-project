@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more/breakfast-nitsan-cohen/?lang=en",
+  "stable_id": "makor__more-breakfast-nitsan-cohen_lang-en__a0b44c7b",
+  "fetched_at": "2026-05-09T12:15:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:15:17Z",
+  "duration_ms": 9428,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2713f34fb87aa13c675eb2014d2e4611610dbff3381ad587a5eb85b489d9ccff",
+  "md_bytes": 1333,
+  "links_found": 1,
+  "files_found": 0
+}

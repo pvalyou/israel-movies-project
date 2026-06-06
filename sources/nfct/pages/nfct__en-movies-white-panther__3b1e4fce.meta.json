@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/white-panther/",
+  "stable_id": "nfct__en-movies-white-panther__3b1e4fce",
+  "fetched_at": "2026-05-11T15:49:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:49:45Z",
+  "duration_ms": 21445,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f3897e44216092e8e0dd5210fabb734b9b9dd8f682afe1762e9e7a0986f1075",
+  "md_bytes": 15004,
+  "links_found": 33,
+  "files_found": 0
+}

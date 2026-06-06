@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mental%20disability",
+  "stable_id": "nfct__en-movies-archive_keywords-mental-20disability__feb8a7a7",
+  "fetched_at": "2026-05-16T14:32:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:32:59Z",
+  "duration_ms": 30586,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c905e58d014c887b348ae60c83dc04ccba3521839da6e97b904ff290f6f003aa",
+  "md_bytes": 10039,
+  "links_found": 68,
+  "files_found": 0
+}

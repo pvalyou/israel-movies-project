@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/channels-of-rage/#UAMainContent",
+  "stable_id": "nfct__en-movies-channels-of-rage__41c53081",
+  "fetched_at": "2026-05-16T06:58:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:58:12Z",
+  "duration_ms": 6781,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f5bf54cb5e8740b1b936252486630d0e108a3c8f7a381f2aaeb39b47b5d0676e",
+  "md_bytes": 15586,
+  "links_found": 42,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=symbol",
+  "stable_id": "nfct__en-movies-archive_keywords-symbol__b1f0e997",
+  "fetched_at": "2026-05-16T07:52:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:52:10Z",
+  "duration_ms": 6912,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4ab58857422c611748d5673e0901902e4a1ab592275d20506272d1436b568545",
+  "md_bytes": 15327,
+  "links_found": 80,
+  "files_found": 0
+}

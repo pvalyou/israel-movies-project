@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mirror-image/",
+  "stable_id": "nfct__en-movies-mirror-image__7f427e0b",
+  "fetched_at": "2026-05-11T13:00:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:00:23Z",
+  "duration_ms": 25321,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fda921561654cb0e24c212c25aef815c08fbdb1e29b3a685c6a4ad9050d9b0d7",
+  "md_bytes": 11736,
+  "links_found": 34,
+  "files_found": 0
+}

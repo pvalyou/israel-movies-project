@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/next-year-in-jerusalem/#UAMainContent",
+  "stable_id": "nfct__en-movies-next-year-in-jerusalem__5530d74a",
+  "fetched_at": "2026-05-16T16:45:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:45:07Z",
+  "duration_ms": 11296,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:11acbfd69cbf946e2ec5109555db7ba77dbe7b1655315da21b4f8319f72ccf80",
+  "md_bytes": 14929,
+  "links_found": 40,
+  "files_found": 0
+}

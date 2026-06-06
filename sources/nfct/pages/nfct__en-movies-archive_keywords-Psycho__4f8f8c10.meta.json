@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Psycho",
+  "stable_id": "nfct__en-movies-archive_keywords-Psycho__4f8f8c10",
+  "fetched_at": "2026-05-16T17:09:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:09:00Z",
+  "duration_ms": 11167,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:211bd2d210987c816fc8d3a090d38e1b9cec52d0b923eb243cf560fef6a7d21b",
+  "md_bytes": 16286,
+  "links_found": 82,
+  "files_found": 0
+}

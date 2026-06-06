@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mother%20and%20daughter",
+  "stable_id": "nfct__en-movies-archive_keywords-Mother-20and-20daughter__d65fa456",
+  "fetched_at": "2026-05-16T14:24:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:24:37Z",
+  "duration_ms": 6344,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6398dc01bb83140e304f62c931a188ce683a5b046d6726f57b3290800677ea51",
+  "md_bytes": 16779,
+  "links_found": 82,
+  "files_found": 0
+}

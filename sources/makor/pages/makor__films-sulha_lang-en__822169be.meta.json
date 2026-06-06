@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/sulha/?lang=en",
+  "stable_id": "makor__films-sulha_lang-en__822169be",
+  "fetched_at": "2026-05-09T13:08:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:01Z",
+  "duration_ms": 7379,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc7acf725436369741ea5a065718854a76efb20f7a9b6418085204b4826dce07",
+  "md_bytes": 2157,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Interpersonal+Communication",
+  "stable_id": "nfct__en-movies-archive_keywords-Interpersonal-Communication__0899d326",
+  "fetched_at": "2026-05-16T06:41:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:41:05Z",
+  "duration_ms": 6188,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c6792147c834b7fe1da600894a6808e224b788da7625d22a0ab463b1b6c65a32",
+  "md_bytes": 9829,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bonfire",
+  "stable_id": "nfct__en-movies-archive_keywords-bonfire__236d220b",
+  "fetched_at": "2026-05-16T16:01:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:01:27Z",
+  "duration_ms": 9193,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b851ce8af0229e1d2f377b33f500a533e2e18764516b019dcccf0a226f11551d",
+  "md_bytes": 9978,
+  "links_found": 68,
+  "files_found": 0
+}

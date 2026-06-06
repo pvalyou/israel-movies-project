@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=4Shbab",
+  "stable_id": "nfct__en-movies-archive_keywords-4Shbab__92ae2dbb",
+  "fetched_at": "2026-05-16T03:14:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:14:41Z",
+  "duration_ms": 10187,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84a594545ed9ffcaddd74d6cd2a333acf132a6777f07dbec746caad1470eab6d",
+  "md_bytes": 9969,
+  "links_found": 68,
+  "files_found": 0
+}

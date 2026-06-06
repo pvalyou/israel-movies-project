@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=humanity",
+  "stable_id": "nfct__en-movies-archive_keywords-humanity__1880b200",
+  "fetched_at": "2026-05-16T14:23:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:23:58Z",
+  "duration_ms": 8511,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:36eb238030cd251a03f04c82595e509537f312fb616ca1a6469cc356c18f4558",
+  "md_bytes": 10974,
+  "links_found": 71,
+  "files_found": 0
+}

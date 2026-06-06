@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/made-in-israel-diamonds/",
+  "stable_id": "nfct__en-movies-made-in-israel-diamonds__9bd26acf",
+  "fetched_at": "2026-05-11T03:20:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:20:03Z",
+  "duration_ms": 35084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9cf4d553adf7899a74452c2abc566641c7bd5fc06bcae36f01a811573e347406",
+  "md_bytes": 13717,
+  "links_found": 33,
+  "files_found": 0
+}

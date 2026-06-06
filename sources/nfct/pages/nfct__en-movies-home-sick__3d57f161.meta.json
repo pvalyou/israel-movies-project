@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/home-sick/",
+  "stable_id": "nfct__en-movies-home-sick__3d57f161",
+  "fetched_at": "2026-05-11T21:52:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:52:45Z",
+  "duration_ms": 15792,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f87dede2c890c984ae77c1f31b1195f7112e4688b0efc0b0ea82d0405d56c645",
+  "md_bytes": 13129,
+  "links_found": 32,
+  "files_found": 0
+}

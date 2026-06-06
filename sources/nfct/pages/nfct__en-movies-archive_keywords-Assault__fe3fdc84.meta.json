@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Assault",
+  "stable_id": "nfct__en-movies-archive_keywords-Assault__fe3fdc84",
+  "fetched_at": "2026-05-16T06:43:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:43:33Z",
+  "duration_ms": 7450,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6124fbbc2db1a2b966a496f02c2d3f5c27f694c81f3236c0649e49566e574cb7",
+  "md_bytes": 12067,
+  "links_found": 72,
+  "files_found": 0
+}

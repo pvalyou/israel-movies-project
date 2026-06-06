@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hakoach%20Vienna",
+  "stable_id": "nfct__en-movies-archive_keywords-Hakoach-20Vienna__db87488f",
+  "fetched_at": "2026-05-16T16:40:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:40:35Z",
+  "duration_ms": 8554,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de1e37ad0cb6e5888c07c1cffd7fb946850700ed3e63201b1d2453570317f8a2",
+  "md_bytes": 9881,
+  "links_found": 67,
+  "files_found": 0
+}

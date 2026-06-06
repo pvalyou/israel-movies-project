@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/raging-dove/",
+  "stable_id": "nfct__en-movies-raging-dove__a484da00",
+  "fetched_at": "2026-05-11T02:50:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:50:19Z",
+  "duration_ms": 18392,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e70ce2b101587a812b1763a744e4d5b27c5472915d43e852192a1c27847123c9",
+  "md_bytes": 12887,
+  "links_found": 34,
+  "files_found": 0
+}

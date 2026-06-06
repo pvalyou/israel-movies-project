@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Emperor%20of%20Ethiopia",
+  "stable_id": "nfct__en-movies-archive_keywords-Emperor-20of-20Ethiopia__a237f05b",
+  "fetched_at": "2026-05-16T11:02:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:02:15Z",
+  "duration_ms": 9658,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:937d8f9ea69a8f4e8e4ba011902201c6247b678a1f250279ed55e946e0db3777",
+  "md_bytes": 10028,
+  "links_found": 68,
+  "files_found": 0
+}

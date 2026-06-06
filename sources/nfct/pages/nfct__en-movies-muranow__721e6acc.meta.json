@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/muranow/",
+  "stable_id": "nfct__en-movies-muranow__721e6acc",
+  "fetched_at": "2026-05-11T20:08:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:08:47Z",
+  "duration_ms": 50795,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eec83c5928dc3eb273333cc12119e27603444a9d9f779de178ad417410ac96b8",
+  "md_bytes": 13792,
+  "links_found": 44,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-החבר-הערבי-שלי-נגה-נצר-yes-דוקו-8/",
+  "stable_id": "nfct__events-event------------yes---8__5e5ff5e8",
+  "fetched_at": "2026-05-10T06:11:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:11:21Z",
+  "duration_ms": 25923,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2d5dc740e94e078011a5568dc2db73f28449323aa107b7801297fb6b144b85e4",
+  "md_bytes": 10326,
+  "links_found": 21,
+  "files_found": 0
+}

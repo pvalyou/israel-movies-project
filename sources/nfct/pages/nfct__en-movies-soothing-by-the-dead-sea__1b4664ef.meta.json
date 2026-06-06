@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/soothing-by-the-dead-sea/",
+  "stable_id": "nfct__en-movies-soothing-by-the-dead-sea__1b4664ef",
+  "fetched_at": "2026-05-11T18:37:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:37:26Z",
+  "duration_ms": 38705,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8d6566063f002ef767037b9029bf391cef7cd5fb7634d4d63b481d8f767b331",
+  "md_bytes": 12939,
+  "links_found": 40,
+  "files_found": 0
+}

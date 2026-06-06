@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/in-pigeons-blood/?lang=en",
+  "stable_id": "makor__films-in-pigeons-blood_lang-en__cf943851",
+  "fetched_at": "2026-05-09T13:00:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:00:05Z",
+  "duration_ms": 20842,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:905addddc31190440135ae957b43332d3de1b58ac0229ee37d2f385e4ddb6d35",
+  "md_bytes": 2539,
+  "links_found": 4,
+  "files_found": 0
+}

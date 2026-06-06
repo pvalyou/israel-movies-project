@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gaming",
+  "stable_id": "nfct__en-movies-archive_keywords-Gaming__5a641c30",
+  "fetched_at": "2026-05-16T14:23:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:23:00Z",
+  "duration_ms": 7763,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ad527d1db4ecdf90f537bc28abb38fc19a7277ba39b997c3bbb231c8870d9b1",
+  "md_bytes": 9787,
+  "links_found": 67,
+  "files_found": 0
+}

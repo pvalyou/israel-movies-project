@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/portrait/",
+  "stable_id": "nfct__en-movies-portrait__3658acae",
+  "fetched_at": "2026-05-11T18:34:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:34:57Z",
+  "duration_ms": 8090,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a7f0074bac26766d38551a8ae14fa4334ce679c0667c22e07864471689252584",
+  "md_bytes": 13603,
+  "links_found": 41,
+  "files_found": 0
+}

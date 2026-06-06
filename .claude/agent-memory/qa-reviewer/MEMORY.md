@@ -1,0 +1,15 @@
+# QA Reviewer Memory Index
+
+- [T22 false-positive pattern — rabinovich_cinema manual pages](t22_rabinovich_no_film_url.md) — rabinovich_cinema manual:// pages never carry film_url; 309 unlinked entries are structural, not a bug
+- [T21 false-positive pattern — plain-text OSINT notes](t21_osint_no_link_pattern.md) — OSINT notes for Film Council members (אריה צרנר, אסנת בוקופצר) are long plain-text blobs with no <a> tag; need link injection or suppress from T21
+- [T05 bug — מנהלת הקרן leaks as profile card (2026-05-27)](t05_junk_role_heading_profile_card.md) — role-title phrase "מנהלת הקרן" renders as person card; is_junk_name() missing מנהלת/מנהל+הקרן pattern
+- [T24 bug — NFCT search URLs in inst_urls (2026-05-29)](t24_search_url_in_inst_urls.md) — search-result URLs leak into inst_urls (film-source-link); is_search_page fix only guards film-crew side; fix: add SEARCH_RESULT_RE to staff_urls filter at line 1398
+- [NS-1 class — English chips (472 unmapped roles, 629 instances)](ns1_critic_role_no_hebrew_label.md) — critic fixed; broader: 251 cards show English chips; top roles: script x47, original_soundtrack x34, sound_editor x32; also junk roles (self x4, character x2, subject x3) appearing as chips
+- [NS-2 — critics haaretz.co.il URL](ns2_critics_canonical_url_wrong.md) — FIXED 2026-05-29; 0 haaretz links in HTML
+- [NS-3 bug — hyphen/underscore role alias pairs as separate chips (2026-05-29)](ns3_role_alias_hyphen_underscore.md) — 5 cards show both 'co-director' and 'co_director' etc.; fix: add pairs to ROLE_NORMALIZE
+- [NS-4 bug — semantic duplicate English chips (2026-05-29)](ns4_semantic_duplicate_chips.md) — 10+ cards show equivalent role variants as separate chips; T18 misses these; fix: ROLE_NORMALIZE + ROLE_LABELS_HE
+- [T34 broken test — years_by_src not in entity_registry (2026-05-29)](t34_broken_test_years_by_src.md) — T34 always passes silently; years_by_src is in-memory only; test needs rewrite against HTML
+- [T19 bug — derived-conflict link to unrendered person (2026-06-03)](t19_broken_anchor_unrendered_person.md) — family/derived conflict link emitted for person who gets no profile card (not cross-source, not power, not in film_conflicts); fix: guard href emit with rendered_card_set check
+- [T22 bug — NFCT malformed source entries (2026-06-03)](t22_nfct_malformed_source_entries.md) — 56 nfct source items are URL+crew-text concatenated; film_credits stays empty; 7 unique films render without clickable URL; distinct from rabinovich_cinema no-URL pattern
+- [T26 bug — movies_db cross-source film_id mismatch causes duplicate film entries (2026-06-05)](t26_movies_db_film_dedup_bug.md) — 231 cards / 400 pairs; same film indexed under edb:tXXX vs makor:YYY etc.; render loop emits one row per bucket; fix: post-merge title dedup in person_films()
+- [T22 updated — movies_db no-URL source breakdown (2026-06-05)](t22_movies_db_no_url_sources.md) — 664 unlinked entries from 6 sources (makor 325, edb_persons 291, fund pages ~170); WARN is expected; old rabinovich pattern replaced

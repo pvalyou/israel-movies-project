@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/after-mondrian-kandinsky-klee/",
+  "stable_id": "nfct__en-movies-after-mondrian-kandinsky-klee__8fda3b7e",
+  "fetched_at": "2026-05-16T14:07:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:07:31Z",
+  "duration_ms": 10348,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a265c658c4cf9a1d9444cd3157aac2234cb571ceda0b37d9e035ade9e2fde143",
+  "md_bytes": 12725,
+  "links_found": 31,
+  "files_found": 0
+}

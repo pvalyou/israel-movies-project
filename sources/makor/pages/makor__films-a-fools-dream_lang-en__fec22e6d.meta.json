@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/a-fools-dream/?lang=en",
+  "stable_id": "makor__films-a-fools-dream_lang-en__fec22e6d",
+  "fetched_at": "2026-05-09T13:28:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:28:00Z",
+  "duration_ms": 9267,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07bdc13e864f287d74ec819ce7d40ca3712acbf24d72a2b54c23d75e664bc583",
+  "md_bytes": 2718,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Monologues",
+  "stable_id": "nfct__en-movies-archive_keywords-Monologues__c0b2f98b",
+  "fetched_at": "2026-05-16T14:06:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:06:56Z",
+  "duration_ms": 7245,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffdb97de7d33bba31a89a4337d75458b0a03ceb4e63482127276bbb829665018",
+  "md_bytes": 10583,
+  "links_found": 69,
+  "files_found": 0
+}

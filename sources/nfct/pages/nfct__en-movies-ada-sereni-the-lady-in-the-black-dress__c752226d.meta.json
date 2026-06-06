@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ada-sereni-the-lady-in-the-black-dress/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-ada-sereni-the-lady-in-the-black-dress__c752226d",
+  "fetched_at": "2026-05-16T12:09:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:09:08Z",
+  "duration_ms": 7600,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10060e712343b4ed69558cc3b8ce700a59495c4bf4962d7f2a448ae089570db5",
+  "md_bytes": 14386,
+  "links_found": 38,
+  "files_found": 0
+}

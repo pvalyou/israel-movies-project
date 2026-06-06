@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mickey%20Arbel",
+  "stable_id": "nfct__en-movies-archive_keywords-Mickey-20Arbel__4d1bdcf0",
+  "fetched_at": "2026-05-16T11:19:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:19:32Z",
+  "duration_ms": 7857,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bcd929d7195acc2e8d6518def19658b326d0e6e7d65cfedb51a1110a3725f933",
+  "md_bytes": 10034,
+  "links_found": 68,
+  "files_found": 0
+}

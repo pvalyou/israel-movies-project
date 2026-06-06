@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-dark-side/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-dark-side__e777c268",
+  "fetched_at": "2026-05-16T17:32:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:32:41Z",
+  "duration_ms": 8713,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8572110bc12fa6f8e5c033cecc9f29770c54102f765a3d5fe45aa46b0f203464",
+  "md_bytes": 13119,
+  "links_found": 34,
+  "files_found": 0
+}

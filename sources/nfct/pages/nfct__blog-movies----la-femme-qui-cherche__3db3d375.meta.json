@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האישה-שחיפשה-la-femme-qui-cherche/",
+  "stable_id": "nfct__blog-movies----la-femme-qui-cherche__3db3d375",
+  "fetched_at": "2026-05-09T21:26:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:26:34Z",
+  "duration_ms": 18084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8ce410406d2d4f96c3507f5af8f31a5212246231bb14dbf7ba7449c3c6506b8d",
+  "md_bytes": 20494,
+  "links_found": 44,
+  "files_found": 0
+}

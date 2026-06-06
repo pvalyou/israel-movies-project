@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חלומיים/",
+  "stable_id": "nfct__blog-movies__6a96d540",
+  "fetched_at": "2026-05-09T17:03:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:03:57Z",
+  "duration_ms": 32451,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ba9bb293a3088223f2bbec7bf92cb1c11721f01777d0cb9d5b2705023ab8475",
+  "md_bytes": 13780,
+  "links_found": 33,
+  "files_found": 0
+}

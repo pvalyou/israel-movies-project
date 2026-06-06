@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=phone",
+  "stable_id": "nfct__en-movies-archive_keywords-phone__286876fb",
+  "fetched_at": "2026-05-16T15:51:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:12Z",
+  "duration_ms": 6287,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6941fa85b24f84ce99791d85eb361a00809dd151afd6ddd2daf550e2a82fee55",
+  "md_bytes": 16794,
+  "links_found": 82,
+  "files_found": 0
+}

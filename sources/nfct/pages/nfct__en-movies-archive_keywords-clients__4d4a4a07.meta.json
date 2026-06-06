@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=clients",
+  "stable_id": "nfct__en-movies-archive_keywords-clients__4d4a4a07",
+  "fetched_at": "2026-05-16T16:48:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:48:22Z",
+  "duration_ms": 7064,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b5e603d608699a53de6fff12575d8ea053e863024ba83571e875a0467f8e8c6b",
+  "md_bytes": 10034,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/kichka-telling-myself/?lang=en",
+  "stable_id": "makor__films-kichka-telling-myself_lang-en__9c37be44",
+  "fetched_at": "2026-05-09T13:35:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:35:41Z",
+  "duration_ms": 15406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:adf71bdaa8b4ea17205a47ab01d5cd12bea29ee0f0d90e7e1e11eeb9b7e6d15f",
+  "md_bytes": 452,
+  "links_found": 1,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/and-i-was-there/",
+  "stable_id": "nfct__en-movies-and-i-was-there__e8c24326",
+  "fetched_at": "2026-05-11T19:39:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:39:20Z",
+  "duration_ms": 12269,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2623ed5fd8149a304d6c5e5fed85a3a3ecf8a18ef91c68eb2e3b61efdfec63da",
+  "md_bytes": 14107,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/farewell-herr-schwarz/#UAMainContent",
+  "stable_id": "nfct__en-movies-farewell-herr-schwarz__bed7a892",
+  "fetched_at": "2026-05-16T16:35:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:35:05Z",
+  "duration_ms": 12108,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f6826e7fd0e99d59f7c5ee76521bb2410074138cd38f2658c6aab132e737df8",
+  "md_bytes": 17033,
+  "links_found": 40,
+  "files_found": 0
+}

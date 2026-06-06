@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conversion%20therapy",
+  "stable_id": "nfct__en-movies-archive_keywords-conversion-20therapy__f9580fe5",
+  "fetched_at": "2026-05-16T15:35:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:35:04Z",
+  "duration_ms": 6470,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5f92ff7e919f33f705d611867a59cd49f3158845538eb13e49a42ebd903f9e43",
+  "md_bytes": 10002,
+  "links_found": 68,
+  "files_found": 0
+}

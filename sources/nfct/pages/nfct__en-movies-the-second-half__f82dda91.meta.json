@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-second-half/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-second-half__f82dda91",
+  "fetched_at": "2026-05-16T10:29:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:29:39Z",
+  "duration_ms": 12008,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:00055a975bd28ba110a482fe387e53874d3e8d9a54e69a6d9f5dcc5e2077a9fd",
+  "md_bytes": 12159,
+  "links_found": 37,
+  "files_found": 0
+}

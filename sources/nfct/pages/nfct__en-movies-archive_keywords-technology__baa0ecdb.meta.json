@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=technology",
+  "stable_id": "nfct__en-movies-archive_keywords-technology__baa0ecdb",
+  "fetched_at": "2026-05-16T04:48:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:48:51Z",
+  "duration_ms": 5516,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f81081b43831a5d9636a5b0c6e3b5b60ffbe0243cb10f51ef0a147189c6de62",
+  "md_bytes": 11588,
+  "links_found": 73,
+  "files_found": 0
+}

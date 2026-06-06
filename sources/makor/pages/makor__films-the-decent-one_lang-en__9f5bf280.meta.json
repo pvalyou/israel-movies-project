@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-decent-one/?lang=en",
+  "stable_id": "makor__films-the-decent-one_lang-en__9f5bf280",
+  "fetched_at": "2026-05-09T13:07:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:07:38Z",
+  "duration_ms": 18904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4901f108d8a0e2e94c17d9a010c9229bf678742119fe07e345f4f01eb24390c1",
+  "md_bytes": 2006,
+  "links_found": 4,
+  "files_found": 0
+}

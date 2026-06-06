@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ultra+Orthodox",
+  "stable_id": "nfct__en-movies-archive_keywords-Ultra-Orthodox__a471dbe9",
+  "fetched_at": "2026-05-16T07:29:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:29:39Z",
+  "duration_ms": 8395,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:238f7e0c0fe50cf1e4af78dc0f22af2360cd472045e2648cdf40099e7527eb21",
+  "md_bytes": 16298,
+  "links_found": 82,
+  "files_found": 0
+}

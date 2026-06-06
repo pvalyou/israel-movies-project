@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sephardic+Jews",
+  "stable_id": "nfct__en-movies-archive_keywords-Sephardic-Jews__ce6218cd",
+  "fetched_at": "2026-05-16T12:54:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:54:07Z",
+  "duration_ms": 9539,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b0457722f1266e1ca04ec1e6f933d8dc95d219a6940e4cf2a9aae14df9d22630",
+  "md_bytes": 10103,
+  "links_found": 68,
+  "files_found": 0
+}

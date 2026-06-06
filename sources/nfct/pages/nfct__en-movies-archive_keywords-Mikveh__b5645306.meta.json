@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mikveh",
+  "stable_id": "nfct__en-movies-archive_keywords-Mikveh__b5645306",
+  "fetched_at": "2026-05-16T13:51:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:51:16Z",
+  "duration_ms": 8966,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:294873edf1303d8b636502eef9e752efcb22799de5e0057f6078b7415fe1f9a3",
+  "md_bytes": 9979,
+  "links_found": 68,
+  "files_found": 0
+}

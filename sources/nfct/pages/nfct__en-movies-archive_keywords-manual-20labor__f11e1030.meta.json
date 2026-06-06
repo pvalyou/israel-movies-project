@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=manual%20labor",
+  "stable_id": "nfct__en-movies-archive_keywords-manual-20labor__f11e1030",
+  "fetched_at": "2026-05-16T20:27:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:27:54Z",
+  "duration_ms": 6485,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:15eced9d824b89502552325bb6e4a3e29f6d9bb843dc4410c6793f4c1d543047",
+  "md_bytes": 10175,
+  "links_found": 68,
+  "files_found": 0
+}

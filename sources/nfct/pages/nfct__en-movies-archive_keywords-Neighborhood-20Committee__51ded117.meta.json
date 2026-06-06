@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Neighborhood%20Committee",
+  "stable_id": "nfct__en-movies-archive_keywords-Neighborhood-20Committee__51ded117",
+  "fetched_at": "2026-05-16T13:15:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:15:57Z",
+  "duration_ms": 9559,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f87bb3d50fe31e467555259273670819cc5bf85f4c90fddb46d640edbc68b231",
+  "md_bytes": 10417,
+  "links_found": 69,
+  "files_found": 0
+}

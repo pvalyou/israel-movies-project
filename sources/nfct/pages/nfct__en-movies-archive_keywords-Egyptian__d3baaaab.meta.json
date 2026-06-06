@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Egyptian",
+  "stable_id": "nfct__en-movies-archive_keywords-Egyptian__d3baaaab",
+  "fetched_at": "2026-05-16T06:09:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:09:54Z",
+  "duration_ms": 12005,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56f35c1c0b2035bc7cc321ae1fba9b228c857c86388a6a22b09914b4f7f39226",
+  "md_bytes": 13101,
+  "links_found": 75,
+  "files_found": 0
+}

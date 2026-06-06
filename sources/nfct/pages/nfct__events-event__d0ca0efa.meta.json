@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-קיקי-נתן-רושנסקי-פסטיבל-דוקאבי/",
+  "stable_id": "nfct__events-event__d0ca0efa",
+  "fetched_at": "2026-05-09T22:20:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:20:55Z",
+  "duration_ms": 27984,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bd533e877f2cb16d6d56451bb3b53a162bcbc03b1203ce5517f926f9626d801b",
+  "md_bytes": 12831,
+  "links_found": 28,
+  "files_found": 0
+}

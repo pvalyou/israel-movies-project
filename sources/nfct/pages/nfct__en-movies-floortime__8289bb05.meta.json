@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/floortime/",
+  "stable_id": "nfct__en-movies-floortime__8289bb05",
+  "fetched_at": "2026-05-11T12:36:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:36:23Z",
+  "duration_ms": 29805,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0423740833849c1671c400d0b3761f2723a54e054d2622bc62ece2578ce11baa",
+  "md_bytes": 12478,
+  "links_found": 38,
+  "files_found": 0
+}

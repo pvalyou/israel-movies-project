@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אביב/",
+  "stable_id": "nfct__blog-movies__6b7a8513",
+  "fetched_at": "2026-05-09T20:46:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:46:06Z",
+  "duration_ms": 46584,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:236eb158f840ba6398245b909e5a480a709a55f894faf97587f2d72973e261e4",
+  "md_bytes": 21391,
+  "links_found": 50,
+  "files_found": 0
+}

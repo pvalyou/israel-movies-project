@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=nation",
+  "stable_id": "nfct__en-movies-archive_keywords-nation__1a7ad49c",
+  "fetched_at": "2026-05-16T20:38:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:38:53Z",
+  "duration_ms": 9110,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90f497d0d3b6ee54df587e0c390f5dd5feb353847401979be89ef3a88a006ff0",
+  "md_bytes": 16900,
+  "links_found": 82,
+  "files_found": 0
+}

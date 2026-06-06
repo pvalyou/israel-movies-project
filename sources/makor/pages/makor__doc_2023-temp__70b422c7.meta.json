@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/doc_2023-temp/",
+  "stable_id": "makor__doc_2023-temp__70b422c7",
+  "fetched_at": "2026-05-09T12:01:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:01:07Z",
+  "duration_ms": 17959,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d032f4379493f17fd23a991f9ea8c1adee670a1c33a8364e48b494b5ec205c0",
+  "md_bytes": 4947,
+  "links_found": 1,
+  "files_found": 0
+}

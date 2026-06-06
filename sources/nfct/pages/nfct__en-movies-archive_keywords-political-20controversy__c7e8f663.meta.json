@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=political%20controversy",
+  "stable_id": "nfct__en-movies-archive_keywords-political-20controversy__c7e8f663",
+  "fetched_at": "2026-05-16T17:27:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:27:04Z",
+  "duration_ms": 6175,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4ae6bd9d69d3b10997f26831820199ceeacd57eac77167ded4563b9d513e6985",
+  "md_bytes": 9819,
+  "links_found": 67,
+  "files_found": 0
+}

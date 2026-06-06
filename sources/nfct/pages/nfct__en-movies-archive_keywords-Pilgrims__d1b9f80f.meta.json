@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pilgrims",
+  "stable_id": "nfct__en-movies-archive_keywords-Pilgrims__d1b9f80f",
+  "fetched_at": "2026-05-16T13:19:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:19:39Z",
+  "duration_ms": 10799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08cae13513c140b3b1b023e6d6e50974502dbbbd0b8b2984cc8212e92ae1c2d4",
+  "md_bytes": 10709,
+  "links_found": 69,
+  "files_found": 0
+}

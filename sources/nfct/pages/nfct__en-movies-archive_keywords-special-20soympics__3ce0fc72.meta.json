@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=special%20soympics",
+  "stable_id": "nfct__en-movies-archive_keywords-special-20soympics__3ce0fc72",
+  "fetched_at": "2026-05-16T04:03:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:03:41Z",
+  "duration_ms": 5382,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c1b672ca0e9117276c71368c2b7b4ab60fcc7fbefeff95046066f1ecc9b4c05d",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

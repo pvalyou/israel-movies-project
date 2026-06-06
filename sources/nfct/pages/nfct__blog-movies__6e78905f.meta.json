@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נבדל/",
+  "stable_id": "nfct__blog-movies__6e78905f",
+  "fetched_at": "2026-05-09T19:58:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:58:53Z",
+  "duration_ms": 8578,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e76a8f08e12c9cb6b1bada136e420d838a6f6d0eacebb61148b38fed438287d",
+  "md_bytes": 18449,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/tattooed-for-life/",
+  "stable_id": "nfct__en-movies-tattooed-for-life__f7f2ae7b",
+  "fetched_at": "2026-05-11T13:15:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:15:50Z",
+  "duration_ms": 12557,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c8befa3237c73eec16a97bda1436f16888badbd0e8a40abab71506c7c86ba8f6",
+  "md_bytes": 15753,
+  "links_found": 47,
+  "files_found": 0
+}

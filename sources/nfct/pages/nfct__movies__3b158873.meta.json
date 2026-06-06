@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/כימיה-משפחתית/",
+  "stable_id": "nfct__movies__3b158873",
+  "fetched_at": "2026-05-16T20:34:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:34:06Z",
+  "duration_ms": 7375,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:74c4c5a68f1a2834e70185dc985b99d3273e1a3cdb9ed72ebf47fe33ee79357c",
+  "md_bytes": 8086,
+  "links_found": 21,
+  "files_found": 0
+}

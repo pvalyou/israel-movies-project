@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ukraine",
+  "stable_id": "nfct__en-movies-archive_keywords-Ukraine__14af16b5",
+  "fetched_at": "2026-05-16T06:21:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:21:06Z",
+  "duration_ms": 7711,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d67f8899e2e36ffcdd44fe8c4c67685f9f12a54f9ce645978d8be4add54b8983",
+  "md_bytes": 11829,
+  "links_found": 73,
+  "files_found": 0
+}

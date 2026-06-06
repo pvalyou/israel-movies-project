@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/emil-habibi-i-stayed-in-haifa/",
+  "stable_id": "nfct__en-movies-emil-habibi-i-stayed-in-haifa__1a5aadce",
+  "fetched_at": "2026-05-10T23:47:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T23:47:37Z",
+  "duration_ms": 25457,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c9b8642a7d5a59dc7420aee17b91d9f9e0affd32de820ba4267963da4355e896",
+  "md_bytes": 15784,
+  "links_found": 44,
+  "files_found": 0
+}

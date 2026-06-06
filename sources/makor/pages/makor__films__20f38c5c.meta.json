@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/בוחן-כליות/",
+  "stable_id": "makor__films__20f38c5c",
+  "fetched_at": "2026-05-09T13:03:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:28Z",
+  "duration_ms": 11427,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0823629b2c0f96f5b0209a3051a6d41154f26b119505c9a56e3fdae66ee69aee",
+  "md_bytes": 2725,
+  "links_found": 4,
+  "files_found": 0
+}

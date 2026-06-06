@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=nalanda",
+  "stable_id": "nfct__en-movies-archive_keywords-nalanda__e3dccd24",
+  "fetched_at": "2026-05-16T16:26:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:26:32Z",
+  "duration_ms": 9093,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0eb2f87b92d30a5bda44c8a8c0209d654b21a345bdc8def6259ac420568c0c42",
+  "md_bytes": 10053,
+  "links_found": 68,
+  "files_found": 0
+}

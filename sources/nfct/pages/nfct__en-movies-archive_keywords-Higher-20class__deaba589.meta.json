@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Higher%20class",
+  "stable_id": "nfct__en-movies-archive_keywords-Higher-20class__deaba589",
+  "fetched_at": "2026-05-16T15:15:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:15:59Z",
+  "duration_ms": 10355,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ea361d8f0e62932d8d052af88e43c2ee110d0c5c1d9da5de50924016ebc2c28",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

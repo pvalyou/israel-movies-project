@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/הגשות-בתחום-התיעודי/",
+  "stable_id": "nfct__blog__b58c0c13",
+  "fetched_at": "2026-05-09T16:13:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:13:19Z",
+  "duration_ms": 45334,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d59105693b3b98d4e572d8be1112e55c2866eda5accbbb9b64214983fbb9b1ef",
+  "md_bytes": 8592,
+  "links_found": 20,
+  "files_found": 0
+}

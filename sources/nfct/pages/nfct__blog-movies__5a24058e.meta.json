@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מראות/",
+  "stable_id": "nfct__blog-movies__5a24058e",
+  "fetched_at": "2026-05-09T22:10:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:10:47Z",
+  "duration_ms": 59060,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:262ec3e5317af8364cd36af31a27ada7d90ca7ef46ff6c4894101735b07b3b3b",
+  "md_bytes": 16757,
+  "links_found": 42,
+  "files_found": 0
+}

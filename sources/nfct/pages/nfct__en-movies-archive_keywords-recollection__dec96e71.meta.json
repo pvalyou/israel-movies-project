@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=recollection",
+  "stable_id": "nfct__en-movies-archive_keywords-recollection__dec96e71",
+  "fetched_at": "2026-05-16T12:17:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:17:49Z",
+  "duration_ms": 10526,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07a59abcb976ba51ec9b79663440fd9413e51cb288547f7862e5600cdee75dbf",
+  "md_bytes": 10011,
+  "links_found": 68,
+  "files_found": 0
+}

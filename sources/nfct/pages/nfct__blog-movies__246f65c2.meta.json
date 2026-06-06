@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ההורים-שלי/",
+  "stable_id": "nfct__blog-movies__246f65c2",
+  "fetched_at": "2026-05-09T17:28:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:28:36Z",
+  "duration_ms": 48059,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b9be08b8fdaa68dba7c2d640e9d6fca502de387abf8923cfd145cf11a29b544d",
+  "md_bytes": 19980,
+  "links_found": 41,
+  "files_found": 0
+}

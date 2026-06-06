@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Henry+Kissinger",
+  "stable_id": "nfct__en-movies-archive_keywords-Henry-Kissinger__2332d2b6",
+  "fetched_at": "2026-05-16T15:56:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:56:53Z",
+  "duration_ms": 7071,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a5a18097b61c9faf8b6de45464895d77ae22260ebe23ece6733d1e75c859f057",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-country-calls-you/",
+  "stable_id": "arava_film_fund__en-movies-the-country-calls-you__fce67a8a",
+  "fetched_at": "2026-05-08T09:41:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:41:15Z",
+  "duration_ms": 5783,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2471e8aa567e8388582c631e10f250eb1f715bc6516e6d965474819617429aa4",
+  "md_bytes": 3309,
+  "links_found": 9,
+  "files_found": 0
+}

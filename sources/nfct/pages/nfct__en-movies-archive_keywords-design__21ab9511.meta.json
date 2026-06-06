@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=design",
+  "stable_id": "nfct__en-movies-archive_keywords-design__21ab9511",
+  "fetched_at": "2026-05-16T13:57:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:57:25Z",
+  "duration_ms": 7099,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:830610399d3ac6683879fa9f72198edca2d871f8d524479d4707bfde8bdf7304",
+  "md_bytes": 13934,
+  "links_found": 76,
+  "files_found": 0
+}

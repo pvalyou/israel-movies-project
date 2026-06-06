@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/via-dolorosa/",
+  "stable_id": "nfct__en-movies-via-dolorosa__a40e4ce2",
+  "fetched_at": "2026-05-11T13:40:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:40:23Z",
+  "duration_ms": 17694,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a9d5d6cfa276d03c52de4ed03c02190c3b72adb1c4380a668afb5c41100841c",
+  "md_bytes": 14163,
+  "links_found": 45,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mount+Meron",
+  "stable_id": "nfct__en-movies-archive_keywords-Mount-Meron__3b577d18",
+  "fetched_at": "2026-05-16T13:55:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:55:33Z",
+  "duration_ms": 6662,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1da89ad99e2868b0f7c2637bd0983a76468b76b495e0282a7238ff34ec973d25",
+  "md_bytes": 10506,
+  "links_found": 69,
+  "files_found": 0
+}

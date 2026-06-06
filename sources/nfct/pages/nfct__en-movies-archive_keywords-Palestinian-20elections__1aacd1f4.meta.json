@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian%20elections",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-20elections__1aacd1f4",
+  "fetched_at": "2026-05-16T05:46:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:46:06Z",
+  "duration_ms": 6064,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05f76ca972525cbf35bfb3c546292c76da9d5dfbc895e7296f097c94b71ca24a",
+  "md_bytes": 10364,
+  "links_found": 69,
+  "files_found": 0
+}

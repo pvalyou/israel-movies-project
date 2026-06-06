@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zvi+Zamir",
+  "stable_id": "nfct__en-movies-archive_keywords-Zvi-Zamir__5eb740c0",
+  "fetched_at": "2026-05-16T16:34:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:53Z",
+  "duration_ms": 6277,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:125d248fe3db8831e095e15fdc2c6bf059a86921f00c5ea79421d6d0fc1fd805",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

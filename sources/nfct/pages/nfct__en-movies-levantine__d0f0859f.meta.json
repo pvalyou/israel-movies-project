@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/levantine/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-levantine__d0f0859f",
+  "fetched_at": "2026-05-16T15:02:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:02:50Z",
+  "duration_ms": 7090,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:811169c5b34816d83d3c89414f14a5b2b01501b17ee2121e5d9f1ec7f75358fa",
+  "md_bytes": 15472,
+  "links_found": 46,
+  "files_found": 0
+}

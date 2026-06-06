@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/זום-זום/",
+  "stable_id": "nfct__blog-movies__3db07626",
+  "fetched_at": "2026-05-09T21:49:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:49:43Z",
+  "duration_ms": 10463,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c514c841bb3ca16c002cb107cd5193bea0a3baa3714dc2b2990e9b6b25c6bc9",
+  "md_bytes": 13613,
+  "links_found": 33,
+  "files_found": 0
+}

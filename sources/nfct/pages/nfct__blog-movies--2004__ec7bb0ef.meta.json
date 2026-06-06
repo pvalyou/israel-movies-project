@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מבטים-2004-הפנים-של-המדינה/",
+  "stable_id": "nfct__blog-movies--2004__ec7bb0ef",
+  "fetched_at": "2026-05-09T21:44:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:44:21Z",
+  "duration_ms": 7994,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a3e047bd590d150080fb1eaaa8d506f6cae2db2c4ba03e478e871902ea70f93",
+  "md_bytes": 25982,
+  "links_found": 51,
+  "files_found": 0
+}

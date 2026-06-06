@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bubbles/",
+  "stable_id": "nfct__en-movies-bubbles__ef87a462",
+  "fetched_at": "2026-05-11T22:39:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:39:30Z",
+  "duration_ms": 17147,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a2621dfa0fafa38908556c042b63eb53fe66d135b7cfbe221a20c4a1e7b4db2f",
+  "md_bytes": 12260,
+  "links_found": 34,
+  "files_found": 0
+}

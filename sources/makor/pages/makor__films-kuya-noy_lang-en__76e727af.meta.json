@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/kuya-noy/?lang=en",
+  "stable_id": "makor__films-kuya-noy_lang-en__76e727af",
+  "fetched_at": "2026-05-09T13:15:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:06Z",
+  "duration_ms": 25193,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d4ca2953381a2871b1bdaaa6575d4f6f07cb121950e7464dd3e366e63cf94949",
+  "md_bytes": 1956,
+  "links_found": 4,
+  "files_found": 0
+}

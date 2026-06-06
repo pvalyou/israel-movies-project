@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המוזיאון-רן-טל-סינמטק-שדרות-6/",
+  "stable_id": "nfct__events-event------------6__a4f5e81a",
+  "fetched_at": "2026-05-10T02:39:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:39:37Z",
+  "duration_ms": 11117,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:babd89c510f312853cb3b0e512f38e0a278893921b57bba4c408b8084996fa54",
+  "md_bytes": 9772,
+  "links_found": 22,
+  "files_found": 0
+}

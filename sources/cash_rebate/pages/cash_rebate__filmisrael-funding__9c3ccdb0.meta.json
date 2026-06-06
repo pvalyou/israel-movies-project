@@ -1,0 +1,23 @@
+{
+  "url": "https://www.israel-trade.net/filmisrael/funding",
+  "stable_id": "cash_rebate__filmisrael-funding__9c3ccdb0",
+  "fetched_at": "2026-05-09T10:50:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:50:58Z",
+  "duration_ms": 5572,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f10cc96d3802bfb7d2420465ae79438ee62093b3916e6787191967ed15064ac",
+  "md_bytes": 2877,
+  "links_found": 2,
+  "files_found": 1
+}

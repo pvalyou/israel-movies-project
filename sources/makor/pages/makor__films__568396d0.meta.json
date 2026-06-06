@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ויהי-אור/",
+  "stable_id": "makor__films__568396d0",
+  "fetched_at": "2026-05-09T12:51:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:51:17Z",
+  "duration_ms": 8919,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:72c9e8167e8025e0fe5fcb309a32a54d24ec7d33eef491736ad9dcf9e25b2125",
+  "md_bytes": 2277,
+  "links_found": 4,
+  "files_found": 0
+}

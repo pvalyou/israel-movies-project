@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=granddaughter",
+  "stable_id": "nfct__en-movies-archive_keywords-granddaughter__04c475de",
+  "fetched_at": "2026-05-16T17:28:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:28:16Z",
+  "duration_ms": 7543,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb658cd1f05ea2a75f4b882304c9f22e488281eb068ca7a28eda9380c2898f54",
+  "md_bytes": 11458,
+  "links_found": 72,
+  "files_found": 0
+}

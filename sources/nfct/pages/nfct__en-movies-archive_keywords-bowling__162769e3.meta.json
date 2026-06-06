@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bowling",
+  "stable_id": "nfct__en-movies-archive_keywords-bowling__162769e3",
+  "fetched_at": "2026-05-16T04:03:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:03:17Z",
+  "duration_ms": 8571,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8b9180b62dad9edab8b6020fc2cc2f5a041f25afbf75a6f401dce889683131ec",
+  "md_bytes": 10324,
+  "links_found": 68,
+  "files_found": 0
+}

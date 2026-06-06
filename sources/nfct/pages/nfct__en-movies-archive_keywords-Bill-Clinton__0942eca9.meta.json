@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bill+Clinton",
+  "stable_id": "nfct__en-movies-archive_keywords-Bill-Clinton__0942eca9",
+  "fetched_at": "2026-05-16T20:16:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:23Z",
+  "duration_ms": 6679,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a36bbc3e745e142fd206581160838cc19188026d6b3c8978ec8696ccdf1bbdb4",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

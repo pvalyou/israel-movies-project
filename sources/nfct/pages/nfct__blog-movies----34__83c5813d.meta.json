@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כלום-מלבד-34-ציורים/",
+  "stable_id": "nfct__blog-movies----34__83c5813d",
+  "fetched_at": "2026-05-09T19:50:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:50:03Z",
+  "duration_ms": 29656,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:576f4696548ce08b6bc4a900f5c0f2b0e737944f5e12b0c2995247417051f8f9",
+  "md_bytes": 19176,
+  "links_found": 41,
+  "files_found": 0
+}

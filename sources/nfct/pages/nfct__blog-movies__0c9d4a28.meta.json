@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עשני-פשוטה/",
+  "stable_id": "nfct__blog-movies__0c9d4a28",
+  "fetched_at": "2026-05-09T20:30:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:30:18Z",
+  "duration_ms": 64156,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:26d8df7ce3aace4d621e6bcb985937487573d3a39783bf53afcf34c32ed6f59a",
+  "md_bytes": 18588,
+  "links_found": 44,
+  "files_found": 0
+}

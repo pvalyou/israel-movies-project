@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=shared+society",
+  "stable_id": "nfct__en-movies-archive_keywords-shared-society__d152a49d",
+  "fetched_at": "2026-05-16T12:33:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:25Z",
+  "duration_ms": 8196,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0392ec7f7147f2cd32ef2b89ed57b11ea6a8041b91e86c213630a489e2e69975",
+  "md_bytes": 10305,
+  "links_found": 68,
+  "files_found": 0
+}

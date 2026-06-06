@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/היינו-פצצה-מפורזת/",
+  "stable_id": "makor__films__39883dcd",
+  "fetched_at": "2026-05-09T12:58:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:58:06Z",
+  "duration_ms": 17174,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e52cf96461ac70467198d146b94ccc6c17d2040a191db77b4b00045279521b8a",
+  "md_bytes": 3554,
+  "links_found": 4,
+  "files_found": 0
+}

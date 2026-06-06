@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/עד-שיכאב/",
+  "stable_id": "makor__films__3c7c533d",
+  "fetched_at": "2026-05-09T13:24:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:24:11Z",
+  "duration_ms": 16195,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2e9631960876ce3bce24c443f35c2db0244a35aca9e7c9286452f89e4832ef3",
+  "md_bytes": 1966,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=art.+Music",
+  "stable_id": "nfct__en-movies-archive_keywords-art.-Music__40bdae72",
+  "fetched_at": "2026-05-16T16:05:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:05:12Z",
+  "duration_ms": 7739,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc84592877f0d09b26e6c13f97e8b0b5ba615eeb0dc10082daf9824088c372e0",
+  "md_bytes": 11385,
+  "links_found": 70,
+  "files_found": 0
+}

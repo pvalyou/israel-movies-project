@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lena+Kuchler",
+  "stable_id": "nfct__en-movies-archive_keywords-Lena-Kuchler__8febb043",
+  "fetched_at": "2026-05-16T10:16:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:16:14Z",
+  "duration_ms": 7543,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0104f9890e03d0b43ca47bf05b609bac630dd21da199695dfbeab17acd620cab",
+  "md_bytes": 10026,
+  "links_found": 68,
+  "files_found": 0
+}

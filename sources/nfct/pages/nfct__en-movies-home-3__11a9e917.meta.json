@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/home-3/",
+  "stable_id": "nfct__en-movies-home-3__11a9e917",
+  "fetched_at": "2026-05-11T13:33:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:33:33Z",
+  "duration_ms": 30400,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a6e16eb0e3f37f0f5ae434f5acd0696169431dfb53889c778990e48d70dd2ef2",
+  "md_bytes": 14136,
+  "links_found": 37,
+  "files_found": 0
+}

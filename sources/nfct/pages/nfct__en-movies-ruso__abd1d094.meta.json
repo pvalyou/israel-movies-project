@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ruso/",
+  "stable_id": "nfct__en-movies-ruso__abd1d094",
+  "fetched_at": "2026-05-11T19:19:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:19:15Z",
+  "duration_ms": 14455,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c03a1e50aeb4487f97fa89323453314c1bbda0eec689256be4d7583a9633465",
+  "md_bytes": 11730,
+  "links_found": 32,
+  "files_found": 0
+}

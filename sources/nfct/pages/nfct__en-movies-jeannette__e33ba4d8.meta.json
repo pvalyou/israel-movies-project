@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/jeannette/#UAMainContent",
+  "stable_id": "nfct__en-movies-jeannette__e33ba4d8",
+  "fetched_at": "2026-05-16T03:25:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:25:42Z",
+  "duration_ms": 7588,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:33eb54ffdb91497e9b0ad25d47489471643437d97bf672f2b069fc7324d49afc",
+  "md_bytes": 12033,
+  "links_found": 34,
+  "files_found": 0
+}

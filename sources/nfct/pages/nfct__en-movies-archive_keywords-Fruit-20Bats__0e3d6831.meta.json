@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fruit%20Bats",
+  "stable_id": "nfct__en-movies-archive_keywords-Fruit-20Bats__0e3d6831",
+  "fetched_at": "2026-05-16T13:12:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:12:09Z",
+  "duration_ms": 7552,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2020eb47170aab05452efec7f0651fa2e2e22b9a50293692e0b49671cb54222c",
+  "md_bytes": 10131,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hevra%20Kadisha",
+  "stable_id": "nfct__en-movies-archive_keywords-Hevra-20Kadisha__ad653034",
+  "fetched_at": "2026-05-16T13:54:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:54:44Z",
+  "duration_ms": 9294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc99226ca2260ba4b5f19d2c10dbc1586e34f09e48a842f29ef90359f1a51c7e",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

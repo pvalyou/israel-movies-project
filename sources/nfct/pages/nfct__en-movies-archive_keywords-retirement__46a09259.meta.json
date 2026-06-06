@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=retirement",
+  "stable_id": "nfct__en-movies-archive_keywords-retirement__46a09259",
+  "fetched_at": "2026-05-16T14:43:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:43:43Z",
+  "duration_ms": 13502,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2535b9239a10aa3a6f6f5918a274ea5ede4fab5d3dbdc827a0e5796b9ba58de4",
+  "md_bytes": 11417,
+  "links_found": 71,
+  "files_found": 0
+}

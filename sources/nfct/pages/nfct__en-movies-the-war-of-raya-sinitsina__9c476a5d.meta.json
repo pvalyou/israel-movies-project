@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-war-of-raya-sinitsina/",
+  "stable_id": "nfct__en-movies-the-war-of-raya-sinitsina__9c476a5d",
+  "fetched_at": "2026-05-11T18:29:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:29:09Z",
+  "duration_ms": 19903,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05972c14ca0e8c2512cd152a28093cf69a98913fc91a79e01608a645316eddcb",
+  "md_bytes": 16702,
+  "links_found": 40,
+  "files_found": 0
+}

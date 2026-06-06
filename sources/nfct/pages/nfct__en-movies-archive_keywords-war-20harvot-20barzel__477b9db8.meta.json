@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=war%20harvot%20barzel",
+  "stable_id": "nfct__en-movies-archive_keywords-war-20harvot-20barzel__477b9db8",
+  "fetched_at": "2026-05-16T12:12:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:12:28Z",
+  "duration_ms": 9078,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a726ece687b2b227d7090cd1c1c3f688e01cfb1aa2910821e55c0ff106ee6c28",
+  "md_bytes": 10173,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=dwellers",
+  "stable_id": "nfct__en-movies-archive_keywords-dwellers__fbf43d21",
+  "fetched_at": "2026-05-16T14:09:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:09:24Z",
+  "duration_ms": 6674,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f6e2ea50335dd4f39a9bca1f07834b205d75165e2e6ef0e137c1c4f3e2ceb1d",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

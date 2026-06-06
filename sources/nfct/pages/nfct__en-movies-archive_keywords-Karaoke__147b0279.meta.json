@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Karaoke",
+  "stable_id": "nfct__en-movies-archive_keywords-Karaoke__147b0279",
+  "fetched_at": "2026-05-15T21:31:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:31:50Z",
+  "duration_ms": 6426,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f4a8882abcf49b9067dbaa0468a1d266a6bd7b62c4003e7d7a8489574fe5e34",
+  "md_bytes": 9958,
+  "links_found": 68,
+  "files_found": 0
+}

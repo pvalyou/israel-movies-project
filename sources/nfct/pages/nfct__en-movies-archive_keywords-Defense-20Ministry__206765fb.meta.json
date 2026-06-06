@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Defense%20Ministry",
+  "stable_id": "nfct__en-movies-archive_keywords-Defense-20Ministry__206765fb",
+  "fetched_at": "2026-05-16T16:28:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:28:31Z",
+  "duration_ms": 8687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:75532e7696e809b523c34eb3c0eb7473bf7fe59e10a491306176a5a8e5c18c5d",
+  "md_bytes": 10243,
+  "links_found": 68,
+  "files_found": 0
+}

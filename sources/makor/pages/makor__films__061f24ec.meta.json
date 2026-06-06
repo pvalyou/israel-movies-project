@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/נקודות-של-אור/",
+  "stable_id": "makor__films__061f24ec",
+  "fetched_at": "2026-05-09T13:23:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:23:23Z",
+  "duration_ms": 10893,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3496694209c706d32c519b03e03e20eb9566ef0f1e4c01797ae6539524f10a4d",
+  "md_bytes": 4986,
+  "links_found": 4,
+  "files_found": 0
+}

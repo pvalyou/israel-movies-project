@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/עמלים/",
+  "stable_id": "makor__films__cd618553",
+  "fetched_at": "2026-05-09T12:50:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:50:51Z",
+  "duration_ms": 7402,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a60b0014d06f6d19ab3305d137762576dba3df622e715037c97c647e2b462ec6",
+  "md_bytes": 3130,
+  "links_found": 4,
+  "files_found": 0
+}

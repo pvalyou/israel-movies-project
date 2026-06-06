@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sex%20Workers",
+  "stable_id": "nfct__en-movies-archive_keywords-Sex-20Workers__7d506697",
+  "fetched_at": "2026-05-16T14:28:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:28:51Z",
+  "duration_ms": 8094,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d1f9c4641450a1f2d805527778d8124b48835f7d8d5a69890cb8a4fd358af1ce",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

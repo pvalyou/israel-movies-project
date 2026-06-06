@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-jewish-underground/",
+  "stable_id": "nfct__en-movies-the-jewish-underground__7136a32a",
+  "fetched_at": "2026-05-15T09:38:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:38:58Z",
+  "duration_ms": 18194,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a98038e8e60da590e10ef4c265ad804bbb28758101308127c2cf45ca3f99e2b",
+  "md_bytes": 16782,
+  "links_found": 58,
+  "files_found": 0
+}

@@ -1,0 +1,547 @@
+
+=== Run started 2026-05-15T11:09:50.459651 ===
+[11:09:50] Source: filmfund
+[11:09:50] Pages dir: sources/filmfund/pages
+[11:09:50] Output dir: out/filmfund
+[11:09:50] Total .md pages found: 159  |  Already done: 0  |  To process: 159
+[11:09:50] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:09:51] [1/159] OK   0p 3o 0f 0r 0ro  (1.51s)
+[11:09:51]           file: filmfund__ContactUs__a98e3c6c.md
+[11:09:51]           url:  https://intl.filmfund.org.il/ContactUs
+[11:09:52] [2/159] OK   0p 3o 0f 0r 0ro  (1.64s)
+[11:09:52]           file: filmfund__ContentPage-Index-3__09695729.md
+[11:09:52]           url:  https://www.filmfund.org.il/ContentPage/Index/3
+[11:09:52] [3/159] OK   0p 3o 0f 0r 0ro  (1.74s)
+[11:09:52]           file: filmfund__ContactUs__a32f52ab.md
+[11:09:52]           url:  https://www.filmfund.org.il/ContactUs
+[11:09:52] [4/159] OK   0p 2o 0f 0r 0ro  (1.86s)
+[11:09:52]           file: filmfund__ContentPage-Index-4__e230affd.md
+[11:09:52]           url:  https://www.filmfund.org.il/ContentPage/Index/4
+[11:09:53] [5/159] OK   0p 3o 1f 1r 0ro  (2.52s)
+[11:09:53]           file: filmfund__ContentPage_id-10__d2c16971.md
+[11:09:53]           url:  https://filmfund.org.il/ContentPage/?id=10
+[11:09:53] [6/159] OK   0p 2o 0f 2r 1ro  (2.6s)
+[11:09:53]           file: filmfund__ContentPage_id-34__cc611a30.md
+[11:09:53]           url:  https://www.filmfund.org.il/ContentPage/?id=34
+[11:09:53] [7/159] OK   0p 3o 1f 3r 0ro  (3.06s)
+[11:09:53]           file: filmfund__ContentPage_id-10__e47c99fd.md
+[11:09:53]           url:  https://www.filmfund.org.il/ContentPage/?id=10
+[11:09:54] [8/159] OK   0p 2o 0f 2r 5ro  (3.52s)
+[11:09:54]           file: filmfund__ContentPage_id-34__54d584cb.md
+[11:09:54]           url:  https://www.filmfund.org.il/ContentPage?id=34
+[11:09:54] [9/159] OK   0p 3o 0f 2r 0ro  (3.79s)
+[11:09:54]           file: filmfund__ContentPage_id-1121__dbd2717c.md
+[11:09:54]           url:  https://www.filmfund.org.il/ContentPage?id=1121
+[11:09:55] [10/159] OK   0p 2o 0f 1r 1ro  (2.91s)
+[11:09:55]           file: filmfund__ContentPage_id-43__48722eb9.md
+[11:09:55]           url:  https://www.filmfund.org.il/ContentPage?id=43
+[11:09:55] [11/159] OK   1p 3o 1f 3r 0ro  (2.8s)
+[11:09:55]           file: filmfund__Movie-Movies_GenreID-21__c32e925d.md
+[11:09:55]           url:  https://www.filmfund.org.il/Movie/Movies?GenreID=21
+[11:09:56] [12/159] OK   3p 4o 2f 8r 3ro  (6.17s)
+[11:09:56]           file: filmfund__ContentPage_id-1122__5c836967.md
+[11:09:56]           url:  https://www.filmfund.org.il/ContentPage/?id=1122
+[11:09:59] [13/159] OK   0p 6o 0f 11r 0ro  (7.03s)
+[11:09:59]           file: filmfund__ContentPage_id-42__7b6274e0.md
+[11:09:59]           url:  https://www.filmfund.org.il/ContentPage/?id=42
+[11:09:59] [14/159] OK   1p 3o 14f 3r 0ro  (5.15s)
+[11:09:59]           file: filmfund__Movie-Movies_TagID-21__e62add8c.md
+[11:09:59]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=21
+[11:09:59] [15/159] OK   0p 3o 30f 0r 0ro  (6.61s)
+[11:09:59]           file: filmfund__Movie-Movies_GenreID-4__07994477.md
+[11:09:59]           url:  https://www.filmfund.org.il/Movie/Movies?GenreID=4
+[11:09:59] [16/159] OK   0p 4o 0f 4r 5ro  (9.19s)
+[11:09:59]           file: filmfund__ContentPage_id-35__bb2a0bff.md
+[11:09:59]           url:  https://www.filmfund.org.il/ContentPage/?id=35
+[11:10:02] [17/159] OK   0p 3o 10f 12r 0ro  (6.15s)
+[11:10:02]           file: filmfund__Movie-Movies_TagID-37__885ffc44.md
+[11:10:02]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=37
+[11:10:03] [18/159] OK   0p 3o 16f 18r 0ro  (9.03s)
+[11:10:03]           file: filmfund__Movie-Movies_TagID-26__42474e79.md
+[11:10:03]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=26
+[11:10:05] [19/159] OK   3p 4o 1f 7r 6ro  (5.57s)
+[11:10:05]           file: filmfund__Movie_movieId-11__ef86de89.md
+[11:10:05]           url:  https://intl.filmfund.org.il/Movie?movieId=11
+[11:10:07] [20/159] OK   0p 3o 30f 30r 0ro  (13.98s)
+[11:10:07]           file: filmfund__Movie-Movies_TagID-10__0482d6ee.md
+[11:10:07]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=10
+[11:10:07] [21/159] OK   0p 2o 30f 30r 0ro  (14.4s)
+[11:10:07]           file: filmfund__Movie-Movies_TagID-18__406983e6.md
+[11:10:07]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=18
+[11:10:08] [22/159] OK   0p 3o 30f 32r 0ro  (13.75s)
+[11:10:08]           file: filmfund__Movie-Movies_TagID-28__9deab9c6.md
+[11:10:08]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=28
+[11:10:08] [23/159] OK   0p 3o 30f 32r 0ro  (13.79s)
+[11:10:08]           file: filmfund__Movie-Movies_TagID-2__42ae1ffc.md
+[11:10:08]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=2
+[11:10:08] [24/159] OK   0p 3o 15f 17r 0ro  (9.81s)
+[11:10:08]           file: filmfund__Movie-Movies_TagID-5__bd9e6030.md
+[11:10:08]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=5
+[11:10:09] [25/159] OK   33p 4o 3f 9r 33ro  (19.1s)
+[11:10:09]           file: filmfund__ContentPage_id-14__41e795f9.md
+[11:10:09]           url:  https://www.filmfund.org.il/ContentPage/?id=14
+[11:10:10] [26/159] OK   10p 6o 2f 11r 5ro  (7.41s)
+[11:10:10]           file: filmfund__Movie_movieId-14__cc702d8d.md
+[11:10:10]           url:  https://intl.filmfund.org.il/Movie?movieId=14
+[11:10:12] [27/159] OK   0p 2o 30f 30r 0ro  (20.6s)
+[11:10:12]           file: filmfund__Movie-Movies_GenreID-1__8b6dbaca.md
+[11:10:12]           url:  https://www.filmfund.org.il/Movie/Movies?GenreID=1
+[11:10:13] [28/159] OK   15p 7o 1f 23r 15ro  (13.9s)
+[11:10:13]           file: filmfund__Movie_movieId-12__0a6be060.md
+[11:10:13]           url:  https://intl.filmfund.org.il/Movie?movieId=12
+[11:10:14] [29/159] OK   9p 4o 1f 14r 10ro  (9.61s)
+[11:10:14]           file: filmfund__Movie_movieId-17__3f7494d8.md
+[11:10:14]           url:  https://intl.filmfund.org.il/Movie?movieId=17
+[11:10:15] [30/159] OK   6p 4o 1f 12r 9ro  (6.95s)
+[11:10:15]           file: filmfund__Movie_movieId-25__4a16544c.md
+[11:10:15]           url:  https://intl.filmfund.org.il/Movie?movieId=25
+[11:10:17] [31/159] OK   6p 10o 1f 13r 7ro  (8.98s)
+[11:10:17]           file: filmfund__Movie_movieId-20__9574a199.md
+[11:10:17]           url:  https://intl.filmfund.org.il/Movie?movieId=20
+[11:10:17] [32/159] OK   6p 5o 1f 16r 8ro  (8.92s)
+[11:10:17]           file: filmfund__Movie_movieId-24__e003dd3e.md
+[11:10:17]           url:  https://intl.filmfund.org.il/Movie?movieId=24
+[11:10:18] [33/159] OK   9p 7o 1f 16r 16ro  (10.46s)
+[11:10:18]           file: filmfund__Movie_movieId-19__59cb754e.md
+[11:10:18]           url:  https://intl.filmfund.org.il/Movie?movieId=19
+[11:10:18] [34/159] OK   5p 7o 1f 13r 8ro  (8.95s)
+[11:10:18]           file: filmfund__Movie_movieId-26__37b2edc4.md
+[11:10:18]           url:  https://intl.filmfund.org.il/Movie?movieId=26
+[11:10:19] [35/159] OK   12p 6o 1f 12r 13ro  (9.06s)
+[11:10:19]           file: filmfund__Movie_movieId-27__09b83586.md
+[11:10:19]           url:  https://intl.filmfund.org.il/Movie?movieId=27
+[11:10:19] [36/159] OK   0p 3o 30f 61r 0ro  (20.93s)
+[11:10:19]           file: filmfund__Movie-Movies_TagID-4__59354358.md
+[11:10:19]           url:  https://www.filmfund.org.il/Movie/Movies?TagID=4
+[11:10:21] [37/159] OK   16p 8o 1f 17r 18ro  (14.25s)
+[11:10:21]           file: filmfund__Movie_movieId-18__f4d722be.md
+[11:10:21]           url:  https://intl.filmfund.org.il/Movie?movieId=18
+[11:10:21] [38/159] OK   17p 3o 1f 19r 35ro  (18.73s)
+[11:10:21]           file: filmfund__Movie_movieId-12__3d24bcb7.md
+[11:10:21]           url:  https://www.filmfund.org.il/Movie?movieId=12
+[11:10:26] [39/159] OK   13p 8o 1f 22r 18ro  (11.86s)
+[11:10:26]           file: filmfund__Movie_movieId-30__9b8d2d9b.md
+[11:10:26]           url:  https://intl.filmfund.org.il/Movie?movieId=30
+[11:10:30] [40/159] OK   10p 7o 1f 20r 44ro  (17.88s)
+[11:10:30]           file: filmfund__Movie_movieId-29__726827fb.md
+[11:10:30]           url:  https://intl.filmfund.org.il/Movie?movieId=29
+[11:10:31] [41/159] OK   13p 6o 1f 19r 17ro  (11.69s)
+[11:10:31]           file: filmfund__Movie_movieId-3__40c98609.md
+[11:10:31]           url:  https://intl.filmfund.org.il/Movie?movieId=3
+[11:10:34] [42/159] OK   11p 7o 1f 23r 22ro  (13.57s)
+[11:10:34]           file: filmfund__Movie_movieId-40__aec13daf.md
+[11:10:34]           url:  https://intl.filmfund.org.il/Movie?movieId=40
+[11:10:35] [43/159] OK   15p 4o 1f 25r 17ro  (14.13s)
+[11:10:35]           file: filmfund__Movie_movieId-43__85a4a520.md
+[11:10:35]           url:  https://www.filmfund.org.il/Movie?movieId=43#movie_trailer
+[11:10:37] [44/159] OK   26p 6o 1f 36r 27ro  (19.89s)
+[11:10:37]           file: filmfund__Movie_movieId-38__2772fdf1.md
+[11:10:37]           url:  https://www.filmfund.org.il/Movie?movieId=38
+[11:10:37] [45/159] OK   26p 6o 1f 19r 36ro  (19.96s)
+[11:10:37]           file: filmfund__Movie_movieId-38__3f66a434.md
+[11:10:37]           url:  https://www.filmfund.org.il/Movie?movieId=38#movie_trailer
+[11:10:37] [46/159] OK   15p 3o 1f 10r 16ro  (11.24s)
+[11:10:37]           file: filmfund__Movie_movieId-43__8a7446a9.md
+[11:10:37]           url:  https://www.filmfund.org.il/Movie?movieId=43#movie_fests
+[11:10:41] [47/159] OK   26p 8o 1f 36r 36ro  (22.78s)
+[11:10:41]           file: filmfund__Movie_movieId-38__94dc3056.md
+[11:10:41]           url:  https://www.filmfund.org.il/Movie?movieId=38#movie_fests
+[11:10:41] [48/159] OK   25p 3o 1f 43r 26ro  (25.53s)
+[11:10:41]           file: filmfund__Movie_movieId-343__649e5499.md
+[11:10:41]           url:  https://filmfund.org.il/Movie?movieId=343
+[11:10:41] [49/159] OK   26p 8o 1f 41r 36ro  (22.09s)
+[11:10:41]           file: filmfund__Movie_movieId-38__bfb45e61.md
+[11:10:41]           url:  https://www.filmfund.org.il/Movie?movieId=38#movie_gallery
+[11:10:44] [50/159] OK   26p 6o 1f 37r 36ro  (26.49s)
+[11:10:44]           file: filmfund__Movie_movieId-38__47bb15e4.md
+[11:10:44]           url:  https://www.filmfund.org.il/Movie?movieId=38#movie_productionTeam
+[11:10:44]   --- progress: 50/159 (31.4%)  rate: 55.1/min  eta: 2.0min  cost so far: $0.1272 ---
+[11:10:44] [51/159] OK   15p 3o 1f 24r 17ro  (14.25s)
+[11:10:44]           file: filmfund__Movie_movieId-43__9f09e4b3.md
+[11:10:44]           url:  https://www.filmfund.org.il/Movie?movieId=43#movie_productionTeam
+[11:10:46] [52/159] OK   15p 3o 1f 12r 17ro  (11.85s)
+[11:10:46]           file: filmfund__Movie_movieId-43__e692d054.md
+[11:10:46]           url:  https://www.filmfund.org.il/Movie?movieId=43#movie_gallery
+[11:10:48] [53/159] OK   18p 7o 1f 16r 20ro  (12.33s)
+[11:10:48]           file: filmfund__Movie_movieId-47__0874d68e.md
+[11:10:48]           url:  https://www.filmfund.org.il/Movie?movieId=47#movie_gallery
+[11:10:53] [54/159] OK   15p 3o 1f 9r 15ro  (21.58s)
+[11:10:53]           file: filmfund__Movie_movieId-43__b0955417.md
+[11:10:53]           url:  https://www.filmfund.org.il/Movie?movieId=43
+[11:10:53] [55/159] OK   18p 7o 1f 28r 24ro  (15.54s)
+[11:10:53]           file: filmfund__Movie_movieId-47__93e8b1cc.md
+[11:10:53]           url:  https://www.filmfund.org.il/Movie?movieId=47#movie_productionTeam
+[11:10:56] [56/159] OK   18p 4o 1f 22r 28ro  (15.0s)
+[11:10:56]           file: filmfund__Movie_movieId-486__1b814bfe.md
+[11:10:56]           url:  https://www.filmfund.org.il/Movie?movieId=486#movie_fests
+[11:10:57] [57/159] OK   18p 7o 1f 26r 20ro  (16.43s)
+[11:10:57]           file: filmfund__Movie_movieId-47__ffea6dfd.md
+[11:10:57]           url:  https://www.filmfund.org.il/Movie?movieId=47
+[11:10:58] [58/159] OK   16p 5o 1f 21r 18ro  (13.75s)
+[11:10:58]           file: filmfund__Movie_movieId-486__6db0b5f2.md
+[11:10:58]           url:  https://www.filmfund.org.il/Movie?movieId=486#movie_gallery
+[11:10:58] [59/159] OK   16p 5o 1f 20r 26ro  (13.93s)
+[11:10:58]           file: filmfund__Movie_movieId-486__6668824f.md
+[11:10:58]           url:  https://www.filmfund.org.il/Movie?movieId=486#movie_trailer
+[11:11:01] [60/159] OK   16p 7o 1f 33r 18ro  (47.71s)
+[11:11:01]           file: filmfund__Movie_movieId-2__63ca13dc.md
+[11:11:01]           url:  https://intl.filmfund.org.il/Movie?movieId=2
+[11:11:01] [61/159] OK   18p 5o 1f 20r 26ro  (14.58s)
+[11:11:01]           file: filmfund__Movie_movieId-486__97ed0998.md
+[11:11:01]           url:  https://www.filmfund.org.il/Movie?movieId=486#movie_productionTeam
+[11:11:05] [62/159] OK   21p 5o 1f 26r 23ro  (17.43s)
+[11:11:05]           file: filmfund__Movie_movieId-488__57c29d51.md
+[11:11:05]           url:  https://www.filmfund.org.il/Movie?movieId=488#movie_productionTeam
+[11:11:06] [63/159] OK   18p 7o 1f 26r 37ro  (28.36s)
+[11:11:06]           file: filmfund__Movie_movieId-47__dda33374.md
+[11:11:06]           url:  https://www.filmfund.org.il/Movie?movieId=47#movie_trailer
+[11:11:11] [64/159] OK   22p 5o 1f 26r 26ro  (17.8s)
+[11:11:11]           file: filmfund__Movie_movieId-488__607134f0.md
+[11:11:11]           url:  https://www.filmfund.org.il/Movie?movieId=488#movie_trailer
+[11:11:13] [65/159] OK   21p 5o 1f 28r 30ro  (19.9s)
+[11:11:13]           file: filmfund__Movie_movieId-488__5ad33252.md
+[11:11:13]           url:  https://www.filmfund.org.il/Movie?movieId=488#movie_fests
+[11:11:13] [66/159] OK   22p 6o 1f 27r 24ro  (16.64s)
+[11:11:13]           file: filmfund__Movie_movieId-488__860d803e.md
+[11:11:13]           url:  https://www.filmfund.org.il/Movie?movieId=488#movie_gallery
+[11:11:14] [67/159] OK   18p 6o 1f 23r 17ro  (32.67s)
+[11:11:14]           file: filmfund__Movie_movieId-486__1751c510.md
+[11:11:14]           url:  https://www.filmfund.org.il/Movie?movieId=486
+[11:11:19] [68/159] OK   18p 8o 1f 29r 20ro  (41.58s)
+[11:11:19]           file: filmfund__Movie_movieId-47__483cb742.md
+[11:11:19]           url:  https://www.filmfund.org.il/Movie?movieId=47#movie_fests
+[11:11:23] [69/159] OK   31p 5o 1f 40r 34ro  (24.75s)
+[11:11:23]           file: filmfund__Movie_movieId-48__05578035.md
+[11:11:23]           url:  https://www.filmfund.org.il/Movie?movieId=48#movie_gallery
+[11:11:24] [70/159] OK   31p 5o 1f 41r 34ro  (25.89s)
+[11:11:24]           file: filmfund__Movie_movieId-48__11b15742.md
+[11:11:24]           url:  https://www.filmfund.org.il/Movie?movieId=48#movie_productionTeam
+[11:11:26] [71/159] OK   31p 5o 1f 40r 34ro  (25.35s)
+[11:11:26]           file: filmfund__Movie_movieId-48__9b10d2d4.md
+[11:11:26]           url:  https://www.filmfund.org.il/Movie?movieId=48#movie_fests
+[11:11:27] [72/159] OK   31p 7o 1f 40r 33ro  (26.11s)
+[11:11:27]           file: filmfund__Movie_movieId-48__531fdd42.md
+[11:11:27]           url:  https://www.filmfund.org.il/Movie?movieId=48#movie_trailer
+[11:11:32] [73/159] OK   27p 24o 1f 34r 29ro  (25.8s)
+[11:11:32]           file: filmfund__Movie_movieId-497__36b72249.md
+[11:11:32]           url:  https://www.filmfund.org.il/Movie?movieId=497#movie_gallery
+[11:11:37] [74/159] OK   17p 7o 1f 26r 31ro  (17.91s)
+[11:11:37]           file: filmfund__Movie_movieId-500__02e4ace1.md
+[11:11:37]           url:  https://www.filmfund.org.il/Movie?movieId=500#movie_gallery
+[11:11:38] [75/159] OK   6p 4o 1f 11r 9ro  (6.82s)
+[11:11:38]           file: filmfund__Movie_movieId-50__206b384d.md
+[11:11:38]           url:  https://www.filmfund.org.il/Movie?movieId=50
+[11:11:39] [76/159] OK   27p 24o 1f 34r 29ro  (25.05s)
+[11:11:39]           file: filmfund__Movie_movieId-497__b223eed4.md
+[11:11:39]           url:  https://www.filmfund.org.il/Movie?movieId=497#movie_trailer
+[11:11:39] [77/159] OK   27p 24o 1f 34r 28ro  (25.89s)
+[11:11:39]           file: filmfund__Movie_movieId-497__841324dc.md
+[11:11:39]           url:  https://www.filmfund.org.il/Movie?movieId=497#movie_productionTeam
+[11:11:40] [78/159] OK   17p 7o 1f 26r 22ro  (17.4s)
+[11:11:40]           file: filmfund__Movie_movieId-500__35274a49.md
+[11:11:40]           url:  https://www.filmfund.org.il/Movie?movieId=500#movie_trailer
+[11:11:42] [79/159] OK   27p 24o 1f 34r 31ro  (29.5s)
+[11:11:42]           file: filmfund__Movie_movieId-497__5a1e2135.md
+[11:11:42]           url:  https://www.filmfund.org.il/Movie?movieId=497
+[11:11:43] [80/159] OK   27p 25o 1f 53r 28ro  (32.14s)
+[11:11:43]           file: filmfund__Movie_movieId-497__58624f78.md
+[11:11:43]           url:  https://www.filmfund.org.il/Movie?movieId=497#movie_fests
+[11:11:44] [81/159] OK   17p 7o 1f 25r 19ro  (16.78s)
+[11:11:44]           file: filmfund__Movie_movieId-500__fe2a480c.md
+[11:11:44]           url:  https://www.filmfund.org.il/Movie?movieId=500#movie_fests
+[11:11:45] [82/159] OK   6p 4o 1f 11r 9ro  (8.17s)
+[11:11:45]           file: filmfund__Movie_movieId-50__406ba0de.md
+[11:11:45]           url:  https://www.filmfund.org.il/Movie?movieId=50#movie_productionTeam
+[11:11:45] [83/159] OK   6p 4o 1f 7r 8ro  (6.19s)
+[11:11:45]           file: filmfund__Movie_movieId-50__d4037714.md
+[11:11:45]           url:  https://www.filmfund.org.il/Movie?movieId=50#movie_trailer
+[11:11:46] [84/159] OK   6p 4o 1f 11r 8ro  (7.31s)
+[11:11:46]           file: filmfund__Movie_movieId-50__ee61f557.md
+[11:11:46]           url:  https://www.filmfund.org.il/Movie?movieId=50#movie_gallery
+[11:11:48] [85/159] OK   6p 4o 1f 11r 21ro  (10.02s)
+[11:11:48]           file: filmfund__Movie_movieId-50__cf91729b.md
+[11:11:48]           url:  https://www.filmfund.org.il/Movie?movieId=50#movie_fests
+[11:11:54] [86/159] OK   15p 10o 1f 21r 19ro  (13.94s)
+[11:11:54]           file: filmfund__Movie_movieId-515__124c1bbd.md
+[11:11:54]           url:  https://www.filmfund.org.il/Movie?movieId=515#movie_gallery
+[11:11:57] [87/159] OK   16p 5o 1f 29r 0ro  (13.26s)
+[11:11:57]           file: filmfund__Movie_movieId-515__d58539d2.md
+[11:11:57]           url:  https://www.filmfund.org.il/Movie?movieId=515#movie_fests
+[11:11:58] [88/159] OK   31p 6o 1f 42r 34ro  (52.64s)
+[11:11:58]           file: filmfund__Movie_movieId-48__b02e91b5.md
+[11:11:58]           url:  https://www.filmfund.org.il/Movie?movieId=48
+[11:11:58] [89/159] OK   15p 5o 1f 27r 19ro  (15.66s)
+[11:11:58]           file: filmfund__Movie_movieId-515__3e6e0d25.md
+[11:11:58]           url:  https://www.filmfund.org.il/Movie?movieId=515#movie_trailer
+[11:11:59] [90/159] OK   15p 5o 1f 30r 17ro  (15.99s)
+[11:11:59]           file: filmfund__Movie_movieId-515__7b5ad63c.md
+[11:11:59]           url:  https://www.filmfund.org.il/Movie?movieId=515
+[11:12:01] [91/159] OK   17p 7o 1f 22r 26ro  (36.34s)
+[11:12:01]           file: filmfund__Movie_movieId-500__742c0f44.md
+[11:12:01]           url:  https://www.filmfund.org.il/Movie?movieId=500
+[11:12:01] [92/159] OK   17p 5o 1f 29r 18ro  (16.34s)
+[11:12:01]           file: filmfund__Movie_movieId-515__eced879a.md
+[11:12:01]           url:  https://www.filmfund.org.il/Movie?movieId=515#movie_productionTeam
+[11:12:02] [93/159] OK   23p 6o 1f 30r 27ro  (17.16s)
+[11:12:02]           file: filmfund__Movie_movieId-51__30307ad5.md
+[11:12:02]           url:  https://www.filmfund.org.il/Movie?movieId=51
+[11:12:04] [94/159] OK   17p 7o 1f 26r 19ro  (38.0s)
+[11:12:04]           file: filmfund__Movie_movieId-500__b4f0c9a0.md
+[11:12:04]           url:  https://www.filmfund.org.il/Movie?movieId=500#movie_productionTeam
+[11:12:06] [95/159] OK   23p 6o 1f 30r 27ro  (17.35s)
+[11:12:06]           file: filmfund__Movie_movieId-51__844f741f.md
+[11:12:06]           url:  https://www.filmfund.org.il/Movie?movieId=51#movie_productionTeam
+[11:12:08] [96/159] OK   11p 4o 1f 14r 13ro  (9.13s)
+[11:12:08]           file: filmfund__Movie_movieId-524__6cdba68c.md
+[11:12:08]           url:  https://www.filmfund.org.il/Movie?movieId=524
+[11:12:09] [97/159] OK   11p 3o 1f 8r 13ro  (7.99s)
+[11:12:09]           file: filmfund__Movie_movieId-524__9f5b280f.md
+[11:12:09]           url:  https://www.filmfund.org.il/Movie?movieId=524#movie_trailer
+[11:12:10] [98/159] OK   11p 5o 1f 9r 14ro  (8.75s)
+[11:12:10]           file: filmfund__Movie_movieId-524__fa7415f5.md
+[11:12:10]           url:  https://www.filmfund.org.il/Movie?movieId=524#movie_gallery
+[11:12:12] [99/159] OK   23p 6o 1f 20r 24ro  (17.88s)
+[11:12:12]           file: filmfund__Movie_movieId-51__9646cd4c.md
+[11:12:12]           url:  https://www.filmfund.org.il/Movie?movieId=51#movie_trailer
+[11:12:16] [100/159] OK   23p 6o 1f 30r 28ro  (18.69s)
+[11:12:16]           file: filmfund__Movie_movieId-51__e67267e4.md
+[11:12:16]           url:  https://www.filmfund.org.il/Movie?movieId=51#movie_fests
+[11:12:16]   --- progress: 100/159 (62.9%)  rate: 41.2/min  eta: 1.4min  cost so far: $0.3256 ---
+[11:12:21] [101/159] OK   23p 8o 1f 29r 26ro  (18.73s)
+[11:12:21]           file: filmfund__Movie_movieId-52__0a7cd87a.md
+[11:12:21]           url:  https://www.filmfund.org.il/Movie?movieId=52#movie_fests
+[11:12:23] [102/159] OK   11p 4o 1f 19r 13ro  (24.93s)
+[11:12:23]           file: filmfund__Movie_movieId-524__2493f8ac.md
+[11:12:23]           url:  https://www.filmfund.org.il/Movie?movieId=524#movie_productionTeam
+[11:12:24] [103/159] OK   14p 7o 1f 22r 17ro  (14.2s)
+[11:12:24]           file: filmfund__Movie_movieId-55__19bb25c4.md
+[11:12:24]           url:  https://www.filmfund.org.il/Movie?movieId=55
+[11:12:25] [104/159] OK   25p 9o 1f 32r 27ro  (20.63s)
+[11:12:25]           file: filmfund__Movie_movieId-52__ac6c1eca.md
+[11:12:25]           url:  https://www.filmfund.org.il/Movie?movieId=52
+[11:12:25] [105/159] OK   23p 9o 1f 30r 28ro  (19.25s)
+[11:12:25]           file: filmfund__Movie_movieId-52__f1f6eebc.md
+[11:12:25]           url:  https://www.filmfund.org.il/Movie?movieId=52#movie_gallery
+[11:12:27] [106/159] OK   23p 8o 1f 31r 25ro  (19.22s)
+[11:12:27]           file: filmfund__Movie_movieId-52__f3765492.md
+[11:12:27]           url:  https://www.filmfund.org.il/Movie?movieId=52#movie_productionTeam
+[11:12:28] [107/159] OK   11p 5o 1f 18r 13ro  (30.81s)
+[11:12:28]           file: filmfund__Movie_movieId-524__054ed14c.md
+[11:12:28]           url:  https://www.filmfund.org.il/Movie?movieId=524#movie_fests
+[11:12:29] [108/159] OK   14p 7o 1f 21r 25ro  (16.32s)
+[11:12:29]           file: filmfund__Movie_movieId-55__2fd622ea.md
+[11:12:29]           url:  https://www.filmfund.org.il/Movie?movieId=55#movie_trailer
+[11:12:29] [109/159] OK   25p 9o 1f 32r 27ro  (20.53s)
+[11:12:29]           file: filmfund__Movie_movieId-52__f3a4fa93.md
+[11:12:29]           url:  https://www.filmfund.org.il/Movie?movieId=52#movie_trailer
+[11:12:29] [110/159] OK   14p 7o 1f 21r 19ro  (13.61s)
+[11:12:29]           file: filmfund__Movie_movieId-55__a9cc11bf.md
+[11:12:29]           url:  https://www.filmfund.org.il/Movie?movieId=55#movie_productionTeam
+[11:12:33] [111/159] OK   14p 7o 1f 10r 17ro  (10.42s)
+[11:12:33]           file: filmfund__Movie_movieId-55__ffd2357d.md
+[11:12:33]           url:  https://www.filmfund.org.il/Movie?movieId=55#movie_fests
+[11:12:36] [112/159] OK   23p 6o 1f 30r 27ro  (49.41s)
+[11:12:36]           file: filmfund__Movie_movieId-51__5d5f4f38.md
+[11:12:36]           url:  https://www.filmfund.org.il/Movie?movieId=51#movie_gallery
+[11:12:36] [113/159] OK   16p 7o 1f 13r 21ro  (10.87s)
+[11:12:36]           file: filmfund__Movie_movieId-56__7c27f875.md
+[11:12:36]           url:  https://www.filmfund.org.il/Movie?movieId=56
+[11:12:41] [114/159] OK   16p 7o 1f 12r 20ro  (12.24s)
+[11:12:41]           file: filmfund__Movie_movieId-56__fa1c4d78.md
+[11:12:41]           url:  https://www.filmfund.org.il/Movie?movieId=56#movie_fests
+[11:12:42] [115/159] OK   16p 7o 1f 24r 18ro  (14.46s)
+[11:12:42]           file: filmfund__Movie_movieId-56__f4c876cf.md
+[11:12:42]           url:  https://www.filmfund.org.il/Movie?movieId=56#movie_trailer
+[11:12:43] [116/159] OK   14p 7o 1f 21r 20ro  (21.75s)
+[11:12:43]           file: filmfund__Movie_movieId-55__c094ff76.md
+[11:12:43]           url:  https://www.filmfund.org.il/Movie?movieId=55#movie_gallery
+[11:12:43] [117/159] OK   16p 7o 1f 25r 23ro  (17.76s)
+[11:12:43]           file: filmfund__Movie_movieId-56__8c2b76d2.md
+[11:12:43]           url:  https://www.filmfund.org.il/Movie?movieId=56#movie_gallery
+[11:12:44] [118/159] OK   16p 7o 1f 27r 23ro  (15.3s)
+[11:12:44]           file: filmfund__Movie_movieId-58__1092fe98.md
+[11:12:44]           url:  https://www.filmfund.org.il/Movie?movieId=58#movie_trailer
+[11:12:45] [119/159] OK   16p 7o 1f 27r 22ro  (15.63s)
+[11:12:45]           file: filmfund__Movie_movieId-58__71f16f8c.md
+[11:12:45]           url:  https://www.filmfund.org.il/Movie?movieId=58#movie_fests
+[11:12:46] [120/159] OK   16p 6o 1f 28r 22ro  (16.72s)
+[11:12:46]           file: filmfund__Movie_movieId-58__5ebf9aaa.md
+[11:12:46]           url:  https://www.filmfund.org.il/Movie?movieId=58
+[11:12:48] [121/159] OK   16p 6o 1f 25r 22ro  (15.28s)
+[11:12:48]           file: filmfund__Movie_movieId-58__72b9110e.md
+[11:12:48]           url:  https://www.filmfund.org.il/Movie?movieId=58#movie_productionTeam
+[11:12:50] [122/159] OK   21p 6o 1f 21r 23ro  (14.06s)
+[11:12:50]           file: filmfund__Movie_movieId-59__957e50c9.md
+[11:12:50]           url:  https://www.filmfund.org.il/Movie?movieId=59
+[11:12:55] [123/159] OK   15p 6o 1f 24r 32ro  (19.0s)
+[11:12:55]           file: filmfund__Movie_movieId-58__7e769df3.md
+[11:12:55]           url:  https://www.filmfund.org.il/Movie?movieId=58#movie_gallery
+[11:12:59] [124/159] OK   16p 8o 1f 23r 19ro  (35.0s)
+[11:12:59]           file: filmfund__Movie_movieId-56__1fc45868.md
+[11:12:59]           url:  https://www.filmfund.org.il/Movie?movieId=56#movie_productionTeam
+[11:12:59] [125/159] OK   17p 8o 1f 27r 23ro  (15.38s)
+[11:12:59]           file: filmfund__Movie_movieId-61__13981315.md
+[11:12:59]           url:  https://www.filmfund.org.il/Movie?movieId=61#movie_gallery
+[11:13:01] [126/159] OK   17p 4o 1f 27r 20ro  (14.82s)
+[11:13:01]           file: filmfund__Movie_movieId-61__633b6064.md
+[11:13:01]           url:  https://www.filmfund.org.il/Movie?movieId=61#movie_productionTeam
+[11:13:01] [127/159] OK   21p 5o 1f 29r 29ro  (17.89s)
+[11:13:01]           file: filmfund__Movie_movieId-59__ad2acb18.md
+[11:13:01]           url:  https://www.filmfund.org.il/Movie?movieId=59#movie_trailer
+[11:13:01] [128/159] OK   21p 6o 1f 30r 30ro  (18.68s)
+[11:13:01]           file: filmfund__Movie_movieId-59__a0329404.md
+[11:13:01]           url:  https://www.filmfund.org.il/Movie?movieId=59#movie_gallery
+[11:13:02] [129/159] OK   21p 6o 1f 30r 35ro  (21.31s)
+[11:13:02]           file: filmfund__Movie_movieId-59__97bc5b84.md
+[11:13:02]           url:  https://www.filmfund.org.il/Movie?movieId=59#movie_productionTeam
+[11:13:03] [130/159] OK   21p 8o 1f 30r 42ro  (20.98s)
+[11:13:03]           file: filmfund__Movie_movieId-59__9e0a0e8b.md
+[11:13:03]           url:  https://www.filmfund.org.il/Movie?movieId=59#movie_fests
+[11:13:05] [131/159] OK   4p 5o 1f 9r 4ro  (5.93s)
+[11:13:05]           file: filmfund__Movie_movieId-65__78c738ac.md
+[11:13:05]           url:  https://www.filmfund.org.il/Movie?movieId=65#movie_productionTeam
+[11:13:05] [132/159] OK   4p 5o 1f 10r 8ro  (6.13s)
+[11:13:05]           file: filmfund__Movie_movieId-65__27d45c13.md
+[11:13:05]           url:  https://www.filmfund.org.il/Movie?movieId=65#movie_fests
+[11:13:05] [133/159] OK   17p 8o 1f 27r 22ro  (16.95s)
+[11:13:05]           file: filmfund__Movie_movieId-61__e50a4c40.md
+[11:13:05]           url:  https://www.filmfund.org.il/Movie?movieId=61#movie_fests
+[11:13:06] [134/159] OK   4p 4o 1f 9r 4ro  (5.63s)
+[11:13:06]           file: filmfund__Movie_movieId-65__d4851839.md
+[11:13:06]           url:  https://www.filmfund.org.il/Movie?movieId=65#movie_gallery
+[11:13:07] [135/159] OK   4p 4o 1f 9r 8ro  (6.74s)
+[11:13:07]           file: filmfund__Movie_movieId-65__80762caa.md
+[11:13:07]           url:  https://www.filmfund.org.il/Movie?movieId=65#movie_trailer
+[11:13:08] [136/159] OK   17p 9o 1f 31r 25ro  (18.45s)
+[11:13:08]           file: filmfund__Movie_movieId-61__efe9e3ba.md
+[11:13:08]           url:  https://www.filmfund.org.il/Movie?movieId=61
+[11:13:11] [137/159] OK   4p 5o 1f 9r 8ro  (15.99s)
+[11:13:11]           file: filmfund__Movie_movieId-65__0861bc08.md
+[11:13:11]           url:  https://www.filmfund.org.il/Movie?movieId=65
+[11:13:11] [138/159] SKIP (g=1 s=0) matched=['director']
+[11:13:11]           file: filmfund__Upload-Media-Tinymce-Files-3Months24-7Berlin__ab56b57b.md
+[11:13:11]           url:  https://www.filmfund.org.il/Upload/Media/Tinymce/Files/3Months24-7Berlin
+[11:13:11] [139/159] SKIP (g=1 s=0) matched=['director']
+[11:13:11]           file: filmfund__Upload-Media-Tinymce-Files-Film-20-Recognition-20of-20a-20Film-20as-20an-20Israe__6ef6f02e.md
+[11:13:11]           url:  https://www.filmfund.org.il/Upload/Media/Tinymce/Files/Film%20\\(Recognition%...
+[11:13:11] [140/159] SKIP (g=1 s=0) matched=['director']
+[11:13:11]           file: filmfund__Upload-Media-Tinymce-Files-Film-20-Recognition-20of-20a-20Film-20as-20an-20Israe__c28c7af0.md
+[11:13:11]           url:  https://www.filmfund.org.il/Upload/Media/Tinymce/Files/Film%20(Recognition%20...
+[11:13:12] [141/159] OK   0p 2o 0f 0r 0ro  (0.87s)
+[11:13:12]           file: filmfund__about__83bd0a20.md
+[11:13:12]           url:  https://www.filmfund.org.il/about/
+[11:13:12] [142/159] OK   7p 4o 1f 7r 8ro  (6.42s)
+[11:13:12]           file: filmfund__Movie_movieId-88__d957733e.md
+[11:13:12]           url:  https://intl.filmfund.org.il/Movie?movieId=88
+[11:13:12] [143/159] OK   2p 4o 1f 6r 3ro  (4.06s)
+[11:13:12]           file: filmfund__Movie_movieId-92__db29aa74.md
+[11:13:12]           url:  https://intl.filmfund.org.il/Movie?movieId=92
+[11:13:15] [144/159] OK   7p 6o 1f 11r 11ro  (8.32s)
+[11:13:15]           file: filmfund__Movie_movieId-90__bcce5dfc.md
+[11:13:15]           url:  https://intl.filmfund.org.il/Movie?movieId=90
+[11:13:15] [145/159] OK   13p 6o 1f 20r 14ro  (12.17s)
+[11:13:15]           file: filmfund__Movie_movieId-66__8bbcb312.md
+[11:13:15]           url:  https://www.filmfund.org.il/Movie?movieId=66#movie_fests
+[11:13:15] [146/159] OK   0p 4o 0f 4r 0ro  (2.84s)
+[11:13:15]           file: filmfund__contentpage_id-26__ba68ac53.md
+[11:13:15]           url:  https://intl.filmfund.org.il//contentpage?id=26
+[11:13:16] [147/159] OK   13p 6o 1f 24r 20ro  (14.97s)
+[11:13:16]           file: filmfund__Movie_movieId-66__15aec01c.md
+[11:13:16]           url:  https://www.filmfund.org.il/Movie?movieId=66#movie_trailer
+[11:13:17] [148/159] OK   0p 3o 0f 2r 0ro  (2.13s)
+[11:13:17]           file: filmfund__films__08fde6a1.md
+[11:13:17]           url:  https://www.filmfund.org.il/films/
+[11:13:18] [149/159] OK   10p 5o 1f 15r 15ro  (10.48s)
+[11:13:18]           file: filmfund__Movie_movieId-91__1310202e.md
+[11:13:18]           url:  https://intl.filmfund.org.il/Movie?movieId=91
+[11:13:18] [150/159] OK   13p 6o 1f 20r 31ro  (16.28s)
+[11:13:18]           file: filmfund__Movie_movieId-66__2b8f5e06.md
+[11:13:18]           url:  https://www.filmfund.org.il/Movie?movieId=66#movie_productionTeam
+[11:13:18]   --- progress: 150/159 (94.3%)  rate: 43.2/min  eta: 0.2min  cost so far: $0.4777 ---
+[11:13:18] [151/159] OK   1p 4o 1f 5r 1ro  (3.32s)
+[11:13:18]           file: filmfund__root__bd3864a0.md
+[11:13:18]           url:  https://www.filmfund.org.il
+[11:13:19] [152/159] OK   3p 3o 4f 6r 0ro  (3.82s)
+[11:13:19]           file: filmfund__root__b0d79c88.md
+[11:13:19]           url:  https://intl.filmfund.org.il/
+[11:13:19] [153/159] OK   1p 3o 1f 4r 1ro  (2.73s)
+[11:13:19]           file: filmfund__root__c8822703.md
+[11:13:19]           url:  https://www.filmfund.org.il/
+[11:13:19] [154/159] OK   13p 7o 1f 21r 28ro  (14.0s)
+[11:13:19]           file: filmfund__Movie_movieId-66__f93ba411.md
+[11:13:19]           url:  https://www.filmfund.org.il/Movie?movieId=66
+[11:13:21] [155/159] OK   13p 4o 4f 11r 9ro  (8.73s)
+[11:13:21]           file: filmfund__contentpage_id-25__d8f60fd8.md
+[11:13:21]           url:  https://intl.filmfund.org.il//contentpage?id=25
+[11:13:21] [156/159] OK   13p 6o 1f 20r 31ro  (15.6s)
+[11:13:21]           file: filmfund__Movie_movieId-66__efd30e83.md
+[11:13:21]           url:  https://www.filmfund.org.il/Movie?movieId=66#movie_gallery
+[11:13:23] [157/159] OK   17p 8o 1f 27r 24ro  (38.47s)
+[11:13:23]           file: filmfund__Movie_movieId-61__5fbcdace.md
+[11:13:23]           url:  https://www.filmfund.org.il/Movie?movieId=61#movie_trailer
+[11:13:38] [158/159] OK   0p 3o 29f 31r 0ro  (26.29s)
+[11:13:38]           file: filmfund__contentpage_id-1__1522e3d6.md
+[11:13:38]           url:  https://intl.filmfund.org.il/contentpage/?id=1
+[11:14:18] [159/159] LLM_ERROR: json_error: Unterminated string starting at: line 7035 column 9 (char 169106) | raw_head: '{\n  "metadata": {\n    "sour
+[11:14:18]           file: filmfund__Movie_movieId-488__ceabce8c.md
+[11:14:18]           url:  https://www.filmfund.org.il/Movie?movieId=488
+[11:14:18] ======================================================================
+[11:14:18] DONE in 4.5min
+[11:14:18]   ok:           155
+[11:14:18]   filtered:     3
+[11:14:18]   empty:        0
+[11:14:18]   load_error:   0
+[11:14:18]   llm_error:    1
+[11:14:18] Tokens: 361,977 in / 1,159,246 out  |  Cost: $0.4999
+[11:14:18] Calls: 156  |  Errors: 1  |  JSON retries: 1
+[11:14:18] Output: out/filmfund/mentions.jsonl
+[11:14:18] Summary:  out/filmfund/run_summary.json
+=== Run ended 2026-05-15T11:14:18.391987 ===
+
+=== Run started 2026-05-15T11:17:49.022675 ===
+[11:17:49] Source: filmfund
+[11:17:49] Pages dir: sources/filmfund/pages
+[11:17:49] Output dir: out/filmfund
+[11:17:49] Total .md pages found: 159  |  Already done: 158  |  To process: 1
+[11:17:49] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:19:45] [1/1] LLM_ERROR: json_error: Unterminated string starting at: line 891 column 19 (char 21732) | raw_len=21752 | raw_head: '{\n  "metadata
+[11:19:45]           file: filmfund__Movie_movieId-488__ceabce8c.md
+[11:19:45]           url:  https://www.filmfund.org.il/Movie?movieId=488
+[11:19:45] ======================================================================
+[11:19:45] DONE in 1.9min
+[11:19:45]   ok:           0
+[11:19:45]   filtered:     0
+[11:19:45]   empty:        0
+[11:19:45]   load_error:   0
+[11:19:45]   llm_error:    1
+[11:19:45] Tokens: 0 in / 0 out  |  Cost: $0.0000
+[11:19:45] Calls: 3  |  Errors: 1  |  JSON retries: 2
+[11:19:45] Output: out/filmfund/mentions.jsonl
+[11:19:45] Summary:  out/filmfund/run_summary.json
+=== Run ended 2026-05-15T11:19:45.977713 ===
+
+=== Run started 2026-05-16T13:37:34.989159 ===
+[13:37:35] Source: filmfund
+[13:37:35] Pages dir: sources/filmfund/pages
+[13:37:35] Output dir: out/filmfund
+[13:37:35] Total .md pages found: 161  |  Already done: 159  |  To process: 2
+[13:37:35] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[13:37:35] Content dedup cache: 74 unique page bodies from prior ok runs
+[13:37:39] [1/2] OK   1p 3o 1f 5r 1ro  (4.18s)
+[13:37:39]           file: filmfund__Upload-Media-Tinymce-Files-0.253.pdf__25fae1c4.md
+[13:37:39]           url:  https://www.filmfund.org.il/Upload/Media/Tinymce/Files/0.253.pdf
+[13:37:43] [2/2] OK   4p 6o 0f 0r 0ro  (7.92s)
+[13:37:43]           file: filmfund__Upload-Media-Tinymce-Files-D7-97-D7-95-D7-A7-20-D7-94-D7-A7-D7-95-D7-9C-D7-A0-D7__22e9929b.md  [filmfund__Upload-Media-Tinymce-Filesחוק הקולנ�__22e9929b.md]
+[13:37:43]           url:  https://www.filmfund.org.il/Upload/Media/Tinymce/Files/%D7%97%D7%95%D7%A7%20%...
+[13:37:43] ======================================================================
+[13:37:43] DONE in 0.1min
+[13:37:43]   ok:           2
+[13:37:43]   filtered:     0
+[13:37:43]   empty:        0
+[13:37:43]   load_error:   0
+[13:37:43]   llm_error:    0
+[13:37:43] Tokens: 9,370 in / 5,795 out  |  Cost: $0.0033
+[13:37:43] Calls: 2  |  Errors: 0  |  JSON retries: 0
+[13:37:43] Output: out/filmfund/mentions.jsonl
+[13:37:43] Summary:  out/filmfund/run_summary.json
+=== Run ended 2026-05-16T13:37:43.042530 ===

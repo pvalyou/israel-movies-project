@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sons",
+  "stable_id": "nfct__en-movies-archive_keywords-sons__3d6796c1",
+  "fetched_at": "2026-05-16T17:47:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:47:40Z",
+  "duration_ms": 11385,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1282016e8ebb40e6849bba3363fce4e0df19093f8f1e6ef2932fa928972533bb",
+  "md_bytes": 15003,
+  "links_found": 82,
+  "files_found": 0
+}

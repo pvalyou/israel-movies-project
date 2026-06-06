@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=October%207",
+  "stable_id": "nfct__en_movies-archive__12b9cf05",
+  "fetched_at": "2026-05-18T21:28:05.280390+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=October%207",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "1b420a537a6067d60c1c35eec56885f06adccc61d20abefafa4240d840b4a59a",
+  "md_bytes": 16408,
+  "links_found": 0,
+  "error": ""
+}

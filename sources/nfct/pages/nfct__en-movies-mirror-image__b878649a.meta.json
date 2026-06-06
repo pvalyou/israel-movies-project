@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mirror-image/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-mirror-image__b878649a",
+  "fetched_at": "2026-05-16T12:54:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:54:48Z",
+  "duration_ms": 5513,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3fc0ab5f93eb3e3cf60bff0d573a80f43759ace231ba54f965c1e569989d0ef",
+  "md_bytes": 10647,
+  "links_found": 29,
+  "files_found": 0
+}

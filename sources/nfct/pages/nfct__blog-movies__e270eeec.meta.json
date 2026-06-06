@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רעות/",
+  "stable_id": "nfct__blog-movies__e270eeec",
+  "fetched_at": "2026-05-09T17:50:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:50:21Z",
+  "duration_ms": 41782,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:982ff05716e00e7e89b9b7df57e34cbb1b8204f221dee55b4ec6ad7cb69c526b",
+  "md_bytes": 18046,
+  "links_found": 38,
+  "files_found": 0
+}

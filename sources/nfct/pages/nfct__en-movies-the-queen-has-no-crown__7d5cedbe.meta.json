@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-queen-has-no-crown/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-queen-has-no-crown__7d5cedbe",
+  "fetched_at": "2026-05-16T17:50:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:50:46Z",
+  "duration_ms": 11127,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af147750d5b1e15694898a4d9a61c52b1d41d80ff04626e65112510ab06cc619",
+  "md_bytes": 15009,
+  "links_found": 36,
+  "files_found": 0
+}

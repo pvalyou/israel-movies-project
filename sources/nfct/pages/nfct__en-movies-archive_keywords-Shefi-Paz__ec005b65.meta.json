@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shefi+Paz",
+  "stable_id": "nfct__en-movies-archive_keywords-Shefi-Paz__ec005b65",
+  "fetched_at": "2026-05-16T14:13:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:13:01Z",
+  "duration_ms": 7021,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8ad17262724075b3c46a6ba173bb577ce530594bd74325427e5db5ce586ba08",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

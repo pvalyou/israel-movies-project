@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=light+and+darkness",
+  "stable_id": "nfct__en-movies-archive_keywords-light-and-darkness__4a471852",
+  "fetched_at": "2026-05-16T17:45:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:45:16Z",
+  "duration_ms": 8587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f9693fb23225794e7ca3af8fd2e08eaf29e4f9de76dd0e2838c983746469069",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

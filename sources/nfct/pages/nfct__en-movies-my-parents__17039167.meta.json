@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-parents/",
+  "stable_id": "nfct__en-movies-my-parents__17039167",
+  "fetched_at": "2026-05-11T04:32:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T04:32:13Z",
+  "duration_ms": 53069,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ab596f4f83d3def688b777db54aefe831bf966e0bf87f8c403b15d16c6d2fce1",
+  "md_bytes": 11388,
+  "links_found": 27,
+  "files_found": 0
+}

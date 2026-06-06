@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-כפר-נופש-קרן-שעיו-הבר-קיימא-הכני/",
+  "stable_id": "nfct__events-event__b5ff7af2",
+  "fetched_at": "2026-05-10T13:42:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:42:34Z",
+  "duration_ms": 8789,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f9639e9dcd9244093b51f0768e834546b638f1238d5fdbcdce3f4052656dd1b",
+  "md_bytes": 10493,
+  "links_found": 21,
+  "files_found": 0
+}

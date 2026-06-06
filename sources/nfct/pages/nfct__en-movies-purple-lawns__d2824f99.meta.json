@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/purple-lawns/",
+  "stable_id": "nfct__en-movies-purple-lawns__d2824f99",
+  "fetched_at": "2026-05-11T05:42:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:42:49Z",
+  "duration_ms": 44791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d0962fbedc1557d208473c41b9072b1520f5a5debb144aa521bee16c1bcda41",
+  "md_bytes": 14575,
+  "links_found": 44,
+  "files_found": 0
+}

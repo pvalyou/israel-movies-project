@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/tomorrows-gone/",
+  "stable_id": "nfct__en-movies-tomorrows-gone__43d205db",
+  "fetched_at": "2026-05-11T21:28:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:28:08Z",
+  "duration_ms": 37116,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6fb6e2dab06415e516a5adf8101d49ce6507d8859fefb53dbdfe5675455db8a1",
+  "md_bytes": 14549,
+  "links_found": 42,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nova",
+  "stable_id": "nfct__en-movies-archive_keywords-Nova__8d37289f",
+  "fetched_at": "2026-05-16T12:13:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:13:40Z",
+  "duration_ms": 11985,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c05b8aa86cd1534ed641c7c153820c704a6e0a7f3ceca09029b44384f64e0ad0",
+  "md_bytes": 15221,
+  "links_found": 80,
+  "files_found": 0
+}

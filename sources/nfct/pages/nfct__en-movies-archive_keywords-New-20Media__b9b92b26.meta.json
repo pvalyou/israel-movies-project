@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=New%20Media",
+  "stable_id": "nfct__en-movies-archive_keywords-New-20Media__b9b92b26",
+  "fetched_at": "2026-05-16T06:37:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:37:56Z",
+  "duration_ms": 6776,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91d64a8e6c3e32200a8c9f71fc56591c1415f5e7f09212ad6fad7f1d31a8c3d5",
+  "md_bytes": 12046,
+  "links_found": 73,
+  "files_found": 0
+}

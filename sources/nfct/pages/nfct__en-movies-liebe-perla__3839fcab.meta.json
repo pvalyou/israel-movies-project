@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/liebe-perla/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-liebe-perla__3839fcab",
+  "fetched_at": "2026-05-16T10:59:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:59:12Z",
+  "duration_ms": 11565,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a0654f4b27bb0327c4a7f0cf982b9411b9ab6bcc4d69d18afde14d3575964065",
+  "md_bytes": 13051,
+  "links_found": 31,
+  "files_found": 0
+}

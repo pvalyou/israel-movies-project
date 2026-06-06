@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=daughter",
+  "stable_id": "nfct__en-movies-archive_keywords-daughter__ee276616",
+  "fetched_at": "2026-05-16T07:26:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:26:14Z",
+  "duration_ms": 6886,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b72ffc43b04a9d6b1a123b15dea5e0e24dec8dd36c6d4a2d6b65e84a9aeaedae",
+  "md_bytes": 16737,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אואזיס/",
+  "stable_id": "nfct__blog-movies__3a232c6d",
+  "fetched_at": "2026-05-09T19:31:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:31:02Z",
+  "duration_ms": 8505,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b6693416894b899a53226c4b05924c21d643d4a9157e6532e29577a21867de33",
+  "md_bytes": 14996,
+  "links_found": 36,
+  "files_found": 0
+}

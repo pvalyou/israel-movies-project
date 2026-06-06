@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Aharon+Abuhazira",
+  "stable_id": "nfct__en-movies-archive_keywords-Aharon-Abuhazira__c0cdb0e3",
+  "fetched_at": "2026-05-16T13:08:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:08:14Z",
+  "duration_ms": 9541,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:00f26a5f2e4d349dc2431869f8ea808a86fd84c3f7b16afe0a40c2086576d4d2",
+  "md_bytes": 10382,
+  "links_found": 68,
+  "files_found": 0
+}

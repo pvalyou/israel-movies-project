@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sabbath",
+  "stable_id": "nfct__en-movies-archive_keywords-Sabbath__4b000ab9",
+  "fetched_at": "2026-05-16T20:22:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:22:10Z",
+  "duration_ms": 8104,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1a78b23467e8710a4dd6ae620a3c61debdf9acc239f447889a8011756cc360b",
+  "md_bytes": 11567,
+  "links_found": 71,
+  "files_found": 0
+}

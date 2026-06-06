@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bissan+Tibi",
+  "stable_id": "nfct__en-movies-archive_keywords-Bissan-Tibi__0b8176ad",
+  "fetched_at": "2026-05-16T12:22:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:24Z",
+  "duration_ms": 10883,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c9ae234cde01a1bdea3936466f2871b65ec9862bb72b5e2ac673c8065326c6c",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

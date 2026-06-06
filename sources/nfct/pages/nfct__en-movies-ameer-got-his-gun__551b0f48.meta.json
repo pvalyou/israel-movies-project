@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ameer-got-his-gun/",
+  "stable_id": "nfct__en-movies-ameer-got-his-gun__551b0f48",
+  "fetched_at": "2026-05-11T14:46:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:46:21Z",
+  "duration_ms": 11960,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f192b3ca395659b6e3bbd426dc9196b905c83e7c7092027bbe76d16f785c156",
+  "md_bytes": 14479,
+  "links_found": 31,
+  "files_found": 0
+}

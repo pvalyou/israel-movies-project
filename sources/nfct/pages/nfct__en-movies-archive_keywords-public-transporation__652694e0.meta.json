@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=public+transporation",
+  "stable_id": "nfct__en-movies-archive_keywords-public-transporation__652694e0",
+  "fetched_at": "2026-05-16T16:26:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:26:01Z",
+  "duration_ms": 8897,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9caa8dce80e0a5e5d1e1f0a8097a6eab1dea08d8e6c746b71b8d55c9b37ba51b",
+  "md_bytes": 9815,
+  "links_found": 67,
+  "files_found": 0
+}

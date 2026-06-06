@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/footsteps-in-jerusalem/#UAMainContent",
+  "stable_id": "nfct__en-movies-footsteps-in-jerusalem__eef01a3a",
+  "fetched_at": "2026-05-16T09:44:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:44:05Z",
+  "duration_ms": 9445,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b394e9b25fdaecf6bf55efb12a331becc323aa3cf8d511b512681e67018793ac",
+  "md_bytes": 15133,
+  "links_found": 43,
+  "files_found": 0
+}

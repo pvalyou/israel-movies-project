@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/מהי-הצעת-יישוג/",
+  "stable_id": "nfct__blog__6ed37919",
+  "fetched_at": "2026-05-09T16:25:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:25:01Z",
+  "duration_ms": 40412,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a6d1ddac579a2464419bef6da6333527e602907516303d33eb3d1903b7ec1d56",
+  "md_bytes": 12624,
+  "links_found": 26,
+  "files_found": 0
+}

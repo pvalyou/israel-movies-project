@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-game-of-true-and-false/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-game-of-true-and-false__5e72a20e",
+  "fetched_at": "2026-05-16T09:20:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:20:09Z",
+  "duration_ms": 8802,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f70a0a8014857edc6cf13c8f21d060ea2327de2f4be36e2b839712a6436f57d3",
+  "md_bytes": 12208,
+  "links_found": 29,
+  "files_found": 0
+}

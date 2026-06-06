@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Well%20of%20Souls",
+  "stable_id": "nfct__en-movies-archive_keywords-Well-20of-20Souls__4dd89598",
+  "fetched_at": "2026-05-16T08:45:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:45:01Z",
+  "duration_ms": 7368,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a813c97ba54d4e20a992baa04f9bba20b7e2af70fecbb4ef250d353ba1d6cdd",
+  "md_bytes": 9985,
+  "links_found": 68,
+  "files_found": 0
+}

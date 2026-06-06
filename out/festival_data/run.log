@@ -1,0 +1,727 @@
+
+=== Run started 2026-05-24T23:17:59.953920 ===
+[23:17:59] Source: festival_data
+[23:17:59] Pages dir: sources/festival_data/pages
+[23:17:59] Output dir: out/festival_data
+[23:17:59] Total .md pages found: 178  |  Already done: 0  |  To process: 178
+[23:17:59] Model: google/gemini-2.5-flash-lite  |  Workers: 8  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:18:01] [1/178] OK   0p 0o 0f 0r 0ro  (1.95s)
+[23:18:01]           file: festival_data__all_films_esther__a7622acf.md
+[23:18:01]           url:  https://www.docaviv.co.il/all/films/esther/
+[23:18:04] [2/178] OK   1p 1o 1f 2r 1ro  (4.0s)
+[23:18:04]           file: festival_data__films_120hours-of-ecstasy__94383115.md
+[23:18:04]           url:  https://www.docaviv.co.il/films/120hours-of-ecstasy/
+[23:18:07] [3/178] OK   5p 1o 3f 7r 6ro  (7.95s)
+[23:18:07]           file: festival_data__films__d7_90_d7_a0_d7_99-_d7_a8_d7_9d-_d7_9c_d7_95_d7_99__d34d502b.md
+[23:18:07]           url:  https://www.docaviv.co.il/films/%d7%90%d7%a0%d7%99-%d7%a8%d7%9d-%d7%9c%d7%95%...
+[23:18:08] [4/178] OK   9p 5o 1f 0r 0ro  (8.29s)
+[23:18:08]           file: festival_data__films__d7_94_d7_90_d7_99_d7_97_d7_95_d7_93__6ba46f3f.md
+[23:18:08]           url:  https://www.docaviv.co.il/films/%d7%94%d7%90%d7%99%d7%97%d7%95%d7%93/
+[23:18:08] [5/178] OK   11p 9o 4f 0r 0ro  (8.39s)
+[23:18:08]           file: festival_data__about__8529cbf8.md
+[23:18:08]           url:  https://tlvfest.com/about/
+[23:18:09] [6/178] OK   15p 3o 5f 0r 2ro  (9.62s)
+[23:18:09]           file: festival_data__films__d7_90_d7_a0_d7_99-_d7_90_d7_97_d7_9e_d7_93__55e789b8.md
+[23:18:09]           url:  https://www.docaviv.co.il/films/%d7%90%d7%a0%d7%99-%d7%90%d7%97%d7%9e%d7%93/
+[23:18:12] [7/178] OK   3p 3o 2f 4r 2ro  (4.81s)
+[23:18:12]           file: festival_data__films__d7_a1_d7_92_d7_a8__db23ed31.md
+[23:18:12]           url:  https://www.docaviv.co.il/films/%d7%a1%d7%92%d7%a8/
+[23:18:13] [8/178] OK   7p 2o 3f 0r 0ro  (13.08s)
+[23:18:13]           file: festival_data__films__d7_90_d7_a0_d7_99-_d7_90_d7_97_d7_9e_d7_93-_d7_92_d7_a8_d7_a1_d7_99__5f6d2ae5.md
+[23:18:13]           url:  https://www.docaviv.co.il/films/%d7%90%d7%a0%d7%99-%d7%90%d7%97%d7%9e%d7%93-%...
+[23:18:13] [9/178] OK   0p 0o 0f 0r 0ro  (13.52s) [TRUNC]
+[23:18:13]           file: festival_data__20under40__6afd7f99.md
+[23:18:13]           url:  https://www.docaviv.co.il/20under40/
+[23:18:13] [10/178] OK   3p 2o 2f 4r 2ro  (5.39s)
+[23:18:13]           file: festival_data__films__d7_a1_d7_9b_d7_a0_d7_99_d7_9f-_d7_97_d7_99_d7_99__5a2c493a.md
+[23:18:13]           url:  https://www.docaviv.co.il/films/%d7%a1%d7%9b%d7%a0%d7%99%d7%9f-%d7%97%d7%99%d...
+[23:18:14] [11/178] OK   8p 2o 2f 0r 0ro  (12.68s)
+[23:18:14]           file: festival_data__films__d7_98_d7_99_d7_99_d7_a7-3__7f45fcca.md
+[23:18:14]           url:  https://www.docaviv.co.il/films/%d7%98%d7%99%d7%99%d7%a7-3/
+[23:18:16] [12/178] OK   0p 0o 0f 0r 0ro  (12.45s)
+[23:18:16]           file: festival_data__films__d7_9e_d7_aa_d7_a8_d7_a1_d7_99_d7_9d__28e54716.md
+[23:18:16]           url:  https://www.docaviv.co.il/films/%d7%9e%d7%aa%d7%a8%d7%a1%d7%99%d7%9d/
+[23:18:17] [13/178] OK   0p 0o 0f 0r 0ro  (8.68s)
+[23:18:17]           file: festival_data__films__db5d1290.md
+[23:18:17]           url:  https://www.docaviv.co.il/films/
+[23:18:18] [14/178] OK   14p 3o 1f 0r 0ro  (8.83s)
+[23:18:18]           file: festival_data__films_a-burning-man-_d7_91_d7_a8_d7_a0_d7_99_d7_a0_d7_92-_d7_9e_d7_9f__1e853c93.md
+[23:18:18]           url:  https://israelfilmfestival.com/films/a-burning-man-%d7%91%d7%a8%d7%a0%d7%99%d...
+[23:18:20] [15/178] OK   4p 2o 1f 7r 7ro  (5.53s)
+[23:18:20]           file: festival_data__films_a-song-without-home__164b1977.md
+[23:18:20]           url:  https://www.docaviv.co.il/films/a-song-without-home/
+[23:18:21] [16/178] OK   0p 0o 0f 0r 0ro  (8.43s)
+[23:18:21]           file: festival_data__films_a-letter-to-david-the-completed-version__6508642e.md
+[23:18:21]           url:  https://www.docaviv.co.il/films/a-letter-to-david-the-completed-version/
+[23:18:22] [17/178] OK   10p 4o 1f 0r 0ro  (8.39s)
+[23:18:22]           file: festival_data__films_a-scary-movie__02a5d912.md
+[23:18:22]           url:  https://www.docaviv.co.il/films/a-scary-movie/
+[23:18:22] [18/178] OK   13p 8o 2f 0r 2ro  (9.12s)
+[23:18:22]           file: festival_data__films_a-letter-to-david-_d7_9e_d7_9b_d7_aa_d7_91-_d7_9c_d7_93_d7_95_d7_93__c78c1c7f.md
+[23:18:22]           url:  https://israelfilmfestival.com/films/a-letter-to-david-%d7%9e%d7%9b%d7%aa%d7%...
+[23:18:23] [19/178] OK   7p 4o 1f 8r 7ro  (11.0s)
+[23:18:23]           file: festival_data__films_a-goodnight-kiss__991699f2.md
+[23:18:23]           url:  https://www.docaviv.co.il/films/a-goodnight-kiss/
+[23:18:24] [20/178] OK   5p 5o 1f 10r 9ro  (8.09s)
+[23:18:24]           file: festival_data__films_a-very-good-boy__eccd679f.md
+[23:18:24]           url:  https://www.docaviv.co.il/films/a-very-good-boy/
+[23:18:26] [21/178] OK   2p 3o 1f 8r 4ro  (4.8s)
+[23:18:26]           file: festival_data__films_another-meaning-of-love__dbc97c4e.md
+[23:18:26]           url:  https://www.docaviv.co.il/films/another-meaning-of-love/
+[23:18:27] [22/178] OK   0p 0o 0f 0r 0ro  (7.26s)
+[23:18:27]           file: festival_data__films_addicts__59d89c3e.md
+[23:18:27]           url:  https://www.docaviv.co.il/films/addicts/
+[23:18:29] [23/178] OK   8p 3o 1f 0r 0ro  (12.37s)
+[23:18:29]           file: festival_data__films_a-world-gone-mad-the-war-diaries-of-astrid-lindgren__92d21f08.md
+[23:18:29]           url:  https://www.docaviv.co.il/films/a-world-gone-mad-the-war-diaries-of-astrid-li...
+[23:18:32] [24/178] OK   7p 5o 1f 10r 12ro  (13.71s)
+[23:18:32]           file: festival_data__films_abu-salie__a587c9b8.md
+[23:18:32]           url:  https://www.docaviv.co.il/films/abu-salie/
+[23:18:32] [25/178] OK   7p 1o 1f 10r 8ro  (10.65s)
+[23:18:32]           file: festival_data__films_andre-is-an-idiot__2205202f.md
+[23:18:32]           url:  https://www.docaviv.co.il/films/andre-is-an-idiot/
+[23:18:34] [26/178] OK   14p 6o 1f 0r 0ro  (12.64s)
+[23:18:34]           file: festival_data__films_bella-_d7_91_d7_9c_d7_94__fbd30c11.md
+[23:18:34]           url:  https://israelfilmfestival.com/films/bella-%d7%91%d7%9c%d7%94/
+[23:18:35] [27/178] OK   12p 8o 1f 0r 0ro  (8.17s)
+[23:18:35]           file: festival_data__films_cabaret-total-_d7_9e_d7_95_d7_a4_d7_a2-_d7_98_d7_95_d7_98_d7_90_d7_9c__8abb142f.md
+[23:18:35]           url:  https://israelfilmfestival.com/films/cabaret-total-%d7%9e%d7%95%d7%a4%d7%a2-%...
+[23:18:36] [28/178] OK   13p 3o 8f 0r 0ro  (12.26s)
+[23:18:36]           file: festival_data__films_benita__6253b904.md
+[23:18:36]           url:  https://www.docaviv.co.il/films/benita/
+[23:18:37] [29/178] OK   9p 8o 1f 0r 0ro  (12.7s)
+[23:18:37]           file: festival_data__films_black-gold-the-story-of-israeli-hip-hop__e9709e4d.md
+[23:18:37]           url:  https://www.docaviv.co.il/films/black-gold-the-story-of-israeli-hip-hop/
+[23:18:37] [30/178] OK   5p 7o 1f 11r 7ro  (7.99s)
+[23:18:37]           file: festival_data__films_carlos-outside-the-lines__5cd86e7a.md
+[23:18:37]           url:  https://www.docaviv.co.il/films/carlos-outside-the-lines/
+[23:18:39] [31/178] OK   5p 3o 1f 11r 8ro  (7.0s)
+[23:18:39]           file: festival_data__films_champ-de-mars__2af455cd.md
+[23:18:39]           url:  https://www.docaviv.co.il/films/champ-de-mars/
+[23:18:39] [32/178] OK   7p 4o 1f 13r 7ro  (12.97s)
+[23:18:39]           file: festival_data__films_bodyguard-of-lies__58da585c.md
+[23:18:39]           url:  https://www.docaviv.co.il/films/bodyguard-of-lies/
+[23:18:40] [33/178] OK   0p 0o 0f 0r 0ro  (1.11s)
+[23:18:40]           file: festival_data__films_divia__7aa7133e.md
+[23:18:40]           url:  https://www.docaviv.co.il/films/divia/
+[23:18:42] [34/178] OK   7p 3o 1f 10r 7ro  (7.18s)
+[23:18:42]           file: festival_data__films_come-what-may__f8528d5d.md
+[23:18:42]           url:  https://www.docaviv.co.il/films/come-what-may/
+[23:18:43] [35/178] OK   8p 4o 1f 9r 8ro  (10.6s)
+[23:18:43]           file: festival_data__films_change-my-mind__f1080ed2.md
+[23:18:43]           url:  https://www.docaviv.co.il/films/change-my-mind/
+[23:18:43] [36/178] OK   5p 3o 1f 8r 6ro  (7.5s)
+[23:18:43]           file: festival_data__films_conversations-with-my-dead-friends__933cbf3c.md
+[23:18:43]           url:  https://www.docaviv.co.il/films/conversations-with-my-dead-friends/
+[23:18:45] [37/178] OK   4p 2o 1f 5r 4ro  (6.48s)
+[23:18:45]           file: festival_data__films_description-of-a-struggle__daaa454f.md
+[23:18:45]           url:  https://www.docaviv.co.il/films/description-of-a-struggle/
+[23:18:49] [38/178] OK   0p 0o 0f 0r 0ro  (12.65s)
+[23:18:49]           file: festival_data__films_cuz-youre-ugly-_d7_9b_d7_99-_d7_90_d7_aa-_d7_9e_d7_9b_d7_95_d7_a2_d7_a8_d7_aa__ff25bdb6.md
+[23:18:49]           url:  https://israelfilmfestival.com/films/cuz-youre-ugly-%d7%9b%d7%99-%d7%90%d7%aa...
+[23:18:50] [39/178] OK   0p 0o 0f 0r 0ro  (15.27s)
+[23:18:50]           file: festival_data__films_closing-night-surprise-screening__aa641e3f.md
+[23:18:50]           url:  https://israelfilmfestival.com/films/closing-night-surprise-screening/
+[23:18:50] [40/178] OK   0p 0o 0f 0r 0ro  (13.18s)
+[23:18:50]           file: festival_data__films_dead-language-_d7_a9_d7_a4_d7_94-_d7_96_d7_a8_d7_94__844ae1bb.md
+[23:18:50]           url:  https://israelfilmfestival.com/films/dead-language-%d7%a9%d7%a4%d7%94-%d7%96%...
+[23:18:51] [41/178] OK   0p 0o 0f 0r 0ro  (8.34s)
+[23:18:51]           file: festival_data__films_docaviv-x-migdalor-cinema__eac77640.md
+[23:18:51]           url:  https://www.docaviv.co.il/films/docaviv-x-migdalor-cinema/
+[23:18:51] [42/178] OK   0p 0o 0f 0r 0ro  (8.02s)
+[23:18:51]           file: festival_data__films_docaviv-x-tel-aviv-museum-of-art__98c25cf6.md
+[23:18:51]           url:  https://www.docaviv.co.il/films/docaviv-x-tel-aviv-museum-of-art/
+[23:18:52] [43/178] OK   6p 5o 1f 10r 8ro  (11.78s)
+[23:18:52]           file: festival_data__films_do-not-disturb__74f2aba9.md
+[23:18:52]           url:  https://www.docaviv.co.il/films/do-not-disturb/
+[23:18:53] [44/178] OK   7p 3o 1f 11r 10ro  (7.82s)
+[23:18:53]           file: festival_data__films_drift__14e0f1ab.md
+[23:18:53]           url:  https://www.docaviv.co.il/films/drift/
+[23:18:56] [45/178] OK   8p 2o 2f 0r 0ro  (12.54s)
+[23:18:56]           file: festival_data__films_donn-the-dancer-of-the-xxth-century__06e4ffee.md
+[23:18:56]           url:  https://www.docaviv.co.il/films/donn-the-dancer-of-the-xxth-century/
+[23:18:58] [46/178] OK   3p 1o 1f 6r 6ro  (4.51s)
+[23:18:58]           file: festival_data__films_follow-back__aa1544cf.md
+[23:18:58]           url:  https://www.docaviv.co.il/films/follow-back/
+[23:18:58] [47/178] OK   5p 5o 1f 0r 0ro  (8.48s)
+[23:18:58]           file: festival_data__films_edge-of-the-night__fce3f671.md
+[23:18:58]           url:  https://www.docaviv.co.il/films/edge-of-the-night/
+[23:18:59] [48/178] OK   15p 10o 1f 0r 4ro  (8.96s)
+[23:18:59]           file: festival_data__films_eid-_d7_a2_d7_99_d7_93__e180a6e8.md
+[23:18:59]           url:  https://israelfilmfestival.com/films/eid-%d7%a2%d7%99%d7%93/
+[23:18:59] [49/178] OK   0p 0o 0f 0r 0ro  (8.62s)
+[23:18:59]           file: festival_data__films_elon-musk-unveiled-the-tesla-experiment__22c063dc.md
+[23:18:59]           url:  https://www.docaviv.co.il/films/elon-musk-unveiled-the-tesla-experiment/
+[23:18:59] [50/178] OK   12p 4o 1f 5r 12ro  (8.27s)
+[23:18:59]           file: festival_data__films_face-value__20eefd25.md
+[23:18:59]           url:  https://www.docaviv.co.il/films/face-value/
+[23:18:59]   --- progress: 50/178 (28.1%)  rate: 50.4/min  eta: 2.5min  cost so far: $0.1067 ---
+[23:18:59] [51/178] OK   9p 6o 1f 0r 0ro  (8.65s)
+[23:18:59]           file: festival_data__films_esther__4b8313a4.md
+[23:18:59]           url:  https://www.docaviv.co.il/films/esther/
+[23:19:01] [52/178] OK   18p 4o 1f 0r 0ro  (9.0s)
+[23:19:01]           file: festival_data__films_farruquito-a-flamenco-dynasty__e32d3363.md
+[23:19:01]           url:  https://www.docaviv.co.il/films/farruquito-a-flamenco-dynasty/
+[23:19:03] [53/178] OK   2p 2o 1f 9r 3ro  (7.25s)
+[23:19:03]           file: festival_data__films_forever-love__66c3323b.md
+[23:19:03]           url:  https://www.docaviv.co.il/films/forever-love/
+[23:19:04] [54/178] OK   2p 2o 1f 4r 4ro  (6.08s)
+[23:19:04]           file: festival_data__films_ghost-elephants__70a5b9a1.md
+[23:19:04]           url:  https://www.docaviv.co.il/films/ghost-elephants/
+[23:19:05] [55/178] OK   2p 2o 2f 5r 2ro  (6.48s)
+[23:19:05]           file: festival_data__films_grizzly-man__9222d68c.md
+[23:19:05]           url:  https://www.docaviv.co.il/films/grizzly-man/
+[23:19:07] [56/178] OK   2p 1o 1f 2r 2ro  (2.85s)
+[23:19:07]           file: festival_data__films_israel-why__3fad00e7.md
+[23:19:07]           url:  https://www.docaviv.co.il/films/israel-why/
+[23:19:07] [57/178] OK   10p 2o 1f 0r 0ro  (8.47s)
+[23:19:07]           file: festival_data__films_heaven-and-earth-_d7_a9_d7_9e_d7_99_d7_99_d7_9d-_d7_95_d7_90_d7_a8_d7_a5__6866b4d7.md
+[23:19:07]           url:  https://israelfilmfestival.com/films/heaven-and-earth-%d7%a9%d7%9e%d7%99%d7%9...
+[23:19:08] [58/178] OK   4p 8o 1f 0r 0ro  (8.52s)
+[23:19:08]           file: festival_data__films_holofiction__2530eb86.md
+[23:19:08]           url:  https://www.docaviv.co.il/films/holofiction/
+[23:19:09] [59/178] OK   1p 1o 1f 2r 1ro  (1.99s)
+[23:19:09]           file: festival_data__films_jaffa-port__1fa60c8e.md
+[23:19:09]           url:  https://www.docaviv.co.il/films/jaffa-port/
+[23:19:10] [60/178] OK   10p 2o 1f 0r 1ro  (12.51s)
+[23:19:10]           file: festival_data__films_from-october-6-to-october-7-_d7_91_d7_99_d7_9f-6-_d7_91_d7_90_d7_95_d7_a7_d7_98_d7_95_d7_91_d7__e5727d7a.md
+[23:19:10]           url:  https://israelfilmfestival.com/films/from-october-6-to-october-7-%d7%91%d7%99...
+[23:19:10] [61/178] OK   7p 9o 1f 0r 0ro  (8.82s)
+[23:19:10]           file: festival_data__films_hostel-jabotinsky__7b181668.md
+[23:19:10]           url:  https://www.docaviv.co.il/films/hostel-jabotinsky/
+[23:19:11] [62/178] OK   8p 4o 1f 8r 10ro  (8.17s)
+[23:19:11]           file: festival_data__films_i-follow-rivers__31bacd39.md
+[23:19:11]           url:  https://www.docaviv.co.il/films/i-follow-rivers/
+[23:19:12] [63/178] OK   7p 4o 1f 0r 0ro  (13.11s)
+[23:19:12]           file: festival_data__films_home-ground__ffd1a1b2.md
+[23:19:12]           url:  https://www.docaviv.co.il/films/home-ground/
+[23:19:13] [64/178] OK   2p 1o 1f 3r 2ro  (4.46s)
+[23:19:13]           file: festival_data__films_kikuyu-land__82f7dc02.md
+[23:19:13]           url:  https://www.docaviv.co.il/films/kikuyu-land/
+[23:19:13] [65/178] OK   7p 3o 1f 6r 6ro  (5.79s)
+[23:19:13]           file: festival_data__films_just-sing__ed7b4707.md
+[23:19:13]           url:  https://www.docaviv.co.il/films/just-sing/
+[23:19:15] [66/178] OK   3p 3o 2f 3r 5ro  (4.76s)
+[23:19:15]           file: festival_data__films_la-soufriere__339c45b7.md
+[23:19:15]           url:  https://www.docaviv.co.il/films/la-soufriere/
+[23:19:16] [67/178] OK   9p 3o 1f 0r 0ro  (8.57s)
+[23:19:16]           file: festival_data__films_jane-elliott-against-the-world__3c3cb5dd.md
+[23:19:16]           url:  https://www.docaviv.co.il/films/jane-elliott-against-the-world/
+[23:19:17] [68/178] OK   6p 2o 1f 11r 6ro  (6.97s)
+[23:19:17]           file: festival_data__films_kim-novaks-vertigo__1ad44f12.md
+[23:19:17]           url:  https://www.docaviv.co.il/films/kim-novaks-vertigo/
+[23:19:18] [69/178] OK   6p 9o 1f 0r 0ro  (12.6s)
+[23:19:18]           file: festival_data__films_ivry-who__84a799f0.md
+[23:19:18]           url:  https://www.docaviv.co.il/films/ivry-who/
+[23:19:18] [70/178] OK   3p 2o 1f 3r 3ro  (4.43s)
+[23:19:18]           file: festival_data__films_lets-assume-for-a-moment-that-god-exists__47816670.md
+[23:19:18]           url:  https://www.docaviv.co.il/films/lets-assume-for-a-moment-that-god-exists/
+[23:19:19] [71/178] OK   4p 3o 1f 8r 4ro  (5.59s)
+[23:19:19]           file: festival_data__films_lessons-of-darkness__8a4ca8e8.md
+[23:19:19]           url:  https://www.docaviv.co.il/films/lessons-of-darkness/
+[23:19:23] [72/178] OK   3p 2o 1f 3r 2ro  (3.62s)
+[23:19:23]           file: festival_data__films_man-on-wire__0298d074.md
+[23:19:23]           url:  https://www.docaviv.co.il/films/man-on-wire/
+[23:19:24] [73/178] OK   6p 4o 2f 11r 5ro  (11.23s)
+[23:19:24]           file: festival_data__films_land-of-silence-and-darkness__e75d1964.md
+[23:19:24]           url:  https://www.docaviv.co.il/films/land-of-silence-and-darkness/
+[23:19:25] [74/178] OK   7p 4o 1f 11r 8ro  (14.21s)
+[23:19:25]           file: festival_data__films_laisha-the-story-of-a-womens-magazine__aa55c928.md
+[23:19:25]           url:  https://www.docaviv.co.il/films/laisha-the-story-of-a-womens-magazine/
+[23:19:27] [75/178] OK   5p 4o 1f 0r 0ro  (8.83s)
+[23:19:27]           file: festival_data__films_mamas-girl__ae1845ec.md
+[23:19:27]           url:  https://www.docaviv.co.il/films/mamas-girl/
+[23:19:27] [76/178] OK   0p 0o 0f 0r 0ro  (9.37s)
+[23:19:27]           file: festival_data__films_mama-_d7_9e_d7_90_d7_9e_d7_90__e9915d6f.md
+[23:19:27]           url:  https://israelfilmfestival.com/films/mama-%d7%9e%d7%90%d7%9e%d7%90/
+[23:19:28] [77/178] OK   6p 7o 1f 14r 6ro  (12.67s)
+[23:19:28]           file: festival_data__films_lips__33c3ae2e.md
+[23:19:28]           url:  https://www.docaviv.co.il/films/lips/
+[23:19:28] [78/178] OK   1p 6o 1f 8r 5ro  (5.52s)
+[23:19:28]           file: festival_data__films_mariinka__991aa835.md
+[23:19:28]           url:  https://www.docaviv.co.il/films/mariinka/
+[23:19:29] [79/178] OK   0p 0o 0f 0r 0ro  (12.79s)
+[23:19:29]           file: festival_data__films_mailin__0923a475.md
+[23:19:29]           url:  https://www.docaviv.co.il/films/mailin/
+[23:19:30] [80/178] OK   6p 3o 1f 0r 0ro  (12.5s)
+[23:19:30]           file: festival_data__films_malachi-_d7_9e_d7_9c_d7_90_d7_9b_d7_99__8ad989f6.md
+[23:19:30]           url:  https://israelfilmfestival.com/films/malachi-%d7%9e%d7%9c%d7%90%d7%9b%d7%99/
+[23:19:30] [81/178] OK   1p 3o 1f 5r 4ro  (4.61s)
+[23:19:30]           file: festival_data__films_molly-vs-the-machines__b6dda049.md
+[23:19:30]           url:  https://www.docaviv.co.il/films/molly-vs-the-machines/
+[23:19:32] [82/178] OK   10p 4o 1f 0r 0ro  (8.13s)
+[23:19:32]           file: festival_data__films_menopause-mystery__e77cd69d.md
+[23:19:32]           url:  https://www.docaviv.co.il/films/menopause-mystery/
+[23:19:33] [83/178] OK   1p 1o 1f 2r 1ro  (3.57s)
+[23:19:33]           file: festival_data__films_neta-jedeikin-cancer-documentary__d2a07eb5.md
+[23:19:33]           url:  https://www.docaviv.co.il/films/neta-jedeikin-cancer-documentary/
+[23:19:35] [84/178] OK   9p 7o 1f 0r 0ro  (7.9s)
+[23:19:35]           file: festival_data__films_moshe-mizrahi-climbing-the-mountain__faedc9ac.md
+[23:19:35]           url:  https://www.docaviv.co.il/films/moshe-mizrahi-climbing-the-mountain/
+[23:19:36] [85/178] OK   15p 3o 5f 0r 0ro  (8.62s)
+[23:19:36]           file: festival_data__films_my-best-fiend__77a96061.md
+[23:19:36]           url:  https://www.docaviv.co.il/films/my-best-fiend/
+[23:19:40] [86/178] OK   14p 2o 1f 0r 15ro  (8.04s)
+[23:19:40]           file: festival_data__films_not-made-for-politics__bd30fdbb.md
+[23:19:40]           url:  https://www.docaviv.co.il/films/not-made-for-politics/
+[23:19:40] [87/178] OK   11p 5o 1f 0r 0ro  (12.39s)
+[23:19:40]           file: festival_data__films_my-family-and-other-clowns__c5fc53ba.md
+[23:19:40]           url:  https://www.docaviv.co.il/films/my-family-and-other-clowns/
+[23:19:41] [88/178] OK   9p 8o 1f 0r 0ro  (12.13s)
+[23:19:41]           file: festival_data__films_nandauri-_d7_a0_d7_90_d7_a0_d7_93_d7_90_d7_95_d7_a8_d7_99__c71c65d2.md
+[23:19:41]           url:  https://israelfilmfestival.com/films/nandauri-%d7%a0%d7%90%d7%a0%d7%93%d7%90%...
+[23:19:41] [89/178] OK   6p 4o 1f 1r 9ro  (13.25s)
+[23:19:41]           file: festival_data__films_my-one-and-only-_d7_94_d7_90_d7_97_d7_93-_d7_95_d7_94_d7_99_d7_97_d7_99_d7_93-_d7_a9_d7_9c_d7___aa26f938.md
+[23:19:41]           url:  https://israelfilmfestival.com/films/my-one-and-only-%d7%94%d7%90%d7%97%d7%93...
+[23:19:41] [90/178] OK   5p 11o 1f 0r 0ro  (11.93s)
+[23:19:41]           file: festival_data__films_natchez__49536625.md
+[23:19:41]           url:  https://www.docaviv.co.il/films/natchez/
+[23:19:42] [91/178] OK   11p 2o 1f 4r 12ro  (8.14s)
+[23:19:42]           file: festival_data__films_notes-of-a-true-criminal__20613df4.md
+[23:19:42]           url:  https://www.docaviv.co.il/films/notes-of-a-true-criminal/
+[23:19:43] [92/178] OK   4p 3o 1f 8r 5ro  (8.44s)
+[23:19:43]           file: festival_data__films_noticing-itay__6068834a.md
+[23:19:43]           url:  https://www.docaviv.co.il/films/noticing-itay/
+[23:19:44] [93/178] OK   0p 0o 0f 0r 0ro  (8.48s)
+[23:19:44]           file: festival_data__films_of-dogs-and-men-_d7_a2_d7_9c-_d7_9b_d7_9c_d7_91_d7_99_d7_9d-_d7_95_d7_90_d7_a0_d7_a9_d7_99_d7___0be1877f.md
+[23:19:44]           url:  https://israelfilmfestival.com/films/of-dogs-and-men-%d7%a2%d7%9c-%d7%9b%d7%9...
+[23:19:47] [94/178] OK   4p 2o 1f 3r 2ro  (5.73s)
+[23:19:47]           file: festival_data__films_promised-lands__7f704c3b.md
+[23:19:47]           url:  https://www.docaviv.co.il/films/promised-lands/
+[23:19:48] [95/178] OK   0p 0o 0f 0r 0ro  (3.49s)
+[23:19:48]           file: festival_data__films_ricochets-in-memory-of-alon-aboutboul-_d7_a9_d7_aa_d7_99-_d7_90_d7_a6_d7_91_d7_a2_d7_95_d7_aa-__f642c5cd.md
+[23:19:48]           url:  https://israelfilmfestival.com/films/ricochets-in-memory-of-alon-aboutboul-%d...
+[23:19:48] [96/178] OK   7p 4o 1f 9r 8ro  (6.89s)
+[23:19:48]           file: festival_data__films_politzek-the-voices-that-defy-the-kremlin__1c4d1035.md
+[23:19:48]           url:  https://www.docaviv.co.il/films/politzek-the-voices-that-defy-the-kremlin/
+[23:19:49] [97/178] OK   2p 1o 1f 4r 3ro  (5.86s)
+[23:19:49]           file: festival_data__films_remnants-_d7_94_d7_93_d7_91_d7_a8_d7_99_d7_9d-_d7_a9_d7_94_d7_9c_d7_9b_d7_95-_d7_9c_d7_90_d7_9__97e8bfbf.md
+[23:19:49]           url:  https://israelfilmfestival.com/films/remnants-%d7%94%d7%93%d7%91%d7%a8%d7%99%...
+[23:19:50] [98/178] OK   1p 1o 1f 2r 1ro  (2.07s)
+[23:19:50]           file: festival_data__films_river-sea-a-travelogue__396192db.md
+[23:19:50]           url:  https://www.docaviv.co.il/films/river-sea-a-travelogue/
+[23:19:51] [99/178] OK   5p 6o 1f 12r 5ro  (10.82s)
+[23:19:51]           file: festival_data__films_one-eye-open__38191d56.md
+[23:19:51]           url:  https://www.docaviv.co.il/films/one-eye-open/
+[23:19:52] [100/178] OK   4p 4o 1f 9r 7ro  (12.17s)
+[23:19:52]           file: festival_data__films_phantom-pains__c43ac8c4.md
+[23:19:52]           url:  https://www.docaviv.co.il/films/phantom-pains/
+[23:19:52]   --- progress: 100/178 (56.2%)  rate: 53.3/min  eta: 1.5min  cost so far: $0.2062 ---
+[23:19:52] [101/178] OK   0p 0o 0f 0r 0ro  (11.64s)
+[23:19:52]           file: festival_data__films_pink-lady-_d7_a4_d7_99_d7_a0_d7_a7-_d7_9c_d7_99_d7_99_d7_93_d7_99__8afa395c.md
+[23:19:52]           url:  https://israelfilmfestival.com/films/pink-lady-%d7%a4%d7%99%d7%a0%d7%a7-%d7%9...
+[23:19:54] [102/178] OK   0p 0o 0f 0r 0ro  (12.6s)
+[23:19:54]           file: festival_data__films_reading-lolita-in-tehran-_d7_9c_d7_a7_d7_a8_d7_95_d7_90-_d7_90_d7_aa-_d7_9c_d7_95_d7_9c_d7_99___f3b38a58.md
+[23:19:54]           url:  https://israelfilmfestival.com/films/reading-lolita-in-tehran-%d7%9c%d7%a7%d7...
+[23:19:55] [103/178] OK   2p 1o 1f 3r 2ro  (4.59s)
+[23:19:55]           file: festival_data__films_sapiro-v-ford-the-jew-who-sued-henry-ford__a19699e1.md
+[23:19:55]           url:  https://www.docaviv.co.il/films/sapiro-v-ford-the-jew-who-sued-henry-ford/
+[23:19:56] [104/178] OK   8p 4o 1f 0r 0ro  (8.12s)
+[23:19:56]           file: festival_data__films_ritual__e06d1ada.md
+[23:19:56]           url:  https://www.docaviv.co.il/films/ritual/
+[23:19:57] [105/178] OK   5p 3o 1f 4r 6ro  (7.9s)
+[23:19:57]           file: festival_data__films_sanyi-the-rooster__e2634f48.md
+[23:19:57]           url:  https://www.docaviv.co.il/films/sanyi-the-rooster/
+[23:19:57] [106/178] OK   0p 0o 0f 0r 0ro  (1.27s)
+[23:19:57]           file: festival_data__films_shabbat-procedure__c6c20942.md
+[23:19:57]           url:  https://www.docaviv.co.il/films/shabbat-procedure/
+[23:19:57] [107/178] OK   1p 3o 1f 2r 1ro  (2.52s)
+[23:19:57]           file: festival_data__films_seeing__5789dbfb.md
+[23:19:57]           url:  https://www.docaviv.co.il/films/seeing/
+[23:19:59] [108/178] OK   28p 4o 1f 0r 1ro  (8.22s)
+[23:19:59]           file: festival_data__films_save-the-pets__d78cbe2e.md
+[23:19:59]           url:  https://www.docaviv.co.il/films/save-the-pets/
+[23:19:59] [109/178] OK   7p 4o 1f 12r 10ro  (11.91s)
+[23:19:59]           file: festival_data__films_rio-nafez__a0d44834.md
+[23:19:59]           url:  https://www.docaviv.co.il/films/rio-nafez/
+[23:20:03] [110/178] OK   4p 3o 1f 9r 8ro  (6.43s)
+[23:20:03]           file: festival_data__films_shoulder__16a8c1c3.md
+[23:20:03]           url:  https://www.docaviv.co.il/films/shoulder/
+[23:20:04] [111/178] OK   2p 4o 1f 8r 3ro  (4.84s)
+[23:20:04]           file: festival_data__films_something-in-tzuriels-gut__cdc43c9a.md
+[23:20:04]           url:  https://www.docaviv.co.il/films/something-in-tzuriels-gut/
+[23:20:04] [112/178] OK   7p 3o 1f 10r 7ro  (7.05s)
+[23:20:04]           file: festival_data__films_soccer-for-the-soul__90cb72a6.md
+[23:20:04]           url:  https://www.docaviv.co.il/films/soccer-for-the-soul/
+[23:20:05] [113/178] OK   8p 1o 1f 0r 0ro  (12.23s)
+[23:20:05]           file: festival_data__films_scouting-for-locations-in-palestine__06bbcb89.md
+[23:20:05]           url:  https://www.docaviv.co.il/films/scouting-for-locations-in-palestine/
+[23:20:05] [114/178] OK   11p 0o 1f 0r 0ro  (12.62s)
+[23:20:05]           file: festival_data__films_saving-shuli-san-_d7_9c_d7_a9_d7_97_d7_a8_d7_a8-_d7_90_d7_aa-_d7_a9_d7_95_d7_9c_d7_99-_d7_a1_d__8c29e2a9.md
+[23:20:05]           url:  https://israelfilmfestival.com/films/saving-shuli-san-%d7%9c%d7%a9%d7%97%d7%a...
+[23:20:05] [115/178] OK   9p 11o 1f 0r 0ro  (8.02s)
+[23:20:05]           file: festival_data__films_shalom__702b8148.md
+[23:20:05]           url:  https://www.docaviv.co.il/films/shalom/
+[23:20:09] [116/178] OK   13p 4o 1f 0r 0ro  (14.38s)
+[23:20:09]           file: festival_data__films_searching-for-haifa-the-story-of-shimon-holy__bcf6dfb6.md
+[23:20:09]           url:  https://www.docaviv.co.il/films/searching-for-haifa-the-story-of-shimon-holy/
+[23:20:10] [117/178] OK   6p 4o 1f 11r 10ro  (11.3s)
+[23:20:10]           file: festival_data__films_souvenirs__73e89007.md
+[23:20:10]           url:  https://www.docaviv.co.il/films/souvenirs/
+[23:20:13] [118/178] OK   6p 9o 1f 0r 0ro  (8.12s)
+[23:20:13]           file: festival_data__films_the-big-chief__119ea6ce.md
+[23:20:13]           url:  https://www.docaviv.co.il/films/the-big-chief/
+[23:20:13] [119/178] OK   0p 0o 0f 0r 0ro  (8.84s)
+[23:20:13]           file: festival_data__films_the-best-summer__f601ecb8.md
+[23:20:13]           url:  https://www.docaviv.co.il/films/the-best-summer/
+[23:20:13] [120/178] OK   4p 2o 1f 9r 7ro  (8.67s)
+[23:20:13]           file: festival_data__films_the-confidantes__642c5e5d.md
+[23:20:13]           url:  https://www.docaviv.co.il/films/the-confidantes/
+[23:20:15] [121/178] OK   8p 3o 1f 10r 6ro  (9.81s)
+[23:20:15]           file: festival_data__films_the-campaign__ed40453a.md
+[23:20:15]           url:  https://www.docaviv.co.il/films/the-campaign/
+[23:20:15] [122/178] OK   7p 4o 1f 0r 0ro  (11.68s)
+[23:20:15]           file: festival_data__films_super-paradise-the-story-of-mykonos__8027b42e.md
+[23:20:15]           url:  https://www.docaviv.co.il/films/super-paradise-the-story-of-mykonos/
+[23:20:15] [123/178] OK   1p 1o 1f 2r 1ro  (2.02s)
+[23:20:15]           file: festival_data__films_the-million-rally__4db92b39.md
+[23:20:15]           url:  https://www.docaviv.co.il/films/the-million-rally/
+[23:20:16] [124/178] OK   6p 8o 1f 8r 7ro  (7.6s)
+[23:20:16]           file: festival_data__films_the-five-billion-dollar-scam-temporary-name__7f6d9aed.md
+[23:20:16]           url:  https://www.docaviv.co.il/films/the-five-billion-dollar-scam-temporary-name/
+[23:20:16] [125/178] OK   8p 3o 1f 0r 0ro  (11.79s)
+[23:20:16]           file: festival_data__films_the-broken-r__1c50e7b0.md
+[23:20:16]           url:  https://www.docaviv.co.il/films/the-broken-r/
+[23:20:17] [126/178] OK   2p 1o 1f 2r 2ro  (4.54s)
+[23:20:17]           file: festival_data__films_the-gypsies-of-jaffa-never-think-twice__9d82f706.md
+[23:20:17]           url:  https://www.docaviv.co.il/films/the-gypsies-of-jaffa-never-think-twice/
+[23:20:18] [127/178] OK   2p 1o 1f 2r 1ro  (3.71s)
+[23:20:18]           file: festival_data__films_the-musician-and-the-whale__ffcff847.md
+[23:20:18]           url:  https://www.docaviv.co.il/films/the-musician-and-the-whale/
+[23:20:19] [128/178] OK   1p 2o 1f 2r 1ro  (2.21s)
+[23:20:19]           file: festival_data__films_the-real-camel__d8a4ada5.md
+[23:20:19]           url:  https://www.docaviv.co.il/films/the-real-camel/
+[23:20:19] [129/178] OK   2p 3o 1f 4r 2ro  (3.54s)
+[23:20:19]           file: festival_data__films_the-orchestra-nous-lorchestre-de-paris__3842381f.md
+[23:20:19]           url:  https://www.docaviv.co.il/films/the-orchestra-nous-lorchestre-de-paris/
+[23:20:20] [130/178] OK   3p 4o 1f 6r 7ro  (5.27s)
+[23:20:20]           file: festival_data__films_the-mystery-package__745e6c32.md
+[23:20:20]           url:  https://www.docaviv.co.il/films/the-mystery-package/
+[23:20:21] [131/178] OK   10p 13o 1f 0r 0ro  (8.01s)
+[23:20:21]           file: festival_data__films_the-meteorite-gang__6c7039d3.md
+[23:20:21]           url:  https://www.docaviv.co.il/films/the-meteorite-gang/
+[23:20:21] [132/178] OK   1p 3o 1f 3r 1ro  (4.5s)
+[23:20:21]           file: festival_data__films_the-parking-lot-from-my-window__79225c36.md
+[23:20:21]           url:  https://www.docaviv.co.il/films/the-parking-lot-from-my-window/
+[23:20:23] [133/178] OK   6p 4o 1f 0r 0ro  (12.84s)
+[23:20:23]           file: festival_data__films_the-gaon-family-show__e13876ec.md
+[23:20:23]           url:  https://www.docaviv.co.il/films/the-gaon-family-show/
+[23:20:25] [134/178] OK   15p 1o 1f 0r 12ro  (8.08s)
+[23:20:25]           file: festival_data__films_the-ring-_d7_94_d7_98_d7_91_d7_a2_d7_aa__0c39f338.md
+[23:20:25]           url:  https://israelfilmfestival.com/films/the-ring-%d7%94%d7%98%d7%91%d7%a2%d7%aa/
+[23:20:27] [135/178] OK   6p 16o 1f 0r 0ro  (8.65s)
+[23:20:27]           file: festival_data__films_the-woman-in-white__eedd49ba.md
+[23:20:27]           url:  https://www.docaviv.co.il/films/the-woman-in-white/
+[23:20:29] [136/178] OK   7p 5o 2f 0r 0ro  (8.03s)
+[23:20:29]           file: festival_data__films_time-and-water__ebe08c93.md
+[23:20:29]           url:  https://www.docaviv.co.il/films/time-and-water/
+[23:20:30] [137/178] OK   1p 3o 1f 3r 3ro  (4.95s)
+[23:20:30]           file: festival_data__films_two-and-a-half-minutes-for-five-shekels__57c26038.md
+[23:20:30]           url:  https://www.docaviv.co.il/films/two-and-a-half-minutes-for-five-shekels/
+[23:20:31] [138/178] OK   8p 5o 1f 0r 0ro  (12.28s)
+[23:20:31]           file: festival_data__films_the-thing-was-like-that__b1e1f920.md
+[23:20:31]           url:  https://www.docaviv.co.il/films/the-thing-was-like-that/
+[23:20:32] [139/178] OK   7p 5o 1f 11r 9ro  (11.87s)
+[23:20:32]           file: festival_data__films_threes-a-company__718258ab.md
+[23:20:32]           url:  https://www.docaviv.co.il/films/threes-a-company/
+[23:20:33] [140/178] OK   10p 6o 1f 4r 11ro  (13.81s)
+[23:20:33]           file: festival_data__films_the-woman-who-didnt-know-how-to-love__de90f9ce.md
+[23:20:33]           url:  https://www.docaviv.co.il/films/the-woman-who-didnt-know-how-to-love/
+[23:20:33] [141/178] OK   0p 0o 0f 0r 0ro  (12.77s)
+[23:20:33]           file: festival_data__films_tonight-with-yehoram-gaon-_d7_94_d7_a2_d7_a8_d7_91-_d7_a2_d7_9d-_d7_99_d7_94_d7_95_d7_a8_d7_9d__5e556a0f.md
+[23:20:33]           url:  https://israelfilmfestival.com/films/tonight-with-yehoram-gaon-%d7%94%d7%a2%d...
+[23:20:34] [142/178] OK   7p 2o 1f 10r 10ro  (11.02s)
+[23:20:34]           file: festival_data__films_traces__da844c01.md
+[23:20:34]           url:  https://www.docaviv.co.il/films/traces/
+[23:20:38] [143/178] OK   12p 5o 1f 2r 14ro  (7.83s)
+[23:20:38]           file: festival_data__films_welded-together__8c051ad5.md
+[23:20:38]           url:  https://www.docaviv.co.il/films/welded-together/
+[23:20:38] [144/178] OK   5p 3o 1f 9r 9ro  (11.14s)
+[23:20:38]           file: festival_data__films_underdogs-a-war-movie__d923bc41.md
+[23:20:38]           url:  https://www.docaviv.co.il/films/underdogs-a-war-movie/
+[23:20:39] [145/178] OK   5p 5o 1f 9r 8ro  (10.59s)
+[23:20:39]           file: festival_data__films_wax-gold__922ee072.md
+[23:20:39]           url:  https://www.docaviv.co.il/films/wax-gold/
+[23:20:41] [146/178] OK   4p 4o 1f 9r 7ro  (7.21s)
+[23:20:41]           file: festival_data__films_whats-left-of-lia__263eab4f.md
+[23:20:41]           url:  https://www.docaviv.co.il/films/whats-left-of-lia/
+[23:20:41] [147/178] OK   1p 3o 0f 0r 1ro  (1.54s)
+[23:20:41]           file: festival_data__he_86793__f783032c.md
+[23:20:41]           url:  https://jff.org.il/he/86793
+[23:20:41] [148/178] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:20:41]           file: festival_data__he_87073__38f0d099.md
+[23:20:41]           url:  https://jff.org.il/he/87073
+[23:20:41] [149/178] OK   2p 12o 1f 3r 1ro  (8.19s)
+[23:20:41]           file: festival_data__films_what-if-perlov-had-an-iphone__d2cb9189.md
+[23:20:41]           url:  https://www.docaviv.co.il/films/what-if-perlov-had-an-iphone/
+[23:20:42] [150/178] OK   6p 2o 2f 12r 11ro  (8.0s)
+[23:20:42]           file: festival_data__films_whispers-in-the-woods__3cd24c84.md
+[23:20:42]           url:  https://www.docaviv.co.il/films/whispers-in-the-woods/
+[23:20:42]   --- progress: 150/178 (84.3%)  rate: 55.3/min  eta: 0.5min  cost so far: $0.3044 ---
+[23:20:42] [151/178] OK   1p 2o 0f 0r 1ro  (1.8s)
+[23:20:42]           file: festival_data__he_86823__65efa641.md
+[23:20:42]           url:  https://jff.org.il/he/86823
+[23:20:42] [152/178] EMPTY_CONTENT: 
+[23:20:42]           file: festival_data__team__d7_90_d7_95_d7_93_d7_99-_d7_a0_d7_99_d7_a8__552b1b04.md
+[23:20:42]           url:  https://www.docaviv.co.il/team/%d7%90%d7%95%d7%93%d7%99-%d7%a0%d7%99%d7%a8/
+[23:20:42] [153/178] EMPTY_CONTENT: 
+[23:20:42]           file: festival_data__team__d7_90_d7_9c_d7_94-_d7_90_d7_a8_d7_9e_d7_95_d7_a0_d7_99__8e612b5f.md
+[23:20:42]           url:  https://www.docaviv.co.il/team/%d7%90%d7%9c%d7%94-%d7%90%d7%a8%d7%9e%d7%95%d7...
+[23:20:44] [154/178] OK   4p 4o 1f 9r 2ro  (5.37s)
+[23:20:44]           file: festival_data__films_words-from-the-in-between__7f3b489a.md
+[23:20:44]           url:  https://www.docaviv.co.il/films/words-from-the-in-between/
+[23:20:44] [155/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_91_d7_99_d7_a1_d7_90_d7_9f-_d7_98_d7_95_d7_91_d7_99__cfa4063a.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%91%d7%99%d7%a1%d7%90%d7%9f-%d7%98%d7%95%d7...
+[23:20:44] [156/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_92_d7_99_d7_90-_d7_94_d7_95_d7_93_d7_a1__a10a3e4d.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%92%d7%99%d7%90-%d7%94%d7%95%d7%93%d7%a1/
+[23:20:44] [157/178] OK   9p 7o 1f 0r 0ro  (13.72s)
+[23:20:44]           file: festival_data__films_we-will-dance-again-_d7_a2_d7_95_d7_93-_d7_a0_d7_97_d7_96_d7_95_d7_a8-_d7_9c_d7_a8_d7_a7_d7_95__5ed21a49.md
+[23:20:44]           url:  https://israelfilmfestival.com/films/we-will-dance-again-%d7%a2%d7%95%d7%93-%...
+[23:20:44] [158/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_92_d7_9c-_d7_a8_d7_95_d7_96_d7_a0_d7_91_d7_9c_d7_95_d7_98__527eba0c.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%92%d7%9c-%d7%a8%d7%95%d7%96%d7%a0%d7%91%d7...
+[23:20:44] [159/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_94_d7_a0_d7_99_d7_94-_d7_91_d7_a8_d7_95_d7_93_d7_91_d7_a7_d7_a8__5f25a781.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%94%d7%a0%d7%99%d7%94-%d7%91%d7%a8%d7%95%d7...
+[23:20:44] [160/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_98_d7_9c-_d7_a7_d7_a0_d7_98_d7_95_d7_a8__f50f4b16.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%98%d7%9c-%d7%a7%d7%a0%d7%98%d7%95%d7%a8/
+[23:20:44] [161/178] OK   1p 1o 0f 0r 1ro  (2.03s)
+[23:20:44]           file: festival_data__team__d7_90_d7_9e_d7_a8_d7_99-_d7_93_d7_a7_d7_9c-_d7_a7_d7_93_d7_95_d7_a9__1ee71d3c.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%90%d7%9e%d7%a8%d7%99-%d7%93%d7%a7%d7%9c-%d...
+[23:20:44] [162/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_9c_d7_99-_d7_94_d7_99_d7_99_d7_9e_d7_9f__e1ca845b.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%9c%d7%99-%d7%94%d7%99%d7%99%d7%9e%d7%9f/
+[23:20:44] [163/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_9c_d7_99_d7_a8_d7_95_d7_9f-_d7_a8_d7_97_d7_9c-_d7_90_d7_a8_d7_96__95ab4cb3.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%9c%d7%99%d7%a8%d7%95%d7%9f-%d7%a8%d7%97%d7...
+[23:20:44] [164/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_9e_d7_90_d7_99-_d7_a2_d7_91_d7_90_d7_93_d7_99-_d7_92_d7_a8_d7_91_d7_9c_d7_a8__2d2869b0.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%9e%d7%90%d7%99-%d7%a2%d7%91%d7%90%d7%93%d7...
+[23:20:44] [165/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_a0_d7_95_d7_a8-_d7_94_d7_93_d7_a1__0ebe108e.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%a0%d7%95%d7%a8-%d7%94%d7%93%d7%a1/
+[23:20:44] [166/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_a2_d7_95_d7_9e_d7_a8-_d7_9e_d7_a0_d7_95_d7_a8__6d589ffa.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%a2%d7%95%d7%9e%d7%a8-%d7%9e%d7%a0%d7%95%d7...
+[23:20:44] [167/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_a2_d7_99_d7_93_d7_95-_d7_95_d7_99_d7_a1_d7_9e_d7_9f__7b1a37ee.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%a2%d7%99%d7%93%d7%95-%d7%95%d7%99%d7%a1%d7...
+[23:20:44] [168/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_a9_d7_90_d7_95_d7_9c_d7_99-_d7_9e_d7_9c_d7_9e_d7_93__9b30bcd2.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%a9%d7%90%d7%95%d7%9c%d7%99-%d7%9e%d7%9c%d7...
+[23:20:44] [169/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_a9_d7_a7_d7_93-_d7_90_d7_95_d7_a8_d7_91_d7_9a__e85d7484.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%a9%d7%a7%d7%93-%d7%90%d7%95%d7%a8%d7%91%d7...
+[23:20:44] [170/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_aa_d7_9e_d7_99_d7_a8-_d7_a0_d7_a2_d7_99_d7_9d__75060546.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%aa%d7%9e%d7%99%d7%a8-%d7%a0%d7%a2%d7%99%d7...
+[23:20:44] [171/178] EMPTY_CONTENT: 
+[23:20:44]           file: festival_data__team__d7_aa_d7_a8_d7_91_d7_95_d7_aa-_d7_a9_d7_9c-_d7_a1_d7_95_d7_9c_d7_99_d7_93_d7_a8_d7_99_d7_95_d7__10c4b105.md
+[23:20:44]           url:  https://www.docaviv.co.il/team/%d7%aa%d7%a8%d7%91%d7%95%d7%aa-%d7%a9%d7%9c-%d...
+[23:20:45] [172/178] OK   1p 0o 0f 0r 0ro  (0.93s)
+[23:20:45]           file: festival_data__team__d7_92_d7_9c-_d7_9c_d7_91__1ff63294.md
+[23:20:45]           url:  https://www.docaviv.co.il/team/%d7%92%d7%9c-%d7%9c%d7%91/
+[23:20:45] [173/178] OK   1p 6o 0f 6r 1ro  (4.16s)
+[23:20:45]           file: festival_data__root__9d838968.md
+[23:20:45]           url:  https://www.animixfest.co.il/
+[23:20:46] [174/178] OK   1p 0o 0f 0r 0ro  (1.62s)
+[23:20:46]           file: festival_data__team__d7_99_d7_95_d7_90_d7_91-_d7_91_d7_99_d7_a8_d7_9f__c308071e.md
+[23:20:46]           url:  https://www.docaviv.co.il/team/%d7%99%d7%95%d7%90%d7%91-%d7%91%d7%99%d7%a8%d7...
+[23:20:46] [175/178] OK   5p 7o 1f 0r 0ro  (14.08s)
+[23:20:46]           file: festival_data__films_wetland__4f1f77dd.md
+[23:20:46]           url:  https://www.docaviv.co.il/films/wetland/
+[23:20:46] [176/178] OK   2p 1o 6f 6r 2ro  (4.21s)
+[23:20:46]           file: festival_data__root__e01cd1e8.md
+[23:20:46]           url:  https://www.haifaff.co.il/
+[23:20:48] [177/178] OK   8p 2o 0f 9r 11ro  (7.07s)
+[23:20:48]           file: festival_data__our-team-offices__80f126a1.md
+[23:20:48]           url:  https://israelfilmfestival.com/our-team-offices/
+[23:20:50] [178/178] OK   1p 4o 16f 0r 0ro  (11.35s)
+[23:20:50]           file: festival_data__he_86058__66bcd368.md
+[23:20:50]           url:  https://jff.org.il/he/86058
+[23:20:50] ======================================================================
+[23:20:50] DONE in 2.8min
+[23:20:50]   ok:           161
+[23:20:50]   filtered:     0
+[23:20:50]   empty:        17
+[23:20:50]   load_error:   0
+[23:20:50]   llm_error:    0
+[23:20:50] Tokens: 1,146,317 in / 511,544 out  |  Cost: $0.3192
+[23:20:50] Calls: 160  |  Errors: 0  |  JSON retries: 0
+[23:20:50] Output: out/festival_data/mentions.jsonl
+[23:20:50] Summary:  out/festival_data/run_summary.json
+=== Run ended 2026-05-24T23:20:50.273844 ===
+
+=== Run started 2026-05-24T23:27:19.791126 ===
+[23:27:19] Source: festival_data
+[23:27:19] Pages dir: sources/festival_data/pages
+[23:27:19] Output dir: out/festival_data
+[23:27:19] Total .md pages found: 228  |  Already done: 178  |  To process: 50
+[23:27:19] Model: google/gemini-2.5-flash-lite  |  Workers: 8  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:27:19] Content dedup cache: 160 unique page bodies from prior ok runs
+[23:27:19] [1/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6100__a9395128.md
+[23:27:19]           url:  https://jff.org.il/he/article/6100
+[23:27:19] [2/50] SKIP (g=1 s=0) matched=['סרט']
+[23:27:19]           file: festival_data__D7_A6_D7_95_D7_95_D7_AA-_D7_94_D7_A4_D7_A1_D7_98_D7_99_D7_91_D7_9C__856a9731.md
+[23:27:19]           url:  https://www.haifaff.co.il/%D7%A6%D7%95%D7%95%D7%AA-%D7%94%D7%A4%D7%A1%D7%98%D...
+[23:27:19] [3/50] SKIP (g=1 s=0) matched=['סרט']
+[23:27:19]           file: festival_data__D7_94_D7_AA_D7_97_D7_A8_D7_95_D7_99_D7_95_D7_AA__5702d99a.md
+[23:27:19]           url:  https://www.haifaff.co.il/%D7%94%D7%AA%D7%97%D7%A8%D7%95%D7%99%D7%95%D7%AA/
+[23:27:19] [4/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6101__042f7b97.md
+[23:27:19]           url:  https://jff.org.il/he/article/6101
+[23:27:19] [5/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6103__60785d74.md
+[23:27:19]           url:  https://jff.org.il/he/article/6103
+[23:27:19] [6/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6104__2c15d744.md
+[23:27:19]           url:  https://jff.org.il/he/article/6104
+[23:27:19] [7/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6102__74836ef4.md
+[23:27:19]           url:  https://jff.org.il/he/article/6102
+[23:27:19] [8/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6105__f97e49ea.md
+[23:27:19]           url:  https://jff.org.il/he/article/6105
+[23:27:19] [9/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6106__338feb1f.md
+[23:27:19]           url:  https://jff.org.il/he/article/6106
+[23:27:19] [10/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6107__cbac3d64.md
+[23:27:19]           url:  https://jff.org.il/he/article/6107
+[23:27:19] [11/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6110__0ac2967f.md
+[23:27:19]           url:  https://jff.org.il/he/article/6110
+[23:27:19] [12/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6108__a5c50f2d.md
+[23:27:19]           url:  https://jff.org.il/he/article/6108
+[23:27:19] [13/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6109__f357f6c8.md
+[23:27:19]           url:  https://jff.org.il/he/article/6109
+[23:27:19] [14/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6113__840c42c5.md
+[23:27:19]           url:  https://jff.org.il/he/article/6113
+[23:27:19] [15/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6111__d90d7f89.md
+[23:27:19]           url:  https://jff.org.il/he/article/6111
+[23:27:19] [16/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6112__2f8cde31.md
+[23:27:19]           url:  https://jff.org.il/he/article/6112
+[23:27:19] [17/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6114__96646321.md
+[23:27:19]           url:  https://jff.org.il/he/article/6114
+[23:27:19] [18/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6115__e395f204.md
+[23:27:19]           url:  https://jff.org.il/he/article/6115
+[23:27:19] [19/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6116__b2c5ec6f.md
+[23:27:19]           url:  https://jff.org.il/he/article/6116
+[23:27:19] [20/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6117__34a009bc.md
+[23:27:19]           url:  https://jff.org.il/he/article/6117
+[23:27:19] [21/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6118__e253783e.md
+[23:27:19]           url:  https://jff.org.il/he/article/6118
+[23:27:19] [22/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6121__bae10cd6.md
+[23:27:19]           url:  https://jff.org.il/he/article/6121
+[23:27:19] [23/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6119__9503967a.md
+[23:27:19]           url:  https://jff.org.il/he/article/6119
+[23:27:19] [24/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6122__4cc1dd8c.md
+[23:27:19]           url:  https://jff.org.il/he/article/6122
+[23:27:19] [25/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6120__5406fcec.md
+[23:27:19]           url:  https://jff.org.il/he/article/6120
+[23:27:19] [26/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6123__8f27725d.md
+[23:27:19]           url:  https://jff.org.il/he/article/6123
+[23:27:19] [27/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6124__4d2881e6.md
+[23:27:19]           url:  https://jff.org.il/he/article/6124
+[23:27:19] [28/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6125__3c49cf8b.md
+[23:27:19]           url:  https://jff.org.il/he/article/6125
+[23:27:19] [29/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6126__6d940948.md
+[23:27:19]           url:  https://jff.org.il/he/article/6126
+[23:27:19] [30/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6128__11b852f4.md
+[23:27:19]           url:  https://jff.org.il/he/article/6128
+[23:27:19] [31/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6127__626c1116.md
+[23:27:19]           url:  https://jff.org.il/he/article/6127
+[23:27:19] [32/50] OK   1p 3o 0f 0r 1ro  (0s) [dedup←festival_data__he_86793__f783032c.md]
+[23:27:19]           file: festival_data__he_article_6129__4de8436e.md
+[23:27:19]           url:  https://jff.org.il/he/article/6129
+[23:27:19] [33/50] SKIP (g=0 s=0)
+[23:27:19]           file: festival_data__industry_mentors__2aa6f35d.md
+[23:27:19]           url:  https://www.docaviv.co.il/industry/mentors/
+[23:27:19] [34/50] SKIP (g=0 s=0)
+[23:27:19]           file: festival_data__industry_rough-cut-lab__16ca5c6c.md
+[23:27:19]           url:  https://www.docaviv.co.il/industry/rough-cut-lab/
+[23:27:21] [35/50] OK   0p 1o 0f 0r 0ro  (1.26s)
+[23:27:21]           file: festival_data__films__3ead0134.md
+[23:27:21]           url:  https://tlvfest.com/films/
+[23:27:21] [36/50] OK   0p 1o 0f 0r 0ro  (1.66s)
+[23:27:21]           file: festival_data__about__7cdef245.md
+[23:27:21]           url:  https://www.taufilmfest.com/about/
+[23:27:22] [37/50] OK   1p 1o 0f 0r 1ro  (2.6s)
+[23:27:22]           file: festival_data__root__1cc6f2c8.md
+[23:27:22]           url:  https://www.taufilmfest.com/
+[23:27:22] [38/50] OK   1p 2o 0f 2r 1ro  (2.67s)
+[23:27:22]           file: festival_data__he_JJFF2025_HEB__d511e28c.md
+[23:27:22]           url:  https://jer-cin.org.il/he/JJFF2025_HEB
+[23:27:22] [39/50] OK   1p 3o 0f 0r 1ro  (2.88s)
+[23:27:22]           file: festival_data__he_lobby_JJFF2025_HEB__0388ebdb.md
+[23:27:22]           url:  https://www.jer-cin.org.il/he/lobby/JJFF2025_HEB
+[23:27:23] [40/50] OK   1p 1o 5f 5r 0ro  (3.66s)
+[23:27:23]           file: festival_data__eng__3e3eba9f.md
+[23:27:23]           url:  https://www.haifaff.co.il/eng
+[23:27:23] [41/50] OK   0p 0o 0f 0r 0ro  (0.8s)
+[23:27:23]           file: festival_data__root__f3765307.md
+[23:27:23]           url:  https://iwff.net/
+[23:27:23] [42/50] OK   0p 1o 0f 0r 0ro  (1.1s)
+[23:27:23]           file: festival_data__root__aadb5316.md
+[23:27:23]           url:  https://www.haifacin.co.il/
+[23:27:23] [43/50] OK   0p 1o 0f 0r 0ro  (0s) [dedup←festival_data__films__3ead0134.md]
+[23:27:23]           file: festival_data__team__c792770c.md
+[23:27:23]           url:  https://tlvfest.com/team/
+[23:27:23] [44/50] OK   2p 2o 2f 5r 2ro  (3.83s)
+[23:27:23]           file: festival_data__he_article_6130__6331608a.md
+[23:27:23]           url:  https://jff.org.il/he/article/6130
+[23:27:23] [45/50] OK   0p 1o 0f 0r 0ro  (1.32s)
+[23:27:23]           file: festival_data__root__ace0ff19.md
+[23:27:23]           url:  https://www.sderot-cin.org.il/
+[23:27:24] [46/50] OK   3p 1o 0f 0r 5ro  (4.87s)
+[23:27:24]           file: festival_data__industry_about__0f542fe4.md
+[23:27:24]           url:  https://www.docaviv.co.il/industry/about/
+[23:27:25] [47/50] OK   3p 1o 3f 6r 3ro  (4.23s)
+[23:27:25]           file: festival_data__root__60070828.md
+[23:27:25]           url:  https://www.cinemaholon.org.il/
+[23:27:26] [48/50] OK   3p 1o 5f 8r 3ro  (4.67s)
+[23:27:26]           file: festival_data__root__7820b76d.md
+[23:27:26]           url:  https://www.hcinema.org.il/
+[23:27:26] [49/50] OK   1p 3o 0f 1r 1ro  (3.44s)
+[23:27:26]           file: festival_data__series_iranian-film-festival__716dd1a4.md
+[23:27:26]           url:  https://www.cinema.co.il/series/iranian-film-festival/
+[23:27:28] [50/50] OK   8p 9o 0f 3r 5ro  (5.28s)
+[23:27:28]           file: festival_data__root__ff164a5f.md
+[23:27:28]           url:  https://www.womeninthepicture.com/
+[23:27:28]   --- progress: 50/50 (100.0%)  rate: 335.2/min  eta: 0.0min  cost so far: $0.0121 ---
+[23:27:28] ======================================================================
+[23:27:28] DONE in 0.1min
+[23:27:28]   ok:           46
+[23:27:28]   filtered:     4
+[23:27:28]   empty:        0
+[23:27:28]   load_error:   0
+[23:27:28]   llm_error:    0
+[23:27:28] Tokens: 59,982 in / 15,217 out  |  Cost: $0.0121
+[23:27:28] Calls: 15  |  Errors: 0  |  JSON retries: 0
+[23:27:28] Output: out/festival_data/mentions.jsonl
+[23:27:28] Summary:  out/festival_data/run_summary.json
+=== Run ended 2026-05-24T23:27:28.788806 ===

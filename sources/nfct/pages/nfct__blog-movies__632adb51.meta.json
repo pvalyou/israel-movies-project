@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הכוכבים-של-שטרן/",
+  "stable_id": "nfct__blog-movies__632adb51",
+  "fetched_at": "2026-05-09T21:10:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:10:47Z",
+  "duration_ms": 33102,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:334af731feddac4e58af79c97d7f599ea0b2a2959cbb62db25a2f927a2a355d7",
+  "md_bytes": 18355,
+  "links_found": 40,
+  "files_found": 0
+}

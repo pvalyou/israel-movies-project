@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Umm+al+Hiran",
+  "stable_id": "nfct__en-movies-archive_keywords-Umm-al-Hiran__90713c64",
+  "fetched_at": "2026-05-16T16:11:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:11:05Z",
+  "duration_ms": 9271,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b4781bac4a1eb01a4ddfad176218953d8f577a76f4f61b5b6e38e7d2ffe952d3",
+  "md_bytes": 10590,
+  "links_found": 69,
+  "files_found": 0
+}

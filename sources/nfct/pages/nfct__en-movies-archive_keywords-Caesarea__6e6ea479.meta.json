@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Caesarea",
+  "stable_id": "nfct__en-movies-archive_keywords-Caesarea__6e6ea479",
+  "fetched_at": "2026-05-16T12:23:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:23:23Z",
+  "duration_ms": 9799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:886c30fcd170ffa7a4b37fc78026e2b1b96e1a1b41a27141325a97c329a1d2b9",
+  "md_bytes": 9937,
+  "links_found": 68,
+  "files_found": 0
+}

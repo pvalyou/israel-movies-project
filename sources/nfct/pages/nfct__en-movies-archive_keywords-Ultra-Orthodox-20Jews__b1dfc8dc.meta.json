@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ultra-Orthodox%20Jews",
+  "stable_id": "nfct__en-movies-archive_keywords-Ultra-Orthodox-20Jews__b1dfc8dc",
+  "fetched_at": "2026-05-16T16:57:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:14Z",
+  "duration_ms": 7556,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27fcf8b4c19ab908e313118d404eff95ee6c84cb1dd4af6b4e26ffb29faf1b33",
+  "md_bytes": 11260,
+  "links_found": 70,
+  "files_found": 0
+}

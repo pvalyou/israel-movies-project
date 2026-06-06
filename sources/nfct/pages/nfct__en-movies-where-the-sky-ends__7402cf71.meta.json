@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/where-the-sky-ends/",
+  "stable_id": "nfct__en-movies-where-the-sky-ends__7402cf71",
+  "fetched_at": "2026-05-12T04:54:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:54:26Z",
+  "duration_ms": 16546,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:712b5c6cb5242264e6f07d75cad3c6f1a4a3a7f38d272c6b73032ccc4d245144",
+  "md_bytes": 12046,
+  "links_found": 30,
+  "files_found": 0
+}

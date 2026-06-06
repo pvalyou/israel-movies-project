@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=beverage",
+  "stable_id": "nfct__en-movies-archive_keywords-beverage__66cf885b",
+  "fetched_at": "2026-05-16T20:13:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:13:26Z",
+  "duration_ms": 7990,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d0d25fe6e2b70fd7b2e8d15f30253dbdb52c3fb4c29dfec2b20e573ecdad913",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

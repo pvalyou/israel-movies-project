@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Parents%20and%20children",
+  "stable_id": "nfct__en-movies-archive_keywords-Parents-20and-20children__b385ea9c",
+  "fetched_at": "2026-05-16T13:02:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:02:26Z",
+  "duration_ms": 13960,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:73a89ad4598fa2cfa5fde73d69616852ccecbc8430ca068982cefcf735d355a4",
+  "md_bytes": 16100,
+  "links_found": 82,
+  "files_found": 0
+}

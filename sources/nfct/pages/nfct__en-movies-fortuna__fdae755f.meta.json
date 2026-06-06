@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fortuna/",
+  "stable_id": "nfct__en-movies-fortuna__fdae755f",
+  "fetched_at": "2026-05-11T05:56:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:56:03Z",
+  "duration_ms": 37743,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:77d9a5af4f83feb5f1ffdd4e8880d6f8d68a8525b0b550483218d49088a33570",
+  "md_bytes": 14039,
+  "links_found": 40,
+  "files_found": 0
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=victims%20of%20hunger",
+  "stable_id": "nfct__en_movies-archive__8054bc08",
+  "fetched_at": "2026-05-18T21:31:54.780949+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=victims%20of%20hunger",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "da3ea143c0c20198e06c1e4f3a5c988051d7541093852697823495c4fb11f6e0",
+  "md_bytes": 9579,
+  "links_found": 0,
+  "error": ""
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/9-years-later/#UAMainContent",
+  "stable_id": "nfct__en-movies-9-years-later__c2178023",
+  "fetched_at": "2026-05-16T11:05:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:17Z",
+  "duration_ms": 10128,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a31c4bc468b0d85dba077d0798decd74c42c78c49afcb2d40a01d8a22ee729e",
+  "md_bytes": 12868,
+  "links_found": 35,
+  "files_found": 0
+}

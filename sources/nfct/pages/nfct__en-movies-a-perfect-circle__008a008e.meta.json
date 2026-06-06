@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-perfect-circle/#UAMainContent",
+  "stable_id": "nfct__en-movies-a-perfect-circle__008a008e",
+  "fetched_at": "2026-05-16T12:44:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:44:30Z",
+  "duration_ms": 10483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78d9d8f06092574764b290867b38aaa43a64dd394ed8b2492ff7e6a6bb94677c",
+  "md_bytes": 12062,
+  "links_found": 31,
+  "files_found": 0
+}

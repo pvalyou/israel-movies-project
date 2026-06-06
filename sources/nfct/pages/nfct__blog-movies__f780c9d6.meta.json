@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/עיראקנרול/",
+  "stable_id": "nfct__blog-movies__f780c9d6",
+  "fetched_at": "2026-05-09T17:34:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:34:55Z",
+  "duration_ms": 37457,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c2e379342b78b13f7b2640f344eb1d554940592dee306e14ccdad7d2eaa623bd",
+  "md_bytes": 22768,
+  "links_found": 45,
+  "files_found": 0
+}

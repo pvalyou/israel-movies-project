@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הגוף-זוכר/",
+  "stable_id": "nfct__blog-movies__49491796",
+  "fetched_at": "2026-05-15T08:59:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:13Z",
+  "duration_ms": 27200,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e6c05f97f38d6bd910308e8ce2e75ab42a9b7deb4aa762bb9ff7ba0eda5e3a36",
+  "md_bytes": 16512,
+  "links_found": 33,
+  "files_found": 0
+}

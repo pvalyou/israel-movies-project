@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Prime%20Minister",
+  "stable_id": "nfct__en-movies-archive_keywords-Prime-20Minister__f3f07db3",
+  "fetched_at": "2026-05-16T10:24:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:24:09Z",
+  "duration_ms": 9939,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:83c853bf8bbf72ea59e930006fd663f1ec77fba3b2c0bc57cd04c88c5a952e28",
+  "md_bytes": 13158,
+  "links_found": 74,
+  "files_found": 0
+}

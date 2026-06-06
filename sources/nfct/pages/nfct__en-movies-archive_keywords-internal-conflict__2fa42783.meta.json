@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=internal+conflict",
+  "stable_id": "nfct__en-movies-archive_keywords-internal-conflict__2fa42783",
+  "fetched_at": "2026-05-16T17:33:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:33:15Z",
+  "duration_ms": 12849,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3028ee7270888d96ae84279344e4d1fc0d8682a9d98f3df726a97c49d009fb88",
+  "md_bytes": 12117,
+  "links_found": 72,
+  "files_found": 0
+}

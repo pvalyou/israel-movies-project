@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/information-for-foreign-producers/",
+  "stable_id": "nfct__en-information-for-foreign-producers__0719501d",
+  "fetched_at": "2026-05-15T21:34:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:34:15Z",
+  "duration_ms": 9300,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d020747de05245e22fec3fba6b9045d29555ce714037a8aacc3a996734ee02c",
+  "md_bytes": 12083,
+  "links_found": 16,
+  "files_found": 22
+}

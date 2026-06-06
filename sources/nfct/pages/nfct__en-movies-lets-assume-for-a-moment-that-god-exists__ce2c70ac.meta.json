@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lets-assume-for-a-moment-that-god-exists/",
+  "stable_id": "nfct__en-movies-lets-assume-for-a-moment-that-god-exists__ce2c70ac",
+  "fetched_at": "2026-05-11T15:12:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:12:17Z",
+  "duration_ms": 32040,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c1a2d94c21536a83f99d91f1517e4f752d2fa91ca5d73c888bac56a544d81dbf",
+  "md_bytes": 11636,
+  "links_found": 24,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=arichival%20material",
+  "stable_id": "nfct__en-movies-archive_keywords-arichival-20material__2406dd38",
+  "fetched_at": "2026-05-16T20:15:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:15:13Z",
+  "duration_ms": 5808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2da0a267ad788d33e7b5ddfcb7674c7a092875de330f93e3f0871998c952bda6",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

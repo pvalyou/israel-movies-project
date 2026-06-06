@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שלושה-בתמונע/",
+  "stable_id": "nfct__blog-movies__4e7e5a55",
+  "fetched_at": "2026-05-09T19:08:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:08:38Z",
+  "duration_ms": 18630,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:042d9f92b7c86b3a022ef3eeb7e15d35c6d5a5253c158d2091ab10d706f9dff6",
+  "md_bytes": 15708,
+  "links_found": 28,
+  "files_found": 0
+}

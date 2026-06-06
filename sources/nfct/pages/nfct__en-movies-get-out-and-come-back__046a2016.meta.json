@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/get-out-and-come-back/",
+  "stable_id": "nfct__en-movies-get-out-and-come-back__046a2016",
+  "fetched_at": "2026-05-11T18:16:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:16:15Z",
+  "duration_ms": 28855,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:334f401bd7884b797263e1c378c609056e2de48e75530db9ad6b7e9c328e609f",
+  "md_bytes": 14870,
+  "links_found": 43,
+  "files_found": 0
+}

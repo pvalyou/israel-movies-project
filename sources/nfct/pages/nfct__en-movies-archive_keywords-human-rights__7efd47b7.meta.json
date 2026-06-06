@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=human+rights",
+  "stable_id": "nfct__en-movies-archive_keywords-human-rights__7efd47b7",
+  "fetched_at": "2026-05-16T13:05:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:05:30Z",
+  "duration_ms": 22949,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0e6f3f5d92f986aa8b88ecd156263087049facbd14c21b65e7e1fed7748b4a3c",
+  "md_bytes": 10438,
+  "links_found": 69,
+  "files_found": 0
+}

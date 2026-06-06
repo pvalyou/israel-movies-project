@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=concentration+camps",
+  "stable_id": "nfct__en-movies-archive_keywords-concentration-camps__35728bd0",
+  "fetched_at": "2026-05-16T14:46:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:56Z",
+  "duration_ms": 8123,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3eacc1c4fd4d3e48eaf86332be35744b6f0a3f18654eb177f7def65ef9dd0079",
+  "md_bytes": 10732,
+  "links_found": 69,
+  "files_found": 0
+}

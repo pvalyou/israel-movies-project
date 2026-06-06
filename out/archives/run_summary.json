@@ -1,0 +1,21 @@
+{
+  "source_name": "archives",
+  "run_date": "2026-05-18",
+  "elapsed_min": 0.14,
+  "pages_total": 4,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 4,
+  "status_counts": {
+    "ok": 4,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 40131,
+  "tokens_output": 13696,
+  "cost_usd": 0.0095,
+  "calls": 4,
+  "errors": 0,
+  "json_retries": 0
+}

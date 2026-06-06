@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=legal+battle",
+  "stable_id": "nfct__en-movies-archive_keywords-legal-battle__0243e339",
+  "fetched_at": "2026-05-16T15:33:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:33:04Z",
+  "duration_ms": 9265,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:524e50e0dbd16e9b1bb15849e41681aa0fb5fa2769fcc5a9523d88df7aa28d68",
+  "md_bytes": 11731,
+  "links_found": 72,
+  "files_found": 0
+}

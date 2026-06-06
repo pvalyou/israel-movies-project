@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mini-dv/",
+  "stable_id": "nfct__en-movies-mini-dv__86ef9f1a",
+  "fetched_at": "2026-05-11T14:18:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:18:43Z",
+  "duration_ms": 29529,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9eb52ec75be9d82d73c7b3a92c933b62f7f3f6c9488c2b590a4527a86585b289",
+  "md_bytes": 14808,
+  "links_found": 43,
+  "files_found": 0
+}

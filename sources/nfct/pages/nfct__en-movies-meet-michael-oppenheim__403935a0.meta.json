@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/meet-michael-oppenheim/#UAMainContent",
+  "stable_id": "nfct__en-movies-meet-michael-oppenheim__403935a0",
+  "fetched_at": "2026-05-16T17:01:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:01:49Z",
+  "duration_ms": 7632,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d1dc2385b56dd23d429e80c7809731fd5c2468f644b2b1c3db7e4050b123427a",
+  "md_bytes": 12720,
+  "links_found": 33,
+  "files_found": 0
+}

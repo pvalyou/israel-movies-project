@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/האם-אני-יכול-להגיש-את-הפרויקט-בשפה-האנג/",
+  "stable_id": "nfct__blog__8a1bbb57",
+  "fetched_at": "2026-05-09T16:25:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:25:26Z",
+  "duration_ms": 26414,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07ff803538d4c2836e97b22a91ac97a3bb25434d8ccf0853ac5213f713c288ef",
+  "md_bytes": 11656,
+  "links_found": 26,
+  "files_found": 0
+}

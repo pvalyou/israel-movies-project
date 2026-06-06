@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/פרויקט-ארבעה-סיפורים-מהנגב/",
+  "stable_id": "nfct__blog-specials__5ceda6cf",
+  "fetched_at": "2026-05-09T17:59:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:59:01Z",
+  "duration_ms": 8200,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d5d6fe3b8cb9e8f15d97f1373d9c6bdebc9ad1cb0a292504393814b74ed0587a",
+  "md_bytes": 10376,
+  "links_found": 21,
+  "files_found": 0
+}

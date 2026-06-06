@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=miracle%20worker",
+  "stable_id": "nfct__en-movies-archive_keywords-miracle-20worker__603dc96c",
+  "fetched_at": "2026-05-16T14:27:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:27:54Z",
+  "duration_ms": 8562,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f1f25919f1114356670913b76f8e8f6b5f0544fa56d502e65d5b608f2cb4c1e",
+  "md_bytes": 10268,
+  "links_found": 68,
+  "files_found": 0
+}

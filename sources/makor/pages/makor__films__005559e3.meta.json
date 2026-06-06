@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/תמיכה-מלאה/",
+  "stable_id": "makor__films__005559e3",
+  "fetched_at": "2026-05-09T12:59:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:07Z",
+  "duration_ms": 18014,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a7d58eee322989b75fdf02e19ab84b9714212ec5d83110c8d431f99d7dad0439",
+  "md_bytes": 4121,
+  "links_found": 4,
+  "files_found": 0
+}

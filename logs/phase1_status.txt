@@ -1,0 +1,14 @@
+Phase 1 - EDB Film Scraper: COMPLETE
+=====================================
+Date: 2026-05-29
+Runtime: ~4 min
+
+Phase 1a - Film ID Collection: 286 total (199 features + 98 shorts, some overlap)
+Phase 1b - Crew Scraping: 285 films scraped, 4,974 crew entries
+  - 1 film timed out (t0016167)
+Phase 1c - Export: out/edb/mentions.jsonl (285 films, 4,974 crew members)
+
+File sizes:
+  edb_film_ids.json: ~5KB (286 IDs)
+  edb_films.json: ~2MB (285 films with crew)
+  out/edb/mentions.jsonl: ~1.5MB (285 JSONL records)

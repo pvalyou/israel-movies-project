@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=dolphin%20therapy",
+  "stable_id": "nfct__en-movies-archive_keywords-dolphin-20therapy__b58aaadc",
+  "fetched_at": "2026-05-16T14:31:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:31:05Z",
+  "duration_ms": 8937,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:858159ce7792989f4c6ece239f5f91ab2e1b78db61a79b929cdffca684f2e6ef",
+  "md_bytes": 10007,
+  "links_found": 68,
+  "files_found": 0
+}

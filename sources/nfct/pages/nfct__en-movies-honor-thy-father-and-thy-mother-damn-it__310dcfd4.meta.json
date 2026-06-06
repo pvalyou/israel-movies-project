@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/honor-thy-father-and-thy-mother-damn-it/",
+  "stable_id": "nfct__en-movies-honor-thy-father-and-thy-mother-damn-it__310dcfd4",
+  "fetched_at": "2026-05-15T15:32:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:32:12Z",
+  "duration_ms": 6998,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f215047a39be0b74ded2e2d9c659f4c5da3816e834ff1c2a551878eb99bcc8f",
+  "md_bytes": 14638,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fundamentalism",
+  "stable_id": "nfct__en-movies-archive_keywords-fundamentalism__8f7e8441",
+  "fetched_at": "2026-05-16T10:15:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:15:07Z",
+  "duration_ms": 7100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb0dec234986722e056a7a40be34f4f3244c1d96346681fb85b5dae4bc3ba1e7",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

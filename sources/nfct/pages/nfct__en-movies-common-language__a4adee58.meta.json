@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/common-language/",
+  "stable_id": "nfct__en-movies-common-language__a4adee58",
+  "fetched_at": "2026-05-12T02:20:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:20:41Z",
+  "duration_ms": 13048,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8d961a3c4a9404209b3466038a07a6f76bf41e19a9217cd62902cab2283077d",
+  "md_bytes": 10836,
+  "links_found": 32,
+  "files_found": 0
+}

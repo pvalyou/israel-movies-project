@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/state-of-emergency/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-state-of-emergency__49a42b29",
+  "fetched_at": "2026-05-16T13:27:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:27:03Z",
+  "duration_ms": 9829,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1777542111a8d49e039338d539624381b0593fd32341c183aefb504269903099",
+  "md_bytes": 15109,
+  "links_found": 43,
+  "files_found": 0
+}

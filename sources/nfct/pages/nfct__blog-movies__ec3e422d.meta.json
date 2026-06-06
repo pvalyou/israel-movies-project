@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דויד-הצעיר/",
+  "stable_id": "nfct__blog-movies__ec3e422d",
+  "fetched_at": "2026-05-09T17:27:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:27:03Z",
+  "duration_ms": 14817,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7e8d4e03274cc25dccc8abf1735bc3ad9776e0bbedfcb3b3cdb1ea04d006b214",
+  "md_bytes": 13219,
+  "links_found": 27,
+  "files_found": 0
+}

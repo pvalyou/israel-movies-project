@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cutting-free-from-suzie/",
+  "stable_id": "nfct__en-movies-cutting-free-from-suzie__4ce64e18",
+  "fetched_at": "2026-05-11T02:58:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:58:41Z",
+  "duration_ms": 7582,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f7cee94754dfe52ca3dce29bf6a3350187fd5b43ef5055b4ac296f4e1f6c3e00",
+  "md_bytes": 11887,
+  "links_found": 28,
+  "files_found": 0
+}

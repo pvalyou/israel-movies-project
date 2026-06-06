@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ashraf%20Marwan",
+  "stable_id": "nfct__en-movies-archive_keywords-Ashraf-20Marwan__f9f96080",
+  "fetched_at": "2026-05-16T15:56:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:56:38Z",
+  "duration_ms": 8532,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:707fa0b0c8e04371144b1f6d058c6df2358c2d098062fdaea3e9b6b64e3dca01",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

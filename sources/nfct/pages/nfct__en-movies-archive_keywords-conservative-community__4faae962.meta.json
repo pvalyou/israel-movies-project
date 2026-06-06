@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conservative+community",
+  "stable_id": "nfct__en-movies-archive_keywords-conservative-community__4faae962",
+  "fetched_at": "2026-05-16T14:38:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:38:32Z",
+  "duration_ms": 10029,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4a2a649c26a01b713378c8c7e06c7e1c6dfc312af076ed1ac5b3ddb254c38a92",
+  "md_bytes": 9819,
+  "links_found": 67,
+  "files_found": 0
+}

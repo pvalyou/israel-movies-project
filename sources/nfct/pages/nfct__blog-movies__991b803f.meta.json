@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סרט-מהחיים/",
+  "stable_id": "nfct__blog-movies__991b803f",
+  "fetched_at": "2026-05-09T21:58:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:58:26Z",
+  "duration_ms": 29382,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0c229641b3d76bc52eecb1e5f843f9a0c019d0ea90acf5c10c982dd426e8945",
+  "md_bytes": 20645,
+  "links_found": 46,
+  "files_found": 0
+}

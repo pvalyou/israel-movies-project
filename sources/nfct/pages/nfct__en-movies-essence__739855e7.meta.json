@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/essence/",
+  "stable_id": "nfct__en-movies-essence__739855e7",
+  "fetched_at": "2026-05-11T22:06:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:06:53Z",
+  "duration_ms": 13934,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1140f339543bfe995cc5326161f4e16dbcbd99eded73ea7fe7b240d82d11923a",
+  "md_bytes": 12482,
+  "links_found": 36,
+  "files_found": 0
+}

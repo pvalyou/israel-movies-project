@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lady-titi/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-lady-titi__17f3ae2a",
+  "fetched_at": "2026-05-16T16:26:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:26:13Z",
+  "duration_ms": 9252,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5aa974b5b222772785918b82f4fbc3a4fb32a3d81504af1f3f32caacf3ce0ebe",
+  "md_bytes": 14890,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חולת-רדיו/",
+  "stable_id": "nfct__blog-movies__04ee767d",
+  "fetched_at": "2026-05-09T22:08:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:08:32Z",
+  "duration_ms": 33285,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af0f2ac1b61233eb0e0d82f53e2a40783b7aad0f161ea76a7809d7a7ed321174",
+  "md_bytes": 15946,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mine+Clearer",
+  "stable_id": "nfct__en-movies-archive_keywords-Mine-Clearer__68506224",
+  "fetched_at": "2026-05-16T12:54:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:54:32Z",
+  "duration_ms": 8734,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6cbb3f3f5b98e16c18bca036d2be40aee022f7c063fbe22ddc5fc0f452c0c10f",
+  "md_bytes": 10478,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החיים-על-פי-אוהד/",
+  "stable_id": "nfct__blog-movies__6acab84b",
+  "fetched_at": "2026-05-09T22:04:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:04:52Z",
+  "duration_ms": 24806,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2fffb3099d92b0457ff32daa66f8475027c0718bbe356e916823bc157c1dea98",
+  "md_bytes": 17715,
+  "links_found": 40,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האקדח/",
+  "stable_id": "nfct__blog-movies__f64cda69",
+  "fetched_at": "2026-05-09T20:02:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:02:33Z",
+  "duration_ms": 40574,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a741876e2c5058d26a1b28f988c50e6a5e881afe94743001eef7209f26bb8e3",
+  "md_bytes": 19754,
+  "links_found": 48,
+  "files_found": 0
+}

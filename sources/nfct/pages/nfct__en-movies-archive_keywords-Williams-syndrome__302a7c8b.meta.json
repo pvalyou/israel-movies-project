@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Williams+syndrome",
+  "stable_id": "nfct__en-movies-archive_keywords-Williams-syndrome__302a7c8b",
+  "fetched_at": "2026-05-16T12:21:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:59Z",
+  "duration_ms": 12073,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0b319d9997c09cd79d1986e25e2b068c142e8d7e9763b77ed183146d8bebc195",
+  "md_bytes": 10225,
+  "links_found": 68,
+  "files_found": 0
+}

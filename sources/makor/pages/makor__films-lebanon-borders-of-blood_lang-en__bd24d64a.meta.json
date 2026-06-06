@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/lebanon-borders-of-blood/?lang=en",
+  "stable_id": "makor__films-lebanon-borders-of-blood_lang-en__bd24d64a",
+  "fetched_at": "2026-05-09T12:54:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:54:43Z",
+  "duration_ms": 11314,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd8539fb96632cc1962409b2f28e5b0b134b171e5d6a7d42be121569b82d28fa",
+  "md_bytes": 2073,
+  "links_found": 4,
+  "files_found": 0
+}

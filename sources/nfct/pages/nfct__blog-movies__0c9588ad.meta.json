@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חיים-על-הגבול/",
+  "stable_id": "nfct__blog-movies__0c9588ad",
+  "fetched_at": "2026-05-09T22:13:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:13:24Z",
+  "duration_ms": 37583,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67b44c0e16d46cedc89292c5ea34ed0b2e76d6ff8b12668762293a90580c150d",
+  "md_bytes": 21596,
+  "links_found": 48,
+  "files_found": 0
+}

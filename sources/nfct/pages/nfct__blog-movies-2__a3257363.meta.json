@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/2-דגלים/",
+  "stable_id": "nfct__blog-movies-2__a3257363",
+  "fetched_at": "2026-05-09T21:50:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:50:58Z",
+  "duration_ms": 33168,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c505dafc387fdb564b7e4e5cdcba3d2212d4b42dfc612058bbad639d27ea61d",
+  "md_bytes": 15573,
+  "links_found": 40,
+  "files_found": 0
+}

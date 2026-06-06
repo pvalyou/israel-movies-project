@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-תקופת-מבחן-אביגיל-שפרבר-פסטיבל-3/",
+  "stable_id": "nfct__events-event------------3__4fcb9e61",
+  "fetched_at": "2026-05-15T09:16:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:16:40Z",
+  "duration_ms": 11866,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f08fcd8d445afa1d660c63621c4dd3bb179ecd22ee0c156bed64e808dba30106",
+  "md_bytes": 10610,
+  "links_found": 21,
+  "files_found": 0
+}

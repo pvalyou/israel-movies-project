@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-גבר-מהסרטים-נואית-גבע-סינמטק-תל-7/",
+  "stable_id": "nfct__events-event--------------7__cb4b58b2",
+  "fetched_at": "2026-05-10T02:12:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:12:11Z",
+  "duration_ms": 19779,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:31b613ec5b9105669dc2434adead293c0fa3ecadb79099a88f34a16fe471aa8f",
+  "md_bytes": 13159,
+  "links_found": 28,
+  "files_found": 0
+}

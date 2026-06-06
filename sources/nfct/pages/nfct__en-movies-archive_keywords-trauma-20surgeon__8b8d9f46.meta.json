@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=trauma%20surgeon",
+  "stable_id": "nfct__en-movies-archive_keywords-trauma-20surgeon__8b8d9f46",
+  "fetched_at": "2026-05-16T16:36:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:36:34Z",
+  "duration_ms": 6076,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2a3caaefaeaa326f0b650c3f32189021e1065233791eb13e5edcd7b372ba26a9",
+  "md_bytes": 10025,
+  "links_found": 68,
+  "files_found": 0
+}

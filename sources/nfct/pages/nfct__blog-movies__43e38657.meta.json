@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לוס-אנגלס-דרום-מחזמר-דוקומנטרי/",
+  "stable_id": "nfct__blog-movies__43e38657",
+  "fetched_at": "2026-05-15T09:01:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:55Z",
+  "duration_ms": 11408,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7a028635afbdcc0bbea26712b93affd2a7cfa60b30f1633c953d3bf050e4c0c4",
+  "md_bytes": 17425,
+  "links_found": 35,
+  "files_found": 0
+}

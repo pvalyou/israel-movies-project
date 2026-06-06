@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=reconciliation",
+  "stable_id": "nfct__en-movies-archive_keywords-reconciliation__2452b867",
+  "fetched_at": "2026-05-16T20:13:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:13:36Z",
+  "duration_ms": 5714,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be8fc56e5aee355cd65af9fbcb8c3c67616f8950bf64d3d37fef7bbbe5d535b3",
+  "md_bytes": 12653,
+  "links_found": 73,
+  "files_found": 0
+}

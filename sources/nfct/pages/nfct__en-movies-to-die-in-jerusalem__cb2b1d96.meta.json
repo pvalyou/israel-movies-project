@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/to-die-in-jerusalem/#UAMainContent",
+  "stable_id": "nfct__en-movies-to-die-in-jerusalem__cb2b1d96",
+  "fetched_at": "2026-05-16T04:44:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:44:11Z",
+  "duration_ms": 13660,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c383138e92b488cd7fe64337230661bb401ba7a6e2a0b268afbce419df3c5028",
+  "md_bytes": 16577,
+  "links_found": 39,
+  "files_found": 0
+}

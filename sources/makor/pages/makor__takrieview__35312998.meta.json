@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/takrieview/",
+  "stable_id": "makor__takrieview__35312998",
+  "fetched_at": "2026-05-09T12:17:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:17:42Z",
+  "duration_ms": 10403,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82bb2bc57eaff32347aa1e8a6fb30f193adad4f25ed84624819a59b37aaf399b",
+  "md_bytes": 1280,
+  "links_found": 1,
+  "files_found": 0
+}

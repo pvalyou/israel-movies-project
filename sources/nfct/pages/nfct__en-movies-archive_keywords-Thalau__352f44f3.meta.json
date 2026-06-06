@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Thalau",
+  "stable_id": "nfct__en-movies-archive_keywords-Thalau__352f44f3",
+  "fetched_at": "2026-05-16T15:48:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:48:48Z",
+  "duration_ms": 9220,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:19719d25ac0a8d0721542c48fa53271571900cb32f3e1241f019c7816a9ffd9f",
+  "md_bytes": 10015,
+  "links_found": 68,
+  "files_found": 0
+}

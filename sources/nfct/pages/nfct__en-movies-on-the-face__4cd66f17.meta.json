@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/on-the-face/",
+  "stable_id": "nfct__en-movies-on-the-face__4cd66f17",
+  "fetched_at": "2026-05-12T02:19:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:19:43Z",
+  "duration_ms": 27887,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84d16d7e54d19726ccc786d7e305b3dc43a23d19e53977fce5787ca76b74e774",
+  "md_bytes": 11908,
+  "links_found": 35,
+  "files_found": 0
+}

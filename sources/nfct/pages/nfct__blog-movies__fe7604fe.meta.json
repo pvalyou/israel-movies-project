@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אביונה/",
+  "stable_id": "nfct__blog-movies__fe7604fe",
+  "fetched_at": "2026-05-09T20:07:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:07:10Z",
+  "duration_ms": 17369,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07c1a951d421bdbb268581ba878bb76271585b2bc7026f01098c4beea83f00f9",
+  "md_bytes": 14710,
+  "links_found": 29,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Independence+Day",
+  "stable_id": "nfct__en-movies-archive_keywords-Independence-Day__8a0ccc24",
+  "fetched_at": "2026-05-16T06:34:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:34:52Z",
+  "duration_ms": 6615,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e493900b0abf35b3c0e4ea9669fd0499f57f3487c9920284c480b6b8bc157ce8",
+  "md_bytes": 11644,
+  "links_found": 73,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=radio",
+  "stable_id": "nfct__en-movies-archive_keywords-radio__6c447c32",
+  "fetched_at": "2026-05-16T13:04:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:04:17Z",
+  "duration_ms": 14429,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:69c00800a17fe7a12f19a9e18aabf511e0fdf2307b204e48cb32da9fcfd668f0",
+  "md_bytes": 16135,
+  "links_found": 81,
+  "files_found": 0
+}

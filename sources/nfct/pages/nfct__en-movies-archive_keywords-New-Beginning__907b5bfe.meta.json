@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=New+Beginning",
+  "stable_id": "nfct__en-movies-archive_keywords-New-Beginning__907b5bfe",
+  "fetched_at": "2026-05-16T14:53:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:53:14Z",
+  "duration_ms": 8420,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2391f8c24cf3f56288de8a3f410b735a2052bbea998d8ad3d74cd5cb18b9c086",
+  "md_bytes": 12181,
+  "links_found": 72,
+  "files_found": 0
+}

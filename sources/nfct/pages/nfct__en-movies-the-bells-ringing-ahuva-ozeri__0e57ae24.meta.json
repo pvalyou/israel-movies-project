@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-bells-ringing-ahuva-ozeri/",
+  "stable_id": "nfct__en-movies-the-bells-ringing-ahuva-ozeri__0e57ae24",
+  "fetched_at": "2026-05-11T20:04:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:04:06Z",
+  "duration_ms": 26613,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c9e1929e58e12e60bb6eb20a4f4fccb7e0979f596411f1824dee1a8b0ca9738b",
+  "md_bytes": 15533,
+  "links_found": 45,
+  "files_found": 0
+}

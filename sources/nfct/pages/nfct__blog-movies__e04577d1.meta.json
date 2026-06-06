@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/צום/",
+  "stable_id": "nfct__blog-movies__e04577d1",
+  "fetched_at": "2026-05-09T21:40:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:40:19Z",
+  "duration_ms": 19104,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32dfad217118985de2c3ea87eef3de06f3dc683d9eb02aa17716d824e7f93aa4",
+  "md_bytes": 13252,
+  "links_found": 33,
+  "files_found": 0
+}

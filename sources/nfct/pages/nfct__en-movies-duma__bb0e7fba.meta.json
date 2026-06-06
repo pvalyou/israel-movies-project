@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/duma/",
+  "stable_id": "nfct__en-movies-duma__bb0e7fba",
+  "fetched_at": "2026-05-11T01:05:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T01:05:54Z",
+  "duration_ms": 19276,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dcac9c2d7e3d976926de0634b3b7ca4397fa55581c4a1e8681f27ab5628eaeea",
+  "md_bytes": 14130,
+  "links_found": 34,
+  "files_found": 0
+}

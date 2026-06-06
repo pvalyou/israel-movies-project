@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Annapurna",
+  "stable_id": "nfct__en-movies-archive_keywords-Annapurna__741506fa",
+  "fetched_at": "2026-05-16T16:16:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:16:39Z",
+  "duration_ms": 5895,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4093572a831a78f4357a2d62220989036c9b7d6560f95612264b4c2e437cacc4",
+  "md_bytes": 10282,
+  "links_found": 68,
+  "files_found": 0
+}

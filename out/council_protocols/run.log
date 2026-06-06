@@ -1,0 +1,22 @@
+
+=== Run started 2026-05-15T11:08:18.818971 ===
+[11:08:18] Source: council_protocols
+[11:08:18] Pages dir: sources/council_protocols/pages
+[11:08:18] Output dir: out/council_protocols
+[11:08:18] Total .md pages found: 1  |  Already done: 0  |  To process: 1
+[11:08:18] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:08:18] [1/1] SKIP (g=0 s=0)
+[11:08:18]           file: council_protocols__he-pages-pr8__c0c7d9a5.md
+[11:08:18]           url:  https://www.gov.il/he/pages/pr8
+[11:08:18] ======================================================================
+[11:08:18] DONE in 0.0min
+[11:08:18]   ok:           0
+[11:08:18]   filtered:     1
+[11:08:18]   empty:        0
+[11:08:18]   load_error:   0
+[11:08:18]   llm_error:    0
+[11:08:18] Tokens: 0 in / 0 out  |  Cost: $0.0000
+[11:08:18] Calls: 0  |  Errors: 0  |  JSON retries: 0
+[11:08:18] Output: out/council_protocols/mentions.jsonl
+[11:08:18] Summary:  out/council_protocols/run_summary.json
+=== Run ended 2026-05-15T11:08:18.845650 ===

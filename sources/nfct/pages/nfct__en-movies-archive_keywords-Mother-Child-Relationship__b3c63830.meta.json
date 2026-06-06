@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mother-Child+Relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-Mother-Child-Relationship__b3c63830",
+  "fetched_at": "2026-05-16T12:57:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:57:51Z",
+  "duration_ms": 9577,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:28886af035060feb24337cfdf5ff7fa4e35c622c9b2776185f7fb6ab4de8b5ee",
+  "md_bytes": 9825,
+  "links_found": 67,
+  "files_found": 0
+}

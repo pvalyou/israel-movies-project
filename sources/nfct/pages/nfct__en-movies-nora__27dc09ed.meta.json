@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nora/#UArexazDFN",
+  "stable_id": "nfct__en-movies-nora__27dc09ed",
+  "fetched_at": "2026-05-16T13:12:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:12:25Z",
+  "duration_ms": 9649,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc04fb39373c9eb805eabb149856c62aaeeef5f3d402b86b4a85f4a237f47e90",
+  "md_bytes": 12304,
+  "links_found": 33,
+  "files_found": 0
+}

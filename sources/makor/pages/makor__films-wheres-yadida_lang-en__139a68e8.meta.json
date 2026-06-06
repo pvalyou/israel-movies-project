@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/wheres-yadida/?lang=en",
+  "stable_id": "makor__films-wheres-yadida_lang-en__139a68e8",
+  "fetched_at": "2026-05-09T12:57:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:57:49Z",
+  "duration_ms": 8599,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b01c23a4bdd7508e42408e5386d0904777531bd1979b42ee6d6610a4a6de4df",
+  "md_bytes": 2652,
+  "links_found": 4,
+  "files_found": 0
+}

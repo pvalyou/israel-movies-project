@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/an-ordinary-life/?lang=en",
+  "stable_id": "makor__films-an-ordinary-life_lang-en__a2c2c988",
+  "fetched_at": "2026-05-09T13:13:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:13:44Z",
+  "duration_ms": 10981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f47d12023d0f99e262e657e4a0f5b174ccb101b7532f49b60fd2d669e05895c4",
+  "md_bytes": 2566,
+  "links_found": 4,
+  "files_found": 0
+}

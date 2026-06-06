@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israel+landscape",
+  "stable_id": "nfct__en-movies-archive_keywords-Israel-landscape__cd683d0f",
+  "fetched_at": "2026-05-16T16:52:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:52:41Z",
+  "duration_ms": 13608,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:22552fce4515e72df5c0368d9293ecbe672450a98e972e3819f2a1160145615b",
+  "md_bytes": 12732,
+  "links_found": 73,
+  "files_found": 0
+}

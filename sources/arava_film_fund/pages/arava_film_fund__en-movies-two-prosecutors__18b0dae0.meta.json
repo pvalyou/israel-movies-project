@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/two-prosecutors/#main",
+  "stable_id": "arava_film_fund__en-movies-two-prosecutors__18b0dae0",
+  "fetched_at": "2026-05-08T10:21:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:21:35Z",
+  "duration_ms": 8124,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:59fc17f909d84e5787295f2e7b9cd7d0176b0f519ce2de823903869eed64c4ca",
+  "md_bytes": 3538,
+  "links_found": 9,
+  "files_found": 0
+}

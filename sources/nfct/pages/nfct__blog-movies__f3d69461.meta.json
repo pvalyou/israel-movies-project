@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שעות-הפנאי-ורוניקה/",
+  "stable_id": "nfct__blog-movies__f3d69461",
+  "fetched_at": "2026-05-15T08:59:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:35Z",
+  "duration_ms": 8118,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4de2f450fec1a1be266c83552b19e0959c7939edc22cdb04485a288a36783e62",
+  "md_bytes": 17412,
+  "links_found": 30,
+  "files_found": 0
+}

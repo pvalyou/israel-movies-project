@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-ממלכת-עדני-ראובן-ברודסקי-yes-דוקו-2/",
+  "stable_id": "nfct__events-event----------yes---2__c6931478",
+  "fetched_at": "2026-05-10T06:22:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:22:10Z",
+  "duration_ms": 8826,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:61a44e8dc3f88afd9b80b1bace903eee3762f01248ab72043004b1e49941791e",
+  "md_bytes": 9789,
+  "links_found": 21,
+  "files_found": 0
+}

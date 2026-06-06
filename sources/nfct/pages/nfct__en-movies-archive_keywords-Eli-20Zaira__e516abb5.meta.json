@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eli%20Zaira",
+  "stable_id": "nfct__en-movies-archive_keywords-Eli-20Zaira__e516abb5",
+  "fetched_at": "2026-05-16T15:56:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:56:38Z",
+  "duration_ms": 7932,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1091c4808d5a7124b67f1e715eca84f7309dbcc01c1a366d0a816bfb7ad70d25",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

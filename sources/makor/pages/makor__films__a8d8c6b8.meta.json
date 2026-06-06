@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/וְאֵין-הַקּוֹל-נִשְׁמַע/",
+  "stable_id": "makor__films__a8d8c6b8",
+  "fetched_at": "2026-05-09T12:49:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:49:30Z",
+  "duration_ms": 7067,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb712b8d65f61e1d1de57448d7a9299a32ad779139be4eabc9d4840b26169448",
+  "md_bytes": 2674,
+  "links_found": 3,
+  "files_found": 0
+}

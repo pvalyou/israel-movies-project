@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nelsons-last-stand/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-nelsons-last-stand__d185c766",
+  "fetched_at": "2026-05-16T14:45:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:45:11Z",
+  "duration_ms": 6354,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e41380b46dac75527466022939f6ad40f84aa3d6114652519bfbbf80b6a6fc2f",
+  "md_bytes": 14186,
+  "links_found": 39,
+  "files_found": 0
+}

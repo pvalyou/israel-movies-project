@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=polygamy",
+  "stable_id": "nfct__en-movies-archive_keywords-polygamy__ef8fd625",
+  "fetched_at": "2026-05-16T05:13:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:13:48Z",
+  "duration_ms": 6869,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a67d79dad42769804683a97cf2db1b013462bd778a0466a60001f64d2b7a44cf",
+  "md_bytes": 10445,
+  "links_found": 69,
+  "files_found": 0
+}

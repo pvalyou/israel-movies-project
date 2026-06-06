@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/חדשות-1/",
+  "stable_id": "nfct__blog--1__02989c7b",
+  "fetched_at": "2026-05-09T16:35:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:35:08Z",
+  "duration_ms": 20360,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb69a456fb87269028d23b7fc87bd651a2e2efb08706df5f778baf5144991c1b",
+  "md_bytes": 8545,
+  "links_found": 20,
+  "files_found": 0
+}

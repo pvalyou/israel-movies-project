@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sand+Painting",
+  "stable_id": "nfct__en-movies-archive_keywords-Sand-Painting__516a851d",
+  "fetched_at": "2026-05-16T15:42:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:42:56Z",
+  "duration_ms": 6005,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2c9576805d3993f6e2b2cfe77353b7b88b995e73e61d9b098dbf1e46efa452e",
+  "md_bytes": 10488,
+  "links_found": 68,
+  "files_found": 0
+}

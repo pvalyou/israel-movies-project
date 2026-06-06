@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-soldiers-opinion/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-soldiers-opinion__a30b6c05",
+  "fetched_at": "2026-05-16T14:12:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:12:21Z",
+  "duration_ms": 6752,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7ce07e434fc5fe4121f35d0be14dd1c85709759064be92ca8306e1ea9d04d54a",
+  "md_bytes": 13865,
+  "links_found": 39,
+  "files_found": 0
+}

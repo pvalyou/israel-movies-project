@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/modesty/?lang=en",
+  "stable_id": "makor__films-modesty_lang-en__178f8b6d",
+  "fetched_at": "2026-05-09T13:13:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:13:49Z",
+  "duration_ms": 15987,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54d539059f526113d0fb4a4d31f426244d6b0ed9050bf53782b2c292b84116f2",
+  "md_bytes": 2986,
+  "links_found": 4,
+  "files_found": 0
+}

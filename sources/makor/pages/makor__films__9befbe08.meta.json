@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/סינדרום-עזה/",
+  "stable_id": "makor__films__9befbe08",
+  "fetched_at": "2026-05-09T12:51:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:51:52Z",
+  "duration_ms": 35608,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:555507dd06c2e16866d1ba86d7dc6f492285b5a8a3dc70a3a5943055e504da4a",
+  "md_bytes": 4213,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=SAP",
+  "stable_id": "nfct__en-movies-archive_keywords-SAP__2424578d",
+  "fetched_at": "2026-05-16T07:40:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:40:53Z",
+  "duration_ms": 8503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2dc4b1c5fad56c5c75c2cf8bca38a8edf613e0dbea3d7319ae02a348c5a5252b",
+  "md_bytes": 15875,
+  "links_found": 82,
+  "files_found": 0
+}

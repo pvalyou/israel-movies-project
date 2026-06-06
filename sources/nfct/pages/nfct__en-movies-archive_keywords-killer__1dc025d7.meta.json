@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=killer",
+  "stable_id": "nfct__en-movies-archive_keywords-killer__1dc025d7",
+  "fetched_at": "2026-05-16T16:49:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:49:34Z",
+  "duration_ms": 11168,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:567dd1ed5cc474dde041bea1bb2d6ca98994888c31fd41761f332ea902b3d1d5",
+  "md_bytes": 11969,
+  "links_found": 73,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yossi%20Banai",
+  "stable_id": "nfct__en-movies-archive_keywords-Yossi-20Banai__16ef962b",
+  "fetched_at": "2026-05-16T16:15:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:15:38Z",
+  "duration_ms": 6428,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6267438dd0da77b6a6bfc8cd9dc2d7f9782f6713562aeb291db49c17e6077288",
+  "md_bytes": 10264,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Digital%20Love",
+  "stable_id": "nfct__en-movies-archive_keywords-Digital-20Love__5f5e42b7",
+  "fetched_at": "2026-05-16T14:22:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:22:58Z",
+  "duration_ms": 7304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2dd2575526425c91d34f3c4c4ce858e650c5f889d9f1e994cc1931e6f93caaed",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

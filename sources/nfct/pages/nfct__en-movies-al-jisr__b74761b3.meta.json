@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/al-jisr/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-al-jisr__b74761b3",
+  "fetched_at": "2026-05-16T05:37:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:37:47Z",
+  "duration_ms": 11493,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fea457a46dd879404669e1103fd984be526e8a126123cd1ae2add1b68be13ffd",
+  "md_bytes": 13483,
+  "links_found": 37,
+  "files_found": 0
+}

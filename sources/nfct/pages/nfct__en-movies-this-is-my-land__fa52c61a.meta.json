@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/this-is-my-land/",
+  "stable_id": "nfct__en-movies-this-is-my-land__fa52c61a",
+  "fetched_at": "2026-05-11T02:57:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:57:03Z",
+  "duration_ms": 21737,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae004340b493ff2ff0d3522b7414ee6b28a0d307d055c45795e318c52e426623",
+  "md_bytes": 13343,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/necro-men/",
+  "stable_id": "nfct__en-movies-necro-men__abe9b08a",
+  "fetched_at": "2026-05-11T16:14:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:14:10Z",
+  "duration_ms": 31198,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dbefc30ca320b2f2770424b88063395302fae72fb03abcbbeca978aca4c1cd07",
+  "md_bytes": 12303,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=feathers",
+  "stable_id": "nfct__en-movies-archive_keywords-feathers__68807f58",
+  "fetched_at": "2026-05-16T15:31:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:37Z",
+  "duration_ms": 7511,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8b9d6253b1fb6142eee72b9e58d45424cd7eab08a9ee11d0cf55b23f3e9f5edf",
+  "md_bytes": 9971,
+  "links_found": 68,
+  "files_found": 0
+}

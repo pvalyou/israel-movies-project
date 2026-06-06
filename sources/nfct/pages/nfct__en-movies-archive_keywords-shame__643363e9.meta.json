@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=shame",
+  "stable_id": "nfct__en-movies-archive_keywords-shame__643363e9",
+  "fetched_at": "2026-05-16T08:50:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:50:45Z",
+  "duration_ms": 5895,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c94c25186c6a0a5da938735e71872cd1162cb13eba0e589bb4892e89a8a82a24",
+  "md_bytes": 14465,
+  "links_found": 78,
+  "files_found": 0
+}

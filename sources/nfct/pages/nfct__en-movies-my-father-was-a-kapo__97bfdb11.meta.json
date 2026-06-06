@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-father-was-a-kapo/",
+  "stable_id": "nfct__en-movies-my-father-was-a-kapo__97bfdb11",
+  "fetched_at": "2026-05-12T04:24:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:24:17Z",
+  "duration_ms": 35046,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc3380aaa63871eb87e78d29a9d169b44bea3fbea9db75c9002c339db335b0ce",
+  "md_bytes": 13456,
+  "links_found": 38,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/once-upon-a-boy/?lang=en",
+  "stable_id": "makor__films-once-upon-a-boy_lang-en__61fe5cae",
+  "fetched_at": "2026-05-09T13:15:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:49Z",
+  "duration_ms": 15191,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f30f25fdef4fb3c29142563dc34f4ddd4b02f10754bc5e79ac0f70d1ca6ebdb",
+  "md_bytes": 2469,
+  "links_found": 4,
+  "files_found": 0
+}

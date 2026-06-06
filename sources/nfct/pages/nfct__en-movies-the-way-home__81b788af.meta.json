@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-way-home/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-the-way-home__81b788af",
+  "fetched_at": "2026-05-16T07:57:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:57:25Z",
+  "duration_ms": 14295,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ac05d41a6430846505f070a8e3277a9df49f5b401385048660b84965fe233317",
+  "md_bytes": 11870,
+  "links_found": 30,
+  "files_found": 0
+}

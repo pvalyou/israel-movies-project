@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dalia%20Falah%D7%AA%20Ars%20Poetica",
+  "stable_id": "nfct__en-movies-archive_keywords-Dalia-20Falah-D7-AA-20Ars-20Poetica__a9a59e54",
+  "fetched_at": "2026-05-16T20:17:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:24Z",
+  "duration_ms": 6438,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:38e64fa3e39f9c63321f41c0b988babe051797c161040d46f0b3246c3595890a",
+  "md_bytes": 9835,
+  "links_found": 67,
+  "files_found": 0
+}

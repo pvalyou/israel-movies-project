@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dear-jennifer-from-the-conversion-project/#UAMainContent",
+  "stable_id": "nfct__en-movies-dear-jennifer-from-the-conversion-project__ff43e043",
+  "fetched_at": "2026-05-16T08:09:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:09:43Z",
+  "duration_ms": 9434,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:39bc48a3e8e20e2644ea787c0bce44f25eb5fc29f348cac07c81227b5b3c65a1",
+  "md_bytes": 11083,
+  "links_found": 26,
+  "files_found": 0
+}

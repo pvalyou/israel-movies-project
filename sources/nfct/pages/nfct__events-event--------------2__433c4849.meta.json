@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-תקופת-מבחן-חלק-א-אביגיל-שפרבר-2/",
+  "stable_id": "nfct__events-event--------------2__433c4849",
+  "fetched_at": "2026-05-10T12:45:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:45:05Z",
+  "duration_ms": 24758,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b5c83b61997ab78765f63052a774f92e8814285b82999778a8c2e3f3bcf16f2",
+  "md_bytes": 12420,
+  "links_found": 27,
+  "files_found": 0
+}

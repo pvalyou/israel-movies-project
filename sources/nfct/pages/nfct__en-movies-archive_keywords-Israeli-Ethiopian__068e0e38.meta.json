@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli-Ethiopian",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-Ethiopian__068e0e38",
+  "fetched_at": "2026-05-16T16:26:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:26:08Z",
+  "duration_ms": 6989,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:518ed18a7e2c447a63e4306820eb6165a320c39de2a7ed8f7f2c133152d2d4f8",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

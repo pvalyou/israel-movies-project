@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=breakdown",
+  "stable_id": "nfct__en-movies-archive_keywords-breakdown__4998a15b",
+  "fetched_at": "2026-05-16T15:28:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:28:07Z",
+  "duration_ms": 7506,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:089b59a49fd5b34b5732d20083ddf45efcaa0c7938455887b66221b7f2839ce0",
+  "md_bytes": 11414,
+  "links_found": 72,
+  "files_found": 0
+}

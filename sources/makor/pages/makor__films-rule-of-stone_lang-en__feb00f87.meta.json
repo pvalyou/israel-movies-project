@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/rule-of-stone/?lang=en",
+  "stable_id": "makor__films-rule-of-stone_lang-en__feb00f87",
+  "fetched_at": "2026-05-09T12:56:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:56:38Z",
+  "duration_ms": 7397,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9dc1ff1e6bea3fc348bc769c771238cc52a5c38955de59d766848961c2ce0593",
+  "md_bytes": 3006,
+  "links_found": 4,
+  "files_found": 0
+}

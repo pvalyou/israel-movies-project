@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/exodus-a-jewish-odyssey/?lang=en",
+  "stable_id": "makor__films-exodus-a-jewish-odyssey_lang-en__a90c83a1",
+  "fetched_at": "2026-05-09T13:11:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:11:55Z",
+  "duration_ms": 10773,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e62b3dcbf5362b11c34f169ba6226544130b42e3c5b03582824331f58331b1eb",
+  "md_bytes": 2831,
+  "links_found": 4,
+  "files_found": 0
+}

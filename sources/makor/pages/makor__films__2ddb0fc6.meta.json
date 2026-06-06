@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/העיר-האחרת/",
+  "stable_id": "makor__films__2ddb0fc6",
+  "fetched_at": "2026-05-09T13:28:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:28:37Z",
+  "duration_ms": 8489,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c68f091973b04fb82c57c20eef0a5f6f48ed4676a49f3b84c2ffaf65952e3dcc",
+  "md_bytes": 3917,
+  "links_found": 4,
+  "files_found": 0
+}

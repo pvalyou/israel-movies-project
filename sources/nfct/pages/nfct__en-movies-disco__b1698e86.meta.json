@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/disco/",
+  "stable_id": "nfct__en-movies-disco__b1698e86",
+  "fetched_at": "2026-05-15T09:36:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:36:26Z",
+  "duration_ms": 7703,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96f5eb6df667fc5037e8eddf970d52856ba495b88b6590bdc3c81d6bc25e48a3",
+  "md_bytes": 12414,
+  "links_found": 34,
+  "files_found": 0
+}

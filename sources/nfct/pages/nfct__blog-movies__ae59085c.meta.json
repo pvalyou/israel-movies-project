@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אוטוביוגרפיה-רפואית/",
+  "stable_id": "nfct__blog-movies__ae59085c",
+  "fetched_at": "2026-05-09T20:07:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:07:42Z",
+  "duration_ms": 14947,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0d1445ad6028b260720751d12ef5dfa435690a3263cc2ceb3e67c16876ceb42",
+  "md_bytes": 18971,
+  "links_found": 39,
+  "files_found": 0
+}

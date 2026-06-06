@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/גלובסטר-בכנרת/",
+  "stable_id": "makor__films__b937b17b",
+  "fetched_at": "2026-05-09T13:28:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:28:41Z",
+  "duration_ms": 8214,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb6781f2dca7867e06045535804cf5bd249e59ee645d3029d7c35a83ce2f707b",
+  "md_bytes": 3271,
+  "links_found": 4,
+  "files_found": 0
+}

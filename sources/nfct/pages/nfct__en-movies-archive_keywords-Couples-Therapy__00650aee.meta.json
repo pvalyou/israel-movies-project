@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Couples+Therapy",
+  "stable_id": "nfct__en-movies-archive_keywords-Couples-Therapy__00650aee",
+  "fetched_at": "2026-05-16T15:22:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:22:02Z",
+  "duration_ms": 8247,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4ac30c217848578113ce9428fed3cdf67bd7d3e7d514452af4a3e5406f832b7",
+  "md_bytes": 10216,
+  "links_found": 68,
+  "files_found": 0
+}

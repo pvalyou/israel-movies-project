@@ -1,0 +1,82 @@
+
+=== Run started 2026-05-15T11:23:55.405742 ===
+[11:23:55] Source: galilee_film_fund
+[11:23:55] Pages dir: sources/galilee_film_fund/pages
+[11:23:55] Output dir: out/galilee_film_fund
+[11:23:55] Total .md pages found: 21  |  Already done: 0  |  To process: 21
+[11:23:55] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[11:23:55] [1/21] SKIP (g=0 s=0)
+[11:23:55]           file: galilee_film_fund__2019__51ba410f.md
+[11:23:55]           url:  https://www.filmfundgalil.com/2019
+[11:23:55] [2/21] SKIP (g=0 s=0)
+[11:23:55]           file: galilee_film_fund__copy-of-trailers__7d451789.md
+[11:23:55]           url:  https://www.filmfundgalil.com/copy-of-trailers
+[11:23:56] [3/21] OK   0p 1o 0f 0r 0ro  (1.25s)
+[11:23:56]           file: galilee_film_fund__about-5__4e49f683.md
+[11:23:56]           url:  https://www.filmfundgalil.com/about-5
+[11:23:57] [4/21] OK   0p 1o 0f 0r 0ro  (1.72s)
+[11:23:57]           file: galilee_film_fund__ecolog__5fb2589a.md
+[11:23:57]           url:  https://www.filmfundgalil.com/ecolog
+[11:23:57] [5/21] OK   0p 1o 0f 0r 0ro  (0s) [dedup←galilee_film_fund__about-5__4e49f683.md]
+[11:23:57]           file: galilee_film_fund__root__bb7a22f9.md
+[11:23:57]           url:  https://www.filmfundgalil.com/
+[11:23:57] [6/21] OK   0p 3o 0f 0r 0ro  (1.79s)
+[11:23:57]           file: galilee_film_fund__about-8__e8959190.md
+[11:23:57]           url:  https://www.filmfundgalil.com/about-8
+[11:23:57] [7/21] OK   2p 2o 0f 0r 0ro  (1.92s)
+[11:23:57]           file: galilee_film_fund__blank-2__50541c17.md
+[11:23:57]           url:  https://www.filmfundgalil.com/blank-2
+[11:23:57] [8/21] SKIP (g=0 s=0)
+[11:23:57]           file: galilee_film_fund__support__50f54f61.md
+[11:23:57]           url:  https://www.filmfundgalil.com/support
+[11:23:57] [9/21] OK   0p 1o 0f 0r 0ro  (0s) [dedup←galilee_film_fund__about-5__4e49f683.md]
+[11:23:57]           file: galilee_film_fund__team-1__ab9f476b.md
+[11:23:57]           url:  https://www.filmfundgalil.com/team-1
+[11:23:57] [10/21] OK   0p 1o 4f 0r 0ro  (2.1s)
+[11:23:57]           file: galilee_film_fund__blank-7__3b566ec1.md
+[11:23:57]           url:  https://www.filmfundgalil.com/blank-7
+[11:23:58] [11/21] OK   2p 2o 0f 2r 0ro  (2.64s)
+[11:23:58]           file: galilee_film_fund__contact-us__70d104f5.md
+[11:23:58]           url:  https://www.filmfundgalil.com/contact-us
+[11:23:58] [12/21] OK   0p 1o 0f 0r 0ro  (0.74s)
+[11:23:58]           file: galilee_film_fund__youth__a6e806f1.md
+[11:23:58]           url:  https://www.filmfundgalil.com/youth
+[11:23:58] [13/21] OK   1p 2o 6f 1r 1ro  (3.2s)
+[11:23:58]           file: galilee_film_fund__docu-leaders__5d2e8af3.md
+[11:23:58]           url:  https://www.filmfundgalil.com/docu-leaders
+[11:24:04] [14/21] OK   11p 5o 0f 6r 13ro  (8.66s)
+[11:24:04]           file: galilee_film_fund__about__2e4ca266.md
+[11:24:04]           url:  https://www.filmfundgalil.com/about
+[11:24:05] [15/21] OK   4p 10o 4f 17r 0ro  (9.57s)
+[11:24:05]           file: galilee_film_fund__about-1__75f16869.md
+[11:24:05]           url:  https://www.filmfundgalil.com/about-1
+[11:24:06] [16/21] OK   3p 5o 0f 5r 3ro  (9.56s)
+[11:24:06]           file: galilee_film_fund__s-projects-side-by-side__34d89f17.md
+[11:24:06]           url:  https://www.filmfundgalil.com/s-projects-side-by-side
+[11:24:06] [17/21] OK   9p 6o 2f 16r 8ro  (9.74s)
+[11:24:06]           file: galilee_film_fund__students__33de13f5.md
+[11:24:06]           url:  https://www.filmfundgalil.com/students
+[11:24:09] [18/21] OK   0p 6o 15f 29r 0ro  (13.03s)
+[11:24:09]           file: galilee_film_fund__ometz-best-movie__62d1bbce.md
+[11:24:09]           url:  https://www.filmfundgalil.com/ometz-best-movie
+[11:24:17] [19/21] OK   5p 6o 2f 14r 8ro  (22.01s)
+[11:24:17]           file: galilee_film_fund__copy-of-earth-water-fire__f23b5eb9.md
+[11:24:17]           url:  https://www.filmfundgalil.com/copy-of-earth-water-fire
+[11:24:40] [20/21] LLM_ERROR: json_error: Expecting ',' delimiter: line 960 column 48 (char 22009) | raw_len=22016 | raw_head: '{\n  "metadata": {\n  
+[11:24:40]           file: galilee_film_fund__blank-8__a16b3bfe.md
+[11:24:40]           url:  https://www.filmfundgalil.com/blank-8
+[11:24:48] [21/21] OK   7p 9o 0f 14r 12ro  (53.09s)
+[11:24:48]           file: galilee_film_fund__forum__e85d102f.md
+[11:24:48]           url:  https://www.filmfundgalil.com/forum
+[11:24:48] ======================================================================
+[11:24:48] DONE in 0.9min
+[11:24:48]   ok:           17
+[11:24:48]   filtered:     3
+[11:24:48]   empty:        0
+[11:24:48]   load_error:   0
+[11:24:48]   llm_error:    1
+[11:24:48] Tokens: 45,791 in / 70,698 out  |  Cost: $0.0329
+[11:24:48] Calls: 19  |  Errors: 1  |  JSON retries: 4
+[11:24:48] Output: out/galilee_film_fund/mentions.jsonl
+[11:24:48] Summary:  out/galilee_film_fund/run_summary.json
+=== Run ended 2026-05-15T11:24:48.527959 ===

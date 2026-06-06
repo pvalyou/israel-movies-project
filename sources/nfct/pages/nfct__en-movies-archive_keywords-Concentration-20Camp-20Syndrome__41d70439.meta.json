@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Concentration%20Camp%20Syndrome",
+  "stable_id": "nfct__en-movies-archive_keywords-Concentration-20Camp-20Syndrome__41d70439",
+  "fetched_at": "2026-05-16T14:33:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:33:00Z",
+  "duration_ms": 6270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b0aec6866b3823b0cabc9f52d76162669881ff23f36d09dd4c0db3a9f71a7f1",
+  "md_bytes": 10246,
+  "links_found": 68,
+  "files_found": 0
+}

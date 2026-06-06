@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/with-shut-eyes/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-with-shut-eyes__a853bcdf",
+  "fetched_at": "2026-05-16T16:37:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:37:41Z",
+  "duration_ms": 7427,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:79697e54bd0d2115ce0d432e833627d8b2df1bf44c72c9aceb2bc75690241f2c",
+  "md_bytes": 13684,
+  "links_found": 40,
+  "files_found": 0
+}

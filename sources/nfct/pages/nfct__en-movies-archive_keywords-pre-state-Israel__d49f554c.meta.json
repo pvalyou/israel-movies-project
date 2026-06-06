@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=pre-state+Israel",
+  "stable_id": "nfct__en-movies-archive_keywords-pre-state-Israel__d49f554c",
+  "fetched_at": "2026-05-16T20:27:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:27:52Z",
+  "duration_ms": 7499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:29ea2abf4636f9f30a428236fe6d9331419d72887434f3836b89b6064049c2a1",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

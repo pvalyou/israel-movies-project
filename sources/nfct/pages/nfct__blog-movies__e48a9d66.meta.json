@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הפואיה/",
+  "stable_id": "nfct__blog-movies__e48a9d66",
+  "fetched_at": "2026-05-09T19:50:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:50:14Z",
+  "duration_ms": 23604,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3764734c25d0fea6506e65741389d2ce62aa520efc59da404f73d2f4ae798cf0",
+  "md_bytes": 17765,
+  "links_found": 38,
+  "files_found": 0
+}

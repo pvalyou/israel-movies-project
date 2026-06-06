@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=7.10",
+  "stable_id": "nfct__en-movies-archive_keywords-7.10__56cff230",
+  "fetched_at": "2026-05-16T20:30:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:30:14Z",
+  "duration_ms": 7543,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:401411d658aa337f0725adc3d35b81c9d9253663c21a08333cde9bfff234ee14",
+  "md_bytes": 9783,
+  "links_found": 67,
+  "files_found": 0
+}

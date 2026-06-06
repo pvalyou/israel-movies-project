@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Olim+Hadashim",
+  "stable_id": "nfct__en-movies-archive_keywords-Olim-Hadashim__76479613",
+  "fetched_at": "2026-05-16T15:16:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:16:35Z",
+  "duration_ms": 9964,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef762fad3e773eeebe2ffaddd5ace2c89a3dd90ddd87ca2af88ea68d559b899c",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://filmfund.org.il/Movie?movieId=343",
+  "stable_id": "filmfund__Movie_movieId-343__649e5499",
+  "fetched_at": "2026-05-09T10:57:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:57:48Z",
+  "duration_ms": 19471,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ce305ad8bb3e40ca34badb31cb90f775fad800fb40e79dea50fa4bc4c077170",
+  "md_bytes": 10650,
+  "links_found": 15,
+  "files_found": 0
+}

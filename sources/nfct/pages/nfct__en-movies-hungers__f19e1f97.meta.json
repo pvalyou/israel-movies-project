@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hungers/",
+  "stable_id": "nfct__en-movies-hungers__f19e1f97",
+  "fetched_at": "2026-05-12T02:09:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:09:58Z",
+  "duration_ms": 7927,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:75dc86b9e2d5d1d6810696b889d8fc5689a2fc2049b8f840b9fdab410b1cf171",
+  "md_bytes": 11352,
+  "links_found": 33,
+  "files_found": 0
+}

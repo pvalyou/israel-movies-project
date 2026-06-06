@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-baby-daddy/",
+  "stable_id": "nfct__en-movies-the-baby-daddy__88082148",
+  "fetched_at": "2026-05-11T17:49:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:49:36Z",
+  "duration_ms": 18453,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21fca18aa856697e902f15bdacf63b30a5fc666d7685ba7f65dadd72edb2b421",
+  "md_bytes": 12549,
+  "links_found": 35,
+  "files_found": 0
+}

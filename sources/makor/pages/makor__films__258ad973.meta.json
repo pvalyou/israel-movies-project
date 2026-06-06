@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שלושה-אחים-ומערה/",
+  "stable_id": "makor__films__258ad973",
+  "fetched_at": "2026-05-09T13:07:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:07:38Z",
+  "duration_ms": 16229,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2ec0fc079e813d7b3706445be7e694a8e6fa1da35f046da7915c34be2927d63",
+  "md_bytes": 3689,
+  "links_found": 4,
+  "files_found": 0
+}

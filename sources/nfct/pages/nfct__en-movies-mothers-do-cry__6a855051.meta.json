@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mothers-do-cry/",
+  "stable_id": "nfct__en-movies-mothers-do-cry__6a855051",
+  "fetched_at": "2026-05-11T11:09:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:09:48Z",
+  "duration_ms": 45486,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cf062736164b56dedf4dc5d4933e0fa9ffd480bcdd9174aa1cebdf6d48a0fefb",
+  "md_bytes": 10726,
+  "links_found": 24,
+  "files_found": 0
+}

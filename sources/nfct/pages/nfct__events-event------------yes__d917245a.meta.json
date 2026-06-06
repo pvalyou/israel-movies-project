@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-סלסה-תל-אביב-יוחנן-ולר-yes-קולנוע-י/",
+  "stable_id": "nfct__events-event------------yes__d917245a",
+  "fetched_at": "2026-05-09T18:38:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:38:41Z",
+  "duration_ms": 9857,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7c5a7adce335d811121ca17d4ebaac39984650589aa3aab6ba5859a1ad18a8d3",
+  "md_bytes": 10493,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/complicated/",
+  "stable_id": "nfct__en-movies-complicated__e8108e9f",
+  "fetched_at": "2026-05-11T19:32:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T19:32:20Z",
+  "duration_ms": 22590,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:879c414221a6640972c79828ba42edfd9a6454b6a2553b49a7bff7019ce673b7",
+  "md_bytes": 13462,
+  "links_found": 36,
+  "files_found": 0
+}

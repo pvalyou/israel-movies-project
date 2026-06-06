@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Film%20Industry",
+  "stable_id": "nfct__en-movies-archive_keywords-Film-20Industry__02332ebf",
+  "fetched_at": "2026-05-16T12:50:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:50:51Z",
+  "duration_ms": 10406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a90d125b234c767d38335a3cb2080fe9051a77aee422c4dd940a39ed6624e349",
+  "md_bytes": 14283,
+  "links_found": 77,
+  "files_found": 0
+}

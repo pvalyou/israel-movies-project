@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Period",
+  "stable_id": "nfct__en-movies-archive_keywords-Period__fa7ac35a",
+  "fetched_at": "2026-05-16T14:59:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:59:44Z",
+  "duration_ms": 8993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2680a4d074785223607dc7ce673473d797de5dafc8e86edef65adfc4728b70df",
+  "md_bytes": 15556,
+  "links_found": 82,
+  "files_found": 0
+}

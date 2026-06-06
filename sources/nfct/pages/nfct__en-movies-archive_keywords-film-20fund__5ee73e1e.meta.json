@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=film%20fund",
+  "stable_id": "nfct__en-movies-archive_keywords-film-20fund__5ee73e1e",
+  "fetched_at": "2026-05-16T10:38:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:38:15Z",
+  "duration_ms": 8128,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ffa3a0ae158a00847b167b5403f762dfcb082d4fc4726995ca9cd83caae0ce96",
+  "md_bytes": 12500,
+  "links_found": 73,
+  "files_found": 0
+}

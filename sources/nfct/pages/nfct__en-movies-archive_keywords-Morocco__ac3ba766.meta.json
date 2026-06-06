@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Morocco",
+  "stable_id": "nfct__en-movies-archive_keywords-Morocco__ac3ba766",
+  "fetched_at": "2026-05-16T11:05:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:05:23Z",
+  "duration_ms": 6152,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8bb2b467d25b7101cb1203b8e240172ae5de05954dc58e441487487189c4f997",
+  "md_bytes": 11810,
+  "links_found": 72,
+  "files_found": 0
+}

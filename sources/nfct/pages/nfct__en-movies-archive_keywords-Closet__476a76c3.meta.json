@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Closet",
+  "stable_id": "nfct__en-movies-archive_keywords-Closet__476a76c3",
+  "fetched_at": "2026-05-16T14:14:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:12Z",
+  "duration_ms": 6812,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0fd057e32b09d3bd79ccd20082b25aebb65f54317cc9d414a173bb0d92defa54",
+  "md_bytes": 11970,
+  "links_found": 74,
+  "files_found": 0
+}

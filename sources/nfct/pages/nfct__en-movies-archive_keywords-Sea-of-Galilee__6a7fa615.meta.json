@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sea+of+Galilee",
+  "stable_id": "nfct__en-movies-archive_keywords-Sea-of-Galilee__6a7fa615",
+  "fetched_at": "2026-05-16T16:02:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:02:53Z",
+  "duration_ms": 6731,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d8097b334be443c1cf196b2faf07ea449642d685f551584a76370f2548bced4d",
+  "md_bytes": 10634,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סיסטמה/",
+  "stable_id": "nfct__blog-movies__8755f197",
+  "fetched_at": "2026-05-09T19:46:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:46:41Z",
+  "duration_ms": 13512,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:000ca209d7774cda11e50c73f986a6f2071925a8625170d5ee4beab7e66b88f6",
+  "md_bytes": 17158,
+  "links_found": 35,
+  "files_found": 0
+}

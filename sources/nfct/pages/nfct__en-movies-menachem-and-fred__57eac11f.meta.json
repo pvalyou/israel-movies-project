@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/menachem-and-fred/",
+  "stable_id": "nfct__en-movies-menachem-and-fred__57eac11f",
+  "fetched_at": "2026-05-11T02:39:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:39:56Z",
+  "duration_ms": 11019,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9cfd95c4a1251417d46eb555fe64cf648a410c376b56e712a4437b8018a22217",
+  "md_bytes": 18812,
+  "links_found": 44,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-התפוררות-ניר-הורוביץ-סיוון-ארב-11/",
+  "stable_id": "nfct__events-event------------11__2de8216c",
+  "fetched_at": "2026-05-10T00:57:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:57:50Z",
+  "duration_ms": 20882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b643dfb894f461281ab275b0f67b3b03b7cc67c0671f3b61526b2c2179b1f8b",
+  "md_bytes": 10315,
+  "links_found": 21,
+  "files_found": 0
+}

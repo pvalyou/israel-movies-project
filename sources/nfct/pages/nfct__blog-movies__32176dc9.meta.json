@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שזיפי-בוסר/",
+  "stable_id": "nfct__blog-movies__32176dc9",
+  "fetched_at": "2026-05-09T19:23:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:23:13Z",
+  "duration_ms": 26910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c78dc8b1452ebe0963ded562d1acce460b8fb5f63ef9641eecb4efa86914845d",
+  "md_bytes": 15240,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Brother-Sister+relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-Brother-Sister-relationship__d9b37a88",
+  "fetched_at": "2026-05-16T12:55:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:55:47Z",
+  "duration_ms": 11624,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27d036e2946a7b09053a6fd834a6d48e3f42ceb661dabc8e2e93d685e2ba1b75",
+  "md_bytes": 9829,
+  "links_found": 67,
+  "files_found": 0
+}

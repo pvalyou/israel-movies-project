@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דרך-המלך/",
+  "stable_id": "nfct__blog-movies__32605595",
+  "fetched_at": "2026-05-09T21:43:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:43:44Z",
+  "duration_ms": 24535,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d9a63923410550ee2d4ebbcb1d962a2b1e4875694d9a31702ea851e532cc3ce",
+  "md_bytes": 16107,
+  "links_found": 40,
+  "files_found": 0
+}

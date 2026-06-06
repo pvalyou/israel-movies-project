@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מיני-די-וי/",
+  "stable_id": "nfct__blog-movies__6571a461",
+  "fetched_at": "2026-05-09T19:51:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:51:16Z",
+  "duration_ms": 47297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:86dca2d895b678e2c7768446fd5cc94730ffb1c97ada8b41af1c17130ad1b0dc",
+  "md_bytes": 18634,
+  "links_found": 38,
+  "files_found": 0
+}

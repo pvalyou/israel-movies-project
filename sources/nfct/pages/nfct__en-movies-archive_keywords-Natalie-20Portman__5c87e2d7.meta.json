@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Natalie%20Portman",
+  "stable_id": "nfct__en-movies-archive_keywords-Natalie-20Portman__5c87e2d7",
+  "fetched_at": "2026-05-16T12:33:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:12Z",
+  "duration_ms": 10143,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa5f4210537e1552599019d2357b4f6fddff0d34e0b165b5efd3f92889741034",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/no-child-spared/",
+  "stable_id": "nfct__en-movies-no-child-spared__105c0f78",
+  "fetched_at": "2026-05-11T12:12:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:12:13Z",
+  "duration_ms": 25506,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:547180d04f7a3fd4d87fddadc70a60608e23a869b90cfcafed7ea76d27de444a",
+  "md_bytes": 12752,
+  "links_found": 36,
+  "files_found": 0
+}

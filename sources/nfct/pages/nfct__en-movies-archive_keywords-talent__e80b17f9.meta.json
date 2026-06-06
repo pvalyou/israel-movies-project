@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=talent",
+  "stable_id": "nfct__en-movies-archive_keywords-talent__e80b17f9",
+  "fetched_at": "2026-05-16T16:44:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:44:48Z",
+  "duration_ms": 7970,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d5fec83d1fb1c62d5929d591595dda2ad397a240ec07689e77f3cb5b0c6461b6",
+  "md_bytes": 14900,
+  "links_found": 78,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=deportation",
+  "stable_id": "nfct__en-movies-archive_keywords-deportation__2207fa5b",
+  "fetched_at": "2026-05-16T08:12:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:12:32Z",
+  "duration_ms": 7912,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27e0572dbdf93bb8eb400828e4769f2d412bfdb1f89e75e0c0d62eb491450dcd",
+  "md_bytes": 12452,
+  "links_found": 74,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Batan%20al-Hawa%20street",
+  "stable_id": "nfct__en-movies-archive_keywords-Batan-20al-Hawa-20street__ad2764bd",
+  "fetched_at": "2026-05-16T12:22:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:18Z",
+  "duration_ms": 8040,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4a864503ab3ff236a4f42d5f1d5c5d54009eb7b58f01196f03a1632d4da08042",
+  "md_bytes": 10339,
+  "links_found": 68,
+  "files_found": 0
+}

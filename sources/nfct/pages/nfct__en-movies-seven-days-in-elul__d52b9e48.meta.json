@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/seven-days-in-elul/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-seven-days-in-elul__d52b9e48",
+  "fetched_at": "2026-05-16T17:48:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:48:54Z",
+  "duration_ms": 6809,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f38e48dedf035a0a01a4c96ef033c67a8e82649eeb9c0b3b143a9eabdaf747d",
+  "md_bytes": 12579,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/להפוך-את-האבנים/",
+  "stable_id": "nfct__blog-movies__407dc5cb",
+  "fetched_at": "2026-05-09T21:22:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:22:16Z",
+  "duration_ms": 24985,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec0021e1e36a6b79b41ff857d6b281497add7be44d017337401e67e06940be49",
+  "md_bytes": 19871,
+  "links_found": 43,
+  "files_found": 0
+}

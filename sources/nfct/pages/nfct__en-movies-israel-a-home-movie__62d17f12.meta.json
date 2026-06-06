@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/israel-a-home-movie/",
+  "stable_id": "nfct__en-movies-israel-a-home-movie__62d17f12",
+  "fetched_at": "2026-05-11T11:30:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:30:18Z",
+  "duration_ms": 41055,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a0de1f4c3bf5550faaa7094c97c3f41e889f86ab8d099370b05e5c71cb6c9cda",
+  "md_bytes": 17808,
+  "links_found": 42,
+  "files_found": 0
+}

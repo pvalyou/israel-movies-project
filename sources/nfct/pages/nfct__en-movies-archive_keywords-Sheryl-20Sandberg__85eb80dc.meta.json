@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sheryl%20Sandberg",
+  "stable_id": "nfct__en-movies-archive_keywords-Sheryl-20Sandberg__85eb80dc",
+  "fetched_at": "2026-05-16T12:15:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:15:50Z",
+  "duration_ms": 8431,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f8ee0f4f3b8c21da56a4fb25de000932fdce459a0bf80059f61a28730c6315f",
+  "md_bytes": 10322,
+  "links_found": 68,
+  "files_found": 0
+}

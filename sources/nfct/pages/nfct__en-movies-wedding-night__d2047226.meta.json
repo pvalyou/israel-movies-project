@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/wedding-night/",
+  "stable_id": "nfct__en-movies-wedding-night__d2047226",
+  "fetched_at": "2026-05-11T15:31:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:31:09Z",
+  "duration_ms": 59047,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b76a88ba2a4a2b85dfc0f6ba76f0d1f146f2f788218761032a5cc452b098fd0",
+  "md_bytes": 16687,
+  "links_found": 53,
+  "files_found": 0
+}

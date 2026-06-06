@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שריל/",
+  "stable_id": "makor__films__8aefd8ca",
+  "fetched_at": "2026-05-09T13:30:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:30:18Z",
+  "duration_ms": 15621,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:137ee84ba3bbc10af7682bb1a953b33b7bd8a69912475a5830bdac88567906e7",
+  "md_bytes": 2629,
+  "links_found": 4,
+  "files_found": 0
+}

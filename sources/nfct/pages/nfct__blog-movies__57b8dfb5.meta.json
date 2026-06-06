@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קרח-דק/",
+  "stable_id": "nfct__blog-movies__57b8dfb5",
+  "fetched_at": "2026-05-09T19:21:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:21:59Z",
+  "duration_ms": 8995,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a0e044e9baca8ad82cf6a196c05ddfe58b50f794141062e8fee730a0953dfea",
+  "md_bytes": 12622,
+  "links_found": 21,
+  "files_found": 0
+}

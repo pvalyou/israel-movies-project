@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Day%20of%20Atonement",
+  "stable_id": "nfct__en-movies-archive_keywords-Day-20of-20Atonement__d1ce97a0",
+  "fetched_at": "2026-05-16T12:29:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:29:24Z",
+  "duration_ms": 8559,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:00ce8f21e88747d08ebf6fe6d5561f383e5ff15312bc63b9a1cf7c576555d942",
+  "md_bytes": 10157,
+  "links_found": 68,
+  "files_found": 0
+}

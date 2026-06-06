@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yehuda+Etzion",
+  "stable_id": "nfct__en-movies-archive_keywords-Yehuda-Etzion__0cf64618",
+  "fetched_at": "2026-05-16T20:18:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:28Z",
+  "duration_ms": 11875,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4de40863dba966cef67e5144f3bc59d9297af5cdb4463ee71202b5c5e3b11b45",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

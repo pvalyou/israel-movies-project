@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=parity",
+  "stable_id": "nfct__en-movies-archive_keywords-parity__946ee6e9",
+  "fetched_at": "2026-05-16T15:46:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:46:20Z",
+  "duration_ms": 7998,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d5542937c69b7bfa49345bb6128b60800dba1a596e68d399724124c78173ed6b",
+  "md_bytes": 10194,
+  "links_found": 68,
+  "files_found": 0
+}

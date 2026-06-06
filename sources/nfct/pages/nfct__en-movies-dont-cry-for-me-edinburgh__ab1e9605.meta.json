@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dont-cry-for-me-edinburgh/",
+  "stable_id": "nfct__en-movies-dont-cry-for-me-edinburgh__ab1e9605",
+  "fetched_at": "2026-05-11T06:36:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:36:11Z",
+  "duration_ms": 16993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fdc467ee7b1b579531c02d02f38f5f550944930bc7cbe35f71b5f98c00f8e0d0",
+  "md_bytes": 13273,
+  "links_found": 30,
+  "files_found": 0
+}

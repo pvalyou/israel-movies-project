@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=trance%20music",
+  "stable_id": "nfct__en-movies-archive_keywords-trance-20music__7d6ba69b",
+  "fetched_at": "2026-05-16T15:57:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:57:58Z",
+  "duration_ms": 7677,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0fef42aea0a6ce9bdb256ebb7e6e1ce6ed28c574f470c2b4c5e87b0cc1a6699",
+  "md_bytes": 10883,
+  "links_found": 70,
+  "files_found": 0
+}

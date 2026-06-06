@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fear+of+death",
+  "stable_id": "nfct__en-movies-archive_keywords-fear-of-death__34bf7612",
+  "fetched_at": "2026-05-16T14:49:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:49:17Z",
+  "duration_ms": 8690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92d275da74daf6ac2d8e553d068cc3dced514afe175368b22e1b7c2aa4a25c69",
+  "md_bytes": 13504,
+  "links_found": 76,
+  "files_found": 0
+}

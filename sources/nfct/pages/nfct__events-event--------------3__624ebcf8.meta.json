@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המלחמה-האחרונה-של-נלסון-אבי-מאו-3/",
+  "stable_id": "nfct__events-event--------------3__624ebcf8",
+  "fetched_at": "2026-05-09T23:57:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T23:57:17Z",
+  "duration_ms": 46862,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:578aeb67a75fa9af8858000b948e992828204cd3f608bcd47edacfae083d262b",
+  "md_bytes": 13722,
+  "links_found": 28,
+  "files_found": 0
+}

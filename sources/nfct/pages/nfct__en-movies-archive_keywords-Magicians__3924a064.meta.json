@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Magicians",
+  "stable_id": "nfct__en-movies-archive_keywords-Magicians__3924a064",
+  "fetched_at": "2026-05-16T06:00:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:00:35Z",
+  "duration_ms": 7775,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa54cf1cba100303fc5ca3ee63b0aa919629c7e0f8ffd603de72d3a467cd04db",
+  "md_bytes": 10254,
+  "links_found": 68,
+  "files_found": 0
+}

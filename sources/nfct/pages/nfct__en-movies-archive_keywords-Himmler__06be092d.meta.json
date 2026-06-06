@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Himmler",
+  "stable_id": "nfct__en-movies-archive_keywords-Himmler__06be092d",
+  "fetched_at": "2026-05-16T08:50:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:50:42Z",
+  "duration_ms": 17705,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c417e2ec477445ca6fbae42ec9b83bb5783a37eef4b23969d1dabb6b022b25d9",
+  "md_bytes": 10010,
+  "links_found": 68,
+  "files_found": 0
+}

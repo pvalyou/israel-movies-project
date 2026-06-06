@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/aminormal/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-aminormal__4fb039dc",
+  "fetched_at": "2026-05-16T14:57:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:57:39Z",
+  "duration_ms": 8005,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2ad60e53e7111b43dd5b7f1c940907da9298af1ed93f4243dcb99247b618a6d",
+  "md_bytes": 16128,
+  "links_found": 38,
+  "files_found": 0
+}

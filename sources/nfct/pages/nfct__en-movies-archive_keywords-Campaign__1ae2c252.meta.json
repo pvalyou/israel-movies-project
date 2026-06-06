@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Campaign",
+  "stable_id": "nfct__en-movies-archive_keywords-Campaign__1ae2c252",
+  "fetched_at": "2026-05-16T13:09:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:09:51Z",
+  "duration_ms": 8637,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:504bcb477f270e4e234960cf29b54dd867fee4952c2b93dffadbf3c8a973dea8",
+  "md_bytes": 11950,
+  "links_found": 73,
+  "files_found": 0
+}

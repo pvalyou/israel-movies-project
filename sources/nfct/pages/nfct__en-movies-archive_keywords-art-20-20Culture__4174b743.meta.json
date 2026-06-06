@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=art%20&%20Culture",
+  "stable_id": "nfct__en-movies-archive_keywords-art-20-20Culture__4174b743",
+  "fetched_at": "2026-05-16T16:22:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:22:42Z",
+  "duration_ms": 7951,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:729d94d13ab4287f5bb19a0d025dcd276dd4b9f46a58a42d8fed2b595b2536d1",
+  "md_bytes": 17303,
+  "links_found": 82,
+  "files_found": 0
+}

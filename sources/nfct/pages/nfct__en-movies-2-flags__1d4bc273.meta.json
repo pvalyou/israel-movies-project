@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/2-flags/",
+  "stable_id": "nfct__en-movies-2-flags__1d4bc273",
+  "fetched_at": "2026-05-12T02:40:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:40:33Z",
+  "duration_ms": 16007,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d54562de6d802a4651cf41fb488dde8ca7822bbd2a93de492ab96133cc7944a3",
+  "md_bytes": 10290,
+  "links_found": 29,
+  "files_found": 0
+}

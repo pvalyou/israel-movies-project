@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Honeymoon",
+  "stable_id": "nfct__en-movies-archive_keywords-Honeymoon__b3a7f16a",
+  "fetched_at": "2026-05-16T15:50:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:50:55Z",
+  "duration_ms": 7717,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:255951e2dd48d7685e0d701e467caf23d1995edae68abe28962f5a21852d022e",
+  "md_bytes": 11382,
+  "links_found": 71,
+  "files_found": 0
+}

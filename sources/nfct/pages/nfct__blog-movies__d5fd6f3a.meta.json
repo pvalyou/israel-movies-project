@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נחשון-וקסמן-הספירה-לאחור/",
+  "stable_id": "nfct__blog-movies__d5fd6f3a",
+  "fetched_at": "2026-05-09T17:16:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:16:16Z",
+  "duration_ms": 39079,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d5034733c30b9b61e5547517fcc66a5623e19ac05e4d8a4d18343260ef9f38a",
+  "md_bytes": 20081,
+  "links_found": 48,
+  "files_found": 0
+}

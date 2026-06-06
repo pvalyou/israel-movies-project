@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-champagne-spy/#UAMainContent",
+  "stable_id": "nfct__en-movies-the-champagne-spy__86fb8995",
+  "fetched_at": "2026-05-16T06:30:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:30:12Z",
+  "duration_ms": 9803,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfa62ce8bb07fd34d49fa24fa2e8a3c568ad81be0b67d7cbfe562bb4112d0054",
+  "md_bytes": 18495,
+  "links_found": 42,
+  "files_found": 0
+}

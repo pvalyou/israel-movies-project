@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Police%20Violence",
+  "stable_id": "nfct__en-movies-archive_keywords-Police-20Violence__64180b73",
+  "fetched_at": "2026-05-16T12:42:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:42:27Z",
+  "duration_ms": 11299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1651b7559301db65b2de84b7d2e505f5da75abe82e777ad22f10ddd5782f5eca",
+  "md_bytes": 10147,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=party",
+  "stable_id": "nfct__en-movies-archive_keywords-party__9e21868b",
+  "fetched_at": "2026-05-15T21:32:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T21:32:12Z",
+  "duration_ms": 8003,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2477bd23a3e7913021c6a6f6d75020a577fc46c73f5708e0a73a2dfe55d028c5",
+  "md_bytes": 15490,
+  "links_found": 82,
+  "files_found": 0
+}

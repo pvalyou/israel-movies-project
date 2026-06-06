@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=bereaved+siblings",
+  "stable_id": "nfct__en-movies-archive_keywords-bereaved-siblings__aa71631a",
+  "fetched_at": "2026-05-16T13:23:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:23:53Z",
+  "duration_ms": 8891,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:beeaf55a5978d81dd86dc4bd54165ae70a370e40e708edcd563db95c002951e0",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

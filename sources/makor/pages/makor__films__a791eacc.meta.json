@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אשת-לוט/",
+  "stable_id": "makor__films__a791eacc",
+  "fetched_at": "2026-05-09T13:24:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:24:15Z",
+  "duration_ms": 15984,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:213235760367c880de62508c34ea3397de271a590c230371742cc5b38d79cac8",
+  "md_bytes": 2694,
+  "links_found": 4,
+  "files_found": 0
+}

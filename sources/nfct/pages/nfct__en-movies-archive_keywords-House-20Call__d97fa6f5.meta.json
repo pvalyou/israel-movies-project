@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=House%20Call",
+  "stable_id": "nfct__en-movies-archive_keywords-House-20Call__d97fa6f5",
+  "fetched_at": "2026-05-16T16:46:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:46:23Z",
+  "duration_ms": 5968,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c7407946646d526282169730e8cbda715d4e43667d12d88c3420a5fad26e845e",
+  "md_bytes": 12145,
+  "links_found": 72,
+  "files_found": 0
+}

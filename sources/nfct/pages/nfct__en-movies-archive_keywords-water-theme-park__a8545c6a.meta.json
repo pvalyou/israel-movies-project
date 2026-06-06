@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=water+theme+park",
+  "stable_id": "nfct__en-movies-archive_keywords-water-theme-park__a8545c6a",
+  "fetched_at": "2026-05-16T08:03:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:03:24Z",
+  "duration_ms": 8302,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b484e63327c36103a3936d9d941ca758be56961187dead0549eefe8eaae41f6f",
+  "md_bytes": 10290,
+  "links_found": 68,
+  "files_found": 0
+}

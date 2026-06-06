@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Marcelo%20Pecci",
+  "stable_id": "nfct__en-movies-archive_keywords-Marcelo-20Pecci__2de1c832",
+  "fetched_at": "2026-05-16T14:14:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:49Z",
+  "duration_ms": 8923,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:70719b85ff8f01f076c98f65a16997f58b7c6beef2893415e119af38e8892ec6",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

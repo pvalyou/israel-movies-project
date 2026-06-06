@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/טיפול-במשבר/",
+  "stable_id": "nfct__blog-movies__660761a8",
+  "fetched_at": "2026-05-09T20:53:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:53:24Z",
+  "duration_ms": 23265,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c537b028134178a95d2f41543e7394930116d1f2647847b489f2e5ff2702035b",
+  "md_bytes": 15217,
+  "links_found": 32,
+  "files_found": 0
+}

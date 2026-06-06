@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-תקופת-מבחן-חלקים-א-ג-אביגיל-ש/",
+  "stable_id": "nfct__events-event__2c20a8d0",
+  "fetched_at": "2026-05-10T02:28:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:28:19Z",
+  "duration_ms": 13604,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6acaad68103274da4d404cfa37542bb8a669110626e9f2cbc026f1ae3de7f5b5",
+  "md_bytes": 9698,
+  "links_found": 21,
+  "files_found": 0
+}

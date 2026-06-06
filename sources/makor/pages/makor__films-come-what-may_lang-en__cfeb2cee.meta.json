@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/come-what-may/?lang=en",
+  "stable_id": "makor__films-come-what-may_lang-en__cfeb2cee",
+  "fetched_at": "2026-05-09T12:49:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:49:42Z",
+  "duration_ms": 10763,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c7ab723107ba5951ec924a66814c269319e5bfe2fbfdbe7b35a819a4e4ad55f7",
+  "md_bytes": 2591,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Artistic+Choice",
+  "stable_id": "nfct__en-movies-archive_keywords-Artistic-Choice__18ce1452",
+  "fetched_at": "2026-05-16T13:34:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:34:30Z",
+  "duration_ms": 7309,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc90202f770bce8309c6ba60c53d1895dbda549e9b0e310eea22a44d2f6ea7b9",
+  "md_bytes": 10312,
+  "links_found": 68,
+  "files_found": 0
+}

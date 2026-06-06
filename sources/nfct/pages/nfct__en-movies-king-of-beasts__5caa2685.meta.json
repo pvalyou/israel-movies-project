@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/king-of-beasts/",
+  "stable_id": "nfct__en-movies-king-of-beasts__5caa2685",
+  "fetched_at": "2026-05-11T22:12:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:12:17Z",
+  "duration_ms": 34458,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:515887ee17ac0981a3e89d0e04b4642996966b0c93fddc62cb13f14af8cd1f9e",
+  "md_bytes": 14226,
+  "links_found": 37,
+  "files_found": 0
+}

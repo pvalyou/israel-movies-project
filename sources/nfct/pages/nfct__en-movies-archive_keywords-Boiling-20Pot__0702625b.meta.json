@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Boiling%20Pot",
+  "stable_id": "nfct__en-movies-archive_keywords-Boiling-20Pot__0702625b",
+  "fetched_at": "2026-05-16T13:18:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:18:03Z",
+  "duration_ms": 10229,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dfc23b062dcf2d18085fe49b47fed1da4e400d31cf91c56ba5354c310a8ae44c",
+  "md_bytes": 10053,
+  "links_found": 68,
+  "files_found": 0
+}

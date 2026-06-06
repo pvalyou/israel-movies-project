@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ואני-הייתי-שם/",
+  "stable_id": "nfct__blog-movies__8093cbd2",
+  "fetched_at": "2026-05-09T20:41:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:41:48Z",
+  "duration_ms": 29078,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:671b3c329321e141d7c1625a8e96a561a3a09e89ba80a3ba9c96e27ed0443853",
+  "md_bytes": 14686,
+  "links_found": 30,
+  "files_found": 0
+}

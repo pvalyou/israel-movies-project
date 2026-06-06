@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/made-in-israel-high-tech/",
+  "stable_id": "nfct__en-movies-made-in-israel-high-tech__a491f887",
+  "fetched_at": "2026-05-11T03:17:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:17:58Z",
+  "duration_ms": 16260,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f6e00fed0f3c5e0a88f2998682b9d4b43b0c8bb422cb1ae2b8e77309a16a0385",
+  "md_bytes": 13732,
+  "links_found": 37,
+  "files_found": 0
+}

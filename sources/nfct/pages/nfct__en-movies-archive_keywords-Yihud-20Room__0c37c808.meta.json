@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yihud%20Room",
+  "stable_id": "nfct__en-movies-archive_keywords-Yihud-20Room__0c37c808",
+  "fetched_at": "2026-05-16T13:58:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:58:55Z",
+  "duration_ms": 7588,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13d0547b3fc85ce5ea668bdf20a8e6e4fcc6fae44720c1d4b547dba8d00081fa",
+  "md_bytes": 10226,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mukanda-model/",
+  "stable_id": "nfct__en-movies-mukanda-model__8f30320f",
+  "fetched_at": "2026-05-12T03:21:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:21:57Z",
+  "duration_ms": 17231,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:589868262a12c279b5dd36086a931ff1a3e47e997584d9011ba040f63712e1a0",
+  "md_bytes": 14604,
+  "links_found": 37,
+  "files_found": 0
+}

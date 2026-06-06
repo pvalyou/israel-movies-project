@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=identity%20card",
+  "stable_id": "nfct__en-movies-archive_keywords-identity-20card__4cf3407b",
+  "fetched_at": "2026-05-16T11:25:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:25:53Z",
+  "duration_ms": 7189,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f7c51eb7f37993da7aa5946ce619eec1c754c009d01c701ee0cde1a0a01ea608",
+  "md_bytes": 10499,
+  "links_found": 69,
+  "files_found": 0
+}

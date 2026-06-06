@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shimon%20Peres",
+  "stable_id": "nfct__en-movies-archive_keywords-Shimon-20Peres__b2f42170",
+  "fetched_at": "2026-05-16T15:51:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:50Z",
+  "duration_ms": 8507,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e1ae6d7aa58a4e64f673db70f673f68b7267c7a72d9258ec9cc3f25c43ae72f8",
+  "md_bytes": 10340,
+  "links_found": 68,
+  "files_found": 0
+}

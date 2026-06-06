@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=twinless+twin",
+  "stable_id": "nfct__en-movies-archive_keywords-twinless-twin__10d4efd2",
+  "fetched_at": "2026-05-16T16:02:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:02:08Z",
+  "duration_ms": 8335,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e05d9472c538569c545431db27f3827e8d7b461ad8086fcf297cc034a2278f3c",
+  "md_bytes": 10205,
+  "links_found": 68,
+  "files_found": 0
+}

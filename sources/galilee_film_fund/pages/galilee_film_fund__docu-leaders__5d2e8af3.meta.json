@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfundgalil.com/docu-leaders",
+  "stable_id": "galilee_film_fund__docu-leaders__5d2e8af3",
+  "fetched_at": "2026-05-09T11:10:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:10:44Z",
+  "duration_ms": 38869,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:09ba6b565fd7be7ee8f75e91f0b7ea92dd87e5231c89a191520361fb3054eceb",
+  "md_bytes": 2343,
+  "links_found": 0,
+  "files_found": 0
+}

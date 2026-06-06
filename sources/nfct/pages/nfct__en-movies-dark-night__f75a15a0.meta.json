@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dark-night/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-dark-night__f75a15a0",
+  "fetched_at": "2026-05-16T11:23:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:23:28Z",
+  "duration_ms": 10836,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53ec50e3c84f4f3e23f95e86abe83ab678e8dc69d93182bcf11a4fe396c9bde7",
+  "md_bytes": 14315,
+  "links_found": 33,
+  "files_found": 0
+}

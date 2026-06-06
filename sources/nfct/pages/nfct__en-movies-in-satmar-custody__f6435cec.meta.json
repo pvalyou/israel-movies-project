@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-satmar-custody/",
+  "stable_id": "nfct__en-movies-in-satmar-custody__f6435cec",
+  "fetched_at": "2026-05-12T01:40:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:40:56Z",
+  "duration_ms": 17593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4645123e722ea411430bd0dd4f6b108f210220de6e1a05673cde5b8cf16cd0a4",
+  "md_bytes": 17043,
+  "links_found": 38,
+  "files_found": 0
+}

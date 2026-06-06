@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/it-happened-on-our-ground/#UAMainContent",
+  "stable_id": "nfct__en-movies-it-happened-on-our-ground__bea279b7",
+  "fetched_at": "2026-05-16T13:10:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:10:56Z",
+  "duration_ms": 7933,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:217f3979025dcb3a709ed88d2dcfb057206b2683498b2a5695d796f77ced0452",
+  "md_bytes": 13491,
+  "links_found": 37,
+  "files_found": 0
+}

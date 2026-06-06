@@ -1,0 +1,23 @@
+{
+  "url": "https://sub.nfct.org.il/Tender.aspx?TenderID=fb55a652-23b1-4e1a-b688-4131134c9c2d",
+  "stable_id": "nfct__Tender.aspx_TenderID-fb55a652-23b1-4e1a-b688-4131134c9c2d__09d6bfc1",
+  "fetched_at": "2026-05-10T15:03:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T15:03:47Z",
+  "duration_ms": 26065,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b086e2eb387501d96d8a5230927895aa64e4ae57c93591183be2361fb07ac3e",
+  "md_bytes": 461,
+  "links_found": 0,
+  "files_found": 0
+}

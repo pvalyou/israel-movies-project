@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מציאות-פנטסטית/",
+  "stable_id": "nfct__blog-movies__9716cea6",
+  "fetched_at": "2026-05-09T21:31:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:31:47Z",
+  "duration_ms": 18921,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:806263ec21fd31ec050234276402182f724adc7dd3fbcc502c3d8788c5d94621",
+  "md_bytes": 18854,
+  "links_found": 38,
+  "files_found": 0
+}

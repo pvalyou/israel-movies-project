@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/rabin-in-his-own-words/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-rabin-in-his-own-words__e07f665a",
+  "fetched_at": "2026-05-16T16:50:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:50:49Z",
+  "duration_ms": 9200,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:223793e948a3097e12067f64f425f86e473117213606b2fe023a42baf954edc9",
+  "md_bytes": 14843,
+  "links_found": 31,
+  "files_found": 0
+}

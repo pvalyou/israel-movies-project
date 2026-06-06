@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/her-name-was-zehava/",
+  "stable_id": "nfct__en-movies-her-name-was-zehava__6007aab3",
+  "fetched_at": "2026-05-11T12:27:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:27:47Z",
+  "duration_ms": 26822,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4df67c8eab2003f35df9a05028a7584770feae349a43adc81b72a68d54cf6e93",
+  "md_bytes": 14306,
+  "links_found": 40,
+  "files_found": 0
+}

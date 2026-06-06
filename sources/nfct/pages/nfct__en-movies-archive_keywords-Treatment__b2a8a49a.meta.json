@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Treatment",
+  "stable_id": "nfct__en-movies-archive_keywords-Treatment__b2a8a49a",
+  "fetched_at": "2026-05-16T16:31:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:31:33Z",
+  "duration_ms": 7590,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:93e5a903e5a2cde4cdd8fe3a14a415a53870df7acf5581fe6b383330d3423ab1",
+  "md_bytes": 13634,
+  "links_found": 77,
+  "files_found": 0
+}

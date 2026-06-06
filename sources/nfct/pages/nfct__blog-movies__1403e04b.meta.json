@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/צל-של-אמת-הכרעה/",
+  "stable_id": "nfct__blog-movies__1403e04b",
+  "fetched_at": "2026-05-09T20:04:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:04:48Z",
+  "duration_ms": 32952,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:322761871bbd2bf123c84e4b46e29b029ef77936ea1794b852002ff192d97358",
+  "md_bytes": 20138,
+  "links_found": 51,
+  "files_found": 0
+}

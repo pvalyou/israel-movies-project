@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/opening-night/#UAMainContent",
+  "stable_id": "nfct__en-movies-opening-night__fee0dbb3",
+  "fetched_at": "2026-05-16T12:44:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:44:54Z",
+  "duration_ms": 9472,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aff43f8b108a501a599cf1940b91bcd2f5f545e4b0ab08234e767ad7f2f2a7c5",
+  "md_bytes": 11573,
+  "links_found": 32,
+  "files_found": 0
+}

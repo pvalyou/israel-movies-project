@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Supreme+Court",
+  "stable_id": "nfct__en-movies-archive_keywords-Supreme-Court__bcc058b5",
+  "fetched_at": "2026-05-16T09:05:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:05:13Z",
+  "duration_ms": 6198,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23d1f53dbff06f73676bcdbcef63c448b94f7492793aaeec392572c4da53a3f7",
+  "md_bytes": 10361,
+  "links_found": 68,
+  "files_found": 0
+}

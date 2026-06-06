@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=play",
+  "stable_id": "nfct__en-movies-archive_keywords-play__da896f87",
+  "fetched_at": "2026-05-16T15:23:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:23:21Z",
+  "duration_ms": 7836,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b16a480de222798d0fb748f5d3ea36e69483ff796247aa0ee9f2bc4f1a499ee",
+  "md_bytes": 17486,
+  "links_found": 82,
+  "files_found": 0
+}

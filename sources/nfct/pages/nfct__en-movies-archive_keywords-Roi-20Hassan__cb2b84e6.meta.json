@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Roi%20Hassan",
+  "stable_id": "nfct__en-movies-archive_keywords-Roi-20Hassan__cb2b84e6",
+  "fetched_at": "2026-05-16T20:17:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:37Z",
+  "duration_ms": 6104,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f4e55ff9b30253b266c4b2ff8a72e8eb2d2eb5d1ca8572e825f925801de1d47",
+  "md_bytes": 10012,
+  "links_found": 68,
+  "files_found": 0
+}

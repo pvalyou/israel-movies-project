@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Air-Force",
+  "stable_id": "nfct__en-movies-archive_keywords-Air-Force__b89cc1a8",
+  "fetched_at": "2026-05-16T14:36:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:36:14Z",
+  "duration_ms": 9025,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6333895235649703fd86b88f0c4c81915c219d819d293cd491bf8a70375c29f6",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

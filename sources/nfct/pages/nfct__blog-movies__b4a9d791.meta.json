@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הקרבות-של-נילי/",
+  "stable_id": "nfct__blog-movies__b4a9d791",
+  "fetched_at": "2026-05-09T19:14:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:14:52Z",
+  "duration_ms": 37000,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03d5ca302e989986bab928d391d1ed3697908528449df2f5fc084740780d26cb",
+  "md_bytes": 16039,
+  "links_found": 32,
+  "files_found": 0
+}

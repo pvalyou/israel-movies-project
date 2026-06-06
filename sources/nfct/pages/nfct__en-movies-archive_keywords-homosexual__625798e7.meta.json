@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=homosexual",
+  "stable_id": "nfct__en-movies-archive_keywords-homosexual__625798e7",
+  "fetched_at": "2026-05-16T10:51:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:46Z",
+  "duration_ms": 7366,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f98b700bd63b30ed01d65d9de60f656f89ba4f7dcaf1f59fe5197134fda306ce",
+  "md_bytes": 12868,
+  "links_found": 75,
+  "files_found": 0
+}

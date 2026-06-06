@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מצברוח-טוב/",
+  "stable_id": "nfct__blog-movies__a00061f1",
+  "fetched_at": "2026-05-09T21:40:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:40:00Z",
+  "duration_ms": 43213,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7a36b27e7e6423bfbc503d8d9688a4f15592b06bf936eea0d3d56128784cfa28",
+  "md_bytes": 18965,
+  "links_found": 45,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Propoganda%20Orchestra",
+  "stable_id": "nfct__en-movies-archive_keywords-Propoganda-20Orchestra__998c3f73",
+  "fetched_at": "2026-05-16T13:04:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:04:13Z",
+  "duration_ms": 11836,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:15f9960f2a15cc275efc762f7ef8fb3492e47c880431548dd26f484fa9e5c0ef",
+  "md_bytes": 9817,
+  "links_found": 67,
+  "files_found": 0
+}

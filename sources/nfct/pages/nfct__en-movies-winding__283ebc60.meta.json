@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/winding/#UAMainContent",
+  "stable_id": "nfct__en-movies-winding__283ebc60",
+  "fetched_at": "2026-05-16T16:52:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:52:22Z",
+  "duration_ms": 11199,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03245bb024ce808a6e9462c88a5824840b9203a8f511eeed1355b4872b193788",
+  "md_bytes": 13046,
+  "links_found": 41,
+  "files_found": 0
+}

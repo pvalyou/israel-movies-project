@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/דראפט-ראשון-ייעודי-2017/",
+  "stable_id": "nfct__blog------2017__afbd8a81",
+  "fetched_at": "2026-05-09T16:21:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:21:53Z",
+  "duration_ms": 38199,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:075bcadb5ad814d9e763576b3a503549d0da5252913f04795ef99dabcdc22cf6",
+  "md_bytes": 11924,
+  "links_found": 26,
+  "files_found": 2
+}

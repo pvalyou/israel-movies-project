@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/fathers-path/?lang=en",
+  "stable_id": "makor__films-fathers-path_lang-en__d208102a",
+  "fetched_at": "2026-05-09T13:10:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:10:36Z",
+  "duration_ms": 10100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:840720458e3755f7036973f1a469f1ebaf0eab7d1163bd55d23924f8a20e1074",
+  "md_bytes": 3004,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/six-lines/",
+  "stable_id": "nfct__en-movies-six-lines__cf699511",
+  "fetched_at": "2026-05-11T18:25:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:25:35Z",
+  "duration_ms": 18570,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65298b8673e80541cb635a42cf6d3361fa8409885fc96a380298c6e1660f3d04",
+  "md_bytes": 12169,
+  "links_found": 33,
+  "files_found": 0
+}

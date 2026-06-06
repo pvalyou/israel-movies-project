@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-artichoke-season/",
+  "stable_id": "nfct__en-movies-the-artichoke-season__e5dc0218",
+  "fetched_at": "2026-05-11T17:49:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:49:44Z",
+  "duration_ms": 7607,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:88d1af93183986d4315003a6624684770b37d91bcdcbb855ea61444f1fa01a26",
+  "md_bytes": 15145,
+  "links_found": 49,
+  "files_found": 0
+}

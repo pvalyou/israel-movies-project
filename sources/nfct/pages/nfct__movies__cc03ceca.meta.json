@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/המכשפה-מרח-מלצט/",
+  "stable_id": "nfct__movies__cc03ceca",
+  "fetched_at": "2026-05-16T20:26:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:26:42Z",
+  "duration_ms": 9049,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7b193e97505a3abfca1880b59db1b29d261ccddbd2a97885a6ab0ef2bd1130ed",
+  "md_bytes": 8110,
+  "links_found": 21,
+  "files_found": 0
+}

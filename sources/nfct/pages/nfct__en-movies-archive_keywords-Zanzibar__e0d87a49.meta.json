@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zanzibar",
+  "stable_id": "nfct__en-movies-archive_keywords-Zanzibar__e0d87a49",
+  "fetched_at": "2026-05-16T05:16:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:16:49Z",
+  "duration_ms": 7275,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb2f2f8e6846220644d34f2dd493c61efa4fae24208e4115f0d2e43f26ee5a43",
+  "md_bytes": 9995,
+  "links_found": 68,
+  "files_found": 0
+}

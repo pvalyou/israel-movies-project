@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nandauri/#UAMainContent",
+  "stable_id": "nfct__en-movies-nandauri__bb1a25c1",
+  "fetched_at": "2026-05-16T12:21:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:00Z",
+  "duration_ms": 10992,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a80a394c47673d7ce5912de0229677a3f5504c892a8bbf48658fa1c2ee0fa607",
+  "md_bytes": 14904,
+  "links_found": 39,
+  "files_found": 0
+}

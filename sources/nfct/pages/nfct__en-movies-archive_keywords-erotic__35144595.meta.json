@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=erotic",
+  "stable_id": "nfct__en-movies-archive_keywords-erotic__35144595",
+  "fetched_at": "2026-05-16T16:07:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:07:30Z",
+  "duration_ms": 15990,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9bf9e7f323bb18601672a3f5aa593cb7d448a1a4109f137f42676b02ab7e0e6",
+  "md_bytes": 10086,
+  "links_found": 68,
+  "files_found": 0
+}

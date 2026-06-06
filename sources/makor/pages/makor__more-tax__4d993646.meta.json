@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more-tax/קדימונים/",
+  "stable_id": "makor__more-tax__4d993646",
+  "fetched_at": "2026-05-09T12:47:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:47:12Z",
+  "duration_ms": 17101,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a4be791866781a63b5b478d464e7024076ead952629683012bd05cfc1039df21",
+  "md_bytes": 2981,
+  "links_found": 6,
+  "files_found": 0
+}

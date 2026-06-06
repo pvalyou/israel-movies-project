@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/i-see-you-קול-קורא-פתוח-להגשות/",
+  "stable_id": "makor__i-see-you__bc20c288",
+  "fetched_at": "2026-05-09T12:32:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:32:30Z",
+  "duration_ms": 9991,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ed11f7873796a20083e9dc1aefd584643a63c88891dc63a08ea96d6cbc5e71c",
+  "md_bytes": 2095,
+  "links_found": 2,
+  "files_found": 0
+}

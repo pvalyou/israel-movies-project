@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/כבוד-השגריר/",
+  "stable_id": "nfct__movies__8da49007",
+  "fetched_at": "2026-05-16T11:19:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:19:50Z",
+  "duration_ms": 8917,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0babfbfc5582171615504d13a1af1ce43f51b9d8cf3a9822e2ab13b0eb5e21b7",
+  "md_bytes": 8046,
+  "links_found": 21,
+  "files_found": 0
+}

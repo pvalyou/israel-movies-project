@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=health%20care%20system",
+  "stable_id": "nfct__en-movies-archive_keywords-health-20care-20system__e7ca77b5",
+  "fetched_at": "2026-05-16T10:04:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:04:15Z",
+  "duration_ms": 8504,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:45b6cf6fb0a0cc86193fa605f0f39eb888abf93b1ef819ee58ba5fde7fb609d3",
+  "md_bytes": 9815,
+  "links_found": 67,
+  "files_found": 0
+}

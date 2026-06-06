@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דם-חם/",
+  "stable_id": "nfct__blog-movies__c92cd24e",
+  "fetched_at": "2026-05-09T20:47:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:47:18Z",
+  "duration_ms": 52609,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a61d8f8a58ba1537413e2c0179a78d324f5c4479778405a44e62a319ed7f6ea3",
+  "md_bytes": 19966,
+  "links_found": 47,
+  "files_found": 0
+}

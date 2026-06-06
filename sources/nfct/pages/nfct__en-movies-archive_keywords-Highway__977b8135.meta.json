@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Highway",
+  "stable_id": "nfct__en-movies-archive_keywords-Highway__977b8135",
+  "fetched_at": "2026-05-16T12:44:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:44:02Z",
+  "duration_ms": 11051,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd76233807bd7f19b1edee87831cee7e7c2c63405dc58ba395ca733004d36f22",
+  "md_bytes": 10753,
+  "links_found": 69,
+  "files_found": 0
+}

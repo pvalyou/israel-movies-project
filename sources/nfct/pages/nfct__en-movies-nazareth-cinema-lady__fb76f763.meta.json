@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nazareth-cinema-lady/",
+  "stable_id": "nfct__en-movies-nazareth-cinema-lady__fb76f763",
+  "fetched_at": "2026-05-12T01:32:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:32:55Z",
+  "duration_ms": 15583,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6497a39e21e85908307008db81867891aa175c1851b4784074231c28f96240e3",
+  "md_bytes": 13344,
+  "links_found": 34,
+  "files_found": 0
+}

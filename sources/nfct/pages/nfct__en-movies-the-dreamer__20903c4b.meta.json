@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-dreamer/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-dreamer__20903c4b",
+  "fetched_at": "2026-05-16T12:21:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:07Z",
+  "duration_ms": 6291,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc17f2649eb79133bef7a6a5f0f65d79d3dbbf6c14bb0f6b17c7119dcf0ed5bb",
+  "md_bytes": 15207,
+  "links_found": 47,
+  "files_found": 0
+}

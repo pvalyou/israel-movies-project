@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/washed-out-memories/",
+  "stable_id": "nfct__en-movies-washed-out-memories__5895c9ef",
+  "fetched_at": "2026-05-11T13:35:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:35:42Z",
+  "duration_ms": 48794,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b65276c3ee5f0df94b6493fb51011b4e499f26c47a52c20162837ebaefdbbb27",
+  "md_bytes": 15098,
+  "links_found": 47,
+  "files_found": 0
+}

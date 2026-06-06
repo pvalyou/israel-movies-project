@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-man-in-the-wall/",
+  "stable_id": "nfct__en-movies-the-man-in-the-wall__1f6460a2",
+  "fetched_at": "2026-05-12T04:40:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:40:37Z",
+  "duration_ms": 27593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:035798329867f73e0802ed88a33c69c5d20542c76a16ae52197aed22dba89812",
+  "md_bytes": 11552,
+  "links_found": 24,
+  "files_found": 0
+}

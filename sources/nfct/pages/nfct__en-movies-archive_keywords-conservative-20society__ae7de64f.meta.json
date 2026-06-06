@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conservative%20society",
+  "stable_id": "nfct__en-movies-archive_keywords-conservative-20society__ae7de64f",
+  "fetched_at": "2026-05-16T05:45:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:45:58Z",
+  "duration_ms": 6799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3cde1e289c2aff54d95a445de6a9e173759a558b8e96fe4fe74252a648494c2a",
+  "md_bytes": 9817,
+  "links_found": 67,
+  "files_found": 0
+}

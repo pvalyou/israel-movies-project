@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/14-הערות-על-הר-זבל/",
+  "stable_id": "nfct__blog-movies-14__f77bdec1",
+  "fetched_at": "2026-05-09T17:45:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:45:48Z",
+  "duration_ms": 20146,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a5603630481c1f7f37b15af9da2f186b4c9450749005efd45839a64224a23993",
+  "md_bytes": 19518,
+  "links_found": 44,
+  "files_found": 0
+}

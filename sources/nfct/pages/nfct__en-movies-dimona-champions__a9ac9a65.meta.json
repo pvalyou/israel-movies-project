@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dimona-champions/",
+  "stable_id": "nfct__en-movies-dimona-champions__a9ac9a65",
+  "fetched_at": "2026-05-11T16:23:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T16:23:10Z",
+  "duration_ms": 24257,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2f2670b3b3241c41107d8165f8eda598cf794c6f292a7d1057170ce322082a9b",
+  "md_bytes": 14542,
+  "links_found": 42,
+  "files_found": 0
+}

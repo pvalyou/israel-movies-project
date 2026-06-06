@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=children%20in%20the%20Holocaust",
+  "stable_id": "nfct__en-movies-archive_keywords-children-20in-20the-20Holocaust__d96a086f",
+  "fetched_at": "2026-05-16T10:16:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:16:01Z",
+  "duration_ms": 7344,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bef468a4098ad6e15eae8256d9f3aa5b6cb6b6e0c8d5331148a10ad6be786d67",
+  "md_bytes": 12973,
+  "links_found": 76,
+  "files_found": 0
+}

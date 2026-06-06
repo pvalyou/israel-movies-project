@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=breast%20feeding",
+  "stable_id": "nfct__en-movies-archive_keywords-breast-20feeding__e0b9a111",
+  "fetched_at": "2026-05-16T20:16:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:50Z",
+  "duration_ms": 7299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:55505fbc68dd8359c4379d8502b363182ebc7d32fc03171c0fae6793c38341ac",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

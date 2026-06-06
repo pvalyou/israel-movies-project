@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Abuhazira%20Family",
+  "stable_id": "nfct__en-movies-archive_keywords-Abuhazira-20Family__0852fa68",
+  "fetched_at": "2026-05-16T13:07:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:07:47Z",
+  "duration_ms": 8508,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c13b9826e61f4835c994e531a10983b8b3556b9a1dad6e7c53d94be22d9ed94c",
+  "md_bytes": 10384,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/meteors-2/#main",
+  "stable_id": "arava_film_fund__en-movies-meteors-2__d25b4bc8",
+  "fetched_at": "2026-05-08T10:21:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:21:43Z",
+  "duration_ms": 3709,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8581c5d48e29f12cb4964794a7157bdaf5a4f117eaa25c6ab3c9a1afbb30d4ae",
+  "md_bytes": 3354,
+  "links_found": 9,
+  "files_found": 0
+}

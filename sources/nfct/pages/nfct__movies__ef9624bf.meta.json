@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/גדר-חומה-גבול/",
+  "stable_id": "nfct__movies__ef9624bf",
+  "fetched_at": "2026-05-16T11:11:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:11:15Z",
+  "duration_ms": 10987,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67c31ec7129ec28dcd5f0417794a6cbfea15563d5fab22385d69bdae233153ff",
+  "md_bytes": 8663,
+  "links_found": 21,
+  "files_found": 0
+}

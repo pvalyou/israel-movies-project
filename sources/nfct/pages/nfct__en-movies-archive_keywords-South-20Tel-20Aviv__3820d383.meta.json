@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=South%20Tel%20Aviv",
+  "stable_id": "nfct__en-movies-archive_keywords-South-20Tel-20Aviv__3820d383",
+  "fetched_at": "2026-05-16T12:04:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:04:35Z",
+  "duration_ms": 7027,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5541fdea740b8a372b16c7c1a48523ef1470dc780985f949be82f5206d780f88",
+  "md_bytes": 12305,
+  "links_found": 72,
+  "files_found": 0
+}

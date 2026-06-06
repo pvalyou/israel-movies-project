@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-תקופת-מבחן-חלק-ג-אביגיל-שפרבר-yes/",
+  "stable_id": "nfct__events-event--------------yes__d11a03fc",
+  "fetched_at": "2026-05-10T06:55:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:55:35Z",
+  "duration_ms": 9191,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8150e411d1da76a9c207202a1453a4db265dc99109117eefeb026183b5f8b1a",
+  "md_bytes": 10344,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Honku%20neighborhood",
+  "stable_id": "nfct__en-movies-archive_keywords-Honku-20neighborhood__58777b96",
+  "fetched_at": "2026-05-16T10:25:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:25:26Z",
+  "duration_ms": 22463,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f89517d153e5ab69f78f3d46684da57e269d4f7f5f6af1a5986c93eec741764",
+  "md_bytes": 10252,
+  "links_found": 68,
+  "files_found": 0
+}

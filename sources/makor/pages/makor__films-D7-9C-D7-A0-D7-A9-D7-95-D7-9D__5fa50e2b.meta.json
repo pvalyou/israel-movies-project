@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/%D7%9C%D7%A0%D7%A9%D7%95%D7%9D/",
+  "stable_id": "makor__films-D7-9C-D7-A0-D7-A9-D7-95-D7-9D__5fa50e2b",
+  "fetched_at": "2026-05-09T15:08:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:08:09Z",
+  "duration_ms": 14708,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:168c6cc5a76fc653832e1e9de9291d0fce31a0adc513734ac5bff8d7a9529e05",
+  "md_bytes": 3725,
+  "links_found": 4,
+  "files_found": 0
+}

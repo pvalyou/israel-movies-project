@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/yoel-israel-and-the-pashkavils/#UAMainContent",
+  "stable_id": "nfct__en-movies-yoel-israel-and-the-pashkavils__0c551d4c",
+  "fetched_at": "2026-05-16T11:13:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:13:08Z",
+  "duration_ms": 7243,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0820b391e50bc93a627ffb1638c7442cfaa08d17388243fdd130600f65bcc7c7",
+  "md_bytes": 15451,
+  "links_found": 41,
+  "files_found": 0
+}

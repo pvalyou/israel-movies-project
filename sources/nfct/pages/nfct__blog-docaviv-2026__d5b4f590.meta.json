@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/docaviv-2026/",
+  "stable_id": "nfct__blog-docaviv-2026__d5b4f590",
+  "fetched_at": "2026-05-15T08:58:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:58:26Z",
+  "duration_ms": 11770,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c315d5afe7f1ed9ae4f94daa0372b6ef8874d45761d75378516648de9d450c2",
+  "md_bytes": 32277,
+  "links_found": 57,
+  "files_found": 0
+}

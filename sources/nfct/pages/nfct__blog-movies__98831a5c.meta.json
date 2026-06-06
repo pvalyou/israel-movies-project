@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/טבעות-בצל/",
+  "stable_id": "nfct__blog-movies__98831a5c",
+  "fetched_at": "2026-05-09T20:27:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:27:52Z",
+  "duration_ms": 17707,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe5c02ce8d0dedce4d9654d9f8d4fee51f9fdbed92b79104f787dae3432427dd",
+  "md_bytes": 16356,
+  "links_found": 41,
+  "files_found": 0
+}

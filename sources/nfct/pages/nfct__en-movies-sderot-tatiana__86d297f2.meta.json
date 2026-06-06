@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sderot-tatiana/#UAMainContent",
+  "stable_id": "nfct__en-movies-sderot-tatiana__86d297f2",
+  "fetched_at": "2026-05-16T13:49:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:49:30Z",
+  "duration_ms": 10070,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ee2387053fe880ccbb75342b8823ad07136793373b6cb0e844a57538867e3c6",
+  "md_bytes": 12398,
+  "links_found": 39,
+  "files_found": 0
+}

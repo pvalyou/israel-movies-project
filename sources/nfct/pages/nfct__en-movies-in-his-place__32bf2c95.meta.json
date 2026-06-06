@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-his-place/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-in-his-place__32bf2c95",
+  "fetched_at": "2026-05-16T14:25:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:25:16Z",
+  "duration_ms": 11393,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:57fd2178213583bbdd247a3dc27d693ae59fa50720e4ba4f7cf4f0a631ab815c",
+  "md_bytes": 13486,
+  "links_found": 39,
+  "files_found": 0
+}

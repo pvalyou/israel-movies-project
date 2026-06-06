@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אנטישמיות-לא-מה-שחשבת/",
+  "stable_id": "nfct__blog-movies__79cfaba2",
+  "fetched_at": "2026-05-09T17:26:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:26:34Z",
+  "duration_ms": 16814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e54924b3059952a4db1f1f0505fce9efd94351647834f499cc67fb9d67dc37f",
+  "md_bytes": 20362,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/relatable/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-relatable__c3a7b697",
+  "fetched_at": "2026-05-16T14:22:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:22:58Z",
+  "duration_ms": 8117,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f82bc00ebea62cc3d933913a9531e0b1efc7b4f988821be1e222f7d4b34d13a9",
+  "md_bytes": 13973,
+  "links_found": 42,
+  "files_found": 0
+}

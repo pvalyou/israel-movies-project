@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=religious+law",
+  "stable_id": "nfct__en-movies-archive_keywords-religious-law__06bd7edf",
+  "fetched_at": "2026-05-16T16:50:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:50:27Z",
+  "duration_ms": 9481,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d839c3df9c5ee1c99c7fb8a39167537d54d1bc252d0f1ac6c9820359aeb7f052",
+  "md_bytes": 11746,
+  "links_found": 72,
+  "files_found": 0
+}

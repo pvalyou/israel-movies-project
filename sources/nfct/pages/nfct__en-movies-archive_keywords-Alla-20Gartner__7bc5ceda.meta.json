@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Alla%20Gartner",
+  "stable_id": "nfct__en-movies-archive_keywords-Alla-20Gartner__7bc5ceda",
+  "fetched_at": "2026-05-16T14:46:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:35Z",
+  "duration_ms": 9314,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:29f428d4758aaed8cad14d2bc34731c896f59cd1d3fe9011ef13e49ec311381c",
+  "md_bytes": 10175,
+  "links_found": 68,
+  "files_found": 0
+}

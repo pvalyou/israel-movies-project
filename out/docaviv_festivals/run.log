@@ -1,0 +1,43 @@
+
+=== Run started 2026-05-18T23:37:17.101135 ===
+[23:37:17] Source: docaviv_festivals
+[23:37:17] Pages dir: sources/docaviv_festivals/pages
+[23:37:17] Output dir: out/docaviv_festivals
+[23:37:17] Total .md pages found: 8  |  Already done: 0  |  To process: 8
+[23:37:17] Model: google/gemini-2.5-flash-lite  |  Workers: 4  |  Max chars: 32000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[23:37:17] [1/8] SKIP (g=0 s=0)
+[23:37:17]           file: docaviv_festivals__industry__ef522eb5.md
+[23:37:17]           url:  https://www.docaviv.co.il/industry/
+[23:37:19] [2/8] OK   1p 1o 0f 0r 1ro  (2.21s)
+[23:37:19]           file: docaviv_festivals__root__5deb6b99.md
+[23:37:19]           url:  https://tlvfest.com/
+[23:37:22] [3/8] OK   1p 6o 0f 6r 1ro  (3.64s)
+[23:37:22]           file: docaviv_festivals__root__9d838968.md
+[23:37:22]           url:  https://www.animixfest.co.il/
+[23:37:24] [4/8] OK   6p 5o 0f 5r 11ro  (7.24s)
+[23:37:24]           file: docaviv_festivals__root__5a541203.md
+[23:37:24]           url:  https://www.israelfilmacademy.co.il/
+[23:37:25] [5/8] OK   4p 1o 4f 8r 4ro  (8.32s)
+[23:37:25]           file: docaviv_festivals__root__016c977d.md
+[23:37:25]           url:  https://www.docaviv.co.il/
+[23:37:25] [6/8] OK   20p 2o 0f 0r 3ro  (8.44s)
+[23:37:25]           file: docaviv_festivals__about__63ee5f2f.md
+[23:37:25]           url:  https://www.docaviv.co.il/about/
+[23:37:26] [7/8] OK   1p 1o 5f 5r 1ro  (3.46s)
+[23:37:26]           file: docaviv_festivals__root__e01cd1e8.md
+[23:37:26]           url:  https://www.haifaff.co.il/
+[23:37:32] [8/8] OK   0p 0o 0f 0r 0ro  (8.2s)
+[23:37:32]           file: docaviv_festivals__root__e8cc4ba9.md
+[23:37:32]           url:  https://jff.org.il/
+[23:37:32] ======================================================================
+[23:37:32] DONE in 0.3min
+[23:37:32]   ok:           7
+[23:37:32]   filtered:     1
+[23:37:32]   empty:        0
+[23:37:32]   load_error:   0
+[23:37:32]   llm_error:    0
+[23:37:32] Tokens: 42,302 in / 17,708 out  |  Cost: $0.0113
+[23:37:32] Calls: 7  |  Errors: 0  |  JSON retries: 0
+[23:37:32] Output: out/docaviv_festivals/mentions.jsonl
+[23:37:32] Summary:  out/docaviv_festivals/run_summary.json
+=== Run ended 2026-05-18T23:37:32.570737 ===

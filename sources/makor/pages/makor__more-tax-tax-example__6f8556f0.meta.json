@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more-tax/tax-example/",
+  "stable_id": "makor__more-tax-tax-example__6f8556f0",
+  "fetched_at": "2026-05-09T12:46:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:35Z",
+  "duration_ms": 15709,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a457fb9bb7842d7b545c50ed7f5a74d12e8702430e2e9fb9a23c5c10db9468cf",
+  "md_bytes": 16549,
+  "links_found": 24,
+  "files_found": 0
+}

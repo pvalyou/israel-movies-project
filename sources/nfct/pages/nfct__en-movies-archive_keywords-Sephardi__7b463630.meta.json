@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sephardi",
+  "stable_id": "nfct__en-movies-archive_keywords-Sephardi__7b463630",
+  "fetched_at": "2026-05-16T10:29:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:29:57Z",
+  "duration_ms": 9584,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:46bd3700acfde75bbdf632a6431de9764c86afd60e6c66a9215c03ffd0f5d937",
+  "md_bytes": 11107,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/just-this/#UArexazDFN",
+  "stable_id": "nfct__en-movies-just-this__1781e1a4",
+  "fetched_at": "2026-05-16T13:30:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:30:04Z",
+  "duration_ms": 7810,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc0beefee0144f64e0db17df3adfc26ca4f7cfac393678b7f456164ca2d5df84",
+  "md_bytes": 12633,
+  "links_found": 36,
+  "files_found": 0
+}

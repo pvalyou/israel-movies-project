@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive/?keywords=BLM",
+  "stable_id": "nfct__movies-archive_keywords-BLM__68a704af",
+  "fetched_at": "2026-05-16T15:33:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:33:01Z",
+  "duration_ms": 6304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07712311d6bb845ca8406d286daa7bb253a27e8515ecac7a8acc0f766d01333f",
+  "md_bytes": 13778,
+  "links_found": 90,
+  "files_found": 0
+}

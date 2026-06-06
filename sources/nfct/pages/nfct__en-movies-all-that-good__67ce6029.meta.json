@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/all-that-good/",
+  "stable_id": "nfct__en-movies-all-that-good__67ce6029",
+  "fetched_at": "2026-05-11T11:33:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:33:17Z",
+  "duration_ms": 29424,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9b30f1fcbf88cb03d0966a5c50ae73e078f5fece0164694371de85408c28c995",
+  "md_bytes": 12035,
+  "links_found": 35,
+  "files_found": 0
+}

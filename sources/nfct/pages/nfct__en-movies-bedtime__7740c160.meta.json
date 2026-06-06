@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bedtime/#UAMainContent",
+  "stable_id": "nfct__en-movies-bedtime__7740c160",
+  "fetched_at": "2026-05-16T15:14:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:14:13Z",
+  "duration_ms": 7040,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13c90c585120cf4e4b670806450a020c16b3af107c813ab9aa6b9ffffc88e974",
+  "md_bytes": 13503,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Trauma%20and%20Healing",
+  "stable_id": "nfct__en-movies-archive_category-Trauma-20and-20Healing__f85b764b",
+  "fetched_at": "2026-05-16T12:01:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:01:36Z",
+  "duration_ms": 6476,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d19f321405a939167638e2e3ed1c377c2e823b4f79d19c635a276a8a7d621225",
+  "md_bytes": 14474,
+  "links_found": 77,
+  "files_found": 0
+}

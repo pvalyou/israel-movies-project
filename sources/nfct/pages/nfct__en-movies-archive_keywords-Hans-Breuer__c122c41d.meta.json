@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hans+Breuer",
+  "stable_id": "nfct__en-movies-archive_keywords-Hans-Breuer__c122c41d",
+  "fetched_at": "2026-05-16T14:08:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:08:40Z",
+  "duration_ms": 8154,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa20b4928c75fec84254ea2374c17dc290c0e069b6d87febd2c53d2fac64ab7f",
+  "md_bytes": 10325,
+  "links_found": 68,
+  "files_found": 0
+}

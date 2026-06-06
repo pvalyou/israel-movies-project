@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=father+and+son",
+  "stable_id": "nfct__en-movies-archive_keywords-father-and-son__180c04a5",
+  "fetched_at": "2026-05-16T13:02:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:02:37Z",
+  "duration_ms": 11853,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ceb5dbe122dd5287a3dd4f7a1dc4ceacd93590f3924848fcc2fca04885dd0ca",
+  "md_bytes": 16183,
+  "links_found": 82,
+  "files_found": 0
+}

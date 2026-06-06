@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The+Dead+Sea",
+  "stable_id": "nfct__en-movies-archive_keywords-The-Dead-Sea__a132730e",
+  "fetched_at": "2026-05-16T14:05:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:05:06Z",
+  "duration_ms": 9641,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7380205ab597dd2416f5bd1ccf844d589f95df169d58f9ce1dad1dadc5e8b07d",
+  "md_bytes": 12604,
+  "links_found": 73,
+  "files_found": 0
+}

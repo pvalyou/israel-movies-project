@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=harvot%20barzel",
+  "stable_id": "nfct__en-movies-archive_keywords-harvot-20barzel__e0fdae08",
+  "fetched_at": "2026-05-16T12:12:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:12:24Z",
+  "duration_ms": 9630,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:51821735fe5c7dba3f521321ba9203f06513a0501509e0c8aa28f36af9066983",
+  "md_bytes": 10163,
+  "links_found": 68,
+  "files_found": 0
+}

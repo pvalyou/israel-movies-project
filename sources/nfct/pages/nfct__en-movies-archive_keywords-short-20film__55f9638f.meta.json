@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=short%20film",
+  "stable_id": "nfct__en-movies-archive_keywords-short-20film__55f9638f",
+  "fetched_at": "2026-05-16T15:08:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:08:48Z",
+  "duration_ms": 9681,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:16ea940d332d823bdedecf6940d17d9c4cfb19b2c36a0ac22158a8a228a4dd05",
+  "md_bytes": 16705,
+  "links_found": 82,
+  "files_found": 0
+}

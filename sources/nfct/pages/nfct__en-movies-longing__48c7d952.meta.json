@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/longing/",
+  "stable_id": "nfct__en-movies-longing__48c7d952",
+  "fetched_at": "2026-05-15T15:31:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:31:31Z",
+  "duration_ms": 8802,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b2658393cad6ce00f6f3b370a9bd0d41a3e68d63c0b45df24dd999123b3b343",
+  "md_bytes": 11717,
+  "links_found": 29,
+  "files_found": 0
+}

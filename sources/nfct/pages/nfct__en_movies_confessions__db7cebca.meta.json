@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies/confessions/",
+  "stable_id": "nfct__en_movies_confessions__db7cebca",
+  "fetched_at": "2026-05-18T21:35:07.964582+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies/confessions/",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "a673eb9d21f6b63024e472500b15d4c35799a25567b150b4a3cdf3f6722eedb0",
+  "md_bytes": 8299,
+  "links_found": 0,
+  "error": ""
+}

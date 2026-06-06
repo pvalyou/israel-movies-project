@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/דגה/",
+  "stable_id": "nfct__blog-movies__bbdfb59e",
+  "fetched_at": "2026-05-15T09:02:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:00Z",
+  "duration_ms": 7163,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6292c6f6ec2eceb08157073faa4fa4186ca2611d8917be828765f71de6ab81ee",
+  "md_bytes": 16620,
+  "links_found": 40,
+  "files_found": 0
+}

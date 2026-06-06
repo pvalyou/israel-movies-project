@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/המחתרת-היהודית/",
+  "stable_id": "nfct__blog-movies__204d45cf",
+  "fetched_at": "2026-05-09T21:17:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:17:25Z",
+  "duration_ms": 21892,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b3f5c316ad0cb61e9ff9ede19880a762ab814e0cf0a1e7ca95f67b8451b8b0c0",
+  "md_bytes": 22791,
+  "links_found": 62,
+  "files_found": 0
+}

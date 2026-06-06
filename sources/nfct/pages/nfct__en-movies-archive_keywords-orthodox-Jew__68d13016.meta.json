@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=orthodox+Jew",
+  "stable_id": "nfct__en-movies-archive_keywords-orthodox-Jew__68d13016",
+  "fetched_at": "2026-05-16T06:14:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:14:58Z",
+  "duration_ms": 7483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:55965fc40d155243494d274c7327772b4315427b0107a7c501571b057eca4434",
+  "md_bytes": 15911,
+  "links_found": 82,
+  "files_found": 0
+}

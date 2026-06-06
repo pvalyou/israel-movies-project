@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Negev",
+  "stable_id": "nfct__en-movies-archive_keywords-Negev__e10f8db3",
+  "fetched_at": "2026-05-16T05:13:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:13:34Z",
+  "duration_ms": 6374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe444a6bb1f0223bb80e22d7f1506ad8ab1a768cc55f8f6387896040a6fd37d4",
+  "md_bytes": 13389,
+  "links_found": 76,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-kitzar/",
+  "stable_id": "nfct__en-movies-a-kitzar__ae1a19af",
+  "fetched_at": "2026-05-11T12:03:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:03:00Z",
+  "duration_ms": 8834,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:396d156715e983b65b76acbcf4ff40928f75b0c4f03914ba598db2f2010c3eea",
+  "md_bytes": 14444,
+  "links_found": 40,
+  "files_found": 0
+}

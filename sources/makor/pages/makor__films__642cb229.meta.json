@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מתי-כספי-וידוי/",
+  "stable_id": "makor__films__642cb229",
+  "fetched_at": "2026-05-09T13:07:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:07:39Z",
+  "duration_ms": 14289,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:14ffcaa4ce4fd187a6e3cf616e13f61d02b12e8d55dfb0544105d9a413b96402",
+  "md_bytes": 4308,
+  "links_found": 4,
+  "files_found": 0
+}

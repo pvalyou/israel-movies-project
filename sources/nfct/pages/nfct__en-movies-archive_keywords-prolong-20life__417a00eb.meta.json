@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=prolong%20life",
+  "stable_id": "nfct__en-movies-archive_keywords-prolong-20life__417a00eb",
+  "fetched_at": "2026-05-16T14:43:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:43:41Z",
+  "duration_ms": 14322,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4ed52d561134b3c3be471d857b02b928f0af6ec82f0da7e26557931aff6d8c4a",
+  "md_bytes": 10012,
+  "links_found": 68,
+  "files_found": 0
+}

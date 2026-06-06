@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=filmmakers",
+  "stable_id": "nfct__en-movies-archive_keywords-filmmakers__228e8f86",
+  "fetched_at": "2026-05-16T05:18:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:18:04Z",
+  "duration_ms": 10430,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:edf3240b4b67b18efd890e9120272fb23a72d4a2d1e61a61d494beeb70c7867e",
+  "md_bytes": 17091,
+  "links_found": 82,
+  "files_found": 0
+}

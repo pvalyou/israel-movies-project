@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=dirt",
+  "stable_id": "nfct__en-movies-archive_keywords-dirt__654a3bcf",
+  "fetched_at": "2026-05-16T14:44:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:44:12Z",
+  "duration_ms": 9825,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1036a7087a4888a3e8983916a3d72fa8f0b91e20871f041f6f75dd058d2b4845",
+  "md_bytes": 10883,
+  "links_found": 70,
+  "files_found": 0
+}

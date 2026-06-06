@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/החול-והים/",
+  "stable_id": "nfct__blog-movies__0d0fdf15",
+  "fetched_at": "2026-05-09T17:13:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:13:31Z",
+  "duration_ms": 37753,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:98aa6a8c4f42eaa81eb9d66b7cbe4ffa4f49d59cec0eb36e6cb4c916c4896dfd",
+  "md_bytes": 18491,
+  "links_found": 42,
+  "files_found": 0
+}

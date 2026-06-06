@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ehud%20Olmert",
+  "stable_id": "nfct__en-movies-archive_keywords-Ehud-20Olmert__940477bd",
+  "fetched_at": "2026-05-16T15:45:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:45:20Z",
+  "duration_ms": 5856,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f089754f711f517cf72ec38389a497c3b861a7f61ab3ecdf10d3582201aac2db",
+  "md_bytes": 10302,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/last-stop/?lang=en",
+  "stable_id": "makor__films-last-stop_lang-en__76085a43",
+  "fetched_at": "2026-05-09T13:06:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:06:54Z",
+  "duration_ms": 15555,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34c95a30a41a13552305b2b529660d4b736fd850a35b51071e8f9aa1bd8f72b5",
+  "md_bytes": 2463,
+  "links_found": 4,
+  "files_found": 0
+}

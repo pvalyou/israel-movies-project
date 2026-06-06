@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=cardiac%20arrest",
+  "stable_id": "nfct__en-movies-archive_keywords-cardiac-20arrest__0a0b6c40",
+  "fetched_at": "2026-05-16T14:10:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:10:03Z",
+  "duration_ms": 9664,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c23c9adb97c0a6c00c99e3b5fc152cbaa15907929c379f4119d6825bc25d9310",
+  "md_bytes": 10432,
+  "links_found": 68,
+  "files_found": 0
+}

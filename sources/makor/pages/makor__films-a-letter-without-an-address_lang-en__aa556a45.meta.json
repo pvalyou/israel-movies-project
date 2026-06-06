@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/a-letter-without-an-address/?lang=en",
+  "stable_id": "makor__films-a-letter-without-an-address_lang-en__aa556a45",
+  "fetched_at": "2026-05-09T13:19:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:19:57Z",
+  "duration_ms": 4892,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc5fbb56fc2d90f6c326b6cb789a251fabc3e6d2239c9dff90c7674247a0fdc7",
+  "md_bytes": 2499,
+  "links_found": 4,
+  "files_found": 0
+}

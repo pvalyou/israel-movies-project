@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קריוקי/",
+  "stable_id": "nfct__blog-movies__a17a1979",
+  "fetched_at": "2026-05-09T19:29:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:29:24Z",
+  "duration_ms": 13045,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ba0b21fdf0176271a9c52c32ef6b568c57c81529b5081bea47bbf38aacacaa0",
+  "md_bytes": 21290,
+  "links_found": 42,
+  "files_found": 0
+}

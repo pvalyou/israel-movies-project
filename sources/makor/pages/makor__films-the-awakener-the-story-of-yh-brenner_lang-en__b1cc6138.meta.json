@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-awakener-the-story-of-yh-brenner/?lang=en",
+  "stable_id": "makor__films-the-awakener-the-story-of-yh-brenner_lang-en__b1cc6138",
+  "fetched_at": "2026-05-09T13:08:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:09Z",
+  "duration_ms": 8682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9875fa1c756353e5a34ee64a455121a8639842f8b45a623849f03ba197eccef2",
+  "md_bytes": 2565,
+  "links_found": 4,
+  "files_found": 0
+}

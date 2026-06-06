@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האם-הם-תופסים-גם-ילדים/",
+  "stable_id": "nfct__blog-movies__76c3813b",
+  "fetched_at": "2026-05-09T17:27:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:27:36Z",
+  "duration_ms": 33224,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:84f201eaf212ef1ab8422bfa1112528e166c98227b628b40b2eb72783b2b8ea3",
+  "md_bytes": 18088,
+  "links_found": 41,
+  "files_found": 0
+}

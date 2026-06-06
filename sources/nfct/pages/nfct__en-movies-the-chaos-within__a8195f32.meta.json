@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-chaos-within/",
+  "stable_id": "nfct__en-movies-the-chaos-within__a8195f32",
+  "fetched_at": "2026-05-15T09:45:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:45:04Z",
+  "duration_ms": 12154,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27abcd8aa92338588d9cf8d39d1afb9bf72f07620f4cad7d116b8ad7ded5962a",
+  "md_bytes": 15018,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mandy+Kahan",
+  "stable_id": "nfct__en-movies-archive_keywords-Mandy-Kahan__12de1f92",
+  "fetched_at": "2026-05-16T13:40:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:40:08Z",
+  "duration_ms": 11050,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:114a341b323532e68150931c5a14f87632922f3850461e7468373d50f2ef257a",
+  "md_bytes": 10140,
+  "links_found": 68,
+  "files_found": 0
+}

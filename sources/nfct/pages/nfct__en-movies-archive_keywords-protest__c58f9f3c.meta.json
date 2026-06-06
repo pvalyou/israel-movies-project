@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=protest",
+  "stable_id": "nfct__en-movies-archive_keywords-protest__c58f9f3c",
+  "fetched_at": "2026-05-16T11:11:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:11:06Z",
+  "duration_ms": 7489,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bcb47a645ad0b687bf062eccb02512c6044ec2ffd2384c6217a6deaf8a3e6ef4",
+  "md_bytes": 15506,
+  "links_found": 79,
+  "files_found": 0
+}

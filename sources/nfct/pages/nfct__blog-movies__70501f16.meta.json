@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מראות-פורטרט-ירוחמי/",
+  "stable_id": "nfct__blog-movies__70501f16",
+  "fetched_at": "2026-05-09T21:37:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:37:28Z",
+  "duration_ms": 80027,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f0e252cb248e5ad3b1e0174a0df31ab03ec21dc19629830100545ccc88fbc3b",
+  "md_bytes": 23236,
+  "links_found": 42,
+  "files_found": 0
+}

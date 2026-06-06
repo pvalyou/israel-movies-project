@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/השכן-של-ישו/",
+  "stable_id": "nfct__blog-movies__5cd0ef39",
+  "fetched_at": "2026-05-09T17:14:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:14:25Z",
+  "duration_ms": 54297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f1598b01fbd63f6d4302d62491637c761a021fea1a4356b3a4430f9da07c4a5",
+  "md_bytes": 18633,
+  "links_found": 40,
+  "files_found": 0
+}

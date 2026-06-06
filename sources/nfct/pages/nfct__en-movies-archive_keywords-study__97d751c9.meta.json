@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=study",
+  "stable_id": "nfct__en-movies-archive_keywords-study__97d751c9",
+  "fetched_at": "2026-05-16T15:50:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:50:35Z",
+  "duration_ms": 9408,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f687595baf970990d10c0e568a8d48d0b29f3912ccf8027373c7dfc2df0a2ede",
+  "md_bytes": 15426,
+  "links_found": 78,
+  "files_found": 0
+}

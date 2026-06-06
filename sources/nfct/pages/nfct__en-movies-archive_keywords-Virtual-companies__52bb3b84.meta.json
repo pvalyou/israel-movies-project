@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Virtual+companies",
+  "stable_id": "nfct__en-movies-archive_keywords-Virtual-companies__52bb3b84",
+  "fetched_at": "2026-05-16T17:29:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:29:24Z",
+  "duration_ms": 6028,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af83360e1e053093e5d1896ebf1bfd7ad25f7809058ba2af30be1fec78dae976",
+  "md_bytes": 9982,
+  "links_found": 68,
+  "files_found": 0
+}

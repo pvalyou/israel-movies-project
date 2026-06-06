@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-girl-who-didnt-know-what-to-do/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-the-girl-who-didnt-know-what-to-do__67096444",
+  "fetched_at": "2026-05-16T13:58:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:58:16Z",
+  "duration_ms": 11832,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0d61999d686c227a82b12811233bed7997705f042e036fe541d9518d88feff1",
+  "md_bytes": 12437,
+  "links_found": 31,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/malachi/?lang=en",
+  "stable_id": "makor__films-malachi_lang-en__cf9646c0",
+  "fetched_at": "2026-05-09T13:02:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:02:05Z",
+  "duration_ms": 17182,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0cf00c7f872d7d96b7c9d5aae84c18a16aada83f35233b59ffa01e655c93deeb",
+  "md_bytes": 2954,
+  "links_found": 4,
+  "files_found": 0
+}

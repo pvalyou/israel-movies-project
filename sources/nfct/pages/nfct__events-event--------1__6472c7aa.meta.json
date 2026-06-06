@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-מגש-הכסף-פרק-1-דורון-צברי-אמיר-ב/",
+  "stable_id": "nfct__events-event--------1__6472c7aa",
+  "fetched_at": "2026-05-10T07:09:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T07:09:27Z",
+  "duration_ms": 21398,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a0562b94de06474db30ca1433f6fad5bc2e7368ea8c87ae0742e2a6d003d1783",
+  "md_bytes": 9981,
+  "links_found": 20,
+  "files_found": 0
+}

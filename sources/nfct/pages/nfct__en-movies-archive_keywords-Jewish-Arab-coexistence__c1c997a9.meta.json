@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish-Arab+coexistence",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-Arab-coexistence__c1c997a9",
+  "fetched_at": "2026-05-16T14:38:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:38:00Z",
+  "duration_ms": 9049,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e817c77ce63ed2d1c1483b6f15f7897d3300cbc5c609f2ec8e394d4c7bbc89d8",
+  "md_bytes": 9821,
+  "links_found": 67,
+  "files_found": 0
+}

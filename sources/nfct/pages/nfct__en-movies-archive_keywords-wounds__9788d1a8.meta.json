@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=wounds",
+  "stable_id": "nfct__en-movies-archive_keywords-wounds__9788d1a8",
+  "fetched_at": "2026-05-16T17:21:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:21:19Z",
+  "duration_ms": 7405,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1092d79d260c0f97115c5cf5963c1e48f9c7718a5c480377ba5ac33a4606ed8d",
+  "md_bytes": 11784,
+  "links_found": 73,
+  "files_found": 0
+}

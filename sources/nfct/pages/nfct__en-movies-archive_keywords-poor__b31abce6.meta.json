@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=poor",
+  "stable_id": "nfct__en-movies-archive_keywords-poor__b31abce6",
+  "fetched_at": "2026-05-16T04:57:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:57:58Z",
+  "duration_ms": 7411,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6d2bbb61d9680fbad91797e53c805fbbb4e2b2957b0fb41b0fb830f2336e23fb",
+  "md_bytes": 16203,
+  "links_found": 82,
+  "files_found": 0
+}

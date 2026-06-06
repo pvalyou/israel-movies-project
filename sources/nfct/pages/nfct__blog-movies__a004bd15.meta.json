@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פליפ/",
+  "stable_id": "nfct__blog-movies__a004bd15",
+  "fetched_at": "2026-05-15T08:59:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:05Z",
+  "duration_ms": 11670,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6cae5bd1e9228e2595aa4ec35be686b78083f1ee4be5e00b9528cee0b6cfc420",
+  "md_bytes": 19443,
+  "links_found": 43,
+  "files_found": 0
+}

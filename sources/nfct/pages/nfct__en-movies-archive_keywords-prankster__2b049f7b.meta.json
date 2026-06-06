@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=prankster",
+  "stable_id": "nfct__en-movies-archive_keywords-prankster__2b049f7b",
+  "fetched_at": "2026-05-16T16:48:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:48:05Z",
+  "duration_ms": 7537,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a91da98de20ecc256d5be15a6b108c5f23584cdff9501fad3ed2af43b3e5993b",
+  "md_bytes": 10152,
+  "links_found": 68,
+  "files_found": 0
+}

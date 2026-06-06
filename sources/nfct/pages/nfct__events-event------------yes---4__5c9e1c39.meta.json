@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-חיים-על-הגבול-רונית-איפרגן-yes-דוק-4/",
+  "stable_id": "nfct__events-event------------yes---4__5c9e1c39",
+  "fetched_at": "2026-05-10T12:10:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T12:10:23Z",
+  "duration_ms": 23218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:333e45fcdc3d58b0bdf90120593fb3116130a6d2f69e4b697838e162915595ea",
+  "md_bytes": 10836,
+  "links_found": 21,
+  "files_found": 0
+}

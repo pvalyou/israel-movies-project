@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/bear-hug/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-bear-hug__854f5913",
+  "fetched_at": "2026-05-16T16:43:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:43:42Z",
+  "duration_ms": 9480,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17663e2e7658a694d0cc7b5b6dddda75c4d738967e2403028a2b3f06b6f30f2f",
+  "md_bytes": 13313,
+  "links_found": 41,
+  "files_found": 0
+}

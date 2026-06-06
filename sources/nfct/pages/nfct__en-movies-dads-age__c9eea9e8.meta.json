@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/dads-age/",
+  "stable_id": "nfct__en-movies-dads-age__c9eea9e8",
+  "fetched_at": "2026-05-15T15:30:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:30:22Z",
+  "duration_ms": 8371,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1966767e91349ac53b2e1e67e5d86aca27542776cfcd434dcacf7a5b18aeb092",
+  "md_bytes": 12006,
+  "links_found": 31,
+  "files_found": 0
+}

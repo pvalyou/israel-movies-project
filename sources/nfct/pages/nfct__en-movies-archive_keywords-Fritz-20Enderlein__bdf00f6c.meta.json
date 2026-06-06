@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Fritz%20Enderlein",
+  "stable_id": "nfct__en-movies-archive_keywords-Fritz-20Enderlein__bdf00f6c",
+  "fetched_at": "2026-05-16T20:32:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:42Z",
+  "duration_ms": 8925,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2b92f4e3be38bde3cb1e1c7bd6f8a16f1b82a1c55f7b2f469a2ebd64074e4478",
+  "md_bytes": 10289,
+  "links_found": 68,
+  "files_found": 0
+}

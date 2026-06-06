@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Christmas",
+  "stable_id": "nfct__en-movies-archive_keywords-Christmas__fc92f0af",
+  "fetched_at": "2026-05-16T04:30:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:30:44Z",
+  "duration_ms": 8187,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3929c7d54db7e30d65dd904e1e01bab07e85642897980016aaaa959937a6e82e",
+  "md_bytes": 11329,
+  "links_found": 70,
+  "files_found": 0
+}

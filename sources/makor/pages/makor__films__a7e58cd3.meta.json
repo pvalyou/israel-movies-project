@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אמת-או-חובה/",
+  "stable_id": "makor__films__a7e58cd3",
+  "fetched_at": "2026-05-09T13:04:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:04:20Z",
+  "duration_ms": 11911,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:31c2ab8b4dc4da3ae347ef29cd0f788e95f924ff43e53c277aac6f9ea806ae05",
+  "md_bytes": 2349,
+  "links_found": 4,
+  "files_found": 0
+}

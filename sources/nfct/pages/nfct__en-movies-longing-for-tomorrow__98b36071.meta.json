@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/longing-for-tomorrow/",
+  "stable_id": "nfct__en-movies-longing-for-tomorrow__98b36071",
+  "fetched_at": "2026-05-12T03:12:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:12:36Z",
+  "duration_ms": 33774,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:720157b296e31d47e4d382b8fa7828969e749c7165116a77795e0f9b4783e577",
+  "md_bytes": 14992,
+  "links_found": 43,
+  "files_found": 0
+}

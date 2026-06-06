@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Journeyescape",
+  "stable_id": "nfct__en-movies-archive_keywords-Journeyescape__2f27e5af",
+  "fetched_at": "2026-05-16T11:31:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:31:31Z",
+  "duration_ms": 10945,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8731f2232ffc5663e1321f59d0dd5f8848d77580cdbdd652466c69bd95c41fdb",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

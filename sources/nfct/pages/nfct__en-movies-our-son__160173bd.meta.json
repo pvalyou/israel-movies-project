@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/our-son/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-our-son__160173bd",
+  "fetched_at": "2026-05-16T14:52:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:52:18Z",
+  "duration_ms": 8123,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8193b221ad2b001a49658e037e4083c339c2d118a20834b242b4b553df71d3d8",
+  "md_bytes": 12998,
+  "links_found": 40,
+  "files_found": 0
+}

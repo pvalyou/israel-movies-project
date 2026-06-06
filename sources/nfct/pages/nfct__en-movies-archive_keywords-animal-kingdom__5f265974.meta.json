@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=animal+kingdom",
+  "stable_id": "nfct__en-movies-archive_keywords-animal-kingdom__5f265974",
+  "fetched_at": "2026-05-16T16:21:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:21:50Z",
+  "duration_ms": 7193,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:96dae44c9ea8f41d1d2eeb3b1ef71432aeb1627853120fcd1e8da72ff9e250a8",
+  "md_bytes": 10021,
+  "links_found": 68,
+  "files_found": 0
+}

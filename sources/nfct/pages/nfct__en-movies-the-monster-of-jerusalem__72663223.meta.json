@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-monster-of-jerusalem/",
+  "stable_id": "nfct__en-movies-the-monster-of-jerusalem__72663223",
+  "fetched_at": "2026-05-11T17:56:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:56:50Z",
+  "duration_ms": 67772,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3896925b94ecebda9e1626542338ba56877e57c9ca7c69bd7f765125af624467",
+  "md_bytes": 15020,
+  "links_found": 46,
+  "files_found": 0
+}

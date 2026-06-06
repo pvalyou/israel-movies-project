@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pioneers",
+  "stable_id": "nfct__en-movies-archive_keywords-Pioneers__c59200c6",
+  "fetched_at": "2026-05-16T20:15:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:15:45Z",
+  "duration_ms": 23101,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:99708d110fd2c0c4326e5ac48cef76143573173a4477beaa3ccc051f1855939d",
+  "md_bytes": 10915,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=MiDarom%20Film%20Fund",
+  "stable_id": "nfct__en-movies-archive_keywords-MiDarom-20Film-20Fund__8004997d",
+  "fetched_at": "2026-05-16T15:27:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:27:25Z",
+  "duration_ms": 8805,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e17726d29f77cfa164bd6c27e7d18507d0d1f53ba5d5a3c8bde100688a70ead8",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

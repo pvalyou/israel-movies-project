@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/freak-out/",
+  "stable_id": "nfct__en-movies-freak-out__a01a9160",
+  "fetched_at": "2026-05-11T00:26:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:26:51Z",
+  "duration_ms": 29499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:31029757f328fde32c17c36d528b8d13a17ae79774695210dded71642be53b66",
+  "md_bytes": 13212,
+  "links_found": 30,
+  "files_found": 0
+}

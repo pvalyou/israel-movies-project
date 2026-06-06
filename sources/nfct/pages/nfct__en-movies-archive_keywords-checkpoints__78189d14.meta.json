@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=checkpoints",
+  "stable_id": "nfct__en-movies-archive_keywords-checkpoints__78189d14",
+  "fetched_at": "2026-05-16T10:16:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:16:59Z",
+  "duration_ms": 14315,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7b3b0a535cf6318ac7b9d2fed381846e0e603ad91799cf9b4cc0158a4f695a9f",
+  "md_bytes": 10221,
+  "links_found": 69,
+  "files_found": 0
+}

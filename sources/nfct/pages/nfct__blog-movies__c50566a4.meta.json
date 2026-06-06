@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סיפור-אפולוני/",
+  "stable_id": "nfct__blog-movies__c50566a4",
+  "fetched_at": "2026-05-09T21:05:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:05:59Z",
+  "duration_ms": 32288,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:290be148a86cf8e5f0692be946a861261808b69d375392e2c242513fbb8a0e37",
+  "md_bytes": 19712,
+  "links_found": 35,
+  "files_found": 0
+}

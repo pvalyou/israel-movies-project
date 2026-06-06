@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מים-עמוקים/",
+  "stable_id": "nfct__blog-movies__aff26dce",
+  "fetched_at": "2026-05-09T20:18:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:18:30Z",
+  "duration_ms": 20500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c51e7292974144e2f74647d16112dcc21a27c90bca8a4692b1eb82aed5c8e13",
+  "md_bytes": 20526,
+  "links_found": 50,
+  "files_found": 0
+}

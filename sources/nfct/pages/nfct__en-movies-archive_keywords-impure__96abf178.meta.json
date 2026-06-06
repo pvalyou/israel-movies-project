@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=impure",
+  "stable_id": "nfct__en-movies-archive_keywords-impure__96abf178",
+  "fetched_at": "2026-05-16T20:19:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:19:30Z",
+  "duration_ms": 9976,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d96a83b50c7f964a88b1ab3998635726d5c06c5e88d4cb570e2797dbae3d13a",
+  "md_bytes": 10843,
+  "links_found": 70,
+  "files_found": 0
+}

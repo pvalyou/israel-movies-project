@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Shlomi+Elkabetz",
+  "stable_id": "nfct__en-movies-archive_keywords-Shlomi-Elkabetz__368440f7",
+  "fetched_at": "2026-05-16T14:46:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:16Z",
+  "duration_ms": 8744,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:082e2245135375ba48d212c6df148e095e829e7deed090b75cbc21a33570aec8",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

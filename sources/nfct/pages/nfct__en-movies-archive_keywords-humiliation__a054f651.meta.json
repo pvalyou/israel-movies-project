@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=humiliation",
+  "stable_id": "nfct__en-movies-archive_keywords-humiliation__a054f651",
+  "fetched_at": "2026-05-16T16:58:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:14Z",
+  "duration_ms": 7916,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c780160c63deaaeb13ac39d55e4a5a78fa596988001113a976de86a19d05c31",
+  "md_bytes": 10222,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=visa",
+  "stable_id": "nfct__en-movies-archive_keywords-visa__8f0de029",
+  "fetched_at": "2026-05-16T16:30:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:30:25Z",
+  "duration_ms": 7131,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d956f15efac80c242138d82f53c7d95a71177dff059712ed9086e96d86d76d35",
+  "md_bytes": 11430,
+  "links_found": 71,
+  "files_found": 0
+}

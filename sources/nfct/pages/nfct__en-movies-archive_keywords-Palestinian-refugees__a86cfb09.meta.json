@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian+refugees",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-refugees__a86cfb09",
+  "fetched_at": "2026-05-16T11:25:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:25:44Z",
+  "duration_ms": 6467,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:002e0a6b6c226aa3a90bb90d2286695c89380e7b492d400af47f027e00f86a76",
+  "md_bytes": 10543,
+  "links_found": 69,
+  "files_found": 0
+}

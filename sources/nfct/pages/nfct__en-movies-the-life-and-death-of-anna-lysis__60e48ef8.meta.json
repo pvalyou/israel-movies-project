@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-life-and-death-of-anna-lysis/#UArexazDFN",
+  "stable_id": "nfct__en-movies-the-life-and-death-of-anna-lysis__60e48ef8",
+  "fetched_at": "2026-05-16T15:15:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:15:21Z",
+  "duration_ms": 6394,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d06f560682cc74e3604d3521f4e164447a29be621084865ef9b79dac2ccc7f77",
+  "md_bytes": 12765,
+  "links_found": 37,
+  "files_found": 0
+}

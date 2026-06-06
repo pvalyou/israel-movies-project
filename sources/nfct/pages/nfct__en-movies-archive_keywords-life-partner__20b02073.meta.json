@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=life+partner",
+  "stable_id": "nfct__en-movies-archive_keywords-life-partner__20b02073",
+  "fetched_at": "2026-05-16T07:26:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:26:49Z",
+  "duration_ms": 6785,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:108fd222f81b3443ad1a440967e6d104f1ab598df4cf431b4bac936da40b484c",
+  "md_bytes": 13716,
+  "links_found": 76,
+  "files_found": 0
+}

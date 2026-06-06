@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Holocaust",
+  "stable_id": "nfct__en-movies-archive_keywords-Holocaust__eb5f5a5d",
+  "fetched_at": "2026-05-16T03:36:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:36:16Z",
+  "duration_ms": 7731,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f9b92d58a1a0e1ba58c6e27206c8d56a2e237f55b96992589a34d22b8ae779b",
+  "md_bytes": 16190,
+  "links_found": 82,
+  "files_found": 0
+}

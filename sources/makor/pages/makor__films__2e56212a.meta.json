@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אלמנה-ויתום/",
+  "stable_id": "makor__films__2e56212a",
+  "fetched_at": "2026-05-09T13:08:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:35Z",
+  "duration_ms": 4297,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8483db63e716af592f388d4cd2df593335e6a373a7ea16f773a2c81e8842a257",
+  "md_bytes": 3350,
+  "links_found": 4,
+  "files_found": 0
+}

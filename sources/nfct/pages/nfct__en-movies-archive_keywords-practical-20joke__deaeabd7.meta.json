@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=practical%20joke",
+  "stable_id": "nfct__en-movies-archive_keywords-practical-20joke__deaeabd7",
+  "fetched_at": "2026-05-16T16:48:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:48:05Z",
+  "duration_ms": 7362,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e4edd925cd791195e918b012bc83ee8cc0826497cc6f1f6ebe1eddb8e428839",
+  "md_bytes": 10164,
+  "links_found": 68,
+  "files_found": 0
+}

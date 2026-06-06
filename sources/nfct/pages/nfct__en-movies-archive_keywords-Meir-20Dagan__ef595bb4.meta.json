@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Meir%20Dagan",
+  "stable_id": "nfct__en-movies-archive_keywords-Meir-20Dagan__ef595bb4",
+  "fetched_at": "2026-05-16T16:33:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:33:49Z",
+  "duration_ms": 6057,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb0842dc7f10be08f252d07f1db4ef558bbe1672bc25abaa0241f6d0f2806daa",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

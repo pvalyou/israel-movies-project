@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kifaya+Ayati",
+  "stable_id": "nfct__en-movies-archive_keywords-Kifaya-Ayati__589e710f",
+  "fetched_at": "2026-05-16T15:07:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:07:50Z",
+  "duration_ms": 8492,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f55d4503bf772e87b0c2d743c0dc9149e65008d47751c3bb08b3d27f59ddfa4",
+  "md_bytes": 10179,
+  "links_found": 68,
+  "files_found": 0
+}

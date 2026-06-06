@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/deep-in-the-fog/",
+  "stable_id": "nfct__en-movies-deep-in-the-fog__afb4745d",
+  "fetched_at": "2026-05-11T13:15:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:15:27Z",
+  "duration_ms": 30823,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf982edd9d5ea9c2cb8ca09b91b4bd41c4ec88a6f9f35cb8445c0e833d216cea",
+  "md_bytes": 13958,
+  "links_found": 43,
+  "files_found": 0
+}

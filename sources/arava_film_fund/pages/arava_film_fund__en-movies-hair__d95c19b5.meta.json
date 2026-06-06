@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/hair/#main",
+  "stable_id": "arava_film_fund__en-movies-hair__d95c19b5",
+  "fetched_at": "2026-05-08T10:17:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:17:36Z",
+  "duration_ms": 7675,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a352e84697dfedfdf07099265338d9a5a9868383449a4e2845ad37007016ffe8",
+  "md_bytes": 3509,
+  "links_found": 9,
+  "files_found": 0
+}

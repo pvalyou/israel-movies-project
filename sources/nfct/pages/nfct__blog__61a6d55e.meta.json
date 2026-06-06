@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/שנה-טובה/",
+  "stable_id": "nfct__blog__61a6d55e",
+  "fetched_at": "2026-05-15T08:59:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:04Z",
+  "duration_ms": 50160,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e2c9d094905d209164034ab947a08cbebabb11440dc15c39d6cc03bdaaa62b9",
+  "md_bytes": 11413,
+  "links_found": 32,
+  "files_found": 0
+}

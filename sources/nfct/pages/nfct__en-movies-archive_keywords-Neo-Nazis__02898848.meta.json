@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Neo-Nazis",
+  "stable_id": "nfct__en-movies-archive_keywords-Neo-Nazis__02898848",
+  "fetched_at": "2026-05-16T09:28:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:28:38Z",
+  "duration_ms": 10280,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8673018713c2b62bd7868a578a4bb76f674213a8080162169c0a3ea55c6378f2",
+  "md_bytes": 9869,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=summer%20vacation",
+  "stable_id": "nfct__en-movies-archive_keywords-summer-20vacation__83a00082",
+  "fetched_at": "2026-05-16T13:18:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:18:16Z",
+  "duration_ms": 9799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7edf80e3403a51e5862d146c44aed127c7cad88135972f635fa69351595526b8",
+  "md_bytes": 10479,
+  "links_found": 69,
+  "files_found": 0
+}

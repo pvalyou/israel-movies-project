@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mammogram",
+  "stable_id": "nfct__en-movies-archive_keywords-Mammogram__82c19430",
+  "fetched_at": "2026-05-16T12:49:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:49:15Z",
+  "duration_ms": 10519,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:717d115aaf873b569839d06b03b9254e086871342dcde36e034bbdf226f4a1bf",
+  "md_bytes": 10287,
+  "links_found": 68,
+  "files_found": 0
+}

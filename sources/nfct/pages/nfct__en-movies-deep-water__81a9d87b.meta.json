@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/deep-water/",
+  "stable_id": "nfct__en-movies-deep-water__81a9d87b",
+  "fetched_at": "2026-05-11T17:12:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:12:19Z",
+  "duration_ms": 10646,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:451f235a1f5421f5faae6f62f358693d2faa465219b8ac4795209c8b941d5c9c",
+  "md_bytes": 13432,
+  "links_found": 38,
+  "files_found": 0
+}

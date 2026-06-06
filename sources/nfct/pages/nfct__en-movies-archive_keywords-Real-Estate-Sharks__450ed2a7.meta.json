@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Real+Estate+Sharks",
+  "stable_id": "nfct__en-movies-archive_keywords-Real-Estate-Sharks__450ed2a7",
+  "fetched_at": "2026-05-16T14:17:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:17:51Z",
+  "duration_ms": 6981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8e308375a3e46137b72458c069bc30576dbd40f7ba150d49c3739f16ca6ec77b",
+  "md_bytes": 10018,
+  "links_found": 68,
+  "files_found": 0
+}

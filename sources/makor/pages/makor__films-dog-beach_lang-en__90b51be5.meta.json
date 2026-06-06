@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/dog-beach/?lang=en",
+  "stable_id": "makor__films-dog-beach_lang-en__90b51be5",
+  "fetched_at": "2026-05-09T13:22:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:22:48Z",
+  "duration_ms": 13320,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ca45b41a4d36e8f418fffe71c645c8b9ffe9e77d562a862a7410dc0edf35b79",
+  "md_bytes": 2004,
+  "links_found": 4,
+  "files_found": 0
+}

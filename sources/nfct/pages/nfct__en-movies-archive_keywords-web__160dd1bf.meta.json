@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=web",
+  "stable_id": "nfct__en-movies-archive_keywords-web__160dd1bf",
+  "fetched_at": "2026-05-16T16:49:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:49:12Z",
+  "duration_ms": 6456,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1ca629011b8b604055fd290a82061ec31fc3a7dee5b5013a30c01f1eba717e6f",
+  "md_bytes": 14039,
+  "links_found": 77,
+  "files_found": 0
+}

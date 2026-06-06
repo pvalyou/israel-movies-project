@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/little-earthquakes/",
+  "stable_id": "nfct__en-movies-little-earthquakes__a70efdb6",
+  "fetched_at": "2026-05-15T09:39:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:39:27Z",
+  "duration_ms": 12099,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:740565e16d8c7df31ce0c5d7d561d628ea644e43cffa4065dc9316d8bcf3cd09",
+  "md_bytes": 12692,
+  "links_found": 32,
+  "files_found": 0
+}

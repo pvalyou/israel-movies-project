@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=cacophony",
+  "stable_id": "nfct__en-movies-archive_keywords-cacophony__3b70c3c4",
+  "fetched_at": "2026-05-16T17:05:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:05:08Z",
+  "duration_ms": 9283,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:62f210b5588d9d651c3ceed9b49e56e0bed3ffa1a0d670d8290caee3aa0505c3",
+  "md_bytes": 10928,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ibed-fogel-et-fogel/?lang=en",
+  "stable_id": "makor__films-ibed-fogel-et-fogel_lang-en__e7470f43",
+  "fetched_at": "2026-05-09T13:10:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:10:16Z",
+  "duration_ms": 15814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f48591e4d23643beb44423ced8b77d2cc9652c3709679697bd0b16d7b18fbec3",
+  "md_bytes": 2164,
+  "links_found": 4,
+  "files_found": 0
+}

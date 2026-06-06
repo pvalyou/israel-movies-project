@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/gila-and-baruch/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-gila-and-baruch__97cb2eeb",
+  "fetched_at": "2026-05-16T14:53:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:53:13Z",
+  "duration_ms": 5105,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d63cc4b14a1ab5c71073d81482e7e85b7330395a31f9a75f8fc00e3739de968",
+  "md_bytes": 13185,
+  "links_found": 36,
+  "files_found": 0
+}

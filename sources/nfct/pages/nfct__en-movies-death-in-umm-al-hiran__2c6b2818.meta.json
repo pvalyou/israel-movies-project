@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/death-in-umm-al-hiran/#UAMainContent",
+  "stable_id": "nfct__en-movies-death-in-umm-al-hiran__2c6b2818",
+  "fetched_at": "2026-05-16T13:10:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:10:41Z",
+  "duration_ms": 9293,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4a3baaa890589e6454c6d22ce286258697cba76dc361a65c7d72bb8cf6882d45",
+  "md_bytes": 13476,
+  "links_found": 33,
+  "files_found": 0
+}

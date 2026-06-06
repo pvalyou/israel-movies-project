@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/second-separation/",
+  "stable_id": "nfct__en-movies-second-separation__d7fda723",
+  "fetched_at": "2026-05-11T03:52:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:52:25Z",
+  "duration_ms": 59332,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17742804a81c2f341b7102b6dcc4ab7c4c3c2f2619fc60751232ed4380959b68",
+  "md_bytes": 11887,
+  "links_found": 31,
+  "files_found": 0
+}

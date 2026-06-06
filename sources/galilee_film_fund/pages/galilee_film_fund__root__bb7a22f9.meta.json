@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfundgalil.com/",
+  "stable_id": "galilee_film_fund__root__bb7a22f9",
+  "fetched_at": "2026-05-09T11:11:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:11:31Z",
+  "duration_ms": 26409,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90c76e9e888f79d43cae2962ebb73277e6c41f745d6778d9cf6157c50589a53e",
+  "md_bytes": 929,
+  "links_found": 0,
+  "files_found": 0
+}

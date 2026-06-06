@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish%20Arabs",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish-20Arabs__08680e93",
+  "fetched_at": "2026-05-16T13:04:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:04:03Z",
+  "duration_ms": 12733,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4f96f76e6afac25f19bda1dd2ef69976d45b214c340d7b42dc6bf6799bd93ddc",
+  "md_bytes": 10192,
+  "links_found": 68,
+  "files_found": 0
+}

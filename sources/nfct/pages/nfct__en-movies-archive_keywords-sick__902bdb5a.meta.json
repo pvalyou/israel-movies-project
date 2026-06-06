@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sick",
+  "stable_id": "nfct__en-movies-archive_keywords-sick__902bdb5a",
+  "fetched_at": "2026-05-16T15:51:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:14Z",
+  "duration_ms": 7711,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f858f883d7e33353d0ca910b24da402873bcf92c978867c7ef4822d8118de075",
+  "md_bytes": 14640,
+  "links_found": 78,
+  "files_found": 0
+}

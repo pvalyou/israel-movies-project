@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/21-days-inside/?lang=en",
+  "stable_id": "makor__films-21-days-inside_lang-en__28586232",
+  "fetched_at": "2026-05-09T13:11:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:11:33Z",
+  "duration_ms": 10273,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c6ff08e1dbf255c692d320eee8ddbd4458dbba3b13332eb4d18e13d36376edff",
+  "md_bytes": 2020,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Seven%20of%20October",
+  "stable_id": "nfct__en-movies-archive_keywords-Seven-20of-20October__e50bc692",
+  "fetched_at": "2026-05-16T20:30:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:30:20Z",
+  "duration_ms": 6865,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:76780fb6ce8f0ce025d6174b7ecef2ad788b5d05c612928b083bd96501215a17",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

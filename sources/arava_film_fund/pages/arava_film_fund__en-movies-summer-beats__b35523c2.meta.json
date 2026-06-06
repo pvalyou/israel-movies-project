@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/summer-beats/#main",
+  "stable_id": "arava_film_fund__en-movies-summer-beats__b35523c2",
+  "fetched_at": "2026-05-08T10:19:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:19:34Z",
+  "duration_ms": 3493,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d0c99beb1db39cebb3fb8a52607572ade3bfee48ed4e39feb11253da7a7b0dd1",
+  "md_bytes": 3424,
+  "links_found": 9,
+  "files_found": 0
+}

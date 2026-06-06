@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Borders+and+Periphery",
+  "stable_id": "nfct__en-movies-archive_category-Borders-and-Periphery__596e8043",
+  "fetched_at": "2026-05-16T03:06:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:06:10Z",
+  "duration_ms": 5932,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c15d5126828a97ca74b4675216981010d9a681d7423636b65d184523a48751e5",
+  "md_bytes": 16573,
+  "links_found": 82,
+  "files_found": 0
+}

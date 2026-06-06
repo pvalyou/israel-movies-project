@@ -1,0 +1,29 @@
+  109 film sub-sitemaps found
+  TEST MODE: limited to 2 sitemaps
+Traceback (most recent call last):
+  File "/Users/moran/projects/israeli-movies-ind/scripts/cinemaofisrael/scrape_cinemaofisrael.py", line 311, in <module>
+    main()
+    ~~~~^^
+  File "/Users/moran/projects/israeli-movies-ind/scripts/cinemaofisrael/scrape_cinemaofisrael.py", line 285, in main
+    sitemap_done.add(sm_url)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+  109 film sub-sitemaps found
+  TEST MODE: limited to 1 sitemaps
+  [1/1] 0 films from sitemap, total OK: 0, 0min
+
+Done: 0 CI films in 0.0 min
+  With crew: 0, with cast: 0
+  → data/cinemaofisrael/raw_films.json
+  109 film sub-sitemaps found
+  TEST MODE: limited to 1 sitemaps
+  [1/1] 0 films from sitemap, total OK: 0, 0min
+
+Done: 0 CI films in 0.0 min
+  With crew: 0, with cast: 0
+  → data/cinemaofisrael/raw_films.json
+  109 film sub-sitemaps found
+  [1/109] 0 films from sitemap, total OK: 0, 0min
+  [2/109] 0 films from sitemap, total OK: 0, 0min
+  [3/109] 0 films from sitemap, total OK: 0, 0min
+  [4/109] 0 films from sitemap, total OK: 0, 0min

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kahane%20Chai",
+  "stable_id": "nfct__en-movies-archive_keywords-Kahane-20Chai__ea0b1c49",
+  "fetched_at": "2026-05-16T17:32:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:32:53Z",
+  "duration_ms": 5807,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b2736290d2666f95d2f686f2c44a5d2b9ddcec08d58d54899219381d6240171d",
+  "md_bytes": 10216,
+  "links_found": 68,
+  "files_found": 0
+}

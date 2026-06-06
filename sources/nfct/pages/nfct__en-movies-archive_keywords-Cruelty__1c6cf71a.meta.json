@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cruelty",
+  "stable_id": "nfct__en-movies-archive_keywords-Cruelty__1c6cf71a",
+  "fetched_at": "2026-05-16T06:42:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:42:48Z",
+  "duration_ms": 5748,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d584779d7164132fb09e13a9763d5e5cc12c5e0e37d4d5320e8285bc87c3d69",
+  "md_bytes": 10772,
+  "links_found": 69,
+  "files_found": 0
+}

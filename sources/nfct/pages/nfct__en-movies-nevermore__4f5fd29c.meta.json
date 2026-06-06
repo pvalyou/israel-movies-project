@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nevermore/",
+  "stable_id": "nfct__en-movies-nevermore__4f5fd29c",
+  "fetched_at": "2026-05-11T11:22:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:22:53Z",
+  "duration_ms": 7795,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c63e1d8630c8c73df0f6e9eb4ac9603b7c3ff5dbc35870e11738316872485d4c",
+  "md_bytes": 11389,
+  "links_found": 25,
+  "files_found": 0
+}

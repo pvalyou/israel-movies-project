@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/xxy-47/",
+  "stable_id": "nfct__en-movies-xxy-47__6bfc4e6c",
+  "fetched_at": "2026-05-11T14:21:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T14:21:02Z",
+  "duration_ms": 44488,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1b19edd13f56705b72c0c4e8ab5922349bae67fc2cebeb12396fdee95c143ff",
+  "md_bytes": 16709,
+  "links_found": 54,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=betting",
+  "stable_id": "nfct__en-movies-archive_keywords-betting__71843f5d",
+  "fetched_at": "2026-05-16T17:22:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:22:01Z",
+  "duration_ms": 12169,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:48908507caba8e9ba560a0fd306cc42d7f270cf01481780c0f27b1a67d4b7984",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

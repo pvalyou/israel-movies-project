@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/longshort/#UAMainContent",
+  "stable_id": "nfct__en-movies-longshort__5e0b0c2a",
+  "fetched_at": "2026-05-16T06:46:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:46:13Z",
+  "duration_ms": 9889,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d46e12be2379d5751c4b30657cc0969841fe57cb6a99d371366e060a8037a2d5",
+  "md_bytes": 11822,
+  "links_found": 27,
+  "files_found": 0
+}

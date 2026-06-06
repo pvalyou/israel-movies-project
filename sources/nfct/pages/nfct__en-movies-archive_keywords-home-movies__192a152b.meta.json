@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=home+movies",
+  "stable_id": "nfct__en-movies-archive_keywords-home-movies__192a152b",
+  "fetched_at": "2026-05-16T12:11:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:11:18Z",
+  "duration_ms": 8871,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0e0f443829752b59860b60b108fb7a52a18ff5e1ef59e08f4bfa014df593752d",
+  "md_bytes": 15392,
+  "links_found": 78,
+  "files_found": 0
+}

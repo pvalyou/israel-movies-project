@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Backgammon",
+  "stable_id": "nfct__en-movies-archive_keywords-Backgammon__3b4e8b1b",
+  "fetched_at": "2026-05-16T10:36:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:36:18Z",
+  "duration_ms": 6500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e973bebe980224b703a8434165842cc4a4df6540e950ae8f9ad485c419efb893",
+  "md_bytes": 10736,
+  "links_found": 69,
+  "files_found": 0
+}

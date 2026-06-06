@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/politically-correct/",
+  "stable_id": "nfct__en-movies-politically-correct__cda34c22",
+  "fetched_at": "2026-05-12T02:15:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:15:49Z",
+  "duration_ms": 16684,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c840ca0367d6c574ef3780e5535736713399319e9c524638bb2fe00d94e793ae",
+  "md_bytes": 13602,
+  "links_found": 43,
+  "files_found": 0
+}

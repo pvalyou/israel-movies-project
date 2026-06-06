@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/let-there-be-light/?lang=en",
+  "stable_id": "makor__films-let-there-be-light_lang-en__41e128e4",
+  "fetched_at": "2026-05-09T12:51:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:51:15Z",
+  "duration_ms": 12501,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e89532110d0638ab74f978b296001905bd4289afcbd58f8936de3068cdbf4dba",
+  "md_bytes": 1855,
+  "links_found": 4,
+  "files_found": 0
+}

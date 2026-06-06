@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הביטחוניים/",
+  "stable_id": "nfct__blog-movies__27641b9c",
+  "fetched_at": "2026-05-09T17:48:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:48:57Z",
+  "duration_ms": 43305,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ea767196a1e96387e57cccd1e55d7453795a3260c75e696eda2e4c7052f2e5b2",
+  "md_bytes": 24968,
+  "links_found": 54,
+  "files_found": 0
+}

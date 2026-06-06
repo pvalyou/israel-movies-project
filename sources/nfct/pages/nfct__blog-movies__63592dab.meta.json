@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ילד-מותר/",
+  "stable_id": "nfct__blog-movies__63592dab",
+  "fetched_at": "2026-05-09T21:54:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:54:25Z",
+  "duration_ms": 8194,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60c87bccf702dfcf010bf9416516d2c84b3732b385f096583c49e5048b9a3b05",
+  "md_bytes": 15621,
+  "links_found": 28,
+  "files_found": 0
+}

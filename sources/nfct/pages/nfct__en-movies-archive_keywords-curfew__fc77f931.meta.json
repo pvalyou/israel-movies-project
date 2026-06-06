@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=curfew",
+  "stable_id": "nfct__en-movies-archive_keywords-curfew__fc77f931",
+  "fetched_at": "2026-05-16T15:41:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:41:55Z",
+  "duration_ms": 7213,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3064c0f29e49b9a6c4dc8a56b73670e23b0f0b2b09a2d8e09cbf2e50889828f1",
+  "md_bytes": 9957,
+  "links_found": 68,
+  "files_found": 0
+}

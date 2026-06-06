@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-מגידו-פרק-3-איציק-לרנר-ערוץ-yes-דוק/",
+  "stable_id": "nfct__events-event------3-------yes__6c5c3890",
+  "fetched_at": "2026-05-10T07:39:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T07:39:20Z",
+  "duration_ms": 46793,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:196250ed9e55dc591d4ee8f6ba7648691c0893c2494860eddac2258aca972ac0",
+  "md_bytes": 11782,
+  "links_found": 26,
+  "files_found": 0
+}

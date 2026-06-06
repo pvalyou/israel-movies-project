@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/home-sweet-home/",
+  "stable_id": "nfct__en-movies-home-sweet-home__d0cd2f51",
+  "fetched_at": "2026-05-11T21:29:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:29:22Z",
+  "duration_ms": 26180,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c5eca12f2a4a3d66b84d2de17e24d4834c99d8e554ff4966d6d97e0f9bfc568",
+  "md_bytes": 13510,
+  "links_found": 37,
+  "files_found": 0
+}

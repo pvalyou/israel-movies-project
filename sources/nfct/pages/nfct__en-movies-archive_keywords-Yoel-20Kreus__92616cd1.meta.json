@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yoel%20Kreus",
+  "stable_id": "nfct__en-movies-archive_keywords-Yoel-20Kreus__92616cd1",
+  "fetched_at": "2026-05-16T11:13:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:13:22Z",
+  "duration_ms": 7311,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:565771b551807e1ff5868fb4c2fb9b634f4ac061c8c77b774b2ab91f1cbb7844",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

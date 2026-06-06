@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פרוטזה/",
+  "stable_id": "nfct__blog-movies__ef137db7",
+  "fetched_at": "2026-05-09T17:17:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:17:55Z",
+  "duration_ms": 15331,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d056a71b8038e0dc673ce65537c0bdea84f0eaf9da70cb31ac8f496f203726d9",
+  "md_bytes": 14819,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ליל-כלולות/",
+  "stable_id": "nfct__blog-movies__064457a7",
+  "fetched_at": "2026-05-09T20:01:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:01:52Z",
+  "duration_ms": 9879,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5252f22054e0a40e09e1cc7fbadb2fb9770d955de66ca3221164e7890c967d14",
+  "md_bytes": 16860,
+  "links_found": 38,
+  "files_found": 0
+}

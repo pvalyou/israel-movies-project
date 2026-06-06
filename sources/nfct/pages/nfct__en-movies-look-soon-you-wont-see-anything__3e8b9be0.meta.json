@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/look-soon-you-wont-see-anything/",
+  "stable_id": "nfct__en-movies-look-soon-you-wont-see-anything__3e8b9be0",
+  "fetched_at": "2026-05-11T12:27:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:27:23Z",
+  "duration_ms": 47600,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6e1fdc5f32844e156c896431bcb001f7b4b3f05d0fd1580fe112ae52985cd3fa",
+  "md_bytes": 14403,
+  "links_found": 41,
+  "files_found": 0
+}

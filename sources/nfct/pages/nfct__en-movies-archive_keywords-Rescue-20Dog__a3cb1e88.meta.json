@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rescue%20Dog",
+  "stable_id": "nfct__en-movies-archive_keywords-Rescue-20Dog__a3cb1e88",
+  "fetched_at": "2026-05-16T13:06:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:06:15Z",
+  "duration_ms": 10066,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:62393c3c915774ed7681ad3d107662d34e685d0062c53ef0690271f5c92f85f6",
+  "md_bytes": 10886,
+  "links_found": 69,
+  "files_found": 0
+}

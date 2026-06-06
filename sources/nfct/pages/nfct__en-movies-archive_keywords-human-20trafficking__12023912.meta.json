@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=human%20trafficking",
+  "stable_id": "nfct__en-movies-archive_keywords-human-20trafficking__12023912",
+  "fetched_at": "2026-05-16T20:37:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:37:50Z",
+  "duration_ms": 7296,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c960c05bdd9a0107a1da87ae45ba570c9a69824fe4d758bc4b62ff71e9208d9c",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

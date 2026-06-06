@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-ילדי-פרא-טל-פסס-סינמטק-תל-אביב-2/",
+  "stable_id": "nfct__events-event----------------2__4f784290",
+  "fetched_at": "2026-05-10T01:42:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:42:44Z",
+  "duration_ms": 19789,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:12c3e9799355609579097205646232e9e2d43db8881df0ba5b8839e4bddc517c",
+  "md_bytes": 11676,
+  "links_found": 21,
+  "files_found": 0
+}

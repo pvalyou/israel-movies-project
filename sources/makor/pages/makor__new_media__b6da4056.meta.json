@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/new_media/",
+  "stable_id": "makor__new_media__b6da4056",
+  "fetched_at": "2026-05-09T12:02:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:02:20Z",
+  "duration_ms": 21517,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2bfd2e357dbd63870cad070f9c1f8fbf0da7f4d8661e8a217956d712f3f0d376",
+  "md_bytes": 6267,
+  "links_found": 1,
+  "files_found": 0
+}

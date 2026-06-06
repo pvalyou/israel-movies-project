@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/about/",
+  "stable_id": "nfct__about__e333b470",
+  "fetched_at": "2026-05-18T17:47:58.569895+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/about/",
+  "cache_hit": false,
+  "status": "error",
+  "md_hash": null,
+  "md_bytes": 0,
+  "links_found": 0,
+  "error": "HTTPSConnectionPool(host='crawl4ai-wrapper-559961100092.europe-west1.run.app', port=443): Read timed out. (read timeout=120)"
+}

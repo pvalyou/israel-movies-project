@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-patriot/",
+  "stable_id": "nfct__en-movies-the-patriot__a3ef814a",
+  "fetched_at": "2026-05-12T01:19:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:19:16Z",
+  "duration_ms": 26110,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ca6fa451ab0fd7c4a55a64d93c4d13be4e4a54e1449e6cc28cd47d67614136cc",
+  "md_bytes": 12276,
+  "links_found": 27,
+  "files_found": 0
+}

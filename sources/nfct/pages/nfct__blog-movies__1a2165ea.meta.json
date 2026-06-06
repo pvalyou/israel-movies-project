@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נביל-והישאם-שלום-חברים/",
+  "stable_id": "nfct__blog-movies__1a2165ea",
+  "fetched_at": "2026-05-09T17:37:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:37:22Z",
+  "duration_ms": 8886,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:12d12e3de044ba58ba30b8b25a9fe12d77e71bd7b68fb9396e1d3c538497c69f",
+  "md_bytes": 19789,
+  "links_found": 41,
+  "files_found": 0
+}

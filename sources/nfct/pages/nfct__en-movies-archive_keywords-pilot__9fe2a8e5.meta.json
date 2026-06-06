@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=pilot",
+  "stable_id": "nfct__en-movies-archive_keywords-pilot__9fe2a8e5",
+  "fetched_at": "2026-05-16T05:20:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:20:37Z",
+  "duration_ms": 7869,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e22b6f40a9f6e61438fb6ff1b6f558763a709c2fb4f5a7c585705944e00b9eb",
+  "md_bytes": 10647,
+  "links_found": 69,
+  "files_found": 0
+}

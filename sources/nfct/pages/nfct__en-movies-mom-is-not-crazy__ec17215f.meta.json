@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/mom-is-not-crazy/",
+  "stable_id": "nfct__en-movies-mom-is-not-crazy__ec17215f",
+  "fetched_at": "2026-05-11T04:45:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T04:45:29Z",
+  "duration_ms": 29881,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21586f4a9fc205282a9d6912735e9e2526ceed1341d0b14169af4685d21941f3",
+  "md_bytes": 13067,
+  "links_found": 28,
+  "files_found": 0
+}

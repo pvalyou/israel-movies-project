@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=the%20separation%20wall",
+  "stable_id": "nfct__en-movies-archive_keywords-the-20separation-20wall__f570523a",
+  "fetched_at": "2026-05-16T11:11:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:11:12Z",
+  "duration_ms": 9381,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f45292f684c9f1ed7d28d226bbcd7a217830fd7fa50f7b41246e9cd73d538d5d",
+  "md_bytes": 10174,
+  "links_found": 68,
+  "files_found": 0
+}

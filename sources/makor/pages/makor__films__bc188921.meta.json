@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/משפטי-חיים/",
+  "stable_id": "makor__films__bc188921",
+  "fetched_at": "2026-05-09T13:06:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:06:56Z",
+  "duration_ms": 18557,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2e39a544e614c674f50c5962f08a11c530ec79f5a9a52ef554c8a1378053915",
+  "md_bytes": 3648,
+  "links_found": 4,
+  "files_found": 0
+}

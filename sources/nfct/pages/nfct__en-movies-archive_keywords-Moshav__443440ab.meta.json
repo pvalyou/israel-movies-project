@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Moshav",
+  "stable_id": "nfct__en-movies-archive_keywords-Moshav__443440ab",
+  "fetched_at": "2026-05-16T05:22:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:22:25Z",
+  "duration_ms": 6108,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f41003ebaf687d3d9beccde4062441fdb4023b1820ad74f07bf71fa6198c8efa",
+  "md_bytes": 12112,
+  "links_found": 73,
+  "files_found": 0
+}

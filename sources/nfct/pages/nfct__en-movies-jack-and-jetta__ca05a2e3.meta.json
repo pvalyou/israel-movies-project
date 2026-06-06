@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/jack-and-jetta/",
+  "stable_id": "nfct__en-movies-jack-and-jetta__ca05a2e3",
+  "fetched_at": "2026-05-11T18:43:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:43:02Z",
+  "duration_ms": 47986,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:18f84bbc69ea7407d08189a2ea3b3778d69e125b1a6e382b79a2d6e3d1226e4e",
+  "md_bytes": 13825,
+  "links_found": 46,
+  "files_found": 0
+}

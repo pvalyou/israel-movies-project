@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/reality-show/",
+  "stable_id": "nfct__en-movies-reality-show__877c876c",
+  "fetched_at": "2026-05-12T02:10:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:10:56Z",
+  "duration_ms": 14947,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2790f36d9d058a990de0d048ca77c27e604c241da1d3164783483da8c3e01377",
+  "md_bytes": 11138,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sexual%20Harassment",
+  "stable_id": "nfct__en-movies-archive_keywords-Sexual-20Harassment__f651a64e",
+  "fetched_at": "2026-05-16T20:18:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:18:47Z",
+  "duration_ms": 8587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b47324d86a40ceeab7b9b192e9614beb922bf4dbcfbb65268322a1a8adeb1a6",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

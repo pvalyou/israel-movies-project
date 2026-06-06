@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=parenthood",
+  "stable_id": "nfct__en-movies-archive_keywords-parenthood__5fbc82d2",
+  "fetched_at": "2026-05-16T10:37:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:37:51Z",
+  "duration_ms": 6800,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c335acbb66405db77fbd73122209cbb512135bdb979e9c2528bccbd85ee1c343",
+  "md_bytes": 12332,
+  "links_found": 73,
+  "files_found": 0
+}

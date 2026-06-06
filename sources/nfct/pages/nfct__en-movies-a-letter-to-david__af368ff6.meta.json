@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-letter-to-david/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-a-letter-to-david__af368ff6",
+  "fetched_at": "2026-05-16T20:12:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:12:06Z",
+  "duration_ms": 12333,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:950cda3de64c215a820e981fd509e06afa032e62edc26fd09e02adcebc6a20c2",
+  "md_bytes": 16304,
+  "links_found": 50,
+  "files_found": 0
+}

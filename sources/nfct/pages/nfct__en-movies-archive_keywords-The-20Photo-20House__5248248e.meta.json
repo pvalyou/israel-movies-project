@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The%20Photo%20House",
+  "stable_id": "nfct__en-movies-archive_keywords-The-20Photo-20House__5248248e",
+  "fetched_at": "2026-05-16T10:11:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:11:23Z",
+  "duration_ms": 8015,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:727ed5d1f787c42ea1b302c5819c7ed3c1a357fe55cb79fc30262088c0b0a2ec",
+  "md_bytes": 10628,
+  "links_found": 70,
+  "files_found": 0
+}

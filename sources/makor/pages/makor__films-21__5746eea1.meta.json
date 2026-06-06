@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/21-יום-ולילה/",
+  "stable_id": "makor__films-21__5746eea1",
+  "fetched_at": "2026-05-09T13:11:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:11:56Z",
+  "duration_ms": 8777,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1e6ea9b6ff04241ef43727ee376871be90dd45b026dde73140e541d60cfd709",
+  "md_bytes": 3392,
+  "links_found": 4,
+  "files_found": 0
+}

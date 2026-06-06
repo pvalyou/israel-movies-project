@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/h2-מעבדת-השליטה/",
+  "stable_id": "nfct__blog-movies-h2__f31e2a99",
+  "fetched_at": "2026-05-09T20:24:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:24:18Z",
+  "duration_ms": 16839,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34a2bb51da24c04b056c7c2414df922626f203e092e06f0ef22b374f013851fe",
+  "md_bytes": 20365,
+  "links_found": 45,
+  "files_found": 0
+}

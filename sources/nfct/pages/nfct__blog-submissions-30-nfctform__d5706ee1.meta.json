@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/submissions/30-nfctform/",
+  "stable_id": "nfct__blog-submissions-30-nfctform__d5706ee1",
+  "fetched_at": "2026-05-09T16:39:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:39:17Z",
+  "duration_ms": 30631,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fcd335ddfa0a6a88cbede75041757895be51ac2e8ed24ba3e634499fb238b862",
+  "md_bytes": 9403,
+  "links_found": 25,
+  "files_found": 0
+}

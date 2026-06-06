@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/green-men/",
+  "stable_id": "nfct__en-movies-green-men__859eb58c",
+  "fetched_at": "2026-05-11T05:50:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:50:41Z",
+  "duration_ms": 23779,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dee88d8c39c888c7cb8b84affb95710e460da88fca62d3262483a1ffb87e8e64",
+  "md_bytes": 15367,
+  "links_found": 49,
+  "files_found": 0
+}

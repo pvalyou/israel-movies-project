@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-accursed/",
+  "stable_id": "nfct__en-movies-the-accursed__e5557d19",
+  "fetched_at": "2026-05-11T18:00:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:00:00Z",
+  "duration_ms": 33006,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:010820209dd8b098526a19f357c6a8e65ba343dfb01fba3591ec48bcf020b3cc",
+  "md_bytes": 24661,
+  "links_found": 45,
+  "files_found": 0
+}

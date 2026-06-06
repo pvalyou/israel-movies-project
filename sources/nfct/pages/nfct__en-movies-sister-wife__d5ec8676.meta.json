@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sister-wife/",
+  "stable_id": "nfct__en-movies-sister-wife__d5ec8676",
+  "fetched_at": "2026-05-11T02:42:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T02:42:44Z",
+  "duration_ms": 22302,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cb6e3edfefa207af797de9cd49dfdcfc8ee3975095aa4f8b4671a3401feacd99",
+  "md_bytes": 13966,
+  "links_found": 32,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian+women",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-women__1778e55f",
+  "fetched_at": "2026-05-16T08:13:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:13:15Z",
+  "duration_ms": 7022,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fbbc588e920a78dd90ca50f7051dd41efc7f75c32302fa4581b8a7b3f80bb072",
+  "md_bytes": 13461,
+  "links_found": 77,
+  "files_found": 0
+}

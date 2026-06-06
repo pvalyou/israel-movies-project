@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/home-sweet-home/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-home-sweet-home__6f800596",
+  "fetched_at": "2026-05-16T16:05:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:05:47Z",
+  "duration_ms": 5726,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44fc78c6702c66da1aba8e8c90485efaed839661f2e620c6ad423b78e22e43d4",
+  "md_bytes": 12406,
+  "links_found": 32,
+  "files_found": 0
+}

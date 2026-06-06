@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jewish",
+  "stable_id": "nfct__en-movies-archive_keywords-Jewish__3849e5bd",
+  "fetched_at": "2026-05-16T07:41:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:41:15Z",
+  "duration_ms": 7853,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ca6db07bf6dd0dbaba30542b7964ea981528b6fda64f40d1cb4e008296438ecc",
+  "md_bytes": 17125,
+  "links_found": 82,
+  "files_found": 0
+}

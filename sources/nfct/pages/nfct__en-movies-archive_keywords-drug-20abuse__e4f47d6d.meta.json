@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=drug%20abuse",
+  "stable_id": "nfct__en-movies-archive_keywords-drug-20abuse__e4f47d6d",
+  "fetched_at": "2026-05-16T13:52:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:01Z",
+  "duration_ms": 9311,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3296bcee0f899172e114a44d3e3675fd564cb977b8554a45ce2ec16118e0b6f9",
+  "md_bytes": 10252,
+  "links_found": 68,
+  "files_found": 0
+}

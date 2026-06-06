@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=moral",
+  "stable_id": "nfct__en-movies-archive_keywords-moral__bbd8d6e9",
+  "fetched_at": "2026-05-16T16:00:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:00:21Z",
+  "duration_ms": 10106,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f42d5b69cd033c37a296ed3a79a1b1ec37efa26df7f64bc98cc31a33ba0403c6",
+  "md_bytes": 16296,
+  "links_found": 81,
+  "files_found": 0
+}

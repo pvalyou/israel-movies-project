@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כסאות-רפאים/",
+  "stable_id": "nfct__blog-movies__5982348e",
+  "fetched_at": "2026-05-09T20:01:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:01:42Z",
+  "duration_ms": 12831,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a573ecc6671033e50597c16aa3fd95d6f27081ed7617737b45e828fe93607d90",
+  "md_bytes": 19425,
+  "links_found": 43,
+  "files_found": 0
+}

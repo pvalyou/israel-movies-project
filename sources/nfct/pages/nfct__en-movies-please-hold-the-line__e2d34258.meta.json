@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/please-hold-the-line/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-please-hold-the-line__e2d34258",
+  "fetched_at": "2026-05-16T13:53:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:53:45Z",
+  "duration_ms": 5687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c5640f1ab2a3b1a833bc66d8fdd12f9bc95aee867ca7b55f7049e6095907a574",
+  "md_bytes": 11788,
+  "links_found": 34,
+  "files_found": 0
+}

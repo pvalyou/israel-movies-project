@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/children/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-children__bb29d3e8",
+  "fetched_at": "2026-05-16T15:21:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:21:28Z",
+  "duration_ms": 7315,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1a98013e36bb464ad1a54270155fb3ae6bde9cb7955994c8000f38579d7beaeb",
+  "md_bytes": 15594,
+  "links_found": 36,
+  "files_found": 0
+}

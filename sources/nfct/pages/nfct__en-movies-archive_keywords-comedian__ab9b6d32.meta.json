@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=comedian",
+  "stable_id": "nfct__en-movies-archive_keywords-comedian__ab9b6d32",
+  "fetched_at": "2026-05-16T11:02:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:02:37Z",
+  "duration_ms": 7966,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f3330ca9901c8d48bb0afc1867f5a5650e2876ec5bd50c1428202f68221ec6e",
+  "md_bytes": 9993,
+  "links_found": 68,
+  "files_found": 0
+}

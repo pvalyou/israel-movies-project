@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אלרידא-שביעות-רצון/",
+  "stable_id": "nfct__blog-movies__d34905d3",
+  "fetched_at": "2026-05-09T16:58:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:58:59Z",
+  "duration_ms": 29326,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54e1a6289b8eec9a839e31cc32bd9b5c8340ce7690f4d52913722d353e3206ab",
+  "md_bytes": 13049,
+  "links_found": 30,
+  "files_found": 0
+}

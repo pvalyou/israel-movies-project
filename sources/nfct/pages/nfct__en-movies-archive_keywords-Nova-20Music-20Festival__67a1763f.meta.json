@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nova%20Music%20Festival",
+  "stable_id": "nfct__en-movies-archive_keywords-Nova-20Music-20Festival__67a1763f",
+  "fetched_at": "2026-05-16T12:53:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:53:18Z",
+  "duration_ms": 11077,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:26ba80f0cae834252a842eff8cf7c624510681aabf46202f32b54273861d7fce",
+  "md_bytes": 10633,
+  "links_found": 69,
+  "files_found": 0
+}

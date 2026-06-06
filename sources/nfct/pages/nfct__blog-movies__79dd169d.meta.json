@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קרן-אור/",
+  "stable_id": "nfct__blog-movies__79dd169d",
+  "fetched_at": "2026-05-09T21:18:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:18:41Z",
+  "duration_ms": 12804,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:89ea1f6d42d562f6169013ff6dffb547e9b09ace4cc2ba782bafd4322ba45358",
+  "md_bytes": 19645,
+  "links_found": 35,
+  "files_found": 0
+}

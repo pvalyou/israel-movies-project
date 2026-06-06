@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Uzi%20Arad",
+  "stable_id": "nfct__en-movies-archive_keywords-Uzi-20Arad__d731098b",
+  "fetched_at": "2026-05-16T16:34:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:03Z",
+  "duration_ms": 7194,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:35ade52f54b5a2f8592c343119a04593bdfd522f0e1c5896754faaaa08531663",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

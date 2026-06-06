@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/giado-holocaust-in-the-desert/#UAMainContent",
+  "stable_id": "nfct__en-movies-giado-holocaust-in-the-desert__6a364370",
+  "fetched_at": "2026-05-16T13:50:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:50:39Z",
+  "duration_ms": 8446,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f338949ac3b9ce69328f30a5bd71c5c4c1ed77d492cd0a1bd525a570288c403",
+  "md_bytes": 15332,
+  "links_found": 41,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/aishet-chayil/",
+  "stable_id": "nfct__en-movies-aishet-chayil__5a3ceab4",
+  "fetched_at": "2026-05-15T09:45:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:45:44Z",
+  "duration_ms": 7587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f6f878ba77b18163e397eea1541bbbe19a78863e2caa4c9afcd3070977817e4",
+  "md_bytes": 10499,
+  "links_found": 30,
+  "files_found": 0
+}

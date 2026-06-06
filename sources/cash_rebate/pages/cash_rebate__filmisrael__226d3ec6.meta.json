@@ -1,0 +1,23 @@
+{
+  "url": "https://www.israel-trade.net/filmisrael/",
+  "stable_id": "cash_rebate__filmisrael__226d3ec6",
+  "fetched_at": "2026-05-09T10:51:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:51:12Z",
+  "duration_ms": 4155,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9854f64d66a79e01d88877fa888b48c8584be7a0a1832a8e4bcedb86d15bd54",
+  "md_bytes": 259,
+  "links_found": 0,
+  "files_found": 0
+}

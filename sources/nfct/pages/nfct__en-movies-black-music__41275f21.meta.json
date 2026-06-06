@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/black-music/",
+  "stable_id": "nfct__en-movies-black-music__41275f21",
+  "fetched_at": "2026-05-11T07:36:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:36:01Z",
+  "duration_ms": 16880,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1007a4e4edee70d0bf1a18d90cf46395dce566a03437f76859830b7b32747af6",
+  "md_bytes": 13248,
+  "links_found": 36,
+  "files_found": 0
+}

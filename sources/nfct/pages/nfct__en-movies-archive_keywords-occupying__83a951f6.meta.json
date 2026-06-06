@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=occupying",
+  "stable_id": "nfct__en-movies-archive_keywords-occupying__83a951f6",
+  "fetched_at": "2026-05-16T17:18:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:18:25Z",
+  "duration_ms": 8539,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d85cc38a27f3a63aecf627d028d2aa4c23fa494f249fab6471f8ec252020571b",
+  "md_bytes": 9793,
+  "links_found": 67,
+  "files_found": 0
+}

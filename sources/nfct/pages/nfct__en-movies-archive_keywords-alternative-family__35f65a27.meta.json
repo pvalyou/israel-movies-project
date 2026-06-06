@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=alternative+family",
+  "stable_id": "nfct__en-movies-archive_keywords-alternative-family__35f65a27",
+  "fetched_at": "2026-05-16T10:51:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:49Z",
+  "duration_ms": 8902,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:14f5ed1d1bef0959868a10db80935e3383c11341cb32e368592d12eec58647bc",
+  "md_bytes": 11704,
+  "links_found": 72,
+  "files_found": 0
+}

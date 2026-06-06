@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=honesty",
+  "stable_id": "nfct__en-movies-archive_keywords-honesty__b0888837",
+  "fetched_at": "2026-05-16T16:31:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:31:04Z",
+  "duration_ms": 11080,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f07a257d14061d4c328a9f0cc1506e121a25a57a7a2a98ea88d5549f6b37f7a2",
+  "md_bytes": 11325,
+  "links_found": 70,
+  "files_found": 0
+}

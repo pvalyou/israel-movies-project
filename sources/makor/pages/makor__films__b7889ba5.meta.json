@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חצויות-החיים-בערים-המעורבות-בישראל/",
+  "stable_id": "makor__films__b7889ba5",
+  "fetched_at": "2026-05-09T13:06:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:06:05Z",
+  "duration_ms": 8488,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2bfefd045166fdeaaa7abee38007c90a58509ca6d14f3832a3257d34480c4b47",
+  "md_bytes": 4057,
+  "links_found": 4,
+  "files_found": 0
+}

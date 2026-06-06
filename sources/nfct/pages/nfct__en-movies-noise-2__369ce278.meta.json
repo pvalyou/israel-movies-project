@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/noise-2/",
+  "stable_id": "nfct__en-movies-noise-2__369ce278",
+  "fetched_at": "2026-05-11T11:16:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:16:13Z",
+  "duration_ms": 14991,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:73a1cd68c474b31bb4b53b4c885f497d2979cc1e256c2f4995d6f5f71adb4d8f",
+  "md_bytes": 12283,
+  "links_found": 32,
+  "files_found": 0
+}

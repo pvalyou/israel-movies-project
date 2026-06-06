@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=renowned+filmmaker",
+  "stable_id": "nfct__en-movies-archive_keywords-renowned-filmmaker__77fb513a",
+  "fetched_at": "2026-05-16T16:28:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:28:17Z",
+  "duration_ms": 7081,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eef577b0b8bb407daacc69865e13daf546c78f1717179486af16fb1161a96ff9",
+  "md_bytes": 10125,
+  "links_found": 68,
+  "files_found": 0
+}

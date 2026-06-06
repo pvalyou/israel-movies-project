@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=quarantine",
+  "stable_id": "nfct__en-movies-archive_keywords-quarantine__341f81fb",
+  "fetched_at": "2026-05-16T15:46:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:46:09Z",
+  "duration_ms": 5945,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e09bedfe9bdf743f4d3fad8b2fa2882c917bc8bfa60f2d9b1c516dd7528fbab8",
+  "md_bytes": 10180,
+  "links_found": 68,
+  "files_found": 0
+}

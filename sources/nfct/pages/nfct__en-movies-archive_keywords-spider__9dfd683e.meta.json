@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=spider",
+  "stable_id": "nfct__en-movies-archive_keywords-spider__9dfd683e",
+  "fetched_at": "2026-05-16T20:28:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:28:35Z",
+  "duration_ms": 8011,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:63e53a155fae356bc4cbd730275373cd0eb2f48454e18e0b9311333410218c9b",
+  "md_bytes": 11139,
+  "links_found": 70,
+  "files_found": 0
+}

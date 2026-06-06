@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=nude+painting",
+  "stable_id": "nfct__en-movies-archive_keywords-nude-painting__cb6dac42",
+  "fetched_at": "2026-05-16T15:16:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:16:32Z",
+  "duration_ms": 8251,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:010f025e70f7e7e4593c05a1e9ecbafb604e44f72e11acec1b0ebdd758cad0f4",
+  "md_bytes": 9877,
+  "links_found": 67,
+  "files_found": 0
+}

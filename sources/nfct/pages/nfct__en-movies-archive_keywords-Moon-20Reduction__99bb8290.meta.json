@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Moon%20Reduction",
+  "stable_id": "nfct__en-movies-archive_keywords-Moon-20Reduction__99bb8290",
+  "fetched_at": "2026-05-16T13:21:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:21:14Z",
+  "duration_ms": 9202,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b7982f9400567d7e685328dcdb63d7a483e58871c2d7cdd8b22a2c7e9476bb37",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

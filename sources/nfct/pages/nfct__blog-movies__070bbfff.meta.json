@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ארי-והזרע-הקדוש/",
+  "stable_id": "nfct__blog-movies__070bbfff",
+  "fetched_at": "2026-05-09T20:24:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:24:01Z",
+  "duration_ms": 25373,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34acee84d31cd8982d37b9461dadd02ffb53bbc67d4823682dc5bdd8406cfae8",
+  "md_bytes": 14596,
+  "links_found": 28,
+  "files_found": 0
+}

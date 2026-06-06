@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יצאתי-בשש/",
+  "stable_id": "nfct__blog-movies__18e8cefd",
+  "fetched_at": "2026-05-09T19:25:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:25:44Z",
+  "duration_ms": 16904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3145b4f598ef6b25d6ac4253ff779523f9aab3eeb7327b0899981f0ea89a0f6",
+  "md_bytes": 12673,
+  "links_found": 20,
+  "files_found": 0
+}

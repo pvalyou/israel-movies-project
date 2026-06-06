@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/gloria/",
+  "stable_id": "arava_film_fund__en-movies-gloria__f20c9c30",
+  "fetched_at": "2026-05-08T09:35:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:35:52Z",
+  "duration_ms": 6682,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91ee07a6647f04667421018dce53842dced26eb9696684fa4039fa996a93ad8d",
+  "md_bytes": 3345,
+  "links_found": 9,
+  "files_found": 0
+}

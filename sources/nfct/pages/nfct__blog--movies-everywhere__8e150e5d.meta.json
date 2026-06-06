@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/פלטפורמת-movies-everywhere-וובינר/",
+  "stable_id": "nfct__blog--movies-everywhere__8e150e5d",
+  "fetched_at": "2026-05-09T15:46:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:46:57Z",
+  "duration_ms": 45160,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5812a2ee609ffc5cebba1b14edcddc63d0603f81422f9016652e241e71cfb623",
+  "md_bytes": 9569,
+  "links_found": 20,
+  "files_found": 0
+}

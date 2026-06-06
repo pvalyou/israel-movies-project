@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/lens/",
+  "stable_id": "nfct__en-movies-lens__486a69e2",
+  "fetched_at": "2026-05-15T09:33:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:33:57Z",
+  "duration_ms": 8604,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b4afea014984d2c5592af78ff235b798018ca9983e5b9f02b449dd7590fa4e5a",
+  "md_bytes": 10547,
+  "links_found": 27,
+  "files_found": 0
+}

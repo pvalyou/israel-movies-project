@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/דומא/",
+  "stable_id": "nfct__movies__44c99eb7",
+  "fetched_at": "2026-05-16T05:50:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:50:53Z",
+  "duration_ms": 6584,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8cc6432fb7f012e2c04a0a0e2b6a236211ed35ba1fb11dc46f3265b96f84363a",
+  "md_bytes": 8515,
+  "links_found": 21,
+  "files_found": 0
+}

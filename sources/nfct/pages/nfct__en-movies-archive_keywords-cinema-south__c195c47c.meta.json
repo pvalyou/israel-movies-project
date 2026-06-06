@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=cinema+south",
+  "stable_id": "nfct__en-movies-archive_keywords-cinema-south__c195c47c",
+  "fetched_at": "2026-05-16T16:44:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:44:14Z",
+  "duration_ms": 9177,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3c1c0af22d6b0adfb87b18dd6c0d303817aae4c96dde33b6349f5014e66a6ea0",
+  "md_bytes": 10762,
+  "links_found": 69,
+  "files_found": 0
+}

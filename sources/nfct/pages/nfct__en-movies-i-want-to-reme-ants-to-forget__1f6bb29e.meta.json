@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/i-want-to-reme…ants-to-forget/",
+  "stable_id": "nfct__en-movies-i-want-to-reme-ants-to-forget__1f6bb29e",
+  "fetched_at": "2026-05-12T04:12:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:12:50Z",
+  "duration_ms": 9577,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:028f639cee5756e61af12906ba4f685434bf5a7935b792edba41549d7ad5e688",
+  "md_bytes": 6154,
+  "links_found": 17,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/made-in-eu/",
+  "stable_id": "arava_film_fund__en-movies-made-in-eu__6c37f9d8",
+  "fetched_at": "2026-05-08T09:40:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:40:48Z",
+  "duration_ms": 3490,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f266b135bb6487591a52b001a2fe8037ffe0e3c18881adc5a329ef75c483138b",
+  "md_bytes": 3717,
+  "links_found": 9,
+  "files_found": 0
+}

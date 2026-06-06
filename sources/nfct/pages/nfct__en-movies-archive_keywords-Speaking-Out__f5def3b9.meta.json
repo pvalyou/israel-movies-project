@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Speaking+Out",
+  "stable_id": "nfct__en-movies-archive_keywords-Speaking-Out__f5def3b9",
+  "fetched_at": "2026-05-16T13:36:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:36:37Z",
+  "duration_ms": 7912,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17ba6e926d4f5a8276eb908fe2c3fd51a964a8ef61d7b4976dc61211d433c94c",
+  "md_bytes": 11509,
+  "links_found": 71,
+  "files_found": 0
+}

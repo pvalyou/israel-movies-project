@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/revised-diary-1990-1999/",
+  "stable_id": "nfct__en-movies-revised-diary-1990-1999__99febd6b",
+  "fetched_at": "2026-05-11T06:01:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:01:24Z",
+  "duration_ms": 16630,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3cfb286c0a2ca2e8d94e114febffc5f940863d49a0b8bc472bb7d9369d4664d4",
+  "md_bytes": 14475,
+  "links_found": 40,
+  "files_found": 0
+}

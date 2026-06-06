@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Abraham",
+  "stable_id": "nfct__en-movies-archive_keywords-Abraham__704ca5f3",
+  "fetched_at": "2026-05-16T14:50:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:50:20Z",
+  "duration_ms": 5899,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a5798807014a04d416f93134af202b54ecdffa8d6c8f3317a858fbb2f3ec1cbc",
+  "md_bytes": 11374,
+  "links_found": 70,
+  "files_found": 0
+}

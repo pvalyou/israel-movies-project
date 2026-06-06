@@ -1,0 +1,21 @@
+{
+  "source_name": "fdoc",
+  "run_date": "2026-05-20",
+  "elapsed_min": 6.76,
+  "pages_total": 360,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 360,
+  "status_counts": {
+    "ok": 360,
+    "filtered": 0,
+    "empty_content": 0,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 1092029,
+  "tokens_output": 1332531,
+  "cost_usd": 0.6422,
+  "calls": 365,
+  "errors": 0,
+  "json_retries": 8
+}

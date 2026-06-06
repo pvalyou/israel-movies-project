@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/השחיין/",
+  "stable_id": "nfct__blog-movies__19040b9b",
+  "fetched_at": "2026-05-09T20:22:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:22:07Z",
+  "duration_ms": 20540,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:82de745c1b790738984637419d8e8197a5a0edc7c2945d9dbac0fb872de758f2",
+  "md_bytes": 16567,
+  "links_found": 32,
+  "files_found": 0
+}

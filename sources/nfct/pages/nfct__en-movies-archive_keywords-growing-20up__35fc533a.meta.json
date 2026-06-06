@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=growing%20up",
+  "stable_id": "nfct__en-movies-archive_keywords-growing-20up__35fc533a",
+  "fetched_at": "2026-05-16T05:02:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:02:48Z",
+  "duration_ms": 6940,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0439505a81ea08e94b3f2a26e1a33814c74343a0feb97b3a0dc622a7741b8830",
+  "md_bytes": 17047,
+  "links_found": 82,
+  "files_found": 0
+}

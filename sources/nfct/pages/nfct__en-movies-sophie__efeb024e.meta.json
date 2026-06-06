@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sophie/",
+  "stable_id": "nfct__en-movies-sophie__efeb024e",
+  "fetched_at": "2026-05-11T22:38:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:38:04Z",
+  "duration_ms": 33982,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f65138b215c90c5764b68c8c75ef0def1178b9f0721683860695d4188b17869",
+  "md_bytes": 12804,
+  "links_found": 37,
+  "files_found": 0
+}

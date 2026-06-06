@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hisham-in-somewhere/#UAMainContent",
+  "stable_id": "nfct__en-movies-hisham-in-somewhere__9bcd766c",
+  "fetched_at": "2026-05-16T17:14:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:14:21Z",
+  "duration_ms": 7605,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c3a96a32d2b4e5a9472f298e4a6d17786c8ec463cbdb5bb8b1e9224ae0208a27",
+  "md_bytes": 10908,
+  "links_found": 30,
+  "files_found": 0
+}

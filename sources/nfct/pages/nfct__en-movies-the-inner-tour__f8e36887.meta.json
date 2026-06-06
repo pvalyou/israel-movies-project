@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-inner-tour/",
+  "stable_id": "nfct__en-movies-the-inner-tour__f8e36887",
+  "fetched_at": "2026-05-11T15:50:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:50:42Z",
+  "duration_ms": 20796,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d25c2514d48dc707924a6c3ffc57c96d1b23e7294c9b442fed77ade77ed10dda",
+  "md_bytes": 13629,
+  "links_found": 32,
+  "files_found": 0
+}

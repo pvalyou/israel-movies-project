@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/the-producer/?lang=en",
+  "stable_id": "makor__films-the-producer_lang-en__df338cbc",
+  "fetched_at": "2026-05-09T12:59:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:23Z",
+  "duration_ms": 7172,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef2da30ade3aaad7e1978315567a53b73d2fc36cba5beecead1ec0b30daa3907",
+  "md_bytes": 1917,
+  "links_found": 4,
+  "files_found": 0
+}

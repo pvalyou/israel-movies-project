@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Manuscript",
+  "stable_id": "nfct__en-movies-archive_keywords-Manuscript__dfbb2dc7",
+  "fetched_at": "2026-05-16T12:30:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:30:50Z",
+  "duration_ms": 8520,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b81b8912bef5848aa71abddc5088ed20df26f02940e5488dcfea341e5920022d",
+  "md_bytes": 10495,
+  "links_found": 69,
+  "files_found": 0
+}

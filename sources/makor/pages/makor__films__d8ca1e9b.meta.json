@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/הארגז/",
+  "stable_id": "makor__films__d8ca1e9b",
+  "fetched_at": "2026-05-09T12:58:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:58:59Z",
+  "duration_ms": 14406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1029b3c85365e1c1e1eecb710f146824ec95a7922f49ac43c4403842478f5ad6",
+  "md_bytes": 2488,
+  "links_found": 4,
+  "files_found": 0
+}

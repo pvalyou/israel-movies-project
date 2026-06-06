@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הממלכה-המופלאה-של-פאפא-אלייב/",
+  "stable_id": "nfct__blog-movies__3ed6f3e3",
+  "fetched_at": "2026-05-09T21:33:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:33:49Z",
+  "duration_ms": 25684,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:342369e24c781997d82f0cff95a9019301b89aacbf82db30d875735242f7ebb4",
+  "md_bytes": 22473,
+  "links_found": 39,
+  "files_found": 0
+}

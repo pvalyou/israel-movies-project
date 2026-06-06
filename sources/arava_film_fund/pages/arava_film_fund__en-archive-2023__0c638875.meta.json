@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/archive/2023/",
+  "stable_id": "arava_film_fund__en-archive-2023__0c638875",
+  "fetched_at": "2026-05-08T09:46:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:46:03Z",
+  "duration_ms": 9901,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b6bc454a17228194a1b5df156dfd5bf89e96a6881146a68054e919cf2a6a208e",
+  "md_bytes": 13180,
+  "links_found": 32,
+  "files_found": 0
+}

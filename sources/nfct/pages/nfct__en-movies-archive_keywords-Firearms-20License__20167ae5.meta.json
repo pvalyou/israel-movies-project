@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Firearms%20License",
+  "stable_id": "nfct__en-movies-archive_keywords-Firearms-20License__20167ae5",
+  "fetched_at": "2026-05-16T13:59:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:59:21Z",
+  "duration_ms": 7956,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:db7ff4e84d988bd3a25a45fe45b8ae731793892824a5504db214e35cc78af919",
+  "md_bytes": 10176,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/סולחה/",
+  "stable_id": "makor__films__07ae5beb",
+  "fetched_at": "2026-05-09T13:08:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:01Z",
+  "duration_ms": 17403,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2db3f7c06c12a6f553c031c4f8718a620dfe287d837e4eb6bcec2843b305516b",
+  "md_bytes": 2978,
+  "links_found": 4,
+  "files_found": 0
+}

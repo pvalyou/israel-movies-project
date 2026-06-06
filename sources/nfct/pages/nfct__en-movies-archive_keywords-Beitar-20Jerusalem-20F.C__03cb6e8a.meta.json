@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Beitar%20Jerusalem%20F.C",
+  "stable_id": "nfct__en-movies-archive_keywords-Beitar-20Jerusalem-20F.C__03cb6e8a",
+  "fetched_at": "2026-05-16T16:05:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:05:51Z",
+  "duration_ms": 5876,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:09edcc9cb85833cd9ced00c14013f2ddd298aac9db5de400885eec53451cf3b0",
+  "md_bytes": 10015,
+  "links_found": 68,
+  "files_found": 0
+}

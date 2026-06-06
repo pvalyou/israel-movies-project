@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-devil-next-door/",
+  "stable_id": "nfct__en-movies-the-devil-next-door__01de3a45",
+  "fetched_at": "2026-05-11T21:31:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:31:29Z",
+  "duration_ms": 12100,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13fb97647db2cf7ed5b9ecf7d55d4925c8089e35e2442a754d01822ae3aa6482",
+  "md_bytes": 12706,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Drug%20Dealers",
+  "stable_id": "nfct__en-movies-archive_keywords-Drug-20Dealers__62f2ad92",
+  "fetched_at": "2026-05-16T14:17:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:17:19Z",
+  "duration_ms": 7613,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:59d4426c89feab739bae0c73a7e73968d305e7f0701562e0fe5e9f3e9dbf5301",
+  "md_bytes": 10008,
+  "links_found": 68,
+  "files_found": 0
+}

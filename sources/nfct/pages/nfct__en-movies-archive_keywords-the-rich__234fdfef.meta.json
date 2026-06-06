@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=the+rich",
+  "stable_id": "nfct__en-movies-archive_keywords-the-rich__234fdfef",
+  "fetched_at": "2026-05-16T15:55:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:55:19Z",
+  "duration_ms": 7306,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:afc02f68a1de164ff858e2a91531c0c1013df5371ca6e06ace973b5e9cf56ef9",
+  "md_bytes": 14717,
+  "links_found": 79,
+  "files_found": 0
+}

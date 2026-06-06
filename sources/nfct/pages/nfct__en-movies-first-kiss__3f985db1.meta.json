@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/first-kiss/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-first-kiss__3f985db1",
+  "fetched_at": "2026-05-16T11:17:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:17:36Z",
+  "duration_ms": 6561,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b106e55e6188926ddb290f8ab36dfe5f94a56df241277c8b8e86e8e668e5df41",
+  "md_bytes": 12444,
+  "links_found": 33,
+  "files_found": 0
+}

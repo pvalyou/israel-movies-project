@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/yiddishe-mama/",
+  "stable_id": "nfct__en-movies-yiddishe-mama__2fdfe26d",
+  "fetched_at": "2026-05-16T16:55:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:55:54Z",
+  "duration_ms": 7288,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3e08bd21dd560893c50bc309266d7849cc22728db4fd0fca6507b4f585f0c682",
+  "md_bytes": 11805,
+  "links_found": 30,
+  "files_found": 0
+}

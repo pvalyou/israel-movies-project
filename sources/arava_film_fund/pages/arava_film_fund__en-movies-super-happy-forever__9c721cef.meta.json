@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/super-happy-forever/",
+  "stable_id": "arava_film_fund__en-movies-super-happy-forever__9c721cef",
+  "fetched_at": "2026-05-08T09:39:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:39:40Z",
+  "duration_ms": 4199,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:141799d0d21d17c17e68629d12bea8e8df225f8ee3234daf22076224f973f54f",
+  "md_bytes": 3505,
+  "links_found": 9,
+  "files_found": 0
+}

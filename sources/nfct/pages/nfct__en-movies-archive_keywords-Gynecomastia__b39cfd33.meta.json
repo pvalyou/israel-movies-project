@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gynecomastia",
+  "stable_id": "nfct__en-movies-archive_keywords-Gynecomastia__b39cfd33",
+  "fetched_at": "2026-05-16T13:37:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:37:19Z",
+  "duration_ms": 14684,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a22d8d73be9505ec545b9a4f649dfa6cb3df05625594546fa03fbd28788c0681",
+  "md_bytes": 9978,
+  "links_found": 68,
+  "files_found": 0
+}

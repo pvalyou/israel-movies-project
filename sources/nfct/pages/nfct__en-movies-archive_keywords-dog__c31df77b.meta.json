@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=dog",
+  "stable_id": "nfct__en-movies-archive_keywords-dog__c31df77b",
+  "fetched_at": "2026-05-16T12:15:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:15:44Z",
+  "duration_ms": 12224,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7b9a28bf35c49e9d295133c7f2a865221b21e4e7a86418b97394bfb4de3811f0",
+  "md_bytes": 16020,
+  "links_found": 82,
+  "files_found": 0
+}

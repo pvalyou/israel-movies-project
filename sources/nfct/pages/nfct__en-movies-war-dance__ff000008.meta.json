@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/war-dance/#UAMainContent",
+  "stable_id": "nfct__en-movies-war-dance__ff000008",
+  "fetched_at": "2026-05-16T16:11:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:11:52Z",
+  "duration_ms": 8120,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10099a86bd98a5573411685114853daa005745f1078ebf446d2ba9984b41dabf",
+  "md_bytes": 12898,
+  "links_found": 32,
+  "files_found": 0
+}

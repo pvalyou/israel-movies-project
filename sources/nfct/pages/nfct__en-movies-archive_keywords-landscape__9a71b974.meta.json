@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=landscape",
+  "stable_id": "nfct__en-movies-archive_keywords-landscape__9a71b974",
+  "fetched_at": "2026-05-16T09:37:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:37:38Z",
+  "duration_ms": 6247,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc89cdbc5eb5352b83023d554768721f533316c7be0c6169e46ad19ea672be4f",
+  "md_bytes": 16605,
+  "links_found": 82,
+  "files_found": 0
+}

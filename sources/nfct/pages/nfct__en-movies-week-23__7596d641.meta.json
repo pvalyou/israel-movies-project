@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/week-23/",
+  "stable_id": "nfct__en-movies-week-23__7596d641",
+  "fetched_at": "2026-05-11T13:59:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:59:58Z",
+  "duration_ms": 32862,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1ed3295d0f9b8a095ab613c6d940bd7f439b7a2804a8ee9a3416c13afd7ceadb",
+  "md_bytes": 12037,
+  "links_found": 26,
+  "files_found": 0
+}

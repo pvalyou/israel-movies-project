@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tisha+B%27Av",
+  "stable_id": "nfct__en-movies-archive_keywords-Tisha-B-27Av__5513466e",
+  "fetched_at": "2026-05-16T20:34:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:34:47Z",
+  "duration_ms": 9993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a72e28702aff8dd398c72b8bd7646a28e73ad3a7195b386e98defe585a79cec4",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

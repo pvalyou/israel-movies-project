@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/crossings/?lang=en",
+  "stable_id": "makor__films-crossings_lang-en__3d54a91d",
+  "fetched_at": "2026-05-09T13:15:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:15:15Z",
+  "duration_ms": 25495,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92192b5ad57a434713b410b3366b4fa308849fb0291b7dcb1527f585e0043515",
+  "md_bytes": 2484,
+  "links_found": 4,
+  "files_found": 0
+}

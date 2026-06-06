@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-המתנחלים-שמעון-דותן-ערוץ-yes-דוקו/",
+  "stable_id": "nfct__events-event----------yes__81ce62ae",
+  "fetched_at": "2026-05-10T09:30:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T09:30:54Z",
+  "duration_ms": 15808,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:965ff43cfb48d61e7b9ae5e04d800d9e4da568b7d548828908cd2fd09d096f4c",
+  "md_bytes": 10152,
+  "links_found": 21,
+  "files_found": 0
+}

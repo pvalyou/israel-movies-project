@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Amos+Nachum",
+  "stable_id": "nfct__en-movies-archive_keywords-Amos-Nachum__366ba321",
+  "fetched_at": "2026-05-16T15:05:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:05:15Z",
+  "duration_ms": 7452,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6b5f7756a2698f1e4e75f05da1fc22851497b04a00d3b193fefa85453da4e18c",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

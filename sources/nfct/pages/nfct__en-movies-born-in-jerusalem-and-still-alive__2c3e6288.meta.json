@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/born-in-jerusalem-and-still-alive/",
+  "stable_id": "nfct__en-movies-born-in-jerusalem-and-still-alive__2c3e6288",
+  "fetched_at": "2026-05-11T22:10:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:10:59Z",
+  "duration_ms": 28662,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:45f364c48778b18491b84198f497b849435ab904de5028c51881b1d72ee60782",
+  "md_bytes": 13524,
+  "links_found": 36,
+  "files_found": 0
+}

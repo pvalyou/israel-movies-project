@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-working-mom/",
+  "stable_id": "nfct__en-movies-a-working-mom__fa6601df",
+  "fetched_at": "2026-05-11T07:00:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T07:00:12Z",
+  "duration_ms": 9690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:608c30b9a0a0917b96a2aecad097d2d9126d05e278d9f9d251a9de5c8fb94d96",
+  "md_bytes": 14809,
+  "links_found": 36,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ווינטראובר/",
+  "stable_id": "makor__films__1e2a67c3",
+  "fetched_at": "2026-05-09T12:49:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:49:41Z",
+  "duration_ms": 11611,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:023a7503d42da00f78a598d676615ab6723300c2378d6bc3fac9c86476a25f59",
+  "md_bytes": 3824,
+  "links_found": 4,
+  "files_found": 0
+}

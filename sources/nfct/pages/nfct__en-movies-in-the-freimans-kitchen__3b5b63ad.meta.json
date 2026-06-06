@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/in-the-freimans-kitchen/",
+  "stable_id": "nfct__en-movies-in-the-freimans-kitchen__3b5b63ad",
+  "fetched_at": "2026-05-11T04:00:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T04:00:40Z",
+  "duration_ms": 32095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:297d02f5a832219148bb3c82fc7169fa28406f0e0e49d0474162af6bbb34966a",
+  "md_bytes": 15875,
+  "links_found": 40,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kfar%20Qasim",
+  "stable_id": "nfct__en-movies-archive_keywords-Kfar-20Qasim__a7ced01d",
+  "fetched_at": "2026-05-16T13:00:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:00:18Z",
+  "duration_ms": 11551,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5d35ef2a9b7ced0a87094f52e0241bb60785506cef58c0f62493c846d6adcea0",
+  "md_bytes": 10320,
+  "links_found": 68,
+  "files_found": 0
+}

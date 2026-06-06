@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sign%20language",
+  "stable_id": "nfct__en-movies-archive_keywords-sign-20language__50dd0369",
+  "fetched_at": "2026-05-16T14:37:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:37:21Z",
+  "duration_ms": 5712,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2eaefb87aed399470c1b43837ad7270abb93738321f07e69e5d705e810119c6b",
+  "md_bytes": 10187,
+  "links_found": 68,
+  "files_found": 0
+}

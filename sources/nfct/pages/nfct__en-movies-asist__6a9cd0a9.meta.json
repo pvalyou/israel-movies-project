@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/asist/",
+  "stable_id": "nfct__en-movies-asist__6a9cd0a9",
+  "fetched_at": "2026-05-15T15:22:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:22:37Z",
+  "duration_ms": 7593,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cd81fd08d4500b278e9f7c0b9e258acbdb36744f269642fe2d2e94729f56f6f4",
+  "md_bytes": 13410,
+  "links_found": 44,
+  "files_found": 0
+}

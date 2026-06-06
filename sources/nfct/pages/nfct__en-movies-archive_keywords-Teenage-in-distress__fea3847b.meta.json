@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Teenage+in+distress",
+  "stable_id": "nfct__en-movies-archive_keywords-Teenage-in-distress__fea3847b",
+  "fetched_at": "2026-05-16T14:33:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:33:30Z",
+  "duration_ms": 9837,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:080e376e46499174402bbb2b09c0d66d6ad03cf351220eab84dd6a8e5f9b5148",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

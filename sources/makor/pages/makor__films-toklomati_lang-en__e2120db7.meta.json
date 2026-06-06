@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/toklomati/?lang=en",
+  "stable_id": "makor__films-toklomati_lang-en__e2120db7",
+  "fetched_at": "2026-05-09T13:10:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:10:25Z",
+  "duration_ms": 9086,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5ed38bfce97f6d6f063486df7c603dfaf60548ade5c98aa9be468746f8b7fbed",
+  "md_bytes": 1820,
+  "links_found": 4,
+  "files_found": 0
+}

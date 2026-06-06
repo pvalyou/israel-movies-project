@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=apartment",
+  "stable_id": "nfct__en-movies-archive_keywords-apartment__d3be990e",
+  "fetched_at": "2026-05-16T06:48:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:48:10Z",
+  "duration_ms": 7008,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:302ce14640f1473108041073666854e20114b81ea3d989aa7b3b19c5fbba2f18",
+  "md_bytes": 16644,
+  "links_found": 82,
+  "files_found": 0
+}

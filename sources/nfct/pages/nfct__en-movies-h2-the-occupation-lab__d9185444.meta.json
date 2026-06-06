@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/h2-the-occupation-lab/",
+  "stable_id": "nfct__en-movies-h2-the-occupation-lab__d9185444",
+  "fetched_at": "2026-05-11T17:48:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:48:50Z",
+  "duration_ms": 15815,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8dcc74ead90a64b49a1692ecef0f980522c4424921aecdb2ccb45c2055394287",
+  "md_bytes": 16202,
+  "links_found": 47,
+  "files_found": 0
+}

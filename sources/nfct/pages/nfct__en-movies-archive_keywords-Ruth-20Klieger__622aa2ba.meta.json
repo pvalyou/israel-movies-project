@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ruth%20Klieger",
+  "stable_id": "nfct__en-movies-archive_keywords-Ruth-20Klieger__622aa2ba",
+  "fetched_at": "2026-05-16T20:39:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:39:40Z",
+  "duration_ms": 6469,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:94713432e9ee687249629d14dcd8499c6d94de36c2129ef68d0b391f61fdc72b",
+  "md_bytes": 10019,
+  "links_found": 68,
+  "files_found": 0
+}

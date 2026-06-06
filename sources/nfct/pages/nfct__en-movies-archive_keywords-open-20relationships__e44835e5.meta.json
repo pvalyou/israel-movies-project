@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=open%20relationships",
+  "stable_id": "nfct__en-movies-archive_keywords-open-20relationships__e44835e5",
+  "fetched_at": "2026-05-16T12:16:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:16:51Z",
+  "duration_ms": 11104,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:edaf0d9fef05b4bf4d868dab82ed91f86b1a3e53c0a4250befda93f84d6b4f37",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=girlhood",
+  "stable_id": "nfct__en-movies-archive_keywords-girlhood__9d446c81",
+  "fetched_at": "2026-05-16T17:32:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:32:21Z",
+  "duration_ms": 8850,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5cc643144da051d8b63ff64d072b9e73a42daebb9b3965ae4cd03e152aa67103",
+  "md_bytes": 10444,
+  "links_found": 69,
+  "files_found": 0
+}

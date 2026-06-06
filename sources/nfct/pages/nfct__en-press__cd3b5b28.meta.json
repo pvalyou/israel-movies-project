@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/press/",
+  "stable_id": "nfct__en-press__cd3b5b28",
+  "fetched_at": "2026-05-16T20:49:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:49:40Z",
+  "duration_ms": 5979,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4209411d4692298ceba5a9943f50b9d99bb6a1f583e90076345009f73519d1df",
+  "md_bytes": 10583,
+  "links_found": 15,
+  "files_found": 0
+}

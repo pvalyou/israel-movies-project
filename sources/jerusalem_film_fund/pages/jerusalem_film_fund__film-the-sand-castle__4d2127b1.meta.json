@@ -1,0 +1,23 @@
+{
+  "url": "https://thejerusalemfilmfund.com/film/the-sand-castle/",
+  "stable_id": "jerusalem_film_fund__film-the-sand-castle__4d2127b1",
+  "fetched_at": "2026-05-09T11:26:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:26:59Z",
+  "duration_ms": 26828,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2b0731ff6edd3dc7af56ce182dc26a2c3be03cae0003b659a67f118e8cd531b",
+  "md_bytes": 2626,
+  "links_found": 6,
+  "files_found": 0
+}

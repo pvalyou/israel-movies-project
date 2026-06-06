@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/real-estate-a-love-story/",
+  "stable_id": "nfct__en-movies-real-estate-a-love-story__6c353386",
+  "fetched_at": "2026-05-11T12:16:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:16:35Z",
+  "duration_ms": 10072,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1b670ff088501fa3f65182c56cdfd643c5d49ddfd44f0338e7ca534480fb7b61",
+  "md_bytes": 12447,
+  "links_found": 31,
+  "files_found": 0
+}

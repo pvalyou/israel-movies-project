@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=factory",
+  "stable_id": "nfct__en-movies-archive_keywords-factory__abd47431",
+  "fetched_at": "2026-05-16T08:37:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:37:46Z",
+  "duration_ms": 7835,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1d6ab9ece83f4f951e359bced716e28430fde515645737c5d41a9e628ea9725",
+  "md_bytes": 11790,
+  "links_found": 73,
+  "files_found": 0
+}

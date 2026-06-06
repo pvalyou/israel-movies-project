@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=private%20medical%20doctor",
+  "stable_id": "nfct__en-movies-archive_keywords-private-20medical-20doctor__14c6beae",
+  "fetched_at": "2026-05-16T16:58:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:58:22Z",
+  "duration_ms": 7786,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ed5cbcb0060bdbe7bc63e5d3e69e7aa9cbb61756747d6f32d2c71884883b67a",
+  "md_bytes": 9823,
+  "links_found": 67,
+  "files_found": 0
+}

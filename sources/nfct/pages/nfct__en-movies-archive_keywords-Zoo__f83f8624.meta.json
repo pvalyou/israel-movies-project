@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Zoo",
+  "stable_id": "nfct__en-movies-archive_keywords-Zoo__f83f8624",
+  "fetched_at": "2026-05-16T15:06:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:06:51Z",
+  "duration_ms": 11178,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f4226dcfd0a9bf1913a982eca9d34af176228d63a532751202208cbb0a88db6",
+  "md_bytes": 12918,
+  "links_found": 74,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/73-2/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-73-2__7844e826",
+  "fetched_at": "2026-05-16T14:47:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:47:40Z",
+  "duration_ms": 11780,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f768b3ee909b2ec0b1ce867f18d6074617eed37e0fa63d0f937b0061f60d3ed0",
+  "md_bytes": 14175,
+  "links_found": 48,
+  "files_found": 0
+}

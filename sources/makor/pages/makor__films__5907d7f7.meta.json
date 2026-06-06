@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מוות-באום-אל-חיראן/",
+  "stable_id": "makor__films__5907d7f7",
+  "fetched_at": "2026-05-09T13:18:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:18:50Z",
+  "duration_ms": 7487,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b508a3c79e661d8706b7eff84caa99c7517e955e9b9e046df899ab415f13d2c2",
+  "md_bytes": 3866,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/forget-it-nothing-happened/",
+  "stable_id": "nfct__en-movies-forget-it-nothing-happened__5b83c1e3",
+  "fetched_at": "2026-05-11T05:29:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:29:10Z",
+  "duration_ms": 22809,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ebe6ffad009e3ffbbee3929347954164aa844fb21d739707dd55e1ef1990ba19",
+  "md_bytes": 14690,
+  "links_found": 42,
+  "files_found": 0
+}

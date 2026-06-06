@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בית-חלומותיי/",
+  "stable_id": "nfct__blog-movies__bd8216d3",
+  "fetched_at": "2026-05-09T17:52:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:52:51Z",
+  "duration_ms": 34084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23583efcc1a60080e8f55f88fb384cca0d9a97776ff3221ac36f795427dcfe10",
+  "md_bytes": 16986,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=despair",
+  "stable_id": "nfct__en-movies-archive_keywords-despair__377f83bc",
+  "fetched_at": "2026-05-16T20:22:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:22:34Z",
+  "duration_ms": 10133,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2fe92b4409a0221eff8488e0b0a23b677101512da052100a0b3297ca1621b050",
+  "md_bytes": 14314,
+  "links_found": 77,
+  "files_found": 0
+}

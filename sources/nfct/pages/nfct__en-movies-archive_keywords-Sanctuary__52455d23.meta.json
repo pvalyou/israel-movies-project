@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sanctuary",
+  "stable_id": "nfct__en-movies-archive_keywords-Sanctuary__52455d23",
+  "fetched_at": "2026-05-16T13:12:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:12:16Z",
+  "duration_ms": 10056,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:946974c8183d25ececa5b25a482d43a6e459fb4c8f7f67f36cfab2bd0a0405e3",
+  "md_bytes": 11317,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/jerusalem-above-my-greatest-joy/",
+  "stable_id": "nfct__en-movies-jerusalem-above-my-greatest-joy__10c6494a",
+  "fetched_at": "2026-05-15T09:46:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:46:05Z",
+  "duration_ms": 7639,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d699c8872f9bf573576f50fd1fcda26064406c445f468199aa129d8db279a08a",
+  "md_bytes": 10662,
+  "links_found": 30,
+  "files_found": 0
+}

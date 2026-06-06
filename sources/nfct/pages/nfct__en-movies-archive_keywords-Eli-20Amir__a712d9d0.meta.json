@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eli%20Amir",
+  "stable_id": "nfct__en-movies-archive_keywords-Eli-20Amir__a712d9d0",
+  "fetched_at": "2026-05-16T10:51:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:51:16Z",
+  "duration_ms": 9589,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e636e3d76a5365bacb47b683a3695b79d7e18749f48a4a6c79c896be58c83537",
+  "md_bytes": 16350,
+  "links_found": 81,
+  "files_found": 0
+}

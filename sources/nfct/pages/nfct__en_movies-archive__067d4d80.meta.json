@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=balloon+on+the+ceiling",
+  "stable_id": "nfct__en_movies-archive__067d4d80",
+  "fetched_at": "2026-05-18T21:29:27.879573+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=balloon+on+the+ceiling",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "c43fccaa8e37fa8b4db139d1ee8d64ddb78a2853ae417dd3b1f7a5de38797ffd",
+  "md_bytes": 9211,
+  "links_found": 0,
+  "error": ""
+}

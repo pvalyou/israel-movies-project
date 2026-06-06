@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/have-you-heard-about-the-black-panthers-2/",
+  "stable_id": "nfct__en-movies-have-you-heard-about-the-black-panthers-2__f538d4bb",
+  "fetched_at": "2026-05-12T03:28:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:28:13Z",
+  "duration_ms": 7391,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78de1d4d8915546b4ad1f11685296dc2684f22c399734bd7f07dd4748548e96e",
+  "md_bytes": 13199,
+  "links_found": 32,
+  "files_found": 0
+}

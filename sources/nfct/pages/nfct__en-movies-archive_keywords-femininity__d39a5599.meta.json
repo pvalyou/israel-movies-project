@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=femininity",
+  "stable_id": "nfct__en-movies-archive_keywords-femininity__d39a5599",
+  "fetched_at": "2026-05-16T09:56:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:56:22Z",
+  "duration_ms": 7270,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d3d00681d51a512f4ef993b6afe7d72630b71be54ef4d306a706a0abe76afe6",
+  "md_bytes": 11327,
+  "links_found": 72,
+  "files_found": 0
+}

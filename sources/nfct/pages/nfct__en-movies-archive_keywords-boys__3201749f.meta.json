@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=boys",
+  "stable_id": "nfct__en-movies-archive_keywords-boys__3201749f",
+  "fetched_at": "2026-05-16T10:18:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:18:34Z",
+  "duration_ms": 7402,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e0c5e5daf26b206f25b73f498ac552fbb378fbe25f977bf0752325a3bfcb8bd8",
+  "md_bytes": 14010,
+  "links_found": 78,
+  "files_found": 0
+}

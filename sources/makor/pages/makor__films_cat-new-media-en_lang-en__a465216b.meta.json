@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films_cat/new-media-en/?lang=en",
+  "stable_id": "makor__films_cat-new-media-en_lang-en__a465216b",
+  "fetched_at": "2026-05-09T12:46:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:46:27Z",
+  "duration_ms": 16573,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e83907acc974011f6377aa20d554dd064e6a83c341e081d55c19b369576848e",
+  "md_bytes": 1278,
+  "links_found": 5,
+  "files_found": 0
+}

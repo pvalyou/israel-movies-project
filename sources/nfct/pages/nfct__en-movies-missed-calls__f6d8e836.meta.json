@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/missed-calls/",
+  "stable_id": "nfct__en-movies-missed-calls__f6d8e836",
+  "fetched_at": "2026-05-11T12:36:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:36:47Z",
+  "duration_ms": 24075,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:898d2a5c9e6d6fefcdc14d041d64042bec185b8cac2e1c92baaa79d116e11fcc",
+  "md_bytes": 11946,
+  "links_found": 30,
+  "files_found": 0
+}

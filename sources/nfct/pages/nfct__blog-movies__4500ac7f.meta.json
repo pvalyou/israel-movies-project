@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/השיעור-של-נינו/",
+  "stable_id": "nfct__blog-movies__4500ac7f",
+  "fetched_at": "2026-05-09T21:16:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:16:21Z",
+  "duration_ms": 13097,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9179d9047d468f1a3ce2146653f6abd6ec37a5bc9d82a6afe8a22b5c92262c03",
+  "md_bytes": 15930,
+  "links_found": 34,
+  "files_found": 0
+}

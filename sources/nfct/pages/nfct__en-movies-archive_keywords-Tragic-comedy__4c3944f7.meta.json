@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tragic+comedy",
+  "stable_id": "nfct__en-movies-archive_keywords-Tragic-comedy__4c3944f7",
+  "fetched_at": "2026-05-16T16:09:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:09:49Z",
+  "duration_ms": 7828,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d596a4a4c8f7c1bcf32aeb1b6a71765d32df0d84e28d26813238997ab4b7712",
+  "md_bytes": 9972,
+  "links_found": 68,
+  "files_found": 0
+}

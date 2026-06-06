@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/blood-engagement/#UAMainContent",
+  "stable_id": "nfct__en-movies-blood-engagement__681519f4",
+  "fetched_at": "2026-05-16T11:30:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:30:17Z",
+  "duration_ms": 8462,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:863c3262ea3f3c8fc0d7d9132882a5eec247fd02e6c6ac236b4dfae7d8bf1a16",
+  "md_bytes": 11254,
+  "links_found": 25,
+  "files_found": 0
+}

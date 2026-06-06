@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אותיות-נשמה/",
+  "stable_id": "nfct__blog-movies__b375ed36",
+  "fetched_at": "2026-05-09T21:12:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:12:49Z",
+  "duration_ms": 8467,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c28dc5d6d63a40fe1b171d07ebc51af83d5ae3195daa5b052f7065d5dc1f3d7f",
+  "md_bytes": 17103,
+  "links_found": 39,
+  "files_found": 0
+}

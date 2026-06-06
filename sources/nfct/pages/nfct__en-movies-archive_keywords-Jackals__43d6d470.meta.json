@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jackals",
+  "stable_id": "nfct__en-movies-archive_keywords-Jackals__43d6d470",
+  "fetched_at": "2026-05-16T13:08:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:08:52Z",
+  "duration_ms": 10940,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf1b5aaa23a9cac8cdf7154a54ec34cc7f0d59a72eadb215d29c94d238cfc50e",
+  "md_bytes": 10159,
+  "links_found": 68,
+  "files_found": 0
+}

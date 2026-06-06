@@ -1,0 +1,91 @@
+
+=== Run started 2026-05-16T13:54:11.631079 ===
+[13:54:11] Source: rabinovich_foundation
+[13:54:11] Pages dir: sources/rabinovich_foundation/pages
+[13:54:11] Output dir: out/rabinovich_foundation
+[13:54:11] Total .md pages found: 24  |  Already done: 0  |  To process: 24
+[13:54:11] Model: google/gemini-2.5-flash-lite  |  Workers: 12  |  Max chars: 8000  |  Pre-filter: ON (min 2 generic OR >=1 specific)
+[13:54:11] [1/24] EMPTY_CONTENT: 
+[13:54:11]           file: rabinovich_foundation__help__e1c2294c.md
+[13:54:11]           url:  https://forms.rabinovichfoundation.org.il/help
+[13:54:11] [2/24] EMPTY_CONTENT: 
+[13:54:11]           file: rabinovich_foundation__index.php-the-arts-publishing-old__7d5abf67.md
+[13:54:11]           url:  https://www.rabinovichfoundation.org.il/index.php/the-arts/publishing-old
+[13:54:13] [3/24] OK   0p 1o 0f 0r 0ro  (1.75s)
+[13:54:13]           file: rabinovich_foundation__organization-580035756-people__ebbea2ad.md
+[13:54:13]           url:  https://www.guidestar.org.il/organization/580035756/people
+[13:54:13] [4/24] OK   0p 3o 0f 0r 0ro  (2.07s)
+[13:54:13]           file: rabinovich_foundation__organization-580035756-financial__60909e80.md
+[13:54:13]           url:  https://www.guidestar.org.il/organization/580035756/financial
+[13:54:14] [5/24] OK   0p 3o 0f 1r 0ro  (2.66s)
+[13:54:14]           file: rabinovich_foundation__organization-580035756__4763b5fe.md
+[13:54:14]           url:  https://www.guidestar.org.il/organization/580035756
+[13:54:14] [6/24] OK   2p 1o 0f 1r 2ro  (2.77s)
+[13:54:14]           file: rabinovich_foundation__commemoration-manger__0bd081bb.md
+[13:54:14]           url:  https://www.rabinovichfoundation.org.il/commemoration/manger
+[13:54:14] [7/24] OK   0p 5o 0f 0r 0ro  (2.8s)
+[13:54:14]           file: rabinovich_foundation__commemoration__c87b547b.md
+[13:54:14]           url:  https://www.rabinovichfoundation.org.il/commemoration
+[13:54:14] [8/24] OK   0p 3o 0f 2r 3ro  (2.99s)
+[13:54:14]           file: rabinovich_foundation__aid__271f3aa0.md
+[13:54:14]           url:  https://www.rabinovichfoundation.org.il/aid
+[13:54:14] [9/24] OK   0p 2o 0f 0r 0ro  (1.24s)
+[13:54:14]           file: rabinovich_foundation__root__d504e05c.md
+[13:54:14]           url:  https://forms.rabinovichfoundation.org.il/
+[13:54:15] [10/24] OK   0p 1o 0f 1r 0ro  (1.42s)
+[13:54:15]           file: rabinovich_foundation__the-arts-art__13c9a72b.md
+[13:54:15]           url:  https://www.rabinovichfoundation.org.il/the-arts/art
+[13:54:15] [11/24] OK   1p 3o 0f 2r 2ro  (4.28s)
+[13:54:15]           file: rabinovich_foundation__commemoration-josef__81c928eb.md
+[13:54:15]           url:  https://www.rabinovichfoundation.org.il/commemoration/josef
+[13:54:16] [12/24] OK   0p 2o 0f 1r 0ro  (1.43s)
+[13:54:16]           file: rabinovich_foundation__the-arts-print__749df80f.md
+[13:54:16]           url:  https://www.rabinovichfoundation.org.il/the-arts/print
+[13:54:16] [13/24] SKIP (g=1 s=0) matched=['foundation']
+[13:54:16]           file: rabinovich_foundation__the-arts__b1099eff.md
+[13:54:16]           url:  https://www.rabinovichfoundation.org.il/the-arts
+[13:54:17] [14/24] OK   0p 2o 0f 0r 0ro  (1.14s)
+[13:54:17]           file: rabinovich_foundation__the-arts-special-projects__7fc91d23.md
+[13:54:17]           url:  https://www.rabinovichfoundation.org.il/the-arts/special-projects
+[13:54:17] [15/24] OK   2p 4o 0f 3r 2ro  (2.8s)
+[13:54:17]           file: rabinovich_foundation__the-arts-matan__93a9036d.md
+[13:54:17]           url:  https://www.rabinovichfoundation.org.il/the-arts/matan
+[13:54:17] [16/24] OK   3p 2o 0f 3r 3ro  (2.64s)
+[13:54:17]           file: rabinovich_foundation__the-arts-music__2eb02d92.md
+[13:54:17]           url:  https://www.rabinovichfoundation.org.il/the-arts/music
+[13:54:17] [17/24] OK   1p 3o 0f 4r 2ro  (2.88s)
+[13:54:17]           file: rabinovich_foundation__the-arts-literature-and-poetry__33105165.md
+[13:54:17]           url:  https://www.rabinovichfoundation.org.il/the-arts/literature-and-poetry
+[13:54:18] [18/24] OK   1p 7o 0f 6r 1ro  (6.61s)
+[13:54:18]           file: rabinovich_foundation__root__158e6481.md
+[13:54:18]           url:  https://www.rabinovichfoundation.org.il/
+[13:54:19] [19/24] OK   5p 5o 1f 11r 7ro  (7.9s)
+[13:54:19]           file: rabinovich_foundation__commemoration-yakov-timan__2c7e9ef2.md
+[13:54:19]           url:  https://www.rabinovichfoundation.org.il/commemoration/yakov-timan
+[13:54:19] [20/24] OK   6p 5o 0f 12r 8ro  (7.92s)
+[13:54:19]           file: rabinovich_foundation__cinema-project__22f492b5.md
+[13:54:19]           url:  https://www.rabinovichfoundation.org.il/cinema-project
+[13:54:19] [21/24] OK   2p 2o 0f 5r 2ro  (5.38s)
+[13:54:19]           file: rabinovich_foundation__the-arts-dance__61dfced6.md
+[13:54:19]           url:  https://www.rabinovichfoundation.org.il/the-arts/dance
+[13:54:19] [22/24] OK   7p 8o 3f 0r 0ro  (8.22s)
+[13:54:19]           file: rabinovich_foundation__commemoration-shlonski__29080a0c.md
+[13:54:19]           url:  https://www.rabinovichfoundation.org.il/commemoration/shlonski
+[13:54:22] [23/24] OK   4p 7o 0f 9r 2ro  (10.46s)
+[13:54:22]           file: rabinovich_foundation__commemoration-arie-elhanani__e3c9d566.md
+[13:54:22]           url:  https://www.rabinovichfoundation.org.il/commemoration/arie-elhanani
+[13:54:22] [24/24] OK   0p 0o 0f 0r 0ro  (8.22s) [TRUNC]
+[13:54:22]           file: rabinovich_foundation__the-arts-print-past-table-print__e6b643ee.md
+[13:54:22]           url:  https://www.rabinovichfoundation.org.il/the-arts/print/past-table-print
+[13:54:22] ======================================================================
+[13:54:22] DONE in 0.2min
+[13:54:22]   ok:           21
+[13:54:22]   filtered:     1
+[13:54:22]   empty:        2
+[13:54:22]   load_error:   0
+[13:54:22]   llm_error:    0
+[13:54:22] Tokens: 58,440 in / 33,788 out  |  Cost: $0.0194
+[13:54:22] Calls: 21  |  Errors: 0  |  JSON retries: 0
+[13:54:22] Output: out/rabinovich_foundation/mentions.jsonl
+[13:54:22] Summary:  out/rabinovich_foundation/run_summary.json
+=== Run ended 2026-05-16T13:54:22.884025 ===

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Prof.%20Steven%20Fine",
+  "stable_id": "nfct__en-movies-archive_keywords-Prof.-20Steven-20Fine__f1436efe",
+  "fetched_at": "2026-05-16T14:18:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:18:33Z",
+  "duration_ms": 5913,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b835e9ee4ba1a8627cf404f32cbde9aac57e6bc3dc6c221a117eda46f1bdd3ed",
+  "md_bytes": 9813,
+  "links_found": 67,
+  "files_found": 0
+}

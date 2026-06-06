@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Family%20Support",
+  "stable_id": "nfct__en-movies-archive_keywords-Family-20Support__f473d130",
+  "fetched_at": "2026-05-16T15:20:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:20:19Z",
+  "duration_ms": 7872,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f10d0f4170186124bf773455ec7a0c8f78cb42c05aa31d9d2816f0d91acd2579",
+  "md_bytes": 13731,
+  "links_found": 76,
+  "files_found": 0
+}

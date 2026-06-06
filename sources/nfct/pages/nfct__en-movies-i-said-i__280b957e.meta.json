@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/i-said-i/#UAMainContent",
+  "stable_id": "nfct__en-movies-i-said-i__280b957e",
+  "fetched_at": "2026-05-16T15:07:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:07:19Z",
+  "duration_ms": 6799,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13c6423a993c1e727db1485af1edddc14c5302c08a2368c73b6935671cb6f07b",
+  "md_bytes": 15285,
+  "links_found": 47,
+  "files_found": 0
+}

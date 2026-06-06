@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=City%20Workers",
+  "stable_id": "nfct__en-movies-archive_keywords-City-20Workers__c568ba15",
+  "fetched_at": "2026-05-16T12:34:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:34:19Z",
+  "duration_ms": 9621,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:972791b0aff2714319f7ede3b67c926bfcc77fec0a80be6120a05146ea78fbb0",
+  "md_bytes": 10408,
+  "links_found": 69,
+  "files_found": 0
+}

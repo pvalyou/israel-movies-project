@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/פרויקט-חיים-על-הגבול-דרום/",
+  "stable_id": "nfct__blog-specials__e34bcab2",
+  "fetched_at": "2026-05-09T17:58:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:58:44Z",
+  "duration_ms": 8001,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2feeaa5d2e4d74b9b690412e23cf958e45fe964ab0177e501d27617f139722c0",
+  "md_bytes": 9962,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shadow-puppets/",
+  "stable_id": "nfct__en-movies-shadow-puppets__8df24e62",
+  "fetched_at": "2026-05-12T03:42:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:42:08Z",
+  "duration_ms": 48058,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f643e26a738e615a1916db1207a3fa6653944fe1b33364e006d88794d4d93038",
+  "md_bytes": 12790,
+  "links_found": 32,
+  "files_found": 0
+}

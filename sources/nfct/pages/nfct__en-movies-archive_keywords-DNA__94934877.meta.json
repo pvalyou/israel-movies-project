@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=DNA",
+  "stable_id": "nfct__en-movies-archive_keywords-DNA__94934877",
+  "fetched_at": "2026-05-16T13:37:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:37:19Z",
+  "duration_ms": 18690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d7ced19bded32ccaab2ba34a8b875f368b3f24d5e9de17964b4c9f71114d0411",
+  "md_bytes": 13827,
+  "links_found": 77,
+  "files_found": 0
+}

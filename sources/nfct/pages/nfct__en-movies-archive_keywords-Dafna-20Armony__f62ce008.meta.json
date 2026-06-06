@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dafna%20Armony",
+  "stable_id": "nfct__en-movies-archive_keywords-Dafna-20Armony__f62ce008",
+  "fetched_at": "2026-05-16T12:04:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:04:53Z",
+  "duration_ms": 7642,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:633d222170eb30b769709ba21269a88ce6dc01c83639c05f00cf80dcb8cb8e6f",
+  "md_bytes": 10257,
+  "links_found": 68,
+  "files_found": 0
+}

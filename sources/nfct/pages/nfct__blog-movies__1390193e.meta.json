@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/העיר-הזאת/",
+  "stable_id": "nfct__blog-movies__1390193e",
+  "fetched_at": "2026-05-15T09:01:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:21Z",
+  "duration_ms": 14645,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:862c0d7e66ffea4d71c8453fb481e99089c585ebfd046f9025b53130defc6e58",
+  "md_bytes": 14918,
+  "links_found": 25,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=White%20House",
+  "stable_id": "nfct__en-movies-archive_keywords-White-20House__007f3b01",
+  "fetched_at": "2026-05-16T15:18:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:18:08Z",
+  "duration_ms": 7816,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92d3d90a0592451181f306bada32e74c679e894e93a4c58e786b265a05f9d846",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

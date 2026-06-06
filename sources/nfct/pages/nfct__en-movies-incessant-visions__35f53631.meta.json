@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/incessant-visions/",
+  "stable_id": "nfct__en-movies-incessant-visions__35f53631",
+  "fetched_at": "2026-05-11T03:46:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:46:18Z",
+  "duration_ms": 38926,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa758664abe3e3c98fea69db4e0524240ccc1872d4958824446a56a3eaaf9283",
+  "md_bytes": 16446,
+  "links_found": 38,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=abused+women",
+  "stable_id": "nfct__en-movies-archive_keywords-abused-women__a7ac6a67",
+  "fetched_at": "2026-05-16T05:39:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:39:19Z",
+  "duration_ms": 5565,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ecc74b98762c479b1d1b7b9c556e7b9fcd3d5f7ea7e488abba8eefb174627afa",
+  "md_bytes": 10468,
+  "links_found": 69,
+  "files_found": 0
+}

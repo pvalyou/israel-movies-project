@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=trapeze",
+  "stable_id": "nfct__en-movies-archive_keywords-trapeze__1ce488a3",
+  "fetched_at": "2026-05-16T09:10:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:10:05Z",
+  "duration_ms": 10367,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91cfebb48b1161f4a67511fb12c0c168c12d5aef1df8865d65e2526e714b7ef0",
+  "md_bytes": 10154,
+  "links_found": 68,
+  "files_found": 0
+}

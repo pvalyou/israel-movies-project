@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אורנה-ואלה/",
+  "stable_id": "makor__films__8844fe88",
+  "fetched_at": "2026-05-09T12:59:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:59:50Z",
+  "duration_ms": 9320,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:339cbf6187686ce8baa48e6ba90ce52852476ad853c84a74b7ec9f3d13a3c62f",
+  "md_bytes": 3639,
+  "links_found": 4,
+  "files_found": 0
+}

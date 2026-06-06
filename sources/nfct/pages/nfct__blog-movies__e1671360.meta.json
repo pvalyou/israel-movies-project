@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בכינו-בלי-דמעות/",
+  "stable_id": "nfct__blog-movies__e1671360",
+  "fetched_at": "2026-05-09T19:56:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:56:05Z",
+  "duration_ms": 48187,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e56a92677dbc6f8415ec288b4b291773b3951435fc703d23eff9e91adc86da7",
+  "md_bytes": 21544,
+  "links_found": 45,
+  "files_found": 0
+}

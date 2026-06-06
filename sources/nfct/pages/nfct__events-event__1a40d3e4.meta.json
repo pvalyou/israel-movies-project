@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-עניינים-שבלב-גד-אייזן-סינמטק-חי/",
+  "stable_id": "nfct__events-event__1a40d3e4",
+  "fetched_at": "2026-05-10T04:22:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T04:22:52Z",
+  "duration_ms": 9812,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae88951b6768ae51a4049193b5a0147e0e96266b8c8b96e622857b67bbb173c5",
+  "md_bytes": 11345,
+  "links_found": 22,
+  "files_found": 0
+}

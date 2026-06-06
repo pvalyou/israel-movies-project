@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/soulmate/",
+  "stable_id": "nfct__en-movies-soulmate__b30c65a9",
+  "fetched_at": "2026-05-11T03:26:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:26:15Z",
+  "duration_ms": 32294,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ae59152a0dc635c7be63bd6e99198a5a3c19854d1bd9c89ef9f666a620d7e6a",
+  "md_bytes": 12986,
+  "links_found": 35,
+  "files_found": 0
+}

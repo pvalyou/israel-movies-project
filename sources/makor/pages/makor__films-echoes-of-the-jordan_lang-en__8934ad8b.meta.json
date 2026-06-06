@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/echoes-of-the-jordan/?lang=en",
+  "stable_id": "makor__films-echoes-of-the-jordan_lang-en__8934ad8b",
+  "fetched_at": "2026-05-09T12:51:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:51:03Z",
+  "duration_ms": 11779,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f0b1667c005ff10fbd08ff0828c5660778b6abab4879b6f0458f348a1fde137",
+  "md_bytes": 3067,
+  "links_found": 4,
+  "files_found": 0
+}

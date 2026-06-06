@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Leica+Camera",
+  "stable_id": "nfct__en-movies-archive_keywords-Leica-Camera__5dcd975a",
+  "fetched_at": "2026-05-16T14:42:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:42:01Z",
+  "duration_ms": 12877,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d78f08251d3d74308325bd47d8517fa532fa4944b4ae147f2271a33b7551139",
+  "md_bytes": 10436,
+  "links_found": 68,
+  "files_found": 0
+}

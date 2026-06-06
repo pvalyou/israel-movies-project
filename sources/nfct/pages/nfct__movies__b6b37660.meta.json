@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/אמא-לא-הרגתי-את-הבת-שלך/",
+  "stable_id": "nfct__movies__b6b37660",
+  "fetched_at": "2026-05-16T15:54:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:54:20Z",
+  "duration_ms": 8130,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2450b895b80f01b5224134216f3bf5f97eb13185cf0a492f94a97f0a8fceb21",
+  "md_bytes": 8815,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=social%20services",
+  "stable_id": "nfct__en-movies-archive_keywords-social-20services__75285a98",
+  "fetched_at": "2026-05-16T11:16:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:16:40Z",
+  "duration_ms": 7777,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dded4f596bab0ef037f971175550ff0f3bca3825d71302eaf46dcee0941f544f",
+  "md_bytes": 10031,
+  "links_found": 68,
+  "files_found": 0
+}

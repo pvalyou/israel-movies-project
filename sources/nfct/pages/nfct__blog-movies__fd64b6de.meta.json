@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מחוץ-להישג-ידו-של-היטלר/",
+  "stable_id": "nfct__blog-movies__fd64b6de",
+  "fetched_at": "2026-05-09T21:59:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:59:18Z",
+  "duration_ms": 32299,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:172dca7a769779540570427ed11cea1f603a5b82cf373b433889a2b62b64b140",
+  "md_bytes": 19889,
+  "links_found": 44,
+  "files_found": 0
+}

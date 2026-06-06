@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Al%20Kasaba%20Theater",
+  "stable_id": "nfct__en-movies-archive_keywords-Al-20Kasaba-20Theater__3bb579d5",
+  "fetched_at": "2026-05-16T10:44:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:44:20Z",
+  "duration_ms": 6934,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c4826ea08a3229c514146d1b0ae6b30dcde5d53047223db2b5b80a92a595a874",
+  "md_bytes": 10172,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/לא-בבית-2/",
+  "stable_id": "nfct__blog-movies----2__1b0aa2f4",
+  "fetched_at": "2026-05-15T09:00:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:00:51Z",
+  "duration_ms": 7793,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:35a3db8ae8b59e7f9eec8eaefeabd15d5a8a40730e33f6f3fd91cf2a17ae87e6",
+  "md_bytes": 14073,
+  "links_found": 30,
+  "files_found": 0
+}

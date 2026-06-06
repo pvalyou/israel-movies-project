@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eli+Eliyahu",
+  "stable_id": "nfct__en-movies-archive_keywords-Eli-Eliyahu__3b25db6f",
+  "fetched_at": "2026-05-16T20:17:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:17:43Z",
+  "duration_ms": 9369,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c220df22de756052336986e5a87123bd0907cad516ce507ef901fa88e61e6d08",
+  "md_bytes": 10199,
+  "links_found": 68,
+  "files_found": 0
+}

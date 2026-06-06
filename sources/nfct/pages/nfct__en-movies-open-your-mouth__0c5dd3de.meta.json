@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/open-your-mouth/",
+  "stable_id": "nfct__en-movies-open-your-mouth__0c5dd3de",
+  "fetched_at": "2026-05-11T22:20:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:20:29Z",
+  "duration_ms": 36614,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:616001875938651962070a5adf3fec8960fb295498ce470d64ecb80eb086e102",
+  "md_bytes": 15420,
+  "links_found": 47,
+  "files_found": 0
+}

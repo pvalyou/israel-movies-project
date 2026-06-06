@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/debbie-was-here/#UAMainContent",
+  "stable_id": "nfct__en-movies-debbie-was-here__64604bd9",
+  "fetched_at": "2026-05-16T13:38:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:38:46Z",
+  "duration_ms": 7699,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:506364841fbef2064d2a065c740f4d832f9e5b360b0a4d7f765d50225982719c",
+  "md_bytes": 12508,
+  "links_found": 31,
+  "files_found": 0
+}

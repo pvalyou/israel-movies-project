@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Genetic%20Disorder",
+  "stable_id": "nfct__en-movies-archive_keywords-Genetic-20Disorder__067797b6",
+  "fetched_at": "2026-05-16T13:37:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:37:19Z",
+  "duration_ms": 17406,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0650d1704d102d82f6c5d5a1e74ac411f5fbbdc7ec352a155125a414da05557c",
+  "md_bytes": 9809,
+  "links_found": 67,
+  "files_found": 0
+}

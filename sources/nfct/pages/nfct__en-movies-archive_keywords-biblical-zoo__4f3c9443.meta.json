@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=biblical+zoo",
+  "stable_id": "nfct__en-movies-archive_keywords-biblical-zoo__4f3c9443",
+  "fetched_at": "2026-05-16T20:39:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:39:16Z",
+  "duration_ms": 6105,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e7ec3efd13f7e98906ca57f21dfb90dfc87b277ee827d608d2464f7727dd2d45",
+  "md_bytes": 10296,
+  "links_found": 68,
+  "files_found": 0
+}

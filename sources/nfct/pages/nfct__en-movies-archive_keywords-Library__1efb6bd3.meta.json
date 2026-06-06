@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Library",
+  "stable_id": "nfct__en-movies-archive_keywords-Library__1efb6bd3",
+  "fetched_at": "2026-05-16T13:39:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:39:56Z",
+  "duration_ms": 9442,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9939f2174cb622998c6d844f5ed0ce166672aff7aa2ec7da5fac4f92b4d6a413",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

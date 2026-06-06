@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=theater",
+  "stable_id": "nfct__en-movies-archive_keywords-theater__782fbca1",
+  "fetched_at": "2026-05-16T05:30:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:30:12Z",
+  "duration_ms": 7659,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c7d60603c0de75e744c7d2fc416a90e146e381295a2a7451f15d09e34a6f57b",
+  "md_bytes": 15958,
+  "links_found": 81,
+  "files_found": 0
+}

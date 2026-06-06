@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/between-shadows-and-spotlights-a-voice-without-a-face/",
+  "stable_id": "nfct__en-movies-between-shadows-and-spotlights-a-voice-without-a-face__e38308c1",
+  "fetched_at": "2026-05-12T04:56:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:56:43Z",
+  "duration_ms": 36779,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:184e78e30b8a91241c9e7aa3b7407ab0b5117768b240dcc0f8e8348955de2e35",
+  "md_bytes": 14067,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/9-star-hotel/",
+  "stable_id": "nfct__en-movies-9-star-hotel__9011155c",
+  "fetched_at": "2026-05-11T06:55:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:55:30Z",
+  "duration_ms": 12150,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2aece760117ec6d509baead3a6b21277a38433dcfdb93b41e965391cfac74998",
+  "md_bytes": 16186,
+  "links_found": 37,
+  "files_found": 0
+}

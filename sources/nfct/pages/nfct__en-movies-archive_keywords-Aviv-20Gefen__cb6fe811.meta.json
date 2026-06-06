@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Aviv%20Gefen",
+  "stable_id": "nfct__en-movies-archive_keywords-Aviv-20Gefen__cb6fe811",
+  "fetched_at": "2026-05-16T15:38:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:38:36Z",
+  "duration_ms": 18869,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8620fae1d3392f1c77f1eeaff722cd0384eace25b99e625a29e5c4ac83eb80e3",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

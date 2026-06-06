@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fast/",
+  "stable_id": "nfct__en-movies-fast__547ebe3a",
+  "fetched_at": "2026-05-12T01:57:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:57:13Z",
+  "duration_ms": 11714,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ddd742ca0a5de1422fffcaf4314d75989def6b841e494cd17b132fa10b81494",
+  "md_bytes": 11125,
+  "links_found": 30,
+  "files_found": 0
+}

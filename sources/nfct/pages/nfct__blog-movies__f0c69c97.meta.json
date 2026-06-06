@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גם-סשן/",
+  "stable_id": "nfct__blog-movies__f0c69c97",
+  "fetched_at": "2026-05-09T17:41:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:41:17Z",
+  "duration_ms": 8010,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ff7ad6120088f9ac5cacc763e92049b11485a1ab212bb25ad40f735fcea09e6a",
+  "md_bytes": 16011,
+  "links_found": 37,
+  "files_found": 0
+}

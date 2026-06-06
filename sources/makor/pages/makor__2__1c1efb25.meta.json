@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/הסיפורים-שמאחורי-הסרטים-של-סרטי-2-דקות/",
+  "stable_id": "makor__2__1c1efb25",
+  "fetched_at": "2026-05-09T12:33:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:33:08Z",
+  "duration_ms": 12085,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2d20f8d44b1f7af5dd8cdc88b0a6192a98a700169c8a469bdbfe8518eaaf6588",
+  "md_bytes": 2389,
+  "links_found": 2,
+  "files_found": 0
+}

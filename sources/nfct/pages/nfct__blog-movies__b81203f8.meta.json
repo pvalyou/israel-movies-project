@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מאטיסה/",
+  "stable_id": "nfct__blog-movies__b81203f8",
+  "fetched_at": "2026-05-09T22:11:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:11:50Z",
+  "duration_ms": 47008,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1821b4639d34131cacc24e7f93a717b748d5ebe09542a867954b5d3f5f4cabcd",
+  "md_bytes": 16497,
+  "links_found": 36,
+  "files_found": 0
+}

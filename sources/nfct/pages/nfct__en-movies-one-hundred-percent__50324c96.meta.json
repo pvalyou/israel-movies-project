@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/one-hundred-percent/",
+  "stable_id": "nfct__en-movies-one-hundred-percent__50324c96",
+  "fetched_at": "2026-05-11T12:44:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:44:01Z",
+  "duration_ms": 12710,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:262135a99cf23a7654e145a945e157c32ab07d35654933e2ec4d4be2c68eb48f",
+  "md_bytes": 12202,
+  "links_found": 29,
+  "files_found": 0
+}

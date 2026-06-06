@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mentally%20handicapped",
+  "stable_id": "nfct__en-movies-archive_keywords-Mentally-20handicapped__01a398c5",
+  "fetched_at": "2026-05-16T17:50:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:50:05Z",
+  "duration_ms": 12396,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ca21b79c020aa243df7bdd89282807fa499b9c7561a424514a6b22514ca2b17",
+  "md_bytes": 10185,
+  "links_found": 68,
+  "files_found": 0
+}

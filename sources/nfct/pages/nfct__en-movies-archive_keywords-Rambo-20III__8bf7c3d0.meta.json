@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rambo%20III",
+  "stable_id": "nfct__en-movies-archive_keywords-Rambo-20III__8bf7c3d0",
+  "fetched_at": "2026-05-16T13:16:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:16:36Z",
+  "duration_ms": 9488,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6029dc2806e73fda8d05dc7cb3eb713da9be9bd84743fa10029b52eae4d8e81e",
+  "md_bytes": 10265,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/א-קיצער-2022/",
+  "stable_id": "nfct__blog-movies----2022__f694f696",
+  "fetched_at": "2026-05-09T19:43:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:43:13Z",
+  "duration_ms": 15535,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b358b55d499423727ffdc57fe5e18c79ba3dc1f5eb20e8e13bb259f6a33fc73",
+  "md_bytes": 13950,
+  "links_found": 24,
+  "files_found": 0
+}

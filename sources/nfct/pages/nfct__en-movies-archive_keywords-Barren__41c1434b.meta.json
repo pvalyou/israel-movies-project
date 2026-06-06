@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Barren",
+  "stable_id": "nfct__en-movies-archive_keywords-Barren__41c1434b",
+  "fetched_at": "2026-05-16T14:13:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:13:21Z",
+  "duration_ms": 7057,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5cb5469c1fd8f2b9334ed8eed91365a334c2719a61a9bfaf255630d9e7e1be6d",
+  "md_bytes": 11385,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=parent-child+relationships",
+  "stable_id": "nfct__en-movies-archive_keywords-parent-child-relationships__6b2e00a3",
+  "fetched_at": "2026-05-16T14:37:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:37:27Z",
+  "duration_ms": 11330,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9977fb83c185f7e34438c8fcb46ff063a890902548178ff55bfc33c520ca1e39",
+  "md_bytes": 9827,
+  "links_found": 67,
+  "files_found": 0
+}

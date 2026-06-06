@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אין-עצמי-יש-שירה/",
+  "stable_id": "nfct__blog-movies__3edf0d8f",
+  "fetched_at": "2026-05-09T19:44:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:44:16Z",
+  "duration_ms": 12876,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6dcd051ec8e81c938526fe74d7fb8713d90e3c79733bec60fc612c55e7e93bef",
+  "md_bytes": 12909,
+  "links_found": 28,
+  "files_found": 0
+}

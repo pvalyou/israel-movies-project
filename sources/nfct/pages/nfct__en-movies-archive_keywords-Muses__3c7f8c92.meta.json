@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Muses",
+  "stable_id": "nfct__en-movies-archive_keywords-Muses__3c7f8c92",
+  "fetched_at": "2026-05-16T14:58:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:58:20Z",
+  "duration_ms": 10087,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03791c6782748692235a97e49c94dbb67c480dd9af455ce273c6a1a6ef5464a2",
+  "md_bytes": 12330,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-own-telenovela/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-my-own-telenovela__2c09ae0d",
+  "fetched_at": "2026-05-16T17:31:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:31:29Z",
+  "duration_ms": 11493,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e03d4acb3e184cf04f9cbf29dfc6c60ef7066c48cb2cc1e8ef7d547ab7ced3cd",
+  "md_bytes": 12278,
+  "links_found": 30,
+  "files_found": 0
+}

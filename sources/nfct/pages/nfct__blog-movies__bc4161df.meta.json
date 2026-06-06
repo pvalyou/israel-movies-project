@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הצד-האפל/",
+  "stable_id": "nfct__blog-movies__bc4161df",
+  "fetched_at": "2026-05-09T22:03:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:03:30Z",
+  "duration_ms": 89882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f7e1d2e94a7e97ddfdf55ef060f6a88362614854e525a7d7af2dc25f6fe2f9d5",
+  "md_bytes": 18650,
+  "links_found": 39,
+  "files_found": 0
+}

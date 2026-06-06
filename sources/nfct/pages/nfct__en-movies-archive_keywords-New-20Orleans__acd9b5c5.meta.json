@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=New%20Orleans",
+  "stable_id": "nfct__en-movies-archive_keywords-New-20Orleans__acd9b5c5",
+  "fetched_at": "2026-05-16T16:56:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:56:57Z",
+  "duration_ms": 8713,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd447c281abfb89aaee8c8331fe17cbe78eaaf1ceb4b45f6cbd384030cce912a",
+  "md_bytes": 10607,
+  "links_found": 69,
+  "files_found": 0
+}

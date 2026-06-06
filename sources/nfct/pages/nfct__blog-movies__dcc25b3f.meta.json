@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אם-העולם-הזה-הוא-ים/",
+  "stable_id": "nfct__blog-movies__dcc25b3f",
+  "fetched_at": "2026-05-09T19:40:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:40:57Z",
+  "duration_ms": 9195,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c3a21e48a6c8e53dbe37d75f0019e0b61673ba28e12b76a702ac53d0947c6e8",
+  "md_bytes": 18945,
+  "links_found": 40,
+  "files_found": 0
+}

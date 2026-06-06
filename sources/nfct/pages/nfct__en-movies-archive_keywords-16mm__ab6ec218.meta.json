@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=16mm",
+  "stable_id": "nfct__en-movies-archive_keywords-16mm__ab6ec218",
+  "fetched_at": "2026-05-16T12:11:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:11:00Z",
+  "duration_ms": 10733,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c73cc9313c32616f657c7e2652dfdbe135a495dd9a458ce855f40b00c3c2e7aa",
+  "md_bytes": 10309,
+  "links_found": 69,
+  "files_found": 0
+}

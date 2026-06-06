@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=religious%20symbol",
+  "stable_id": "nfct__en-movies-archive_keywords-religious-20symbol__d997fff7",
+  "fetched_at": "2026-05-16T17:13:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:13:31Z",
+  "duration_ms": 8632,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e999ebb82f84dc7efcbf41082b92f8d65cfa47098ac0dcb86b09cea05d0e003",
+  "md_bytes": 10716,
+  "links_found": 69,
+  "files_found": 0
+}

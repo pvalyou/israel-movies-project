@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-בחדר-שלי-איילת-אלבנדה-ערוץ-8-hot/",
+  "stable_id": "nfct__events-event------------8-hot__fb516367",
+  "fetched_at": "2026-05-10T03:32:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T03:32:59Z",
+  "duration_ms": 9596,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b700f67348bfe51f99f01800bd2a38d589d603a58a838b9ad2b425f0e080afaa",
+  "md_bytes": 9364,
+  "links_found": 21,
+  "files_found": 0
+}

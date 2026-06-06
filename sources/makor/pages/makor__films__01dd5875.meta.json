@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מלאכי/",
+  "stable_id": "makor__films__01dd5875",
+  "fetched_at": "2026-05-09T13:02:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:02:06Z",
+  "duration_ms": 13095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08417ad7456e4f584a10e31504fd8b569cffe72f4e8c5f369c050e531d08f8d3",
+  "md_bytes": 4005,
+  "links_found": 4,
+  "files_found": 0
+}

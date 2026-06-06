@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מלך-הבהמות-תומר-אלמגור-ונדב-הרא/",
+  "stable_id": "nfct__events-event__2edacd5c",
+  "fetched_at": "2026-05-10T00:40:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:40:20Z",
+  "duration_ms": 39265,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:54730fa506708fbc6f092bbf56dc43410e3c856c901e1301a4544625019afebc",
+  "md_bytes": 11085,
+  "links_found": 22,
+  "files_found": 0
+}

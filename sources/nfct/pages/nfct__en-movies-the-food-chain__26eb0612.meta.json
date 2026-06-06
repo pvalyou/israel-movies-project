@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-food-chain/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-the-food-chain__26eb0612",
+  "fetched_at": "2026-05-16T17:00:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:00:15Z",
+  "duration_ms": 7633,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b20f35b3a9fbc39c786ea58912f4c335a4dbc154e9a3f5c0d7215e755d45721",
+  "md_bytes": 11531,
+  "links_found": 34,
+  "files_found": 0
+}

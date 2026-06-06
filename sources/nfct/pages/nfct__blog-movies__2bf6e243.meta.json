@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/סרט-בורקס/",
+  "stable_id": "nfct__blog-movies__2bf6e243",
+  "fetched_at": "2026-05-09T21:17:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:17:01Z",
+  "duration_ms": 31506,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:22adbb452c505cfcdf67e1a2c27076f6cb1ab9dc36e9ddecb398e0261c8fd44b",
+  "md_bytes": 24636,
+  "links_found": 70,
+  "files_found": 0
+}

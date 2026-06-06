@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אווה/",
+  "stable_id": "nfct__blog-movies__393030f9",
+  "fetched_at": "2026-05-09T22:02:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:02:00Z",
+  "duration_ms": 27405,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8e0c650bde8f2db329f411398ea637472385569aeab9182ef7e0050133a244f1",
+  "md_bytes": 19316,
+  "links_found": 48,
+  "files_found": 0
+}

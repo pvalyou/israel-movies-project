@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=freedom+fighters",
+  "stable_id": "nfct__en-movies-archive_keywords-freedom-fighters__c69a7c2f",
+  "fetched_at": "2026-05-16T11:12:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:12:00Z",
+  "duration_ms": 7267,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8d17e21bf2967e374a3730b2ea2d0169525b7f1072155d10d745bab8533ee1fe",
+  "md_bytes": 10720,
+  "links_found": 70,
+  "files_found": 0
+}

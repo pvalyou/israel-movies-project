@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Illusions",
+  "stable_id": "nfct__en-movies-archive_keywords-Illusions__9a8362c2",
+  "fetched_at": "2026-05-16T06:00:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:00:18Z",
+  "duration_ms": 6983,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2b3808cfd20a18c74a8126f517636e9bd9fd48791f8785a027a02c65de023b7d",
+  "md_bytes": 10513,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Truck%20Drivers",
+  "stable_id": "nfct__en-movies-archive_keywords-Truck-20Drivers__98481480",
+  "fetched_at": "2026-05-16T04:16:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:16:39Z",
+  "duration_ms": 7920,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a3e79a5714750ea7e30eda26f27c72fc6508dea74ce16759e0e79eca7da28767",
+  "md_bytes": 10781,
+  "links_found": 69,
+  "files_found": 0
+}

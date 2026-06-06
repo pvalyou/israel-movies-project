@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פצצות-בדרך-לסוף-העולם/",
+  "stable_id": "nfct__blog-movies__214c47e5",
+  "fetched_at": "2026-05-09T20:59:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:59:17Z",
+  "duration_ms": 38735,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0549aeae5b0f2314b9bf4481d874b56ed9d7823c619c350afb08c7b9ba0388f0",
+  "md_bytes": 23862,
+  "links_found": 59,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Amos+Oz",
+  "stable_id": "nfct__en-movies-archive_keywords-Amos-Oz__fd15251c",
+  "fetched_at": "2026-05-16T12:33:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:33:22Z",
+  "duration_ms": 9277,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8285c830a10ee1a83a4f28e00a7974ffedb395ad98dd9461342745f2a1fc866e",
+  "md_bytes": 10256,
+  "links_found": 68,
+  "files_found": 0
+}

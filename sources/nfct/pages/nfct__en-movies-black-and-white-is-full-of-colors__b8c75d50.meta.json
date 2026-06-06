@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/black-and-white-is-full-of-colors/",
+  "stable_id": "nfct__en-movies-black-and-white-is-full-of-colors__b8c75d50",
+  "fetched_at": "2026-05-11T03:09:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T03:09:22Z",
+  "duration_ms": 32395,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:718f2b74f029130669de8a629db00a9fe2433a24c011fc0977d35465db3b79c1",
+  "md_bytes": 17859,
+  "links_found": 52,
+  "files_found": 0
+}

@@ -1,0 +1,21 @@
+{
+  "source_name": "guidestar",
+  "run_date": "2026-05-15",
+  "elapsed_min": 0.11,
+  "pages_total": 18,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 18,
+  "status_counts": {
+    "ok": 16,
+    "filtered": 0,
+    "empty_content": 2,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 44910,
+  "tokens_output": 14239,
+  "cost_usd": 0.0102,
+  "calls": 16,
+  "errors": 0,
+  "json_retries": 0
+}

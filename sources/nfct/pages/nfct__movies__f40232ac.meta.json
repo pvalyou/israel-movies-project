@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/מנחם-ופרד/",
+  "stable_id": "nfct__movies__f40232ac",
+  "fetched_at": "2026-05-16T21:00:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T21:00:30Z",
+  "duration_ms": 9236,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:183f7f9fbc1e09109b63a527da6500d9870b2f8bf374d08552e0cd4c1f0f30ff",
+  "md_bytes": 8006,
+  "links_found": 21,
+  "files_found": 0
+}

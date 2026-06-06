@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-האיש-שבקיר-יבגני-רומן-פסטיבל-הק/",
+  "stable_id": "nfct__events-event__d7b98d7e",
+  "fetched_at": "2026-05-15T09:14:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:14:57Z",
+  "duration_ms": 9760,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eaa39c5102eb0972543c9ebd36fe14dcf5a1df4ac0950f11cb04841f7c3602fd",
+  "md_bytes": 10636,
+  "links_found": 22,
+  "files_found": 0
+}

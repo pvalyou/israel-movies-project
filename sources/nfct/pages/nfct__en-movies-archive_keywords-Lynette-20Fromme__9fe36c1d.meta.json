@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lynette%20Fromme",
+  "stable_id": "nfct__en-movies-archive_keywords-Lynette-20Fromme__9fe36c1d",
+  "fetched_at": "2026-05-16T20:33:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:11Z",
+  "duration_ms": 9582,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:46addebc02d37feab2bc8b77a456cadf4efc51c0a3238eb9437c4e4c3c978e19",
+  "md_bytes": 10001,
+  "links_found": 68,
+  "files_found": 0
+}

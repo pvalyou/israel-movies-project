@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פוטונובלה/",
+  "stable_id": "nfct__blog-movies__8a0fe0df",
+  "fetched_at": "2026-05-09T17:14:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:14:09Z",
+  "duration_ms": 50078,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:16208ca7dbd861b77b4e6c00e4989613e0036d0b934e10a9a9b251e2b15c70a7",
+  "md_bytes": 19768,
+  "links_found": 46,
+  "files_found": 0
+}

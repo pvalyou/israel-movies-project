@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bauhaus",
+  "stable_id": "nfct__en-movies-archive_keywords-Bauhaus__90fdbccc",
+  "fetched_at": "2026-05-16T08:17:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:17:08Z",
+  "duration_ms": 6175,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4899473c18a2c5b3f127e544206663c5efbaa4f6a90b4c467260b86043082672",
+  "md_bytes": 11086,
+  "links_found": 70,
+  "files_found": 0
+}

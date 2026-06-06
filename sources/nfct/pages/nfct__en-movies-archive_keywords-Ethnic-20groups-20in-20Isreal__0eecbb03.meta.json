@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ethnic%20groups%20in%20Isreal",
+  "stable_id": "nfct__en-movies-archive_keywords-Ethnic-20groups-20in-20Isreal__0eecbb03",
+  "fetched_at": "2026-05-16T15:28:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:28:38Z",
+  "duration_ms": 7161,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:23c80496341b10fc2b0a393df08e6058da2114002a41d7db015c4f2a8fa2849a",
+  "md_bytes": 9827,
+  "links_found": 67,
+  "files_found": 0
+}

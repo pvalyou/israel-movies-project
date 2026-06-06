@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=clown",
+  "stable_id": "nfct__en-movies-archive_keywords-clown__6609e475",
+  "fetched_at": "2026-05-16T09:09:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:09:58Z",
+  "duration_ms": 12750,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0cc59c61c671f3bba75cd5b34a98b5d528522f27519288c3481a5377562e02f2",
+  "md_bytes": 11361,
+  "links_found": 71,
+  "files_found": 0
+}

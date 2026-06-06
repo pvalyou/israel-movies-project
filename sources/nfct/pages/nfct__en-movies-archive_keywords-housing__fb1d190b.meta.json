@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=housing",
+  "stable_id": "nfct__en-movies-archive_keywords-housing__fb1d190b",
+  "fetched_at": "2026-05-16T14:36:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:36:15Z",
+  "duration_ms": 6087,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92fc12cc53c8bb16baeae7ddd2256a5968462308dd943571c13f2ba9df3f6f5d",
+  "md_bytes": 10291,
+  "links_found": 68,
+  "files_found": 0
+}

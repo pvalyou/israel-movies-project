@@ -1,0 +1,23 @@
+{
+  "url": "https://gesherfilmfund.org.il/spiritofcinema/",
+  "stable_id": "gesher__spiritofcinema__a29cd917",
+  "fetched_at": "2026-05-08T09:17:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:17:33Z",
+  "duration_ms": 4904,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:04bbe20105f66f1dd5bfb84a6da95e94092b57ab0c3ae30a47c62253e6a01641",
+  "md_bytes": 12501,
+  "links_found": 34,
+  "files_found": 3
+}

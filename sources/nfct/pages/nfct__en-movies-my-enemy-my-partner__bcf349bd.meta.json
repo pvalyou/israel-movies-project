@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-enemy-my-partner/",
+  "stable_id": "nfct__en-movies-my-enemy-my-partner__bcf349bd",
+  "fetched_at": "2026-05-12T00:32:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:32:10Z",
+  "duration_ms": 20981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af1f00bd50e6c86ace74239a089c3f5143229deb301cdab60bc32ea7989e6ee9",
+  "md_bytes": 14906,
+  "links_found": 42,
+  "files_found": 0
+}

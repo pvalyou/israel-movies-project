@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/doc-lab-tlv-2025/",
+  "stable_id": "nfct__blog-doc-lab-tlv-2025__a3c397ca",
+  "fetched_at": "2026-05-09T15:27:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:27:08Z",
+  "duration_ms": 36483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:205dea7a4313c35f7b5bb74091174a0d0f517bd7ef35fa98fc4d12b7146e820d",
+  "md_bytes": 25224,
+  "links_found": 41,
+  "files_found": 2
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/consuming-hunger-getting-the-story/",
+  "stable_id": "nfct__en-movies-consuming-hunger-getting-the-story__f5fbb7a4",
+  "fetched_at": "2026-05-12T01:58:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:58:10Z",
+  "duration_ms": 27419,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d4462e3769a02f5b74f269e7826aff27c40123d20becf896d0cea0dbd49c8fd1",
+  "md_bytes": 13196,
+  "links_found": 38,
+  "files_found": 0
+}

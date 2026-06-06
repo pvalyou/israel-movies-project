@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האשכנזים/",
+  "stable_id": "nfct__blog-movies__b0cfb44d",
+  "fetched_at": "2026-05-09T17:12:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:12:08Z",
+  "duration_ms": 37676,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fc865494d2362eab04e690ac8da6e051abed249180408a002c0ec7628b89fdc1",
+  "md_bytes": 19825,
+  "links_found": 44,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/עור/",
+  "stable_id": "nfct__movies__3d636548",
+  "fetched_at": "2026-05-16T09:17:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:17:11Z",
+  "duration_ms": 6794,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:10d0ee61d4a23f96afbd4a3a0329ed2f8502963aca4410e78a3d49f884d924d0",
+  "md_bytes": 7902,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/התפוררות/",
+  "stable_id": "nfct__blog-movies__e839cea6",
+  "fetched_at": "2026-05-09T16:57:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:57:06Z",
+  "duration_ms": 25687,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:713317f611bd1b7665ef4077427ddd19f2e3f5b5ff2f18666a849b083243cd7d",
+  "md_bytes": 21331,
+  "links_found": 46,
+  "files_found": 0
+}

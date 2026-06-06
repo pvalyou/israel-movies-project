@@ -1,0 +1,31 @@
+{
+  "run_id": "2026-05-08T20-39-13Z",
+  "source_id": "arava_film_fund",
+  "source_name_he": "קרן קולנוע נגב/ערבה (פסטיבל ערבה)",
+  "tier": "A",
+  "started_at": "2026-05-08T20:39:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "concurrency": 5,
+  "follow_links": true,
+  "max_depth": 2,
+  "scrape_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "stats": {
+    "urls_discovered": 2,
+    "urls_attempted": 0,
+    "urls_succeeded": 0,
+    "urls_empty": 0,
+    "urls_failed": 0,
+    "cache_hits": 0,
+    "total_md_bytes": 0,
+    "files_downloaded": 0,
+    "files_failed": 0,
+    "total_file_bytes": 0,
+    "duration_seconds": 0.46
+  }
+}

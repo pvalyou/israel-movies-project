@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Levi%20Eshkol",
+  "stable_id": "nfct__en-movies-archive_keywords-Levi-20Eshkol__416a015e",
+  "fetched_at": "2026-05-16T15:51:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:51:50Z",
+  "duration_ms": 9099,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:975c65d9a050f32fe294a800a09f2b5b48f20d75472d0aba7fd292f3eaaca39e",
+  "md_bytes": 10338,
+  "links_found": 68,
+  "files_found": 0
+}

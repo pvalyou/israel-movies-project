@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Loaded+Gun",
+  "stable_id": "nfct__en-movies-archive_keywords-Loaded-Gun__18eb3756",
+  "fetched_at": "2026-05-16T13:23:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:23:00Z",
+  "duration_ms": 10281,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0613577c238f615fd68f9c05f650d6c56c4a4c321fb31956d4a18111f04a0ec7",
+  "md_bytes": 10219,
+  "links_found": 68,
+  "files_found": 0
+}

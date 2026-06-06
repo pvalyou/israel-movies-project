@@ -1,0 +1,21 @@
+{
+  "source_name": "cash_rebate",
+  "run_date": "2026-05-15",
+  "elapsed_min": 0.05,
+  "pages_total": 4,
+  "pages_already_done": 0,
+  "pages_processed_this_run": 4,
+  "status_counts": {
+    "ok": 3,
+    "filtered": 0,
+    "empty_content": 1,
+    "load_error": 0,
+    "llm_error": 0
+  },
+  "tokens_input": 4331,
+  "tokens_output": 2064,
+  "cost_usd": 0.0013,
+  "calls": 3,
+  "errors": 0,
+  "json_retries": 0
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "levialon/doc-funding GitHub repo (https://github.com/levialon/doc-funding), May 2026",
+  "_note": "Specific funded projects with grant amounts. Use to enrich film records with funding_amount_nis field.",
+  "funds_budget_nis": {
+    "national": {
+      "rabinovich_cinema": {"2023": 3900000, "2024": 3800000, "2025": 5000000},
+      "nfct": {"2023": 4050000, "2024": 3700000, "2025": 4800000},
+      "makor": {"2023": 3100000, "2024": 3500000, "2025": 4500000},
+      "gesher": {"2023": 1000000, "2024": 100000, "2025": 2500000}
+    },
+    "regional": {
+      "samaria": {"2023": 950000, "2024": 1180000, "2025": 1740000},
+      "southern": {"2023": 460000, "2024": 770000, "2025": 1110000},
+      "galilee_film_fund": {"2023": 0, "2024": 1050000, "2025": 0},
+      "galilee_project": {"2023": 570000, "2024": 150000, "2025": 1390000}
+    }
+  },
+  "approval_rates": {
+    "rabinovich_cinema": {"approved": 73, "submitted": 1248, "rate_pct": 6},
+    "nfct": {"approved": 87, "submitted": 740, "rate_pct": 12},
+    "makor": {"approved": 5, "submitted": 169, "rate_pct": 3},
+    "gesher": {"approved": 169, "submitted": 1610, "rate_pct": 10},
+    "samaria": {"approved": 29, "submitted": 107, "rate_pct": 27},
+    "galilee_project": {"approved": 51, "submitted": 160, "rate_pct": 32}
+  },
+  "funded_projects": [
+    {"title_he": "סרטי מלחמה", "fund": "nfct", "year": 2023, "amount_nis": 1850000},
+    {"title_he": "נפגעות 7 אוקטובר", "fund": "nfct", "year": 2024, "amount_nis": 1431000},
+    {"title_he": "השבעה באוקטובר", "title_alt": "גלעד טוקטלי", "director_he": "גלעד טוקטלי", "fund": "rabinovich_cinema", "year": 2024, "amount_nis": 748000},
+    {"title_he": "שמעון רוטשילד", "fund": "nfct", "year": 2024, "amount_nis": 600000},
+    {"title_he": "עדות", "fund": "nfct", "year": 2024, "amount_nis": 586000},
+    {"title_he": "יהודי האיסלם", "fund": "rabinovich_cinema", "year": 2025, "amount_nis": 500000},
+    {"title_he": "סיכוי להינצל", "director_he": "דורון צברי", "fund": "rabinovich_cinema", "year": 2024, "amount_nis": 400000},
+    {"title_he": "נולדו לחיות", "fund": "galilee_project", "year": 2025, "amount_nis": 350000},
+    {"title_he": "לפני המחנה", "fund": "samaria", "year": 2025, "amount_nis": 250000},
+    {"title_he": "שבי אחריו", "fund": "samaria", "year": 2025, "amount_nis": 250000},
+    {"title_he": "גבריאל- אהבה תחת אש", "fund": "samaria", "year": 2024, "amount_nis": 200000},
+    {"title_he": "האדם השלישי", "fund": "galilee_project", "year": 2025, "amount_nis": 200000},
+    {"title_he": "דרוש כופר", "fund": "samaria", "year": 2024, "amount_nis": 200000}
+  ],
+  "total_investment_2025_nis": 62400000,
+  "investment_by_source_2025": {
+    "kan_11": 37600000,
+    "film_funds": 21500000,
+    "cable_satellite": 3300000,
+    "second_authority": 0
+  }
+}

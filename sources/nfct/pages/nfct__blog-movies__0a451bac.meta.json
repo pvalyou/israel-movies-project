@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אם-את-שומעת-תעני/",
+  "stable_id": "nfct__blog-movies__0a451bac",
+  "fetched_at": "2026-05-09T17:41:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:41:35Z",
+  "duration_ms": 18519,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:92d80fe8538fd3e3e9188aba3a3f3038319ba4bb457d5091dbf507264bb760ba",
+  "md_bytes": 17110,
+  "links_found": 40,
+  "files_found": 0
+}

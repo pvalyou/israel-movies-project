@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/ברכות-ליוצרי-ווינטראובר/",
+  "stable_id": "makor__page__d539a52a",
+  "fetched_at": "2026-05-09T12:18:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:18:06Z",
+  "duration_ms": 8993,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21a018ad71cfbc5f38398dff23334f085f1936872c32762d3f256214f2087c23",
+  "md_bytes": 1602,
+  "links_found": 2,
+  "files_found": 0
+}

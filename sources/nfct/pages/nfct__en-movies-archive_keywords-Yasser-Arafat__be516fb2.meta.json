@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yasser+Arafat",
+  "stable_id": "nfct__en-movies-archive_keywords-Yasser-Arafat__be516fb2",
+  "fetched_at": "2026-05-16T12:21:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:25Z",
+  "duration_ms": 10223,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9d44b889e98c2df844428c0213f11e156c0c5f84492a7c4ab853e251cc6ae004",
+  "md_bytes": 10268,
+  "links_found": 68,
+  "files_found": 0
+}

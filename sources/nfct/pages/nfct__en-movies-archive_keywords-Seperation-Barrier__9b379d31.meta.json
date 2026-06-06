@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Seperation+Barrier",
+  "stable_id": "nfct__en-movies-archive_keywords-Seperation-Barrier__9b379d31",
+  "fetched_at": "2026-05-16T11:07:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:07:22Z",
+  "duration_ms": 6487,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:106a3dccebdfca2723b513dba61531ad22444972d7fb99a8a3dd64d541db4907",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

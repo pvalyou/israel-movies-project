@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mother-daughter+relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-mother-daughter-relationship__c4b05336",
+  "fetched_at": "2026-05-16T12:31:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:31:01Z",
+  "duration_ms": 7559,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2a266422f56d32a1c11e7ae5825c21d4a94ef2a28395c158cf7ff622a2f9fa0e",
+  "md_bytes": 9831,
+  "links_found": 67,
+  "files_found": 0
+}

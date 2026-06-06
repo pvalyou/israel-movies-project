@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/תסריטאות-עד-הבית/",
+  "stable_id": "nfct__blog-specials__eee90a9c",
+  "fetched_at": "2026-05-09T18:07:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:07:28Z",
+  "duration_ms": 25186,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:101cdc1713c2d77ce4be87d559bd30ff12666789d34514798b3cfaaebfd56a3e",
+  "md_bytes": 13740,
+  "links_found": 26,
+  "files_found": 0
+}

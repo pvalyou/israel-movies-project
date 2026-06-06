@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Militant",
+  "stable_id": "nfct__en-movies-archive_keywords-Militant__4dcba5c6",
+  "fetched_at": "2026-05-16T20:32:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:32:33Z",
+  "duration_ms": 9906,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b46fadf43c84d668c8131318bcbc88ebfce4e015db01028c71f81e3859d6722f",
+  "md_bytes": 10632,
+  "links_found": 69,
+  "files_found": 0
+}

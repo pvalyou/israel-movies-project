@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-ray-of-light/",
+  "stable_id": "nfct__en-movies-a-ray-of-light__058e5123",
+  "fetched_at": "2026-05-11T23:29:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T23:29:47Z",
+  "duration_ms": 43816,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:865007514629cfb57f8ba215278ac7a31961d46170dbb0e389fc771edb924b6b",
+  "md_bytes": 13224,
+  "links_found": 31,
+  "files_found": 0
+}

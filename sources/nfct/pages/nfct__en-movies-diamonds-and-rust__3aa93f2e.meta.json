@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/diamonds-and-rust/",
+  "stable_id": "nfct__en-movies-diamonds-and-rust__3aa93f2e",
+  "fetched_at": "2026-05-15T09:30:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:30:49Z",
+  "duration_ms": 14005,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e752248958741414e88d8909e5946a0d20849c506ef93485d65c90be98ca5c71",
+  "md_bytes": 13753,
+  "links_found": 31,
+  "files_found": 0
+}

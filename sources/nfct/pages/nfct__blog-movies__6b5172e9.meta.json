@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הכוכב-של-מינדי/",
+  "stable_id": "nfct__blog-movies__6b5172e9",
+  "fetched_at": "2026-05-09T20:17:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:17:09Z",
+  "duration_ms": 27354,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2760da2e2ac0ed50e287af413009865ad4726f6109b0dd432a79862b03cda928",
+  "md_bytes": 16276,
+  "links_found": 38,
+  "files_found": 0
+}

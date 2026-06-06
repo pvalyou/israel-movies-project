@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more-tax/trailers/?lang=en",
+  "stable_id": "makor__more-tax-trailers_lang-en__1f0622fd",
+  "fetched_at": "2026-05-09T12:47:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:47:20Z",
+  "duration_ms": 5051,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8904dd38f68c289200e54a7890931f59bbc806489e2fb70b45451897f3c8d8be",
+  "md_bytes": 2309,
+  "links_found": 6,
+  "files_found": 0
+}

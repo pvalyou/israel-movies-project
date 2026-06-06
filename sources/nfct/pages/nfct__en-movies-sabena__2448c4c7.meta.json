@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sabena/",
+  "stable_id": "nfct__en-movies-sabena__2448c4c7",
+  "fetched_at": "2026-05-12T04:19:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:19:57Z",
+  "duration_ms": 19224,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e91ee44ed2496ee9e8cb89a539fe9218987f3eb37e712493a3dbfba37246d6e4",
+  "md_bytes": 11521,
+  "links_found": 27,
+  "files_found": 0
+}

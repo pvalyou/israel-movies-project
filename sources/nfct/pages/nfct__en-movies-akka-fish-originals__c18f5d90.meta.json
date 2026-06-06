@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/akka-fish-originals/#UAMainContent",
+  "stable_id": "nfct__en-movies-akka-fish-originals__c18f5d90",
+  "fetched_at": "2026-05-16T13:41:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:41:48Z",
+  "duration_ms": 6436,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed2a87019eda7852b5c2fe8b400e6765e0a189d5ff4e44b6589a573cc8732111",
+  "md_bytes": 12727,
+  "links_found": 35,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/romi-and-jerusalem/",
+  "stable_id": "nfct__en-movies-romi-and-jerusalem__1e23176c",
+  "fetched_at": "2026-05-12T02:59:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:59:29Z",
+  "duration_ms": 14709,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:07075d79cd7ccadbcbcab63e7cbedd030b61110f8cc670bfb5263737eb130bd5",
+  "md_bytes": 12164,
+  "links_found": 35,
+  "files_found": 0
+}

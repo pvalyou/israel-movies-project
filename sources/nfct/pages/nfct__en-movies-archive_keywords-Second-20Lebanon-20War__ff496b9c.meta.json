@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Second%20Lebanon%20War",
+  "stable_id": "nfct__en-movies-archive_keywords-Second-20Lebanon-20War__ff496b9c",
+  "fetched_at": "2026-05-16T20:19:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:19:38Z",
+  "duration_ms": 7522,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bf5d17a32fbf5eab0ffc8a32c7c3bff605f548583fef0c98c04460145ba5d6d4",
+  "md_bytes": 10607,
+  "links_found": 69,
+  "files_found": 0
+}

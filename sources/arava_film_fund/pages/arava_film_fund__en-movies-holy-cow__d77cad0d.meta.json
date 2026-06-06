@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/holy-cow/#main",
+  "stable_id": "arava_film_fund__en-movies-holy-cow__d77cad0d",
+  "fetched_at": "2026-05-08T10:14:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:14:07Z",
+  "duration_ms": 6162,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2e3ae00152891f9ac18b758f1f0c432bddfc889891616acd214698c4e52172bb",
+  "md_bytes": 2892,
+  "links_found": 8,
+  "files_found": 0
+}

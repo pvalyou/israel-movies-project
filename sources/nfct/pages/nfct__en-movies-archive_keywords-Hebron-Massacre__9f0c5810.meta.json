@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hebron+Massacre",
+  "stable_id": "nfct__en-movies-archive_keywords-Hebron-Massacre__9f0c5810",
+  "fetched_at": "2026-05-16T17:33:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:33:12Z",
+  "duration_ms": 10371,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e79a76b9f86c7e2fbe05afebfddf113a08a38283dcb310a7417ec8c71318f7d7",
+  "md_bytes": 10319,
+  "links_found": 68,
+  "files_found": 0
+}

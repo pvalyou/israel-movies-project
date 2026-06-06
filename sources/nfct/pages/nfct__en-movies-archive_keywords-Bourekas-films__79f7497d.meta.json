@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Bourekas+films",
+  "stable_id": "nfct__en-movies-archive_keywords-Bourekas-films__79f7497d",
+  "fetched_at": "2026-05-16T12:21:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:21:13Z",
+  "duration_ms": 8825,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:04a4e1b1e54881d940c7611c687b1a79afe6fd2c5b393e5ef6f436dff775883a",
+  "md_bytes": 10270,
+  "links_found": 68,
+  "files_found": 0
+}

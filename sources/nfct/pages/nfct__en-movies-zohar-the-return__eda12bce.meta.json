@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/zohar-the-return/#UAMainContent",
+  "stable_id": "nfct__en-movies-zohar-the-return__eda12bce",
+  "fetched_at": "2026-05-16T16:28:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:28:01Z",
+  "duration_ms": 9004,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:87e3528fdc44759231020152297feb7d18e1ef1efafa4c40c93179e9a04307f0",
+  "md_bytes": 14912,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rakefet+Russak+Aminoach",
+  "stable_id": "nfct__en-movies-archive_keywords-Rakefet-Russak-Aminoach__45adba7b",
+  "fetched_at": "2026-05-16T14:41:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:41:41Z",
+  "duration_ms": 9498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:05c56fb1eb8244f5a19d8d579c9d4fd1e66d675920a82eb0d874a73334f72644",
+  "md_bytes": 9821,
+  "links_found": 67,
+  "files_found": 0
+}

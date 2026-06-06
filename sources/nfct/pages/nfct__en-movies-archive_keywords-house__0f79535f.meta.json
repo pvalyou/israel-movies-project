@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=house",
+  "stable_id": "nfct__en-movies-archive_keywords-house__0f79535f",
+  "fetched_at": "2026-05-16T10:09:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:09:36Z",
+  "duration_ms": 9868,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:60042a48ce23d00324a05e6ff61505a109b11d247726f1cd0e6f3b98b4ecae0d",
+  "md_bytes": 16751,
+  "links_found": 82,
+  "files_found": 0
+}

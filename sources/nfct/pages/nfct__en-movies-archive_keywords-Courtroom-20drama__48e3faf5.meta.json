@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Courtroom%20drama",
+  "stable_id": "nfct__en-movies-archive_keywords-Courtroom-20drama__48e3faf5",
+  "fetched_at": "2026-05-16T16:06:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:06:42Z",
+  "duration_ms": 6878,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ac63090d9fd5f4392242425df6563b027912a24f1c33864d8c7539428efc4770",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Computer%20game",
+  "stable_id": "nfct__en-movies-archive_keywords-Computer-20game__80254bb4",
+  "fetched_at": "2026-05-16T17:29:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:29:18Z",
+  "duration_ms": 7498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:06e9c6e0ff4ba4d7b13ba6d47021b7948c8ce90916fd2cc50938e4eb9d547414",
+  "md_bytes": 10661,
+  "links_found": 69,
+  "files_found": 0
+}

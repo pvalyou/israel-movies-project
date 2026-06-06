@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=The+Night+Stalker",
+  "stable_id": "nfct__en-movies-archive_keywords-The-Night-Stalker__b2d7aac8",
+  "fetched_at": "2026-05-16T20:33:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:33Z",
+  "duration_ms": 7326,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:103b1e703f7ee7f61b67f8a74fde821188be42f5578e147dc8c427ce2b530b35",
+  "md_bytes": 10005,
+  "links_found": 68,
+  "files_found": 0
+}

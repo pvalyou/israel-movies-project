@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sderot",
+  "stable_id": "nfct__en-movies-archive_keywords-Sderot__6b625c99",
+  "fetched_at": "2026-05-16T12:25:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:25:59Z",
+  "duration_ms": 10371,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:04b894c17185c704198b1746f425183eb4dcb087941ff14974be0767ddb14e2a",
+  "md_bytes": 10984,
+  "links_found": 70,
+  "files_found": 0
+}

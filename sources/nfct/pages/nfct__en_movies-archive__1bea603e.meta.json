@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Thai+workers",
+  "stable_id": "nfct__en_movies-archive__1bea603e",
+  "fetched_at": "2026-05-18T21:29:15.234461+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=Thai+workers",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "34851ad02dfda91fed3a87a91aa4a4d7e1c41e8030274c868aa22ca42d4a44f4",
+  "md_bytes": 9585,
+  "links_found": 0,
+  "error": ""
+}

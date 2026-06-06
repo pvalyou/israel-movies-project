@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/shalal-a-reel-war/",
+  "stable_id": "nfct__en-movies-shalal-a-reel-war__6767291a",
+  "fetched_at": "2026-05-11T18:18:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:18:17Z",
+  "duration_ms": 32082,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0c0b3fdae14dde4508627044343068037bb644b5b1d2ea0c92d034bbcda90b39",
+  "md_bytes": 14322,
+  "links_found": 41,
+  "files_found": 0
+}

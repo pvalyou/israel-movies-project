@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rockstar",
+  "stable_id": "nfct__en-movies-archive_keywords-Rockstar__1322301d",
+  "fetched_at": "2026-05-16T13:52:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:06Z",
+  "duration_ms": 6633,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d57bd8c2e7354f97c2c03a816f9c4509fa1a87f3095f3f897b004d18085a96e7",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

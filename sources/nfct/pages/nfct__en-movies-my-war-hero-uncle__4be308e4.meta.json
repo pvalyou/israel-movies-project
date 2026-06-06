@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-war-hero-uncle/",
+  "stable_id": "nfct__en-movies-my-war-hero-uncle__4be308e4",
+  "fetched_at": "2026-05-11T22:32:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:32:28Z",
+  "duration_ms": 17589,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:06428e10629d37202534862e2852cb9749a38311e8eff16a68bc95be4af4e297",
+  "md_bytes": 12758,
+  "links_found": 34,
+  "files_found": 0
+}

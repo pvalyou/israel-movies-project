@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ye%27arim",
+  "stable_id": "nfct__en-movies-archive_keywords-Ye-27arim__cfba8bfb",
+  "fetched_at": "2026-05-16T20:31:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:31:40Z",
+  "duration_ms": 6641,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c41d2cbba153483ebaad3dbd0dd7cf7a9891d870722aca6cfa8787d471823f99",
+  "md_bytes": 10321,
+  "links_found": 68,
+  "files_found": 0
+}

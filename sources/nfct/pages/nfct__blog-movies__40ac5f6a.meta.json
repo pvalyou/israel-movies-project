@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אוהבים-אותך-פטרישה/",
+  "stable_id": "nfct__blog-movies__40ac5f6a",
+  "fetched_at": "2026-05-09T17:37:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:37:57Z",
+  "duration_ms": 12090,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1fc6b9b48dc0b7a5c61f4c9dfa00635ed4bb0cc7f5c89cea79bc6197c0c5c524",
+  "md_bytes": 16424,
+  "links_found": 33,
+  "files_found": 0
+}

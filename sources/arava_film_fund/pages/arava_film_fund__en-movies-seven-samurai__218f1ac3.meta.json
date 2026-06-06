@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/seven-samurai/",
+  "stable_id": "arava_film_fund__en-movies-seven-samurai__218f1ac3",
+  "fetched_at": "2026-05-08T09:35:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:35:31Z",
+  "duration_ms": 9625,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2d45d079c5fc84020e9e5ad101e7e99f17af00a5dbce47f7c53afa760bffd74c",
+  "md_bytes": 3501,
+  "links_found": 9,
+  "files_found": 0
+}

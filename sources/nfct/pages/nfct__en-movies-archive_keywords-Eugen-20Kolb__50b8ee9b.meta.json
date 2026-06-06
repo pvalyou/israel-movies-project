@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Eugen%20Kolb",
+  "stable_id": "nfct__en-movies-archive_keywords-Eugen-20Kolb__50b8ee9b",
+  "fetched_at": "2026-05-16T13:33:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:33:43Z",
+  "duration_ms": 13390,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:331d01682db7fc8b33f349390ccd622e590c9d92ec4bc8e244b8f2fd529ba3b3",
+  "md_bytes": 10484,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/פסק-זמן/",
+  "stable_id": "makor__films__e32786b4",
+  "fetched_at": "2026-05-09T13:22:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:22:23Z",
+  "duration_ms": 22690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5234881a4c6ca3b63bcbb74cc31226197aa7392dc8c0a781a7014ae0a67637ab",
+  "md_bytes": 2945,
+  "links_found": 4,
+  "files_found": 0
+}

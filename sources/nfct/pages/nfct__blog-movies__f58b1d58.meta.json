@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/התחל-משחק-חדש/",
+  "stable_id": "nfct__blog-movies__f58b1d58",
+  "fetched_at": "2026-05-09T19:30:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:30:54Z",
+  "duration_ms": 8189,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:343914d7e62c0288bf5863f74d953698612c66a29c533960d11b7804ad97327d",
+  "md_bytes": 18867,
+  "links_found": 42,
+  "files_found": 0
+}

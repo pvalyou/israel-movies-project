@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Harry+Belafonte",
+  "stable_id": "nfct__en-movies-archive_keywords-Harry-Belafonte__8374788c",
+  "fetched_at": "2026-05-16T07:13:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:13:47Z",
+  "duration_ms": 6920,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d7e52da8411896677f5b0324673d3ac839fdb4dd250e6092633918793267123d",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

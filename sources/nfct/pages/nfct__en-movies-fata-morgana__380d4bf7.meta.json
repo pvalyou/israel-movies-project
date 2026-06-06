@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fata-morgana/",
+  "stable_id": "nfct__en-movies-fata-morgana__380d4bf7",
+  "fetched_at": "2026-05-11T21:12:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:12:11Z",
+  "duration_ms": 8587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:712b79eddeba19bb0eb022e0f1e834134e358768bf3c02a1a6a9962e2618976f",
+  "md_bytes": 14224,
+  "links_found": 44,
+  "files_found": 0
+}

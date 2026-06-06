@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more/מקבץ-סרטי-עלילה-1/",
+  "stable_id": "makor__more------1__ba4959c4",
+  "fetched_at": "2026-05-09T12:06:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:06:15Z",
+  "duration_ms": 4181,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5d2d2f3e6734a22ecb921f6cf724a4c353b47eab2cc8d7c625607672c789bfb",
+  "md_bytes": 5721,
+  "links_found": 20,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/between-the-sheets/",
+  "stable_id": "nfct__en-movies-between-the-sheets__5ed20f7f",
+  "fetched_at": "2026-05-15T15:19:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:19:28Z",
+  "duration_ms": 17103,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6730a3ef4fa8f2f5570295400540b03c25dbce4753b150c5812411b7737370f5",
+  "md_bytes": 12724,
+  "links_found": 39,
+  "files_found": 0
+}

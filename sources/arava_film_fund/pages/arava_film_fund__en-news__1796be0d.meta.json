@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/news/",
+  "stable_id": "arava_film_fund__en-news__1796be0d",
+  "fetched_at": "2026-05-08T09:45:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:45:45Z",
+  "duration_ms": 5503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8bae2135ccb430caa9bf2b07e21e1827c32ffb4b40cf7686de10030e6ff56ae2",
+  "md_bytes": 1865,
+  "links_found": 9,
+  "files_found": 0
+}

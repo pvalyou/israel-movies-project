@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Car+Crash",
+  "stable_id": "nfct__en-movies-archive_keywords-Car-Crash__5f2278ec",
+  "fetched_at": "2026-05-16T13:52:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:52:12Z",
+  "duration_ms": 6420,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:83fe306ec66df0368f8faaab1ac6811716c6803253218b13d445b3ece1e8c5b5",
+  "md_bytes": 11489,
+  "links_found": 70,
+  "files_found": 0
+}

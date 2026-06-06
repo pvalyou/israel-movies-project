@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הלובי/",
+  "stable_id": "nfct__blog-movies__645a8910",
+  "fetched_at": "2026-05-09T20:36:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:36:47Z",
+  "duration_ms": 22871,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:39bd93de0188350045dbde69c004dd3641af5e726e3ac19ff94b08b59267fcfb",
+  "md_bytes": 21076,
+  "links_found": 47,
+  "files_found": 0
+}

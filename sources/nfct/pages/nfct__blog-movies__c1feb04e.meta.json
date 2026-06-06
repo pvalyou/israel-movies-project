@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הימים-האחרונים-של-הקיץ/",
+  "stable_id": "nfct__blog-movies__c1feb04e",
+  "fetched_at": "2026-05-09T19:57:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:57:45Z",
+  "duration_ms": 27260,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:429e648d9600c126755fbd986f113050aae59ec574be56c51cf8e7d89e1e5ec0",
+  "md_bytes": 19302,
+  "links_found": 43,
+  "files_found": 0
+}

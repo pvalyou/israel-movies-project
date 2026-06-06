@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=slave+traders",
+  "stable_id": "nfct__en-movies-archive_keywords-slave-traders__0a2a3965",
+  "fetched_at": "2026-05-16T05:17:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:17:06Z",
+  "duration_ms": 5695,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d6c0d67e9d5c70ec92f6a6fbf2ec32322717af92be9fa655187eda2664cd8fa",
+  "md_bytes": 10005,
+  "links_found": 68,
+  "files_found": 0
+}

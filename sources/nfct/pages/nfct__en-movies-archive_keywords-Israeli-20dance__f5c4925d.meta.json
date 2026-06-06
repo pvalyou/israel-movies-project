@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Israeli%20dance",
+  "stable_id": "nfct__en-movies-archive_keywords-Israeli-20dance__f5c4925d",
+  "fetched_at": "2026-05-16T03:27:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:27:21Z",
+  "duration_ms": 7063,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8357218209ff6a466ee5a73e0b6b09fc514de350feba21ffde79fd657c761a23",
+  "md_bytes": 13001,
+  "links_found": 75,
+  "files_found": 0
+}

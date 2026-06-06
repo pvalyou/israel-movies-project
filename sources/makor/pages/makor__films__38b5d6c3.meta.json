@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/בגין/",
+  "stable_id": "makor__films__38b5d6c3",
+  "fetched_at": "2026-05-09T13:22:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:22:17Z",
+  "duration_ms": 26664,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7bbf1ebff00848a05a9a96d073ba8f06d9761251038e148736a418eff3ad8f44",
+  "md_bytes": 2327,
+  "links_found": 4,
+  "files_found": 0
+}

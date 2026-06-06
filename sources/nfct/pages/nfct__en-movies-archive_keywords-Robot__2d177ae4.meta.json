@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Robot",
+  "stable_id": "nfct__en-movies-archive_keywords-Robot__2d177ae4",
+  "fetched_at": "2026-05-16T12:27:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:27:59Z",
+  "duration_ms": 8516,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eef9e67846c0d0a97cdc001ef21f63ce5d08aca9a047f391bbc8309969528a52",
+  "md_bytes": 11518,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גולדן-מרגריט/",
+  "stable_id": "nfct__blog-movies__614c7de2",
+  "fetched_at": "2026-05-09T20:36:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:36:02Z",
+  "duration_ms": 16218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:03effbf8e6804db70b605d3b107de8a90a9c66839c01b6c19cb2c8c4034524db",
+  "md_bytes": 15250,
+  "links_found": 35,
+  "files_found": 0
+}

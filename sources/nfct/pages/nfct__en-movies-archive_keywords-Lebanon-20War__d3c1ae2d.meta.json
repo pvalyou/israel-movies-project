@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lebanon%20War",
+  "stable_id": "nfct__en-movies-archive_keywords-Lebanon-20War__d3c1ae2d",
+  "fetched_at": "2026-05-16T05:08:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:08:59Z",
+  "duration_ms": 6791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:15859f30d62e9b04359730f52da314625c5af07cceec201d9d8bbefbe7bbc534",
+  "md_bytes": 12702,
+  "links_found": 74,
+  "files_found": 0
+}

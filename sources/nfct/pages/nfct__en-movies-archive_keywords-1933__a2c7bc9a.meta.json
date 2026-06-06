@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=1933",
+  "stable_id": "nfct__en-movies-archive_keywords-1933__a2c7bc9a",
+  "fetched_at": "2026-05-16T13:32:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:32:22Z",
+  "duration_ms": 8581,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e1685ee3c66932de0a0c3c5bd406cc9192c507e23373c28129a03ca636331ec",
+  "md_bytes": 11600,
+  "links_found": 70,
+  "files_found": 0
+}

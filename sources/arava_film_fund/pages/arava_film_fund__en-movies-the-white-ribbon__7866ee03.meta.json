@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-white-ribbon/#main",
+  "stable_id": "arava_film_fund__en-movies-the-white-ribbon__7866ee03",
+  "fetched_at": "2026-05-08T10:19:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:19:08Z",
+  "duration_ms": 7898,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a293de76f2d4fdae94fc8008f2d4ae66415df4fa5e6ad3883889d4217037699",
+  "md_bytes": 3551,
+  "links_found": 9,
+  "files_found": 0
+}

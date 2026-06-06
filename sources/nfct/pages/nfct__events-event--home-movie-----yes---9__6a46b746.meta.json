@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-home-movie-ראובן-ברודסקי-yes-דוקו-9/",
+  "stable_id": "nfct__events-event--home-movie-----yes---9__6a46b746",
+  "fetched_at": "2026-05-10T05:10:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T05:10:16Z",
+  "duration_ms": 33173,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:79abf55582fb209ec2275be396903114e77595b676fa2bf40db5a5fd7953fa6d",
+  "md_bytes": 11866,
+  "links_found": 27,
+  "files_found": 0
+}

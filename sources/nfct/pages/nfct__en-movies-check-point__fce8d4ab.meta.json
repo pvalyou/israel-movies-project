@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/check-point/",
+  "stable_id": "nfct__en-movies-check-point__fce8d4ab",
+  "fetched_at": "2026-05-11T11:39:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:39:04Z",
+  "duration_ms": 35585,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ec95dd4a2d254f9c16fa3468115eecd94f08c178043976748f2e785b82e970a6",
+  "md_bytes": 11808,
+  "links_found": 33,
+  "files_found": 0
+}

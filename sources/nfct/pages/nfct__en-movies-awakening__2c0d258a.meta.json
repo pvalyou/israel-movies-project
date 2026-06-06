@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/awakening/#UArexazDFN",
+  "stable_id": "nfct__en-movies-awakening__2c0d258a",
+  "fetched_at": "2026-05-16T05:05:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:05:50Z",
+  "duration_ms": 7903,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:321d309f134e6e69856ca91caa38d5c16edc1899213f5c0d5b00ed3610602f10",
+  "md_bytes": 10841,
+  "links_found": 25,
+  "files_found": 0
+}

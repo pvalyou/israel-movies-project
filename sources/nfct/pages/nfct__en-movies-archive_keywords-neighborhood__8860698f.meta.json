@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=neighborhood",
+  "stable_id": "nfct__en-movies-archive_keywords-neighborhood__8860698f",
+  "fetched_at": "2026-05-16T07:29:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:29:22Z",
+  "duration_ms": 6509,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a5a56aad4bf6f3199b8c409638bbea30e2c246e8d90b9aa3ce72dd738e01aa2",
+  "md_bytes": 16608,
+  "links_found": 82,
+  "files_found": 0
+}

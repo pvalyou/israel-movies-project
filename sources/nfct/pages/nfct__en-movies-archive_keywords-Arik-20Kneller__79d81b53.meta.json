@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arik%20Kneller",
+  "stable_id": "nfct__en-movies-archive_keywords-Arik-20Kneller__79d81b53",
+  "fetched_at": "2026-05-16T15:23:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:23:21Z",
+  "duration_ms": 8766,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:477e84a02eab351e361ce49c95f99706c19a9c58ed6b9a8e486eb42cf27f304d",
+  "md_bytes": 10340,
+  "links_found": 68,
+  "files_found": 0
+}

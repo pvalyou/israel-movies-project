@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sabra%20and%20Shatila%20massacre",
+  "stable_id": "nfct__en-movies-archive_keywords-Sabra-20and-20Shatila-20massacre__a86404f3",
+  "fetched_at": "2026-05-16T05:09:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:09:10Z",
+  "duration_ms": 7611,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5fbd2da6b0266e83c9a4fc563c1ac6a08965b608776ea6399cff3ab9a057b22b",
+  "md_bytes": 9833,
+  "links_found": 67,
+  "files_found": 0
+}

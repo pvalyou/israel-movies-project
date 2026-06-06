@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hagai%20Levi",
+  "stable_id": "nfct__en-movies-archive_keywords-Hagai-20Levi__afca80f2",
+  "fetched_at": "2026-05-16T14:54:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:54:23Z",
+  "duration_ms": 9339,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f9e98abcd550f9a6ae265bcaeed664d62f6d474ea20afa3fa30603427de76ed",
+  "md_bytes": 10271,
+  "links_found": 68,
+  "files_found": 0
+}

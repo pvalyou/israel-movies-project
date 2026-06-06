@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=surveillance",
+  "stable_id": "nfct__en-movies-archive_keywords-surveillance__4b13ff02",
+  "fetched_at": "2026-05-16T15:04:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:04:33Z",
+  "duration_ms": 7310,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:50b145a8c2435f096d4ad07cccefe9c121433a29436dfb7a675126015ad3549f",
+  "md_bytes": 9964,
+  "links_found": 68,
+  "files_found": 0
+}

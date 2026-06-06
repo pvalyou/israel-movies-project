@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-shell/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-a-shell__72709f20",
+  "fetched_at": "2026-05-16T17:47:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:47:22Z",
+  "duration_ms": 6875,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fcbd8004e003351bb8eb5d3d07779bf1f747fc5a2444c4d0bdcaee2914b0701a",
+  "md_bytes": 12013,
+  "links_found": 30,
+  "files_found": 0
+}

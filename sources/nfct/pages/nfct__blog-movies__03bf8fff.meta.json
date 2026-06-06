@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גרגירים/",
+  "stable_id": "nfct__blog-movies__03bf8fff",
+  "fetched_at": "2026-05-09T21:41:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:41:58Z",
+  "duration_ms": 8755,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c742a576846f36fccdda2b995057bbe2cf55293d0b4e1db14c4a47f19ba596a0",
+  "md_bytes": 12910,
+  "links_found": 31,
+  "files_found": 0
+}

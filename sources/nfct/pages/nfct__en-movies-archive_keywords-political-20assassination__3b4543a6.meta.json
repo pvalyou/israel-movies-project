@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=political%20assassination",
+  "stable_id": "nfct__en-movies-archive_keywords-political-20assassination__3b4543a6",
+  "fetched_at": "2026-05-16T12:58:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:58:33Z",
+  "duration_ms": 8683,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fd59c27c0bf1b060613c10f44b81745264009c68a4ecbab2d4023eee31c7c3e0",
+  "md_bytes": 11262,
+  "links_found": 70,
+  "files_found": 0
+}

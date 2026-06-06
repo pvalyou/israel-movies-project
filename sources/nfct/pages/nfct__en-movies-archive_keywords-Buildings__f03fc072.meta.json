@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Buildings",
+  "stable_id": "nfct__en-movies-archive_keywords-Buildings__f03fc072",
+  "fetched_at": "2026-05-16T12:38:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:38:40Z",
+  "duration_ms": 10444,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:548e444a57e7a022a331b2cbecbda2c878f8f93fc68cc17b6f0dbdf710a4f335",
+  "md_bytes": 11948,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-אחד-באפריל-יונתן-דקל-פסטיבל-אוט/",
+  "stable_id": "nfct__events-event__b7997f62",
+  "fetched_at": "2026-05-10T06:41:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T06:41:28Z",
+  "duration_ms": 30448,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:32ba0a69299ca0a2ff51df715eff50582bcda17430c4b0263fbbcd25c1646a7c",
+  "md_bytes": 13034,
+  "links_found": 28,
+  "files_found": 0
+}

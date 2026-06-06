@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sour-strawberry/",
+  "stable_id": "nfct__en-movies-sour-strawberry__6d2c75bc",
+  "fetched_at": "2026-05-11T20:45:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:45:16Z",
+  "duration_ms": 8002,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fcb9fca4504aaa572d49291348184f07129bff35a236f25354247a94556cedcd",
+  "md_bytes": 12493,
+  "links_found": 34,
+  "files_found": 0
+}

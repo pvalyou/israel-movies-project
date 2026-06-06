@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/song-of-galilee/",
+  "stable_id": "nfct__en-movies-song-of-galilee__2c78dfdd",
+  "fetched_at": "2026-05-11T05:39:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T05:39:41Z",
+  "duration_ms": 34791,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2ddf641adfa24efe3c685eb1ed6df43d5db4e6cc635c4aa105e6162792909157",
+  "md_bytes": 14494,
+  "links_found": 42,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/walker/",
+  "stable_id": "nfct__en-movies-walker__552c43b7",
+  "fetched_at": "2026-05-11T12:04:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:04:25Z",
+  "duration_ms": 12097,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1934b3664f2462bb44ff7609a2043a512cff29fa283f979a6b504b368fd2f9c8",
+  "md_bytes": 12233,
+  "links_found": 36,
+  "files_found": 0
+}

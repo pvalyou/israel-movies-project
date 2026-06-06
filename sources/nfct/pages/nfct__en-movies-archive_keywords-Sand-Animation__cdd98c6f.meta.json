@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sand+Animation",
+  "stable_id": "nfct__en-movies-archive_keywords-Sand-Animation__cdd98c6f",
+  "fetched_at": "2026-05-16T15:42:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:42:52Z",
+  "duration_ms": 6365,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aa6d9d3eba005a6111c97ab131079e693e8121788f37fbed491ab15c57640597",
+  "md_bytes": 10489,
+  "links_found": 68,
+  "files_found": 0
+}

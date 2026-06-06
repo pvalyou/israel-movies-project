@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=land",
+  "stable_id": "nfct__en-movies-archive_keywords-land__26aac45a",
+  "fetched_at": "2026-05-16T11:22:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:22:00Z",
+  "duration_ms": 7110,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f10bdcf6746062a2171aa890cfe6d398b4a183c932bb23bc894ac4484d31d7f2",
+  "md_bytes": 17392,
+  "links_found": 82,
+  "files_found": 0
+}

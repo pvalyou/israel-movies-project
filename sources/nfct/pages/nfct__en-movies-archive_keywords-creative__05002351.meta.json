@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=creative",
+  "stable_id": "nfct__en-movies-archive_keywords-creative__05002351",
+  "fetched_at": "2026-05-16T17:34:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:34:12Z",
+  "duration_ms": 7939,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7ad29e29c06157c66e1ba31ec0f9c694a8d44d3ef729a4ddd4c73ff7af37d0ee",
+  "md_bytes": 13894,
+  "links_found": 76,
+  "files_found": 0
+}

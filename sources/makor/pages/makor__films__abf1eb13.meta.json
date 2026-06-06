@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/קרב-אחד-יותר-מדי/",
+  "stable_id": "makor__films__abf1eb13",
+  "fetched_at": "2026-05-09T13:08:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:08:22Z",
+  "duration_ms": 12815,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3d4a85b7e497c939d11808869dbf1e7c32607041c6fb13fb33385a6cba4fe137",
+  "md_bytes": 3204,
+  "links_found": 4,
+  "files_found": 0
+}

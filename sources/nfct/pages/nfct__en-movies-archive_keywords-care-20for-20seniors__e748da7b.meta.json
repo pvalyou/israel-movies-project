@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=care%20for%20seniors",
+  "stable_id": "nfct__en-movies-archive_keywords-care-20for-20seniors__e748da7b",
+  "fetched_at": "2026-05-16T15:09:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:09:49Z",
+  "duration_ms": 11700,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1c1366647a90d4b542eff7d14243d30ffc38bb47e049b0f9a44bd20bef09dec4",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

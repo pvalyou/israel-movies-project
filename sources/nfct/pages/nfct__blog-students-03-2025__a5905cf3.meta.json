@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/students-03-2025/",
+  "stable_id": "nfct__blog-students-03-2025__a5905cf3",
+  "fetched_at": "2026-05-09T15:27:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:27:21Z",
+  "duration_ms": 47704,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:efeac34eb55f8b24b2a05d7ac0c1d6718329abe833c0c294d0474e3f5ddfe7ff",
+  "md_bytes": 14502,
+  "links_found": 27,
+  "files_found": 1
+}

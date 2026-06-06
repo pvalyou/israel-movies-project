@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אמיל-מסעו-של-גיבור/",
+  "stable_id": "nfct__blog-movies__7c63cafa",
+  "fetched_at": "2026-05-09T19:58:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:58:23Z",
+  "duration_ms": 12523,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9f0f75891e6bc60d6e2d063161ab04787c55887482ac8bd7447b71b58e1540a1",
+  "md_bytes": 20839,
+  "links_found": 47,
+  "files_found": 0
+}

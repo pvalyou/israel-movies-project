@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/venues/%d7%a1%d7%90%d7%91%d7%9c%d7%98/",
+  "stable_id": "nfct__events-venues-d7-a1-d7-90-d7-91-d7-9c-d7-98__2ed15fc8",
+  "fetched_at": "2026-05-12T13:07:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T13:07:53Z",
+  "duration_ms": 38777,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fed8c9bfd6a7e5c9086fd6277917fba2910bfe271c01450fa3456eb2f53f6500",
+  "md_bytes": 13758,
+  "links_found": 33,
+  "files_found": 0
+}

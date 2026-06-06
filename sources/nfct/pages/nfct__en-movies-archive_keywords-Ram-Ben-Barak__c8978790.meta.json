@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ram+Ben+Barak",
+  "stable_id": "nfct__en-movies-archive_keywords-Ram-Ben-Barak__c8978790",
+  "fetched_at": "2026-05-16T16:34:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:45Z",
+  "duration_ms": 7485,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9356da85cdf3ba8a3abe97fa32a00f0289f401baf90998d855a71ff9de148ab",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

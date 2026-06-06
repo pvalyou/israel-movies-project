@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Sport",
+  "stable_id": "nfct__en-movies-archive_category-Sport__6045e978",
+  "fetched_at": "2026-05-16T04:04:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:04:30Z",
+  "duration_ms": 7103,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3cb1274edb2165031f2c4cfffee035b9f9d49571943c80823966d72ab7caaa5d",
+  "md_bytes": 16101,
+  "links_found": 82,
+  "files_found": 0
+}

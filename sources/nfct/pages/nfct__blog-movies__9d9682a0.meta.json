@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אסון-טבע/",
+  "stable_id": "nfct__blog-movies__9d9682a0",
+  "fetched_at": "2026-05-09T17:07:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:07:12Z",
+  "duration_ms": 8481,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5fac2c611a1f7bc341cfcbd23d583720ab2c560e3707cbebe6fc705cb866944a",
+  "md_bytes": 15427,
+  "links_found": 30,
+  "files_found": 0
+}

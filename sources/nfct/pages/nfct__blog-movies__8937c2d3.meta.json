@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ששון-ושמחה/",
+  "stable_id": "nfct__blog-movies__8937c2d3",
+  "fetched_at": "2026-05-09T17:19:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:19:38Z",
+  "duration_ms": 13500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:035276f47fe18f33035891cd3fb184129ff38bed5bdf4b40da133e9a906effba",
+  "md_bytes": 17738,
+  "links_found": 40,
+  "files_found": 0
+}

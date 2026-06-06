@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/להיות-כמו-אבי/",
+  "stable_id": "nfct__movies__3e20c2ad",
+  "fetched_at": "2026-05-16T17:47:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:47:52Z",
+  "duration_ms": 8863,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c3a8dde67cda890a30bff3588f70398ae7623407a103ec64010fbb0fea48e2d8",
+  "md_bytes": 8070,
+  "links_found": 21,
+  "files_found": 0
+}

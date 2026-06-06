@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/readylive/",
+  "stable_id": "nfct__en-movies-readylive__67c9d568",
+  "fetched_at": "2026-05-15T15:23:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:23:56Z",
+  "duration_ms": 6778,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:153bcf2f0b0d954b00a570c4c8e9a6c30c0b88c05432ce1e622228349fa23fac",
+  "md_bytes": 12848,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Juliano+Mer+Khamis",
+  "stable_id": "nfct__en-movies-archive_keywords-Juliano-Mer-Khamis__09e99d5b",
+  "fetched_at": "2026-05-16T15:02:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:02:20Z",
+  "duration_ms": 10831,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1af1395dcc2eac3b73c943e1e488a2b94c5f163fbac508ffe38f0519d4b46ee",
+  "md_bytes": 10043,
+  "links_found": 68,
+  "files_found": 0
+}

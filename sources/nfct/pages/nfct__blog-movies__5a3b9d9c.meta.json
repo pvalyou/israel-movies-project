@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/פינוי/",
+  "stable_id": "nfct__blog-movies__5a3b9d9c",
+  "fetched_at": "2026-05-09T21:21:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:21:07Z",
+  "duration_ms": 13084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4025130b9bbf17e40cca32a678589131a19f50d23ed004ae52302206b38d1a7d",
+  "md_bytes": 18797,
+  "links_found": 48,
+  "files_found": 0
+}

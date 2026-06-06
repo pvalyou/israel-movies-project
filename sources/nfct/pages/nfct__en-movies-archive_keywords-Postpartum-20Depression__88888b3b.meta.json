@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Postpartum%20Depression",
+  "stable_id": "nfct__en-movies-archive_keywords-Postpartum-20Depression__88888b3b",
+  "fetched_at": "2026-05-16T12:37:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:37:02Z",
+  "duration_ms": 7181,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c1843f2407899c39b0613032fe6065263b3129085def52e898f7e723e2dffe61",
+  "md_bytes": 10241,
+  "links_found": 68,
+  "files_found": 0
+}

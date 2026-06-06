@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=oriental%20music",
+  "stable_id": "nfct__en-movies-archive_keywords-oriental-20music__93ab6587",
+  "fetched_at": "2026-05-16T17:15:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:15:42Z",
+  "duration_ms": 6447,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f9d36564a51094791f8cd87947532fb792e6bcb0f2813a2cea489b5b466154e",
+  "md_bytes": 10169,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Friedl+Dricker-Brandeis",
+  "stable_id": "nfct__en-movies-archive_keywords-Friedl-Dricker-Brandeis__bdc11fad",
+  "fetched_at": "2026-05-16T08:17:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:17:54Z",
+  "duration_ms": 7469,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d8e6150b0fad298a42cee80ac092a68c14f5480aa9f35ae20d93b8bffec8669",
+  "md_bytes": 10388,
+  "links_found": 68,
+  "files_found": 0
+}

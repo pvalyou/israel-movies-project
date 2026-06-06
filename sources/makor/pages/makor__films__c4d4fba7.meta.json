@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/סינדרום-פיינגולד/",
+  "stable_id": "makor__films__c4d4fba7",
+  "fetched_at": "2026-05-09T13:05:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:05:33Z",
+  "duration_ms": 18981,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8588da58b83e414dca8032628abe43c268bd67f350b7a22693c77d1b3d56456",
+  "md_bytes": 4845,
+  "links_found": 4,
+  "files_found": 0
+}

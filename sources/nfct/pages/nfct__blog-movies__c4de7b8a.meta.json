@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בלומפילד/",
+  "stable_id": "nfct__blog-movies__c4de7b8a",
+  "fetched_at": "2026-05-09T20:12:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:12:55Z",
+  "duration_ms": 9367,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:66937e0e6bbeb5d3ba75bf0ee8041a9298196aa3520f26126b0cec837a4d9ec2",
+  "md_bytes": 18493,
+  "links_found": 38,
+  "files_found": 0
+}

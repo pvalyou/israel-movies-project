@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/האחו-הקטן/",
+  "stable_id": "nfct__blog-movies__2bb8218e",
+  "fetched_at": "2026-05-09T19:41:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:41:34Z",
+  "duration_ms": 17481,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f68b5480c44323c6928c4b6c7bb4623ee1c0ff5c96809b34a5dc5cf63f3d46d6",
+  "md_bytes": 17831,
+  "links_found": 34,
+  "files_found": 0
+}

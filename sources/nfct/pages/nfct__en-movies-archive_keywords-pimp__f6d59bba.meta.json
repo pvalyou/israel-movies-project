@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=pimp",
+  "stable_id": "nfct__en-movies-archive_keywords-pimp__f6d59bba",
+  "fetched_at": "2026-05-16T20:19:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:19:30Z",
+  "duration_ms": 8377,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:545b64ac6b8aaef6c332d39416947b8a8a7d6f869bcc2c276ed7eaf16030f9f4",
+  "md_bytes": 9970,
+  "links_found": 68,
+  "files_found": 0
+}

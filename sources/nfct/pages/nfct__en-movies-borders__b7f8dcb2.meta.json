@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/borders/#UAMainContent",
+  "stable_id": "nfct__en-movies-borders__b7f8dcb2",
+  "fetched_at": "2026-05-16T10:35:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:35:05Z",
+  "duration_ms": 6985,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9dacd109b77d7dda198fc9a69ed48e89434313eeaf70a96008ff8bfccf202ed0",
+  "md_bytes": 14358,
+  "links_found": 38,
+  "files_found": 0
+}

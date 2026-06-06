@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fox+news",
+  "stable_id": "nfct__en-movies-archive_keywords-fox-news__2306df90",
+  "fetched_at": "2026-05-16T20:16:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:16:24Z",
+  "duration_ms": 5974,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17f2f22d7c8d5d845e33eae7e85a88704f0e1b8ce58d8d4326b598380240e0ec",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

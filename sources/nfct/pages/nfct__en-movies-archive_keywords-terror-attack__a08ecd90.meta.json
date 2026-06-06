@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=terror+attack",
+  "stable_id": "nfct__en-movies-archive_keywords-terror-attack__a08ecd90",
+  "fetched_at": "2026-05-16T13:00:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:00:04Z",
+  "duration_ms": 9572,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f9e44f74326a953faedd1a3a00291bcc7024e7f0dd02e59efdf99c03ae7b27d8",
+  "md_bytes": 13474,
+  "links_found": 75,
+  "files_found": 0
+}

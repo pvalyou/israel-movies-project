@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/the-ties-that-bind-us/",
+  "stable_id": "arava_film_fund__en-movies-the-ties-that-bind-us__177d8df6",
+  "fetched_at": "2026-05-08T09:40:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:40:00Z",
+  "duration_ms": 4503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56d47442d1247d0b4819f3b89ef07173f00805f386e3762c109069272a0cc9ab",
+  "md_bytes": 3596,
+  "links_found": 9,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ahuvah+Ozeri",
+  "stable_id": "nfct__en-movies-archive_keywords-Ahuvah-Ozeri__b7a2dba4",
+  "fetched_at": "2026-05-16T15:39:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:39:28Z",
+  "duration_ms": 8533,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9915ee82202a94662796c123c5b378a91aa12c70e8d128853d95dda3e3186910",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

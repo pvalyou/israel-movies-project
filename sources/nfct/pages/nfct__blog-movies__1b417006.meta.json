@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אנחנו-תושבי-שכונת-סימנס/",
+  "stable_id": "nfct__blog-movies__1b417006",
+  "fetched_at": "2026-05-15T09:02:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:02:23Z",
+  "duration_ms": 11723,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c146b7dbe652bad2b40e3a459384a0ad9a72430017fb06a2aad8fd3ab20d67e5",
+  "md_bytes": 19337,
+  "links_found": 40,
+  "files_found": 0
+}

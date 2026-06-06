@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Women%20Empowerment",
+  "stable_id": "nfct__en-movies-archive_keywords-Women-20Empowerment__5c56b149",
+  "fetched_at": "2026-05-16T15:27:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:27:03Z",
+  "duration_ms": 6818,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5033d7fc12c1b5ce7bf42021b192cc7d7bb55174d8d1a2edae7a581a34450c34",
+  "md_bytes": 10243,
+  "links_found": 68,
+  "files_found": 0
+}

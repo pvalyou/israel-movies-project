@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cedar",
+  "stable_id": "nfct__en-movies-archive_keywords-Cedar__f682f13f",
+  "fetched_at": "2026-05-16T14:14:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:33Z",
+  "duration_ms": 6427,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cf31656680b966ed80f974b0894f0e1f97697f9352e2ab9c87b0eca4226107a5",
+  "md_bytes": 9785,
+  "links_found": 67,
+  "files_found": 0
+}

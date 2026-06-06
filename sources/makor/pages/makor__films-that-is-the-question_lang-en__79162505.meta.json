@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/that-is-the-question/?lang=en",
+  "stable_id": "makor__films-that-is-the-question_lang-en__79162505",
+  "fetched_at": "2026-05-09T13:30:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:30:27Z",
+  "duration_ms": 19450,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b786f93e89151db894b8f4731137435fd4586419fd0ec3d25eaeca193fad553",
+  "md_bytes": 1648,
+  "links_found": 4,
+  "files_found": 0
+}

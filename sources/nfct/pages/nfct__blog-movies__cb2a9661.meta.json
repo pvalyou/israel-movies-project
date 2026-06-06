@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/את-מסכימה-שאני-אצלם-אותך/",
+  "stable_id": "nfct__blog-movies__cb2a9661",
+  "fetched_at": "2026-05-15T09:01:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:21Z",
+  "duration_ms": 10109,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:66caa6e18f69fa428f1ff95148245dc14d7f459dc1f116aeab95b4e0347aa8b6",
+  "md_bytes": 18073,
+  "links_found": 38,
+  "files_found": 0
+}

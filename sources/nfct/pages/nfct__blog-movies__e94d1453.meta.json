@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/תרשום-אני-ערבי-سجل-أنا-عربي/",
+  "stable_id": "nfct__blog-movies__e94d1453",
+  "fetched_at": "2026-05-09T17:01:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:01:28Z",
+  "duration_ms": 28077,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:65bd34904afb4b9f79dc61ce720866f4052d0c64a9a5d2b96bf62ef830f9c091",
+  "md_bytes": 21592,
+  "links_found": 39,
+  "files_found": 0
+}

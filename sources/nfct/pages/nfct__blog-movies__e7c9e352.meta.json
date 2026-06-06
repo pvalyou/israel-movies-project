@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שירים-על-עצמי/",
+  "stable_id": "nfct__blog-movies__e7c9e352",
+  "fetched_at": "2026-05-09T17:58:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:58:09Z",
+  "duration_ms": 8322,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:be354de36e9955b235224ce157f9f18453d6bd782c03fe9e0ba6b3ca213b9216",
+  "md_bytes": 12369,
+  "links_found": 27,
+  "files_found": 0
+}

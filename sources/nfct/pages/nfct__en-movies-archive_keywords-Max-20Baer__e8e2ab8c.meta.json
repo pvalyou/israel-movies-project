@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Max%20Baer",
+  "stable_id": "nfct__en-movies-archive_keywords-Max-20Baer__e8e2ab8c",
+  "fetched_at": "2026-05-16T10:01:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:01:55Z",
+  "duration_ms": 8507,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba581207661bf6942df4ad2c2a15a4f15af495fb1d306dd3d7ccab2f8607e427",
+  "md_bytes": 10343,
+  "links_found": 68,
+  "files_found": 0
+}

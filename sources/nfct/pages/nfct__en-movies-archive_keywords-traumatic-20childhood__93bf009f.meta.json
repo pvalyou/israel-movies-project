@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=traumatic%20childhood",
+  "stable_id": "nfct__en-movies-archive_keywords-traumatic-20childhood__93bf009f",
+  "fetched_at": "2026-05-16T10:38:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:38:58Z",
+  "duration_ms": 9361,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:de8d728cc5543841029db56ad00c1d8eb8c78a10596d5a29d50cbd234c70bf37",
+  "md_bytes": 10170,
+  "links_found": 68,
+  "files_found": 0
+}

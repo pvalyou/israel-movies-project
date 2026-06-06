@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=workers",
+  "stable_id": "nfct__en-movies-archive_keywords-workers__b36cfc3e",
+  "fetched_at": "2026-05-16T15:55:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:55:12Z",
+  "duration_ms": 10304,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9cc8fe181a4c7ab79ddff0d361eb153958b51c007d0698802a384b23b0e9f39",
+  "md_bytes": 14868,
+  "links_found": 78,
+  "files_found": 0
+}

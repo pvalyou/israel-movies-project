@@ -1,0 +1,23 @@
+{
+  "url": "https://www.gov.il/he/pages/pr8",
+  "stable_id": "council_protocols__he-pages-pr8__c0c7d9a5",
+  "fetched_at": "2026-05-09T10:51:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T10:51:44Z",
+  "duration_ms": 85,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c29ed7261b4ad93959db2f4464ec85e1bed3af44ea85c8db37a731deb1c7e276",
+  "md_bytes": 895,
+  "links_found": 0,
+  "files_found": 0
+}

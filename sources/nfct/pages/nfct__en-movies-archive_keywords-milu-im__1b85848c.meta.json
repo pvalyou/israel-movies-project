@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=milu'im",
+  "stable_id": "nfct__en-movies-archive_keywords-milu-im__1b85848c",
+  "fetched_at": "2026-05-16T12:12:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:12:24Z",
+  "duration_ms": 8218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8b1440a2ff2619862cf9be19e1cea233ad405e03eb79881a9fd579f78b82265d",
+  "md_bytes": 9791,
+  "links_found": 67,
+  "files_found": 0
+}

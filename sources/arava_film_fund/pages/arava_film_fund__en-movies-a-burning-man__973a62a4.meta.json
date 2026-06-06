@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/a-burning-man/#main",
+  "stable_id": "arava_film_fund__en-movies-a-burning-man__973a62a4",
+  "fetched_at": "2026-05-08T10:19:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:19:00Z",
+  "duration_ms": 16430,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:155f1c5149d326db31cbf2db16d910b4169df4dc072870793c4007deac0fa016",
+  "md_bytes": 3482,
+  "links_found": 9,
+  "files_found": 0
+}

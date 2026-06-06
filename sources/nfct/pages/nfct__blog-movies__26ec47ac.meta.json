@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מים-סוערים/",
+  "stable_id": "nfct__blog-movies__26ec47ac",
+  "fetched_at": "2026-05-09T17:53:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:53:59Z",
+  "duration_ms": 20379,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6c45f5ecac9b79fd2e14adbc6a9f6a0beb4d831d7d41872a1e8350e6e30d3723",
+  "md_bytes": 21904,
+  "links_found": 47,
+  "files_found": 0
+}

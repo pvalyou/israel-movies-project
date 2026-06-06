@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Nursery",
+  "stable_id": "nfct__en-movies-archive_keywords-Nursery__432aeeac",
+  "fetched_at": "2026-05-16T20:20:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:20:35Z",
+  "duration_ms": 6069,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f0cd7487cd899ad3923b32f870594e81573e5791cb082ebb6575f47fe44cb6d1",
+  "md_bytes": 9789,
+  "links_found": 67,
+  "files_found": 0
+}

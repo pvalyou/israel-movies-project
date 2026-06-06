@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קעקועי-המחר/",
+  "stable_id": "nfct__blog-movies__4b93ae41",
+  "fetched_at": "2026-05-15T08:59:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:59:07Z",
+  "duration_ms": 7382,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e83a5770b8b704887f6dc3b79e14f5da546c54b9a94ad3eb3983d8d80fc4a5e7",
+  "md_bytes": 16190,
+  "links_found": 32,
+  "files_found": 0
+}

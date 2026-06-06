@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/kippur/",
+  "stable_id": "nfct__en-movies-kippur__29a2ec28",
+  "fetched_at": "2026-05-11T12:08:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:08:19Z",
+  "duration_ms": 19820,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc00e91a5c773622de70445400af326b3871dcb28736c0fea7cdd92c720f048b",
+  "md_bytes": 12080,
+  "links_found": 35,
+  "files_found": 0
+}

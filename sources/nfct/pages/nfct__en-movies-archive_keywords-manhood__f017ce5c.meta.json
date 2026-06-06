@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=manhood",
+  "stable_id": "nfct__en-movies-archive_keywords-manhood__f017ce5c",
+  "fetched_at": "2026-05-16T10:46:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:51Z",
+  "duration_ms": 9322,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a7b3fc56f0667ef518be11b88fad7a9d3ccb1de41546dcfb74de49a0898a5f91",
+  "md_bytes": 10821,
+  "links_found": 70,
+  "files_found": 0
+}

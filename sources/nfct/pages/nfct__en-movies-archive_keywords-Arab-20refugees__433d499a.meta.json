@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arab%20refugees",
+  "stable_id": "nfct__en-movies-archive_keywords-Arab-20refugees__433d499a",
+  "fetched_at": "2026-05-16T09:27:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:27:17Z",
+  "duration_ms": 7568,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e9c8a3a6266fe1d605654eb461af7daba5062b064974c2e1533069937560c9f0",
+  "md_bytes": 10560,
+  "links_found": 69,
+  "files_found": 0
+}

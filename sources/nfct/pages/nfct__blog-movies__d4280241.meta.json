@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הימנית-האחרונה-של-מכס-בר/",
+  "stable_id": "nfct__blog-movies__d4280241",
+  "fetched_at": "2026-05-09T17:32:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:32:55Z",
+  "duration_ms": 42959,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:564ecead0c6e5928444f0d1a93fc61ca6c9b37c585636242907f7063f63b5640",
+  "md_bytes": 21625,
+  "links_found": 42,
+  "files_found": 0
+}

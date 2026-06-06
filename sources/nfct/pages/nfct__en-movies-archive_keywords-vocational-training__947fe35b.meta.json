@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=vocational+training",
+  "stable_id": "nfct__en-movies-archive_keywords-vocational-training__947fe35b",
+  "fetched_at": "2026-05-16T16:05:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:05:30Z",
+  "duration_ms": 8193,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:033e437de35eb1309ddc4dba6125cb3947a467be76e85e51ded2e9c11173142c",
+  "md_bytes": 9986,
+  "links_found": 68,
+  "files_found": 0
+}

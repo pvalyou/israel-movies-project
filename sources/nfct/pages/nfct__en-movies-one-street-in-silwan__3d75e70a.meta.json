@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/one-street-in-silwan/",
+  "stable_id": "nfct__en-movies-one-street-in-silwan__3d75e70a",
+  "fetched_at": "2026-05-11T11:52:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:52:53Z",
+  "duration_ms": 15771,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1e90a84f0389f8097be992281a761fbfef24dfca35f974b271a785b328508452",
+  "md_bytes": 14743,
+  "links_found": 43,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/betrayed/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-betrayed__165d8c12",
+  "fetched_at": "2026-05-16T05:57:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:57:43Z",
+  "duration_ms": 10865,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f50f93c7e791fbb5410060b17b9e6f9962352b4c62a4ccb4ea7b5cbf8e150d67",
+  "md_bytes": 14945,
+  "links_found": 40,
+  "files_found": 0
+}

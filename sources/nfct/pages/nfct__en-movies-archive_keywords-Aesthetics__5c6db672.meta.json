@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Aesthetics",
+  "stable_id": "nfct__en-movies-archive_keywords-Aesthetics__5c6db672",
+  "fetched_at": "2026-05-16T16:46:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:46:48Z",
+  "duration_ms": 8741,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5f3d5a24bb8cd24eefdc02ea748e451fe6213905f4c1f1bd744e64849341199",
+  "md_bytes": 10208,
+  "links_found": 68,
+  "files_found": 0
+}

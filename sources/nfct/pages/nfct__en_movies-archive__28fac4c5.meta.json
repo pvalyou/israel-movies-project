@@ -1,0 +1,18 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=food+industry",
+  "stable_id": "nfct__en_movies-archive__28fac4c5",
+  "fetched_at": "2026-05-18T21:30:13.462340+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "follow_links": false,
+    "max_depth": 0
+  },
+  "final_url": "https://nfct.org.il/en/movies-archive?keywords=food+industry",
+  "cache_hit": false,
+  "status": "ok",
+  "md_hash": "2d1b630b92909dcdbda3f4be2a67cca4d25a46c92e992925a9d7a802f84fd396",
+  "md_bytes": 10867,
+  "links_found": 0,
+  "error": ""
+}

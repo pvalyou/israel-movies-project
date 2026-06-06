@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/טיפים-להגשה/",
+  "stable_id": "nfct__page__5598f569",
+  "fetched_at": "2026-05-09T15:23:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:23:10Z",
+  "duration_ms": 46364,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e62e648b2bd44f5639e7df04458bd8f41264cd607ec6d70fea884e8aa32c045f",
+  "md_bytes": 13395,
+  "links_found": 20,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/sleep-well/",
+  "stable_id": "nfct__en-movies-sleep-well__6f1ec340",
+  "fetched_at": "2026-05-11T17:13:09+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T17:13:09Z",
+  "duration_ms": 38124,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3a26a83e760271e7281ee7a8990e5784114088551b2ca2c1799e9f2325e0ecd6",
+  "md_bytes": 13469,
+  "links_found": 42,
+  "files_found": 0
+}

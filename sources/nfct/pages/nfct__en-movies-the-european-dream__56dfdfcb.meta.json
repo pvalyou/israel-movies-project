@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-european-dream/",
+  "stable_id": "nfct__en-movies-the-european-dream__56dfdfcb",
+  "fetched_at": "2026-05-15T15:23:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:23:15Z",
+  "duration_ms": 17088,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb163b6f033f493f0c265c479fbe84933a609a7823175e8151c625617a89d44b",
+  "md_bytes": 14379,
+  "links_found": 39,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Pastors",
+  "stable_id": "nfct__en-movies-archive_keywords-Pastors__8ebbafb0",
+  "fetched_at": "2026-05-16T15:19:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:20Z",
+  "duration_ms": 7696,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df99da3ea394324a5997a3d3b2599a68e0091fb8768a58903a2af9502e2811ba",
+  "md_bytes": 10011,
+  "links_found": 68,
+  "files_found": 0
+}

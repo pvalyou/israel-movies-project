@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/44-hours/?lang=en",
+  "stable_id": "makor__films-44-hours_lang-en__f1f8ee9f",
+  "fetched_at": "2026-05-09T13:27:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:27:21Z",
+  "duration_ms": 11992,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:45cc63ca4e4da086c025a660997817f203e8e5f3b931d586c4a241e4bc57f280",
+  "md_bytes": 2711,
+  "links_found": 4,
+  "files_found": 0
+}

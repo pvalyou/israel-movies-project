@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מלך-החגיגת/",
+  "stable_id": "nfct__blog-movies__371a6871",
+  "fetched_at": "2026-05-09T19:52:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:52:51Z",
+  "duration_ms": 57954,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba64186a824361292c5946ea002ffb77723e1a0b4e92fe1ea51bd5e2795b6ba9",
+  "md_bytes": 16686,
+  "links_found": 35,
+  "files_found": 0
+}

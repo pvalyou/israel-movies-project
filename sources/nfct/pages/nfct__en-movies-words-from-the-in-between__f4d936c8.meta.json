@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/words-from-the-in-between/",
+  "stable_id": "nfct__en-movies-words-from-the-in-between__f4d936c8",
+  "fetched_at": "2026-05-16T02:36:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T02:36:29Z",
+  "duration_ms": 8365,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:669181a2c20e4de6e19d800b4822d8e3e1a51f99f52bba19b6b0c31a0ec2d622",
+  "md_bytes": 8951,
+  "links_found": 17,
+  "files_found": 0
+}

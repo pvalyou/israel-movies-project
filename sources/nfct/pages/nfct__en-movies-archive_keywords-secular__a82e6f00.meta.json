@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=secular",
+  "stable_id": "nfct__en-movies-archive_keywords-secular__a82e6f00",
+  "fetched_at": "2026-05-16T06:14:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:14:45Z",
+  "duration_ms": 5969,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d0327bd22958bd63516c31ca91aca537ea018d8c0e7de1135cbea1d4f988b6e",
+  "md_bytes": 15547,
+  "links_found": 81,
+  "files_found": 0
+}

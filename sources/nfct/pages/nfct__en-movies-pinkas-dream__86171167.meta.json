@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/pinkas-dream/",
+  "stable_id": "nfct__en-movies-pinkas-dream__86171167",
+  "fetched_at": "2026-05-12T03:04:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:04:13Z",
+  "duration_ms": 9631,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3f72ebde3d9e8507030726585d287573e6258b85be2a38644cb603aff1f22bd",
+  "md_bytes": 12797,
+  "links_found": 32,
+  "files_found": 0
+}

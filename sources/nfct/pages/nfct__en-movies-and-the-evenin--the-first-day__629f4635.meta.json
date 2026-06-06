@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/and-the-evenin…-the-first-day/",
+  "stable_id": "nfct__en-movies-and-the-evenin--the-first-day__629f4635",
+  "fetched_at": "2026-05-12T04:48:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:48:20Z",
+  "duration_ms": 12070,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6c4ee1ad5ee62502da62e803341ab6c6914daf47c37d5c3f780bdfc3b14a4e2e",
+  "md_bytes": 6154,
+  "links_found": 17,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מוייסרים/",
+  "stable_id": "makor__films__21ebb67e",
+  "fetched_at": "2026-05-09T13:27:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:27:50Z",
+  "duration_ms": 11907,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:329c603d16964ccff32abae724038e2db7a9e9466164e8c2e472f59e86152c02",
+  "md_bytes": 2610,
+  "links_found": 4,
+  "files_found": 0
+}

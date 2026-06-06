@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Music%20Festival",
+  "stable_id": "nfct__en-movies-archive_keywords-Music-20Festival__1995cdf6",
+  "fetched_at": "2026-05-16T12:13:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:13:37Z",
+  "duration_ms": 9541,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:78fda8a08b2ea6ad2c7badcf66a7081260acd811ad11bc6277c4cd3abc242995",
+  "md_bytes": 10621,
+  "links_found": 69,
+  "files_found": 0
+}

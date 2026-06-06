@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/jacob-de-haan-a-voice-out-of-time/",
+  "stable_id": "nfct__en-movies-jacob-de-haan-a-voice-out-of-time__dc32b942",
+  "fetched_at": "2026-05-11T13:00:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:00:01Z",
+  "duration_ms": 14066,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3a04580de3eb9f7622fb7c48c82cdb624eefe863eb2be0e9b4232ff309c22f47",
+  "md_bytes": 17138,
+  "links_found": 53,
+  "files_found": 0
+}

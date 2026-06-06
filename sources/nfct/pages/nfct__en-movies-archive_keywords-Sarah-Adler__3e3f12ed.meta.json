@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Sarah+Adler",
+  "stable_id": "nfct__en-movies-archive_keywords-Sarah-Adler__3e3f12ed",
+  "fetched_at": "2026-05-16T12:18:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:18:45Z",
+  "duration_ms": 9728,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fb5abb5790d133722e29e9007445a0e9669f9c111fac8d576d5481961ac2a87f",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

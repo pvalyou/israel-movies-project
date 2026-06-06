@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Repression",
+  "stable_id": "nfct__en-movies-archive_keywords-Repression__394e711b",
+  "fetched_at": "2026-05-16T15:15:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:15:18Z",
+  "duration_ms": 7123,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c68e4586d60af9eec5e17d52cdc0bccf7e262c0996f04a3ee8429176865ee393",
+  "md_bytes": 10989,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המתנחלים-שמעון-דותן-סינמטק-שדר-4/",
+  "stable_id": "nfct__events-event------------4__2d15855e",
+  "fetched_at": "2026-05-10T10:20:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T10:20:02Z",
+  "duration_ms": 31825,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ebe1f670f410e7e0730cd8025668ad01e760504747c0c09b50a5b95799b8327e",
+  "md_bytes": 12569,
+  "links_found": 28,
+  "files_found": 0
+}

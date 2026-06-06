@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=social%20isolation",
+  "stable_id": "nfct__en-movies-archive_keywords-social-20isolation__7415a4ec",
+  "fetched_at": "2026-05-16T11:04:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:04:55Z",
+  "duration_ms": 14099,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f700702e08af627280391814c243fc76bfc86bc7b910f1a4e4215bb1926563b",
+  "md_bytes": 10002,
+  "links_found": 68,
+  "files_found": 0
+}

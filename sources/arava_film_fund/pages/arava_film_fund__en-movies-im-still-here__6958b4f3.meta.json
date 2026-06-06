@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/im-still-here/#main",
+  "stable_id": "arava_film_fund__en-movies-im-still-here__6958b4f3",
+  "fetched_at": "2026-05-08T10:16:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:16:36Z",
+  "duration_ms": 3922,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b3e482872753088401e0062a685f5432c9eaf20bcec88d52e80e67d9d1d1be4",
+  "md_bytes": 3519,
+  "links_found": 9,
+  "files_found": 0
+}

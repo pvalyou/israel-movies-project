@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Miriam%20Fux",
+  "stable_id": "nfct__en-movies-archive_keywords-Miriam-20Fux__0498c198",
+  "fetched_at": "2026-05-16T11:23:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:23:00Z",
+  "duration_ms": 7051,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2cbecda1b5284d21b2c9bdd859f2ef531455d81a9ea81a8cb6eabdf119c1962c",
+  "md_bytes": 10232,
+  "links_found": 68,
+  "files_found": 0
+}

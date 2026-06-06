@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-דימונה-טוויסט-מיכל-אביעד-סינמט-8/",
+  "stable_id": "nfct__events-event------------8__e2fdd3aa",
+  "fetched_at": "2026-05-10T10:28:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T10:28:27Z",
+  "duration_ms": 23854,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb143cb2c7888a9a60e33ca48d2b91e2a97d2651ac2beba5c864202cf05ece04",
+  "md_bytes": 10299,
+  "links_found": 22,
+  "files_found": 0
+}

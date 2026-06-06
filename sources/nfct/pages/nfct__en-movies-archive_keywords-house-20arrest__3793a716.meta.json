@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=house%20arrest",
+  "stable_id": "nfct__en-movies-archive_keywords-house-20arrest__3793a716",
+  "fetched_at": "2026-05-16T16:24:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:24:58Z",
+  "duration_ms": 9961,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9e2c544ceaf8754e5172db3b6ec6fc6e79f040296ba9a653d1fa3e6c8faee511",
+  "md_bytes": 10267,
+  "links_found": 68,
+  "files_found": 0
+}

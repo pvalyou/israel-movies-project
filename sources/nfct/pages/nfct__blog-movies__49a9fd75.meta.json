@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מה-אתה-סח/",
+  "stable_id": "nfct__blog-movies__49a9fd75",
+  "fetched_at": "2026-05-09T17:27:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:27:48Z",
+  "duration_ms": 21374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5204b744e8e505c9e5b226d88baa312d7d531402231ceb0a23b2246467529db1",
+  "md_bytes": 18848,
+  "links_found": 40,
+  "files_found": 0
+}

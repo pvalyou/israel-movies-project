@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rudolf%20Hess",
+  "stable_id": "nfct__en-movies-archive_keywords-Rudolf-20Hess__1fa4016f",
+  "fetched_at": "2026-05-16T16:55:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:55:23Z",
+  "duration_ms": 1375,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e812e3c5054c4b830bb8316f2930b91bead922c1a0827481e0074a5a865e46d5",
+  "md_bytes": 808,
+  "links_found": 0,
+  "files_found": 0
+}

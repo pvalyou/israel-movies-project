@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=settlers",
+  "stable_id": "nfct__en-movies-archive_keywords-settlers__9f1595e0",
+  "fetched_at": "2026-05-16T07:22:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:22:45Z",
+  "duration_ms": 7587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:91711323f0ef99b6f79666812264c04e8e24bc03d2b8892fc1f2e2a7e01e852e",
+  "md_bytes": 14061,
+  "links_found": 79,
+  "files_found": 0
+}

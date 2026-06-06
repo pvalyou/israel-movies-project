@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Syrian%20refugees",
+  "stable_id": "nfct__en-movies-archive_keywords-Syrian-20refugees__ee369edb",
+  "fetched_at": "2026-05-16T14:08:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:08:34Z",
+  "duration_ms": 7227,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5e9fcd37ff8a11fb964857e599590a6927e4b21617f70d04a4f1494ea25d12ad",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

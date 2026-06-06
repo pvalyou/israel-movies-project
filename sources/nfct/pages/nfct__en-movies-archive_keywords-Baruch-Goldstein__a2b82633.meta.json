@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Baruch+Goldstein",
+  "stable_id": "nfct__en-movies-archive_keywords-Baruch-Goldstein__a2b82633",
+  "fetched_at": "2026-05-16T17:33:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:33:01Z",
+  "duration_ms": 9852,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc07fa7574b3a1ea2f62006d831549ece7dbf8b4983a1d76810c078057467d29",
+  "md_bytes": 10224,
+  "links_found": 68,
+  "files_found": 0
+}

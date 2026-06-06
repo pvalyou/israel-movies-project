@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=cheer+leader",
+  "stable_id": "nfct__en-movies-archive_keywords-cheer-leader__b4e7e987",
+  "fetched_at": "2026-05-16T17:16:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:16:11Z",
+  "duration_ms": 6729,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0898a187a5117e4cfe40ce887cc3d6818913acb815df03beff7ea9d52d0924e3",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

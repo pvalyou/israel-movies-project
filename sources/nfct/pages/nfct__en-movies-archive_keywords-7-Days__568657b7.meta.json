@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=7+Days",
+  "stable_id": "nfct__en-movies-archive_keywords-7-Days__568657b7",
+  "fetched_at": "2026-05-16T14:46:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:12Z",
+  "duration_ms": 9647,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:71fdb76cad47075377e9df2e27eee162c7068cbadc58fd0d8b4658ba020ce97a",
+  "md_bytes": 14951,
+  "links_found": 79,
+  "files_found": 0
+}

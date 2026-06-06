@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Cinematic+adaptation+of+a+fairytale",
+  "stable_id": "nfct__en-movies-archive_keywords-Cinematic-adaptation-of-a-fairytale__a1e1d55b",
+  "fetched_at": "2026-05-16T13:02:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:02:33Z",
+  "duration_ms": 10566,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:985d17c42a276151f946f8f646f1c5d4e757ed7775177f8caf15dd11ff5ffee4",
+  "md_bytes": 9845,
+  "links_found": 67,
+  "files_found": 0
+}

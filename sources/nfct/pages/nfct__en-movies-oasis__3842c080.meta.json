@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/oasis/#UArexazDFN",
+  "stable_id": "nfct__en-movies-oasis__3842c080",
+  "fetched_at": "2026-05-16T12:41:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:41:50Z",
+  "duration_ms": 7876,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27ef1589dfbad2d8055997ced3a86e4750e9afc51229236f21b4d66258c7c78a",
+  "md_bytes": 11860,
+  "links_found": 35,
+  "files_found": 0
+}

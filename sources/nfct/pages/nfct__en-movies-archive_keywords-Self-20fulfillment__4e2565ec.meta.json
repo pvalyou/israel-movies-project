@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Self%20fulfillment",
+  "stable_id": "nfct__en-movies-archive_keywords-Self-20fulfillment__4e2565ec",
+  "fetched_at": "2026-05-16T15:31:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:29Z",
+  "duration_ms": 6572,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fde14635b4aedf0a68e9550cd058b403d2a1ccd9a6545ca7bbeaf4d049118393",
+  "md_bytes": 9981,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=family%20history",
+  "stable_id": "nfct__en-movies-archive_keywords-family-20history__d6232585",
+  "fetched_at": "2026-05-16T03:35:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T03:35:55Z",
+  "duration_ms": 7765,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6068bc53829a2b6b3a837e194a9d1ca346b787af8b447490b42b57729a1be8c2",
+  "md_bytes": 14127,
+  "links_found": 80,
+  "files_found": 0
+}

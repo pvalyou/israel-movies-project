@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/spotting-yossi/",
+  "stable_id": "nfct__en-movies-spotting-yossi__4d776dd1",
+  "fetched_at": "2026-05-11T21:57:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:57:43Z",
+  "duration_ms": 26677,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cc102b680e86f7d36b48564c104dfad6d90351966f91200c8d1ed30f3b3865e9",
+  "md_bytes": 14847,
+  "links_found": 44,
+  "files_found": 0
+}

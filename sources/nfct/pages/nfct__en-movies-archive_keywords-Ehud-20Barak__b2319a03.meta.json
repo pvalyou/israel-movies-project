@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ehud%20Barak",
+  "stable_id": "nfct__en-movies-archive_keywords-Ehud-20Barak__b2319a03",
+  "fetched_at": "2026-05-16T09:24:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:24:43Z",
+  "duration_ms": 6034,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:540c3f7db0d0a24c67cd5f336137290122d4f2a99dbedc2a050d990d7d33e5d4",
+  "md_bytes": 10749,
+  "links_found": 69,
+  "files_found": 0
+}

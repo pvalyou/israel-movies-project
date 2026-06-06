@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=underworld",
+  "stable_id": "nfct__en-movies-archive_keywords-underworld__ea63098a",
+  "fetched_at": "2026-05-16T10:08:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:08:38Z",
+  "duration_ms": 6307,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7547210f3d0f305604299120d56b2d474a063fcff7e37cb60034e6c6069685e2",
+  "md_bytes": 10471,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=consumption",
+  "stable_id": "nfct__en-movies-archive_keywords-consumption__e472ec57",
+  "fetched_at": "2026-05-16T11:00:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:00:24Z",
+  "duration_ms": 8320,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:af8367c374e58bddb82b27ac34ab45b23653bec88e54c50697b7fe4471e57a4f",
+  "md_bytes": 10200,
+  "links_found": 68,
+  "files_found": 0
+}

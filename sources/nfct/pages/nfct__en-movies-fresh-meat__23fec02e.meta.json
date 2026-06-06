@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/fresh-meat/",
+  "stable_id": "nfct__en-movies-fresh-meat__23fec02e",
+  "fetched_at": "2026-05-12T00:17:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T00:17:39Z",
+  "duration_ms": 19483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe2a7dbb0b5324022d0edbe7643265ad7ffac7d0572925f413b3e30752c1cf7b",
+  "md_bytes": 12041,
+  "links_found": 32,
+  "files_found": 0
+}

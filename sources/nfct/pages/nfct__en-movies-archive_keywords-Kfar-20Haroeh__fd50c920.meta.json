@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Kfar%20Haroeh",
+  "stable_id": "nfct__en-movies-archive_keywords-Kfar-20Haroeh__fd50c920",
+  "fetched_at": "2026-05-16T20:26:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:26:21Z",
+  "duration_ms": 6672,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f5d370317492975f442461e3ece1a8a7c0dab98783e3064fdf591e649ed239b",
+  "md_bytes": 10201,
+  "links_found": 68,
+  "files_found": 0
+}

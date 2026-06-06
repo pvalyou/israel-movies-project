@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/honey-trap/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-honey-trap__b558bf95",
+  "fetched_at": "2026-05-16T14:17:17+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:17:17Z",
+  "duration_ms": 9485,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:74f2da4357695b1e92897d60b0e36751bfa0b077bc87be5a82c4b36911c69016",
+  "md_bytes": 14239,
+  "links_found": 40,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ירח-מעל-הגליל/",
+  "stable_id": "nfct__blog-movies__ba3cea6f",
+  "fetched_at": "2026-05-09T17:17:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:17:13Z",
+  "duration_ms": 17531,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:62305a242ba13471fe4f699cd2eb8ba5ee8195f2c86fc40204985d0b776385a1",
+  "md_bytes": 15054,
+  "links_found": 33,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Georgia",
+  "stable_id": "nfct__en-movies-archive_keywords-Georgia__5cac82a9",
+  "fetched_at": "2026-05-16T12:19:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:19:11Z",
+  "duration_ms": 14374,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bdb9f3f61ee75f309a46af64df60cc2f1d8b2608fdb38f7c72108ac0142fcbd3",
+  "md_bytes": 12072,
+  "links_found": 73,
+  "files_found": 0
+}

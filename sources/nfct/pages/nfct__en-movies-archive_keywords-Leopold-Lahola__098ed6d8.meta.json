@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Leopold+Lahola",
+  "stable_id": "nfct__en-movies-archive_keywords-Leopold-Lahola__098ed6d8",
+  "fetched_at": "2026-05-16T10:41:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:41:05Z",
+  "duration_ms": 6974,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:51630db53a4d2a69cb306081ba45b9dae315df2f6f52f7d97e1c54fdbe6e2ed0",
+  "md_bytes": 9966,
+  "links_found": 68,
+  "files_found": 0
+}

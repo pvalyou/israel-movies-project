@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Menachem%20Begin",
+  "stable_id": "nfct__en-movies-archive_keywords-Menachem-20Begin__cf6aa2c3",
+  "fetched_at": "2026-05-16T15:44:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:44:52Z",
+  "duration_ms": 7667,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ee964ed76b1120c16f9d4d8ef75094e3d8fddab58515e0b1a9b5f370b74e181",
+  "md_bytes": 11196,
+  "links_found": 70,
+  "files_found": 0
+}

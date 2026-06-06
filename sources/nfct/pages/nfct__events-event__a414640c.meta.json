@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הסרט-אני-לא-תומר-הימן-סינמטק-חיפ/",
+  "stable_id": "nfct__events-event__a414640c",
+  "fetched_at": "2026-05-09T22:31:11+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T22:31:11Z",
+  "duration_ms": 36783,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:44cdec07f7079f7a0e1c7a453e467407833b605171b6bc7a3e29e6987184283e",
+  "md_bytes": 11565,
+  "links_found": 22,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/screams-before-silence/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-screams-before-silence__9ddf77c3",
+  "fetched_at": "2026-05-16T12:13:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:13:31Z",
+  "duration_ms": 8935,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e4f97bd61a40d463874536870752c5dab408de13e0e81a32a8d5b561eaed5b00",
+  "md_bytes": 12255,
+  "links_found": 36,
+  "files_found": 0
+}

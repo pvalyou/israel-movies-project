@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=moments%202004",
+  "stable_id": "nfct__en-movies-archive_keywords-moments-202004__594083cf",
+  "fetched_at": "2026-05-16T17:01:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:01:52Z",
+  "duration_ms": 8254,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3188bf6be4d527e4335616b77cae182dada1597803291ff1d744592f0668f142",
+  "md_bytes": 17494,
+  "links_found": 82,
+  "files_found": 0
+}

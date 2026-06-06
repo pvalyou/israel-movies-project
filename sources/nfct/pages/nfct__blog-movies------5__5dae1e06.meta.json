@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נכים-לפי-סעיף-5/",
+  "stable_id": "nfct__blog-movies------5__5dae1e06",
+  "fetched_at": "2026-05-09T20:04:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:04:03Z",
+  "duration_ms": 24407,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5a240780212e68baa42bd5477c7849feedda70bc8ea13340531c416e75561c05",
+  "md_bytes": 14153,
+  "links_found": 26,
+  "files_found": 0
+}

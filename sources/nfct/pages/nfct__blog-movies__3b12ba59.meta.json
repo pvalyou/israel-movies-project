@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נופלים/",
+  "stable_id": "nfct__blog-movies__3b12ba59",
+  "fetched_at": "2026-05-09T20:15:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:15:42Z",
+  "duration_ms": 19526,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90553c5ebe33cf5ebc52f085ab983143f1f06f02c18f8209d1bb7616167b291a",
+  "md_bytes": 18067,
+  "links_found": 42,
+  "files_found": 0
+}

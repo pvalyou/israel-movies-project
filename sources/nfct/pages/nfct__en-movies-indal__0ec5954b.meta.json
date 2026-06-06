@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/indal/#UAmlxHHRM3",
+  "stable_id": "nfct__en-movies-indal__0ec5954b",
+  "fetched_at": "2026-05-16T12:42:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:42:36Z",
+  "duration_ms": 11918,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6b3abc915cd41d365b40396cbb4ba02cc53fab1c7c9e74c761bad17e8b3274fb",
+  "md_bytes": 13646,
+  "links_found": 38,
+  "files_found": 0
+}

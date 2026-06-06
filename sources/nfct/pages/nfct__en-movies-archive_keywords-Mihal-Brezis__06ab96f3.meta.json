@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mihal+Brezis",
+  "stable_id": "nfct__en-movies-archive_keywords-Mihal-Brezis__06ab96f3",
+  "fetched_at": "2026-05-16T12:18:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:18:36Z",
+  "duration_ms": 8549,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9ea4227efb7bf9aeeabe192f61bde4749bfe402b61944a81a35f832a158b865f",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

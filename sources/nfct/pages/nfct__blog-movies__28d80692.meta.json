@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הרשה-לזה-לדמם/",
+  "stable_id": "nfct__blog-movies__28d80692",
+  "fetched_at": "2026-05-09T17:55:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:55:55Z",
+  "duration_ms": 42864,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:06547c17e47f8cd5ecb0389af98df181cb79fc4a4de56e86b50c761349a47b0d",
+  "md_bytes": 18829,
+  "links_found": 39,
+  "files_found": 0
+}

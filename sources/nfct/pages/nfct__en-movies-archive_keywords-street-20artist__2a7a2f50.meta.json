@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=street%20artist",
+  "stable_id": "nfct__en-movies-archive_keywords-street-20artist__2a7a2f50",
+  "fetched_at": "2026-05-16T16:06:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:06:29Z",
+  "duration_ms": 8611,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d1441c1202f2f7560f4da30171d6fb683f17dde6d785bbb479c4cea617f6382",
+  "md_bytes": 12719,
+  "links_found": 74,
+  "files_found": 0
+}

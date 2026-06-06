@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=State",
+  "stable_id": "nfct__en-movies-archive_keywords-State__b34e415f",
+  "fetched_at": "2026-05-16T15:42:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:42:15Z",
+  "duration_ms": 8326,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3fac49fa0193587098530113f86f110ccae8aa58c541deef62ecbb05ed403ec4",
+  "md_bytes": 16563,
+  "links_found": 82,
+  "files_found": 0
+}

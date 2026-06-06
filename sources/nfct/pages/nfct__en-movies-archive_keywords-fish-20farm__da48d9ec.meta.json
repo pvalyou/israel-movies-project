@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=fish%20farm",
+  "stable_id": "nfct__en-movies-archive_keywords-fish-20farm__da48d9ec",
+  "fetched_at": "2026-05-16T20:35:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:35:33Z",
+  "duration_ms": 6573,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fce6b49a7e3d98c5ebd58c1a1842148eb7ab25120001fff05494a6176df1b667",
+  "md_bytes": 10441,
+  "links_found": 69,
+  "files_found": 0
+}

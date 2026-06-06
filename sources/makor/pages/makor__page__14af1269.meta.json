@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/אודות/",
+  "stable_id": "makor__page__14af1269",
+  "fetched_at": "2026-05-09T11:59:33+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:59:33Z",
+  "duration_ms": 24600,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a420c68c16e8999c8824533a96d986d04397fb2fc542ae25174d3810a3b204e4",
+  "md_bytes": 12438,
+  "links_found": 1,
+  "files_found": 6
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/קודה-לקפיטן/",
+  "stable_id": "nfct__blog-movies__8834298a",
+  "fetched_at": "2026-05-09T20:56:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:56:58Z",
+  "duration_ms": 8019,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:12b81f36f61e7dd45bea2dbdd9d2d7e90537bc0f26610b27ef12fab6d8a85d54",
+  "md_bytes": 15936,
+  "links_found": 36,
+  "files_found": 0
+}

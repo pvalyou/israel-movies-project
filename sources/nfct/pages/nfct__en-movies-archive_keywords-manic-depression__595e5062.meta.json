@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=manic+depression",
+  "stable_id": "nfct__en-movies-archive_keywords-manic-depression__595e5062",
+  "fetched_at": "2026-05-16T13:32:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:32:01Z",
+  "duration_ms": 8283,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9143f204a314f659ba88760ddf0361ec081735a2ceab9b6d6bfa2c2464074a07",
+  "md_bytes": 10569,
+  "links_found": 69,
+  "files_found": 0
+}

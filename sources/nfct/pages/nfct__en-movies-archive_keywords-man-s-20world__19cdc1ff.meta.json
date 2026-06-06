@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=man's%20world",
+  "stable_id": "nfct__en-movies-archive_keywords-man-s-20world__19cdc1ff",
+  "fetched_at": "2026-05-16T12:22:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:22:52Z",
+  "duration_ms": 10910,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dd6691bd6aca9b8b7f16c36128cbc2440e8223f4fe6e008847a8b9b6086963d5",
+  "md_bytes": 11103,
+  "links_found": 70,
+  "files_found": 0
+}

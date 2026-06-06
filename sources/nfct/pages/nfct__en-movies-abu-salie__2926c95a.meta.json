@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/abu-salie/",
+  "stable_id": "nfct__en-movies-abu-salie__2926c95a",
+  "fetched_at": "2026-05-16T02:33:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T02:33:31Z",
+  "duration_ms": 6134,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a6be369f4aa701b8ecd6600e7970a118fe20c48ac8374cd5d74d4b53fd5d40bd",
+  "md_bytes": 8673,
+  "links_found": 17,
+  "files_found": 0
+}

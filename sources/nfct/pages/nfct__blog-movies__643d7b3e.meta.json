@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/גברים-בלתי-נראים/",
+  "stable_id": "nfct__blog-movies__643d7b3e",
+  "fetched_at": "2026-05-15T08:58:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T08:58:52Z",
+  "duration_ms": 13093,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6a30749b87db27bc91f84e97300043cc77e185a92a30e7c569bd7af972b17d61",
+  "md_bytes": 18465,
+  "links_found": 39,
+  "files_found": 0
+}

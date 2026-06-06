@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=American",
+  "stable_id": "nfct__en-movies-archive_keywords-American__654c75be",
+  "fetched_at": "2026-05-16T14:11:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:11:22Z",
+  "duration_ms": 8281,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:280c5d66cd1bae1dbabb5bed8e5aec956a8cb830a459c38a5bb82e6fc5a76563",
+  "md_bytes": 15525,
+  "links_found": 82,
+  "files_found": 0
+}

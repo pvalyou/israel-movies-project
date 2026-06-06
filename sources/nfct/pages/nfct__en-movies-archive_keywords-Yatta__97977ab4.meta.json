@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yatta",
+  "stable_id": "nfct__en-movies-archive_keywords-Yatta__97977ab4",
+  "fetched_at": "2026-05-16T05:53:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:53:03Z",
+  "duration_ms": 6462,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4798f6b709068fcef6a8aba5e14af1d11b5fa718737a27fbbb19088677428dae",
+  "md_bytes": 9989,
+  "links_found": 68,
+  "files_found": 0
+}

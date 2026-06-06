@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Rabbi+Shalom+Shabazy",
+  "stable_id": "nfct__en-movies-archive_keywords-Rabbi-Shalom-Shabazy__00721224",
+  "fetched_at": "2026-05-16T15:03:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:03:23Z",
+  "duration_ms": 7330,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:399f3395852b199f1dd352bddceb95a0ade4e8ba626a78e142c381cf86737bfa",
+  "md_bytes": 9815,
+  "links_found": 67,
+  "files_found": 0
+}

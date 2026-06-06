@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/silence/",
+  "stable_id": "nfct__en-movies-silence__df72cf56",
+  "fetched_at": "2026-05-12T02:18:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:18:13Z",
+  "duration_ms": 10094,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27a87a7feb93aa5698ac08c5631b5160bc08a92bc4d94a3eecb6010706c2fc23",
+  "md_bytes": 12071,
+  "links_found": 36,
+  "files_found": 0
+}

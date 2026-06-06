@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-העיר-האחרת-ליבי-קסל-פסטיבל-דוקא/",
+  "stable_id": "nfct__events-event__b9cd722b",
+  "fetched_at": "2026-05-09T23:01:52+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T23:01:52Z",
+  "duration_ms": 33380,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3405d9c390900342cbd0cc5871a784912fbe31f8115a1e6ac6e69b5934fb583b",
+  "md_bytes": 13061,
+  "links_found": 28,
+  "files_found": 0
+}

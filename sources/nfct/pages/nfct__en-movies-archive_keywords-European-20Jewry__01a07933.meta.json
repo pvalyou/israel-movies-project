@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=European%20Jewry",
+  "stable_id": "nfct__en-movies-archive_keywords-European-20Jewry__01a07933",
+  "fetched_at": "2026-05-16T13:32:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:32:27Z",
+  "duration_ms": 7650,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f248a6e2be3345e72bc13191631d9c197f90b9fea36d4fdb5f7c2aba11574f80",
+  "md_bytes": 10626,
+  "links_found": 68,
+  "files_found": 0
+}

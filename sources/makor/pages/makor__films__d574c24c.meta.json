@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/שקר-לבן/",
+  "stable_id": "makor__films__d574c24c",
+  "fetched_at": "2026-05-09T13:27:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:27:32Z",
+  "duration_ms": 5010,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:33cc74e78fb701e170ffc93bfd642b947e0bc83e0379c0afb723b57ed722074d",
+  "md_bytes": 3065,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Amnon%20Medina",
+  "stable_id": "nfct__en-movies-archive_keywords-Amnon-20Medina__8c35de05",
+  "fetched_at": "2026-05-16T15:08:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:08:39Z",
+  "duration_ms": 6801,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:facaeb0e477b3e133b9667bfcfe34641343fb203ea0139e586f777746ae67e59",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

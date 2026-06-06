@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/web-junkie/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-web-junkie__36680420",
+  "fetched_at": "2026-05-16T06:16:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:16:38Z",
+  "duration_ms": 10216,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef93335bf92883df767b4783529989c7a38de3b1521921b99857676fddb97ab3",
+  "md_bytes": 15756,
+  "links_found": 29,
+  "files_found": 0
+}

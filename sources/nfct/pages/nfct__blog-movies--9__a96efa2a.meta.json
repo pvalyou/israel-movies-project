@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/כעבור-9-שנים/",
+  "stable_id": "nfct__blog-movies--9__a96efa2a",
+  "fetched_at": "2026-05-09T17:46:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:46:44Z",
+  "duration_ms": 8587,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52aed7d795eae2a889b69db30a6a17f956a543378e8f577ca2d9c66306f954d2",
+  "md_bytes": 17443,
+  "links_found": 42,
+  "files_found": 0
+}

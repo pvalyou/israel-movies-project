@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=demonstration",
+  "stable_id": "nfct__en-movies-archive_keywords-demonstration__c4315b85",
+  "fetched_at": "2026-05-16T10:31:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:31:25Z",
+  "duration_ms": 7697,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:adb2448c54e1d2b60825cae0fddc091901979fa5eb1e0d1c251fb215602c8b68",
+  "md_bytes": 12098,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/cut/",
+  "stable_id": "nfct__en-movies-cut__c77011e7",
+  "fetched_at": "2026-05-11T00:47:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:47:13Z",
+  "duration_ms": 35351,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4d5a4835c2a85a73fc26c953b5ab74c1a595ac35bf71e30e9cc18ff62a2441c5",
+  "md_bytes": 14673,
+  "links_found": 38,
+  "files_found": 0
+}

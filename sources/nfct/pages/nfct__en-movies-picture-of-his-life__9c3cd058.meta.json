@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/picture-of-his-life/",
+  "stable_id": "nfct__en-movies-picture-of-his-life__9c3cd058",
+  "fetched_at": "2026-05-11T18:27:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:27:25Z",
+  "duration_ms": 32814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:055be80c42579628fa8514f90ac64796df7ae9cbd257eb613f0608cec77ce7af",
+  "md_bytes": 14048,
+  "links_found": 36,
+  "files_found": 0
+}

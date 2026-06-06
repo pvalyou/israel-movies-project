@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/התעוררות-2/",
+  "stable_id": "nfct__blog-movies--2__e4b6c62b",
+  "fetched_at": "2026-05-09T16:57:07+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T16:57:07Z",
+  "duration_ms": 25988,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4097c1c9b237a576525d760e2c28a009f959c1b5368057d5271dc6f06a4c8e38",
+  "md_bytes": 16048,
+  "links_found": 35,
+  "files_found": 0
+}

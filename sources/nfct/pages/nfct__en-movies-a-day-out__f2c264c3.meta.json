@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-day-out/#UArexazDFN",
+  "stable_id": "nfct__en-movies-a-day-out__f2c264c3",
+  "fetched_at": "2026-05-16T15:19:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:51Z",
+  "duration_ms": 7361,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2bc1c198ed416f82b27df63fa2cb3aedceeb33669ef9d82b9111e5c87e0c111a",
+  "md_bytes": 12185,
+  "links_found": 31,
+  "files_found": 0
+}

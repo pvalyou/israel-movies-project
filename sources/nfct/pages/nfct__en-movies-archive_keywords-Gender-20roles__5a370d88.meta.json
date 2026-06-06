@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gender%20roles",
+  "stable_id": "nfct__en-movies-archive_keywords-Gender-20roles__5a370d88",
+  "fetched_at": "2026-05-16T13:02:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:02:22Z",
+  "duration_ms": 11134,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:acead506a98e6e16a1fe6d63d2ccf316454231e55293153fa0e6d11e0019da4e",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.filmfundgalil.com/s-projects-side-by-side",
+  "stable_id": "galilee_film_fund__s-projects-side-by-side__34d89f17",
+  "fetched_at": "2026-05-09T11:09:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T11:09:30Z",
+  "duration_ms": 16383,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5279d11cc07f415fcca3ce2dc518f31a7f8b2e0247843e33f6751d3e69f3bd04",
+  "md_bytes": 6192,
+  "links_found": 0,
+  "files_found": 0
+}

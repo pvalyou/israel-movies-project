@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/facing-the-wind/",
+  "stable_id": "nfct__en-movies-facing-the-wind__0b0120f4",
+  "fetched_at": "2026-05-11T06:56:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T06:56:48Z",
+  "duration_ms": 12618,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:58da25577f57e89306c07089ddbdabc6b4ead5a55db8c356a9ed558a01944efe",
+  "md_bytes": 15981,
+  "links_found": 51,
+  "files_found": 0
+}

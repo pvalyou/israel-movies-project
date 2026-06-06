@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-quest-for-the-missing-piece/",
+  "stable_id": "nfct__en-movies-the-quest-for-the-missing-piece__7f8a6bf8",
+  "fetched_at": "2026-05-11T15:15:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:15:22Z",
+  "duration_ms": 20503,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5dd5066079f8e1d565f49a4304dbe398b977481a5d34280457c1d4778e8273b2",
+  "md_bytes": 15073,
+  "links_found": 35,
+  "files_found": 0
+}

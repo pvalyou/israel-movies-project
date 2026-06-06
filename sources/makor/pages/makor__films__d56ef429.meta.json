@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/ביערות-האלו/",
+  "stable_id": "makor__films__d56ef429",
+  "fetched_at": "2026-05-09T12:57:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:57:23Z",
+  "duration_ms": 10984,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8f3449f42009613c3d561c9e4df9da31c0a7ea00dd8b1e4c823dc4444ba601ff",
+  "md_bytes": 3583,
+  "links_found": 4,
+  "files_found": 0
+}

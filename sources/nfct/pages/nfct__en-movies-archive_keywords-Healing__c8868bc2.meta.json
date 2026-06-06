@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Healing",
+  "stable_id": "nfct__en-movies-archive_keywords-Healing__c8868bc2",
+  "fetched_at": "2026-05-16T15:31:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:44Z",
+  "duration_ms": 7720,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7f0f225b326d2233a261dbebd1f2897934987ebb76b1a5b2a1b50ddfe573fde6",
+  "md_bytes": 12528,
+  "links_found": 74,
+  "files_found": 0
+}

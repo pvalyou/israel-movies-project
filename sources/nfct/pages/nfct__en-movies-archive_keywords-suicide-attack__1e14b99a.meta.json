@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=suicide+attack",
+  "stable_id": "nfct__en-movies-archive_keywords-suicide-attack__1e14b99a",
+  "fetched_at": "2026-05-16T11:28:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:28:38Z",
+  "duration_ms": 13280,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:952ad536555140282574a9e5b02d8c411f44e68338f52b2f9910ad0b4eb63340",
+  "md_bytes": 11677,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Yemenite+Jews",
+  "stable_id": "nfct__en-movies-archive_keywords-Yemenite-Jews__c6916be4",
+  "fetched_at": "2026-05-16T16:57:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:57:21Z",
+  "duration_ms": 7624,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0e57c35f70207b25997bc7f8c0adb966c8567cf7643d4aed6b48254df2499d75",
+  "md_bytes": 9994,
+  "links_found": 68,
+  "files_found": 0
+}

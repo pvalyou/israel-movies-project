@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=stop+motion",
+  "stable_id": "nfct__en-movies-archive_keywords-stop-motion__3329d4cc",
+  "fetched_at": "2026-05-16T15:43:00+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:43:00Z",
+  "duration_ms": 7789,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5eca999436160bfc78a9f3e3daa71f04abf09a7a6df678f874d1bc13b464cc7",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

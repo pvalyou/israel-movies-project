@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Erich%20Mendelsohn",
+  "stable_id": "nfct__en-movies-archive_keywords-Erich-20Mendelsohn__eeee0d1f",
+  "fetched_at": "2026-05-16T08:54:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:54:43Z",
+  "duration_ms": 7397,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:12f029649410cac4cb18acd0f01d6637509a0eb57a5418ab68f3178b7dae22ee",
+  "md_bytes": 10024,
+  "links_found": 68,
+  "files_found": 0
+}

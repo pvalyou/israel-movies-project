@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinian+population",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinian-population__84db1879",
+  "fetched_at": "2026-05-16T10:17:08+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:17:08Z",
+  "duration_ms": 9116,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:76af40f7cdb3a65d3abb14c5a4591dee8f4059aea7230be70f1566ea3fb5f12a",
+  "md_bytes": 10968,
+  "links_found": 70,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Jack%20Kelly",
+  "stable_id": "nfct__en-movies-archive_keywords-Jack-20Kelly__1ddd23be",
+  "fetched_at": "2026-05-16T14:14:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:45Z",
+  "duration_ms": 6403,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fbd62075566e75bb8ac16660d6be5c1f7d57e594cf19574c00e1649f95b2edb9",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

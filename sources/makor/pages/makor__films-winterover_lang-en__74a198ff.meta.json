@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/winterover/?lang=en",
+  "stable_id": "makor__films-winterover_lang-en__74a198ff",
+  "fetched_at": "2026-05-09T12:49:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:49:49Z",
+  "duration_ms": 10164,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f8a39ca61b992d2028de1c21c1e4330a4f89beba7556bcccd090d8bc0f2c9896",
+  "md_bytes": 2832,
+  "links_found": 4,
+  "files_found": 0
+}

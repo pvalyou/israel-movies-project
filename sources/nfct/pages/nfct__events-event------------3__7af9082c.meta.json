@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-המוזיאון-רן-טל-סינמטק-ירושלים-3/",
+  "stable_id": "nfct__events-event------------3__7af9082c",
+  "fetched_at": "2026-05-10T02:41:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T02:41:30Z",
+  "duration_ms": 28858,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e5e2d813075e8c8c4cbffdaa5093ff5acea0226aa0269c8a324476f0f6658e44",
+  "md_bytes": 9864,
+  "links_found": 22,
+  "files_found": 0
+}

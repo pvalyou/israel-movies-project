@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Independence+War",
+  "stable_id": "nfct__en-movies-archive_keywords-Independence-War__46a25560",
+  "fetched_at": "2026-05-16T10:09:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:09:50Z",
+  "duration_ms": 11788,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2b47f38d133d44f85149d70ccce72d6a3e8e090b1646437c0a6cfd88fbc1e24",
+  "md_bytes": 12459,
+  "links_found": 74,
+  "files_found": 0
+}

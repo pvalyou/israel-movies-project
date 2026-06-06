@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/oasis/?lang=en",
+  "stable_id": "makor__films-oasis_lang-en__0f6111f1",
+  "fetched_at": "2026-05-09T13:01:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:01:31Z",
+  "duration_ms": 12814,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:89d5ad1801ef449a3ba0b3252e1d1ed7278fed310ed7f7e893288a5e5e42fdaf",
+  "md_bytes": 2049,
+  "links_found": 4,
+  "files_found": 0
+}

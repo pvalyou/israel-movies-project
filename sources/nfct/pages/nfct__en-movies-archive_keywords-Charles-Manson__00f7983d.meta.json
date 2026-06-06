@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Charles+Manson",
+  "stable_id": "nfct__en-movies-archive_keywords-Charles-Manson__00f7983d",
+  "fetched_at": "2026-05-16T20:33:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:33:21Z",
+  "duration_ms": 8930,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e0d6e2d60c0086c687a8f6379f900d125f4cf37af68b6ad0c9912eb03a5755ec",
+  "md_bytes": 9999,
+  "links_found": 68,
+  "files_found": 0
+}

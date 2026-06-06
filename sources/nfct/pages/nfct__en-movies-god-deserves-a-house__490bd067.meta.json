@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/god-deserves-a-house/",
+  "stable_id": "nfct__en-movies-god-deserves-a-house__490bd067",
+  "fetched_at": "2026-05-11T22:36:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T22:36:25Z",
+  "duration_ms": 14960,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:508457bdddbf3a2d244e19e6dbcd838e5215cb7bf9dc5c025714b2fcd2edacbc",
+  "md_bytes": 13284,
+  "links_found": 40,
+  "files_found": 0
+}

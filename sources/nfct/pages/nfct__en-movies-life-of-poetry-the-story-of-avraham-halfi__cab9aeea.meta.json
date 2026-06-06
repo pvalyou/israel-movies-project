@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/life-of-poetry-the-story-of-avraham-halfi/",
+  "stable_id": "nfct__en-movies-life-of-poetry-the-story-of-avraham-halfi__cab9aeea",
+  "fetched_at": "2026-05-12T04:11:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:11:38Z",
+  "duration_ms": 14378,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a155210fa0489de38e6639ee616ee5a77ddf1e1eabed24a466fa007415af87a5",
+  "md_bytes": 12529,
+  "links_found": 31,
+  "files_found": 0
+}

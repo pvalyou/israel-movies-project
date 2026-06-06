@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-בורג-שירה-גפן-בפסטיבל-הקולנוע-ב/",
+  "stable_id": "nfct__events-event__c7e12a92",
+  "fetched_at": "2026-05-15T09:00:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:00:45Z",
+  "duration_ms": 11499,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c3f3c62803785716ccae497bb40280bf5c4835676998e181730583e561b05bea",
+  "md_bytes": 11701,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/יידשע-מאמא/",
+  "stable_id": "nfct__blog-movies__a8f31496",
+  "fetched_at": "2026-05-09T21:37:21+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:37:21Z",
+  "duration_ms": 66288,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe07ac2f12e34e7198b11e847181fb9627fc4c20e6adfc3679608eb28e07c418",
+  "md_bytes": 18870,
+  "links_found": 48,
+  "files_found": 0
+}

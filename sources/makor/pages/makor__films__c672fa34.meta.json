@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/המניע/",
+  "stable_id": "makor__films__c672fa34",
+  "fetched_at": "2026-05-09T12:55:56+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:55:56Z",
+  "duration_ms": 7463,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1be3c0d6bc1315a4b80b4d515f8421b1e01daf236b2103998357e68d4950623e",
+  "md_bytes": 4400,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Orthodox",
+  "stable_id": "nfct__en-movies-archive_keywords-Orthodox__0ca8969c",
+  "fetched_at": "2026-05-16T13:54:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:54:45Z",
+  "duration_ms": 9956,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:62ad0432ac6dd68443bcfd55f9d30618ecbdb6f95090ac299e21d6185d448628",
+  "md_bytes": 16207,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Galilee+Bedouin",
+  "stable_id": "nfct__en-movies-archive_keywords-Galilee-Bedouin__f194b7d3",
+  "fetched_at": "2026-05-16T11:10:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:10:38Z",
+  "duration_ms": 7119,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e39d8d8184238d3123cec8ce681ec6f7e6fc3ff83e9e9ee4cbc5d859ba44af95",
+  "md_bytes": 10004,
+  "links_found": 68,
+  "files_found": 0
+}

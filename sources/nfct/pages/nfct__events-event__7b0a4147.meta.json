@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-פרה-אדומה-ציביה-ברקאי-יעקב-בית-ג/",
+  "stable_id": "nfct__events-event__7b0a4147",
+  "fetched_at": "2026-05-10T01:11:30+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T01:11:30Z",
+  "duration_ms": 20321,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:37d6e474c77fc4322ad43495e2f6ee9e4975bad8cb6baf53ea8121dc907b9ad7",
+  "md_bytes": 11286,
+  "links_found": 22,
+  "files_found": 0
+}

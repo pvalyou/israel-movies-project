@@ -1,0 +1,23 @@
+{
+  "url": "https://gesherfilmfund.org.il/documents/קרדיטים",
+  "stable_id": "gesher__documents__f733e039",
+  "fetched_at": "2026-05-08T09:23:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T09:23:47Z",
+  "duration_ms": 1440,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:93c3c8e0c930b34841cd6affeb0a06e7a335abea25601e07460c8463fe1a89c0",
+  "md_bytes": 474,
+  "links_found": 0,
+  "files_found": 0
+}

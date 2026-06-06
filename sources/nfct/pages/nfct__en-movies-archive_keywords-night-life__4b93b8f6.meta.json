@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=night+life",
+  "stable_id": "nfct__en-movies-archive_keywords-night-life__4b93b8f6",
+  "fetched_at": "2026-05-16T14:56:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:56:34Z",
+  "duration_ms": 8979,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:47fc58a6bae6384c29064c5507730851a2a2005ff8bc6a21b8c16812f9d04294",
+  "md_bytes": 17447,
+  "links_found": 82,
+  "files_found": 0
+}

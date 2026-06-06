@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mental%20retardation",
+  "stable_id": "nfct__en-movies-archive_keywords-Mental-20retardation__e8483e7f",
+  "fetched_at": "2026-05-16T17:31:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:31:26Z",
+  "duration_ms": 9054,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:748fbbe1456bc3e28ff9ab0e6a73b45b5048eded7de5a0f1342ac41fd281af7e",
+  "md_bytes": 9889,
+  "links_found": 67,
+  "files_found": 0
+}

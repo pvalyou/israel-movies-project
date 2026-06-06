@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/last-respect/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-last-respect__9b96416e",
+  "fetched_at": "2026-05-16T16:43:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:43:06Z",
+  "duration_ms": 11614,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ae978abff0cf4ba7562fea5fe5253aebf5aa8ab04a5829db4cd78aa7cd2c0d4",
+  "md_bytes": 12705,
+  "links_found": 38,
+  "files_found": 0
+}

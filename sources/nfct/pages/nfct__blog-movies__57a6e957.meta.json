@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שיחות-עם-החברים-המתים-שלי/",
+  "stable_id": "nfct__blog-movies__57a6e957",
+  "fetched_at": "2026-05-09T19:09:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:09:57Z",
+  "duration_ms": 21415,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:712680b889f15bda9aa93650e1f828c55baa85730902c98a05b9c9bfa99ec3d9",
+  "md_bytes": 16344,
+  "links_found": 28,
+  "files_found": 0
+}

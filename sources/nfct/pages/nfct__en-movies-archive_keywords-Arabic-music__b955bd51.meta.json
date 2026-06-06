@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Arabic+music",
+  "stable_id": "nfct__en-movies-archive_keywords-Arabic-music__b955bd51",
+  "fetched_at": "2026-05-16T17:51:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:51:23Z",
+  "duration_ms": 6027,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:89c5a617191c14032445d6f313b33abca1fb8197bb449323699933d41123c9e7",
+  "md_bytes": 10815,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/paradise-lost/",
+  "stable_id": "nfct__en-movies-paradise-lost__cabaf335",
+  "fetched_at": "2026-05-11T00:53:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:53:03Z",
+  "duration_ms": 40238,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3af528d4cea5d06a57c6b28e09e3087e51a4b95ce370718d5bb2edec92620c70",
+  "md_bytes": 14470,
+  "links_found": 34,
+  "files_found": 0
+}

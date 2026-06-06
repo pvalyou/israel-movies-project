@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=armed+robbery",
+  "stable_id": "nfct__en-movies-archive_keywords-armed-robbery__632bb14f",
+  "fetched_at": "2026-05-16T11:29:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:29:39Z",
+  "duration_ms": 8469,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:16d1b7354e9275fe9d919b2c18371fd742d7a74842ef3e84ddba2d4af104ef2c",
+  "md_bytes": 10260,
+  "links_found": 68,
+  "files_found": 0
+}

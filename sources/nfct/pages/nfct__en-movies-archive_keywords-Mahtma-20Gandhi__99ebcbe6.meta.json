@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Mahtma%20Gandhi",
+  "stable_id": "nfct__en-movies-archive_keywords-Mahtma-20Gandhi__99ebcbe6",
+  "fetched_at": "2026-05-16T17:12:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:12:15Z",
+  "duration_ms": 7095,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f015e82f66d7aedef81875717717e390c5506914622b69e8d966faa5c7f6c3d5",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

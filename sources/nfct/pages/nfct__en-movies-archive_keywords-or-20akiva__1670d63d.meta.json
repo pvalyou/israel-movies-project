@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=or%20akiva",
+  "stable_id": "nfct__en-movies-archive_keywords-or-20akiva__1670d63d",
+  "fetched_at": "2026-05-16T16:11:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:11:44Z",
+  "duration_ms": 7735,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:cfe86f0484cb124ccb067cd567dcedaca8ce3467e6f19a06bd381e6c132232a8",
+  "md_bytes": 10196,
+  "links_found": 68,
+  "files_found": 0
+}

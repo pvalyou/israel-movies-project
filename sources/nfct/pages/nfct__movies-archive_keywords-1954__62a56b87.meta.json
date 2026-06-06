@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies-archive?keywords=1954",
+  "stable_id": "nfct__movies-archive_keywords-1954__62a56b87",
+  "fetched_at": "2026-05-15T09:28:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:28:10Z",
+  "duration_ms": 7900,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1d7c0050b9ce09bfd4f7d9f192c5acfde04d3757b06e75d68d1cb1c9ccd191e5",
+  "md_bytes": 14080,
+  "links_found": 91,
+  "files_found": 0
+}

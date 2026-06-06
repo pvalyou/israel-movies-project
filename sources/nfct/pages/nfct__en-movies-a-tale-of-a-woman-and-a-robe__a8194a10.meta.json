@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/a-tale-of-a-woman-and-a-robe/",
+  "stable_id": "nfct__en-movies-a-tale-of-a-woman-and-a-robe__a8194a10",
+  "fetched_at": "2026-05-12T01:51:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:51:19Z",
+  "duration_ms": 31130,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6cc49d460609e9173015f95e2c653209674fe3fa28854b9369d02cfa6775c4a2",
+  "md_bytes": 13992,
+  "links_found": 34,
+  "files_found": 0
+}

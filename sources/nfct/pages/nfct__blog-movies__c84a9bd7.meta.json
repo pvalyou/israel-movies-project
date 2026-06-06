@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הפסקת-קפה/",
+  "stable_id": "nfct__blog-movies__c84a9bd7",
+  "fetched_at": "2026-05-09T19:23:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:23:50Z",
+  "duration_ms": 8600,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:53e399179aba60db8cf6da75cf6af755bb4cc93d2b9fe7fb4eb92654fd8e14cc",
+  "md_bytes": 16091,
+  "links_found": 37,
+  "files_found": 0
+}

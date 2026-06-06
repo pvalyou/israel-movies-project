@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?category=Old+Age",
+  "stable_id": "nfct__en-movies-archive_category-Old-Age__ae6f279c",
+  "fetched_at": "2026-05-16T04:37:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:37:35Z",
+  "duration_ms": 9190,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d59fb7708aa66d7ea977c7e38c809581efb8bcf2f30392a954c68d2e24e516b7",
+  "md_bytes": 16841,
+  "links_found": 82,
+  "files_found": 0
+}

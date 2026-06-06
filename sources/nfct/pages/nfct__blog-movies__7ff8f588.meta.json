@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/ערוצים-של-זעם/",
+  "stable_id": "nfct__blog-movies__7ff8f588",
+  "fetched_at": "2026-05-09T17:09:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:09:04Z",
+  "duration_ms": 49830,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:127909d89d5db986455e304cbb309200141dcf57abe8982b2250e80953944114",
+  "md_bytes": 22613,
+  "links_found": 52,
+  "files_found": 0
+}

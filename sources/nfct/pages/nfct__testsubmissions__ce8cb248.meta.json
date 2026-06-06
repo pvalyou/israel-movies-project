@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/testsubmissions/#UAmlxHHRM1",
+  "stable_id": "nfct__testsubmissions__ce8cb248",
+  "fetched_at": "2026-05-10T15:37:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T15:37:51Z",
+  "duration_ms": 37272,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb364236b51a2a166eef36eb299490db6f2ce5871c7ff7b015f411b47285eaf7",
+  "md_bytes": 9605,
+  "links_found": 26,
+  "files_found": 0
+}

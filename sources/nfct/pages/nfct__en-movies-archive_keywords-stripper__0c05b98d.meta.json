@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=stripper",
+  "stable_id": "nfct__en-movies-archive_keywords-stripper__0c05b98d",
+  "fetched_at": "2026-05-16T09:18:06+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:18:06Z",
+  "duration_ms": 22243,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:591b1fdc7819b4469ecf04afb57bd4111979b33554d0e8318b50d09634da926f",
+  "md_bytes": 10546,
+  "links_found": 69,
+  "files_found": 0
+}

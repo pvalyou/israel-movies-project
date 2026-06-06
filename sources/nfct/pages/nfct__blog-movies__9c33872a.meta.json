@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/רעש-לוואי/",
+  "stable_id": "nfct__blog-movies__9c33872a",
+  "fetched_at": "2026-05-09T20:54:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:54:24Z",
+  "duration_ms": 25488,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae2a7f1b609c1aa725a9314c2a9c30d56316f4e170085e81199119c4644b543c",
+  "md_bytes": 21172,
+  "links_found": 51,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Security%20Incidents",
+  "stable_id": "nfct__en-movies-archive_keywords-Security-20Incidents__c1f1c5a1",
+  "fetched_at": "2026-05-16T12:19:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:19:57Z",
+  "duration_ms": 9818,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f38f1a09616b2f103013fed281b30a11b68d70a6eb944126588a4e9fe6c4b5f",
+  "md_bytes": 10257,
+  "links_found": 68,
+  "files_found": 0
+}

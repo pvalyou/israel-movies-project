@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הדברים-שאנחנו-עושים-בשביל-אהבה-ואזרחו/",
+  "stable_id": "nfct__blog-movies__f3824428",
+  "fetched_at": "2026-05-09T19:24:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:24:42Z",
+  "duration_ms": 8416,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bd46ad9545f50824ff24ece79e8fa1660b63fe51c78f9a0b63606fcbc07ccd00",
+  "md_bytes": 12100,
+  "links_found": 20,
+  "files_found": 0
+}

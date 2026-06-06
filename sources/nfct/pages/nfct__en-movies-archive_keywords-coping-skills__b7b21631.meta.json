@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=coping+skills",
+  "stable_id": "nfct__en-movies-archive_keywords-coping-skills__b7b21631",
+  "fetched_at": "2026-05-16T08:58:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:58:42Z",
+  "duration_ms": 10065,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b10fd9669ac4373423bcdd3c772d0a87ee4879a5d9b588ce5e2e55defba8c361",
+  "md_bytes": 9801,
+  "links_found": 67,
+  "files_found": 0
+}

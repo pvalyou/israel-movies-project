@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/her-face/",
+  "stable_id": "nfct__en-movies-her-face__297a588b",
+  "fetched_at": "2026-05-15T15:31:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:31:03Z",
+  "duration_ms": 6690,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8df749d1b560f315b74a5c31e0564e776d38062c69ba42ce74befb87f7bfe32b",
+  "md_bytes": 11136,
+  "links_found": 32,
+  "files_found": 0
+}

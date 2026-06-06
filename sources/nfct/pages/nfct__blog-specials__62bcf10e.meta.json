@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/הנחיות-כלליות/",
+  "stable_id": "nfct__blog-specials__62bcf10e",
+  "fetched_at": "2026-05-09T17:58:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:58:36Z",
+  "duration_ms": 26483,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0dc2cb610adbafdd11f59f90ea43c3fc2b59c18b12be997ab864f792109ce300",
+  "md_bytes": 10125,
+  "links_found": 21,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=totality",
+  "stable_id": "nfct__en-movies-archive_keywords-totality__6db3803f",
+  "fetched_at": "2026-05-16T14:56:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:56:34Z",
+  "duration_ms": 7171,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6290dbe77443102d833f75166a7f1308bee6aa7507dec79d48db6137b7a7f665",
+  "md_bytes": 9994,
+  "links_found": 68,
+  "files_found": 0
+}

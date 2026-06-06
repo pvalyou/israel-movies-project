@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-bunker/",
+  "stable_id": "nfct__en-movies-the-bunker__2176e987",
+  "fetched_at": "2026-05-12T03:14:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T03:14:15Z",
+  "duration_ms": 10789,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e2d8f66fcadd268ef90e9d7f89ea79fe5c69072c3191f2c88ffea0bceeb812e2",
+  "md_bytes": 11988,
+  "links_found": 29,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הארוחה/",
+  "stable_id": "nfct__blog-movies__1ebea1a4",
+  "fetched_at": "2026-05-09T20:36:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:36:24Z",
+  "duration_ms": 13609,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:710415ace245b8e9a12114d2c9a1fcc77199146ab7fbc4921ddee2afeb90d1e4",
+  "md_bytes": 25890,
+  "links_found": 65,
+  "files_found": 0
+}

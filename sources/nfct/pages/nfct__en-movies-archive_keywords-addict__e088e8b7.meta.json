@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=addict",
+  "stable_id": "nfct__en-movies-archive_keywords-addict__e088e8b7",
+  "fetched_at": "2026-05-16T20:21:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:21:37Z",
+  "duration_ms": 6615,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bb143f4674b28e98fa431d0197e1307dbcc39f5593712f98e58c547a5375a74c",
+  "md_bytes": 13459,
+  "links_found": 78,
+  "files_found": 0
+}

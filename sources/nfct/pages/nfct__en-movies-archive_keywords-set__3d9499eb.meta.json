@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=set",
+  "stable_id": "nfct__en-movies-archive_keywords-set__3d9499eb",
+  "fetched_at": "2026-05-16T17:21:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:21:20Z",
+  "duration_ms": 9508,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:709db6e771d65e99eb2e0365af10db716f957d63be67e8e18707f5c92186fa89",
+  "md_bytes": 16863,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/my-father-my-lord/",
+  "stable_id": "nfct__en-movies-my-father-my-lord__ed75c8ee",
+  "fetched_at": "2026-05-11T15:46:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:46:29Z",
+  "duration_ms": 23416,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6ddefc6ab9e52939c468ed69837dbbef4c1f4b65b939413996c7e24738960894",
+  "md_bytes": 15043,
+  "links_found": 40,
+  "files_found": 0
+}

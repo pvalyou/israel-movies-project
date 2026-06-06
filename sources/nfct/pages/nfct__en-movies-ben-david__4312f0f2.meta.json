@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/ben-david/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-ben-david__4312f0f2",
+  "fetched_at": "2026-05-16T16:42:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:42:10Z",
+  "duration_ms": 14413,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:da0170d6ebc8ae9b2561c6f761beef7b595fad460f05c386238b0914f3e724d8",
+  "md_bytes": 17322,
+  "links_found": 62,
+  "files_found": 0
+}

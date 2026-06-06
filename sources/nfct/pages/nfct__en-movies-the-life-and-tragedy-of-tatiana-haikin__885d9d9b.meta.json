@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-life-and-tragedy-of-tatiana-haikin/",
+  "stable_id": "nfct__en-movies-the-life-and-tragedy-of-tatiana-haikin__885d9d9b",
+  "fetched_at": "2026-05-11T13:09:55+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:09:55Z",
+  "duration_ms": 35313,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7deccd0d8ef05d8968a68e814123a164f34261d59ddad49f5e3528299aec1a6d",
+  "md_bytes": 17073,
+  "links_found": 51,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/movies/פוטוסי-זמן-מסע/",
+  "stable_id": "nfct__movies__89a76e01",
+  "fetched_at": "2026-05-16T11:08:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:08:37Z",
+  "duration_ms": 9290,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:59a4cbf532f1fc957e3abce2a3a7d58cf59bdffa24b06d3ee973e52dc3c255ad",
+  "md_bytes": 8090,
+  "links_found": 21,
+  "files_found": 0
+}

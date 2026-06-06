@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/youthful-grace/#UAMainContent",
+  "stable_id": "nfct__en-movies-youthful-grace__f40793ce",
+  "fetched_at": "2026-05-16T12:53:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:53:19Z",
+  "duration_ms": 7414,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d84d49feeec3fe583454bc7b38a89673b3dc396c129587a1ea21b8a71c97cb9a",
+  "md_bytes": 12586,
+  "links_found": 33,
+  "files_found": 0
+}

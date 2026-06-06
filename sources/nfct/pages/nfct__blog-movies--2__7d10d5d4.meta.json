@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/התקווה-2/",
+  "stable_id": "nfct__blog-movies--2__7d10d5d4",
+  "fetched_at": "2026-05-09T21:47:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:47:27Z",
+  "duration_ms": 31802,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3d55ecfd4c45e8b3c109e85d3721c46e900978e67a9f8ba1c11c92b73fee7de7",
+  "md_bytes": 15101,
+  "links_found": 31,
+  "files_found": 0
+}

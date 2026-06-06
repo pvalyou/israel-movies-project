@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lost",
+  "stable_id": "nfct__en-movies-archive_keywords-Lost__1d02f73d",
+  "fetched_at": "2026-05-16T13:20:43+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:20:43Z",
+  "duration_ms": 22617,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9d732bde82359fa72187e985bfe909ac1e102477525a0117847d9c3771dbe4e2",
+  "md_bytes": 16838,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/adams-sake/#main",
+  "stable_id": "arava_film_fund__en-movies-adams-sake__7a3f74cb",
+  "fetched_at": "2026-05-08T10:18:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:18:48Z",
+  "duration_ms": 42919,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4374cad045f035422aac6459e07d1bb33b2127c831e9a46749be1d23fb385ecd",
+  "md_bytes": 3333,
+  "links_found": 9,
+  "files_found": 0
+}

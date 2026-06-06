@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/9710/",
+  "stable_id": "makor__9710__69987871",
+  "fetched_at": "2026-05-09T12:37:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:37:58Z",
+  "duration_ms": 7918,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1cd273afef3d3b23748f6c0f9db8d646499c0d49a5985b4381214da2824bd69d",
+  "md_bytes": 1100,
+  "links_found": 1,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/למה-צחקה-חיירה/",
+  "stable_id": "nfct__blog-movies__f9959f51",
+  "fetched_at": "2026-05-09T21:48:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T21:48:15Z",
+  "duration_ms": 8199,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bbebb4ccb1265693fac1ad198318cea897985133c711bbbb5da7b4f21d13f5f2",
+  "md_bytes": 14883,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/חיים-שניים/",
+  "stable_id": "nfct__blog-movies__9b7f0c11",
+  "fetched_at": "2026-05-09T20:14:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:14:16Z",
+  "duration_ms": 19027,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0ede4589d53d681ff49445b8922d6b5b0fc40c1c8d998e78383bd738854b295b",
+  "md_bytes": 17668,
+  "links_found": 34,
+  "files_found": 0
+}

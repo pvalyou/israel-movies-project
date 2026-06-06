@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Elvis+Presley",
+  "stable_id": "nfct__en-movies-archive_keywords-Elvis-Presley__403be0d7",
+  "fetched_at": "2026-05-16T16:05:12+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:05:12Z",
+  "duration_ms": 6472,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed78c0d01da93cc80779afb3d2efc32d6ef6f71f52c025f1719499edf89c775b",
+  "md_bytes": 10241,
+  "links_found": 68,
+  "files_found": 0
+}

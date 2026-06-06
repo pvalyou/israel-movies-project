@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Self-search",
+  "stable_id": "nfct__en-movies-archive_keywords-Self-search__ab84e4a1",
+  "fetched_at": "2026-05-16T16:18:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:18:10Z",
+  "duration_ms": 10047,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:34fc55a92ab90903ef8424f5ee402cb1d2b1e53bf5be90523a1496134aa7917f",
+  "md_bytes": 9797,
+  "links_found": 67,
+  "files_found": 0
+}

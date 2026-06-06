@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Flight",
+  "stable_id": "nfct__en-movies-archive_keywords-Flight__c0b60f75",
+  "fetched_at": "2026-05-16T12:59:45+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:59:45Z",
+  "duration_ms": 12764,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:61c9ed054d199df02273f3b20726b443b4037685abe5e49e639626e11c13a176",
+  "md_bytes": 14031,
+  "links_found": 78,
+  "files_found": 0
+}

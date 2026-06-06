@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/nothing-is-wrong/",
+  "stable_id": "nfct__en-movies-nothing-is-wrong__c3580ed2",
+  "fetched_at": "2026-05-11T11:20:20+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T11:20:20Z",
+  "duration_ms": 7369,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:17a8b19b161b89b4d01a32ed1dc766027709b04726cbc41f4c7ccaf8f2617048",
+  "md_bytes": 12121,
+  "links_found": 29,
+  "files_found": 0
+}

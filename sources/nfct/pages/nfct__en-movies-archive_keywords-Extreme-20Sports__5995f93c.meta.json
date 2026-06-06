@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Extreme%20Sports",
+  "stable_id": "nfct__en-movies-archive_keywords-Extreme-20Sports__5995f93c",
+  "fetched_at": "2026-05-16T15:20:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:20:15Z",
+  "duration_ms": 5804,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4c54b7f0b33f36c6ffc2c9bd1b91b4f4982be8c221612a6812bc02e4ca7a7ae6",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

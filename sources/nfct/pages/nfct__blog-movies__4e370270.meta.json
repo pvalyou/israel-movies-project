@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/מחברות-שחורות/",
+  "stable_id": "nfct__blog-movies__4e370270",
+  "fetched_at": "2026-05-09T20:22:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:22:29Z",
+  "duration_ms": 28021,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:6f63522bddd3b2873b1069e575256cb80e2856c9354ea23fe8ce0203505dc5c6",
+  "md_bytes": 20938,
+  "links_found": 46,
+  "files_found": 0
+}

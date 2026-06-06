@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/messiah/",
+  "stable_id": "nfct__en-movies-messiah__5f524282",
+  "fetched_at": "2026-05-11T20:41:19+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T20:41:19Z",
+  "duration_ms": 36197,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f57dee867177cb45cc125a7676e22b4f4d29193e9b5b65f37e767f8a1e4f941",
+  "md_bytes": 12734,
+  "links_found": 41,
+  "files_found": 0
+}

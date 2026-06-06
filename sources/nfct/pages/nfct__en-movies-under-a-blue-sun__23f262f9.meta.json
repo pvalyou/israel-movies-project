@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/under-a-blue-sun/#UAMainContent",
+  "stable_id": "nfct__en-movies-under-a-blue-sun__23f262f9",
+  "fetched_at": "2026-05-16T13:16:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:16:28Z",
+  "duration_ms": 10706,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dcb04fd57432bcb6936b323185c2275d538980aa5fa9d98191826db4b987d1d8",
+  "md_bytes": 14843,
+  "links_found": 47,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/בעיניים-שלי-סיפורי-צעירים-מהגליל/",
+  "stable_id": "nfct__blog-movies__3879269a",
+  "fetched_at": "2026-05-09T20:20:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:20:48Z",
+  "duration_ms": 55770,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a77a75dcfb8e6f032c2664528f20229aead856785cff2a51ea223abaf9aa6d83",
+  "md_bytes": 21615,
+  "links_found": 50,
+  "files_found": 0
+}

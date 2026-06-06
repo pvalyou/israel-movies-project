@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/חתונה-מנייר/",
+  "stable_id": "makor__films__53ed77f1",
+  "fetched_at": "2026-05-09T13:03:54+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:03:54Z",
+  "duration_ms": 19804,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:86d227cd8728df140bd6639c0afeaf517b8823f024c8be94624aeeb2278f7a71",
+  "md_bytes": 3417,
+  "links_found": 4,
+  "files_found": 0
+}

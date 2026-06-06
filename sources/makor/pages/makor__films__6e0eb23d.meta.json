@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/המלחמות-של-גני/",
+  "stable_id": "makor__films__6e0eb23d",
+  "fetched_at": "2026-05-09T13:00:58+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:00:58Z",
+  "duration_ms": 9521,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3b4d24fe2c49edf7d85120e737857b1203512046aee1db07df30f0a805e0d06e",
+  "md_bytes": 3648,
+  "links_found": 4,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Video+Installation",
+  "stable_id": "nfct__en-movies-archive_keywords-Video-Installation__05c70b55",
+  "fetched_at": "2026-05-16T14:07:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:07:01Z",
+  "duration_ms": 5957,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:df17354cbc599081f663786002510a647a8d3ef3492b35baafecf60c0e9de0dd",
+  "md_bytes": 10414,
+  "links_found": 69,
+  "files_found": 0
+}

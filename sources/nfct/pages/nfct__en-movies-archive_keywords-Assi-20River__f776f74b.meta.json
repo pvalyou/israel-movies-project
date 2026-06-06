@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Assi%20River",
+  "stable_id": "nfct__en-movies-archive_keywords-Assi-20River__f776f74b",
+  "fetched_at": "2026-05-16T12:59:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:59:15Z",
+  "duration_ms": 9427,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d9c458ccfa597baf83e86d2f97366de5daffdec4fb3d918e2cace475fa8279ac",
+  "md_bytes": 10171,
+  "links_found": 68,
+  "files_found": 0
+}

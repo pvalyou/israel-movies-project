@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Best%20Friends",
+  "stable_id": "nfct__en-movies-archive_keywords-Best-20Friends__0d9523d9",
+  "fetched_at": "2026-05-16T13:45:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:45:24Z",
+  "duration_ms": 7545,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3f95ba1780754980f40b8b0fe685faab8240ba3975fce45a50c56a6cb24b708d",
+  "md_bytes": 11508,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Dr.+Mengele",
+  "stable_id": "nfct__en-movies-archive_keywords-Dr.-Mengele__82e24f4f",
+  "fetched_at": "2026-05-16T10:59:28+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:59:28Z",
+  "duration_ms": 9747,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1f6d8ffba8fca6c5e4ede1cd68a2950ad409601f5b479f0bf1072049448eafd6",
+  "md_bytes": 9985,
+  "links_found": 68,
+  "files_found": 0
+}

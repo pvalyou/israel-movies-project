@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Violence",
+  "stable_id": "nfct__en-movies-archive_keywords-Violence__2396b7f6",
+  "fetched_at": "2026-05-16T10:08:48+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:08:48Z",
+  "duration_ms": 10358,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:834c3ac6cb7cd41f002e57bc495bb94afa6b72f95547382cd3f899a803964fd4",
+  "md_bytes": 15665,
+  "links_found": 82,
+  "files_found": 0
+}

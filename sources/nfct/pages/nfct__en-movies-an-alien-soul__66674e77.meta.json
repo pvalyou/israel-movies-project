@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/an-alien-soul/#UAMainContent",
+  "stable_id": "nfct__en-movies-an-alien-soul__66674e77",
+  "fetched_at": "2026-05-16T16:37:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:37:14Z",
+  "duration_ms": 8233,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ae7cd4b8f1d5015952b73f8200156f02823170b154db4dfac2451fda5e5b2ac1",
+  "md_bytes": 12859,
+  "links_found": 35,
+  "files_found": 0
+}

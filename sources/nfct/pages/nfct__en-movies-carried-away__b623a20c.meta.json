@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/carried-away/",
+  "stable_id": "nfct__en-movies-carried-away__b623a20c",
+  "fetched_at": "2026-05-11T18:50:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T18:50:10Z",
+  "duration_ms": 45955,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f71b16bfccbe43d0cf1f8a70c66c4cc8bd4a245a9617e833feeb5c94d77d9877",
+  "md_bytes": 12947,
+  "links_found": 36,
+  "files_found": 0
+}

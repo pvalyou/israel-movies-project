@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/שידור-חייו-מלאי-שיר-סיפורו-של-אברהם-ח-7/",
+  "stable_id": "nfct__events-event----------------7__44f76a77",
+  "fetched_at": "2026-05-10T04:06:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T04:06:50Z",
+  "duration_ms": 37914,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:21fd2f17863d2a2367437059a704456ab6b69bc08a3a09e03da70a886a8b8495",
+  "md_bytes": 13174,
+  "links_found": 27,
+  "files_found": 0
+}

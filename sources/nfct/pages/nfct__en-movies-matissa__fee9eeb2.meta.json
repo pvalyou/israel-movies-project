@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/matissa/",
+  "stable_id": "nfct__en-movies-matissa__fee9eeb2",
+  "fetched_at": "2026-05-12T04:33:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:33:10Z",
+  "duration_ms": 8084,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67d4ce2d8ec357c70ff7a5f8c19c9eff2b7f8fb51c287912b802419e13e41bbe",
+  "md_bytes": 12024,
+  "links_found": 31,
+  "files_found": 0
+}

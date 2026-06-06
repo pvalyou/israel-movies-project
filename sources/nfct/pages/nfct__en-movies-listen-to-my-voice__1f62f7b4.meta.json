@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/listen-to-my-voice/",
+  "stable_id": "nfct__en-movies-listen-to-my-voice__1f62f7b4",
+  "fetched_at": "2026-05-11T13:32:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T13:32:10Z",
+  "duration_ms": 16002,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:c42cf8f5a47d6f0c459a14f299de90407bde5d6915d871509df1a84941a52fdc",
+  "md_bytes": 15311,
+  "links_found": 44,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Passover",
+  "stable_id": "nfct__en-movies-archive_keywords-Passover__3c14e207",
+  "fetched_at": "2026-05-16T12:53:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:53:32Z",
+  "duration_ms": 13629,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:595183c21e117bad4a842aa5ebbc4de153d2f0629bd89965e0d200ee3cb863b9",
+  "md_bytes": 11752,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Election",
+  "stable_id": "nfct__en-movies-archive_keywords-Election__3e26734d",
+  "fetched_at": "2026-05-16T09:24:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T09:24:50Z",
+  "duration_ms": 6599,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:306cd3981152659227951f3e4095f37f8b15847f8b09b3ac824519b1633700d1",
+  "md_bytes": 13016,
+  "links_found": 75,
+  "files_found": 0
+}

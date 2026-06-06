@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/israeli-in-berlin/#UAmlxHHRM1",
+  "stable_id": "nfct__en-movies-israeli-in-berlin__31181635",
+  "fetched_at": "2026-05-16T17:04:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:04:31Z",
+  "duration_ms": 8927,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d89ed2888962891119f971252303bd1879f37eb0626915a5d08c80695c0acae4",
+  "md_bytes": 12764,
+  "links_found": 34,
+  "files_found": 0
+}

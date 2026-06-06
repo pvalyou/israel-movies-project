@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/jerusalem-of-metal/",
+  "stable_id": "nfct__en-movies-jerusalem-of-metal__e2e68ee9",
+  "fetched_at": "2026-05-12T02:54:04+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T02:54:04Z",
+  "duration_ms": 30083,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a2f8a75abc2ec3118076596c5277b60be684f76cc0e35e7f13aa2abf5e50aef7",
+  "md_bytes": 10944,
+  "links_found": 31,
+  "files_found": 0
+}

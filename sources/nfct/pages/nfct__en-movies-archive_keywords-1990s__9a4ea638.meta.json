@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=1990s",
+  "stable_id": "nfct__en-movies-archive_keywords-1990s__9a4ea638",
+  "fetched_at": "2026-05-16T15:31:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:36Z",
+  "duration_ms": 7661,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ef585f045a7a39b0d8caeff4a7586fac9b346bb96130e4c56a7765f2a29b511e",
+  "md_bytes": 11961,
+  "links_found": 73,
+  "files_found": 0
+}

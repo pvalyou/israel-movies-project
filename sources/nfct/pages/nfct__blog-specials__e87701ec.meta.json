@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/specials/נהלי-המיזם/",
+  "stable_id": "nfct__blog-specials__e87701ec",
+  "fetched_at": "2026-05-09T18:06:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T18:06:26Z",
+  "duration_ms": 9430,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0684417e1e2f0f54f4908cbe9c9aa339b84b3fc2a663b34b4bff631164a1e1e0",
+  "md_bytes": 21977,
+  "links_found": 24,
+  "files_found": 2
+}

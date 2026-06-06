@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=culture+isralienne",
+  "stable_id": "nfct__en-movies-archive_keywords-culture-isralienne__637a19a4",
+  "fetched_at": "2026-05-16T16:23:47+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:23:47Z",
+  "duration_ms": 7636,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:dc6b89ae00aa482dce317023bb80bf5218540e20913ab41d8a6f7aadb91abd93",
+  "md_bytes": 9811,
+  "links_found": 67,
+  "files_found": 0
+}

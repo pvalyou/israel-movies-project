@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Wine",
+  "stable_id": "nfct__en-movies-archive_keywords-Wine__690a7022",
+  "fetched_at": "2026-05-16T14:11:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:11:32Z",
+  "duration_ms": 8262,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:08ce23e35cd0320d4c311424743d83c62558eca1d17e62abb4610e1265bbaeac",
+  "md_bytes": 16244,
+  "links_found": 81,
+  "files_found": 0
+}

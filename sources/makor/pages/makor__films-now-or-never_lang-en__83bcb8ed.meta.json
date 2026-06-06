@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/now-or-never/?lang=en",
+  "stable_id": "makor__films-now-or-never_lang-en__83bcb8ed",
+  "fetched_at": "2026-05-09T12:58:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:58:18Z",
+  "duration_ms": 11149,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5b966db6b81d75e3069abf19977a56ace999e731ee026f32415d92bd5dd76d3f",
+  "md_bytes": 1791,
+  "links_found": 4,
+  "files_found": 0
+}

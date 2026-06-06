@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/מדריך-הפצה-עבור-סרטים-דוקומנטריים/",
+  "stable_id": "nfct__blog__c834e5b5",
+  "fetched_at": "2026-05-09T15:38:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:38:18Z",
+  "duration_ms": 68642,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f1291ce3980d8a5cd164f0381e4d45a5841124435855ffb9d11e8787fa6fc931",
+  "md_bytes": 13458,
+  "links_found": 26,
+  "files_found": 1
+}

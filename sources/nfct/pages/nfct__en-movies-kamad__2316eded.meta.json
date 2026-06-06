@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/kamad/",
+  "stable_id": "nfct__en-movies-kamad__2316eded",
+  "fetched_at": "2026-05-15T15:19:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T15:19:53Z",
+  "duration_ms": 22116,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e581d444c3276d1d8ebc4f09ef5e55d88488d5d4f075658b3f6aa7b61555bd03",
+  "md_bytes": 11201,
+  "links_found": 27,
+  "files_found": 0
+}

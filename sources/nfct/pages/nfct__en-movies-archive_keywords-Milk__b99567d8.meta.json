@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Milk",
+  "stable_id": "nfct__en-movies-archive_keywords-Milk__b99567d8",
+  "fetched_at": "2026-05-16T12:36:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:36:59Z",
+  "duration_ms": 13530,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:584a491c45a93c9fa1418a83d315f16c2c34193a7f204edc8ecb8d55db5dd842",
+  "md_bytes": 10457,
+  "links_found": 69,
+  "files_found": 0
+}

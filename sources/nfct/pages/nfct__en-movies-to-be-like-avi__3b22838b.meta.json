@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/to-be-like-avi/",
+  "stable_id": "nfct__en-movies-to-be-like-avi__3b22838b",
+  "fetched_at": "2026-05-12T04:42:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T04:42:29Z",
+  "duration_ms": 22214,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1364d8d957a33592a48d4a03b97d750d087069cf5966ee13b6b8e1a3848d5e6b",
+  "md_bytes": 14632,
+  "links_found": 40,
+  "files_found": 0
+}

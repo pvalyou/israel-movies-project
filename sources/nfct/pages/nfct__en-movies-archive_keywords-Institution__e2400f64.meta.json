@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Institution",
+  "stable_id": "nfct__en-movies-archive_keywords-Institution__e2400f64",
+  "fetched_at": "2026-05-16T15:01:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:01:22Z",
+  "duration_ms": 9249,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:87efdaec146df3902ca7c26c8111eaa32d1f286967d3504c9ae2473fcf8a8b38",
+  "md_bytes": 15295,
+  "links_found": 80,
+  "files_found": 0
+}

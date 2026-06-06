@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Palestinians",
+  "stable_id": "nfct__en-movies-archive_keywords-Palestinians__0388ddf8",
+  "fetched_at": "2026-05-16T05:29:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:29:42Z",
+  "duration_ms": 6750,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fe5e38311ae7b5f3d507422a18f51725fd665c70f3456dd308b3d2d546befc6e",
+  "md_bytes": 15605,
+  "links_found": 82,
+  "files_found": 0
+}

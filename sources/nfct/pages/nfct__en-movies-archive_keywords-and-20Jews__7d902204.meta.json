@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=and%20Jews",
+  "stable_id": "nfct__en-movies-archive_keywords-and-20Jews__7d902204",
+  "fetched_at": "2026-05-16T15:19:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:19:01Z",
+  "duration_ms": 7731,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4b99014d9b01b750fad0d3fedbfa01b3769cd2805f8c30b2531ae91784f66c8f",
+  "md_bytes": 16972,
+  "links_found": 82,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=teens",
+  "stable_id": "nfct__en-movies-archive_keywords-teens__5c405310",
+  "fetched_at": "2026-05-16T10:18:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:18:44Z",
+  "duration_ms": 6988,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:67c1e6475e29c7c22cfacddb21818e7b29f56cb91541cbd9c9b2061215953dd3",
+  "md_bytes": 11648,
+  "links_found": 71,
+  "files_found": 0
+}

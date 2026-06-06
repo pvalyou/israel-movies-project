@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=journalist",
+  "stable_id": "nfct__en-movies-archive_keywords-journalist__592f8ddc",
+  "fetched_at": "2026-05-16T15:21:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:21:32Z",
+  "duration_ms": 8456,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9c2563ecc53e6c3b6d1e0ab053d58f9d74d4818e94df6164205b8d544f498d9a",
+  "md_bytes": 13902,
+  "links_found": 76,
+  "files_found": 0
+}

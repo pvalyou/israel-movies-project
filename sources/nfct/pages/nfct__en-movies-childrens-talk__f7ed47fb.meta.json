@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/childrens-talk/",
+  "stable_id": "nfct__en-movies-childrens-talk__f7ed47fb",
+  "fetched_at": "2026-05-11T15:56:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T15:56:05Z",
+  "duration_ms": 19290,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a067600178c956610a22364a89c1defc28cf230db75f020be7f25ff6eff01c0a",
+  "md_bytes": 12450,
+  "links_found": 28,
+  "files_found": 0
+}

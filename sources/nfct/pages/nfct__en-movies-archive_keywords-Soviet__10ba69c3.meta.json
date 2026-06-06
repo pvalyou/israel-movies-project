@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Soviet",
+  "stable_id": "nfct__en-movies-archive_keywords-Soviet__10ba69c3",
+  "fetched_at": "2026-05-16T15:06:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:06:16Z",
+  "duration_ms": 7875,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:2b4b551b21551b1936c70a7fbd2e2cb5550d9ff264f890484922876b11052907",
+  "md_bytes": 15562,
+  "links_found": 82,
+  "files_found": 0
+}

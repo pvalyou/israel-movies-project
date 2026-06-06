@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=life+insurance",
+  "stable_id": "nfct__en-movies-archive_keywords-life-insurance__7d778ec9",
+  "fetched_at": "2026-05-16T17:39:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:39:49Z",
+  "duration_ms": 9500,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:5813eb0fb15dc9d71fdd848b4fec66de5ea44e10ba70a2c082c3109646711468",
+  "md_bytes": 9983,
+  "links_found": 68,
+  "files_found": 0
+}

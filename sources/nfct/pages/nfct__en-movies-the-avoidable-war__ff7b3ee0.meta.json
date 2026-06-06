@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/the-avoidable-war/",
+  "stable_id": "nfct__en-movies-the-avoidable-war__ff7b3ee0",
+  "fetched_at": "2026-05-11T21:00:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T21:00:02Z",
+  "duration_ms": 12765,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eab44c74388d005daf03ab14393442da7398e475cac32fd470a89dc485329d0b",
+  "md_bytes": 14889,
+  "links_found": 49,
+  "files_found": 0
+}

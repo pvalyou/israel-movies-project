@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/women-of-freedom/",
+  "stable_id": "nfct__en-movies-women-of-freedom__da1c9705",
+  "fetched_at": "2026-05-12T01:47:15+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-12T01:47:15Z",
+  "duration_ms": 26195,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ba7feafc7859bf61b37c837f475c47e760c898b116a5170c36dc2debc5b40c09",
+  "md_bytes": 13566,
+  "links_found": 36,
+  "files_found": 0
+}

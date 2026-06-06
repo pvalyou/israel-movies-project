@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Finance%20Committee",
+  "stable_id": "nfct__en-movies-archive_keywords-Finance-20Committee__c5ae26cc",
+  "fetched_at": "2026-05-16T16:10:42+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:10:42Z",
+  "duration_ms": 8897,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eb9c856538703acc19233a3fc41650ea5e9e6b913acf7efc21cb43438c0849a2",
+  "md_bytes": 10025,
+  "links_found": 68,
+  "files_found": 0
+}

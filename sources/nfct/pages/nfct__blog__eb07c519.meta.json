@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/שישי-קצרים-בסינמטק-תל-אביב/",
+  "stable_id": "nfct__blog__eb07c519",
+  "fetched_at": "2026-05-09T15:56:37+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T15:56:37Z",
+  "duration_ms": 44300,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:56b82aaffae318b5e816437cb655b3d983fc64e28c4ac43692e63e11e67082fa",
+  "md_bytes": 15803,
+  "links_found": 39,
+  "files_found": 0
+}

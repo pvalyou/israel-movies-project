@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=LGBTQ+%20activist",
+  "stable_id": "nfct__en-movies-archive_keywords-LGBTQ-20activist__878a0bfd",
+  "fetched_at": "2026-05-16T20:30:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:30:34Z",
+  "duration_ms": 6179,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:219dae1443c4a6dae2e198e2bf96ef4a997cbdf1dd84fcaac9d13cf88522b310",
+  "md_bytes": 10097,
+  "links_found": 68,
+  "files_found": 0
+}

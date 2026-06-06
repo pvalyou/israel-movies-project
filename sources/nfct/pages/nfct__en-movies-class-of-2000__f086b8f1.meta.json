@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/class-of-2000/#UArexazDFN",
+  "stable_id": "nfct__en-movies-class-of-2000__f086b8f1",
+  "fetched_at": "2026-05-16T07:49:49+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T07:49:49Z",
+  "duration_ms": 6624,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:bc84deb18aa1dd2d6b68973388629ac979d5e78d10c3f5a6536f0b79ecd695fa",
+  "md_bytes": 11810,
+  "links_found": 34,
+  "files_found": 0
+}

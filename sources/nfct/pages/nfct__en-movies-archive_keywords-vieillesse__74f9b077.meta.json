@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=vieillesse",
+  "stable_id": "nfct__en-movies-archive_keywords-vieillesse__74f9b077",
+  "fetched_at": "2026-05-16T16:23:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:23:40Z",
+  "duration_ms": 6235,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0f52d147688d62faa1b6b6a1d237a359396c394c41b9ffa376f9925ab7187560",
+  "md_bytes": 9795,
+  "links_found": 67,
+  "files_found": 0
+}

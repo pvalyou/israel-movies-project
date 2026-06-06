@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=patients",
+  "stable_id": "nfct__en-movies-archive_keywords-patients__1144f97f",
+  "fetched_at": "2026-05-16T16:36:35+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:36:35Z",
+  "duration_ms": 9450,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:788f6b40f8514d73ad5a287963fbd0a7d4cffb0c96417bd6fee1fec6d1085c05",
+  "md_bytes": 12352,
+  "links_found": 74,
+  "files_found": 0
+}

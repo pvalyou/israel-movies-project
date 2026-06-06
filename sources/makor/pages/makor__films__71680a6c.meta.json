@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מכתב-פרידה/",
+  "stable_id": "makor__films__71680a6c",
+  "fetched_at": "2026-05-09T13:27:34+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:27:34Z",
+  "duration_ms": 6057,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d2443b138dc96e2c6d988d4aff332c079bf10c3f13a3c24edb48337d5c850022",
+  "md_bytes": 2341,
+  "links_found": 4,
+  "files_found": 0
+}

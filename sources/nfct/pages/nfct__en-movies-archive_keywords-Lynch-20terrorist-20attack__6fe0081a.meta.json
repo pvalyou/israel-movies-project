@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Lynch%20terrorist%20attack",
+  "stable_id": "nfct__en-movies-archive_keywords-Lynch-20terrorist-20attack__6fe0081a",
+  "fetched_at": "2026-05-16T20:20:10+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T20:20:10Z",
+  "duration_ms": 7323,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3738c8c994147c6422795f5cefc0c8c4d5ad3c93bbc67909e6d6e5a8aa34034",
+  "md_bytes": 9823,
+  "links_found": 67,
+  "files_found": 0
+}

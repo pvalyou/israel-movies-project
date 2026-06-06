@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=surrogate",
+  "stable_id": "nfct__en-movies-archive_keywords-surrogate__afd29063",
+  "fetched_at": "2026-05-16T16:39:40+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:39:40Z",
+  "duration_ms": 7443,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b2ee552be83b6929fce45663f6ba552665c42f4c415457e9d24ca6a40b6b95bd",
+  "md_bytes": 10273,
+  "links_found": 68,
+  "files_found": 0
+}

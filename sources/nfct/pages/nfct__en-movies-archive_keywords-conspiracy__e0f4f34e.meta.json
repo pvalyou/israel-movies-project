@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=conspiracy",
+  "stable_id": "nfct__en-movies-archive_keywords-conspiracy__e0f4f34e",
+  "fetched_at": "2026-05-16T14:10:41+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:10:40Z",
+  "duration_ms": 8382,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:0b207343452ffb9d8aa7a75c43f119a70bbe6dc5e5b688bb588306cbf45cd778",
+  "md_bytes": 11137,
+  "links_found": 70,
+  "files_found": 0
+}

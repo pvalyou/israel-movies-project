@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Ramah",
+  "stable_id": "nfct__en-movies-archive_keywords-Ramah__6aa3af0f",
+  "fetched_at": "2026-05-16T13:21:16+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:21:16Z",
+  "duration_ms": 9477,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:93aab17d180f77c0d939be9b07bf8ff399eb2fc19e031dee182e11143bc9eb89",
+  "md_bytes": 9785,
+  "links_found": 67,
+  "files_found": 0
+}

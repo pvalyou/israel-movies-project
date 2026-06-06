@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/hitlers-children/#UAMainContent",
+  "stable_id": "nfct__en-movies-hitlers-children__f8faae20",
+  "fetched_at": "2026-05-16T08:50:24+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:50:24Z",
+  "duration_ms": 9712,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e35601fd30f2f64d38413d032e02244cdede92700c8cc350bc789e2e61d0716f",
+  "md_bytes": 18135,
+  "links_found": 34,
+  "files_found": 0
+}

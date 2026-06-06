@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-מסווג-חריגבועז-אדמוני-פסטיבל-ק/",
+  "stable_id": "nfct__events-event__d5ebc64d",
+  "fetched_at": "2026-05-15T09:00:13+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:00:13Z",
+  "duration_ms": 11279,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:9a8fab1fd64ecad835b3b58edfc2efbe78c6e2e8ec7a82098253a11bfb5633f5",
+  "md_bytes": 10855,
+  "links_found": 21,
+  "files_found": 0
+}

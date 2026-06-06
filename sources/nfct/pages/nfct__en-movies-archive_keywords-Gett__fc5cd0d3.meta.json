@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Gett",
+  "stable_id": "nfct__en-movies-archive_keywords-Gett__fc5cd0d3",
+  "fetched_at": "2026-05-16T14:46:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:46:03Z",
+  "duration_ms": 8400,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:eda32107242a8fa86f2c194584020db446cf7ce82c304d5b2fc388ce3aada1c8",
+  "md_bytes": 16511,
+  "links_found": 82,
+  "files_found": 0
+}

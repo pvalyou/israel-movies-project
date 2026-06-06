@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Old%20Footage",
+  "stable_id": "nfct__en-movies-archive_keywords-Old-20Footage__645e9015",
+  "fetched_at": "2026-05-16T15:31:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T15:31:22Z",
+  "duration_ms": 7634,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d171edb73910b197539c170438439812d3360d663d07c157c30a5ecac0e1914d",
+  "md_bytes": 13979,
+  "links_found": 77,
+  "files_found": 0
+}

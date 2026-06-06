@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/סרטי-סטודנטים-סינמטק-ירושלים/",
+  "stable_id": "nfct__events-event__a00666ff",
+  "fetched_at": "2026-05-10T13:25:02+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T13:25:02Z",
+  "duration_ms": 8205,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ed86097f56927093f403ba3f1e682bef589414430a467109ea5cb43b11254564",
+  "md_bytes": 12759,
+  "links_found": 23,
+  "files_found": 0
+}

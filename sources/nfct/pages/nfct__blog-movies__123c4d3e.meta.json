@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/שירים-לאישה/",
+  "stable_id": "nfct__blog-movies__123c4d3e",
+  "fetched_at": "2026-05-09T17:58:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T17:58:27Z",
+  "duration_ms": 19646,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a80c9adb78674daf6453cfc96e11911bf59d74cc3f8860939898b5fe9c984aab",
+  "md_bytes": 13640,
+  "links_found": 27,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Executioners%20Squad",
+  "stable_id": "nfct__en-movies-archive_keywords-Executioners-20Squad__d8da33e9",
+  "fetched_at": "2026-05-16T10:46:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:46:25Z",
+  "duration_ms": 7326,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:93841fa8b43dd0fc06ae8ac2e31e89892d90399ed7a877943c81b6ed3e784046",
+  "md_bytes": 10179,
+  "links_found": 68,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/אינוונטר/",
+  "stable_id": "nfct__blog-movies__fa221f89",
+  "fetched_at": "2026-05-09T20:10:59+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T20:10:59Z",
+  "duration_ms": 13235,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:90bd05334021fb7a08432a3dc4d651bfa7c28538f63c128971b71c47981833b6",
+  "md_bytes": 15966,
+  "links_found": 32,
+  "files_found": 0
+}

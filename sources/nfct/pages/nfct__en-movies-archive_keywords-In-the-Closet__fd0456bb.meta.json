@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=In+the+Closet",
+  "stable_id": "nfct__en-movies-archive_keywords-In-the-Closet__fd0456bb",
+  "fetched_at": "2026-05-16T14:14:26+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T14:14:26Z",
+  "duration_ms": 7638,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:58a7b40e7e5e0b05d95c850ac8d599d35e8998120f1cc83b2c989f690e3d45c7",
+  "md_bytes": 11984,
+  "links_found": 74,
+  "files_found": 0
+}

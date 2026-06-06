@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Animal+Lover",
+  "stable_id": "nfct__en-movies-archive_keywords-Animal-Lover__addf4896",
+  "fetched_at": "2026-05-16T13:12:27+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:12:27Z",
+  "duration_ms": 10622,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:ff7ad6fe939e02da57c1a1646bace50f6e8c7fcd0044842d716b6ada29d2d653",
+  "md_bytes": 9799,
+  "links_found": 67,
+  "files_found": 0
+}

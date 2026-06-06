@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/script10/#UAMainContent",
+  "stable_id": "nfct__blog-script10__5740b9d4",
+  "fetched_at": "2026-05-10T17:18:01+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T17:18:01Z",
+  "duration_ms": 18812,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:b0e37c00b5a544dacd6b6bc9f8587c80b2b09d542dc9c1c8d2603ac7ae439c01",
+  "md_bytes": 11084,
+  "links_found": 21,
+  "files_found": 1
+}

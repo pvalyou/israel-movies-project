@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=art",
+  "stable_id": "nfct__en-movies-archive_keywords-art__ef530a64",
+  "fetched_at": "2026-05-16T08:43:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T08:43:22Z",
+  "duration_ms": 12720,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4efe3e43eeec3bf08b2b71d450359f8417d5b048971dc6945ae27aa6a0903989",
+  "md_bytes": 17288,
+  "links_found": 82,
+  "files_found": 0
+}

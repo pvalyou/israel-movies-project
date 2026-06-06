@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/מחכים-לגודיק/",
+  "stable_id": "makor__films__4139f775",
+  "fetched_at": "2026-05-09T13:04:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:04:46Z",
+  "duration_ms": 11903,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:f4ca6502c6a9f5407874a9abfdffbb58ef1909900f094bb11f1cc98fcc2b8b87",
+  "md_bytes": 3845,
+  "links_found": 4,
+  "files_found": 0
+}

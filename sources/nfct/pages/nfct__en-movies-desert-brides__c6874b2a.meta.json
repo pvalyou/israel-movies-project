@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/desert-brides/",
+  "stable_id": "nfct__en-movies-desert-brides__c6874b2a",
+  "fetched_at": "2026-05-11T00:38:03+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T00:38:03Z",
+  "duration_ms": 51839,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3724a34d8560cac109080ba54ba794bff415600571f17adeae37441ba190a869",
+  "md_bytes": 14217,
+  "links_found": 34,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=mother-son%20relationship",
+  "stable_id": "nfct__en-movies-archive_keywords-mother-son-20relationship__e34824f1",
+  "fetched_at": "2026-05-16T12:43:53+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:43:53Z",
+  "duration_ms": 13106,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:393975bd87f3c151882ee67fd66b4f93c81c082aa3e741b88cb70ec3edd2e44d",
+  "md_bytes": 9823,
+  "links_found": 67,
+  "files_found": 0
+}

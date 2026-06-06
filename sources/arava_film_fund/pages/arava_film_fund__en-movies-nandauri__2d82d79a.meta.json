@@ -1,0 +1,23 @@
+{
+  "url": "https://aravaff.co.il/en/movies/nandauri/#main",
+  "stable_id": "arava_film_fund__en-movies-nandauri__2d82d79a",
+  "fetched_at": "2026-05-08T10:20:39+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-08T10:20:39Z",
+  "duration_ms": 3509,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:fa3bcd37e7eb31ab2152af39044e10cc6cde12c6ae6a87343fd501d4b04035ca",
+  "md_bytes": 3578,
+  "links_found": 9,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Institute+for+Children+with+Disabilities",
+  "stable_id": "nfct__en-movies-archive_keywords-Institute-for-Children-with-Disabilities__05855339",
+  "fetched_at": "2026-05-16T12:40:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:40:29Z",
+  "duration_ms": 10070,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7d68e8766c4774e16bda399cb150a3cc951ef4399cf3f4037f47a3545052fefc",
+  "md_bytes": 10426,
+  "links_found": 68,
+  "files_found": 0
+}

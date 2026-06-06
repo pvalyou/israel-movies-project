@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=displacement",
+  "stable_id": "nfct__en-movies-archive_keywords-displacement__c9b922ac",
+  "fetched_at": "2026-05-16T11:09:57+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T11:09:57Z",
+  "duration_ms": 6957,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:52d65a94b020aad901858719109c5f54740f5b775af3461d9fa2d23ce685e22d",
+  "md_bytes": 10482,
+  "links_found": 69,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Michal+Shtamler",
+  "stable_id": "nfct__en-movies-archive_keywords-Michal-Shtamler__2ee9e6ac",
+  "fetched_at": "2026-05-16T12:26:18+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:26:18Z",
+  "duration_ms": 9789,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8a3a7451cef523cab9321311943d7ad1dd26a3e15f84c800454849a8c6f965a8",
+  "md_bytes": 9805,
+  "links_found": 67,
+  "files_found": 0
+}

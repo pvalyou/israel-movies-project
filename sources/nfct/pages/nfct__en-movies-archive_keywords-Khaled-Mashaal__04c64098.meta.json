@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Khaled+Mashaal",
+  "stable_id": "nfct__en-movies-archive_keywords-Khaled-Mashaal__04c64098",
+  "fetched_at": "2026-05-16T16:34:32+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:34:32Z",
+  "duration_ms": 6857,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:749f574fe6386479818da29223166303ff3fad41d8cf603a2e790a8696a75c81",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

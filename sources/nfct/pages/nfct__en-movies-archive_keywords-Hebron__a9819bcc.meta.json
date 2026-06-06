@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Hebron",
+  "stable_id": "nfct__en-movies-archive_keywords-Hebron__a9819bcc",
+  "fetched_at": "2026-05-16T05:52:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T05:52:50Z",
+  "duration_ms": 8498,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:27eb698d6185192b8ff6ba2e3215db2bfae84ae6ca67b73167adae49a8e342d2",
+  "md_bytes": 11742,
+  "links_found": 72,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=existentialism",
+  "stable_id": "nfct__en-movies-archive_keywords-existentialism__66137f5b",
+  "fetched_at": "2026-05-16T16:06:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:06:23Z",
+  "duration_ms": 7267,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8af2ceec4ca53ac780b31e423bc9ef7c8c00ccf8bb9356f7f4a00199adc033e5",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

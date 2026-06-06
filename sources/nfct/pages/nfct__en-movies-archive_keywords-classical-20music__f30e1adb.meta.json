@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=classical%20music",
+  "stable_id": "nfct__en-movies-archive_keywords-classical-20music__f30e1adb",
+  "fetched_at": "2026-05-16T10:34:31+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T10:34:31Z",
+  "duration_ms": 9860,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:1361c870128bc4a96b9ac77f59b21565ec8f17dd8a52fb1a2d0b7d3715c6caab",
+  "md_bytes": 9807,
+  "links_found": 67,
+  "files_found": 0
+}

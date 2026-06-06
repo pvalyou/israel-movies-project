@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/apart/?lang=en",
+  "stable_id": "makor__films-apart_lang-en__fd2ee44d",
+  "fetched_at": "2026-05-09T13:16:22+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:16:22Z",
+  "duration_ms": 9218,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:4e07d7ed5a92b599e679aa238667e15a92e471446a62a325ab1bf00c758166e7",
+  "md_bytes": 2102,
+  "links_found": 3,
+  "files_found": 0
+}

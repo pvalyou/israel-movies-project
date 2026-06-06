@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/alex-nadia-forever/#UAMainContent",
+  "stable_id": "nfct__en-movies-alex-nadia-forever__840077da",
+  "fetched_at": "2026-05-16T16:13:51+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T16:13:51Z",
+  "duration_ms": 9882,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:13200b0f4f93a7e4e757a33f8fcca222be70bc64f40d056e41f33ef16de10579",
+  "md_bytes": 11645,
+  "links_found": 26,
+  "files_found": 0
+}

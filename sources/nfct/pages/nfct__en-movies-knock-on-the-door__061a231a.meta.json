@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/knock-on-the-door/#UAmlxHHRM2",
+  "stable_id": "nfct__en-movies-knock-on-the-door__061a231a",
+  "fetched_at": "2026-05-16T13:26:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:26:14Z",
+  "duration_ms": 10460,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:3ba58cedf21123c14ca07f0ed5a1ad5d93444419ad82142d7712288e9f2d6144",
+  "md_bytes": 13006,
+  "links_found": 35,
+  "files_found": 0
+}

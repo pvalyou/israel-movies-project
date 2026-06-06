@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=Tel+Aviv",
+  "stable_id": "nfct__en-movies-archive_keywords-Tel-Aviv__ef4d5b43",
+  "fetched_at": "2026-05-16T06:08:23+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T06:08:23Z",
+  "duration_ms": 8276,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:8246d85ca8e47c956b89cf4407affcbf0bbee7a4f7d5dca34d6d0143ea368f2d",
+  "md_bytes": 17169,
+  "links_found": 82,
+  "files_found": 0
+}

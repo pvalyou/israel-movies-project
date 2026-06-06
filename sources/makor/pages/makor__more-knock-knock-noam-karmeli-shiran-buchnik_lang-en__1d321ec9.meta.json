@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/more/knock-knock-noam-karmeli-shiran-buchnik/?lang=en",
+  "stable_id": "makor__more-knock-knock-noam-karmeli-shiran-buchnik_lang-en__1d321ec9",
+  "fetched_at": "2026-05-09T12:13:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T12:13:38Z",
+  "duration_ms": 4204,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:388f3a35fdf8346084c251cad29604deed5beb135be8a5c55ea27e6edfd939f4",
+  "md_bytes": 1608,
+  "links_found": 1,
+  "files_found": 0
+}

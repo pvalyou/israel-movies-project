@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies/like-a-butterfly/",
+  "stable_id": "nfct__en-movies-like-a-butterfly__7828f8c0",
+  "fetched_at": "2026-05-11T12:32:29+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-11T12:32:29Z",
+  "duration_ms": 27561,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:d3526425ef1bb8bf10dc56435376816aa4012022ec241f7857d07555038058ba",
+  "md_bytes": 14500,
+  "links_found": 42,
+  "files_found": 0
+}

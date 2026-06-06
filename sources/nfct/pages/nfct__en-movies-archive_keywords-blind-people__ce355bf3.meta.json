@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=blind+people",
+  "stable_id": "nfct__en-movies-archive_keywords-blind-people__ce355bf3",
+  "fetched_at": "2026-05-16T13:18:25+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T13:18:25Z",
+  "duration_ms": 8960,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:724f30cf6b52238c2608dd0658f045dbb598b50918150c5c1cb7162d4cc3603f",
+  "md_bytes": 10755,
+  "links_found": 69,
+  "files_found": 0
+}

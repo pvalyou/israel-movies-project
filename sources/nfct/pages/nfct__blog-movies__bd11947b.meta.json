@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/הרחבה/",
+  "stable_id": "nfct__blog-movies__bd11947b",
+  "fetched_at": "2026-05-09T19:50:36+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T19:50:36Z",
+  "duration_ms": 44068,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:22f36573328959e4061b072c50e239fa06503eca309c33ee83d58cd92e599c4b",
+  "md_bytes": 19366,
+  "links_found": 43,
+  "files_found": 0
+}

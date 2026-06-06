@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=sexual%20abuse",
+  "stable_id": "nfct__en-movies-archive_keywords-sexual-20abuse__b7b8a53c",
+  "fetched_at": "2026-05-16T04:37:05+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T04:37:05Z",
+  "duration_ms": 8853,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:7b30f1b1236bb2785d9c2012f106800e20182943651d998c619846e99e994150",
+  "md_bytes": 11268,
+  "links_found": 71,
+  "files_found": 0
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/blog/movies/נאות-מדבר/",
+  "stable_id": "nfct__blog-movies__6d3814f4",
+  "fetched_at": "2026-05-15T09:01:44+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-15T09:01:44Z",
+  "duration_ms": 9482,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:197ca2e738bf0841fb668b6112da79c348cb3dc49aad45d05ae2e59f4e202d0c",
+  "md_bytes": 18014,
+  "links_found": 41,
+  "files_found": 0
+}

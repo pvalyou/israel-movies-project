@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=getting+lost",
+  "stable_id": "nfct__en-movies-archive_keywords-getting-lost__810d7f0d",
+  "fetched_at": "2026-05-16T17:44:50+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T17:44:50Z",
+  "duration_ms": 8839,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e81044a30399f44f53d840412cd61a3179d2c1c1ee4625cbd7e4502010528689",
+  "md_bytes": 10605,
+  "links_found": 69,
+  "files_found": 0
+}

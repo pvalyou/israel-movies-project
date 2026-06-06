@@ -1,0 +1,23 @@
+{
+  "url": "https://kerenmakor.org.il/films/אלוף-העולם-שלי/",
+  "stable_id": "makor__films__178df62b",
+  "fetched_at": "2026-05-09T13:05:14+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-09T13:05:14Z",
+  "duration_ms": 14379,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:e8b2427a8b7f917435b52ea8d3dfe181af66dba50e38249d9f81aa470ac4b836",
+  "md_bytes": 3205,
+  "links_found": 4,
+  "files_found": 0
+}

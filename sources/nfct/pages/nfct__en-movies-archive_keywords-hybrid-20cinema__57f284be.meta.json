@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/en/movies-archive?keywords=hybrid%20cinema",
+  "stable_id": "nfct__en-movies-archive_keywords-hybrid-20cinema__57f284be",
+  "fetched_at": "2026-05-16T12:17:46+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-16T12:17:46Z",
+  "duration_ms": 11479,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:aad7745c0b4097ec5b2f2c654dfc5904c4fff7868d63ea75c4050ab6a510371e",
+  "md_bytes": 9803,
+  "links_found": 67,
+  "files_found": 0
+}

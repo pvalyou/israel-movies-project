@@ -1,0 +1,23 @@
+{
+  "url": "https://nfct.org.il/events/event/הקרנת-הדברים-הקטנים-מיכל-אהרונסון-סי-8/",
+  "stable_id": "nfct__events-event------------8__affe6f57",
+  "fetched_at": "2026-05-10T00:10:38+00:00",
+  "scraper_url": "https://crawl4ai-wrapper-559961100092.europe-west1.run.app",
+  "scraper_options": {
+    "format": "markdown",
+    "fit_markdown": false,
+    "ignore_links": false,
+    "include_media": false,
+    "include_links": true
+  },
+  "final_url": null,
+  "cache_hit": false,
+  "cached_at": "2026-05-10T00:10:38Z",
+  "duration_ms": 50092,
+  "status": "ok",
+  "error": null,
+  "md_hash": "sha256:a2c36c6cd8fd6b6d57a27fbf738ec8d49a8550fdc417672bf405972315526c1a",
+  "md_bytes": 13623,
+  "links_found": 28,
+  "files_found": 0
+}
